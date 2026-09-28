@@ -10,8 +10,10 @@ def build_push_payload(title: str, content: str) -> dict:
     desp = content if len(content) <= MAX_DESP else content[:MAX_DESP] + "\n\n...(截断)"
     return {"title": title[:64], "desp": desp}
 
-def _dingtalk(webhook: str, secret: str, title: str, content: str) -> bool:
-    """钉钉自定义机器人 markdown 消息；secret 为加签密钥（可空）。"""
+def _dingtalk(webhook: str, secret: str, title: str, content: str,
+              keyword: str = "") -> bool:
+    """钉钉自定义机器人 markdown 消息；secret 为加签密钥（可空）。
+    keyword：安全设置勾了"自定义关键词"时，消息必须含该词，否则钉钉 40401 拒收。"""
     url = webhook
     if secret:
         ts = str(round(time.time() * 1000))
@@ -20,6 +22,8 @@ def _dingtalk(webhook: str, secret: str, title: str, content: str) -> bool:
             hashlib.sha256).digest()).decode()
         url = f"{webhook}&timestamp={ts}&sign={urllib.parse.quote_plus(sign)}"
     text = content if len(content) <= MAX_MD else content[:MAX_MD] + "\n\n...(截断)"
+    if keyword and keyword not in title and keyword not in text:
+        text = f"【{keyword}】\n\n{text}"
     msg = {"msgtype": "markdown",
            "markdown": {"title": title[:64], "text": f"### {title[:64]}\n\n{text}"}}
     r = requests.post(url, json=msg, timeout=10)
@@ -52,7 +56,8 @@ def notify(title: str, content: str, cfg: dict) -> str:
     if webhook:
         try:
             if _dingtalk(webhook, str(n.get("dingtalk_secret") or "").strip(),
-                         title, content):
+                         title, content,
+                         str(n.get("dingtalk_keyword") or "").strip()):
                 return "dingtalk"
         except Exception:
             pass

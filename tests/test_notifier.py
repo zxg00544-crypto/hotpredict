@@ -67,5 +67,28 @@ class TestNotifier(unittest.TestCase):
         self.assertEqual(m_post.call_count, 2)
 
 
+    @patch("render.notifier.requests.post")
+    def test_dingtalk_keyword_injected_when_missing(self, m):
+        m.return_value = MagicMock(json=lambda: {"errcode": 0, "errmsg": "ok"})
+        notify("⚡突发 X", "正文内容", {"notify": {
+            "dingtalk_webhook": "https://oapi.dingtalk.com/robot/send?access_token=tok",
+            "dingtalk_secret": "SEC1", "dingtalk_keyword": "热点预判"}})
+        text = m.call_args[1]["json"]["markdown"]["text"]
+        self.assertIn("【热点预判】", text)
+        url = m.call_args[0][0]
+        self.assertIn("timestamp=", url)
+        self.assertIn("sign=", url)
+
+    @patch("render.notifier.requests.post")
+    def test_dingtalk_keyword_not_duplicated_when_present(self, m):
+        m.return_value = MagicMock(json=lambda: {"errcode": 0, "errmsg": "ok"})
+        notify("热点预判·晚报", "正文", {"notify": {
+            "dingtalk_webhook": "https://oapi.dingtalk.com/robot/send?access_token=tok",
+            "dingtalk_keyword": "热点预判"}})
+        text = m.call_args[1]["json"]["markdown"]["text"]
+        self.assertEqual(text.count("【热点预判】"), 0)
+        self.assertEqual(text.count("热点预判"), 1)   # 仅标题里 1 次
+
+
 if __name__ == "__main__":
     unittest.main()
