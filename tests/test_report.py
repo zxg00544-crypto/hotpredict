@@ -1,0 +1,43 @@
+# tests/test_report.py
+import unittest
+from render.report import render_daily
+
+def item(rating="A", key="k1", title="AI大模型发布", **kw):
+    base = {"key": key, "title": title, "url": "https://x", "score": 75, "G": 90,
+            "heat": 1000, "reason": "增速G=90", "sources": ["zhihu"],
+            "age_hours": 2, "rating": rating, "track": "AI/科技工具",
+            "hook_reason": "冲突强", "genre_score": 9, "fit_score": 8,
+            "angle": "写给副业者看", "act_now": True, "risk": "低",
+            "model": "deepseek-chat"}
+    base.update(kw); return base
+
+class TestReport(unittest.TestCase):
+    def test_renders_header_and_degradation_note(self):
+        md = render_daily("2026-09-28", [item()], [item(key="k2", rating="B")],
+                          {"llm_model": "deepseek-chat", "llm_fallback_count": 2,
+                           "degraded": True, "sources": ["zhihu", "hn"], "db_path": "热点.db"})
+        self.assertIn("# 热点预判日报 · 2026-09-28", md)
+        self.assertIn("降级", md)
+        self.assertIn("deepseek-chat", md)
+
+    def test_renders_two_buckets(self):
+        md = render_daily("2026-09-28", [item()], [item(key="k2", rating="B", slope=10)],
+                          {"llm_model": "m", "llm_fallback_count": 0, "degraded": False,
+                           "sources": [], "db_path": "热点.db"})
+        self.assertIn("快讯档", md)
+        self.assertIn("趋势推荐", md)
+
+    def test_rating_marks_a_with_now_tag(self):
+        md = render_daily("2026-09-28", [item(rating="A")], [],
+                          {"llm_model": "m", "llm_fallback_count": 0, "degraded": False,
+                           "sources": [], "db_path": "热点.db"})
+        self.assertIn("**A**", md)
+        self.assertIn("立即行动", md)
+
+    def test_empty_buckets_state_it(self):
+        md = render_daily("2026-09-28", [], [], {"llm_model": "m", "llm_fallback_count": 0,
+                          "degraded": False, "sources": [], "db_path": "热点.db"})
+        self.assertIn("今日暂无热点", md)
+
+if __name__ == "__main__":
+    unittest.main()
