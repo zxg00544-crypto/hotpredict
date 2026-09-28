@@ -1,4 +1,4 @@
-# run_once.ps1 —— 计划任务入口：跑一轮，追加日志，按退出码退出
+﻿# run_once.ps1 —— 计划任务入口：跑一轮，追加日志，按退出码退出
 $ErrorActionPreference = "Continue"
 Set-Location -LiteralPath $PSScriptRoot
 $log = Join-Path $PSScriptRoot "logs\round.log"
