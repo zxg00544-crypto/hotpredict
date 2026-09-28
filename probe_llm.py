@@ -1,5 +1,5 @@
 """LLM 探针与 OpenAI 兼容调用。key 只在内存里，不写日志不落盘。"""
-import json, sys, requests
+import json, os, sys, requests
 import yaml
 
 def load_cfg(path="config.yaml"):
@@ -7,14 +7,24 @@ def load_cfg(path="config.yaml"):
         return yaml.safe_load(f)
 
 def load_llm_cfg(cfg: dict) -> dict:
-    with open(cfg["llm"]["config_path"], encoding="utf-8") as f:
-        prov = json.load(f)["provider"][cfg["llm"]["provider"]]
-    return {"base_url": prov["options"]["baseURL"].rstrip("/"),
-            "api_key": prov["options"]["apiKey"],
-            "model": cfg["llm"]["model"],
-            "fallback_models": cfg["llm"].get("fallback_models") or [],
-            "timeout_topic": cfg["llm"].get("timeout_topic", 15),
-            "retries": cfg["llm"].get("retries", 2)}
+    l = cfg["llm"]
+    path = l.get("config_path")
+    if path and os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            prov = json.load(f)["provider"][l["provider"]]
+        base_url = prov["options"]["baseURL"].rstrip("/")
+        api_key = prov["options"]["apiKey"]
+    elif l.get("api_key"):
+        base_url = (l.get("base_url") or "https://api.deepseek.com").rstrip("/")
+        api_key = l["api_key"]
+    else:
+        raise ValueError("llm.api_key missing and config_path not found")
+    return {"base_url": base_url,
+            "api_key": api_key,
+            "model": l["model"],
+            "fallback_models": l.get("fallback_models") or [],
+            "timeout_topic": l.get("timeout_topic", 15),
+            "retries": l.get("retries", 2)}
 
 def pick_model(llm: dict) -> list:
     return [llm["model"]] + list(llm.get("fallback_models") or [])

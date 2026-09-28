@@ -22,5 +22,21 @@ class TestLLMClient(unittest.TestCase):
         self.assertEqual(json.loads(raw)["rating"], "A")
 
 
+class TestApiKeyFallback(unittest.TestCase):
+    def test_api_key_when_config_path_missing(self):
+        cfg = load_llm_cfg({"llm": {
+            "config_path": r"C:\nonexistent\opencode.json",
+            "provider": "deepseek", "model": "deepseek-chat",
+            "api_key": "sk-test-123", "base_url": "https://api.deepseek.com"}})
+        self.assertEqual(cfg["api_key"], "sk-test-123")
+        self.assertEqual(cfg["base_url"], "https://api.deepseek.com")
+        self.assertEqual(cfg["model"], "deepseek-chat")
+
+    def test_raises_when_no_path_and_no_key(self):
+        with self.assertRaises(ValueError):
+            load_llm_cfg({"llm": {"config_path": r"C:\nonexistent\opencode.json",
+                                  "provider": "deepseek", "model": "m"}})
+
+
 if __name__ == "__main__":
     unittest.main()
