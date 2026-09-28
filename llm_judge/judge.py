@@ -1,4 +1,4 @@
-"""LLM 评级 + 资格校验 + 失败降级。调用走 probe_llm.llm_client_call，禁止另写 HTTP。"""
+﻿"""LLM 评级 + 资格校验 + 失败降级。调用走 probe_llm.llm_client_call，禁止另写 HTTP。"""
 import json, re
 from probe_llm import llm_client_call
 from llm_judge.prompt import build_messages
@@ -33,5 +33,8 @@ def judge_topic(pack: dict, cfg: dict):
     obj = parse_rating(res.get("content"))
     if obj is None:
         return None
+    valid_tracks = set((cfg.get("tracks") or {}).keys()) | {"其他"}
+    if obj.get("track") not in valid_tracks:
+        obj.pop("track", None)
     obj["model"] = res.get("model", "")
     return obj

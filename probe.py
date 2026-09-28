@@ -1,4 +1,4 @@
-"""六源连通性探针：逐源请求一次并解析，打印 PASS/FAIL/NEED_COOKIE。"""
+﻿"""八源连通性探针：逐源请求一次并解析，打印 PASS/FAIL/NEED_COOKIE。"""
 import re, sys, requests
 from collectors.base import Signal, topic_key
 
@@ -64,8 +64,30 @@ def probe_github(cfg):
     n = sum(1 for b in blocks if pat.search(b))
     return {"status": "PASS" if n >= 5 else "FAIL", "n": n, "sample": "github trending html"}
 
+def probe_finance_sina(cfg):
+    r = requests.get("https://zhibo.sina.com.cn/api/zhibo/feed?page=1&page_size=10&zhibo_id=152",
+                     headers=UA, timeout=10)
+    feed = (((r.json().get("result") or {}).get("data") or {}).get("feed") or {}).get("list") or []
+    return {"status": "PASS" if feed else "FAIL", "n": len(feed),
+            "sample": (feed[0].get("rich_text", "")[:40] if feed else "")}
+
+def probe_weibo_v(cfg):
+    cookie = str(cfg.get("weibo_cookie") or "").strip()
+    if not cookie:
+        return {"status": "NEED_COOKIE", "n": 0, "sample": ""}
+    vvs = cfg.get("weibo_v_vvs") or []
+    if not vvs:
+        return {"status": "FAIL", "n": 0, "sample": "weibo_v_vvs empty"}
+    uid = int(vvs[0]["uid"])
+    h = dict(UA); h["Cookie"] = cookie
+    r = requests.get(f"https://m.weibo.cn/api/container/getIndex?type=uid&value={uid}&containerid=107603{uid}",
+                     headers=h, timeout=10)
+    n = sum(1 for c in (r.json().get("data") or {}).get("cards", [])
+            if c.get("card_type") == 9)
+    return {"status": "PASS" if n else "FAIL", "n": n,
+            "sample": str(vvs[0].get("name", "")) + " timeline"}
 PROBES = {"zhihu": probe_zhihu, "bilibili": probe_bilibili, "weibo": probe_weibo,
-          "hn": probe_hn, "reddit": probe_reddit, "github": probe_github}
+          "hn": probe_hn, "reddit": probe_reddit, "github": probe_github, "finance_sina": probe_finance_sina, "weibo_v": probe_weibo_v}
 
 def probe_all(cfg: dict) -> dict:
     out = {}
@@ -81,7 +103,7 @@ def probe_all(cfg: dict) -> dict:
     return out
 
 def build_payload_md(res: dict) -> str:
-    lines = ["# 六源连通性探针报告", ""]
+    lines = ["# 八源连通性探针报告", ""]
     for k, v in res.items():
         lines.append(f"| {k} | {v['status']} | n={v['n']} | {str(v.get('sample',''))[:60]} |")
     ok = sum(1 for v in res.values() if v["status"] == "PASS")

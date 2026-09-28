@@ -1,14 +1,17 @@
-"""日报 Markdown。排序：快讯档 act_now -> rating -> score；趋势档 slope -> score。"""
+﻿"""日报 Markdown。排序：快讯档 act_now -> rating -> score；趋势档 slope -> score。"""
 from datetime import datetime
 
 RATING_ORDER = {"A": 0, "B": 1, "C": 2}
 
+def _esc(s) -> str:
+    return str(s or "").replace("|", "\\|").replace("\n", " ")
+
 def _row(i: int, t: dict) -> str:
     now = " ｜立即行动" if t.get("act_now") else ""
-    hook = (t.get("hook_reason") or "").replace("\n", " ")
-    return (f"| {i} | **{t.get('rating','?')}** | {t.get('title','')[:40]} | "
+    hook = _esc(t.get("hook_reason"))
+    return (f"| {i} | **{t.get('rating','?')}** | {_esc(t.get('title',''))[:40]} | "
             f"{t.get('score',0)} | {t.get('G',0)} | {t.get('track','其他')} | "
-            f"{hook}{now} | {t.get('url','')} |")
+            f"{hook}{now} | {_esc(t.get('url',''))} |")
 
 HEADER = ("| # | 评级 | 话题 | 分 | 增速G | 赛道 | 钩子/理由 | 链接 |\n"
           "|---|------|------|----|-------|------|-----------|------|")

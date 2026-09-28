@@ -20,6 +20,24 @@ class TestJudge(unittest.TestCase):
                                     {"AI/科技工具": ["AI", "Agent"]}), "AI/科技工具")
         self.assertEqual(pick_track("无关标题", {"AI/科技工具": ["AI"]}), "其他")
 
+    @patch("llm_judge.judge.llm_client_call")
+    def test_track_not_in_whitelist_is_dropped(self, mock_call):
+        mock_call.return_value = {"content": json.dumps(
+            {"rating": "B", "track": "0.0", "hook_reason": "x",
+             "genre_score": 7, "fit_score": 6}), "model": "m"}
+        cfg = {"tracks": {"财经": ["股市"], "科技": ["AI"]}}
+        obj = judge_topic(build_pack(TOPIC, "快讯档"), cfg)
+        self.assertNotIn("track", obj)
+
+    @patch("llm_judge.judge.llm_client_call")
+    def test_track_in_whitelist_kept(self, mock_call):
+        mock_call.return_value = {"content": json.dumps(
+            {"rating": "B", "track": "财经", "hook_reason": "x",
+             "genre_score": 7, "fit_score": 6}), "model": "m"}
+        cfg = {"tracks": {"财经": ["股市"], "科技": ["AI"]}}
+        obj = judge_topic(build_pack(TOPIC, "快讯档"), cfg)
+        self.assertEqual(obj["track"], "财经")
+
     def test_build_messages_asks_for_json_schema(self):
         msgs = build_messages(build_pack(TOPIC, "快讯档"))
         joined = msgs[0]["content"]
