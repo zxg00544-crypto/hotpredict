@@ -9,10 +9,12 @@ class TestMain(unittest.TestCase):
         for k in ["platforms", "llm", "notify", "weights", "thresholds", "score_params"]:
             self.assertIn(k, cfg)
 
+    @patch("main._now_hour", return_value=21)
     @patch("main.notify", return_value="skipped")
     @patch("main.judge_topic")
     @patch("main.get_collectors", return_value=[])
-    def test_run_round_dry_produces_report_and_board(self, m_col, m_judge, m_notify):
+    def test_run_round_dry_produces_report_and_board(self, m_col, m_judge, m_notify,
+                                                     m_hour):
         m_judge.return_value = {"rating": "A", "track": "AI/科技工具", "hook_reason": "r",
                                 "genre_score": 9, "fit_score": 8, "angle": "角度",
                                 "act_now": True, "risk": "低", "model": "mock"}

@@ -1,4 +1,4 @@
-"""复合评分：G增速0.35 / E热度0.25 / A作者0.15 / R共振0.15 / K位次0.10。阈值全在 config。"""
+"""复合评分：G增速0.35 / E热度0.25 / A作者0.15 / R共振0.15 / K位次0.10 + 速度奖励。阈值全在 config。"""
 from collections import defaultdict
 
 def aggregate_topics(signals) -> list[dict]:
@@ -45,6 +45,11 @@ def composite(topic: dict, hist: list, cfg: dict) -> dict:
     K = rank_score
     score = (w["growth"] * G + w["engagement"] * E + w["author"] * A +
              w["resonance"] * R + w["rank"] * K)
+    # 速度奖励：位次跃迁直接加分（爆款突发提速），封顶防刷
+    speed = (min(max(topic.get("rank_delta", 0), 0), p.get("speed_cap_ranks", 20))
+             * p.get("speed_bonus_per_rank", 0.5))
+    score += speed
     return {"score": round(min(100.0, score), 2),
             "G": round(G, 2), "E": round(E, 2), "A": round(A, 2),
-            "R": round(R, 2), "K": round(K, 2)}
+            "R": round(R, 2), "K": round(K, 2),
+            "speed": round(speed, 2)}

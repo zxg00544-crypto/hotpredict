@@ -10,9 +10,10 @@ def _rows(items: list) -> str:
         badge = ("<span class='a'>A</span>" if r == "A" else
                  "<span class='b'>B</span>" if r == "B" else "<span class='c'>C</span>")
         now = "<span class='now'>立即行动</span>" if t.get("act_now") else ""
+        brk = "<span class='brk'>⚡突发</span>" if t.get("breaking") else ""
         out.append(
             f"<tr><td>{badge}</td>"
-            f"<td><a href='{H.escape(str(t.get('url','')))}' target='_blank'>"
+            f"<td>{brk}<a href='{H.escape(str(t.get('url','')))}' target='_blank'>"
             f"{H.escape(str(t.get('title','')))}</a>{now}</td>"
             f"<td>{t.get('score',0)}</td><td>{t.get('G',0)}</td>"
             f"<td>{t.get('slope','-')}</td>"
@@ -40,6 +41,7 @@ th{{background:#1f2540}} a{{color:#8fe3ff;text-decoration:none}}
 .b{{background:#8a6d1a;color:#fff;padding:1px 7px;border-radius:9px;font-weight:700}}
 .c{{background:#4a4f6a;color:#ddd;padding:1px 7px;border-radius:9px}}
 .now{{background:#c9372c;color:#fff;padding:1px 6px;border-radius:6px;margin-left:6px;font-size:12px}}
+.brk{{background:#e74c3c;color:#fff;padding:1px 6px;border-radius:6px;margin-right:6px;font-size:12px;font-weight:700}}
 .warn{{background:#5a2b00;border:1px solid #d8892a;padding:9px 13px;border-radius:7px;margin:14px 0}}
 .empty{{color:#7b81a0;text-align:center}} .meta{{color:#9aa0c0;font-size:13px}}
 </style></head><body>

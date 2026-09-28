@@ -7,7 +7,8 @@ CFG = {"weights": {"growth": 0.35, "engagement": 0.25, "author": 0.15,
                    "resonance": 0.15, "rank": 0.10},
        "score_params": {"growth_scale": 200, "new_topic_rank_delta_per_10": 60,
                         "resonance_map": {1: 0, 2: 40, 3: 70, 4: 100},
-                        "rank_bonus_on_rise": 15}}
+                        "rank_bonus_on_rise": 15,
+                        "speed_bonus_per_rank": 0.5, "speed_cap_ranks": 20}}
 
 def sg(key, src, eng, rank=1, aw=0.5, ts="2026-09-28T10:00:00", heat=100.0, delta=0):
     return Signal(topic_key=key, source=src, title=key, url="u", heat=heat,
@@ -49,6 +50,25 @@ class TestScore(unittest.TestCase):
         r = composite(t[0], hist, CFG)
         self.assertLessEqual(r["score"], 100)
         self.assertGreater(r["score"], 60)
+
+class TestSpeedBonus(unittest.TestCase):
+    def _base(self, delta):
+        t = aggregate_topics([sg("k", "zhihu", 100, delta=delta)])
+        hist = [{"fetched_at": "a", "engagement": 100, "heat": 100, "rank": 5},
+                {"fetched_at": "b", "engagement": 100, "heat": 100, "rank": 5}]
+        return composite(t[0], hist, CFG)
+
+    def test_speed_zero_without_delta(self):
+        self.assertEqual(self._base(0)["speed"], 0.0)
+
+    def test_speed_scales_with_rank_jump(self):
+        self.assertEqual(self._base(10)["speed"], 5.0)   # 10位 × 0.5
+
+    def test_speed_capped_at_20_ranks(self):
+        self.assertEqual(self._base(100)["speed"], 10.0) # 封顶 20×0.5
+
+    def test_speed_raises_total_score(self):
+        self.assertGreater(self._base(10)["score"], self._base(0)["score"])
 
 if __name__ == "__main__":
     unittest.main()

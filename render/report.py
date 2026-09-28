@@ -9,7 +9,8 @@ def _esc(s) -> str:
 def _row(i: int, t: dict) -> str:
     now = " ｜立即行动" if t.get("act_now") else ""
     hook = _esc(t.get("hook_reason"))
-    return (f"| {i} | **{t.get('rating','?')}** | {_esc(t.get('title',''))[:40]} | "
+    brk = "⚡" if t.get("breaking") else ""
+    return (f"| {i} | **{t.get('rating','?')}** | {brk}{_esc(t.get('title',''))[:40]} | "
             f"{t.get('score',0)} | {t.get('G',0)} | {t.get('track','其他')} | "
             f"{hook}{now} | {_esc(t.get('url',''))} |")
 
@@ -19,7 +20,8 @@ HEADER = ("| # | 评级 | 话题 | 分 | 增速G | 赛道 | 钩子/理由 | 链�
 def _fast_section(fast: list) -> str:
     if not fast:
         return "### 快讯档（1-6小时内）\n\n今日暂无热点进入快讯档。\n"
-    rows = sorted(fast, key=lambda t: (not t.get("act_now", False),
+    rows = sorted(fast, key=lambda t: (not t.get("breaking", False),
+                                       not t.get("act_now", False),
                                        RATING_ORDER.get(t.get("rating"), 9),
                                        -t.get("score", 0)))
     lines = ["### 快讯档（1-6小时内）", "", HEADER]

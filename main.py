@@ -15,6 +15,9 @@ from render.push_policy import load_state, save_state, plan_push
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
+def _now_hour() -> int:
+    return datetime.datetime.now().hour
+
 def load_cfg(path=None) -> dict:
     with open(path or os.path.join(ROOT, "config.yaml"), encoding="utf-8") as f:
         return yaml.safe_load(f)
@@ -121,7 +124,11 @@ def run_round(cfg: dict) -> dict:
     st = load_state(state_path)
     pushes = [{"kind": k, "result": notify(t, c, cfg)}
               for k, t, c in plan_push(st, date_str, fast, trend,
-                                       degraded, failed, board_path)]
+                                       degraded, failed, board_path,
+                                       hour=_now_hour(),
+                                       breaking_cap=cfg.get("thresholds", {})
+                                       .get("fast", {}).get("breaking", {})
+                                       .get("max_push_per_day", 6))]
     save_state(state_path, st)
     conn.close()
     return {"status": "ok", "date": date_str, "report_path": report_path,
