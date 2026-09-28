@@ -86,6 +86,7 @@ def run_round(cfg: dict) -> dict:
         t["url"] = t["signals"][0].url if t["signals"] else ""
         t["tracks"] = cfg.get("tracks", {})
         t["is_new"] = t["age_hours"] <= cfg["thresholds"]["fast"]["max_age_h"]
+        t["track"] = pick_track(t.get("title", ""), cfg.get("tracks", {}))
         t.update(composite(t, t["hist"], cfg))
 
     fast = pick_fast(topics, cfg)
