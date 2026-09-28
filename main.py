@@ -11,6 +11,7 @@ from llm_judge.judge import judge_topic
 from render.report import render_daily
 from render.board import render_board
 from render.notifier import notify
+from render.push_policy import load_state, save_state, plan_push
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
@@ -115,13 +116,17 @@ def run_round(cfg: dict) -> dict:
     with open(board_path, "w", encoding="utf-8") as f:
         f.write(board)
 
-    head = f"快讯 {len(fast)} 条 · 趋势 {len(trend)} 条" + (" · LLM降级" if degraded else "")
-    push = notify(f"热点预判 {date_str}：{head}", md, cfg)
+    state_path = os.path.join(out_dir, "states", "push_state.json")
+    st = load_state(state_path)
+    pushes = [{"kind": k, "result": notify(t, c, cfg)}
+              for k, t, c in plan_push(st, date_str, fast, trend,
+                                       degraded, failed, board_path)]
+    save_state(state_path, st)
     conn.close()
     return {"status": "ok", "date": date_str, "report_path": report_path,
             "board_path": board_path, "fast": len(fast), "trend": len(trend),
             "signals": len(signals), "failed_sources": failed,
-            "degraded": degraded, "push": push}
+            "degraded": degraded, "push": pushes}
 
 def main():
     ap = argparse.ArgumentParser(description="热点预测调度流水线")

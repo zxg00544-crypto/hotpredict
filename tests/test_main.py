@@ -1,4 +1,4 @@
-# tests/test_main.py
+﻿# tests/test_main.py
 import unittest, tempfile, os
 from unittest.mock import patch
 from main import run_round, load_cfg
@@ -29,7 +29,9 @@ class TestMain(unittest.TestCase):
             self.assertEqual(res["status"], "ok")
             self.assertTrue(os.path.exists(res["report_path"]))
             self.assertTrue(os.path.exists(res["board_path"]))
-            self.assertEqual(m_notify.call_count, 1)
+            # use_llm=False -> degraded: daily + alert = 2 calls
+            self.assertEqual(m_notify.call_count, 2)
+            self.assertEqual([p["kind"] for p in res["push"]], ["daily", "alert"])
 
     @patch("main.notify", return_value="skipped")
     @patch("main.judge_topic")
