@@ -40,3 +40,10 @@ def history(conn, key: str, hours: int = 168) -> list:
         "WHERE topic_key=? AND fetched_at>=? GROUP BY fetched_at ORDER BY fetched_at",
         (key, cutoff)).fetchall()
     return [dict(r) for r in rows]
+
+def prune(conn, days: int = 8) -> int:
+    """保留最近 N 天（趋势档 168h + 安全边际），防 DB 无界增长。设计 8.2。"""
+    cutoff = (datetime.datetime.now() - datetime.timedelta(days=days)).isoformat()
+    cur = conn.execute("DELETE FROM signals WHERE fetched_at < ?", (cutoff,))
+    conn.commit()
+    return cur.rowcount

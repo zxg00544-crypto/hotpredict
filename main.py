@@ -2,7 +2,7 @@
 多轮同库同 topic 靠 db UNIQUE(topic_key,source,fetched_at) 去重，斜率读历史窗口。"""
 import argparse, datetime, json, os, time, yaml
 from collections import defaultdict
-from db import init_db, save_signals, history
+from db import init_db, save_signals, history, prune
 from collectors.registry import get_collectors
 from scoring.score import aggregate_topics, composite
 from scoring.buckets import pick_fast, pick_trend
@@ -80,6 +80,7 @@ def run_round(cfg: dict) -> dict:
             save_signals(conn, got)
         except Exception as e:
             failed.append(f"{mod.__module__}: {type(e).__name__}")
+    prune(conn)
     sources = sorted({s.source for s in signals})
 
     topics = aggregate_topics(signals) if signals else []

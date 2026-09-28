@@ -1,6 +1,6 @@
 # tests/test_db.py
 import unittest, tempfile, os, datetime
-from db import init_db, save_signals, history
+from db import init_db, save_signals, history, prune
 from collectors.base import Signal
 
 def mk(key="ai模型", src="zhihu", eng=100.0, ts="2026-09-28T10:00:00"):
@@ -35,6 +35,26 @@ class TestDB(unittest.TestCase):
         save_signals(self.conn, [mk(ts=ts)])
         self.assertEqual(len(history(self.conn, "ai模型", hours=6)), 1)
         self.assertEqual(history(self.conn, "ai模型", hours=0), [])
+
+class TestPrune(unittest.TestCase):
+    def setUp(self):
+        self.path = tempfile.mktemp(suffix=".db")
+        self.conn = init_db(self.path)
+
+    def tearDown(self):
+        self.conn.close(); os.unlink(self.path)
+
+    def test_prune_drops_older_than_8d_keeps_recent(self):
+        old_ts = (datetime.datetime.now() - datetime.timedelta(days=9)).isoformat()
+        new_ts = (datetime.datetime.now() - datetime.timedelta(hours=1)).isoformat()
+        save_signals(self.conn, [mk(ts=old_ts), mk(src="weibo", ts=new_ts)])
+        self.assertEqual(prune(self.conn, days=8), 1)
+        left = self.conn.execute("select count(*) from signals").fetchone()[0]
+        self.assertEqual(left, 1)
+
+    def test_prune_noop_when_all_recent(self):
+        save_signals(self.conn, [mk(ts=datetime.datetime.now().isoformat())])
+        self.assertEqual(prune(self.conn, days=8), 0)
 
 if __name__ == "__main__":
     unittest.main()
