@@ -1,4 +1,4 @@
-import unittest, tempfile, os, json
+﻿import unittest, tempfile, os, json
 from render.push_policy import plan_push, load_state, save_state
 
 
@@ -62,15 +62,26 @@ class TestPushPolicy(unittest.TestCase):
             self.assertEqual(load_state(p)["date"], "2026-09-28")
             self.assertEqual(load_state(os.path.join(d, "none.json")), {})
 
-    def test_daily_digest_has_top_a_and_board(self):
+    def test_daily_digest_a_first_then_fill(self):
         st = {}
         msgs = plan_push(st, "2026-09-28", [T("a1", "A"), T("b1", "B")],
                          [], False, [], "D:\\b.html")
         daily = [m for m in msgs if m[0] == "daily"][0]
-        self.assertIn("前3条A级", daily[2])
-        self.assertIn("a1", daily[2])
+        self.assertIn("A级优先", daily[2])
+        self.assertIn("1. [A] a1", daily[2])
+        self.assertIn("b1", daily[2])
         self.assertIn("D:\\b.html", daily[2])
-        self.assertNotIn("b1", daily[2])
+
+    def test_daily_digest_no_a_still_lists_top3(self):
+        st = {}
+        msgs = plan_push(st, "2026-09-28",
+                         [T(f"b{i}", "B") for i in range(1, 5)],
+                         [], False, [], "D:\\b.html")
+        daily = [m for m in msgs if m[0] == "daily"][0]
+        self.assertIn("暂无A级", daily[2])
+        self.assertIn("[B] b1", daily[2])
+        self.assertIn("b3", daily[2])
+        self.assertNotIn("b4", daily[2])
 
 
 if __name__ == "__main__":

@@ -1,4 +1,4 @@
-"""推送策略（设计 5.2 / L290-292，免费档 5 条/天上限）：
+﻿"""推送策略（设计 5.2 / L290-292，免费档 5 条/天上限）：
 1) 日报：当天首跑推摘要（前3条A级+看板路径），1 条/天
 2) A级快讯：新出现 rating=A 的话题合并单推，<=2 条/天
 3) 降级/异常：告警 1 条/天
@@ -24,14 +24,16 @@ def save_state(path: str, state: dict) -> None:
 
 def _daily_digest(date_str, fast, trend, board_path):
     lines = [f"快讯 {len(fast)} 条 · 趋势 {len(trend)} 条"]
-    top = [t for t in fast if t.get("rating") == "A"][:3]
-    if top:
-        lines.append("前3条A级：")
-        for i, t in enumerate(top, 1):
-            reason = (t.get("angle") or t.get("hook_reason") or "").strip()
-            lines.append(f"{i}. {t.get('title', '')} —— {reason[:60]}")
+    a = [t for t in fast if t.get("rating") == "A"]
+    rest = [t for t in fast if t.get("rating") != "A"]
+    top = (a + rest)[:3]
+    if not a:
+        lines.append("今日暂无A级，前3条高分快讯：")
     else:
-        lines.append("今日暂无A级。")
+        lines.append("前3条（A级优先）：")
+    for i, t in enumerate(top, 1):
+        reason = (t.get("angle") or t.get("hook_reason") or "").strip()
+        lines.append(f"{i}. [{t.get('rating') or '-'}] {t.get('title', '')} —— {reason[:60]}")
     lines.append(f"看板：{board_path}")
     return "\n".join(lines)
 
