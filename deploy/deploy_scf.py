@@ -11,6 +11,8 @@ BUCKET = "hotpredict-1409272468"   # 部署迭代：cos-python-sdk-v5 建桶须 
 FN = "hotpredict-round"
 NS = "default"
 ROLE = "hotpredict-cos-role"
+SCF_ROLE = "SCF_QcsRole"           # SCF 首次 onboarding 的配置角色；本账号需自建
+SCF_ROLE_POLICY = "QcloudAccessForScfRole"   # FAQ 明示：承担 COS 触发器配置写入 + 代码包读取
 RUNTIME = "Python3.11"          # 迭代点1
 MEM, TIMEOUT = 512, 300
 DEPS = ["requests", "pyyaml", "cos-python-sdk-v5"]
@@ -68,7 +70,8 @@ def put_config():
 
 
 def _find_policy_id(cam, name):
-    """ListPolicies 默认按 AddTime 倒序（本地策略靠前）；分页查找已存在策略的 ID。"""
+    """ListPolicies 默认按 AddTime 倒序（本地策略靠前）；分页查找已存在策略的 ID。
+    返回 int（uint64）——AttachRolePolicy.PolicyId 传字符串会报类型错误。"""
     from tencentcloud.cam.v20190116 import models as cam_models
     page = 1
     while page <= 6:
@@ -79,11 +82,63 @@ def _find_policy_id(cam, name):
         resp = cam.ListPolicies(req)
         for p in (resp.List or []):
             if p.PolicyName == name:
-                return p.PolicyId
+                return int(p.PolicyId)
         if (page * 200) >= (resp.TotalNum or 0):
             break
         page += 1
     raise RuntimeError("policy %s not found after pagination" % name)
+
+
+def ensure_scf_role():
+    """SCF 首次 onboarding 未完成时，账号内无 SCF_QcsRole，CreateFunction 必报
+    roleArn error / ResourceNotFound.Role（与 Role 传名还是 ARN、信任主体是否正确无关）。
+    本函数幂等：角色存在则跳过，不存在则用 scf.qcloud.com 信任主体建；随后确保
+    QcloudAccessForScfRole 预设策略已挂载（承担 COS 触发器配置写入 + 代码包读取）。"""
+    from tencentcloud.cam.v20190116 import cam_client, models as cam_models
+    cam = cam_client.CamClient(_cred(), REGION)
+    trust = {"version": "2.0", "statement": [
+        {"action": ["name/sts:AssumeRole"], "effect": "allow",
+         "principal": {"service": ["scf.qcloud.com"]}}]}
+
+    exists = True
+    try:
+        g = cam_models.GetRoleRequest()
+        g.RoleName = SCF_ROLE                      # 迭代点：CAM GetRoleRequest 字段是 RoleName
+        cam.GetRole(g)
+        print("scf role exists", SCF_ROLE)
+    except Exception as e:
+        exists = False
+        print("scf role missing -> create:", str(e)[:120])
+    if not exists:
+        r = cam_models.CreateRoleRequest()
+        r.RoleName = SCF_ROLE
+        r.PolicyDocument = json.dumps(trust)       # SDK 字段是 PolicyDocument（非 AssumeRolePolicyDocument）
+        r.Description = "SCF default configuration role."
+        try:
+            cam.CreateRole(r)
+            print("scf role created", SCF_ROLE)
+        except Exception as e:
+            print("scf role create noop:", str(e)[:120])
+
+    # 挂 QcloudAccessForScfRole：GetPolicy 只接受 PolicyId（按名查会报 MissingParameter PolicyId），
+    # 因此用 ListPolicies 分页按名找到 ID；PolicyId 必须传 int。
+    policy_id = _find_policy_id(cam, SCF_ROLE_POLICY)
+    ap = cam_models.AttachRolePolicyRequest()
+    ap.AttachRoleName = SCF_ROLE
+    ap.PolicyId = policy_id                        # int（uint64）
+    try:
+        cam.AttachRolePolicy(ap)                   # 幂等：重复挂载返回 OK
+        print("scf role policy attached:", SCF_ROLE_POLICY, policy_id)
+    except Exception as e:
+        print("scf role policy attach noop:", str(e)[:120])
+
+    lp = cam_models.ListAttachedRolePoliciesRequest()
+    lp.RoleName = SCF_ROLE
+    lp.Page = 1
+    lp.Rp = 200
+    attached = [p.PolicyName for p in (cam.ListAttachedRolePolicies(lp).List or [])]
+    print("scf role attached policies:", attached)
+    return SCF_ROLE
 
 
 def make_role():
@@ -117,7 +172,7 @@ def make_role():
         policy_id = _find_policy_id(cam, "hotpredict-cos-policy")
     ap = cam_models.AttachRolePolicyRequest()
     ap.AttachRoleName = ROLE
-    ap.PolicyId = policy_id
+    ap.PolicyId = policy_id                  # int（uint64）；字符串会报"取值类型错误"
     cam.AttachRolePolicy(ap)
     print("policy attached (bucket scope only)")
     g = cam_models.GetRoleRequest()
@@ -144,6 +199,44 @@ def make_fn(arn):
         var.Key = k
         var.Value = v
         env.Variables.append(var)
+    # 幂等重入：函数已存在且健康 → 原地更新代码 + 环境；CreateFailed → 删除重建
+    existing = None
+    try:
+        g = scf_models.GetFunctionRequest()
+        g.Namespace = NS
+        g.FunctionName = FN
+        existing = scf.GetFunction(g)
+    except Exception:
+        existing = None
+    if existing is not None and existing.Status == "CreateFailed":
+        print("function in CreateFailed -> delete and recreate:", FN)
+        try:
+            d = scf_models.DeleteFunctionRequest()
+            d.Namespace = NS
+            d.FunctionName = FN
+            scf.DeleteFunction(d)
+        except Exception as e:
+            print("delete failed:", str(e)[:160])
+        existing = None
+    if existing is not None:
+        try:
+            u = scf_models.UpdateFunctionCodeRequest()
+            u.Namespace = NS
+            u.FunctionName = FN
+            u.Code = code
+            scf.UpdateFunctionCode(u)
+            c = scf_models.UpdateFunctionConfigurationRequest()
+            c.Namespace = NS
+            c.FunctionName = FN
+            c.Role = ROLE
+            c.Environment = env
+            c.MemorySize = MEM
+            c.Timeout = TIMEOUT
+            scf.UpdateFunctionConfiguration(c)
+            print("function exists -> code+config updated", FN, "status=", existing.Status)
+        except Exception as e:
+            print("function update noop:", str(e)[:200])
+        return scf
     try:
         r = scf_models.CreateFunctionRequest()
         r.Namespace = NS
@@ -152,19 +245,27 @@ def make_fn(arn):
         r.Handler = "scf_handler.handler"
         r.MemorySize = MEM
         r.Timeout = TIMEOUT
-        r.Role = arn                      # 迭代点2
+        r.Role = ROLE                     # 迭代点2：Role 传纯角色名（ARN 变体报 InvalidParameter roleArn error）
         r.Environment = env
         r.Code = code
+        # AutoCreateClsTopic 必须传字符串 "FALSE"：本账号 CLS（日志服务）未注册，
+        # 默认自动建 CLS 主题会让函数落 CreateFailed（StatusReasons=OperationDenied.AccountNotExists CLS）。
+        r.AutoCreateClsTopic = "FALSE"
+        # 不设 Cpu：本 SDK 序列化后 API 报"未定义参数 Pu"
         scf.CreateFunction(r)
         print("function created", FN)
     except Exception as e:
-        print("create failed -> update code:", str(e)[:200])
-        u = scf_models.UpdateFunctionCodeRequest()
-        u.Namespace = NS
-        u.FunctionName = FN
-        u.Code = code
-        scf.UpdateFunctionCode(u)
-        print("function code updated", FN)
+        msg = str(e)
+        if "already exists" in msg or "FunctionNameInUse" in msg:
+            print("function exists or noop:", msg[:200])
+        else:
+            print("create failed -> update code:", msg[:200])
+            u = scf_models.UpdateFunctionCodeRequest()
+            u.Namespace = NS
+            u.FunctionName = FN
+            u.Code = code
+            scf.UpdateFunctionCode(u)
+            print("function code updated", FN)
     return scf
 
 
@@ -176,29 +277,51 @@ def make_trigger(scf):
         t.FunctionName = FN
         t.TriggerName = "every5min"
         t.Type = "timer"
-        t.TriggerDesc = json.dumps({"cron": "0 */5 * * * *", "enable": True})
+        # 实测：TriggerDesc 必须是裸 7 段 cron 字符串（JSON 对象形式报 "cron is invalid"）。
+        # 7 段 = 秒 分 时 日 月 周 年，"0 */5 * * * * *" = 每 5 分钟第 0 秒。
+        t.TriggerDesc = "0 */5 * * * * *"
         scf.CreateTrigger(t)
         print("trigger created every5min")
     except Exception as e:
-        print("trigger exists or noop:", str(e)[:160])
+        msg = str(e)
+        if "已经存在" in msg or "already exist" in msg:
+            print("trigger exists or noop:", msg[:160])
+        else:
+            print("trigger failed:", msg[:240])
 
 
 def make_alarm(scf):
-    """免费邮件错误告警；monitor API 形状不确定 → 失败即打印控制台手动步骤（设计 8.3 兜底）。"""
+    """免费邮件错误告警（指标=错误次数>0）。实测 API 形状：
+    CreateAlarmPolicy.Condition 是**对象**（非字符串、非 Conditions）；
+    MonitorType=MT_QCE；Namespace 用告警视图名 scf_alias；MetricName 是数字 ID
+    （scf_alias 视图下 13007=错误次数）；ProjectId=0。失败则打印控制台手动步骤（设计 8.3 兜底）。"""
     try:
         from tencentcloud.monitor.v20180724 import monitor_client, models as mon_models
         mon = monitor_client.MonitorClient(_cred(), REGION)
+        # 幂等：已存在同名策略则跳过
+        lp = mon_models.DescribeAlarmPoliciesRequest()
+        lp.Module = "monitor"
+        lp.PageNumber = 1
+        lp.PageSize = 50
+        existing = [p for p in (mon.DescribeAlarmPolicies(lp).Policies or [])
+                    if p.PolicyName == "hotpredict-round-error"]
+        if existing:
+            print("alarm policy exists:", existing[0].PolicyId)
+            return
         a = mon_models.CreateAlarmPolicyRequest()
-        a.Name = "hotpredict-round-error"
-        a.Namespace = "QCS_SCF"
-        a.MetricName = "InvokeFail"
-        a["Conditions"] = [{"MetricName": "InvokeFail",
-                            "Rule": [{"ComparisonOperator": "gt",
-                                      "Value": "0", "Count": 1}]}]
-        mon.CreateAlarmPolicy(a)
-        print("alarm policy created")
+        a.Module = "monitor"
+        a.PolicyName = "hotpredict-round-error"
+        a.MonitorType = "MT_QCE"
+        a.Namespace = "scf_alias"
+        a.Enable = 1
+        a.ProjectId = 0
+        a.Condition = {"IsUnionRule": 0, "Rules": [{
+            "MetricName": "13007", "Operator": "gt", "Value": "0",
+            "Period": 300, "ContinuePeriod": 1}]}
+        r = mon.CreateAlarmPolicy(a)
+        print("alarm policy created", r.PolicyId)
     except Exception as e:
-        print("alarm API failed (%s) -> 手动控制台步骤：" % str(e)[:120])
+        print("alarm API failed (%s) -> 手动控制台步骤：" % str(e)[:160])
         print("  云监控 → 告警配置 → 新建告警策略 → 维度=云函数 SCF/"
               "hotpredict-round → 指标=调用失败次数>0 → 接收渠道=邮件")
 
@@ -209,9 +332,11 @@ def verify(scf):
     r.Namespace = NS
     r.FunctionName = FN
     r.InvocationType = "RequestResponse"
-    r.Event = "{}"
+    r.ClientContext = json.dumps({})   # InvokeRequest 无 Event 字段；事件体走 ClientContext（裸 JSON 字符串）
+    r.LogType = "Tail"
     resp = scf.Invoke(r)
-    print("invoke ret:", str(resp.RetMsg)[:600])
+    res = json.loads(resp.to_json_string()).get("Result", {})
+    print("invoke RetMsg:", str(res.get("RetMsg"))[:800])
 
 
 def main():
@@ -224,6 +349,7 @@ def main():
     package()
     make_bucket()
     put_config()
+    ensure_scf_role()
     arn = make_role()
     scf = make_fn(arn)
     make_trigger(scf)
