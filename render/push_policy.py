@@ -18,11 +18,24 @@ def load_state(path: str) -> dict:
 
 
 def save_state(path: str, state: dict) -> None:
+    """原子写：同目录临时文件写全 → os.replace 覆盖。
+    序列化/写入失败：删除临时文件、原文件逐字节保持原样、异常上抛（不吞）。
+    先序列化再落盘，避免异常在 open(path,'w') 截断原文件后才发生。"""
     d = os.path.dirname(path)
     if d:
         os.makedirs(d, exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(state, f, ensure_ascii=False, indent=1)
+    blob = json.dumps(state, ensure_ascii=False, indent=1)
+    tmp = "%s.tmp.%d" % (path, os.getpid())
+    try:
+        with open(tmp, "w", encoding="utf-8") as f:
+            f.write(blob)
+        os.replace(tmp, path)
+    except BaseException:
+        try:
+            os.remove(tmp)
+        except OSError:
+            pass
+        raise
 
 
 def _daily_digest(date_str, fast, trend, board_path, a_seen):
@@ -98,8 +111,11 @@ def plan_push(state, date_str, fast, trend, degraded, failed, board_path,
                      "hook_reason": t.get("hook_reason"), "url": t.get("url"),
                      "track": t.get("track"), "breaking": t.get("breaking", False)}
         if k not in pushed and k not in {p.get("key") for p in pending}:
-            item = dict(t)
-            item["batch_window"] = None if hour is None else hour // 4
+            item = {"key": k, "title": t.get("title"), "rating": "A",
+                    "score": t.get("score", 0), "angle": t.get("angle"),
+                    "hook_reason": t.get("hook_reason"), "url": t.get("url"),
+                    "track": t.get("track"), "breaking": t.get("breaking", False),
+                    "batch_window": None if hour is None else hour // 4}
             pending.append(item)
     state["a_pending"] = [p for p in pending if p.get("key") not in pushed]
 
