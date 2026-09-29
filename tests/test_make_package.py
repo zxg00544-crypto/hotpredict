@@ -183,12 +183,15 @@ class TestSecretScan(unittest.TestCase):
                          os.path.exists(os.path.join(ROOT, "secrets_tencent.json")),
                          "真实配置文件不存在")
     def test_real_sources_not_leaked_into_templates(self):
-        real_api = yaml.safe_load(open(os.path.join(ROOT, "config.yaml"), encoding="utf-8"))["llm"]["api_key"]
-        real_sid = json.load(open(os.path.join(ROOT, "secrets_tencent.json"), encoding="utf-8"))["SecretId"]
+        with open(os.path.join(ROOT, "config.yaml"), encoding="utf-8") as _f:
+            real_api = yaml.safe_load(_f)["llm"]["api_key"]
+        with open(os.path.join(ROOT, "secrets_tencent.json"), encoding="utf-8") as _f:
+            real_sid = json.load(_f)["SecretId"]
         with tempfile.TemporaryDirectory() as td:
             mp.make_templates(td)
-            tpl = (open(os.path.join(td, "config.example.yaml"), encoding="utf-8").read() +
-                   open(os.path.join(td, "secrets_tencent.example.json"), encoding="utf-8").read())
+            with open(os.path.join(td, "config.example.yaml"), encoding="utf-8") as _f1, \
+                    open(os.path.join(td, "secrets_tencent.example.json"), encoding="utf-8") as _f2:
+                tpl = _f1.read() + _f2.read()
         self.assertNotIn(real_api, tpl, "real llm.api_key leaked into template")
         self.assertNotIn(real_sid, tpl, "real SecretId leaked into template")
 
@@ -196,12 +199,14 @@ class TestSecretScan(unittest.TestCase):
                          "真实配置文件不存在")
     def test_real_multiline_cookie_no_fragment_in_template(self):
         """真实多行 weibo_cookie 经脱敏后，任一 token 片段都不得出现在模板里。"""
-        real_cookie = yaml.safe_load(open(os.path.join(ROOT, "config.yaml"), encoding="utf-8"))["weibo_cookie"]
+        with open(os.path.join(ROOT, "config.yaml"), encoding="utf-8") as _f:
+            real_cookie = yaml.safe_load(_f)["weibo_cookie"]
         frags = mp._secret_fragments([real_cookie])
         self.assertTrue(frags, "真实 cookie 应能拆出可扫描片段")
         with tempfile.TemporaryDirectory() as td:
             mp.make_templates(td)
-            tpl = open(os.path.join(td, "config.example.yaml"), encoding="utf-8").read()
+            with open(os.path.join(td, "config.example.yaml"), encoding="utf-8") as _f:
+                tpl = _f.read()
         for frag in frags:
             self.assertNotIn(frag, tpl, "cookie 片段泄漏进模板")
 

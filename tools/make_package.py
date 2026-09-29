@@ -145,21 +145,25 @@ def _iter_files(version: str):
 
 
 def make_templates(dst: str) -> None:
-    cfg = open(os.path.join(ROOT, "config.yaml"), encoding="utf-8").read()
+    with open(os.path.join(ROOT, "config.yaml"), encoding="utf-8") as _f:
+        cfg = _f.read()
     with open(os.path.join(dst, "config.example.yaml"), "w", encoding="utf-8", newline="\n") as fh:
         fh.write(sanitize_yaml(cfg))
-    sec = open(os.path.join(ROOT, "secrets_tencent.json"), encoding="utf-8").read()
+    with open(os.path.join(ROOT, "secrets_tencent.json"), encoding="utf-8") as _f:
+        sec = _f.read()
     with open(os.path.join(dst, "secrets_tencent.example.json"), "w", encoding="utf-8", newline="\n") as fh:
         fh.write(sanitize_secrets_json(sec))
 
 
 def real_secret_values() -> list:
-    cfg = yaml.safe_load(open(os.path.join(ROOT, "config.yaml"), encoding="utf-8"))
+    with open(os.path.join(ROOT, "config.yaml"), encoding="utf-8") as _f:
+        cfg = yaml.safe_load(_f)
     vals = [cfg.get("weibo_cookie"), (cfg.get("llm") or {}).get("api_key")]
     notify = cfg.get("notify") or {}
     for k in ("serverchan_sendkey", "dingtalk_webhook", "dingtalk_secret", "dingtalk_keyword"):
         vals.append(notify.get(k))
-    sec = json.load(open(os.path.join(ROOT, "secrets_tencent.json"), encoding="utf-8"))
+    with open(os.path.join(ROOT, "secrets_tencent.json"), encoding="utf-8") as _f:
+        sec = json.load(_f)
     vals.extend([sec.get("SecretId"), sec.get("SecretKey")])
     return [str(v) for v in vals if v and len(str(v)) >= 8]
 
@@ -199,7 +203,8 @@ def secret_scan(staged_root: str, real_values=None) -> list:
             full = os.path.join(dp, fn)
             rel = os.path.relpath(full, staged_root).replace("\\", "/")
             try:
-                body = open(full, "r", encoding="utf-8", errors="ignore").read()
+                with open(full, "r", encoding="utf-8", errors="ignore") as _f:
+                    body = _f.read()
             except OSError:
                 continue
             for val in frags:
