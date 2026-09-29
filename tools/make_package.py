@@ -36,7 +36,7 @@ DIRS_LOCAL = ["日报", "看板", "states"]
 DIRS_CLOUD = ["deploy"]
 FILES_COMMON = [
     "main.py", "db.py", "scf_handler.py", "probe.py", "probe_llm.py",
-    "install_schedule.ps1", "run_once.ps1", ".gitignore",
+    ".gitignore",
     "requirements.txt", "修订交接文档.md",
 ]
 EXCLUDE_NAMES = {"__pycache__", "build", "fn.zip"}
@@ -85,6 +85,8 @@ def _iter_files(version: str):
                 yield (rel + "/" + fn).replace("//", "/")
     if version == "local":
         yield "热点.db"
+        yield "install_schedule.ps1"
+        yield "run_once.ps1"
 
 
 def make_templates(dst: str) -> None:

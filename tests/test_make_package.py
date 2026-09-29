@@ -64,6 +64,8 @@ class TestFileList(unittest.TestCase):
         self.assertIn("deploy/deploy_scf.py", rels)
         self.assertIn("README-云端版.md", rels)
         self.assertNotIn("热点.db", rels)
+        self.assertNotIn("install_schedule.ps1", rels)
+        self.assertNotIn("run_once.ps1", rels)
         self.assertFalse(any(r.startswith("日报/") for r in rels))
         self.assertFalse(any(r.startswith("states/") for r in rels))
 
