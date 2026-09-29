@@ -36,12 +36,12 @@ def sync_down(client, tmp=None):
     tmp = tmp or TMP
     cfg_local = os.path.join(tmp, "config", "config.yaml")
     os.makedirs(os.path.dirname(cfg_local), exist_ok=True)
-    client.get_object_to_file(Bucket=_bucket(), Key="config/config.yaml",
-                              DestPath=cfg_local)      # 缺失抛错 → SCF 报错可见
+    client.download_file(Bucket=_bucket(), Key="config/config.yaml",
+                              DestFilePath=cfg_local)      # 缺失抛错 → SCF 报错可见
     db_key = "data/热点.db"
     if _exists(client, db_key):
-        client.get_object_to_file(Bucket=_bucket(), Key=db_key,
-                                  DestPath=os.path.join(tmp, "热点.db"))
+        client.download_file(Bucket=_bucket(), Key=db_key,
+                             DestFilePath=os.path.join(tmp, "热点.db"))
     resp = client.list_objects(Bucket=_bucket(), Prefix="data/states/")
     for obj in resp.get("Contents") or []:
         key = obj["Key"]
@@ -50,7 +50,7 @@ def sync_down(client, tmp=None):
             continue
         dst = os.path.join(tmp, "states", name)
         os.makedirs(os.path.dirname(dst), exist_ok=True)
-        client.get_object_to_file(Bucket=_bucket(), Key=key, DestPath=dst)
+        client.download_file(Bucket=_bucket(), Key=key, DestFilePath=dst)
     return cfg_local
 
 
@@ -60,13 +60,13 @@ def sync_up(client, tmp=None):
     for sub in ("states", "日报", "看板"):
         for path in sorted(glob.glob(os.path.join(tmp, sub, "*"))):
             if os.path.isfile(path):
-                client.put_object_from_file(
+                client.put_object_from_local_file(
                     Bucket=_bucket(),
                     Key="data/%s/%s" % (sub, os.path.basename(path)),
                     LocalFilePath=path)
     dbp = os.path.join(tmp, "热点.db")
     if os.path.exists(dbp):
-        client.put_object_from_file(Bucket=_bucket(), Key="data/热点.db",
+        client.put_object_from_local_file(Bucket=_bucket(), Key="data/热点.db",
                                     LocalFilePath=dbp)
 
 
@@ -76,8 +76,8 @@ def acquire_lock(client, ttl=None, tmp=None):
     tmp = tmp or TMP
     lock_local = os.path.join(tmp, ".lock")
     try:
-        client.get_object_to_file(Bucket=_bucket(), Key="data/.lock",
-                                  DestPath=lock_local)
+        client.download_file(Bucket=_bucket(), Key="data/.lock",
+                                  DestFilePath=lock_local)
         with open(lock_local, encoding="utf-8") as f:
             taken = float(json.load(f).get("taken_at", 0))
         if time.time() - taken < ttl:
@@ -87,7 +87,7 @@ def acquire_lock(client, ttl=None, tmp=None):
     os.makedirs(tmp, exist_ok=True)
     with open(lock_local, "w", encoding="utf-8") as f:
         json.dump({"taken_at": time.time()}, f)
-    client.put_object_from_file(Bucket=_bucket(), Key="data/.lock",
+    client.put_object_from_local_file(Bucket=_bucket(), Key="data/.lock",
                                 LocalFilePath=lock_local)
     return True
 

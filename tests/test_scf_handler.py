@@ -14,14 +14,14 @@ class FakeClient:
             raise RuntimeError("404")
         return {}
 
-    def get_object_to_file(self, Bucket, Key, DestPath):
+    def download_file(self, Bucket, Key, DestFilePath):
         if Key not in self.objects:
             raise RuntimeError("404")
-        os.makedirs(os.path.dirname(DestPath), exist_ok=True)
-        with open(DestPath, "w", encoding="utf-8") as f:
+        os.makedirs(os.path.dirname(DestFilePath), exist_ok=True)
+        with open(DestFilePath, "w", encoding="utf-8") as f:
             f.write(self.objects[Key])
 
-    def put_object_from_file(self, Bucket, Key, LocalFilePath):
+    def put_object_from_local_file(self, Bucket, Key, LocalFilePath):
         with open(LocalFilePath, encoding="utf-8") as f:
             self.objects[Key] = f.read()
         self.put_order.append(Key)

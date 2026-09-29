@@ -71,22 +71,35 @@ def put_config():
 
 def _find_policy_id(cam, name):
     """ListPolicies 默认按 AddTime 倒序（本地策略靠前）；分页查找已存在策略的 ID。
-    返回 int（uint64）——AttachRolePolicy.PolicyId 传字符串会报类型错误。"""
+    返回 int（uint64）——AttachRolePolicy.PolicyId 传字符串会报类型错误。
+    终止条件：返回条数 < PageSize（最后一页），或 IsTruncated 显式为 false；
+    不设固定页数上限，账号策略增长后仍能查到（超长轮询加安全上限防死循环）。"""
     from tencentcloud.cam.v20190116 import models as cam_models
+    page_size = 200
     page = 1
-    while page <= 6:
+    while True:
         req = cam_models.ListPoliciesRequest()
         req.Scope = "All"
         req.Page = page
-        req.Rp = 200
+        req.Rp = page_size
         resp = cam.ListPolicies(req)
-        for p in (resp.List or []):
+        items = resp.List or []
+        for p in items:
             if p.PolicyName == name:
                 return int(p.PolicyId)
-        if (page * 200) >= (resp.TotalNum or 0):
+        if not items:
+            break
+        truncated = getattr(resp, "IsTruncated", None)
+        if truncated is False:
+            break
+        if len(items) < page_size:      # 已是最后一页
+            break
+        if page_size * page >= (resp.TotalNum or 0):   # 兜底：按总数判定
+            break
+        if page >= 100:                 # 安全上限：100*200=20000 条，防异常响应死循环
             break
         page += 1
-    raise RuntimeError("policy %s not found after pagination" % name)
+    raise RuntimeError("policy %s not found after full pagination" % name)
 
 
 def ensure_scf_role():
@@ -256,16 +269,12 @@ def make_fn(arn):
         print("function created", FN)
     except Exception as e:
         msg = str(e)
-        if "already exists" in msg or "FunctionNameInUse" in msg:
+        # 仅当错误确属"函数已存在"（并发/上次残留）才当成功；其余真实创建失败原样抛出，
+        # 不得盲调 UpdateFunctionCode 把失败伪装成成功（review-4 D2）。
+        if "already exists" in msg or "FunctionNameInUse" in msg or "名称已存在" in msg:
             print("function exists or noop:", msg[:200])
         else:
-            print("create failed -> update code:", msg[:200])
-            u = scf_models.UpdateFunctionCodeRequest()
-            u.Namespace = NS
-            u.FunctionName = FN
-            u.Code = code
-            scf.UpdateFunctionCode(u)
-            print("function code updated", FN)
+            raise
     return scf
 
 
@@ -282,12 +291,14 @@ def make_trigger(scf):
         t.TriggerDesc = "0 */5 * * * * *"
         scf.CreateTrigger(t)
         print("trigger created every5min")
+        return True
     except Exception as e:
         msg = str(e)
         if "已经存在" in msg or "already exist" in msg:
             print("trigger exists or noop:", msg[:160])
-        else:
-            print("trigger failed:", msg[:240])
+            return True
+        print("trigger failed:", msg[:240])
+        return False
 
 
 def make_alarm(scf):
@@ -307,7 +318,7 @@ def make_alarm(scf):
                     if p.PolicyName == "hotpredict-round-error"]
         if existing:
             print("alarm policy exists:", existing[0].PolicyId)
-            return
+            return True
         a = mon_models.CreateAlarmPolicyRequest()
         a.Module = "monitor"
         a.PolicyName = "hotpredict-round-error"
@@ -320,10 +331,12 @@ def make_alarm(scf):
             "Period": 300, "ContinuePeriod": 1}]}
         r = mon.CreateAlarmPolicy(a)
         print("alarm policy created", r.PolicyId)
+        return True
     except Exception as e:
         print("alarm API failed (%s) -> 手动控制台步骤：" % str(e)[:160])
         print("  云监控 → 告警配置 → 新建告警策略 → 维度=云函数 SCF/"
               "hotpredict-round → 指标=调用失败次数>0 → 接收渠道=邮件")
+        return False
 
 
 def verify(scf):
@@ -352,8 +365,16 @@ def main():
     ensure_scf_role()
     arn = make_role()
     scf = make_fn(arn)
-    make_trigger(scf)
-    make_alarm(scf)
+    trig_ok = make_trigger(scf)
+    alarm_ok = make_alarm(scf)
+    if not (trig_ok and alarm_ok):
+        missing = []
+        if not trig_ok:
+            missing.append("触发器 every5min")
+        if not alarm_ok:
+            missing.append("告警策略 hotpredict-round-error")
+        sys.stderr.write("deploy FAILED: 交付物缺失 -> %s\n" % "、".join(missing))
+        sys.exit(1)
     print("deploy done -> 运行: python deploy/deploy_scf.py verify")
 
 
