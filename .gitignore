@@ -5,3 +5,5 @@ __pycache__/
 *.pyc
 states/
 secrets_tencent.json
+
+打包/

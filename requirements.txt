@@ -1,0 +1,4 @@
+requests==2.34.2
+PyYAML==6.0.3
+tencentcloud-sdk-python==3.1.182
+cos-python-sdk-v5==1.9.44
