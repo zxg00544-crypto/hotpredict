@@ -37,6 +37,21 @@ class TestSanitizeYaml(unittest.TestCase):
         self.assertNotIn("FAKEKEY123456", out)
         self.assertEqual(yaml.safe_load(out)["llm"]["provider"], "deepseek")
 
+    def test_multiline_scalar_continuation_dropped(self):
+        """多行 YAML 标量：键行替换后，缩进续行必须一并丢弃。"""
+        text = ("weibo_cookie: SUB=_2FAKEfirst\n"
+                "  SUBP=0033FAKEsecond\n"
+                "  ALF=1234567890; SSOLoginState=1234567890; WBPSESS=FAKEthird==\n"
+                "llm:\n"
+                "  provider: deepseek\n")
+        out = mp.sanitize_yaml(text)
+        for frag in ("SUB=_2FAKEfirst", "SUBP=0033FAKEsecond", "ALF=1234567890",
+                     "SSOLoginState=1234567890", "WBPSESS=FAKEthird=="):
+            self.assertNotIn(frag, out, "片段泄漏: %s" % frag)
+        self.assertIn("weibo_cookie: <填写:微博cookie>", out)
+        self.assertIn("  provider: deepseek", out)
+        self.assertEqual(yaml.safe_load(out)["llm"]["provider"], "deepseek")
+
 
 class TestSanitizeSecretsJson(unittest.TestCase):
     def test_json_replaced_and_valid(self):
@@ -82,6 +97,20 @@ class TestFileList(unittest.TestCase):
             self.assertIn("requirements.txt", rels, version)
 
 
+class TestSecretFragments(unittest.TestCase):
+    def test_cookie_split_into_pairs(self):
+        cookie = "SUB=0123456789abcdef; SUBP=0033WrSXpairs; ALF=1234567890; WBPSESS=TOKENVALUEHERE=="
+        frags = mp._secret_fragments([cookie])
+        self.assertIn("SUBP=0033WrSXpairs", frags)
+        self.assertIn("WBPSESS=TOKENVALUEHERE==", frags)
+        self.assertIn("ALF=1234567890", frags)
+        self.assertNotIn("1793169190", frags)  # 纯数字子串不单独成片段，防误报
+
+    def test_short_values_ignored(self):
+        frags = mp._secret_fragments(["short", "1234567890ab"])
+        self.assertEqual(frags, ["1234567890ab"])
+
+
 class TestSecretScan(unittest.TestCase):
     def test_hit_detected_and_clean_passes(self):
         with tempfile.TemporaryDirectory() as td:
@@ -96,6 +125,17 @@ class TestSecretScan(unittest.TestCase):
             self.assertIn("a.txt", hits[0])
             self.assertNotIn("SUPERSECRETVALUE123456", hits[0])
 
+    def test_single_cookie_pair_detected(self):
+        """文件只含真实 cookie 的单个子对（如 SUBP=...）→ 必须命中。"""
+        cookie = "SUB=0123456789abcdef; SUBP=0033WrSXqPxfM725Wspair; ALF=1234567890"
+        with tempfile.TemporaryDirectory() as td:
+            f = os.path.join(td, "cfg.txt")
+            with open(f, "w", encoding="utf-8") as fh:
+                fh.write("weibo_cookie: SUBP=0033WrSXqPxfM725Wspair\n")
+            hits = mp.secret_scan(td, real_values=[cookie])
+            self.assertEqual(len(hits), 1)
+            self.assertIn("cfg.txt", hits[0])
+
     @unittest.skipUnless(os.path.exists(os.path.join(ROOT, "config.yaml")) and
                          os.path.exists(os.path.join(ROOT, "secrets_tencent.json")),
                          "真实配置文件不存在")
@@ -108,6 +148,19 @@ class TestSecretScan(unittest.TestCase):
                    open(os.path.join(td, "secrets_tencent.example.json"), encoding="utf-8").read())
         self.assertNotIn(real_api, tpl, "real llm.api_key leaked into template")
         self.assertNotIn(real_sid, tpl, "real SecretId leaked into template")
+
+    @unittest.skipUnless(os.path.exists(os.path.join(ROOT, "config.yaml")),
+                         "真实配置文件不存在")
+    def test_real_multiline_cookie_no_fragment_in_template(self):
+        """真实多行 weibo_cookie 经脱敏后，任一 token 片段都不得出现在模板里。"""
+        real_cookie = yaml.safe_load(open(os.path.join(ROOT, "config.yaml"), encoding="utf-8"))["weibo_cookie"]
+        frags = mp._secret_fragments([real_cookie])
+        self.assertTrue(frags, "真实 cookie 应能拆出可扫描片段")
+        with tempfile.TemporaryDirectory() as td:
+            mp.make_templates(td)
+            tpl = open(os.path.join(td, "config.example.yaml"), encoding="utf-8").read()
+        for frag in frags:
+            self.assertNotIn(frag, tpl, "cookie 片段泄漏进模板")
 
 
 if __name__ == "__main__":

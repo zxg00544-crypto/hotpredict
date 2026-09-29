@@ -43,18 +43,64 @@ EXCLUDE_NAMES = {"__pycache__", "build", "fn.zip"}
 EXCLUDE_FILES = {"config.yaml", "secrets_tencent.json"}
 
 
+def _secret_key_line_spans(text: str) -> list:
+    """返回需替换的密钥键所在【行块】span 列表（start, end_exclusive）。
+
+    行块 = 键行 + 其后所有属于同一多行标量的缩进续行。判定续行用 YAML 规范：
+    plain scalar 续行必须比键行缩进更深；当键行值为空（`key:` 或 `key: |` 块标量）
+    时，紧随的更深缩进行全部属于该键。用键行缩进做下界，避免吞掉同级/更浅的下一键。
+    """
+    lines = text.splitlines()
+    n = len(lines)
+    spans = []
+    i = 0
+    while i < n:
+        line = lines[i]
+        if line.strip():
+            stripped = line.lstrip()
+            indent = len(line) - len(stripped)
+            if ":" in stripped:
+                key, _, _val = stripped.partition(":")
+                key = key.strip().strip("\"'")
+                if key in CONFIG_SECRET_KEYS:
+                    j = i + 1
+                    while j < n:
+                        nl = lines[j]
+                        if not nl:
+                            break
+                        nl_stripped = nl.lstrip()
+                        nl_indent = len(nl) - len(nl_stripped)
+                        if nl_indent <= indent:
+                            break
+                        j += 1
+                    spans.append((i, j))
+                    i = j
+                    continue
+        i += 1
+    return spans
+
+
 def sanitize_yaml(text: str) -> str:
+    """脱敏 YAML。密钥键整行块替换（含其后缩进续行，防多行标量把值透传）。
+
+    注：不使用 yaml.safe_load→dump 方案（会丢注释/改格式，见 design）。
+    """
+    lines = text.splitlines()
+    spans = dict(_secret_key_line_spans(text))
     out = []
-    for line in text.splitlines():
-        stripped = line.lstrip()
-        indent = line[: len(line) - len(stripped)]
-        if ":" in stripped:
-            key, _, _val = stripped.partition(":")
-            key = key.strip().strip("\"'")
-            if key in CONFIG_SECRET_KEYS:
-                out.append("%s%s: <填写:%s>" % (indent, key, CONFIG_SECRET_KEYS[key]))
-                continue
-        out.append(line)
+    i = 0
+    n = len(lines)
+    while i < n:
+        if i in spans:
+            line = lines[i]
+            stripped = line.lstrip()
+            indent = line[: len(line) - len(stripped)]
+            key = stripped.partition(":")[0].strip().strip("\"'")
+            out.append("%s%s: <填写:%s>" % (indent, key, CONFIG_SECRET_KEYS[key]))
+            i = spans[i]
+            continue
+        out.append(lines[i])
+        i += 1
     return "\n".join(out) + ("\n" if text.endswith("\n") else "")
 
 
@@ -109,9 +155,35 @@ def real_secret_values() -> list:
     return [str(v) for v in vals if v and len(str(v)) >= 8]
 
 
+def _secret_fragments(real_values) -> list:
+    """把每个真实值拆成可扫描片段：cookie 按 ';' 切成 键=值 对，只留长度≥12 的对。
+
+    纯数字对（如 ALF=1234567890）不拆——保留整只 键=值 对做扫描，避免 '1793169190'
+    这类公共时间戳子串误报。整值本身也作为片段保留（对单行值仍生效）。
+    """
+    frags = []
+    seen = set()
+
+    def add(s):
+        if s and len(s) >= 12 and s not in seen:
+            seen.add(s)
+            frags.append(s)
+
+    for val in real_values:
+        v = str(val)
+        add(v)
+        if ";" in v:
+            for part in v.split(";"):
+                p = part.strip()
+                if p:
+                    add(p)
+    return frags
+
+
 def secret_scan(staged_root: str, real_values=None) -> list:
     if real_values is None:
         real_values = real_secret_values()
+    frags = _secret_fragments(real_values)
     hits = []
     for dp, dns, fns in os.walk(staged_root):
         for fn in fns:
@@ -121,14 +193,14 @@ def secret_scan(staged_root: str, real_values=None) -> list:
                 body = open(full, "r", encoding="utf-8", errors="ignore").read()
             except OSError:
                 continue
-            for val in real_values:
+            for val in frags:
                 if val in body:
                     hits.append(rel)
                     break
     return hits
 
 
-def build(version: str, date: str) -> str:
+def build(version: str, date: str) -> dict:
     label = "本地版" if version == "local" else "云端版"
     zip_path = os.path.join(OUT_DIR, "热点预判-%s-%s.zip" % (label, date))
     stage = tempfile.mkdtemp(prefix="hotpredict_pkg_")
@@ -153,19 +225,24 @@ def build(version: str, date: str) -> str:
                     full = os.path.join(dp, fn)
                     arc = "热点预判/" + os.path.relpath(full, staged_root).replace("\\", "/")
                     z.write(full, arc)
-        return zip_path
+        return {"path": zip_path, "hits": len(hits)}
     finally:
         shutil.rmtree(stage, ignore_errors=True)
 
 
 def main() -> None:
     date = sys.argv[1] if len(sys.argv) > 1 else datetime.date.today().strftime("%Y%m%d")
+    total_hits = 0
     for version in ("local", "cloud"):
-        path = build(version, date)
-        with zipfile.ZipFile(path) as z:
+        result = build(version, date)
+        total_hits += result["hits"]
+        with zipfile.ZipFile(result["path"]) as z:
             n = len(z.namelist())
-        print("created %s (%d files, %.1f KB)" % (path, n, os.path.getsize(path) / 1024))
-    print("secret scan: clean (0 hits, values never printed)")
+        print("created %s (%d files, %.1f KB)" % (result["path"], n, os.path.getsize(result["path"]) / 1024))
+    if total_hits == 0:
+        print("secret scan: clean (0 hits, values never printed)")
+    else:
+        print("secret scan: %d hits (values never printed)" % total_hits)
 
 
 if __name__ == "__main__":
