@@ -53,6 +53,49 @@ class TestSanitizeYaml(unittest.TestCase):
         self.assertEqual(yaml.safe_load(out)["llm"]["provider"], "deepseek")
 
 
+class TestMachinePathPlaceholder(unittest.TestCase):
+    def test_config_path_placeholder_no_real_path(self):
+        """机路径键 config_path 独立走占位，不含实路径/无 C:\\Users 前缀。"""
+        text = ("llm:\n"
+                "  config_path: C:\\Users\\Admin\\.config\\opencode\\opencode.json\n"
+                "  provider: deepseek\n")
+        out = mp.sanitize_yaml(text)
+        self.assertIn("  config_path: <填写:", out)
+        self.assertNotIn("C:\\Users", out)
+        self.assertNotIn("opencode.json", out)
+        self.assertIn("  provider: deepseek", out)
+        self.assertEqual(yaml.safe_load(out)["llm"]["provider"], "deepseek")
+
+    def test_config_path_multiline_continuation_dropped(self):
+        """config_path 亦走行块替换：缩进续行（含路径）一并丢弃。"""
+        text = ("llm:\n"
+                "  config_path: C:\\Users\\Admin\\opencode.json\n"
+                "    fallback: C:\\Users\\Admin\\secret-path.json\n"
+                "  provider: deepseek\n")
+        out = mp.sanitize_yaml(text)
+        self.assertNotIn("C:\\Users", out)
+        self.assertNotIn("secret-path.json", out)
+        self.assertIn("  config_path: <填写:", out)
+        self.assertIn("  provider: deepseek", out)
+
+    def test_machine_path_key_not_in_secret_keys(self):
+        """机路径键独立于 6 密钥键集合，不冒充密钥键。"""
+        self.assertNotIn("config_path", mp.CONFIG_SECRET_KEYS)
+        self.assertIn("config_path", mp.MACHINE_PATH_KEYS)
+
+    @unittest.skipUnless(os.path.exists(os.path.join(ROOT, "config.yaml")),
+                         "真实配置文件不存在")
+    def test_real_config_path_not_leaked_into_template(self):
+        """真实 config.yaml 生成的模板：config_path 已占位、无实路径字面量。"""
+        with tempfile.TemporaryDirectory() as td:
+            mp.make_templates(td)
+            with open(os.path.join(td, "config.example.yaml"), encoding="utf-8") as fh:
+                tpl = fh.read()
+        self.assertIn("config_path: <填写:", tpl)
+        self.assertNotIn("opencode.json", tpl)
+        self.assertNotIn("C:\\Users", tpl)
+
+
 class TestSanitizeSecretsJson(unittest.TestCase):
     def test_json_replaced_and_valid(self):
         text = json.dumps({"SecretId": "AKIDFAKE000111222", "SecretKey": "FAKESECRET000999"})

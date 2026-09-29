@@ -31,6 +31,12 @@ SECRETS_JSON_KEYS = {
     "SecretKey": "腾讯云SecretKey",
 }
 
+# 机路径占位：非密钥，但会暴露本机目录结构（换机后需改）。独立于 CONFIG_SECRET_KEYS，
+# 走同一【行块】替换逻辑，避免多行值透传的同类缺陷复现。
+MACHINE_PATH_KEYS = {
+    "config_path": "本机opencode配置路径(仅本地取key用,新机器请改)",
+}
+
 DIRS_COMMON = ["collectors", "scoring", "llm_judge", "render", "tests", "docs"]
 DIRS_LOCAL = ["日报", "看板", "states"]
 DIRS_CLOUD = ["deploy"]
@@ -44,8 +50,9 @@ EXCLUDE_FILES = {"config.yaml", "secrets_tencent.json"}
 
 
 def _secret_key_line_spans(text: str) -> list:
-    """返回需替换的密钥键所在【行块】span 列表（start, end_exclusive）。
+    """返回需替换的键所在【行块】span 列表（start, end_exclusive）。
 
+    覆盖 6 密钥键 + 机路径键（MACHINE_PATH_KEYS）。
     行块 = 键行 + 其后所有属于同一多行标量的缩进续行。判定续行用 YAML 规范：
     plain scalar 续行必须比键行缩进更深；当键行值为空（`key:` 或 `key: |` 块标量）
     时，紧随的更深缩进行全部属于该键。用键行缩进做下界，避免吞掉同级/更浅的下一键。
@@ -62,7 +69,7 @@ def _secret_key_line_spans(text: str) -> list:
             if ":" in stripped:
                 key, _, _val = stripped.partition(":")
                 key = key.strip().strip("\"'")
-                if key in CONFIG_SECRET_KEYS:
+                if key in CONFIG_SECRET_KEYS or key in MACHINE_PATH_KEYS:
                     j = i + 1
                     while j < n:
                         nl = lines[j]
@@ -81,12 +88,14 @@ def _secret_key_line_spans(text: str) -> list:
 
 
 def sanitize_yaml(text: str) -> str:
-    """脱敏 YAML。密钥键整行块替换（含其后缩进续行，防多行标量把值透传）。
+    """脱敏 YAML。密钥键/机路径键整行块替换（含其后缩进续行，防多行标量把值透传）。
 
     注：不使用 yaml.safe_load→dump 方案（会丢注释/改格式，见 design）。
     """
     lines = text.splitlines()
     spans = dict(_secret_key_line_spans(text))
+    labels = dict(CONFIG_SECRET_KEYS)
+    labels.update(MACHINE_PATH_KEYS)
     out = []
     i = 0
     n = len(lines)
@@ -96,7 +105,7 @@ def sanitize_yaml(text: str) -> str:
             stripped = line.lstrip()
             indent = line[: len(line) - len(stripped)]
             key = stripped.partition(":")[0].strip().strip("\"'")
-            out.append("%s%s: <填写:%s>" % (indent, key, CONFIG_SECRET_KEYS[key]))
+            out.append("%s%s: <填写:%s>" % (indent, key, labels[key]))
             i = spans[i]
             continue
         out.append(lines[i])
