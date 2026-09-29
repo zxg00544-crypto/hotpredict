@@ -38,12 +38,27 @@ def package():
     subprocess.check_call([sys.executable, "-m", "pip", "install",
                            "-t", build, *DEPS])
     zpath = os.path.join(ROOT, "deploy", "fn.zip")
+    # 设计与本地同一条代码（设计 8.1）：除 scf_handler 外，须打包全部应用模块，
+    # 否则云端 import main → ModuleNotFoundError。根目录所有 .py 均在运行期被引用
+    # （main/db/scf_handler + probe.ua 被 collectors 引用 + probe_llm.llm_client_call 被 judge 引用）；
+    # 排除 deploy 子目录、tests/docs/states/logs、__pycache__；密钥与 config 永不入包。
+    APP_PKGS = ("collectors", "scoring", "llm_judge", "render")
     with zipfile.ZipFile(zpath, "w", zipfile.ZIP_DEFLATED) as z:
         for root, _, files in os.walk(build):
             for fn in files:
                 p = os.path.join(root, fn)
                 z.write(p, os.path.relpath(p, build))
-        z.write(os.path.join(ROOT, "scf_handler.py"), "scf_handler.py")
+        for fn in sorted(os.listdir(ROOT)):
+            if fn.endswith(".py"):
+                z.write(os.path.join(ROOT, fn), fn)
+        for pkg in APP_PKGS:
+            pdir = os.path.join(ROOT, pkg)
+            for root, dirs, files in os.walk(pdir):
+                dirs[:] = [d for d in dirs if d != "__pycache__"]
+                for fn in files:
+                    if fn.endswith(".py"):
+                        p = os.path.join(root, fn)
+                        z.write(p, os.path.relpath(p, ROOT))
     print("package OK", zpath, os.path.getsize(zpath), "bytes")
 
 

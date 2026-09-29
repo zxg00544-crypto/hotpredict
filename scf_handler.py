@@ -7,12 +7,25 @@ LOCK_TTL = 240          # < 5min 触发周期：轮次开始写的锁，下轮�
 
 
 def _client():
+    """凭证优先级（设计 8.1「代码包零密钥；绑角色免密钥」）：
+    1) SCF 平台为已绑运行角色的函数自动注入的临时凭证
+       环境变量 TENCENTCLOUD_SECRETID / TENCENTCLOUD_SECRETKEY / TENCENTCLOUD_SESSIONTOKEN
+       （仅运行时存在，不出现在 GetFunction 的 Env 配置里）；
+    2) 回落长期密钥 TENCENTCOS_SECRET_ID / TENCENTCOS_SECRET_KEY。
+    两者均不齐时按原语义以空凭证构造，交由 CosConfig 报错（守卫不削弱）。"""
     from qcloud_cos import CosConfig, CosS3Client
-    cfg = CosConfig(
-        Region=os.environ.get("COS_REGION", "ap-guangzhou"),
-        SecretId=os.environ.get("TENCENTCOS_SECRET_ID", ""),
-        SecretKey=os.environ.get("TENCENTCOS_SECRET_KEY", ""),
-        Token=os.environ.get("TENCENTCOS_SECURITY_TOKEN", ""))
+    sid = os.environ.get("TENCENTCLOUD_SECRETID", "")
+    skey = os.environ.get("TENCENTCLOUD_SECRETKEY", "")
+    stoken = os.environ.get("TENCENTCLOUD_SESSIONTOKEN", "")
+    if sid and skey and stoken:                  # 平台临时凭证（优先）
+        cfg = CosConfig(Region=os.environ.get("COS_REGION", "ap-guangzhou"),
+                        SecretId=sid, SecretKey=skey, Token=stoken)
+    else:                                        # 回落长期密钥
+        cfg = CosConfig(
+            Region=os.environ.get("COS_REGION", "ap-guangzhou"),
+            SecretId=os.environ.get("TENCENTCOS_SECRET_ID", ""),
+            SecretKey=os.environ.get("TENCENTCOS_SECRET_KEY", ""),
+            Token=os.environ.get("TENCENTCOS_SECURITY_TOKEN", ""))
     return CosS3Client(cfg)
 
 

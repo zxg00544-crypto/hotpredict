@@ -127,5 +127,58 @@ class TestHandler(unittest.TestCase):
         m.assert_not_called()
 
 
+class TestClientCredentials(unittest.TestCase):
+    """合同项0：凭证优先级——平台临时凭证（含 SESSIONTOKEN）优先，长期密钥回落。"""
+
+    def _capture_cosconfig(self, env):
+        captured = {}
+
+        class FakeCosConfig:
+            def __init__(self, **kw):
+                captured.update(kw)
+
+        class FakeCli:
+            def __init__(self, cfg):
+                captured["cli_cfg"] = cfg
+
+        fake_mod = type("M", (), {"CosConfig": FakeCosConfig,
+                                  "CosS3Client": FakeCli})
+        with patch.dict("sys.modules", {"qcloud_cos": fake_mod}):
+            with patch.dict(os.environ, env, clear=False):
+                for k in ("TENCENTCLOUD_SECRETID", "TENCENTCLOUD_SECRETKEY",
+                          "TENCENTCLOUD_SESSIONTOKEN", "TENCENTCOS_SECRET_ID",
+                          "TENCENTCOS_SECRET_KEY", "TENCENTCOS_SECURITY_TOKEN"):
+                    if k not in env:
+                        os.environ.pop(k, None)
+                scf_handler._client()
+        return captured
+
+    def test_platform_temp_credential_takes_priority_with_token(self):
+        c = self._capture_cosconfig({
+            "TENCENTCLOUD_SECRETID": "tmp-sid",
+            "TENCENTCLOUD_SECRETKEY": "tmp-key",
+            "TENCENTCLOUD_SESSIONTOKEN": "tmp-token",
+            "TENCENTCOS_SECRET_ID": "long-sid",
+            "TENCENTCOS_SECRET_KEY": "long-key"})
+        self.assertEqual(c["SecretId"], "tmp-sid")
+        self.assertEqual(c["SecretKey"], "tmp-key")
+        self.assertEqual(c["Token"], "tmp-token")   # SecurityToken 传递断言
+
+    def test_falls_back_to_long_term_when_temp_incomplete(self):
+        c = self._capture_cosconfig({
+            "TENCENTCLOUD_SECRETID": "tmp-sid",
+            "TENCENTCLOUD_SECRETKEY": "tmp-key",
+            "TENCENTCOS_SECRET_ID": "long-sid",
+            "TENCENTCOS_SECRET_KEY": "long-key",
+            "TENCENTCOS_SECURITY_TOKEN": ""})
+        self.assertEqual(c["SecretId"], "long-sid")
+        self.assertEqual(c["SecretKey"], "long-key")
+
+    def test_empty_when_no_credentials_keeps_guard(self):
+        c = self._capture_cosconfig({})
+        self.assertEqual(c["SecretId"], "")
+        self.assertEqual(c["SecretKey"], "")
+
+
 if __name__ == "__main__":
     unittest.main()
