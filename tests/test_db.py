@@ -31,7 +31,8 @@ class TestDB(unittest.TestCase):
         self.assertEqual(h[0]["rank"], 1)
 
     def test_history_respects_hours_window(self):
-        ts = datetime.datetime.now().isoformat()
+        # 防flake：本机 datetime.now() 时钟分辨率可致 hours=0 的 cutoff==ts，前移1秒避开 >= 边界（2026-09-29 全量复检定位）
+        ts = (datetime.datetime.now() - datetime.timedelta(seconds=1)).isoformat()
         save_signals(self.conn, [mk(ts=ts)])
         self.assertEqual(len(history(self.conn, "ai模型", hours=6)), 1)
         self.assertEqual(history(self.conn, "ai模型", hours=0), [])
