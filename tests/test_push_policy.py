@@ -1,4 +1,4 @@
-﻿import unittest, tempfile, os, json
+import unittest, tempfile, os, json
 from render.push_policy import plan_push, load_state, save_state
 
 
@@ -110,6 +110,31 @@ class TestPushPolicy(unittest.TestCase):
                 if m[0] == "a":
                     n += 1
         self.assertEqual(n, 4)
+
+    def test_a_only_one_per_window_with_backlog(self):
+        """回归（2026-09-30 洪水 bug）：上窗口遗留多条时，切换后每窗口只放行 1 条，
+        同窗口第 2 轮不再放行。"""
+        st = {}
+        fast = [T(f"a{i}", "A", score=50 + i) for i in range(3)]
+        plan_push(st, "2026-09-30", fast, [], False, [], "b.html", hour=1)  # 窗口0入池3条
+        m1 = plan_push(st, "2026-09-30", fast, [], False, [], "b.html", hour=5)  # 切窗口1
+        self.assertEqual(len([m for m in m1 if m[0] == "a"]), 1)
+        m2 = plan_push(st, "2026-09-30", fast, [], False, [], "b.html", hour=6)  # 同窗口1第2轮
+        self.assertEqual([m for m in m2 if m[0] == "a"], [])               # 不再放行
+        m3 = plan_push(st, "2026-09-30", fast, [], False, [], "b.html", hour=7)  # 同窗口仍挡
+        self.assertEqual([m for m in m3 if m[0] == "a"], [])
+        m4 = plan_push(st, "2026-09-30", fast, [], False, [], "b.html", hour=9)  # 切窗口2
+        self.assertEqual(len([m for m in m4 if m[0] == "a"]), 1)
+        self.assertEqual(len(st["a_pending"]), 1)                        # 只消耗 2 条
+
+    def test_a_pushed_window_resets_across_days(self):
+        """跨日 reset 后 a_pushed_window 清空，新一天首窗口可推。"""
+        st = {"date": "2026-09-29", "daily_done": True, "alert_date": "2026-09-29",
+              "a_pending": [T("old1", "A", score=70)], "pushed": [], "a_seen": {},
+              "a_pushed_window": 1}
+        st["a_pending"][0]["batch_window"] = 4  # 昨天窗口遗留，今天 w=0 不同
+        msgs = plan_push(st, "2026-09-30", [], [], False, [], "b.html", hour=1)
+        self.assertEqual([m[0] for m in msgs if m[0] == "a"], ["a"])
 
     def test_a_dedup_after_push(self):
         st = {}

@@ -119,17 +119,21 @@ def plan_push(state, date_str, fast, trend, degraded, failed, board_path,
             pending.append(item)
     state["a_pending"] = [p for p in pending if p.get("key") not in pushed]
 
-    # 3) A 级攒批择优：入池窗口 ≠ 当前窗口的条目才可批推（择优挑最高分 1 条）
+    # 3) A 级攒批择优：每 4h 窗口仅放行 1 条（a_pushed_window 闸门）。
+    #    缺闸门时窗口切换后每轮放行 1 条直至清空上窗口遗留 → 洪水（2026-09-30 实证）。
     w = None if hour is None else hour // 4
-    eligible = [p for p in state["a_pending"]
-                if hour is None or p.get("batch_window") != w]
-    if eligible:
-        best = max(eligible, key=lambda t: t.get("score", 0))
-        state["a_pending"].remove(best)
-        pushed.append(best.get("key"))
-        tag = "⚡突发·" if best.get("breaking") else ""
-        msgs.append(("a", f"{tag}A级·本批最优 {best.get('title', '')}",
-                     _a_digest(best)))
+    if w is None or state.get("a_pushed_window") != w:
+        eligible = [p for p in state["a_pending"]
+                    if hour is None or p.get("batch_window") != w]
+        if eligible:
+            best = max(eligible, key=lambda t: t.get("score", 0))
+            state["a_pending"].remove(best)
+            pushed.append(best.get("key"))
+            if w is not None:
+                state["a_pushed_window"] = w
+            tag = "⚡突发·" if best.get("breaking") else ""
+            msgs.append(("a", f"{tag}A级·本批最优 {best.get('title', '')}",
+                         _a_digest(best)))
 
     # 4) 晚报摘要：21:00 后首轮推（hour=None 兼容立即推）
     if not state["daily_done"] and (hour is None or hour >= 21):
