@@ -31,6 +31,13 @@ class FakeClient:
             self.objects[Key] = f.read()
         self.put_order.append(Key)
 
+    def upload_file(self, Bucket, Key, LocalFilePath, PartSize=1, MAXThread=5,
+                    EnableMD5=False, **kw):
+        with open(LocalFilePath, "rb") as f:
+            self.objects[Key] = f.read()
+        self.put_order.append(Key)
+        self.upload_args = (PartSize, MAXThread)
+
     def delete_object(self, Bucket, Key):
         self.objects.pop(Key, None)
 
@@ -86,6 +93,21 @@ class TestSync(unittest.TestCase):
         self.assertEqual(gzip.decompress(self.client.objects["data/热点.db.gz"]),
                          b"DB2")
         self.assertNotIn("data/热点.db", self.client.objects)
+
+    def test_sync_up_db_upload_failure_swallowed(self):
+        os.makedirs(os.path.join(self.tmp, "states"), exist_ok=True)
+        with open(os.path.join(self.tmp, "states", "s.json"), "w") as f:
+            f.write("{}")
+        with open(os.path.join(self.tmp, "热点.db"), "w") as f:
+            f.write("DB2")
+
+        def boom(**kw):
+            raise RuntimeError("UserNetworkTooSlow")
+
+        self.client.upload_file = boom
+        scf_handler.sync_up(self.client, tmp=self.tmp)   # 不抛 = 吞掉通过
+        self.assertIn("data/states/s.json", self.client.objects)
+        self.assertNotIn("data/热点.db.gz", self.client.objects)
 
 
 class TestLock(unittest.TestCase):
@@ -180,6 +202,7 @@ class TestClientCredentials(unittest.TestCase):
         self.assertEqual(c["SecretId"], "tmp-sid")
         self.assertEqual(c["SecretKey"], "tmp-key")
         self.assertEqual(c["Token"], "tmp-token")   # SecurityToken 传递断言
+        self.assertEqual(c["Timeout"], 300)         # 慢网给SDK的HTTP超时上限
 
     def test_falls_back_to_long_term_when_temp_incomplete(self):
         c = self._capture_cosconfig({

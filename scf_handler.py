@@ -19,13 +19,13 @@ def _client():
     stoken = os.environ.get("TENCENTCLOUD_SESSIONTOKEN", "")
     if sid and skey and stoken:                  # 平台临时凭证（优先）
         cfg = CosConfig(Region=os.environ.get("COS_REGION", "ap-guangzhou"),
-                        SecretId=sid, SecretKey=skey, Token=stoken)
+                        SecretId=sid, SecretKey=skey, Token=stoken, Timeout=300)
     else:                                        # 回落长期密钥
         cfg = CosConfig(
             Region=os.environ.get("COS_REGION", "ap-guangzhou"),
             SecretId=os.environ.get("TENCENTCOS_SECRET_ID", ""),
             SecretKey=os.environ.get("TENCENTCOS_SECRET_KEY", ""),
-            Token=os.environ.get("TENCENTCOS_SECURITY_TOKEN", ""))
+            Token=os.environ.get("TENCENTCOS_SECURITY_TOKEN", ""), Timeout=300)
     return CosS3Client(cfg)
 
 
@@ -96,16 +96,26 @@ def sync_up(client, tmp=None):
         with open(dbp, "rb") as f_in, gzip.open(gz, "wb") as f_out:
             shutil.copyfileobj(f_in, f_out)
         size = os.path.getsize(gz)
+        print("[gta] up data/热点.db.gz %dB gzip %.1fs" % (size, time.time() - t0),
+              flush=True)
         t1 = time.time()
-        client.put_object_from_local_file(Bucket=_bucket(),
-                                          Key="data/热点.db.gz", LocalFilePath=gz)
-        print("[gta] up data/热点.db.gz %dB gzip %.1fs upload %.1fs"
-              % (size, t1 - t0, time.time() - t1), flush=True)
-        os.remove(gz)
-        try:                      # 旧明文 db 对象作废，防回落读到陈旧副本
-            client.delete_object(Bucket=_bucket(), Key="data/热点.db")
-        except Exception:
-            pass
+        try:
+            # 分片1MB单线程（可续传）：整包PUT在跨境慢网被COS拒UserNetworkTooSlow；
+            # 失败降级警告不杀轮——states/日报/看板已回传，本轮增量下轮重试
+            client.upload_file(Bucket=_bucket(), Key="data/热点.db.gz",
+                               LocalFilePath=gz, PartSize=1, MAXThread=1)
+            print("[gta] up data/热点.db.gz upload %.1fs" % (time.time() - t1),
+                  flush=True)
+            try:                  # 旧明文 db 对象作废，防回落读到陈旧副本
+                client.delete_object(Bucket=_bucket(), Key="data/热点.db")
+            except Exception:
+                pass
+        except Exception as e:
+            print("[gta] up db.gz FAILED %s (states/日报/看板已回传，不杀轮)"
+                  % str(e)[:200], flush=True)
+        finally:
+            if os.path.exists(gz):
+                os.remove(gz)
 
 
 def acquire_lock(client, ttl=None, tmp=None):
