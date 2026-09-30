@@ -1,5 +1,6 @@
 ﻿"""日报 Markdown。排序：快讯档 act_now -> rating -> score；趋势档 slope -> score。"""
 from datetime import datetime
+from urlclean import clean_url
 
 RATING_ORDER = {"A": 0, "B": 1, "C": 2}
 
@@ -12,7 +13,7 @@ def _row(i: int, t: dict) -> str:
     brk = "⚡" if t.get("breaking") else ""
     return (f"| {i} | **{t.get('rating','?')}** | {brk}{_esc(t.get('title',''))[:40]} | "
             f"{t.get('score',0)} | {t.get('G',0)} | {t.get('track','其他')} | "
-            f"{hook}{now} | {_esc(t.get('url',''))} |")
+            f"{hook}{now} | {_esc(clean_url(t.get('url','')))} |")
 
 HEADER = ("| # | 评级 | 话题 | 分 | 增速G | 赛道 | 钩子/理由 | 链接 |\n"
           "|---|------|------|----|-------|------|-----------|------|")

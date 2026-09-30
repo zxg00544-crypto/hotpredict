@@ -1,5 +1,6 @@
 """单文件静态看板：无外部依赖、无 CDN、双表格分档。"""
 import html as H
+from urlclean import clean_url
 
 def _rows(items: list) -> str:
     if not items:
@@ -13,7 +14,7 @@ def _rows(items: list) -> str:
         brk = "<span class='brk'>⚡突发</span>" if t.get("breaking") else ""
         out.append(
             f"<tr><td>{badge}</td>"
-            f"<td>{brk}<a href='{H.escape(str(t.get('url','')))}' target='_blank'>"
+            f"<td>{brk}<a href='{H.escape(clean_url(str(t.get('url',''))))}' target='_blank'>"
             f"{H.escape(str(t.get('title','')))}</a>{now}</td>"
             f"<td>{t.get('score',0)}</td><td>{t.get('G',0)}</td>"
             f"<td>{t.get('slope','-')}</td>"

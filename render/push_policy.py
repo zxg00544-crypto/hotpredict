@@ -7,6 +7,7 @@
 B/C 不打扰。state 按日重置，跨日保留 a_pending/pushed 防丢防重；调用方推送后 save_state。
 hour：当前小时（None=晚报立即允许、攒批立即执行，向后兼容）。"""
 import json, os
+from urlclean import clean_url
 
 
 def load_state(path: str) -> dict:
@@ -65,7 +66,7 @@ def _a_digest(topic):
     if topic.get("hook_reason"):
         parts.append(f"理由：{topic['hook_reason']}")
     if topic.get("url"):
-        parts.append(topic["url"])
+        parts.append(clean_url(topic["url"]))
     return "\n".join(parts)
 
 

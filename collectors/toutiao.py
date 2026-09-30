@@ -2,6 +2,7 @@
 import time, requests
 from collectors.base import Signal, topic_key
 from probe import UA
+from urlclean import clean_url
 
 URL = "https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc"
 
@@ -16,7 +17,7 @@ def parse_board(payload: dict, fetched_at: str) -> list[Signal]:
         # 不靠绝对热度撞 breaking.heat_high=200；登顶靠 rank<=5 命中。
         heat = 200.0 - i * 4.0
         out.append(Signal(topic_key=topic_key(title), source="toutiao", title=title,
-                          url=item.get("Url") or "https://www.toutiao.com/",
+                          url=clean_url(item.get("Url")) or "https://www.toutiao.com/",
                           heat=heat, rank=i, rank_delta=0, engagement=heat,
                           author_weight=0.8,
                           fetched_at=fetched_at,
