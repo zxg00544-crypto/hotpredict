@@ -1,0 +1,38 @@
+name: hotpredict-round
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # UTC 每小时整点 = 北京时间每小时整点；改 '*/5 * * * *' 即 5 分钟一轮（仅公有仓）
+  workflow_dispatch:        # 手动触发（切流前验证用）
+
+permissions:
+  contents: read
+
+jobs:
+  round:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run round (COS state -> run_round -> push -> COS sync)
+        env:
+          TENCENTCOS_SECRET_ID: ${{ secrets.TENCENTCOS_SECRET_ID }}
+          TENCENTCOS_SECRET_KEY: ${{ secrets.TENCENTCOS_SECRET_KEY }}
+          COS_REGION: ap-guangzhou
+          COS_BUCKET: ${{ secrets.COS_BUCKET }}
+        run: |
+          python - <<'PY'
+          import json, scf_handler
+          out = scf_handler.handler(None, None)
+          print(json.dumps(out, ensure_ascii=False, default=str))
+          PY
