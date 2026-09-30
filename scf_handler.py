@@ -110,15 +110,22 @@ def handler(event, context):
         os.environ["TZ"] = "Asia/Shanghai"
         time.tzset()
     client = _client()
+    print("[gta] client ok", flush=True)
     if not acquire_lock(client):
+        print("[gta] skipped-locked", flush=True)
         return {"status": "skipped-locked"}
+    print("[gta] sync_down start", flush=True)
     cfg_local = sync_down(client)
+    print("[gta] sync_down done", flush=True)
     import main as app                  # 延迟导入，单测 patch main.run_round 可控
     cfg = app.load_cfg(cfg_local)
     cfg["db_path"] = os.path.join(TMP, "热点.db")
     cfg["out_dir"] = TMP
     cfg["use_llm"] = True
     cfg["dry_run"] = False
+    print("[gta] run_round start", flush=True)
     result = app.run_round(cfg)          # 内部已含 prune（Task 1）
+    print("[gta] run_round done", flush=True)
     sync_up(client)
+    print("[gta] sync_up done", flush=True)
     return result
