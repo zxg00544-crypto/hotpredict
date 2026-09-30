@@ -8,6 +8,10 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: hotpredict-round
+  cancel-in-progress: false
+
 jobs:
   round:
     runs-on: ubuntu-latest

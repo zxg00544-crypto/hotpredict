@@ -1,6 +1,6 @@
 ﻿"""推送策略（钉钉免费无限条，按质控噪；设计 5.2）：
 1) ⚡突发：独立信号即时直推，不等 LLM 评级，按 key 去重（kind=breaking）
-2) A级攒批择优：每 4 小时窗口从新增 A 中挑分数最高 1 条推（kind=a），
+2) A级攒批择优：每 1 小时窗口从新增 A 中挑分数最高 1 条推（kind=a；2026-09-30 应用户提量指令，原 4h 改 1h），
    不即时、不先到先得，其余 A 留存到 21:00 晚报兜底
 3) 日报摘要：21:00 后首轮推全天最佳汇总（含当日全部 A 级），1 条/天（kind=daily）
 4) 降级/异常：告警 1 条/天（kind=alert）
@@ -70,7 +70,7 @@ def _a_digest(topic):
 
 
 def plan_push(state, date_str, fast, trend, degraded, failed, board_path,
-              hour=None, breaking_cap=6):
+              hour=None, breaking_cap=10):
     """生成待推送 [(kind, title, content)] 并原地更新 state。
     kind: breaking/a/daily/alert。"""
     if state.get("date") != date_str:
@@ -115,13 +115,13 @@ def plan_push(state, date_str, fast, trend, degraded, failed, board_path,
                     "score": t.get("score", 0), "angle": t.get("angle"),
                     "hook_reason": t.get("hook_reason"), "url": t.get("url"),
                     "track": t.get("track"), "breaking": t.get("breaking", False),
-                    "batch_window": None if hour is None else hour // 4}
+                    "batch_window": None if hour is None else hour}
             pending.append(item)
     state["a_pending"] = [p for p in pending if p.get("key") not in pushed]
 
-    # 3) A 级攒批择优：每 4h 窗口仅放行 1 条（a_pushed_window 闸门）。
+    # 3) A 级攒批择优：每 1h 窗口仅放行 1 条（a_pushed_window 闸门；2026-09-30 提量，原 4h）。
     #    缺闸门时窗口切换后每轮放行 1 条直至清空上窗口遗留 → 洪水（2026-09-30 实证）。
-    w = None if hour is None else hour // 4
+    w = None if hour is None else hour
     if w is None or state.get("a_pushed_window") != w:
         eligible = [p for p in state["a_pending"]
                     if hour is None or p.get("batch_window") != w]

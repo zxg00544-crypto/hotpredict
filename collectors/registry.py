@@ -1,7 +1,8 @@
 ﻿"""按 config.platforms 开关返回启用源；weibo 无 Cookie 自动跳过。"""
 import importlib
 
-_MODULES = ["zhihu", "bilibili", "weibo", "weibo_v", "hn", "reddit", "github", "finance_sina"]
+_MODULES = ["zhihu", "bilibili", "weibo", "weibo_v", "hn", "reddit", "github",
+            "finance_sina", "toutiao", "baidu"]
 
 def get_collectors(cfg: dict) -> list:
     out = []

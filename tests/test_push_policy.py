@@ -81,7 +81,7 @@ class TestPushPolicy(unittest.TestCase):
         msgs2 = plan_push(st, "2026-09-28", fast, [], False, [], "b.html", hour=13)
         self.assertEqual([m[0] for m in msgs2], [])  # 同窗口不再批推
 
-    # —— A 级攒批择优（每 4 小时窗口）——
+    # —— A 级攒批择优（每 1 小时窗口）——
     def test_a_waits_for_window_boundary(self):
         st = {}
         fast = [T("a1", "A", score=60)]
@@ -112,19 +112,19 @@ class TestPushPolicy(unittest.TestCase):
         self.assertEqual(n, 4)
 
     def test_a_only_one_per_window_with_backlog(self):
-        """回归（2026-09-30 洪水 bug）：上窗口遗留多条时，切换后每窗口只放行 1 条，
-        同窗口第 2 轮不再放行。"""
+        """回归（2026-09-30 洪水 bug；同日改 1h 窗口）：切换小时窗口只放行 1 条，
+        同小时第 2 轮不再放行（每小时至多 1 条）。"""
         st = {}
         fast = [T(f"a{i}", "A", score=50 + i) for i in range(3)]
-        plan_push(st, "2026-09-30", fast, [], False, [], "b.html", hour=1)  # 窗口0入池3条
-        m1 = plan_push(st, "2026-09-30", fast, [], False, [], "b.html", hour=5)  # 切窗口1
+        plan_push(st, "2026-09-30", fast, [], False, [], "b.html", hour=1)  # 入池3条
+        m1 = plan_push(st, "2026-09-30", fast, [], False, [], "b.html", hour=5)  # 切小时放1条
         self.assertEqual(len([m for m in m1 if m[0] == "a"]), 1)
-        m2 = plan_push(st, "2026-09-30", fast, [], False, [], "b.html", hour=6)  # 同窗口1第2轮
+        m2 = plan_push(st, "2026-09-30", fast, [], False, [], "b.html", hour=5)  # 同小时第2轮
         self.assertEqual([m for m in m2 if m[0] == "a"], [])               # 不再放行
-        m3 = plan_push(st, "2026-09-30", fast, [], False, [], "b.html", hour=7)  # 同窗口仍挡
-        self.assertEqual([m for m in m3 if m[0] == "a"], [])
-        m4 = plan_push(st, "2026-09-30", fast, [], False, [], "b.html", hour=9)  # 切窗口2
-        self.assertEqual(len([m for m in m4 if m[0] == "a"]), 1)
+        m3 = plan_push(st, "2026-09-30", fast, [], False, [], "b.html", hour=6)  # 新小时放1条
+        self.assertEqual(len([m for m in m3 if m[0] == "a"]), 1)
+        m4 = plan_push(st, "2026-09-30", fast, [], False, [], "b.html", hour=6)  # 同小时再确认
+        self.assertEqual([m for m in m4 if m[0] == "a"], [])
         self.assertEqual(len(st["a_pending"]), 1)                        # 只消耗 2 条
 
     def test_a_pushed_window_resets_across_days(self):
@@ -132,7 +132,7 @@ class TestPushPolicy(unittest.TestCase):
         st = {"date": "2026-09-29", "daily_done": True, "alert_date": "2026-09-29",
               "a_pending": [T("old1", "A", score=70)], "pushed": [], "a_seen": {},
               "a_pushed_window": 1}
-        st["a_pending"][0]["batch_window"] = 4  # 昨天窗口遗留，今天 w=0 不同
+        st["a_pending"][0]["batch_window"] = 4  # 昨天窗口遗留，今天 w=1 不同
         msgs = plan_push(st, "2026-09-30", [], [], False, [], "b.html", hour=1)
         self.assertEqual([m[0] for m in msgs if m[0] == "a"], ["a"])
 
@@ -148,7 +148,7 @@ class TestPushPolicy(unittest.TestCase):
         st = {"date": "2026-09-28", "daily_done": True, "alert_date": "2026-09-28",
               "a_pending": [], "pushed": [], "a_seen": {}}
         p = T("a9", "A", score=80)
-        p["batch_window"] = 5
+        p["batch_window"] = 21
         st["a_pending"] = [p]
         msgs = plan_push(st, "2026-09-28", [], [], False, [], "b.html", hour=21)
         self.assertEqual(msgs, [])                     # 同窗口不重复批推
@@ -236,7 +236,7 @@ class TestPushPolicy(unittest.TestCase):
             self.assertEqual(set(item.keys()), PROJ_FIELDS)
             self.assertNotIn("signals", item)
             self.assertIsInstance(item["key"], str)
-            self.assertEqual(item["batch_window"], 0)   # hour=2 → 窗口 0
+            self.assertEqual(item["batch_window"], 2)   # hour=2 → 小时窗 2
 
     def test_save_state_atomic_on_unserializable(self):
         """直接对含不可序列化对象的 state 调 save_state：异常必须抛出、
