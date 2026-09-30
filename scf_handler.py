@@ -1,6 +1,6 @@
 """SCF 云端入口（设计 8.1/8.2）：COS 拉状态 → run_round()（与本地同一条代码）→ 回传 → 软锁防重。
 仅云端使用；本机计划任务直接跑 main.py。依赖 qcloud_cos（随函数包分发）。"""
-import glob, json, os, time
+import glob, gzip, json, os, shutil, time
 
 TMP = "/tmp"
 LOCK_TTL = 240          # < 5min 触发周期：轮次开始写的锁，下轮触发时必然过期
@@ -45,16 +45,27 @@ def _exists(client, key):
 
 
 def sync_down(client, tmp=None):
-    """拉 config（必须）+ db（可选，首轮无）+ states 到 tmp；返回 config 路径。"""
+    """拉 config（必须）+ db.gz（可选，首轮无；无 gz 回落明文 db）+ states 到 tmp；返回 config 路径。"""
     tmp = tmp or TMP
     cfg_local = os.path.join(tmp, "config", "config.yaml")
     os.makedirs(os.path.dirname(cfg_local), exist_ok=True)
     client.download_file(Bucket=_bucket(), Key="config/config.yaml",
                               DestFilePath=cfg_local)      # 缺失抛错 → SCF 报错可见
-    db_key = "data/热点.db"
-    if _exists(client, db_key):
-        client.download_file(Bucket=_bucket(), Key=db_key,
-                             DestFilePath=os.path.join(tmp, "热点.db"))
+    db_local = os.path.join(tmp, "热点.db")
+    if _exists(client, "data/热点.db.gz"):
+        t0 = time.time()
+        gz = db_local + ".gz"
+        client.download_file(Bucket=_bucket(), Key="data/热点.db.gz",
+                             DestFilePath=gz)
+        with gzip.open(gz, "rb") as f_in, open(db_local, "wb") as f_out:
+            shutil.copyfileobj(f_in, f_out)
+        os.remove(gz)
+        print("[gta] down db.gz %.1fs" % (time.time() - t0), flush=True)
+    elif _exists(client, "data/热点.db"):
+        t0 = time.time()
+        client.download_file(Bucket=_bucket(), Key="data/热点.db",
+                             DestFilePath=db_local)
+        print("[gta] down db %.1fs" % (time.time() - t0), flush=True)
     resp = client.list_objects(Bucket=_bucket(), Prefix="data/states/")
     for obj in resp.get("Contents") or []:
         key = obj["Key"]
@@ -68,19 +79,33 @@ def sync_down(client, tmp=None):
 
 
 def sync_up(client, tmp=None):
-    """先小后大：states → 日报/看板 → db（设计 8.2）。"""
+    """先小后大：states → 日报/看板 → db.gz（设计 8.2；db gzip 压缩回传，逐文件耗时打点）。"""
     tmp = tmp or TMP
     for sub in ("states", "日报", "看板"):
         for path in sorted(glob.glob(os.path.join(tmp, sub, "*"))):
             if os.path.isfile(path):
+                key = "data/%s/%s" % (sub, os.path.basename(path))
+                t0 = time.time()
                 client.put_object_from_local_file(
-                    Bucket=_bucket(),
-                    Key="data/%s/%s" % (sub, os.path.basename(path)),
-                    LocalFilePath=path)
+                    Bucket=_bucket(), Key=key, LocalFilePath=path)
+                print("[gta] up %s %.1fs" % (key, time.time() - t0), flush=True)
     dbp = os.path.join(tmp, "热点.db")
     if os.path.exists(dbp):
-        client.put_object_from_local_file(Bucket=_bucket(), Key="data/热点.db",
-                                    LocalFilePath=dbp)
+        gz = dbp + ".gz"
+        t0 = time.time()
+        with open(dbp, "rb") as f_in, gzip.open(gz, "wb") as f_out:
+            shutil.copyfileobj(f_in, f_out)
+        size = os.path.getsize(gz)
+        t1 = time.time()
+        client.put_object_from_local_file(Bucket=_bucket(),
+                                          Key="data/热点.db.gz", LocalFilePath=gz)
+        print("[gta] up data/热点.db.gz %dB gzip %.1fs upload %.1fs"
+              % (size, t1 - t0, time.time() - t1), flush=True)
+        os.remove(gz)
+        try:                      # 旧明文 db 对象作废，防回落读到陈旧副本
+            client.delete_object(Bucket=_bucket(), Key="data/热点.db")
+        except Exception:
+            pass
 
 
 def acquire_lock(client, ttl=None, tmp=None):

@@ -1,4 +1,4 @@
-import datetime, json, os, shutil, tempfile, unittest
+import datetime, gzip, json, os, shutil, tempfile, unittest
 from unittest.mock import patch
 os.environ.setdefault("COS_BUCKET", "hotpredict-100046784148")
 import scf_handler
@@ -18,13 +18,21 @@ class FakeClient:
         if Key not in self.objects:
             raise RuntimeError("404")
         os.makedirs(os.path.dirname(DestFilePath), exist_ok=True)
-        with open(DestFilePath, "w", encoding="utf-8") as f:
-            f.write(self.objects[Key])
+        data = self.objects[Key]
+        if isinstance(data, bytes):
+            with open(DestFilePath, "wb") as f:
+                f.write(data)
+        else:
+            with open(DestFilePath, "w", encoding="utf-8") as f:
+                f.write(data)
 
     def put_object_from_local_file(self, Bucket, Key, LocalFilePath):
-        with open(LocalFilePath, encoding="utf-8") as f:
+        with open(LocalFilePath, "rb") as f:
             self.objects[Key] = f.read()
         self.put_order.append(Key)
+
+    def delete_object(self, Bucket, Key):
+        self.objects.pop(Key, None)
 
     def list_objects(self, Bucket, Prefix):
         return {"Contents": [{"Key": k} for k in self.objects if k.startswith(Prefix)]}
@@ -55,6 +63,12 @@ class TestSync(unittest.TestCase):
         with self.assertRaises(Exception):
             scf_handler.sync_down(FakeClient({}), tmp=self.tmp)
 
+    def test_sync_down_prefers_gz_over_plain(self):
+        self.client.objects["data/热点.db.gz"] = gzip.compress(b"GZDB")
+        scf_handler.sync_down(self.client, tmp=self.tmp)
+        with open(os.path.join(self.tmp, "热点.db"), "rb") as f:
+            self.assertEqual(f.read(), b"GZDB")
+
     def test_sync_up_states_before_db(self):
         os.makedirs(os.path.join(self.tmp, "states"), exist_ok=True)
         os.makedirs(os.path.join(self.tmp, "日报"), exist_ok=True)
@@ -67,9 +81,11 @@ class TestSync(unittest.TestCase):
         scf_handler.sync_up(self.client, tmp=self.tmp)
         order = self.client.put_order
         self.assertLess(order.index("data/states/s.json"),
-                        order.index("data/热点.db"))
+                        order.index("data/热点.db.gz"))
         self.assertIn("data/日报/2026-09-28.md", order)
-        self.assertEqual(self.client.objects["data/热点.db"], "DB2")
+        self.assertEqual(gzip.decompress(self.client.objects["data/热点.db.gz"]),
+                         b"DB2")
+        self.assertNotIn("data/热点.db", self.client.objects)
 
 
 class TestLock(unittest.TestCase):
@@ -113,7 +129,8 @@ class TestHandler(unittest.TestCase):
                          os.path.join(self.tmp, "热点.db"))
         self.assertEqual(captured["out_dir"], self.tmp)
         self.assertTrue(captured["use_llm"])
-        self.assertEqual(self.client.objects["data/热点.db"], "NEWDB")
+        self.assertEqual(
+            gzip.decompress(self.client.objects["data/热点.db.gz"]), b"NEWDB")
 
     def test_handler_skips_when_lock_fresh(self):
         client = FakeClient({

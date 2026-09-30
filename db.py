@@ -1,12 +1,12 @@
 """SQLite 持久层：写入去重 + 轮次聚合历史查询。"""
-import sqlite3, json, datetime
+import sqlite3, datetime
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS signals(
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   topic_key TEXT NOT NULL, source TEXT NOT NULL, title TEXT, url TEXT,
   heat REAL, rank INTEGER, rank_delta INTEGER, engagement REAL,
-  author_weight REAL, published_at TEXT, fetched_at TEXT, raw TEXT,
+  author_weight REAL, published_at TEXT, fetched_at TEXT,
   UNIQUE(topic_key, source, fetched_at)
 );
 CREATE INDEX IF NOT EXISTS idx_key_time ON signals(topic_key, fetched_at);
@@ -23,11 +23,10 @@ def save_signals(conn, signals) -> int:
     for s in signals:
         cur = conn.execute(
             "INSERT OR IGNORE INTO signals(topic_key,source,title,url,heat,rank,"
-            "rank_delta,engagement,author_weight,published_at,fetched_at,raw) "
-            "VALUES(?,?,?,?,?,?,?,?,?,?,?,?)",
+            "rank_delta,engagement,author_weight,published_at,fetched_at) "
+            "VALUES(?,?,?,?,?,?,?,?,?,?,?)",
             (s.topic_key, s.source, s.title, s.url, s.heat, s.rank, s.rank_delta,
-             s.engagement, s.author_weight, s.published_at, s.fetched_at,
-             json.dumps(s.raw, ensure_ascii=False, default=str)))
+             s.engagement, s.author_weight, s.published_at, s.fetched_at))
         n += cur.rowcount
     conn.commit()
     return n
