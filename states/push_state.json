@@ -152,19 +152,6 @@
    "batch_window": 17
   },
   {
-   "key": "商家回应3片回锅肉卖105元",
-   "title": "商家回应3片回锅肉卖105元",
-   "rating": "A",
-   "score": 87.55,
-   "angle": "从消费维权切入，探讨餐饮定价乱象与消费者权益保护",
-   "hook_reason": "3片肉卖105元，价格离谱引发消费者强烈共鸣与愤怒",
-   "url": "https://s.weibo.com/weibo?q=商家回应3片回锅肉卖105元",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:商家回应3片回锅肉卖105元",
-   "batch_window": 18
-  },
-  {
    "key": "小米18fold你的出游高效决策搭档支持三窗口应用分屏至高六应用并排运行做行程",
    "title": "#小米18Fold# ，你的出游高效决策搭档！ 支持三窗口应用分屏，至高六应用并排运行 做行程、",
    "rating": "A",
@@ -371,6 +358,19 @@
    "breaking": true,
    "event_id": "e:飞行员想带我们一起自杀怎么看待迪拜航空飞机一分钟骤降15万英尺机组人员刺伤同事",
    "batch_window": 1
+  },
+  {
+   "key": "雷军一口气刷完7期民间拆车视频",
+   "title": "雷军一口气刷完7期民间拆车视频",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "借大佬刷拆车视频，拆解雷军人设营销与小米汽车品控背后的舆论策略",
+   "hook_reason": "大佬追更硬核评测，折射务实人设与品控焦虑，车主粉丝共鸣强",
+   "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E4%B8%80%E5%8F%A3%E6%B0%94%E5%88%B7%E5%AE%8C7%E6%9C%9F%E6%B0%91%E9%97%B4%E6%8B%86%E8%BD%A6%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": false,
+   "event_id": "e:雷军一口气刷完7期民间拆车视频",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -467,7 +467,8 @@
   "西安肉夹馍师傅已忙到3秒夹一个",
   "王励勤中国乒乓使命不只是争金夺银",
   "amapofeverylighthouseontheplanet",
-  "小孩哥在花坛发现2枚恐龙蛋化石"
+  "小孩哥在花坛发现2枚恐龙蛋化石",
+  "商家回应3片回锅肉卖105元"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -500,7 +501,8 @@
   "e:西安肉夹馍师傅已忙到3秒夹一个": "西安肉夹馍师傅已忙到3秒夹一个",
   "e:王励勤中国乒乓使命不只是争金夺银": "王励勤：中国乒乓使命不只是争金夺银",
   "e:amapofeverylighthouseontheplanet": "A Map of Every Lighthouse on the Planet",
-  "e:小孩哥在花坛发现2枚恐龙蛋化石": "小孩哥在花坛发现2枚恐龙蛋化石"
+  "e:小孩哥在花坛发现2枚恐龙蛋化石": "小孩哥在花坛发现2枚恐龙蛋化石",
+  "e:商家回应3片回锅肉卖105元": "商家回应3片回锅肉卖105元"
  },
  "a_seen": {
   "特朗普民调向来低估让美国再次伟大maga群体他们试图压制选票但我": {
@@ -562,8 +564,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:年轻人开始不买景区冤种三件套了"
+  },
+  "中国红闪耀亚运闭幕式": {
+   "key": "中国红闪耀亚运闭幕式",
+   "title": "中国红闪耀亚运闭幕式",
+   "rating": "A",
+   "score": 20.3,
+   "angle": "从亚运闭幕式的'中国红'视觉记忆切入，写文化自信与国民情绪共鸣",
+   "hook_reason": "亚运闭幕中国红刷屏，民族自豪感拉满，读者想共情见证",
+   "url": "https://s.weibo.com/weibo?q=中国红闪耀亚运闭幕式",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:亚运会闭幕式"
+  },
+  "雷军一口气刷完7期民间拆车视频": {
+   "key": "雷军一口气刷完7期民间拆车视频",
+   "title": "雷军一口气刷完7期民间拆车视频",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "借大佬刷拆车视频，拆解雷军人设营销与小米汽车品控背后的舆论策略",
+   "hook_reason": "大佬追更硬核评测，折射务实人设与品控焦虑，车主粉丝共鸣强",
+   "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E4%B8%80%E5%8F%A3%E6%B0%94%E5%88%B7%E5%AE%8C7%E6%9C%9F%E6%B0%91%E9%97%B4%E6%8B%86%E8%BD%A6%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": false,
+   "event_id": "e:雷军一口气刷完7期民间拆车视频"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
