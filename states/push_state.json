@@ -139,19 +139,6 @@
    "batch_window": 16
   },
   {
-   "key": "美国2万亿美元押注ai谁会被收割",
-   "title": "美国2万亿美元押注AI谁会被收割",
-   "rating": "A",
-   "score": 90.0,
-   "angle": "从美国AI投资布局切入，盘点可能受益/受损的科技公司与国家，揭示'收割'逻辑",
-   "hook_reason": "美国砸2万亿赌AI，这笔钱最后会流向谁口袋？",
-   "url": "https://www.toutiao.com/trending/7692635234998685193/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:美国2万亿美元押注ai谁会被收割",
-   "batch_window": 16
-  },
-  {
    "key": "华裔科学家李飞飞称10年后人工智能普及全球将只剩下两类劳动如何理解",
    "title": "华裔科学家李飞飞称10年后人工智能普及，全球将只剩下两类劳动，如何理解？",
    "rating": "A",
@@ -267,6 +254,32 @@
    "breaking": true,
    "event_id": "e:第20届亚运会闭幕",
    "batch_window": 19
+  },
+  {
+   "key": "亚运银牌回家也得掰苞米",
+   "title": "亚运银牌 回家也得掰苞米",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从赛场到田间：银牌的荣耀与生活的重量，普通人如何在期待与现实间自处",
+   "hook_reason": "亚运银牌得主回家仍要干农活，荣誉与现实的强烈反差直击人心",
+   "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E9%93%B6%E7%89%8C+%E5%9B%9E%E5%AE%B6%E4%B9%9F%E5%BE%97%E6%8E%B0%E8%8B%9E%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:亚运银牌回家也得掰苞米",
+   "batch_window": 20
+  },
+  {
+   "key": "日本197人专案组连夜抓捕驻日美士兵",
+   "title": "日本197人专案组连夜抓捕驻日美士兵",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从驻日美军治外法权争议切入，剖析日本主权与美日安保条约的深层博弈",
+   "hook_reason": "驻日美军被抓的冲突性+国际地缘博弈，激发民族情绪与猎奇心理",
+   "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC197%E4%BA%BA%E4%B8%93%E6%A1%88%E7%BB%84%E8%BF%9E%E5%A4%9C%E6%8A%93%E6%8D%95%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%A3%AB%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:日本197人专案组连夜抓捕驻日美士兵",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -347,7 +360,8 @@
   "发布了头条文章新一轮924新政拉开序幕新一轮924新政拉开序幕",
   "多名小孩用充电枪荡秋千客服回应",
   "中国游客听到china一呼百应",
-  "亚运会闭幕式"
+  "亚运会闭幕式",
+  "美国2万亿美元押注ai谁会被收割"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -364,7 +378,8 @@
   "e:发布了头条文章新一轮924新政拉开序幕新一轮924新政拉开序幕": "发布了头条文章：《新一轮“924”新政拉开序幕》 新一轮“924”新政拉开序幕",
   "e:多名小孩用充电枪荡秋千客服回应": "多名小孩用充电枪荡秋千 客服回应",
   "e:中国游客听到china一呼百应": "中国游客听到China一呼百应",
-  "e:亚运会闭幕式": "亚运会闭幕式"
+  "e:亚运会闭幕式": "亚运会闭幕式",
+  "e:美国2万亿美元押注ai谁会被收割": "美国2万亿美元押注AI谁会被收割"
  },
  "a_seen": {
   "余承东余总转发文案": {
@@ -606,8 +621,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:第20届亚运会闭幕"
+  },
+  "亚运银牌回家也得掰苞米": {
+   "key": "亚运银牌回家也得掰苞米",
+   "title": "亚运银牌 回家也得掰苞米",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从赛场到田间：银牌的荣耀与生活的重量，普通人如何在期待与现实间自处",
+   "hook_reason": "亚运银牌得主回家仍要干农活，荣誉与现实的强烈反差直击人心",
+   "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E9%93%B6%E7%89%8C+%E5%9B%9E%E5%AE%B6%E4%B9%9F%E5%BE%97%E6%8E%B0%E8%8B%9E%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:亚运银牌回家也得掰苞米"
+  },
+  "日本197人专案组连夜抓捕驻日美士兵": {
+   "key": "日本197人专案组连夜抓捕驻日美士兵",
+   "title": "日本197人专案组连夜抓捕驻日美士兵",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从驻日美军治外法权争议切入，剖析日本主权与美日安保条约的深层博弈",
+   "hook_reason": "驻日美军被抓的冲突性+国际地缘博弈，激发民族情绪与猎奇心理",
+   "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC197%E4%BA%BA%E4%B8%93%E6%A1%88%E7%BB%84%E8%BF%9E%E5%A4%9C%E6%8A%93%E6%8D%95%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%A3%AB%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:日本197人专案组连夜抓捕驻日美士兵"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
