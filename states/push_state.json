@@ -358,6 +358,19 @@
    "breaking": true,
    "event_id": "e:年轻人开始不买景区冤种三件套了",
    "batch_window": 1
+  },
+  {
+   "key": "飞行员想带我们一起自杀怎么看待迪拜航空飞机一分钟骤降15万英尺机组人员刺伤同事",
+   "title": "“飞行员想带我们一起自杀！”怎么看待迪拜航空飞机一分钟骤降1.5万英尺，机组人员刺伤同事?",
+   "rating": "A",
+   "score": 70.5,
+   "angle": "从航空安全机制切入，探讨飞行中极端行为的预防与应急处置",
+   "hook_reason": "飞行员疑似欲带全员自杀+机组内讧刺人，触碰全民航空安全焦虑",
+   "url": "https://www.zhihu.com/question/2088713859351704552",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:飞行员想带我们一起自杀怎么看待迪拜航空飞机一分钟骤降15万英尺机组人员刺伤同事",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -506,13 +519,13 @@
    "key": "飞行员想带我们一起自杀怎么看待迪拜航空飞机一分钟骤降15万英尺机组人员刺伤同事",
    "title": "“飞行员想带我们一起自杀！”怎么看待迪拜航空飞机一分钟骤降1.5万英尺，机组人员刺伤同事?",
    "rating": "A",
-   "score": 69.75,
-   "angle": "从乘客视角切入，分析极端心理爆发场景下的自救与航空安全机制漏洞",
-   "hook_reason": "飞行员欲拉所有人陪葬+机舱暴力，生死瞬间的极致冲突",
+   "score": 70.5,
+   "angle": "从航空安全机制切入，探讨飞行中极端行为的预防与应急处置",
+   "hook_reason": "飞行员疑似欲带全员自杀+机组内讧刺人，触碰全民航空安全焦虑",
    "url": "https://www.zhihu.com/question/2088713859351704552",
    "track": "社会热点",
    "breaking": true,
-   "event_id": "e:美国驻以色列大使迪拜航空事件属于恐怖袭击目前尚未发现存在境外关联"
+   "event_id": "e:飞行员想带我们一起自杀怎么看待迪拜航空飞机一分钟骤降15万英尺机组人员刺伤同事"
   },
   "carisasmartphoneonwheelshereswhoslistening": {
    "key": "carisasmartphoneonwheelshereswhoslistening",
