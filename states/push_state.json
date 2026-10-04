@@ -137,6 +137,32 @@
    "breaking": true,
    "event_id": "e:董宇辉兰知春序音乐会西安开演",
    "batch_window": 16
+  },
+  {
+   "key": "美国2万亿美元押注ai谁会被收割",
+   "title": "美国2万亿美元押注AI谁会被收割",
+   "rating": "A",
+   "score": 90.0,
+   "angle": "从美国AI投资布局切入，盘点可能受益/受损的科技公司与国家，揭示'收割'逻辑",
+   "hook_reason": "美国砸2万亿赌AI，这笔钱最后会流向谁口袋？",
+   "url": "https://www.toutiao.com/trending/7692635234998685193/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:美国2万亿美元押注ai谁会被收割",
+   "batch_window": 16
+  },
+  {
+   "key": "多名小孩用充电枪荡秋千客服回应",
+   "title": "多名小孩用充电枪荡秋千 客服回应",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "聚焦儿童安全与充电设施防误触设计，探讨公共设备防护升级与家庭教育责任边界",
+   "hook_reason": "充电枪当秋千？家长监管缺失引众怒，客服急回应",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%B0%8F%E5%AD%A9%E7%94%A8%E5%85%85%E7%94%B5%E6%9E%AA%E8%8D%A1%E7%A7%8B%E5%8D%83+%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:多名小孩用充电枪荡秋千客服回应",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -314,6 +340,30 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:董宇辉兰知春序音乐会西安开演"
+  },
+  "美国2万亿美元押注ai谁会被收割": {
+   "key": "美国2万亿美元押注ai谁会被收割",
+   "title": "美国2万亿美元押注AI谁会被收割",
+   "rating": "A",
+   "score": 90.0,
+   "angle": "从美国AI投资布局切入，盘点可能受益/受损的科技公司与国家，揭示'收割'逻辑",
+   "hook_reason": "美国砸2万亿赌AI，这笔钱最后会流向谁口袋？",
+   "url": "https://www.toutiao.com/trending/7692635234998685193/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:美国2万亿美元押注ai谁会被收割"
+  },
+  "多名小孩用充电枪荡秋千客服回应": {
+   "key": "多名小孩用充电枪荡秋千客服回应",
+   "title": "多名小孩用充电枪荡秋千 客服回应",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "聚焦儿童安全与充电设施防误触设计，探讨公共设备防护升级与家庭教育责任边界",
+   "hook_reason": "充电枪当秋千？家长监管缺失引众怒，客服急回应",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%B0%8F%E5%AD%A9%E7%94%A8%E5%85%85%E7%94%B5%E6%9E%AA%E8%8D%A1%E7%A7%8B%E5%8D%83+%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:多名小孩用充电枪荡秋千客服回应"
   }
  },
  "breaking_count": 10,
