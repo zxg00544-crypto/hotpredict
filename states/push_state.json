@@ -113,19 +113,6 @@
    "batch_window": 16
   },
   {
-   "key": "徐良演唱会救活了即将倒闭的面包厂",
-   "title": "徐良演唱会救活了即将倒闭的面包厂",
-   "rating": "A",
-   "score": 87.35,
-   "angle": "从明星效应看实体经济复苏，探讨文旅+实业的跨界联动新范式",
-   "hook_reason": "明星演唱会竟能救活濒临倒闭的工厂，暖心反差引发共鸣",
-   "url": "https://s.weibo.com/weibo?q=徐良演唱会救活了即将倒闭的面包厂",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:徐良演唱会救活了即将倒闭的面包厂",
-   "batch_window": 16
-  },
-  {
    "key": "董宇辉兰知春序音乐会西安开演",
    "title": "董宇辉《兰知春序音乐会》西安开演",
    "rating": "A",
@@ -371,6 +358,19 @@
    "breaking": false,
    "event_id": "e:雷军一口气刷完7期民间拆车视频",
    "batch_window": 2
+  },
+  {
+   "key": "官方通报阿尔山景区200一晚酒店",
+   "title": "官方通报“阿尔山景区200一晚酒店”",
+   "rating": "A",
+   "score": 81.1,
+   "angle": "从官方通报切入，剖析景区定价乱象与监管缺失，引发大众共鸣与讨论",
+   "hook_reason": "官方通报+天价酒店，直击消费者痛点，情绪共鸣强",
+   "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E9%98%BF%E5%B0%94%E5%B1%B1%E6%99%AF%E5%8C%BA200%E4%B8%80%E6%99%9A%E9%85%92%E5%BA%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:官方通报阿尔山景区200一晚酒店",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -468,7 +468,8 @@
   "王励勤中国乒乓使命不只是争金夺银",
   "amapofeverylighthouseontheplanet",
   "小孩哥在花坛发现2枚恐龙蛋化石",
-  "商家回应3片回锅肉卖105元"
+  "商家回应3片回锅肉卖105元",
+  "徐良演唱会救活了即将倒闭的面包厂"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -502,7 +503,8 @@
   "e:王励勤中国乒乓使命不只是争金夺银": "王励勤：中国乒乓使命不只是争金夺银",
   "e:amapofeverylighthouseontheplanet": "A Map of Every Lighthouse on the Planet",
   "e:小孩哥在花坛发现2枚恐龙蛋化石": "小孩哥在花坛发现2枚恐龙蛋化石",
-  "e:商家回应3片回锅肉卖105元": "商家回应3片回锅肉卖105元"
+  "e:商家回应3片回锅肉卖105元": "商家回应3片回锅肉卖105元",
+  "e:徐良演唱会救活了即将倒闭的面包厂": "徐良演唱会救活了即将倒闭的面包厂"
  },
  "a_seen": {
   "特朗普民调向来低估让美国再次伟大maga群体他们试图压制选票但我": {
@@ -588,8 +590,20 @@
    "track": "大咖发言",
    "breaking": false,
    "event_id": "e:雷军一口气刷完7期民间拆车视频"
+  },
+  "官方通报阿尔山景区200一晚酒店": {
+   "key": "官方通报阿尔山景区200一晚酒店",
+   "title": "官方通报“阿尔山景区200一晚酒店”",
+   "rating": "A",
+   "score": 81.1,
+   "angle": "从官方通报切入，剖析景区定价乱象与监管缺失，引发大众共鸣与讨论",
+   "hook_reason": "官方通报+天价酒店，直击消费者痛点，情绪共鸣强",
+   "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E9%98%BF%E5%B0%94%E5%B1%B1%E6%99%AF%E5%8C%BA200%E4%B8%80%E6%99%9A%E9%85%92%E5%BA%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:官方通报阿尔山景区200一晚酒店"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
