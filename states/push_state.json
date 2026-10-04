@@ -217,19 +217,6 @@
    "batch_window": 19
   },
   {
-   "key": "国庆景区热度前10被小城包揽",
-   "title": "国庆景区热度前10被小城包揽",
-   "rating": "A",
-   "score": 88.15,
-   "angle": "从'小城旅游爆火'切入，解读国民消费降级+理性化趋势，以及地方文旅出圈的底层逻辑",
-   "hook_reason": "小城逆袭包揽国庆热度TOP10，打破大城市垄断，引发大众共鸣",
-   "url": "https://s.weibo.com/weibo?q=国庆景区热度前10被小城包揽",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:国庆景区热度前10被小城包揽",
-   "batch_window": 19
-  },
-  {
    "key": "小孩哥在花坛发现2枚恐龙蛋化石",
    "title": "小孩哥在花坛发现2枚恐龙蛋化石",
    "rating": "A",
@@ -345,6 +332,32 @@
    "breaking": true,
    "event_id": "e:因为国所以潮",
    "batch_window": 22
+  },
+  {
+   "key": "runqwen38flashnext125bonconsumer8b81bbb3",
+   "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从技术突破切入，分析125B模型在4090上实现100T/s推理的核心技术路径及对开发者的实际影响",
+   "hook_reason": "消费级显卡跑125B大模型，普通人也能用顶级AI了",
+   "url": "https://github.com/Niko1221/Strata",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:runqwen38flashnext125bonconsumerhardware",
+   "batch_window": 23
+  },
+  {
+   "key": "我军反无人机铁三角戈壁实弹演练",
+   "title": "我军反无人机铁三角戈壁实弹演练",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从反无人机'铁三角'战术体系切入，解读我军低空防御能力跃升背后的科技突破与战略意义",
+   "hook_reason": "军工新装备实弹演练，民族自豪感+科技感双重驱动",
+   "url": "https://search.bilibili.com/all?keyword=我军反无人机铁三角戈壁实弹演练",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:我军反无人机铁三角戈壁实弹演练",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -428,7 +441,8 @@
   "亚运会闭幕式",
   "美国2万亿美元押注ai谁会被收割",
   "亚运银牌回家也得掰苞米",
-  "日本197人专案组连夜抓捕驻日美士兵"
+  "日本197人专案组连夜抓捕驻日美士兵",
+  "国庆景区热度前10被小城包揽"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -448,7 +462,8 @@
   "e:亚运会闭幕式": "亚运会闭幕式",
   "e:美国2万亿美元押注ai谁会被收割": "美国2万亿美元押注AI谁会被收割",
   "e:亚运银牌回家也得掰苞米": "亚运银牌 回家也得掰苞米",
-  "e:日本197人专案组连夜抓捕驻日美士兵": "日本197人专案组连夜抓捕驻日美士兵"
+  "e:日本197人专案组连夜抓捕驻日美士兵": "日本197人专案组连夜抓捕驻日美士兵",
+  "e:国庆景区热度前10被小城包揽": "国庆景区热度前10被小城包揽"
  },
  "a_seen": {
   "余承东余总转发文案": {
@@ -798,8 +813,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:因为国所以潮"
+  },
+  "runqwen38flashnext125bonconsumer8b81bbb3": {
+   "key": "runqwen38flashnext125bonconsumer8b81bbb3",
+   "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从技术突破切入，分析125B模型在4090上实现100T/s推理的核心技术路径及对开发者的实际影响",
+   "hook_reason": "消费级显卡跑125B大模型，普通人也能用顶级AI了",
+   "url": "https://github.com/Niko1221/Strata",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:runqwen38flashnext125bonconsumerhardware"
+  },
+  "我军反无人机铁三角戈壁实弹演练": {
+   "key": "我军反无人机铁三角戈壁实弹演练",
+   "title": "我军反无人机铁三角戈壁实弹演练",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从反无人机'铁三角'战术体系切入，解读我军低空防御能力跃升背后的科技突破与战略意义",
+   "hook_reason": "军工新装备实弹演练，民族自豪感+科技感双重驱动",
+   "url": "https://search.bilibili.com/all?keyword=我军反无人机铁三角戈壁实弹演练",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:我军反无人机铁三角戈壁实弹演练"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
