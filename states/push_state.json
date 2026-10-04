@@ -256,19 +256,6 @@
    "batch_window": 19
   },
   {
-   "key": "日本197人专案组连夜抓捕驻日美士兵",
-   "title": "日本197人专案组连夜抓捕驻日美士兵",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从驻日美军治外法权争议切入，剖析日本主权与美日安保条约的深层博弈",
-   "hook_reason": "驻日美军被抓的冲突性+国际地缘博弈，激发民族情绪与猎奇心理",
-   "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC197%E4%BA%BA%E4%B8%93%E6%A1%88%E7%BB%84%E8%BF%9E%E5%A4%9C%E6%8A%93%E6%8D%95%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%A3%AB%E5%85%B5&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:日本197人专案组连夜抓捕驻日美士兵",
-   "batch_window": 20
-  },
-  {
    "key": "中国代表团超23运动员首次征战亚运",
    "title": "中国代表团超2/3运动员首次征战亚运",
    "rating": "A",
@@ -319,6 +306,45 @@
    "breaking": true,
    "event_id": "e:小米澎程1000多个日夜428万公里实测有些时间没法节省我们要把高可靠牢牢焊在小",
    "batch_window": 21
+  },
+  {
+   "key": "10万游客涌入小县城文旅局长给铺床",
+   "title": "10万游客涌入小县城 文旅局长给铺床",
+   "rating": "A",
+   "score": 73.31,
+   "angle": "聚焦官员身份与行为的强烈反差，剖析地方文旅爆火背后的政绩逻辑与公众情绪",
+   "hook_reason": "局长亲自铺床的反差感，是亲民作秀还是诚意，引发全民围观讨论",
+   "url": "https://www.baidu.com/s?wd=10%E4%B8%87%E6%B8%B8%E5%AE%A2%E6%B6%8C%E5%85%A5%E5%B0%8F%E5%8E%BF%E5%9F%8E+%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E7%BB%99%E9%93%BA%E5%BA%8A&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:10万游客涌入小县城文旅局长给铺床",
+   "batch_window": 22
+  },
+  {
+   "key": "夜已深你在哪个城市小米18pro系列",
+   "title": "夜已深， 你在哪个城市？ #小米18Pro系列#",
+   "rating": "A",
+   "score": 49.95,
+   "angle": "从悬念切入解析小米18 Pro系列定位，关联国产手机竞争格局与夜发布策略",
+   "hook_reason": "小米旗舰新品悬念发布，粉丝关注度极高，引发全国讨论",
+   "url": "https://weibo.com/1892653244/Rl9pVr9Bv",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:夜已深你在哪个城市小米18pro系列",
+   "batch_window": 22
+  },
+  {
+   "key": "因为国所以潮",
+   "title": "因为国 所以潮",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从'因为国所以潮'切入，分析Z世代国货消费心理与文化自信爆发",
+   "hook_reason": "民族情绪+国货崛起，读者有身份代入感",
+   "url": "https://www.baidu.com/s?wd=%E5%9B%A0%E4%B8%BA%E5%9B%BD+%E6%89%80%E4%BB%A5%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:因为国所以潮",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -401,7 +427,8 @@
   "中国游客听到china一呼百应",
   "亚运会闭幕式",
   "美国2万亿美元押注ai谁会被收割",
-  "亚运银牌回家也得掰苞米"
+  "亚运银牌回家也得掰苞米",
+  "日本197人专案组连夜抓捕驻日美士兵"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -420,7 +447,8 @@
   "e:中国游客听到china一呼百应": "中国游客听到China一呼百应",
   "e:亚运会闭幕式": "亚运会闭幕式",
   "e:美国2万亿美元押注ai谁会被收割": "美国2万亿美元押注AI谁会被收割",
-  "e:亚运银牌回家也得掰苞米": "亚运银牌 回家也得掰苞米"
+  "e:亚运银牌回家也得掰苞米": "亚运银牌 回家也得掰苞米",
+  "e:日本197人专案组连夜抓捕驻日美士兵": "日本197人专案组连夜抓捕驻日美士兵"
  },
  "a_seen": {
   "余承东余总转发文案": {
@@ -727,15 +755,51 @@
    "key": "小米澎程1000多个日夜428万公里实测有些时间没法节省我们要把高可靠牢牢焊在小",
    "title": "小米澎程，1000多个日夜，428万公里实测。 有些时间，没法节省，我们要把“高可靠”牢牢焊在小",
    "rating": "A",
-   "score": 49.85,
-   "angle": "实测数据解读，技术可靠性深度分析",
-   "hook_reason": "428万公里实测数据吸引技术关注，高可靠卖点",
+   "score": 84.85,
+   "angle": "从发布会金句切入，解析小米澎湃OS的技术底气与和华为鸿蒙的正面交锋",
+   "hook_reason": "雷军1000天闭关炼系统，428万公里实测，小米要死磕华为鸿蒙？",
    "url": "https://weibo.com/1749127163/Rl97jxhK9",
    "track": "科技",
    "breaking": true,
    "event_id": "e:小米澎程1000多个日夜428万公里实测有些时间没法节省我们要把高可靠牢牢焊在小"
+  },
+  "10万游客涌入小县城文旅局长给铺床": {
+   "key": "10万游客涌入小县城文旅局长给铺床",
+   "title": "10万游客涌入小县城 文旅局长给铺床",
+   "rating": "A",
+   "score": 73.31,
+   "angle": "聚焦官员身份与行为的强烈反差，剖析地方文旅爆火背后的政绩逻辑与公众情绪",
+   "hook_reason": "局长亲自铺床的反差感，是亲民作秀还是诚意，引发全民围观讨论",
+   "url": "https://www.baidu.com/s?wd=10%E4%B8%87%E6%B8%B8%E5%AE%A2%E6%B6%8C%E5%85%A5%E5%B0%8F%E5%8E%BF%E5%9F%8E+%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E7%BB%99%E9%93%BA%E5%BA%8A&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:10万游客涌入小县城文旅局长给铺床"
+  },
+  "夜已深你在哪个城市小米18pro系列": {
+   "key": "夜已深你在哪个城市小米18pro系列",
+   "title": "夜已深， 你在哪个城市？ #小米18Pro系列#",
+   "rating": "A",
+   "score": 49.95,
+   "angle": "从悬念切入解析小米18 Pro系列定位，关联国产手机竞争格局与夜发布策略",
+   "hook_reason": "小米旗舰新品悬念发布，粉丝关注度极高，引发全国讨论",
+   "url": "https://weibo.com/1892653244/Rl9pVr9Bv",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:夜已深你在哪个城市小米18pro系列"
+  },
+  "因为国所以潮": {
+   "key": "因为国所以潮",
+   "title": "因为国 所以潮",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从'因为国所以潮'切入，分析Z世代国货消费心理与文化自信爆发",
+   "hook_reason": "民族情绪+国货崛起，读者有身份代入感",
+   "url": "https://www.baidu.com/s?wd=%E5%9B%A0%E4%B8%BA%E5%9B%BD+%E6%89%80%E4%BB%A5%E6%BD%AE&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:因为国所以潮"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
