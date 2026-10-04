@@ -299,13 +299,13 @@ def make_trigger(scf):
         t = scf_models.CreateTriggerRequest()
         t.Namespace = NS
         t.FunctionName = FN
-        t.TriggerName = "every5min"
+        t.TriggerName = "every20min"
         t.Type = "timer"
         # 实测：TriggerDesc 必须是裸 7 段 cron 字符串（JSON 对象形式报 "cron is invalid"）。
-        # 7 段 = 秒 分 时 日 月 周 年，"0 */5 * * * * *" = 每 5 分钟第 0 秒。
-        t.TriggerDesc = "0 */5 * * * * *"
+        # 7 段 = 秒 分 时 日 月 周 年，"0 */20 * * * * *" = 每 20 分钟第 0 秒。
+        t.TriggerDesc = "0 */20 * * * * *"
         scf.CreateTrigger(t)
-        print("trigger created every5min")
+        print("trigger created every20min")
         return True
     except Exception as e:
         msg = str(e)
@@ -385,7 +385,7 @@ def main():
     if not (trig_ok and alarm_ok):
         missing = []
         if not trig_ok:
-            missing.append("触发器 every5min")
+            missing.append("触发器 every20min")
         if not alarm_ok:
             missing.append("告警策略 hotpredict-round-error")
         sys.stderr.write("deploy FAILED: 交付物缺失 -> %s\n" % "、".join(missing))

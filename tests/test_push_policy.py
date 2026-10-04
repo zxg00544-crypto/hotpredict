@@ -19,7 +19,7 @@ class Signal:
 
 
 PROJ_FIELDS = {"key", "title", "rating", "score", "angle", "hook_reason",
-               "url", "track", "breaking", "batch_window"}
+               "url", "track", "breaking", "batch_window", "event_id"}
 
 
 class TestPushPolicy(unittest.TestCase):
@@ -270,6 +270,51 @@ class TestPushPolicy(unittest.TestCase):
         msgs = plan_push(st, "2026-09-28", [T("x", "A")], [], False, [], "b.html", hour=10)
         self.assertEqual([m[0] for m in msgs], [])     # pushed_a 迁移，不重复推
 
+
+
+    # —— 事件级去重（2026-10-03：同事件不同标题只推一次）——
+    def test_breaking_same_event_different_title_pushed_once(self):
+        st = {}
+        a = T("k1", "B", title="白宫人工智能协议：谷歌版", breaking=True)
+        a["event_id"] = "e:白宫人工智能协议"
+        b = T("k2", "B", title="白宫人工智能协议：英伟达版", breaking=True)
+        b["event_id"] = "e:白宫人工智能协议"
+        m1 = plan_push(st, "2026-10-03", [a], [], False, [], "b.html", hour=10)
+        self.assertEqual([m[0] for m in m1], ["breaking"])
+        m2 = plan_push(st, "2026-10-03", [b], [], False, [], "b.html", hour=10)
+        self.assertEqual(m2, [])                          # 同事件第二条不推
+        self.assertIn("e:白宫人工智能协议", st["pushed_events"])
+
+    def test_a_same_event_different_title_pushed_once(self):
+        st = {}
+        a = T("k1", "A", score=70); a["event_id"] = "e:房贷贴息"
+        b = T("k2", "A", score=90); b["event_id"] = "e:房贷贴息"
+        plan_push(st, "2026-10-03", [a, b], [], False, [], "b.html", hour=1)
+        self.assertEqual(len(st["a_pending"]), 1)         # 同事件只入池 1 条
+        m5 = plan_push(st, "2026-10-03", [a, b], [], False, [], "b.html", hour=5)
+        self.assertEqual(len([m for m in m5 if m[0] == "a"]), 1)
+        m9 = plan_push(st, "2026-10-03", [a, b], [], False, [], "b.html", hour=9)
+        self.assertEqual([m for m in m9 if m[0] == "a"], [])
+        self.assertEqual(st["a_pending"], [])             # 同事件余条已出池
+        self.assertIn("e:房贷贴息", st["pushed_events"])
+
+    def test_missing_event_id_falls_back_to_key(self):
+        """LLM 降级 / 旧 state：无 event_id 退回 key 去重，等价改动前。"""
+        st = {}
+        a = T("k1", "B", breaking=True)
+        plan_push(st, "2026-10-03", [a], [], False, [], "b.html", hour=10)
+        msgs = plan_push(st, "2026-10-03", [a], [], False, [], "b.html", hour=11)
+        self.assertEqual(msgs, [])
+        self.assertIn("e:k1", st["pushed_events"])
+
+    def test_pushed_events_survives_date_rollover(self):
+        st = {"date": "2026-10-02", "daily_done": True, "alert_date": "2026-10-02",
+              "a_pending": [], "pushed": [], "a_seen": {},
+              "pushed_events": {"e:白宫AI协议": "白宫人工智能协议"}}
+        b = T("k2", "B", breaking=True); b["event_id"] = "e:白宫AI协议"
+        msgs = plan_push(st, "2026-10-03", [b], [], False, [], "b.html", hour=10)
+        self.assertEqual(msgs, [])                        # 跨日仍按事件去重
+        self.assertIn("e:白宫AI协议", st["pushed_events"])
 
 if __name__ == "__main__":
     unittest.main()

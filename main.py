@@ -12,6 +12,7 @@ from render.report import render_daily
 from render.board import render_board
 from render.notifier import notify
 from render.push_policy import load_state, save_state, plan_push
+from llm_judge.cluster import assign_event_ids
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
@@ -106,6 +107,15 @@ def run_round(cfg: dict) -> dict:
             fb += f
             degraded = degraded or d
 
+    state_path = os.path.join(out_dir, "states", "push_state.json")
+    st = load_state(state_path)
+    # 事件级去重（2026-10-03）：同事件不同标题只推一次。保守合并；
+    # --no-llm 或 LLM 失败自动降级本地聚类，永不比只按 key 去重更糟。
+    eids = assign_event_ids(fast, st.get("pushed_events") or {}, cfg,
+                            enabled=use_llm)
+    for t in fast:
+        t["event_id"] = eids.get(t.get("key"), "e:" + (t.get("key") or ""))
+
     meta = {"llm_model": cfg.get("llm", {}).get("model", "-") if use_llm else "已禁用(--no-llm)",
             "llm_fallback_count": fb, "degraded": degraded,
             "sources": sources, "db_path": db_path}
@@ -121,8 +131,6 @@ def run_round(cfg: dict) -> dict:
     with open(board_path, "w", encoding="utf-8") as f:
         f.write(board)
 
-    state_path = os.path.join(out_dir, "states", "push_state.json")
-    st = load_state(state_path)
     pushes = [{"kind": k, "result": notify(t, c, cfg)}
               for k, t, c in plan_push(st, date_str, fast, trend,
                                        degraded, failed, board_path,

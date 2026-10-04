@@ -1,5 +1,5 @@
 ﻿# tests/test_main.py
-import unittest, tempfile, os
+import unittest, tempfile, os, json
 from unittest.mock import patch
 from main import run_round, load_cfg
 
@@ -55,5 +55,52 @@ class TestMain(unittest.TestCase):
                 md = fh.read()
             self.assertIn("快讯", md)
 
+
+    @patch("main._now_hour", return_value=10)
+    @patch("main.notify", return_value="ok")
+    @patch("main.get_collectors")
+    def test_run_round_same_event_pushed_once(self, m_col, m_notify, m_hour):
+        """端到端（2026-10-03 事件级去重）：两条同事件、不同标题、不同 key 的
+        信号都进快讯档，但只推 1 条 breaking；state.pushed_events 恰 1 项。
+        事件聚类走本地降级（use_llm=False），不发起任何 LLM 调用。"""
+        import json as _json
+        from datetime import datetime as _dt
+        from collectors.base import Signal, topic_key
+        t1 = "白宫人工智能协议谷歌版签署"
+        t2 = "白宫人工智能协议英伟达版签署"
+        now = _dt.now().isoformat()
+        self.assertNotEqual(topic_key(t1), topic_key(t2))   # 两个独立 key
+
+        def fake_collector(cfg):
+            return [
+                Signal(topic_key=topic_key(t1), source="sina", title=t1,
+                       url="https://example.com/1", heat=250, rank=50,
+                       rank_delta=0, engagement=100, author_weight=0.5,
+                       fetched_at=now),
+                Signal(topic_key=topic_key(t2), source="reuters", title=t2,
+                       url="https://example.com/2", heat=250, rank=50,
+                       rank_delta=0, engagement=100, author_weight=0.5,
+                       fetched_at=now),
+            ]
+        m_col.return_value = [fake_collector]
+
+        with tempfile.TemporaryDirectory() as tmp:
+            cfg = load_cfg("config.yaml")
+            cfg["db_path"] = os.path.join(tmp, "t.db")
+            cfg["out_dir"] = tmp
+            cfg["use_llm"] = False
+            cfg["dry_run"] = True
+            cfg["notify"] = {}
+            res = run_round(cfg)
+            self.assertEqual(res["status"], "ok")
+            self.assertEqual(res["fast"], 2)                 # 两条都进快讯档
+            kinds = [p["kind"] for p in res["push"]]
+            self.assertEqual(kinds.count("breaking"), 1)     # 同事件只推 1 条
+            self.assertEqual(kinds.count("a"), 0)            # 未评级 → 无 A 推送
+            with open(os.path.join(tmp, "states", "push_state.json"),
+                      encoding="utf-8") as fh:
+                st = _json.load(fh)
+            self.assertEqual(len(st["pushed_events"]), 1)    # 只登记一个事件
+            self.assertEqual(len(st["pushed"]), 1)
 if __name__ == "__main__":
     unittest.main()
