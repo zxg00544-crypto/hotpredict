@@ -204,19 +204,6 @@
    "batch_window": 19
   },
   {
-   "key": "小孩哥在花坛发现2枚恐龙蛋化石",
-   "title": "小孩哥在花坛发现2枚恐龙蛋化石",
-   "rating": "A",
-   "score": 87.7,
-   "angle": "从孩子视角切入，讲述日常场景中的意外发现，引发读者对身边自然的好奇心",
-   "hook_reason": "小孩花坛挖出恐龙蛋，童年奇遇+科普惊喜双重吸引力",
-   "url": "https://www.toutiao.com/trending/7692699768690114596/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:小孩哥在花坛发现2枚恐龙蛋化石",
-   "batch_window": 19
-  },
-  {
    "key": "第20届亚运会闭幕",
    "title": "第20届亚运会闭幕",
    "rating": "A",
@@ -332,6 +319,45 @@
    "breaking": true,
    "event_id": "e:runqwen38flashnext125bonconsumerhardware",
    "batch_window": 23
+  },
+  {
+   "key": "carisasmartphoneonwheelshereswhoslistening",
+   "title": "Car is a smartphone on wheels. Here's who's listening",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从智能手机数据隐私延伸到智能汽车，揭示谁在收集车内数据及你的行车轨迹被卖给了谁",
+   "hook_reason": "汽车像手机一样被监听，隐私恐惧+科技感双重击中",
+   "url": "https://automatictransmission.khoury.northeastern.edu/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:carisasmartphoneonwheelshereswhoslisteni",
+   "batch_window": 1
+  },
+  {
+   "key": "白宫国家经济委员会主任哈塞特鲍威尔应该离开美联储理事会",
+   "title": "白宫国家经济委员会主任哈塞特：鲍威尔应该离开美联储理事会",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "拆解白宫此举背后的政策博弈，研判美联储独立性与美股、美元走势的连锁反应",
+   "hook_reason": "白宫高官公开喊话逼鲍威尔下台，美联储独立性遭政治冲击",
+   "url": "https://finance.sina.cn/7x24/2026-10-05/detail-iniuawyx6813036.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:白宫国家经济委员会主任哈塞特鲍威尔应该离开美联储理事会",
+   "batch_window": 1
+  },
+  {
+   "key": "年轻人开始不买景区冤种三件套了",
+   "title": "年轻人开始不买景区冤种三件套了",
+   "rating": "A",
+   "score": 24.0,
+   "angle": "年轻人消费降级背后是理性觉醒，景区暴利模式或面临终结，可拆解冤种三件套品类及替代方案",
+   "hook_reason": "年轻人反杀景区坑钱套路，共鸣感极强",
+   "url": "https://s.weibo.com/weibo?q=年轻人开始不买景区冤种三件套了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:年轻人开始不买景区冤种三件套了",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -426,7 +452,9 @@
   "央视迎来新主播",
   "也门总理我们坚定致力于将国家权力扩大至整个也门并结束胡塞武装的叛乱我们以高",
   "西安肉夹馍师傅已忙到3秒夹一个",
-  "王励勤中国乒乓使命不只是争金夺银"
+  "王励勤中国乒乓使命不只是争金夺银",
+  "amapofeverylighthouseontheplanet",
+  "小孩哥在花坛发现2枚恐龙蛋化石"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -457,7 +485,9 @@
   "e:央视迎来新主播": "央视迎来新主播",
   "e:也门总理我们坚定致力于将国家权力扩大至整个也门并结束胡塞武装的叛乱我们以高": "也门总理：我们坚定致力于将国家权力扩大至整个也门，并结束胡塞武装的叛乱。我们以高",
   "e:西安肉夹馍师傅已忙到3秒夹一个": "西安肉夹馍师傅已忙到3秒夹一个",
-  "e:王励勤中国乒乓使命不只是争金夺银": "王励勤：中国乒乓使命不只是争金夺银"
+  "e:王励勤中国乒乓使命不只是争金夺银": "王励勤：中国乒乓使命不只是争金夺银",
+  "e:amapofeverylighthouseontheplanet": "A Map of Every Lighthouse on the Planet",
+  "e:小孩哥在花坛发现2枚恐龙蛋化石": "小孩哥在花坛发现2枚恐龙蛋化石"
  },
  "a_seen": {
   "特朗普民调向来低估让美国再次伟大maga群体他们试图压制选票但我": {
@@ -476,15 +506,51 @@
    "key": "飞行员想带我们一起自杀怎么看待迪拜航空飞机一分钟骤降15万英尺机组人员刺伤同事",
    "title": "“飞行员想带我们一起自杀！”怎么看待迪拜航空飞机一分钟骤降1.5万英尺，机组人员刺伤同事?",
    "rating": "A",
-   "score": 43.75,
-   "angle": "聚焦航空安全漏洞与机组心理健康监管，引发公众对飞行安全的恐慌共鸣",
-   "hook_reason": "机上惊魂！飞行员扬言带乘客自杀并刺伤同事，命悬一线",
+   "score": 69.75,
+   "angle": "从乘客视角切入，分析极端心理爆发场景下的自救与航空安全机制漏洞",
+   "hook_reason": "飞行员欲拉所有人陪葬+机舱暴力，生死瞬间的极致冲突",
    "url": "https://www.zhihu.com/question/2088713859351704552",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:美国驻以色列大使迪拜航空事件属于恐怖袭击目前尚未发现存在境外关联"
+  },
+  "carisasmartphoneonwheelshereswhoslistening": {
+   "key": "carisasmartphoneonwheelshereswhoslistening",
+   "title": "Car is a smartphone on wheels. Here's who's listening",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从智能手机数据隐私延伸到智能汽车，揭示谁在收集车内数据及你的行车轨迹被卖给了谁",
+   "hook_reason": "汽车像手机一样被监听，隐私恐惧+科技感双重击中",
+   "url": "https://automatictransmission.khoury.northeastern.edu/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:carisasmartphoneonwheelshereswhoslisteni"
+  },
+  "白宫国家经济委员会主任哈塞特鲍威尔应该离开美联储理事会": {
+   "key": "白宫国家经济委员会主任哈塞特鲍威尔应该离开美联储理事会",
+   "title": "白宫国家经济委员会主任哈塞特：鲍威尔应该离开美联储理事会",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "拆解白宫此举背后的政策博弈，研判美联储独立性与美股、美元走势的连锁反应",
+   "hook_reason": "白宫高官公开喊话逼鲍威尔下台，美联储独立性遭政治冲击",
+   "url": "https://finance.sina.cn/7x24/2026-10-05/detail-iniuawyx6813036.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:白宫国家经济委员会主任哈塞特鲍威尔应该离开美联储理事会"
+  },
+  "年轻人开始不买景区冤种三件套了": {
+   "key": "年轻人开始不买景区冤种三件套了",
+   "title": "年轻人开始不买景区冤种三件套了",
+   "rating": "A",
+   "score": 24.0,
+   "angle": "年轻人消费降级背后是理性觉醒，景区暴利模式或面临终结，可拆解冤种三件套品类及替代方案",
+   "hook_reason": "年轻人反杀景区坑钱套路，共鸣感极强",
+   "url": "https://s.weibo.com/weibo?q=年轻人开始不买景区冤种三件套了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:年轻人开始不买景区冤种三件套了"
   }
  },
- "breaking_count": 9,
- "a_pushed_window": 0
+ "breaking_count": 10,
+ "a_pushed_window": 1
 }
