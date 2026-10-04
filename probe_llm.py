@@ -1,6 +1,14 @@
 """LLM 探针与 OpenAI 兼容调用。key 只在内存里，不写日志不落盘。"""
-import json, os, sys, requests
+import json, os, sys, time, requests
 import yaml
+
+# agnes 限速诊断（2026-10-04）：日 text 用尽后降为 1 请求/分钟（429 + Retry-After）；
+# 另有 free user rate limit 429（无/小 Retry-After，窗口实测 60~244s 不等）。
+# 统一策略：429 共享冷却 max(Retry-After,60s)+1s 且不消耗普通 retries，
+# 单模型冷却总等待 wait_budget_s(245s) 封顶，防病态打转拖垮整轮。
+_last_call_ts = 0.0
+_next_ok_ts = 0.0
+
 
 def load_cfg(path="config.yaml"):
     with open(path, encoding="utf-8") as f:
@@ -40,17 +48,53 @@ def chat(messages, llm_cfg, model, json_mode=True):
     r.raise_for_status()
     return r.json()["choices"][0]["message"]["content"]
 
+def _retry_after_sec(e) -> int:
+    try:
+        v = e.response.headers.get("Retry-After")
+        return int(float(v)) if v else 60
+    except Exception:
+        return 60
+
 def llm_client_call(messages, cfg, json_mode=True):
-    """按备选链依次尝试；返回 {'content':str,'model':str} 或 None。"""
+    """按备选链依次尝试；返回 {'content':str,'model':str} 或 None。
+    429/503：共享冷却 max(Retry-After,60s)+1s，不消耗普通 retries；
+    单模型冷却总等待超 wait_budget_s（默认245s，实测窗口需60~244s）则换下一模型，
+    链尾仍超预算返回 None，防病态打转拖垮整轮。"""
+    global _last_call_ts, _next_ok_ts
     try:
         llm = load_llm_cfg(cfg)
     except Exception:
         return None
+    lcfg = cfg.get("llm") or {}
+    pace = float(lcfg.get("pace_s", 2))
+    wait_budget = float(lcfg.get("wait_budget_s", 245))
     for model in pick_model(llm):
-        for _ in range(llm["retries"] + 1):
+        attempts_left = llm["retries"] + 1
+        total_cool = 0.0
+        while attempts_left > 0:
+            now = time.time()
+            cool = max(0.0, _next_ok_ts - now)
+            pace_wait = max(0.0, _last_call_ts + pace - now)
+            wait = max(cool, pace_wait)
+            if wait > 0:
+                if cool > 0:
+                    if total_cool + cool > wait_budget:
+                        break
+                    total_cool += cool
+                time.sleep(min(wait, 90))
+            _last_call_ts = time.time()
             try:
                 return {"content": chat(messages, llm, model, json_mode), "model": model}
+            except requests.HTTPError as e:
+                code = getattr(getattr(e, "response", None), "status_code", None)
+                if code in (429, 503):
+                    ra = max(_retry_after_sec(e), 60) + 1
+                    _next_ok_ts = time.time() + ra
+                    continue
+                attempts_left -= 1
+                continue
             except Exception:
+                attempts_left -= 1
                 continue
     return None
 
