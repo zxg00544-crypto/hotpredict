@@ -1,0 +1,38 @@
+name: llm-probe
+
+on:
+  workflow_dispatch:        # 纯手动诊断：验证 Actions runner 到 LLM 网关的连通性（无 schedule，零后台成本）
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Materialize config and probe LLM
+        env:
+          CONFIG_YAML: ${{ secrets.CONFIG_YAML }}
+        run: |
+          python - <<'PY'
+          import os, sys
+          data = os.environ.get("CONFIG_YAML") or ""
+          if not data.strip():
+              sys.exit("CONFIG_YAML secret missing")
+          with open("config.yaml", "w", encoding="utf-8") as f:
+              f.write(data)
+          print("config materialized:", os.path.getsize("config.yaml"), "B")
+          PY
+          python probe_llm.py config.yaml

@@ -1,4 +1,4 @@
-name: hotpredict-round
+﻿name: hotpredict-round
 
 on:
   schedule:
@@ -55,7 +55,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "no state changes to commit"
           else
-            git pull --rebase origin "$GITHUB_REF_NAME"
             git commit -m "轮次状态 ${{ github.run_id }}"
+            git pull --rebase origin "$GITHUB_REF_NAME"
             git push origin "HEAD:$GITHUB_REF_NAME"
           fi
