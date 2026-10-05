@@ -750,19 +750,6 @@
    "batch_window": 2
   },
   {
-   "key": "openairogueagentactivitiesfoundo97284459",
-   "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "OpenAI的\"rogue agent\"事件曝光，AI自主行为边界在哪里？从技术失控到平台治理危机",
-   "hook_reason": "OpenAI自主agent在维基百科刷内容，AI安全底线再被试探",
-   "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:openairogueagentactivitiesfoundonwikimed",
-   "batch_window": 3
-  },
-  {
    "key": "共和党选情危急特朗普全力冲刺红州选举",
    "title": "共和党选情危急，特朗普全力冲刺红州选举",
    "rating": "A",
@@ -774,6 +761,32 @@
    "breaking": true,
    "event_id": "e:共和党选情危急特朗普全力冲刺红州选举",
    "batch_window": 3
+  },
+  {
+   "key": "beamreflections501bopenweightmodel",
+   "title": "Beam: Reflection's 501B open-weight model",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从开源vs闭源对抗切入，分析501B参数对大模型军备竞赛的冲击",
+   "hook_reason": "501B开源模型冲击巨头格局，AI开源战再升级",
+   "url": "https://reflection.ai/blog/introducing-beam",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:beamreflections501bopenweightmodel",
+   "batch_window": 4
+  },
+  {
+   "key": "家长给女儿买机器人当家教情感陪伴",
+   "title": "家长给女儿买机器人当家教：情感陪伴",
+   "rating": "A",
+   "score": 88.5,
+   "angle": "从AI教育硬件切入，探讨机器人如何填补家庭情感陪伴缺口，引发家长群体共鸣",
+   "hook_reason": "机器人当家教引爆家长群体，科技+教育双重热点，情感陪伴话题引发共鸣",
+   "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E5%AE%B6%E6%95%99%EF%BC%9A%E6%83%85%E6%84%9F%E9%99%AA%E4%BC%B4&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:家长给女儿买机器人当家教情感陪伴",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -907,7 +920,8 @@
   "国安部通报境外组织借医疗检测非法采血样曾有超10万份孕妇血样被偷运出境会对生物安全产生哪些影响",
   "松岛辉空成史上最年轻世界第一",
   "第20届亚运会闭幕",
-  "雷军一口气刷完7期民间拆车视频"
+  "雷军一口气刷完7期民间拆车视频",
+  "openairogueagentactivitiesfoundo97284459"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -977,7 +991,8 @@
   "e:国安部通报境外组织借医疗检测非法采血样曾有超10万份孕妇血样被偷运出境会对生物安": "国安部通报境外组织借医疗检测非法采血样，曾有超10万份孕妇血样被偷运出境，会对生物安全产生哪些影响？",
   "e:松岛辉空首登男单世界第一": "松岛辉空成史上最年轻世界第一",
   "e:第20届亚运会闭幕": "第20届亚运会闭幕",
-  "e:雷军一口气刷完7期民间拆车视频": "雷军一口气刷完7期民间拆车视频"
+  "e:雷军一口气刷完7期民间拆车视频": "雷军一口气刷完7期民间拆车视频",
+  "e:openairogueagentactivitiesfoundonwikimed": "OpenAI \"rogue\" agent activities found on Wikimedia projects"
  },
  "a_seen": {
   "英国海上贸易行动办公室3艘船在霍尔木兹海峡遭袭": {
@@ -1063,8 +1078,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:美国驻以色列大使迪拜航空事件属于恐怖袭击目前尚未发现存在境外关联"
+  },
+  "beamreflections501bopenweightmodel": {
+   "key": "beamreflections501bopenweightmodel",
+   "title": "Beam: Reflection's 501B open-weight model",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从开源vs闭源对抗切入，分析501B参数对大模型军备竞赛的冲击",
+   "hook_reason": "501B开源模型冲击巨头格局，AI开源战再升级",
+   "url": "https://reflection.ai/blog/introducing-beam",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:beamreflections501bopenweightmodel"
+  },
+  "家长给女儿买机器人当家教情感陪伴": {
+   "key": "家长给女儿买机器人当家教情感陪伴",
+   "title": "家长给女儿买机器人当家教：情感陪伴",
+   "rating": "A",
+   "score": 88.5,
+   "angle": "从AI教育硬件切入，探讨机器人如何填补家庭情感陪伴缺口，引发家长群体共鸣",
+   "hook_reason": "机器人当家教引爆家长群体，科技+教育双重热点，情感陪伴话题引发共鸣",
+   "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E5%AE%B6%E6%95%99%EF%BC%9A%E6%83%85%E6%84%9F%E9%99%AA%E4%BC%B4&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:家长给女儿买机器人当家教情感陪伴"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
