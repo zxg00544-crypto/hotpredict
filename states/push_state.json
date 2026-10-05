@@ -126,19 +126,6 @@
    "batch_window": 17
   },
   {
-   "key": "第20届亚运会闭幕",
-   "title": "第20届亚运会闭幕",
-   "rating": "A",
-   "score": 80.89,
-   "angle": "从体育盛会的社会意义切入，聚焦民族凝聚力与城市红利话题",
-   "hook_reason": "亚运会闭幕引爆民族情感，全民关注焦点",
-   "url": "https://www.toutiao.com/trending/7692741633384795674/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:第20届亚运会闭幕",
-   "batch_window": 19
-  },
-  {
    "key": "中国代表团超23运动员首次征战亚运",
    "title": "中国代表团超2/3运动员首次征战亚运",
    "rating": "A",
@@ -748,6 +735,32 @@
    "breaking": true,
    "event_id": "e:伊朗总统佩泽希齐扬每次核查人员来到伊朗我们的核设施以及科学家就会被锁定之后",
    "batch_window": 1
+  },
+  {
+   "key": "据伊朗伊斯兰共和国广播电视台irib有消息称一枚导弹可能击中利雅得机场",
+   "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：有消息称一枚导弹可能击中利雅得机场。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "追踪事件真实性及后续影响，结合油价、航运等关联维度展开解读。",
+   "hook_reason": "中东局势突发升级，关乎全球油价与区域安全，读者急于了解最新进展。",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniufhfv6065361.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:据伊朗伊斯兰共和国广播电视台irib有消息称一枚导弹可能击中利雅得机场",
+   "batch_window": 2
+  },
+  {
+   "key": "uscloselymonitoringcaseoflabworkc70f6d8d",
+   "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "实验室生物安全漏洞+国际防疫预警，从公共卫生视角切入",
+   "hook_reason": "鼠疫+实验室+死亡，人类最原始恐惧被触发",
+   "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:uscloselymonitoringcaseoflabworkerwhopos",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -879,7 +892,8 @@
   "美国30年期国债收益率涨至569创2002年以来新高",
   "欧盟委员会否决向波兰曼恩卡车工厂提供2600万欧元补贴",
   "国安部通报境外组织借医疗检测非法采血样曾有超10万份孕妇血样被偷运出境会对生物安全产生哪些影响",
-  "松岛辉空成史上最年轻世界第一"
+  "松岛辉空成史上最年轻世界第一",
+  "第20届亚运会闭幕"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -947,7 +961,8 @@
   "e:美国30年期国债收益率涨至569创2002年以来新高": "美国30年期国债收益率涨至5.69%，创2002年以来新高。",
   "e:欧盟委员会否决向波兰曼恩卡车工厂提供2600万欧元补贴": "欧盟委员会否决向波兰曼恩卡车工厂提供 2600 万欧元补贴。",
   "e:国安部通报境外组织借医疗检测非法采血样曾有超10万份孕妇血样被偷运出境会对生物安": "国安部通报境外组织借医疗检测非法采血样，曾有超10万份孕妇血样被偷运出境，会对生物安全产生哪些影响？",
-  "e:松岛辉空首登男单世界第一": "松岛辉空成史上最年轻世界第一"
+  "e:松岛辉空首登男单世界第一": "松岛辉空成史上最年轻世界第一",
+  "e:第20届亚运会闭幕": "第20届亚运会闭幕"
  },
  "a_seen": {
   "英国海上贸易行动办公室3艘船在霍尔木兹海峡遭袭": {
@@ -973,8 +988,32 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:伊朗总统佩泽希齐扬每次核查人员来到伊朗我们的核设施以及科学家就会被锁定之后"
+  },
+  "据伊朗伊斯兰共和国广播电视台irib有消息称一枚导弹可能击中利雅得机场": {
+   "key": "据伊朗伊斯兰共和国广播电视台irib有消息称一枚导弹可能击中利雅得机场",
+   "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：有消息称一枚导弹可能击中利雅得机场。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "追踪事件真实性及后续影响，结合油价、航运等关联维度展开解读。",
+   "hook_reason": "中东局势突发升级，关乎全球油价与区域安全，读者急于了解最新进展。",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniufhfv6065361.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:据伊朗伊斯兰共和国广播电视台irib有消息称一枚导弹可能击中利雅得机场"
+  },
+  "uscloselymonitoringcaseoflabworkc70f6d8d": {
+   "key": "uscloselymonitoringcaseoflabworkc70f6d8d",
+   "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "实验室生物安全漏洞+国际防疫预警，从公共卫生视角切入",
+   "hook_reason": "鼠疫+实验室+死亡，人类最原始恐惧被触发",
+   "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:uscloselymonitoringcaseoflabworkerwhopos"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
