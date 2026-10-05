@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-10-05",
  "a_pending": [
   {
@@ -672,19 +672,6 @@
    "batch_window": 19
   },
   {
-   "key": "超3万人涌入吉林山沟沟博物馆看黄金",
-   "title": "超3万人涌入吉林山沟沟博物馆看黄金",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "拆解黄金热与社会心态，从景区爆火透视大众投资焦虑与文旅新现象",
-   "hook_reason": "山沟沟博物馆凭何吸引3万人？黄金热潮背后的社会心理是什么",
-   "url": "https://www.baidu.com/s?wd=%E8%B6%853%E4%B8%87%E4%BA%BA%E6%B6%8C%E5%85%A5%E5%90%89%E6%9E%97%E5%B1%B1%E6%B2%9F%E6%B2%9F%E5%8D%9A%E7%89%A9%E9%A6%86%E7%9C%8B%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:超3万人涌入吉林山沟沟博物馆看黄金",
-   "batch_window": 20
-  },
-  {
    "key": "明珍珍临刑前讲述埋葬电诈人员细节",
    "title": "明珍珍临刑前讲述埋葬电诈人员细节",
    "rating": "A",
@@ -709,6 +696,58 @@
    "breaking": true,
    "event_id": "e:xtendairobotics公司获得美国专利其智能载荷可主动引导任务执行",
    "batch_window": 20
+  },
+  {
+   "key": "第一批返程的大聪明又失算了",
+   "title": "第一批返程的“大聪明”又失算了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "首批返程党预计错峰却遇严重拥堵，反向攻略翻车现场盘点",
+   "hook_reason": "返程拥堵反向教学，人人有共鸣",
+   "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E8%BF%94%E7%A8%8B%E7%9A%84%E2%80%9C%E5%A4%A7%E8%81%AA%E6%98%8E%E2%80%9D%E5%8F%88%E5%A4%B1%E7%AE%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:第一批返程的大聪明又失算了",
+   "batch_window": 21
+  },
+  {
+   "key": "pressreleasenobelprizeinphysiologyormedicine2026",
+   "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "2026诺奖揭晓，突破点在哪？对中国科研有哪些启示与机遇",
+   "hook_reason": "诺贝尔奖突发，全民关注科学界最高荣誉时刻",
+   "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:pressreleasenobelprizeinphysiologyormedi",
+   "batch_window": 21
+  },
+  {
+   "key": "europesnewroboticsunicorngermany50757c49",
+   "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从欧洲机器人产业突围角度切入，对比中美机器人赛道格局变化",
+   "hook_reason": "欧洲首个机器人独角兽诞生，德国科技板块重大突破",
+   "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:europesnewroboticsunicorngermanysrobcohi",
+   "batch_window": 21
+  },
+  {
+   "key": "花旗缩短初级投行员工晋升年限应对私募股权公司挖角",
+   "title": "花旗缩短初级投行员工晋升年限 应对私募股权公司挖角",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从花旗新政切入，解读投行vs私募的人才争夺战，分析对初级员工的利弊",
+   "hook_reason": "华尔街投行抢人内幕，金融打工人关心的晋升与跳槽真相",
+   "url": "https://zhibo.sina.com.cn/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:花旗缩短初级投行员工晋升年限应对私募股权公司挖角",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -824,7 +863,8 @@
   "中方10分钟收网缅北四大家族重要成员",
   "重庆网红落地签经营团队被约谈",
   "中国ai正在迎来一次重大机遇ai创造营热搜ai创作激励大赛ai生活指南红",
-  "小米18pro系列传奇一瞬一共有3种模式传奇ccd当代经典黑白胶片你最喜欢哪个"
+  "小米18pro系列传奇一瞬一共有3种模式传奇ccd当代经典黑白胶片你最喜欢哪个",
+  "超3万人涌入吉林山沟沟博物馆看黄金"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -876,7 +916,8 @@
   "e:中方10分钟收网缅北四大家族重要成员": "中方10分钟收网缅北四大家族重要成员",
   "e:重庆网红落地签经营团队被约谈": "重庆网红落地签经营团队被约谈",
   "e:中国ai正在迎来一次重大机遇ai创造营热搜ai创作激励大赛ai生活指南红": "中国AI，正在迎来一次重大机遇！ #ai创造营# #热搜AI创作激励大赛# #ai生活指南# 红",
-  "e:小米18pro系列传奇一瞬一共有3种模式传奇ccd当代经典黑白胶片你最喜欢哪个": "#小米18Pro系列# 传奇一瞬，一共有3种模式: 传奇CCD，当代经典，黑白胶片 你最喜欢哪个"
+  "e:小米18pro系列传奇一瞬一共有3种模式传奇ccd当代经典黑白胶片你最喜欢哪个": "#小米18Pro系列# 传奇一瞬，一共有3种模式: 传奇CCD，当代经典，黑白胶片 你最喜欢哪个",
+  "e:超3万人涌入吉林山沟沟博物馆看黄金": "超3万人涌入吉林山沟沟博物馆看黄金"
  },
  "a_seen": {
   "特朗普民调向来低估让美国再次伟大maga群体他们试图压制选票但我": {
@@ -1526,8 +1567,56 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:xtendairobotics公司获得美国专利其智能载荷可主动引导任务执行"
+  },
+  "第一批返程的大聪明又失算了": {
+   "key": "第一批返程的大聪明又失算了",
+   "title": "第一批返程的“大聪明”又失算了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "首批返程党预计错峰却遇严重拥堵，反向攻略翻车现场盘点",
+   "hook_reason": "返程拥堵反向教学，人人有共鸣",
+   "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E8%BF%94%E7%A8%8B%E7%9A%84%E2%80%9C%E5%A4%A7%E8%81%AA%E6%98%8E%E2%80%9D%E5%8F%88%E5%A4%B1%E7%AE%97%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:第一批返程的大聪明又失算了"
+  },
+  "pressreleasenobelprizeinphysiologyormedicine2026": {
+   "key": "pressreleasenobelprizeinphysiologyormedicine2026",
+   "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "2026诺奖揭晓，突破点在哪？对中国科研有哪些启示与机遇",
+   "hook_reason": "诺贝尔奖突发，全民关注科学界最高荣誉时刻",
+   "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:pressreleasenobelprizeinphysiologyormedi"
+  },
+  "europesnewroboticsunicorngermany50757c49": {
+   "key": "europesnewroboticsunicorngermany50757c49",
+   "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从欧洲机器人产业突围角度切入，对比中美机器人赛道格局变化",
+   "hook_reason": "欧洲首个机器人独角兽诞生，德国科技板块重大突破",
+   "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:europesnewroboticsunicorngermanysrobcohi"
+  },
+  "花旗缩短初级投行员工晋升年限应对私募股权公司挖角": {
+   "key": "花旗缩短初级投行员工晋升年限应对私募股权公司挖角",
+   "title": "花旗缩短初级投行员工晋升年限 应对私募股权公司挖角",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从花旗新政切入，解读投行vs私募的人才争夺战，分析对初级员工的利弊",
+   "hook_reason": "华尔街投行抢人内幕，金融打工人关心的晋升与跳槽真相",
+   "url": "https://zhibo.sina.com.cn/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:花旗缩短初级投行员工晋升年限应对私募股权公司挖角"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
