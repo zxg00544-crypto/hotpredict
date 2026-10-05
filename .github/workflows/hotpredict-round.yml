@@ -50,12 +50,36 @@ jobs:
         run: |
           git config user.name "hotpredict-actions"
           git config user.email "hotpredict-actions@users.noreply.github.com"
-          git add -f -- 日报 看板 || true
-          if ls states/*.json >/dev/null 2>&1; then git add -f -- states/*.json; fi
-          if git diff --cached --quiet; then
-            echo "no state changes to commit"
-          else
-            git commit -m "轮次状态 ${{ github.run_id }}"
-            git pull --rebase origin "$GITHUB_REF_NAME"
-            git push origin "HEAD:$GITHUB_REF_NAME"
-          fi
+          # 本轮产出先落临时目录：旧写法 git pull --rebase 撞同名状态文件必冲突（2026-10-04 21:14 run 61 失败根因）
+          STATE_TMP="$(mktemp -d)"
+          mkdir -p "$STATE_TMP/states" "$STATE_TMP/日报" "$STATE_TMP/看板"
+          cp -f -- states/*.json "$STATE_TMP/states/" 2>/dev/null || true
+          cp -rf -- 日报/. "$STATE_TMP/日报/" 2>/dev/null || true
+          cp -rf -- 看板/. "$STATE_TMP/看板/" 2>/dev/null || true
+          # 并发竞争改写法：取最新上游 -> 重放本轮状态 -> 直接推，不 rebase。失败重试 3 次，宁可后写覆盖不丢轮
+          for i in 1 2 3; do
+            git fetch origin
+            git reset --hard "origin/$GITHUB_REF_NAME"
+            cp -f -- "$STATE_TMP"/states/*.json states/ 2>/dev/null || true
+            cp -rf -- "$STATE_TMP"/日报/. 日报/ 2>/dev/null || true
+            cp -rf -- "$STATE_TMP"/看板/. 看板/ 2>/dev/null || true
+            git add -f -- 日报 看板 || true
+            if ls states/*.json >/dev/null 2>&1; then git add -f -- states/*.json; fi
+            if git diff --cached --quiet; then
+              echo "state already upstream, nothing to push"
+              exit 0
+            fi
+            if ! git commit -m "轮次状态 ${{ github.run_id }}"; then
+              echo "commit failed, retry $i"
+              sleep $((i * 5))
+              continue
+            fi
+            if git push origin "HEAD:$GITHUB_REF_NAME"; then
+              echo "pushed on attempt $i"
+              exit 0
+            fi
+            echo "push rejected (concurrent writer), retry $i"
+            sleep $((i * 5))
+          done
+          echo "state push failed after 3 attempts"
+          exit 1
