@@ -282,19 +282,6 @@
    "batch_window": 1
   },
   {
-   "key": "雷军一口气刷完7期民间拆车视频",
-   "title": "雷军一口气刷完7期民间拆车视频",
-   "rating": "A",
-   "score": 81.0,
-   "angle": "借大佬刷拆车视频，拆解雷军人设营销与小米汽车品控背后的舆论策略",
-   "hook_reason": "大佬追更硬核评测，折射务实人设与品控焦虑，车主粉丝共鸣强",
-   "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E4%B8%80%E5%8F%A3%E6%B0%94%E5%88%B7%E5%AE%8C7%E6%9C%9F%E6%B0%91%E9%97%B4%E6%8B%86%E8%BD%A6%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "大咖发言",
-   "breaking": false,
-   "event_id": "e:雷军一口气刷完7期民间拆车视频",
-   "batch_window": 2
-  },
-  {
    "key": "市场消息openai首席执行官山姆奥特曼在人工智能风险问题上与anthr",
    "title": "市场消息：OpenAI 首席执行官山姆·奥特曼在人工智能风险问题上与 Anthr",
    "rating": "A",
@@ -761,6 +748,32 @@
    "breaking": true,
    "event_id": "e:uscloselymonitoringcaseoflabworkerwhopos",
    "batch_window": 2
+  },
+  {
+   "key": "openairogueagentactivitiesfoundo97284459",
+   "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "OpenAI的\"rogue agent\"事件曝光，AI自主行为边界在哪里？从技术失控到平台治理危机",
+   "hook_reason": "OpenAI自主agent在维基百科刷内容，AI安全底线再被试探",
+   "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openairogueagentactivitiesfoundonwikimed",
+   "batch_window": 3
+  },
+  {
+   "key": "共和党选情危急特朗普全力冲刺红州选举",
+   "title": "共和党选情危急，特朗普全力冲刺红州选举",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "A: 美选决战；B: 川普选战",
+   "hook_reason": "特朗普突发冲刺红州选举，川普流量绝对值高",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniufhft9311663.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:共和党选情危急特朗普全力冲刺红州选举",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -893,7 +906,8 @@
   "欧盟委员会否决向波兰曼恩卡车工厂提供2600万欧元补贴",
   "国安部通报境外组织借医疗检测非法采血样曾有超10万份孕妇血样被偷运出境会对生物安全产生哪些影响",
   "松岛辉空成史上最年轻世界第一",
-  "第20届亚运会闭幕"
+  "第20届亚运会闭幕",
+  "雷军一口气刷完7期民间拆车视频"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -962,7 +976,8 @@
   "e:欧盟委员会否决向波兰曼恩卡车工厂提供2600万欧元补贴": "欧盟委员会否决向波兰曼恩卡车工厂提供 2600 万欧元补贴。",
   "e:国安部通报境外组织借医疗检测非法采血样曾有超10万份孕妇血样被偷运出境会对生物安": "国安部通报境外组织借医疗检测非法采血样，曾有超10万份孕妇血样被偷运出境，会对生物安全产生哪些影响？",
   "e:松岛辉空首登男单世界第一": "松岛辉空成史上最年轻世界第一",
-  "e:第20届亚运会闭幕": "第20届亚运会闭幕"
+  "e:第20届亚运会闭幕": "第20届亚运会闭幕",
+  "e:雷军一口气刷完7期民间拆车视频": "雷军一口气刷完7期民间拆车视频"
  },
  "a_seen": {
   "英国海上贸易行动办公室3艘船在霍尔木兹海峡遭袭": {
@@ -1005,15 +1020,51 @@
    "key": "uscloselymonitoringcaseoflabworkc70f6d8d",
    "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
    "rating": "A",
-   "score": 40.8,
-   "angle": "实验室生物安全漏洞+国际防疫预警，从公共卫生视角切入",
-   "hook_reason": "鼠疫+实验室+死亡，人类最原始恐惧被触发",
+   "score": 75.75,
+   "angle": "从公共卫生与国际信任切入，探讨生物实验室安全监管缺口及疫疫情跨境预警机制漏洞",
+   "hook_reason": "实验室瘟疫死人事发西伯利亚，美国紧急监控，恐慌感拉满",
    "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:uscloselymonitoringcaseoflabworkerwhopos"
+  },
+  "openairogueagentactivitiesfoundo97284459": {
+   "key": "openairogueagentactivitiesfoundo97284459",
+   "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "OpenAI的\"rogue agent\"事件曝光，AI自主行为边界在哪里？从技术失控到平台治理危机",
+   "hook_reason": "OpenAI自主agent在维基百科刷内容，AI安全底线再被试探",
+   "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openairogueagentactivitiesfoundonwikimed"
+  },
+  "共和党选情危急特朗普全力冲刺红州选举": {
+   "key": "共和党选情危急特朗普全力冲刺红州选举",
+   "title": "共和党选情危急，特朗普全力冲刺红州选举",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "A: 美选决战；B: 川普选战",
+   "hook_reason": "特朗普突发冲刺红州选举，川普流量绝对值高",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniufhft9311663.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:共和党选情危急特朗普全力冲刺红州选举"
+  },
+  "以色列消息人士迪拜航空副驾驶作案动机是为加沙复仇": {
+   "key": "以色列消息人士迪拜航空副驾驶作案动机是为加沙复仇",
+   "title": "以色列消息人士：迪拜航空副驾驶作案动机是“为加沙复仇”",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从副机长个人动机切入国际冲突对普通人行为的极端影响，延伸航空安全与社会情绪关联",
+   "hook_reason": "航空安全+中东复仇双重爆点，直击公众出行焦虑与国际冲突情绪",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniufhft9311471.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:美国驻以色列大使迪拜航空事件属于恐怖袭击目前尚未发现存在境外关联"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
