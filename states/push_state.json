@@ -412,19 +412,6 @@
    "batch_window": 11
   },
   {
-   "key": "好屏一眼就能看出来华为mate90promax搭载全彩灵珑屏能更准确地还原色彩和",
-   "title": "好屏一眼就能看出来！ #华为Mate90# Pro Max 搭载全彩灵珑屏，能更准确地还原色彩和",
-   "rating": "A",
-   "score": 84.95,
-   "angle": "聚焦全彩灵珑屏技术突破，对比竞品屏幕参数，分析用户体验提升与行业影响",
-   "hook_reason": "华为新品屏幕技术突破，吸引科技爱好者和果粉/花粉群体",
-   "url": "https://weibo.com/1100856704/RleeJFDpX",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:好屏一眼就能看出来华为mate90promax搭载全彩灵珑屏能更准确地还原色彩和",
-   "batch_window": 11
-  },
-  {
    "key": "小米18pro系列传奇一瞬一共有3种模式传奇ccd当代经典黑白胶片你最喜欢哪个",
    "title": "#小米18Pro系列# 传奇一瞬，一共有3种模式: 传奇CCD，当代经典，黑白胶片 你最喜欢哪个",
    "rating": "A",
@@ -449,6 +436,58 @@
    "breaking": true,
    "event_id": "e:日本央行副行长称人工智能的影响可能波及中性利率",
    "batch_window": 11
+  },
+  {
+   "key": "quantitativefinancewithocaml",
+   "title": "Quantitative Finance with OCaml",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "OCaml语言因性能优势被量化金融机构采用，程序员/极客关注",
+   "hook_reason": "OCaml杀入量化金融，硬核程序员的新宠",
+   "url": "https://qcaml.com/index.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:quantitativefinancewithocaml",
+   "batch_window": 12
+  },
+  {
+   "key": "nearly200peopleunderobservationa8db6a5e3",
+   "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "聚焦：①腺鼠疫现代为何仍能致死？②200人密接被观察意味着什么？③俄方疫情通报透明度争议。配科普+追踪双线写法",
+   "hook_reason": "现代俄罗斯罕见腺鼠疫致死，200人被医学观察，恐惧+猎奇双重爆点",
+   "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:nearly200peopleunderobservationafterirku",
+   "batch_window": 12
+  },
+  {
+   "key": "缅北电诈回流人员自述被割肾经历",
+   "title": "缅北电诈回流人员自述被割肾经历",
+   "rating": "A",
+   "score": 57.57,
+   "angle": "以受害者自述为核心，拆解电诈产业链黑幕，提供防骗指南和维权路径",
+   "hook_reason": "电诈受害者现身说法，刺激神经的器官话题+维权自救信息刚需",
+   "url": "https://www.toutiao.com/trending/7693016825923178034/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:缅北电诈回流人员自述被割肾经历",
+   "batch_window": 12
+  },
+  {
+   "key": "anthropic被曝秘密游说宗教界",
+   "title": "Anthropic被曝秘密游说宗教界",
+   "rating": "A",
+   "score": 51.25,
+   "angle": "AI公司游说宗教界的背后动机：伦理审查？市场布局？还是技术接受度的深层考量？",
+   "hook_reason": "AI巨头暗中接触宗教界，科技与信仰碰撞出惊人火花",
+   "url": "https://search.bilibili.com/all?keyword=Anthropic被曝秘密游说宗教界",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic被曝秘密游说宗教界",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -555,7 +594,8 @@
   "官方通报阿尔山景区200一晚酒店",
   "早假期第五天还在旅途吗小米18pro系列",
   "一车一世界自在即澎程小米澎程纯平地板贯穿全舱超长滑轨自由组合你的车就是随心变换",
-  "央视披露缅北电诈真实案例"
+  "央视披露缅北电诈真实案例",
+  "好屏一眼就能看出来华为mate90promax搭载全彩灵珑屏能更准确地还原色彩和"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -598,7 +638,8 @@
   "e:官方通报阿尔山景区200一晚酒店": "官方通报“阿尔山景区200一晚酒店”",
   "e:早假期第五天还在旅途吗小米18pro系列": "早！ 假期第五天，还在旅途吗？ #小米18Pro系列#",
   "e:一车一世界自在即澎程小米澎程纯平地板贯穿全舱超长滑轨自由组合你的车就是随心变换": "一车一世界，自在即澎程。 #小米澎程# 纯平地板贯穿全舱，超长滑轨自由组合，你的车，就是随心变换",
-  "e:央视披露缅北电诈真实案例": "央视披露缅北电诈真实案例"
+  "e:央视披露缅北电诈真实案例": "央视披露缅北电诈真实案例",
+  "e:好屏一眼就能看出来华为mate90promax搭载全彩灵珑屏能更准确地还原色彩和": "好屏一眼就能看出来！ #华为Mate90# Pro Max 搭载全彩灵珑屏，能更准确地还原色彩和"
  },
  "a_seen": {
   "特朗普民调向来低估让美国再次伟大maga群体他们试图压制选票但我": {
@@ -876,8 +917,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:日本央行副行长称人工智能的影响可能波及中性利率"
+  },
+  "quantitativefinancewithocaml": {
+   "key": "quantitativefinancewithocaml",
+   "title": "Quantitative Finance with OCaml",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "OCaml语言因性能优势被量化金融机构采用，程序员/极客关注",
+   "hook_reason": "OCaml杀入量化金融，硬核程序员的新宠",
+   "url": "https://qcaml.com/index.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:quantitativefinancewithocaml"
+  },
+  "nearly200peopleunderobservationa8db6a5e3": {
+   "key": "nearly200peopleunderobservationa8db6a5e3",
+   "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "聚焦：①腺鼠疫现代为何仍能致死？②200人密接被观察意味着什么？③俄方疫情通报透明度争议。配科普+追踪双线写法",
+   "hook_reason": "现代俄罗斯罕见腺鼠疫致死，200人被医学观察，恐惧+猎奇双重爆点",
+   "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:nearly200peopleunderobservationafterirku"
+  },
+  "缅北电诈回流人员自述被割肾经历": {
+   "key": "缅北电诈回流人员自述被割肾经历",
+   "title": "缅北电诈回流人员自述被割肾经历",
+   "rating": "A",
+   "score": 57.57,
+   "angle": "以受害者自述为核心，拆解电诈产业链黑幕，提供防骗指南和维权路径",
+   "hook_reason": "电诈受害者现身说法，刺激神经的器官话题+维权自救信息刚需",
+   "url": "https://www.toutiao.com/trending/7693016825923178034/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:缅北电诈回流人员自述被割肾经历"
+  },
+  "anthropic被曝秘密游说宗教界": {
+   "key": "anthropic被曝秘密游说宗教界",
+   "title": "Anthropic被曝秘密游说宗教界",
+   "rating": "A",
+   "score": 51.25,
+   "angle": "AI公司游说宗教界的背后动机：伦理审查？市场布局？还是技术接受度的深层考量？",
+   "hook_reason": "AI巨头暗中接触宗教界，科技与信仰碰撞出惊人火花",
+   "url": "https://search.bilibili.com/all?keyword=Anthropic被曝秘密游说宗教界",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic被曝秘密游说宗教界"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
