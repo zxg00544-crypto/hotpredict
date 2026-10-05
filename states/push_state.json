@@ -787,6 +787,58 @@
    "breaking": true,
    "event_id": "e:dustpretrainingtransformerswithoutbackpr",
    "batch_window": 6
+  },
+  {
+   "key": "opus55agentsdiscovertworoomtempe0e57666b",
+   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+   "rating": "A",
+   "score": 48.46,
+   "angle": "AI代理首次独立完成新材料发现，室温磁性半导体将如何重塑存储与量子计算产业",
+   "hook_reason": "AI自主发现室温磁性半导体，材料科学范式被颠覆",
+   "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:opus55agentsdiscovertworoomtemperaturema",
+   "batch_window": 6
+  },
+  {
+   "key": "特朗普已决定自行投放广告并自掏腰包同时使用我为maga公司筹集的资金",
+   "title": "特朗普：已决定自行投放广告并自掏腰包，同时使用我为MAGA公司筹集的资金。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "聚焦政治人物财务透明度争议，深挖MAGA公司资金流向与公众信任危机",
+   "hook_reason": "特朗普自曝资金使用内幕，政治+金钱双重爆点",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniufsvr5886393.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普已决定自行投放广告并自掏腰包同时使用我为maga公司筹集的资金",
+   "batch_window": 6
+  },
+  {
+   "key": "重庆酉阳发生盗矿案件7人死亡",
+   "title": "重庆酉阳发生盗矿案件 7人死亡",
+   "rating": "A",
+   "score": 87.9,
+   "angle": "从盗矿黑产链切入，揭示地下煤矿安全隐患与监管盲区，关联普通劳动者的生存困境",
+   "hook_reason": "7死矿难冲击极大，触及公众安全焦虑与盗矿黑产话题",
+   "url": "https://www.toutiao.com/trending/7693197754847202879/",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:重庆酉阳发生盗矿案件7人死亡",
+   "batch_window": 6
+  },
+  {
+   "key": "佩斯科夫俄已警告在基辅工作危险",
+   "title": "佩斯科夫：俄已警告在基辅工作危险",
+   "rating": "A",
+   "score": 85.0,
+   "angle": "从俄乌冲突最新动态切入，分析局势走向及对中国公民/企业的海外安全警示",
+   "hook_reason": "俄乌局势突变！俄方警告外国人在乌工作危险，赴乌需谨慎",
+   "url": "https://www.baidu.com/s?wd=%E4%BD%A9%E6%96%AF%E7%A7%91%E5%A4%AB%EF%BC%9A%E4%BF%84%E5%B7%B2%E8%AD%A6%E5%91%8A%E5%9C%A8%E5%9F%BA%E8%BE%85%E5%B7%A5%E4%BD%9C%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:佩斯科夫俄已警告在基辅工作危险",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -1142,6 +1194,54 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:dustpretrainingtransformerswithoutbackpr"
+  },
+  "opus55agentsdiscovertworoomtempe0e57666b": {
+   "key": "opus55agentsdiscovertworoomtempe0e57666b",
+   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+   "rating": "A",
+   "score": 48.46,
+   "angle": "AI代理首次独立完成新材料发现，室温磁性半导体将如何重塑存储与量子计算产业",
+   "hook_reason": "AI自主发现室温磁性半导体，材料科学范式被颠覆",
+   "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:opus55agentsdiscovertworoomtemperaturema"
+  },
+  "特朗普已决定自行投放广告并自掏腰包同时使用我为maga公司筹集的资金": {
+   "key": "特朗普已决定自行投放广告并自掏腰包同时使用我为maga公司筹集的资金",
+   "title": "特朗普：已决定自行投放广告并自掏腰包，同时使用我为MAGA公司筹集的资金。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "聚焦政治人物财务透明度争议，深挖MAGA公司资金流向与公众信任危机",
+   "hook_reason": "特朗普自曝资金使用内幕，政治+金钱双重爆点",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniufsvr5886393.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普已决定自行投放广告并自掏腰包同时使用我为maga公司筹集的资金"
+  },
+  "重庆酉阳发生盗矿案件7人死亡": {
+   "key": "重庆酉阳发生盗矿案件7人死亡",
+   "title": "重庆酉阳发生盗矿案件 7人死亡",
+   "rating": "A",
+   "score": 87.9,
+   "angle": "从盗矿黑产链切入，揭示地下煤矿安全隐患与监管盲区，关联普通劳动者的生存困境",
+   "hook_reason": "7死矿难冲击极大，触及公众安全焦虑与盗矿黑产话题",
+   "url": "https://www.toutiao.com/trending/7693197754847202879/",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:重庆酉阳发生盗矿案件7人死亡"
+  },
+  "佩斯科夫俄已警告在基辅工作危险": {
+   "key": "佩斯科夫俄已警告在基辅工作危险",
+   "title": "佩斯科夫：俄已警告在基辅工作危险",
+   "rating": "A",
+   "score": 85.0,
+   "angle": "从俄乌冲突最新动态切入，分析局势走向及对中国公民/企业的海外安全警示",
+   "hook_reason": "俄乌局势突变！俄方警告外国人在乌工作危险，赴乌需谨慎",
+   "url": "https://www.baidu.com/s?wd=%E4%BD%A9%E6%96%AF%E7%A7%91%E5%A4%AB%EF%BC%9A%E4%BF%84%E5%B7%B2%E8%AD%A6%E5%91%8A%E5%9C%A8%E5%9F%BA%E8%BE%85%E5%B7%A5%E4%BD%9C%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:佩斯科夫俄已警告在基辅工作危险"
   }
  },
  "breaking_count": 10,
