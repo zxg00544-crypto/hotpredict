@@ -516,19 +516,6 @@
    "batch_window": 13
   },
   {
-   "key": "重庆网红落地签经营团队被约谈",
-   "title": "重庆网红落地签经营团队被约谈",
-   "rating": "A",
-   "score": 85.6,
-   "angle": "从个案切入，剖析网红经济灰色产业链的监管红线在哪里",
-   "hook_reason": "网红直播行业首波监管收紧信号，从业者人人自危",
-   "url": "https://s.weibo.com/weibo?q=重庆网红落地签经营团队被约谈",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:重庆网红落地签经营团队被约谈",
-   "batch_window": 14
-  },
-  {
    "key": "日本代表团团长承认金牌数被中国碾压",
    "title": "日本代表团团长承认金牌数被中国碾压",
    "rating": "A",
@@ -644,6 +631,58 @@
    "breaking": true,
    "event_id": "e:黄仁勋世界巡演",
    "batch_window": 17
+  },
+  {
+   "key": "denmarkdatabreachexposes88mpeoplespersonaldata",
+   "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "从国家安全角度揭露数据泄露隐患，提醒公民保护意识",
+   "hook_reason": "880万丹麦人数据泄露，政府系统被攻破，你的隐私安全吗？",
+   "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:denmarkdatabreachexposes88mpeoplesperson",
+   "batch_window": 18
+  },
+  {
+   "key": "huaweiandqualcommannouncebroadpacff84b80",
+   "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从芯片禁令到专利和解，透视中美科技博弈下的企业生存智慧与产业链重构",
+   "hook_reason": "华为高通世纪和解，专利大战终结还是新博弈开始？",
+   "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:huaweiandqualcommannouncebroadpatentlice",
+   "batch_window": 18
+  },
+  {
+   "key": "openai正与doubleverify和integraladscienc",
+   "title": "OpenAI：正与DoubleVerify和Integral Ad Scienc",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "AI巨头从技术输出转向流量生意，OpenAI如何布局广告效果验证？",
+   "hook_reason": "OpenAI首次深入广告变现，AI商业化大动作",
+   "url": "https://finance.sina.cn/7x24/2026-10-05/detail-iniuemac9606276.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai正与doubleverify和integraladscienc",
+   "batch_window": 18
+  },
+  {
+   "key": "2026诺贝尔生理学或医学奖揭晓",
+   "title": "2026诺贝尔生理学或医学奖揭晓",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "解读获奖成果的科学意义，链接中国科学家贡献，下沉到普通人健康价值",
+   "hook_reason": "诺贝尔奖年度大事，公众对医学突破和健康影响高度关注",
+   "url": "https://www.toutiao.com/trending/7692279017315225107/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:2026诺贝尔生理学或医学奖揭晓",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -756,7 +795,8 @@
   "被执行死刑的巫鸿明白应苍出镜",
   "年轻人十一出片全靠15元次抛衣",
   "缅北电诈头目现金多到发霉",
-  "中方10分钟收网缅北四大家族重要成员"
+  "中方10分钟收网缅北四大家族重要成员",
+  "重庆网红落地签经营团队被约谈"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -805,7 +845,8 @@
   "e:被执行死刑的巫鸿明白应苍出镜": "被执行死刑的巫鸿明、白应苍出镜",
   "e:年轻人十一出片全靠15元次抛衣": "年轻人十一出片全靠15元次抛衣",
   "e:缅北电诈头目现金多到发霉": "缅北电诈头目现金多到发霉",
-  "e:中方10分钟收网缅北四大家族重要成员": "中方10分钟收网缅北四大家族重要成员"
+  "e:中方10分钟收网缅北四大家族重要成员": "中方10分钟收网缅北四大家族重要成员",
+  "e:重庆网红落地签经营团队被约谈": "重庆网红落地签经营团队被约谈"
  },
  "a_seen": {
   "特朗普民调向来低估让美国再次伟大maga群体他们试图压制选票但我": {
@@ -1340,15 +1381,63 @@
    "key": "黄仁勋世界巡演",
    "title": "黄仁勋世界巡演",
    "rating": "A",
-   "score": 40.85,
-   "angle": "聚焦黄仁勋巡演核心观点，解读AI芯片霸主未来布局与产业信号",
-   "hook_reason": "全球AI首富黄仁勋最新动向，科技圈顶级话题",
+   "score": 40.75,
+   "angle": "聚焦黄仁勋巡演释放的AI产业信号与资本市场影响",
+   "hook_reason": "AI教父黄仁勋最新动向，影响全球科技资本走向",
    "url": "https://search.bilibili.com/all?keyword=黄仁勋世界巡演",
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:黄仁勋世界巡演"
+  },
+  "denmarkdatabreachexposes88mpeoplespersonaldata": {
+   "key": "denmarkdatabreachexposes88mpeoplespersonaldata",
+   "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "从国家安全角度揭露数据泄露隐患，提醒公民保护意识",
+   "hook_reason": "880万丹麦人数据泄露，政府系统被攻破，你的隐私安全吗？",
+   "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:denmarkdatabreachexposes88mpeoplesperson"
+  },
+  "huaweiandqualcommannouncebroadpacff84b80": {
+   "key": "huaweiandqualcommannouncebroadpacff84b80",
+   "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从芯片禁令到专利和解，透视中美科技博弈下的企业生存智慧与产业链重构",
+   "hook_reason": "华为高通世纪和解，专利大战终结还是新博弈开始？",
+   "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:huaweiandqualcommannouncebroadpatentlice"
+  },
+  "openai正与doubleverify和integraladscienc": {
+   "key": "openai正与doubleverify和integraladscienc",
+   "title": "OpenAI：正与DoubleVerify和Integral Ad Scienc",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "AI巨头从技术输出转向流量生意，OpenAI如何布局广告效果验证？",
+   "hook_reason": "OpenAI首次深入广告变现，AI商业化大动作",
+   "url": "https://finance.sina.cn/7x24/2026-10-05/detail-iniuemac9606276.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai正与doubleverify和integraladscienc"
+  },
+  "2026诺贝尔生理学或医学奖揭晓": {
+   "key": "2026诺贝尔生理学或医学奖揭晓",
+   "title": "2026诺贝尔生理学或医学奖揭晓",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "解读获奖成果的科学意义，链接中国科学家贡献，下沉到普通人健康价值",
+   "hook_reason": "诺贝尔奖年度大事，公众对医学突破和健康影响高度关注",
+   "url": "https://www.toutiao.com/trending/7692279017315225107/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:2026诺贝尔生理学或医学奖揭晓"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
