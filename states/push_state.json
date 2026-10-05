@@ -815,19 +815,6 @@
    "batch_window": 6
   },
   {
-   "key": "重庆酉阳发生盗矿案件7人死亡",
-   "title": "重庆酉阳发生盗矿案件 7人死亡",
-   "rating": "A",
-   "score": 87.9,
-   "angle": "从盗矿黑产链切入，揭示地下煤矿安全隐患与监管盲区，关联普通劳动者的生存困境",
-   "hook_reason": "7死矿难冲击极大，触及公众安全焦虑与盗矿黑产话题",
-   "url": "https://www.toutiao.com/trending/7693197754847202879/",
-   "track": "社会热点",
-   "breaking": false,
-   "event_id": "e:重庆酉阳发生盗矿案件7人死亡",
-   "batch_window": 6
-  },
-  {
    "key": "佩斯科夫俄已警告在基辅工作危险",
    "title": "佩斯科夫：俄已警告在基辅工作危险",
    "rating": "A",
@@ -839,6 +826,32 @@
    "breaking": false,
    "event_id": "e:佩斯科夫俄已警告在基辅工作危险",
    "batch_window": 6
+  },
+  {
+   "key": "usingbluraymdiskasbackupoflastresort",
+   "title": "Using Blu-ray M-Disk as Backup of Last Resort",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从云端信任危机切入，讲述蓝光M-Disk作为'数字诺亚方舟'为何被极客重新拾起",
+   "hook_reason": "蓝光M-Disk冷备份逆袭，极客情怀+数据安全感拉满",
+   "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:usingbluraymdiskasbackupoflastresort",
+   "batch_window": 7
+  },
+  {
+   "key": "诺奖得主研究如何为大脑装开关",
+   "title": "诺奖得主研究如何“为大脑装开关”",
+   "rating": "A",
+   "score": 86.5,
+   "angle": null,
+   "hook_reason": "诺奖得主+脑科学突破，大脑",
+   "url": "https://www.toutiao.com/trending/7693195854991068713/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:诺奖得主研究如何为大脑装开关",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -975,7 +988,8 @@
   "雷军一口气刷完7期民间拆车视频",
   "openairogueagentactivitiesfoundo97284459",
   "家长给女儿买机器人当家教情感陪伴",
-  "换汤不换药的ai短剧还能不烧心吗"
+  "换汤不换药的ai短剧还能不烧心吗",
+  "重庆酉阳发生盗矿案件7人死亡"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1048,7 +1062,8 @@
   "e:雷军一口气刷完7期民间拆车视频": "雷军一口气刷完7期民间拆车视频",
   "e:openairogueagentactivitiesfoundonwikimed": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
   "e:家长给女儿买机器人当家教情感陪伴": "家长给女儿买机器人当家教：情感陪伴",
-  "e:换汤不换药的ai短剧还能不烧心吗": "换汤不换药的AI短剧还能“不烧心”吗"
+  "e:换汤不换药的ai短剧还能不烧心吗": "换汤不换药的AI短剧还能“不烧心”吗",
+  "e:重庆酉阳发生盗矿案件7人死亡": "重庆酉阳发生盗矿案件 7人死亡"
  },
  "a_seen": {
   "英国海上贸易行动办公室3艘船在霍尔木兹海峡遭袭": {
@@ -1187,9 +1202,9 @@
    "key": "dustpretrainingtransformerswitho82f2effa",
    "title": "Dust: Pretraining Transformers Without Backpropagation",
    "rating": "A",
-   "score": 40.85,
-   "angle": "从反向传播的统治地位切入，解读Dust如何绕过BP实现高效训练，对算力瓶颈的潜在突破意义",
-   "hook_reason": "不用反向传播训练Transformer，颠覆20年AI底层逻辑",
+   "score": 75.8,
+   "angle": "深度解读Dust论文：不用反向传播能否重定义AI训练范式，对科技行业意味着什么",
+   "hook_reason": "AI研究颠覆深度学习根基，反向传播可能被取代",
    "url": "https://qlabs.sh/research/dust",
    "track": "科技",
    "breaking": true,
@@ -1199,9 +1214,9 @@
    "key": "opus55agentsdiscovertworoomtempe0e57666b",
    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
    "rating": "A",
-   "score": 48.46,
-   "angle": "AI代理首次独立完成新材料发现，室温磁性半导体将如何重塑存储与量子计算产业",
-   "hook_reason": "AI自主发现室温磁性半导体，材料科学范式被颠覆",
+   "score": 52.49,
+   "angle": "从AI加速科研突破角度，解读室温磁半导体对芯片、量子计算产业的颠覆性影响及商业化路径",
+   "hook_reason": "AI发现室温磁半导体材料，颠覆性突破引爆科技圈",
    "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
    "track": "科技",
    "breaking": true,
@@ -1242,8 +1257,32 @@
    "track": "社会热点",
    "breaking": false,
    "event_id": "e:佩斯科夫俄已警告在基辅工作危险"
+  },
+  "usingbluraymdiskasbackupoflastresort": {
+   "key": "usingbluraymdiskasbackupoflastresort",
+   "title": "Using Blu-ray M-Disk as Backup of Last Resort",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从云端信任危机切入，讲述蓝光M-Disk作为'数字诺亚方舟'为何被极客重新拾起",
+   "hook_reason": "蓝光M-Disk冷备份逆袭，极客情怀+数据安全感拉满",
+   "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:usingbluraymdiskasbackupoflastresort"
+  },
+  "诺奖得主研究如何为大脑装开关": {
+   "key": "诺奖得主研究如何为大脑装开关",
+   "title": "诺奖得主研究如何“为大脑装开关”",
+   "rating": "A",
+   "score": 86.5,
+   "angle": null,
+   "hook_reason": "诺奖得主+脑科学突破，大脑",
+   "url": "https://www.toutiao.com/trending/7693195854991068713/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:诺奖得主研究如何为大脑装开关"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
