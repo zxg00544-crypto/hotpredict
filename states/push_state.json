@@ -308,19 +308,6 @@
    "batch_window": 5
   },
   {
-   "key": "换汤不换药的ai短剧还能不烧心吗",
-   "title": "换汤不换药的AI短剧还能“不烧心”吗",
-   "rating": "A",
-   "score": 80.5,
-   "angle": "从行业乱象切入，拆解AI短剧为何难逃同质化困局，预测监管与用户觉醒将重塑赛道",
-   "hook_reason": "AI短剧审美疲劳+行业洗牌，创业者/消费者必看",
-   "url": "https://www.toutiao.com/trending/7692782520934432811/",
-   "track": "科技",
-   "breaking": false,
-   "event_id": "e:换汤不换药的ai短剧还能不烧心吗",
-   "batch_window": 5
-  },
-  {
    "key": "飞行员霸气应对外机抵近我就是界碑",
    "title": "飞行员霸气应对外机抵近：我就是界碑",
    "rating": "A",
@@ -787,6 +774,19 @@
    "breaking": true,
    "event_id": "e:华尔街银行牵头为博通与anthropic敲定600亿美元芯片融资交易",
    "batch_window": 5
+  },
+  {
+   "key": "dustpretrainingtransformerswitho82f2effa",
+   "title": "Dust: Pretraining Transformers Without Backpropagation",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从反向传播的统治地位切入，解读Dust如何绕过BP实现高效训练，对算力瓶颈的潜在突破意义",
+   "hook_reason": "不用反向传播训练Transformer，颠覆20年AI底层逻辑",
+   "url": "https://qlabs.sh/research/dust",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:dustpretrainingtransformerswithoutbackpr",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -922,7 +922,8 @@
   "第20届亚运会闭幕",
   "雷军一口气刷完7期民间拆车视频",
   "openairogueagentactivitiesfoundo97284459",
-  "家长给女儿买机器人当家教情感陪伴"
+  "家长给女儿买机器人当家教情感陪伴",
+  "换汤不换药的ai短剧还能不烧心吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -994,7 +995,8 @@
   "e:第20届亚运会闭幕": "第20届亚运会闭幕",
   "e:雷军一口气刷完7期民间拆车视频": "雷军一口气刷完7期民间拆车视频",
   "e:openairogueagentactivitiesfoundonwikimed": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-  "e:家长给女儿买机器人当家教情感陪伴": "家长给女儿买机器人当家教：情感陪伴"
+  "e:家长给女儿买机器人当家教情感陪伴": "家长给女儿买机器人当家教：情感陪伴",
+  "e:换汤不换药的ai短剧还能不烧心吗": "换汤不换药的AI短剧还能“不烧心”吗"
  },
  "a_seen": {
   "英国海上贸易行动办公室3艘船在霍尔木兹海峡遭袭": {
@@ -1086,8 +1088,8 @@
    "title": "Beam: Reflection's 501B open-weight model",
    "rating": "A",
    "score": 75.95,
-   "angle": "从开放权重模型突破切入，分析对AI开发者生态和闭源大厂的双重冲击",
-   "hook_reason": "501B开源模型登顶HN，闭源vs开源大战再掀波澜，开发者集体关注",
+   "angle": "聚焦开放权重对中小团队的影响，对比闭源巨头的竞争格局",
+   "hook_reason": "501B开源大模型登顶，AI军备竞赛再升级",
    "url": "https://reflection.ai/blog/introducing-beam",
    "track": "科技",
    "breaking": true,
@@ -1121,15 +1123,27 @@
    "key": "央视披露缅北电诈真实案例男子讲述被割肾经历哪些细节值得关注",
    "title": "央视披露缅北电诈真实案例，男子讲述被割肾经历，哪些细节值得关注？",
    "rating": "A",
-   "score": 54.58,
-   "angle": "从普通人视角切入：缅北电诈为何屡禁不止？受害者如何自救？央视披露哪些关键细节值得关注？",
-   "hook_reason": "央视曝光+真实割肾细节，恐惧共鸣强，大众高度关注",
+   "score": 57.73,
+   "angle": "从个案延伸到反诈防线，深挖普通人如何识别电诈陷阱，提供实用防范指南",
+   "hook_reason": "央视曝光+真实案例+极端暴力细节，激发公众恐惧与愤怒",
    "url": "https://www.zhihu.com/question/2090396384771794120",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:央视披露缅北电诈真实案例"
+  },
+  "dustpretrainingtransformerswitho82f2effa": {
+   "key": "dustpretrainingtransformerswitho82f2effa",
+   "title": "Dust: Pretraining Transformers Without Backpropagation",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从反向传播的统治地位切入，解读Dust如何绕过BP实现高效训练，对算力瓶颈的潜在突破意义",
+   "hook_reason": "不用反向传播训练Transformer，颠覆20年AI底层逻辑",
+   "url": "https://qlabs.sh/research/dust",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:dustpretrainingtransformerswithoutbackpr"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
