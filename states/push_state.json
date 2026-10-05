@@ -514,6 +514,32 @@
    "breaking": true,
    "event_id": "e:缅北电诈头目现金多到发霉",
    "batch_window": 13
+  },
+  {
+   "key": "松岛辉空成史上最年轻世界第一",
+   "title": "松岛辉空成史上最年轻世界第一",
+   "rating": "A",
+   "score": 81.75,
+   "angle": "体育突破类社会热点，聚焦史上最年轻世界第一的含金量与中日乒乓球竞争叙事",
+   "hook_reason": "14岁登顶！日本天才少年创造历史，民族情绪+体育突破双重爆点",
+   "url": "https://www.baidu.com/s?wd=%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA%E6%88%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B9%B4%E8%BD%BB%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:松岛辉空首登男单世界第一",
+   "batch_window": 13
+  },
+  {
+   "key": "乘联分会称2026年18月中国占世界汽车份额回落至32背后原因有哪些",
+   "title": "乘联分会称 2026 年 1-8 月中国占世界汽车份额回落至 32%，背后原因有哪些？",
+   "rating": "A",
+   "score": 73.47,
+   "angle": "从中国车企海外扩张遇阻、新能源优势是否动摇角度切入分析",
+   "hook_reason": "中国车市份额下滑，产业格局剧变引发关注",
+   "url": "https://www.zhihu.com/question/2089350561493685925",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:乘联分会称2026年18月中国占世界汽车份额回落至32背后原因有哪些",
+   "batch_window": 13
   }
  ],
  "pushed": [
@@ -1010,9 +1036,9 @@
    "key": "被执行死刑的巫鸿明白应苍出镜",
    "title": "被执行死刑的巫鸿明、白应苍出镜",
    "rating": "A",
-   "score": 92.0,
-   "angle": "聚焦电诈头目伏法画面，解读正义震慑力与反诈警示意义，结合受害者故事引发共鸣",
-   "hook_reason": "电诈首犯被执行死刑首次公开露面，正义降临的震撼画面",
+   "score": 81.85,
+   "angle": "从'被执行死刑'到'首次出镜'，揭秘画面背后细节与公众情绪共振",
+   "hook_reason": "电诈头目伏法首次出镜，正义感+猎奇双重驱动",
    "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%E7%9A%84%E5%B7%AB%E9%B8%BF%E6%98%8E%E3%80%81%E7%99%BD%E5%BA%94%E8%8B%8D%E5%87%BA%E9%95%9C&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
@@ -1029,6 +1055,30 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:缅北电诈头目现金多到发霉"
+  },
+  "松岛辉空成史上最年轻世界第一": {
+   "key": "松岛辉空成史上最年轻世界第一",
+   "title": "松岛辉空成史上最年轻世界第一",
+   "rating": "A",
+   "score": 81.75,
+   "angle": "体育突破类社会热点，聚焦史上最年轻世界第一的含金量与中日乒乓球竞争叙事",
+   "hook_reason": "14岁登顶！日本天才少年创造历史，民族情绪+体育突破双重爆点",
+   "url": "https://www.baidu.com/s?wd=%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA%E6%88%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B9%B4%E8%BD%BB%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:松岛辉空首登男单世界第一"
+  },
+  "乘联分会称2026年18月中国占世界汽车份额回落至32背后原因有哪些": {
+   "key": "乘联分会称2026年18月中国占世界汽车份额回落至32背后原因有哪些",
+   "title": "乘联分会称 2026 年 1-8 月中国占世界汽车份额回落至 32%，背后原因有哪些？",
+   "rating": "A",
+   "score": 73.47,
+   "angle": "从中国车企海外扩张遇阻、新能源优势是否动摇角度切入分析",
+   "hook_reason": "中国车市份额下滑，产业格局剧变引发关注",
+   "url": "https://www.zhihu.com/question/2089350561493685925",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:乘联分会称2026年18月中国占世界汽车份额回落至32背后原因有哪些"
   }
  },
  "breaking_count": 10,
