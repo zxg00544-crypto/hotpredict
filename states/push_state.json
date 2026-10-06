@@ -815,19 +815,6 @@
    "batch_window": 6
   },
   {
-   "key": "佩斯科夫俄已警告在基辅工作危险",
-   "title": "佩斯科夫：俄已警告在基辅工作危险",
-   "rating": "A",
-   "score": 85.0,
-   "angle": "从俄乌冲突最新动态切入，分析局势走向及对中国公民/企业的海外安全警示",
-   "hook_reason": "俄乌局势突变！俄方警告外国人在乌工作危险，赴乌需谨慎",
-   "url": "https://www.baidu.com/s?wd=%E4%BD%A9%E6%96%AF%E7%A7%91%E5%A4%AB%EF%BC%9A%E4%BF%84%E5%B7%B2%E8%AD%A6%E5%91%8A%E5%9C%A8%E5%9F%BA%E8%BE%85%E5%B7%A5%E4%BD%9C%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": false,
-   "event_id": "e:佩斯科夫俄已警告在基辅工作危险",
-   "batch_window": 6
-  },
-  {
    "key": "usingbluraymdiskasbackupoflastresort",
    "title": "Using Blu-ray M-Disk as Backup of Last Resort",
    "rating": "A",
@@ -891,6 +878,32 @@
    "breaking": true,
    "event_id": "e:英国海上贸易行动办公室连日来多艘船只在霍尔木兹海峡遭袭",
    "batch_window": 8
+  },
+  {
+   "key": "有10万民警赴中缅边境打击涉我犯罪",
+   "title": "有10万民警赴中缅边境打击涉我犯罪",
+   "rating": "A",
+   "score": 60.0,
+   "angle": "从平安中国叙事切入，剖析边境执法对民众安全的现实意义",
+   "hook_reason": "10万民警跨境执法震撼，牵动全民安全感与爱国情绪",
+   "url": "https://www.toutiao.com/trending/7693322726240734766/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:有10万民警赴中缅边境打击涉我犯罪",
+   "batch_window": 9
+  },
+  {
+   "key": "8岁男童确诊尿毒症每天喝奶茶饮料",
+   "title": "8岁男童确诊尿毒症 每天喝奶茶饮料",
+   "rating": "A",
+   "score": 52.0,
+   "angle": "从儿童健康饮食角度切入，曝光奶茶饮料危害，引发家长警惕和社会反思",
+   "hook_reason": "8岁儿童患尿毒症，奶茶饮料是元凶，家长群体强烈共鸣",
+   "url": "https://www.toutiao.com/trending/7693181022127325227/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:8岁男童确诊尿毒症每天喝奶茶饮料",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -1029,7 +1042,8 @@
   "家长给女儿买机器人当家教情感陪伴",
   "换汤不换药的ai短剧还能不烧心吗",
   "重庆酉阳发生盗矿案件7人死亡",
-  "诺奖得主研究如何为大脑装开关"
+  "诺奖得主研究如何为大脑装开关",
+  "佩斯科夫俄已警告在基辅工作危险"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1104,7 +1118,8 @@
   "e:家长给女儿买机器人当家教情感陪伴": "家长给女儿买机器人当家教：情感陪伴",
   "e:换汤不换药的ai短剧还能不烧心吗": "换汤不换药的AI短剧还能“不烧心”吗",
   "e:重庆酉阳发生盗矿案件7人死亡": "重庆酉阳发生盗矿案件 7人死亡",
-  "e:诺奖得主研究如何为大脑装开关": "诺奖得主研究如何“为大脑装开关”"
+  "e:诺奖得主研究如何为大脑装开关": "诺奖得主研究如何“为大脑装开关”",
+  "e:佩斯科夫俄已警告在基辅工作危险": "佩斯科夫：俄已警告在基辅工作危险"
  },
  "a_seen": {
   "英国海上贸易行动办公室3艘船在霍尔木兹海峡遭袭": {
@@ -1327,9 +1342,9 @@
    "key": "明学昌畏罪自杀身亡照片曝光",
    "title": "明学昌畏罪自杀身亡照片曝光",
    "rating": "A",
-   "score": 52.4,
-   "angle": "聚焦事件细节与社会舆论反应，理性还原现场",
-   "hook_reason": "突发死亡+照片曝光，强烈好奇心驱动",
+   "score": 98.0,
+   "angle": "从事件突发性和细节曝光角度切入，解读事件背后信息",
+   "hook_reason": "突发死亡+畏罪自杀+照片曝光，三重爆款元素叠加",
    "url": "https://www.toutiao.com/trending/7692279017315290643/",
    "track": "社会热点",
    "breaking": true,
@@ -1339,9 +1354,9 @@
    "key": "chatgptisaddingrealcartoonistssi7f97f30a",
    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
    "rating": "A",
-   "score": 40.95,
-   "angle": "AI生成内容边界在哪里？从签名事件看创作者署名权危机",
-   "hook_reason": "AI冒用真人签名创作，创作者权益危机引爆舆论",
+   "score": 75.95,
+   "angle": "AI工具化创意劳动：当算法学会署名，创作者如何守住IP底线？",
+   "hook_reason": "AI越界创作+署名权争议，戳中创作者身份焦虑",
    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
    "track": "科技",
    "breaking": true,
@@ -1352,8 +1367,8 @@
    "title": "中国警方缅北战火下挖出同胞遗体",
    "rating": "A",
    "score": 46.9,
-   "angle": "从缅北战火中的中国公民命运切入，探讨海外安全与大国担当",
-   "hook_reason": "同胞遗体、战火、警方行动，情绪浓度极高",
+   "angle": "聚焦战火中同胞命运，渲染海外安全焦虑与民族情感共鸣",
+   "hook_reason": "缅北战火+同胞遗体，民族情感+生死悬念双重暴击",
    "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E7%BC%85%E5%8C%97%E6%88%98%E7%81%AB%E4%B8%8B%E6%8C%96%E5%87%BA%E5%90%8C%E8%83%9E%E9%81%97%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
@@ -1370,8 +1385,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:英国海上贸易行动办公室连日来多艘船只在霍尔木兹海峡遭袭"
+  },
+  "有10万民警赴中缅边境打击涉我犯罪": {
+   "key": "有10万民警赴中缅边境打击涉我犯罪",
+   "title": "有10万民警赴中缅边境打击涉我犯罪",
+   "rating": "A",
+   "score": 60.0,
+   "angle": "从平安中国叙事切入，剖析边境执法对民众安全的现实意义",
+   "hook_reason": "10万民警跨境执法震撼，牵动全民安全感与爱国情绪",
+   "url": "https://www.toutiao.com/trending/7693322726240734766/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:有10万民警赴中缅边境打击涉我犯罪"
+  },
+  "8岁男童确诊尿毒症每天喝奶茶饮料": {
+   "key": "8岁男童确诊尿毒症每天喝奶茶饮料",
+   "title": "8岁男童确诊尿毒症 每天喝奶茶饮料",
+   "rating": "A",
+   "score": 52.0,
+   "angle": "从儿童健康饮食角度切入，曝光奶茶饮料危害，引发家长警惕和社会反思",
+   "hook_reason": "8岁儿童患尿毒症，奶茶饮料是元凶，家长群体强烈共鸣",
+   "url": "https://www.toutiao.com/trending/7693181022127325227/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:8岁男童确诊尿毒症每天喝奶茶饮料"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
