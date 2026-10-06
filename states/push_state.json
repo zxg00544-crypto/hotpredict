@@ -737,19 +737,6 @@
    "batch_window": 6
   },
   {
-   "key": "usingbluraymdiskasbackupoflastresort",
-   "title": "Using Blu-ray M-Disk as Backup of Last Resort",
-   "rating": "A",
-   "score": 77.0,
-   "angle": "从云端信任危机切入，讲述蓝光M-Disk作为'数字诺亚方舟'为何被极客重新拾起",
-   "hook_reason": "蓝光M-Disk冷备份逆袭，极客情怀+数据安全感拉满",
-   "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:usingbluraymdiskasbackupoflastresort",
-   "batch_window": 7
-  },
-  {
    "key": "明学昌畏罪自杀身亡照片曝光",
    "title": "明学昌畏罪自杀身亡照片曝光",
    "rating": "A",
@@ -1190,6 +1177,45 @@
    "breaking": true,
    "event_id": "e:nobelprizeinphysics2026francishalzen",
    "batch_window": 3
+  },
+  {
+   "key": "特朗普很快你们就会知道我们将如何了结伊朗问题",
+   "title": "特朗普：很快你们就会知道我们将如何了结伊朗问题。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "抓住特朗普表态的戏剧性，解读其对全球局势及市场的影响，切入地缘风险视角",
+   "hook_reason": "特朗普亲自放话伊朗，大国博弈悬念引爆关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniuirnr8524781.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普很快你们就会知道我们将如何了结伊朗问题",
+   "batch_window": 4
+  },
+  {
+   "key": "特朗普谈伊朗问题必须结束问题在于如何结束",
+   "title": "特朗普谈伊朗问题：必须结束，问题在于如何结束。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从特朗普发言解读美国中东政策转向，分析对全球能源市场及中美伊关系的潜在影响",
+   "hook_reason": "特朗普最新伊朗表态，全球关注的地缘政治风向标",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniuirnr8524771.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普谈伊朗问题必须结束问题在于如何结束",
+   "batch_window": 4
+  },
+  {
+   "key": "naturescapacitytobouncebackwhensa96b6b70",
+   "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
+   "rating": "A",
+   "score": 40.35,
+   "angle": "Nature顶刊研究颠覆公众常识——生态恢复力被严重高估，直接关联环保政策与碳中和叙事，社会情绪高度共鸣",
+   "hook_reason": "科学家推翻乐观认知：大自然无法自愈，物种灭绝不可逆，情绪冲击强",
+   "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:naturescapacitytobouncebackwhenspeciesar",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -1357,7 +1383,8 @@
   "国足友谊赛3连败1球未进丢掉9球邵佳一该下课吗",
   "中国代表团超23运动员首次征战亚运",
   "nearly200peopleunderobservationa8db6a5e3",
-  "缅北电诈头目酒店被抓画面曝光"
+  "缅北电诈头目酒店被抓画面曝光",
+  "usingbluraymdiskasbackupoflastresort"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1461,7 +1488,8 @@
   "e:国足友谊赛3连败1球未进丢掉9球邵佳一该下课吗": "国足友谊赛 3 连败，1 球未进丢掉 9 球，邵佳一该下课吗？",
   "e:中国代表团超23运动员首次征战亚运": "中国代表团超2/3运动员首次征战亚运",
   "e:nearly200peopleunderobservationafterirku": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
-  "e:缅北电诈头目酒店被抓画面曝光": "缅北电诈头目酒店被抓画面曝光"
+  "e:缅北电诈头目酒店被抓画面曝光": "缅北电诈头目酒店被抓画面曝光",
+  "e:usingbluraymdiskasbackupoflastresort": "Using Blu-ray M-Disk as Backup of Last Resort"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -1607,8 +1635,44 @@
    "track": "社会热点",
    "breaking": false,
    "event_id": "e:16条人命只剩5具尸体1份骨灰"
+  },
+  "特朗普很快你们就会知道我们将如何了结伊朗问题": {
+   "key": "特朗普很快你们就会知道我们将如何了结伊朗问题",
+   "title": "特朗普：很快你们就会知道我们将如何了结伊朗问题。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "抓住特朗普表态的戏剧性，解读其对全球局势及市场的影响，切入地缘风险视角",
+   "hook_reason": "特朗普亲自放话伊朗，大国博弈悬念引爆关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniuirnr8524781.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普很快你们就会知道我们将如何了结伊朗问题"
+  },
+  "特朗普谈伊朗问题必须结束问题在于如何结束": {
+   "key": "特朗普谈伊朗问题必须结束问题在于如何结束",
+   "title": "特朗普谈伊朗问题：必须结束，问题在于如何结束。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从特朗普发言解读美国中东政策转向，分析对全球能源市场及中美伊关系的潜在影响",
+   "hook_reason": "特朗普最新伊朗表态，全球关注的地缘政治风向标",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniuirnr8524771.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普谈伊朗问题必须结束问题在于如何结束"
+  },
+  "naturescapacitytobouncebackwhensa96b6b70": {
+   "key": "naturescapacitytobouncebackwhensa96b6b70",
+   "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
+   "rating": "A",
+   "score": 40.35,
+   "angle": "Nature顶刊研究颠覆公众常识——生态恢复力被严重高估，直接关联环保政策与碳中和叙事，社会情绪高度共鸣",
+   "hook_reason": "科学家推翻乐观认知：大自然无法自愈，物种灭绝不可逆，情绪冲击强",
+   "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:naturescapacitytobouncebackwhenspeciesar"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
