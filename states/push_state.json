@@ -16,18 +16,6 @@
    "batch_window": 2
   },
   {
-   "key": "如何评价deepseekharness桌面版正式发布",
-   "title": "如何评价DeepSeek Harness桌面版正式发布？",
-   "rating": "A",
-   "score": 76.01,
-   "angle": "从桌面版功能切入，分析DeepSeek在AI工具市场的战略布局与竞争影响",
-   "hook_reason": "DeepSeek新品发布，AI圈高度关注",
-   "url": "https://www.zhihu.com/question/2088368253169034470",
-   "track": "科技",
-   "breaking": true,
-   "batch_window": 2
-  },
-  {
    "key": "检察机关依法对易会满涉嫌受贿案提起公诉",
    "title": "检察机关依法对易会满涉嫌受贿案提起公诉 。",
    "rating": "A",
@@ -1255,6 +1243,58 @@
    "breaking": true,
    "event_id": "e:paramountskydancehascompletedits111bmerg",
    "batch_window": 6
+  },
+  {
+   "key": "opentpuanopensourceaiacceleratordevelopedbyai",
+   "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+   "rating": "A",
+   "score": 48.74,
+   "angle": "从AI从\"设计芯片\"切入，阐述开源硬件+AI自主进化的双重突破",
+   "hook_reason": "AI自己开发了硬件加速器，开源让所有人都能用，颠覆性极强",
+   "url": "https://github.com/FeSens/openTPU",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:opentpuanopensourceaiacceleratordevelope",
+   "batch_window": 7
+  },
+  {
+   "key": "sharingaiprogressinmathematics",
+   "title": "Sharing AI Progress in Mathematics",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "聚焦OpenAI最新数学推理进展及其对AI通用能力路线的意义",
+   "hook_reason": "OpenAI官宣数学推理突破，AI能力再进一程",
+   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:sharingaiprogressinmathematics",
+   "batch_window": 7
+  },
+  {
+   "key": "物理诺奖得主把南极冰变成望远镜",
+   "title": "物理诺奖得主把南极冰变成望远镜",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "独家揭秘：诺奖得主如何把千年冰川变成巨型望远镜，南极冰穹A项目前沿进展",
+   "hook_reason": "诺奖得主用南极冰造望远镜，颠覆传统天文观测方式",
+   "url": "https://www.toutiao.com/trending/7693514695189204499/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:物理诺奖得主把南极冰变成望远镜",
+   "batch_window": 7
+  },
+  {
+   "key": "decisionsapiisinpublicbeta",
+   "title": "Decisions API is in public beta",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从开发者视角解读Decisions API的核心能力、适用场景及与现有工具的区别，判断是否值得接入",
+   "hook_reason": "OpenAI推新API，开发者社区关注，技术落地信号明确",
+   "url": "https://developers.openai.com/api/docs/guides/decisions",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:decisionsapiisinpublicbeta",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -1425,7 +1465,8 @@
   "缅北电诈头目酒店被抓画面曝光",
   "usingbluraymdiskasbackupoflastresort",
   "pressreleasenobelprizeinphysiologyormedicine2026",
-  "embeddinggemma2"
+  "embeddinggemma2",
+  "如何评价deepseekharness桌面版正式发布"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1532,7 +1573,8 @@
   "e:缅北电诈头目酒店被抓画面曝光": "缅北电诈头目酒店被抓画面曝光",
   "e:usingbluraymdiskasbackupoflastresort": "Using Blu-ray M-Disk as Backup of Last Resort",
   "e:pressreleasenobelprizeinphysiologyormedi": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-  "e:embeddinggemma2": "EmbeddingGemma 2"
+  "e:embeddinggemma2": "EmbeddingGemma 2",
+  "e:如何评价deepseekharness桌面版正式发布": "如何评价DeepSeek Harness桌面版正式发布？"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -1774,8 +1816,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:paramountskydancehascompletedits111bmerg"
+  },
+  "opentpuanopensourceaiacceleratordevelopedbyai": {
+   "key": "opentpuanopensourceaiacceleratordevelopedbyai",
+   "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+   "rating": "A",
+   "score": 48.74,
+   "angle": "从AI从\"设计芯片\"切入，阐述开源硬件+AI自主进化的双重突破",
+   "hook_reason": "AI自己开发了硬件加速器，开源让所有人都能用，颠覆性极强",
+   "url": "https://github.com/FeSens/openTPU",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:opentpuanopensourceaiacceleratordevelope"
+  },
+  "sharingaiprogressinmathematics": {
+   "key": "sharingaiprogressinmathematics",
+   "title": "Sharing AI Progress in Mathematics",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "聚焦OpenAI最新数学推理进展及其对AI通用能力路线的意义",
+   "hook_reason": "OpenAI官宣数学推理突破，AI能力再进一程",
+   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:sharingaiprogressinmathematics"
+  },
+  "物理诺奖得主把南极冰变成望远镜": {
+   "key": "物理诺奖得主把南极冰变成望远镜",
+   "title": "物理诺奖得主把南极冰变成望远镜",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "独家揭秘：诺奖得主如何把千年冰川变成巨型望远镜，南极冰穹A项目前沿进展",
+   "hook_reason": "诺奖得主用南极冰造望远镜，颠覆传统天文观测方式",
+   "url": "https://www.toutiao.com/trending/7693514695189204499/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:物理诺奖得主把南极冰变成望远镜"
+  },
+  "decisionsapiisinpublicbeta": {
+   "key": "decisionsapiisinpublicbeta",
+   "title": "Decisions API is in public beta",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从开发者视角解读Decisions API的核心能力、适用场景及与现有工具的区别，判断是否值得接入",
+   "hook_reason": "OpenAI推新API，开发者社区关注，技术落地信号明确",
+   "url": "https://developers.openai.com/api/docs/guides/decisions",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:decisionsapiisinpublicbeta"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
