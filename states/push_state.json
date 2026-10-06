@@ -360,19 +360,6 @@
    "batch_window": 11
   },
   {
-   "key": "quantitativefinancewithocaml",
-   "title": "Quantitative Finance with OCaml",
-   "rating": "A",
-   "score": 78.0,
-   "angle": "OCaml语言因性能优势被量化金融机构采用，程序员/极客关注",
-   "hook_reason": "OCaml杀入量化金融，硬核程序员的新宠",
-   "url": "https://qcaml.com/index.html",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:quantitativefinancewithocaml",
-   "batch_window": 12
-  },
-  {
    "key": "nearly200peopleunderobservationa8db6a5e3",
    "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
    "rating": "A",
@@ -995,6 +982,45 @@
    "breaking": true,
    "event_id": "e:日企开发出纯电汽车行驶中无线充电技术",
    "batch_window": 13
+  },
+  {
+   "key": "12306售罄为何第三方还有票",
+   "title": "12306售罄为何第三方还有票",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "拆解12306与第三方抢票的\"票源差\"，揭示平台加价内幕与监管盲区",
+   "hook_reason": "旅客痛点共鸣，质疑第三方平台合法性与信息不对称",
+   "url": "https://www.baidu.com/s?wd=12306%E5%94%AE%E7%BD%84%E4%B8%BA%E4%BD%95%E7%AC%AC%E4%B8%89%E6%96%B9%E8%BF%98%E6%9C%89%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:12306售罄为何第三方还有票",
+   "batch_window": 14
+  },
+  {
+   "key": "niko发文声援亚洲赛区",
+   "title": "NiKo发文声援亚洲赛区",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从欧洲明星选手视角切入，分析NiKo为何在此时点发声、背后赛区博弈及对CS2亚洲生态的影响",
+   "hook_reason": "CS2顶级选手NiKo突发发声支持亚洲赛区，引发跨国战队/赛区站队猜想",
+   "url": "https://search.bilibili.com/all?keyword=NiKo发文声援亚洲赛区",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:niko发文声援亚洲赛区",
+   "batch_window": 14
+  },
+  {
+   "key": "诺贝尔物理学奖即将公布",
+   "title": "诺贝尔物理学奖即将公布",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "诺贝尔物理学奖预测名单曝光，中国学者有望首次获奖的幕后故事与争议",
+   "hook_reason": "诺奖预测引爆全民科普热潮，谁摘桂冠成全球焦点",
+   "url": "https://search.bilibili.com/all?keyword=诺贝尔物理学奖即将公布",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:诺贝尔物理学奖即将公布",
+   "batch_window": 14
   }
  ],
  "pushed": [
@@ -1138,7 +1164,8 @@
   "华为与高通宣布达成广泛专利许可协议意味着什么释放了哪些信号",
   "中国代表点名警告英澳日等国",
   "中方放弃谈判直接抓佤邦副总司令",
-  "华裔科学家李飞飞称10年后人工智能普及全球将只剩下两类劳动如何理解"
+  "华裔科学家李飞飞称10年后人工智能普及全球将只剩下两类劳动如何理解",
+  "quantitativefinancewithocaml"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1218,7 +1245,8 @@
   "e:华为与高通宣布达成广泛专利许可协议意味着什么释放了哪些信号": "华为与高通宣布达成广泛专利许可协议，意味着什么？释放了哪些信号？",
   "e:中国代表点名警告英澳日等国": "中国代表点名警告英澳日等国",
   "e:中方放弃谈判直接抓佤邦副总司令": "中方放弃谈判直接抓佤邦副总司令",
-  "e:华裔科学家李飞飞称10年后人工智能普及全球将只剩下两类劳动如何理解": "华裔科学家李飞飞称10年后人工智能普及，全球将只剩下两类劳动，如何理解？"
+  "e:华裔科学家李飞飞称10年后人工智能普及全球将只剩下两类劳动如何理解": "华裔科学家李飞飞称10年后人工智能普及，全球将只剩下两类劳动，如何理解？",
+  "e:quantitativefinancewithocaml": "Quantitative Finance with OCaml"
  },
  "a_seen": {
   "英国海上贸易行动办公室3艘船在霍尔木兹海峡遭袭": {
@@ -1652,8 +1680,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:日企开发出纯电汽车行驶中无线充电技术"
+  },
+  "12306售罄为何第三方还有票": {
+   "key": "12306售罄为何第三方还有票",
+   "title": "12306售罄为何第三方还有票",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "拆解12306与第三方抢票的\"票源差\"，揭示平台加价内幕与监管盲区",
+   "hook_reason": "旅客痛点共鸣，质疑第三方平台合法性与信息不对称",
+   "url": "https://www.baidu.com/s?wd=12306%E5%94%AE%E7%BD%84%E4%B8%BA%E4%BD%95%E7%AC%AC%E4%B8%89%E6%96%B9%E8%BF%98%E6%9C%89%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:12306售罄为何第三方还有票"
+  },
+  "niko发文声援亚洲赛区": {
+   "key": "niko发文声援亚洲赛区",
+   "title": "NiKo发文声援亚洲赛区",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从欧洲明星选手视角切入，分析NiKo为何在此时点发声、背后赛区博弈及对CS2亚洲生态的影响",
+   "hook_reason": "CS2顶级选手NiKo突发发声支持亚洲赛区，引发跨国战队/赛区站队猜想",
+   "url": "https://search.bilibili.com/all?keyword=NiKo发文声援亚洲赛区",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:niko发文声援亚洲赛区"
+  },
+  "诺贝尔物理学奖即将公布": {
+   "key": "诺贝尔物理学奖即将公布",
+   "title": "诺贝尔物理学奖即将公布",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "诺贝尔物理学奖预测名单曝光，中国学者有望首次获奖的幕后故事与争议",
+   "hook_reason": "诺奖预测引爆全民科普热潮，谁摘桂冠成全球焦点",
+   "url": "https://search.bilibili.com/all?keyword=诺贝尔物理学奖即将公布",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:诺贝尔物理学奖即将公布"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 13
+ "a_pushed_window": 14
 }
