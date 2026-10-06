@@ -984,19 +984,6 @@
    "batch_window": 13
   },
   {
-   "key": "12306售罄为何第三方还有票",
-   "title": "12306售罄为何第三方还有票",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "拆解12306与第三方抢票的\"票源差\"，揭示平台加价内幕与监管盲区",
-   "hook_reason": "旅客痛点共鸣，质疑第三方平台合法性与信息不对称",
-   "url": "https://www.baidu.com/s?wd=12306%E5%94%AE%E7%BD%84%E4%B8%BA%E4%BD%95%E7%AC%AC%E4%B8%89%E6%96%B9%E8%BF%98%E6%9C%89%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:12306售罄为何第三方还有票",
-   "batch_window": 14
-  },
-  {
    "key": "niko发文声援亚洲赛区",
    "title": "NiKo发文声援亚洲赛区",
    "rating": "A",
@@ -1021,6 +1008,45 @@
    "breaking": true,
    "event_id": "e:诺贝尔物理学奖即将公布",
    "batch_window": 14
+  },
+  {
+   "key": "10万人涌进5万人小城考验才刚开始",
+   "title": "10万人涌进5万人小城 考验才刚开始",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "小城承载极限与人潮背后的流动密码",
+   "hook_reason": "10万人涌入5万小城，人口奇观引共鸣",
+   "url": "https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BA%E6%B6%8C%E8%BF%9B5%E4%B8%87%E4%BA%BA%E5%B0%8F%E5%9F%8E+%E8%80%83%E9%AA%8C%E6%89%8D%E5%88%9A%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:10万人涌进5万人小城考验才刚开始",
+   "batch_window": 15
+  },
+  {
+   "key": "法国财政部长莱斯屈尔表示投资者抛售法国国债并非源于信心不足而是当前买方数量较",
+   "title": "法国财政部长莱斯屈尔表示：投资者抛售法国国债并非源于信心不足，而是当前买方数量较",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦法国财政部长发声辟谣，解读国债抛售背后的欧美债市连锁反应",
+   "hook_reason": "法国财政部长辟谣国债抛售恐慌，主权债务风险引全球关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniuhitf8981280.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:法国财政部长莱斯屈尔表示投资者抛售法国国债并非源于信心不足而是当前买方数量较",
+   "batch_window": 15
+  },
+  {
+   "key": "斗山恒能向美国spacexai交付首台燃气轮机",
+   "title": "斗山恒能向美国 SpaceXAI 交付首台燃气轮机",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "中美科技脱钩背景下，中国企业如何突破限制进入SpaceX供应链，中国高端装备制造出海的标志性事件",
+   "hook_reason": "中国高端装备首次进入SpaceX供应链，科技博弈下的意外合作",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniuhitf8980292.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:斗山恒能向美国spacexai交付首台燃气轮机",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -1165,7 +1191,8 @@
   "中国代表点名警告英澳日等国",
   "中方放弃谈判直接抓佤邦副总司令",
   "华裔科学家李飞飞称10年后人工智能普及全球将只剩下两类劳动如何理解",
-  "quantitativefinancewithocaml"
+  "quantitativefinancewithocaml",
+  "12306售罄为何第三方还有票"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1246,7 +1273,8 @@
   "e:中国代表点名警告英澳日等国": "中国代表点名警告英澳日等国",
   "e:中方放弃谈判直接抓佤邦副总司令": "中方放弃谈判直接抓佤邦副总司令",
   "e:华裔科学家李飞飞称10年后人工智能普及全球将只剩下两类劳动如何理解": "华裔科学家李飞飞称10年后人工智能普及，全球将只剩下两类劳动，如何理解？",
-  "e:quantitativefinancewithocaml": "Quantitative Finance with OCaml"
+  "e:quantitativefinancewithocaml": "Quantitative Finance with OCaml",
+  "e:12306售罄为何第三方还有票": "12306售罄为何第三方还有票"
  },
  "a_seen": {
   "英国海上贸易行动办公室3艘船在霍尔木兹海峡遭袭": {
@@ -1716,8 +1744,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:诺贝尔物理学奖即将公布"
+  },
+  "10万人涌进5万人小城考验才刚开始": {
+   "key": "10万人涌进5万人小城考验才刚开始",
+   "title": "10万人涌进5万人小城 考验才刚开始",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "小城承载极限与人潮背后的流动密码",
+   "hook_reason": "10万人涌入5万小城，人口奇观引共鸣",
+   "url": "https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BA%E6%B6%8C%E8%BF%9B5%E4%B8%87%E4%BA%BA%E5%B0%8F%E5%9F%8E+%E8%80%83%E9%AA%8C%E6%89%8D%E5%88%9A%E5%BC%80%E5%A7%8B&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:10万人涌进5万人小城考验才刚开始"
+  },
+  "法国财政部长莱斯屈尔表示投资者抛售法国国债并非源于信心不足而是当前买方数量较": {
+   "key": "法国财政部长莱斯屈尔表示投资者抛售法国国债并非源于信心不足而是当前买方数量较",
+   "title": "法国财政部长莱斯屈尔表示：投资者抛售法国国债并非源于信心不足，而是当前买方数量较",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦法国财政部长发声辟谣，解读国债抛售背后的欧美债市连锁反应",
+   "hook_reason": "法国财政部长辟谣国债抛售恐慌，主权债务风险引全球关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniuhitf8981280.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:法国财政部长莱斯屈尔表示投资者抛售法国国债并非源于信心不足而是当前买方数量较"
+  },
+  "斗山恒能向美国spacexai交付首台燃气轮机": {
+   "key": "斗山恒能向美国spacexai交付首台燃气轮机",
+   "title": "斗山恒能向美国 SpaceXAI 交付首台燃气轮机",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "中美科技脱钩背景下，中国企业如何突破限制进入SpaceX供应链，中国高端装备制造出海的标志性事件",
+   "hook_reason": "中国高端装备首次进入SpaceX供应链，科技博弈下的意外合作",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniuhitf8980292.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:斗山恒能向美国spacexai交付首台燃气轮机"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 14
+ "a_pushed_window": 15
 }
