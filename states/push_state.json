@@ -1205,19 +1205,6 @@
    "batch_window": 4
   },
   {
-   "key": "embeddinggemma2",
-   "title": "EmbeddingGemma 2",
-   "rating": "A",
-   "score": 76.5,
-   "angle": "Google发布EmbeddingGemma 2开源模型，性能对标OpenAI embeddings，RAG/向量搜索场景新选择，国产模型厂商承压",
-   "hook_reason": "Google官宣开源Embedding模型，对标OpenAI，AI圈炸锅",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:embeddinggemma2",
-   "batch_window": 5
-  },
-  {
    "key": "paramountcompletes111bwarnermergfca5ebdd",
    "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
    "rating": "A",
@@ -1255,6 +1242,19 @@
    "breaking": true,
    "event_id": "e:特朗普谈及俄罗斯疑似鼠疫事件双方正在进行深度磋商",
    "batch_window": 5
+  },
+  {
+   "key": "paramountskydancehascompletedits1dabd3c8",
+   "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "从百亿美元级娱乐帝国博弈切入，解析流媒体战争新阶段与行业垄断风险",
+   "hook_reason": "好莱坞史上最大并购，流媒体格局即将洗牌",
+   "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:paramountskydancehascompletedits111bmerg",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -1424,7 +1424,8 @@
   "nearly200peopleunderobservationa8db6a5e3",
   "缅北电诈头目酒店被抓画面曝光",
   "usingbluraymdiskasbackupoflastresort",
-  "pressreleasenobelprizeinphysiologyormedicine2026"
+  "pressreleasenobelprizeinphysiologyormedicine2026",
+  "embeddinggemma2"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1530,7 +1531,8 @@
   "e:nearly200peopleunderobservationafterirku": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
   "e:缅北电诈头目酒店被抓画面曝光": "缅北电诈头目酒店被抓画面曝光",
   "e:usingbluraymdiskasbackupoflastresort": "Using Blu-ray M-Disk as Backup of Last Resort",
-  "e:pressreleasenobelprizeinphysiologyormedi": "Press Release: Nobel Prize in Physiology or Medicine 2026"
+  "e:pressreleasenobelprizeinphysiologyormedi": "Press Release: Nobel Prize in Physiology or Medicine 2026",
+  "e:embeddinggemma2": "EmbeddingGemma 2"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -1669,9 +1671,9 @@
    "key": "警方从缅北带回5具尸体1份骨灰",
    "title": "警方从缅北带回5具尸体1份骨灰",
    "rating": "A",
-   "score": 91.5,
-   "angle": "从执法行动切入，关联跨境犯罪治理，引发公众对海外安全及反诈意识讨论",
-   "hook_reason": "境外犯罪执法直击公众安全感，涉及生死，情绪浓度极高",
+   "score": 87.0,
+   "angle": "深挖警方跨境执法背景，缅北华人安全现状，案件细节与后续追责",
+   "hook_reason": "缅北+5具尸体，生死话题引爆民族情绪，悬念感极强",
    "url": "https://www.toutiao.com/trending/7693542372982423606/",
    "track": "社会热点",
    "breaking": false,
@@ -1718,8 +1720,8 @@
    "title": "EmbeddingGemma 2",
    "rating": "A",
    "score": 76.5,
-   "angle": "Google发布EmbeddingGemma 2开源模型，性能对标OpenAI embeddings，RAG/向量搜索场景新选择，国产模型厂商承压",
-   "hook_reason": "Google官宣开源Embedding模型，对标OpenAI，AI圈炸锅",
+   "angle": "从开源模型竞争格局切入，分析Gemma 2对HuggingFace生态和国内大模型嵌入方案的影响",
+   "hook_reason": "Google突袭发布Gemma 2 Embedding模型，开源+性能双提升，开发者圈炸锅",
    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
    "track": "科技",
    "breaking": true,
@@ -1760,8 +1762,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:特朗普谈及俄罗斯疑似鼠疫事件双方正在进行深度磋商"
+  },
+  "paramountskydancehascompletedits1dabd3c8": {
+   "key": "paramountskydancehascompletedits1dabd3c8",
+   "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "从百亿美元级娱乐帝国博弈切入，解析流媒体战争新阶段与行业垄断风险",
+   "hook_reason": "好莱坞史上最大并购，流媒体格局即将洗牌",
+   "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:paramountskydancehascompletedits111bmerg"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
