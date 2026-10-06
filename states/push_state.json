@@ -1203,6 +1203,58 @@
    "breaking": true,
    "event_id": "e:naturescapacitytobouncebackwhenspeciesar",
    "batch_window": 4
+  },
+  {
+   "key": "embeddinggemma2",
+   "title": "EmbeddingGemma 2",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "Google发布EmbeddingGemma 2开源模型，性能对标OpenAI embeddings，RAG/向量搜索场景新选择，国产模型厂商承压",
+   "hook_reason": "Google官宣开源Embedding模型，对标OpenAI，AI圈炸锅",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:embeddinggemma2",
+   "batch_window": 5
+  },
+  {
+   "key": "paramountcompletes111bwarnermergfca5ebdd",
+   "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "从资本视角拆解百亿合并背后：谁受益谁出局，对流媒体和院线意味着什么",
+   "hook_reason": "1110亿美元重塑好莱坞，流媒体格局生变",
+   "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:paramountcompletes111bwarnermergercreati",
+   "batch_window": 5
+  },
+  {
+   "key": "特朗普预计明日可以通报相关磋商情况",
+   "title": "特朗普：预计明日可以通报相关磋商情况。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从特朗普发言切入，解读磋商背景、中美经贸博弈最新信号",
+   "hook_reason": "特朗普亲自预告磋商结果，全球目光聚焦中美关系走向",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniuivur5189799.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普预计明日可以通报相关磋商情况",
+   "batch_window": 5
+  },
+  {
+   "key": "特朗普谈及俄罗斯疑似鼠疫事件双方正在进行深度磋商",
+   "title": "特朗普谈及俄罗斯疑似鼠疫事件：双方正在进行深度磋商。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从国际公共卫生安全角度切入，剖析大国地缘博弈背后的信息战意图",
+   "hook_reason": "特朗普突发涉俄鼠疫言论，大国博弈+公共卫生双爆点",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniuivup8417236.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:特朗普谈及俄罗斯疑似鼠疫事件双方正在进行深度磋商",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -1660,6 +1712,54 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:naturescapacitytobouncebackwhenspeciesar"
+  },
+  "embeddinggemma2": {
+   "key": "embeddinggemma2",
+   "title": "EmbeddingGemma 2",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "Google发布EmbeddingGemma 2开源模型，性能对标OpenAI embeddings，RAG/向量搜索场景新选择，国产模型厂商承压",
+   "hook_reason": "Google官宣开源Embedding模型，对标OpenAI，AI圈炸锅",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:embeddinggemma2"
+  },
+  "paramountcompletes111bwarnermergfca5ebdd": {
+   "key": "paramountcompletes111bwarnermergfca5ebdd",
+   "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "从资本视角拆解百亿合并背后：谁受益谁出局，对流媒体和院线意味着什么",
+   "hook_reason": "1110亿美元重塑好莱坞，流媒体格局生变",
+   "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:paramountcompletes111bwarnermergercreati"
+  },
+  "特朗普预计明日可以通报相关磋商情况": {
+   "key": "特朗普预计明日可以通报相关磋商情况",
+   "title": "特朗普：预计明日可以通报相关磋商情况。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从特朗普发言切入，解读磋商背景、中美经贸博弈最新信号",
+   "hook_reason": "特朗普亲自预告磋商结果，全球目光聚焦中美关系走向",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniuivur5189799.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普预计明日可以通报相关磋商情况"
+  },
+  "特朗普谈及俄罗斯疑似鼠疫事件双方正在进行深度磋商": {
+   "key": "特朗普谈及俄罗斯疑似鼠疫事件双方正在进行深度磋商",
+   "title": "特朗普谈及俄罗斯疑似鼠疫事件：双方正在进行深度磋商。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从国际公共卫生安全角度切入，剖析大国地缘博弈背后的信息战意图",
+   "hook_reason": "特朗普突发涉俄鼠疫言论，大国博弈+公共卫生双爆点",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniuivup8417236.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:特朗普谈及俄罗斯疑似鼠疫事件双方正在进行深度磋商"
   }
  },
  "breaking_count": 10,
