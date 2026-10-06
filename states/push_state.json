@@ -347,19 +347,6 @@
    "batch_window": 11
   },
   {
-   "key": "nearly200peopleunderobservationa8db6a5e3",
-   "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
-   "rating": "A",
-   "score": 77.0,
-   "angle": "聚焦：①腺鼠疫现代为何仍能致死？②200人密接被观察意味着什么？③俄方疫情通报透明度争议。配科普+追踪双线写法",
-   "hook_reason": "现代俄罗斯罕见腺鼠疫致死，200人被医学观察，恐惧+猎奇双重爆点",
-   "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:nearly200peopleunderobservationafterirku",
-   "batch_window": 12
-  },
-  {
    "key": "缅北电诈回流人员自述被割肾经历",
    "title": "缅北电诈回流人员自述被割肾经历",
    "rating": "A",
@@ -1164,6 +1151,45 @@
    "breaking": true,
    "event_id": "e:全民进入大耍起时代",
    "batch_window": 1
+  },
+  {
+   "key": "anthropic推出全新谷歌文档表格与幻灯片连接器测试版claude可",
+   "title": "Anthropic推出全新谷歌文档、表格与幻灯片连接器（测试版），Claude可",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从'AI+办公'角度切入，分析Claude集成Google Workspace对职场效率的影响及竞品动态",
+   "hook_reason": "Claude不仅能聊天，现在还能直接操作Google文档/表格/幻灯片，办公场景AI化加速",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniuimet8616915.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic面向谷歌workspace的claude现已面向所有付费cl",
+   "batch_window": 2
+  },
+  {
+   "key": "缅北电诈头目酒店被抓画面曝光",
+   "title": "缅北电诈头目酒店被抓画面曝光",
+   "rating": "A",
+   "score": 81.2,
+   "angle": "从电诈产业链视角切入，结合公众安全感议题，解读抓捕行动背后的社会意义",
+   "hook_reason": "缅北电诈头目被抓，全民关心的安全话题",
+   "url": "https://www.toutiao.com/trending/7693390371895738378/",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:缅北电诈头目酒店被抓画面曝光",
+   "batch_window": 2
+  },
+  {
+   "key": "游客一进县城就收到文旅局长手机号",
+   "title": "游客一进县城就收到文旅局长手机号",
+   "rating": "A",
+   "score": 70.77,
+   "angle": "政务数字化的温度革命：从窗口排队到'一键直达'，看县城如何用一条手机号撬动文旅信任链",
+   "hook_reason": "县长热线直推游客手机号，政务创新打破距离感",
+   "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E4%B8%80%E8%BF%9B%E5%8E%BF%E5%9F%8E%E5%B0%B1%E6%94%B6%E5%88%B0%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E6%89%8B%E6%9C%BA%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:游客一进县城就收到文旅局长手机号",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -1329,7 +1355,8 @@
   "中国人在外国旅游的口碑",
   "十人国足01塔吉克斯坦韦世豪肘击染红刘殿座脱手致丢球如何评价本场比赛",
   "国足友谊赛3连败1球未进丢掉9球邵佳一该下课吗",
-  "中国代表团超23运动员首次征战亚运"
+  "中国代表团超23运动员首次征战亚运",
+  "nearly200peopleunderobservationa8db6a5e3"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1431,7 +1458,8 @@
   "e:中国人在外国旅游的口碑": "中国人在外国旅游的口碑",
   "e:十人国足01塔吉克斯坦韦世豪肘击染红刘殿座脱手致丢球如何评价本场比赛": "十人国足 0-1 塔吉克斯坦，韦世豪肘击染红，刘殿座脱手致丢球，如何评价本场比赛？",
   "e:国足友谊赛3连败1球未进丢掉9球邵佳一该下课吗": "国足友谊赛 3 连败，1 球未进丢掉 9 球，邵佳一该下课吗？",
-  "e:中国代表团超23运动员首次征战亚运": "中国代表团超2/3运动员首次征战亚运"
+  "e:中国代表团超23运动员首次征战亚运": "中国代表团超2/3运动员首次征战亚运",
+  "e:nearly200peopleunderobservationafterirku": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -1486,9 +1514,9 @@
    "key": "aiisnowcapableofdevelopingitsown083321ba",
    "title": "AI is now capable of developing its own inference hardware",
    "rating": "A",
-   "score": 40.85,
-   "angle": "从GitHub开源项目切入，分析AI自研硬件的技术突破与对芯片产业链的颠覆性影响",
-   "hook_reason": "AI首次自主设计推理芯片，开源开源，芯片战格局或重塑",
+   "score": 75.85,
+   "angle": "从AI自我设计硬件切入，解读开源芯片如何降低算力门槛，普通创业者能否逆袭",
+   "hook_reason": "AI能自己设计芯片？开源TPU将打破英伟达垄断",
    "url": "https://github.com/FeSens/openTPU",
    "track": "科技",
    "breaking": true,
@@ -1517,8 +1545,44 @@
    "track": "大咖发言",
    "breaking": false,
    "event_id": "e:余承东余总转发文案"
+  },
+  "anthropic推出全新谷歌文档表格与幻灯片连接器测试版claude可": {
+   "key": "anthropic推出全新谷歌文档表格与幻灯片连接器测试版claude可",
+   "title": "Anthropic推出全新谷歌文档、表格与幻灯片连接器（测试版），Claude可",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从'AI+办公'角度切入，分析Claude集成Google Workspace对职场效率的影响及竞品动态",
+   "hook_reason": "Claude不仅能聊天，现在还能直接操作Google文档/表格/幻灯片，办公场景AI化加速",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniuimet8616915.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic面向谷歌workspace的claude现已面向所有付费cl"
+  },
+  "缅北电诈头目酒店被抓画面曝光": {
+   "key": "缅北电诈头目酒店被抓画面曝光",
+   "title": "缅北电诈头目酒店被抓画面曝光",
+   "rating": "A",
+   "score": 81.2,
+   "angle": "从电诈产业链视角切入，结合公众安全感议题，解读抓捕行动背后的社会意义",
+   "hook_reason": "缅北电诈头目被抓，全民关心的安全话题",
+   "url": "https://www.toutiao.com/trending/7693390371895738378/",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:缅北电诈头目酒店被抓画面曝光"
+  },
+  "游客一进县城就收到文旅局长手机号": {
+   "key": "游客一进县城就收到文旅局长手机号",
+   "title": "游客一进县城就收到文旅局长手机号",
+   "rating": "A",
+   "score": 70.77,
+   "angle": "政务数字化的温度革命：从窗口排队到'一键直达'，看县城如何用一条手机号撬动文旅信任链",
+   "hook_reason": "县长热线直推游客手机号，政务创新打破距离感",
+   "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E4%B8%80%E8%BF%9B%E5%8E%BF%E5%9F%8E%E5%B0%B1%E6%94%B6%E5%88%B0%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E6%89%8B%E6%9C%BA%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:游客一进县城就收到文旅局长手机号"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
