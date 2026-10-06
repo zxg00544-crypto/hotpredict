@@ -503,19 +503,6 @@
    "batch_window": 17
   },
   {
-   "key": "denmarkdatabreachexposes88mpeoplespersonaldata",
-   "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-   "rating": "A",
-   "score": 78.0,
-   "angle": "从国家安全角度揭露数据泄露隐患，提醒公民保护意识",
-   "hook_reason": "880万丹麦人数据泄露，政府系统被攻破，你的隐私安全吗？",
-   "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:denmarkdatabreachexposes88mpeoplesperson",
-   "batch_window": 18
-  },
-  {
    "key": "huaweiandqualcommannouncebroadpacff84b80",
    "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
    "rating": "A",
@@ -1099,6 +1086,45 @@
    "breaking": true,
    "event_id": "e:原中国电信员工实名举报高管套取3800万财政资金中国电信回应称举报言论与事实不符",
    "batch_window": 21
+  },
+  {
+   "key": "16条人命只剩5具尸体1份骨灰",
+   "title": "“16条人命只剩5具尸体1份骨灰”",
+   "rating": "A",
+   "score": 78.45,
+   "angle": "深挖事故原因与责任归属，追踪官方调查进展，唤起公众安全警惕",
+   "hook_reason": "惨烈伤亡数字直击公共安全意识，引发全民震惊与追问",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C16%E6%9D%A1%E4%BA%BA%E5%91%BD%E5%8F%AA%E5%89%A95%E5%85%B7%E5%B0%B8%E4%BD%931%E4%BB%BD%E9%AA%A8%E7%81%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:16条人命只剩5具尸体1份骨灰",
+   "batch_window": 22
+  },
+  {
+   "key": "缅方曾称没有中国人死起初拒绝中国警方从电诈园区带回同胞遗骸哪些信息值得关注",
+   "title": "缅方曾称没有中国人死，起初拒绝中国警方从电诈园区带回同胞遗骸，哪些信息值得关注？",
+   "rating": "A",
+   "score": 66.09,
+   "angle": "分析'否认'能反转背后是舆论压力与国际形象的重塑",
+   "hook_reason": "涉及同胞遗骸的国家救援，情绪浓度高",
+   "url": "https://www.zhihu.com/question/2090761132268942635",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:缅方曾称没有中国人死起初拒绝中国警方从电诈园区带回同胞遗骸哪些信息值得关注",
+   "batch_window": 22
+  },
+  {
+   "key": "韦世豪情绪失控肘击对手",
+   "title": "韦世豪情绪失控肘击对手",
+   "rating": "A",
+   "score": 52.75,
+   "angle": "从体育精神与职业道德角度切入，反思运动员情绪管理边界",
+   "hook_reason": "暴力冲突+体育明星，情绪冲击强，球迷全民讨论",
+   "url": "https://www.toutiao.com/trending/7693127400288452618/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:韦世豪情绪失控肘击对手",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -1250,7 +1276,8 @@
   "缅北明家犯罪证据宣读了两个半小时",
   "我痛恨自己的无知愚蠢和贪欲",
   "缅北魏家接班人自曝布局军政两界",
-  "马斯克身家为何能再破万亿美元"
+  "马斯克身家为何能再破万亿美元",
+  "denmarkdatabreachexposes88mpeoplespersonaldata"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1338,7 +1365,8 @@
   "e:缅北明家犯罪证据宣读了两个半小时": "缅北明家犯罪证据宣读了两个半小时",
   "e:我痛恨自己的无知愚蠢和贪欲": "“我痛恨自己的无知、愚蠢和贪欲”",
   "e:缅北魏家接班人自曝布局军政两界": "缅北魏家接班人自曝布局军政两界",
-  "e:马斯克身家为何能再破万亿美元": "马斯克身家为何能再破万亿美元"
+  "e:马斯克身家为何能再破万亿美元": "马斯克身家为何能再破万亿美元",
+  "e:denmarkdatabreachexposes88mpeoplesperson": "Denmark Data Breach Exposes 8.8M People's Personal Data"
  },
  "a_seen": {
   "英国海上贸易行动办公室3艘船在霍尔木兹海峡遭袭": {
@@ -1964,8 +1992,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:原中国电信员工实名举报高管套取3800万财政资金中国电信回应称举报言论与事实不符"
+  },
+  "16条人命只剩5具尸体1份骨灰": {
+   "key": "16条人命只剩5具尸体1份骨灰",
+   "title": "“16条人命只剩5具尸体1份骨灰”",
+   "rating": "A",
+   "score": 78.45,
+   "angle": "深挖事故原因与责任归属，追踪官方调查进展，唤起公众安全警惕",
+   "hook_reason": "惨烈伤亡数字直击公共安全意识，引发全民震惊与追问",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C16%E6%9D%A1%E4%BA%BA%E5%91%BD%E5%8F%AA%E5%89%A95%E5%85%B7%E5%B0%B8%E4%BD%931%E4%BB%BD%E9%AA%A8%E7%81%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:16条人命只剩5具尸体1份骨灰"
+  },
+  "缅方曾称没有中国人死起初拒绝中国警方从电诈园区带回同胞遗骸哪些信息值得关注": {
+   "key": "缅方曾称没有中国人死起初拒绝中国警方从电诈园区带回同胞遗骸哪些信息值得关注",
+   "title": "缅方曾称没有中国人死，起初拒绝中国警方从电诈园区带回同胞遗骸，哪些信息值得关注？",
+   "rating": "A",
+   "score": 66.09,
+   "angle": "分析'否认'能反转背后是舆论压力与国际形象的重塑",
+   "hook_reason": "涉及同胞遗骸的国家救援，情绪浓度高",
+   "url": "https://www.zhihu.com/question/2090761132268942635",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:缅方曾称没有中国人死起初拒绝中国警方从电诈园区带回同胞遗骸哪些信息值得关注"
+  },
+  "韦世豪情绪失控肘击对手": {
+   "key": "韦世豪情绪失控肘击对手",
+   "title": "韦世豪情绪失控肘击对手",
+   "rating": "A",
+   "score": 52.75,
+   "angle": "从体育精神与职业道德角度切入，反思运动员情绪管理边界",
+   "hook_reason": "暴力冲突+体育明星，情绪冲击强，球迷全民讨论",
+   "url": "https://www.toutiao.com/trending/7693127400288452618/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:韦世豪情绪失控肘击对手"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
