@@ -930,6 +930,19 @@
    "breaking": true,
    "event_id": "e:媒体曝腾讯70亿美元租用甲骨文海外算力此举出于哪些考量会带来哪些影响",
    "batch_window": 10
+  },
+  {
+   "key": "openai提速gpt6astra",
+   "title": "OpenAI提速GPT6Astra",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "OpenAI加速推进GPT-6，AI大模型进入'摩尔定律'时代，行业格局或重塑",
+   "hook_reason": "OpenAI放卫星！GPT-6加速发布，AI军备竞赛再升级",
+   "url": "https://search.bilibili.com/all?keyword=OpenAI提速GPT6Astra",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai提速gpt6astra",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -1473,6 +1486,18 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:媒体曝腾讯70亿美元租用甲骨文海外算力此举出于哪些考量会带来哪些影响"
+  },
+  "openai提速gpt6astra": {
+   "key": "openai提速gpt6astra",
+   "title": "OpenAI提速GPT6Astra",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "OpenAI加速推进GPT-6，AI大模型进入'摩尔定律'时代，行业格局或重塑",
+   "hook_reason": "OpenAI放卫星！GPT-6加速发布，AI军备竞赛再升级",
+   "url": "https://search.bilibili.com/all?keyword=OpenAI提速GPT6Astra",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai提速gpt6astra"
   }
  },
  "breaking_count": 10,
