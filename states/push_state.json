@@ -1151,6 +1151,19 @@
    "breaking": true,
    "event_id": "e:无人机袭击致俄罗斯大型炼油厂停产",
    "batch_window": 23
+  },
+  {
+   "key": "aiisnowcapableofdevelopingitsown083321ba",
+   "title": "AI is now capable of developing its own inference hardware",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从GitHub开源项目切入，分析AI自研硬件的技术突破与对芯片产业链的颠覆性影响",
+   "hook_reason": "AI首次自主设计推理芯片，开源开源，芯片战格局或重塑",
+   "url": "https://github.com/FeSens/openTPU",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:aiisnowcapableofdevelopingitsowninferenc",
+   "batch_window": 0
   }
  ],
  "pushed": [
@@ -1314,7 +1327,8 @@
   "媒体人中国球员踢的还是古代足球",
   "俄罗斯总统普京将在出访土库曼斯坦期间会见伊朗总统",
   "中国人在外国旅游的口碑",
-  "十人国足01塔吉克斯坦韦世豪肘击染红刘殿座脱手致丢球如何评价本场比赛"
+  "十人国足01塔吉克斯坦韦世豪肘击染红刘殿座脱手致丢球如何评价本场比赛",
+  "国足友谊赛3连败1球未进丢掉9球邵佳一该下课吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1414,18 +1428,19 @@
   "e:媒体人中国球员踢的还是古代足球": "媒体人：中国球员踢的还是古代足球",
   "e:俄罗斯总统普京将在出访土库曼斯坦期间会见伊朗总统": "俄罗斯总统普京将在出访土库曼斯坦期间会见伊朗总统。",
   "e:中国人在外国旅游的口碑": "中国人在外国旅游的口碑",
-  "e:十人国足01塔吉克斯坦韦世豪肘击染红刘殿座脱手致丢球如何评价本场比赛": "十人国足 0-1 塔吉克斯坦，韦世豪肘击染红，刘殿座脱手致丢球，如何评价本场比赛？"
+  "e:十人国足01塔吉克斯坦韦世豪肘击染红刘殿座脱手致丢球如何评价本场比赛": "十人国足 0-1 塔吉克斯坦，韦世豪肘击染红，刘殿座脱手致丢球，如何评价本场比赛？",
+  "e:国足友谊赛3连败1球未进丢掉9球邵佳一该下课吗": "国足友谊赛 3 连败，1 球未进丢掉 9 球，邵佳一该下课吗？"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
    "key": "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗",
    "title": "王皓遭辱骂拍照取证，其妻子发声「不理解竞技体育怎么变这样了」，怎样看待这一现象？骂人者会受到处罚吗？",
    "rating": "A",
-   "score": 81.5,
-   "angle": "从竞技体育文明底线切入，探讨赛场暴力与公众情绪失序的深层原因",
-   "hook_reason": "国乒教练赛场遭辱骂，妻子发声控诉，引发公众对体育文明底线讨论",
+   "score": 79.5,
+   "angle": "从王皓拍照取证切入，探讨体育圈舆论环境与网络暴力边界",
+   "hook_reason": "冠军教练遭辱骂还反手拍照取证，妻子发声引共鸣",
    "url": "https://www.zhihu.com/question/2090900901653209274",
-   "track": "社会热点",
+   "track": "大咖发言",
    "breaking": true,
    "event_id": "e:王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受"
   },
@@ -1434,8 +1449,8 @@
    "title": "媒体人：中国球员踢的还是古代足球",
    "rating": "A",
    "score": 46.9,
-   "angle": "借媒体人金句切入中国足球积弊深度剖析，关联国足现状引发全民共鸣",
-   "hook_reason": "媒体人犀利嘲讽中国足球，踩中全民情绪痛点，极易引发球迷激烈讨论",
+   "angle": "借古代足球梗切入中国足球青训/体制深层反思，用历史对比制造反差感",
+   "hook_reason": "足球民族情绪+尖锐批评，引发全民吐槽和代际共鸣",
    "url": "https://www.toutiao.com/trending/7693558857336406042/",
    "track": "社会热点",
    "breaking": true,
@@ -1452,8 +1467,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:中国人在外国旅游的口碑"
+  },
+  "国足友谊赛3连败1球未进丢掉9球邵佳一该下课吗": {
+   "key": "国足友谊赛3连败1球未进丢掉9球邵佳一该下课吗",
+   "title": "国足友谊赛 3 连败，1 球未进丢掉 9 球，邵佳一该下课吗？",
+   "rating": "A",
+   "score": 78.33,
+   "angle": "从球迷情绪与体制反思切入，三连败背后是中国足球十年困局的缩影",
+   "hook_reason": "国足惨败三连败丢9球，国民球队再掀全民愤怒，下课呼声高涨",
+   "url": "https://www.zhihu.com/question/2090921655505609023",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:国足友谊赛3连败1球未进丢掉9球邵佳一该下课吗"
+  },
+  "aiisnowcapableofdevelopingitsown083321ba": {
+   "key": "aiisnowcapableofdevelopingitsown083321ba",
+   "title": "AI is now capable of developing its own inference hardware",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从GitHub开源项目切入，分析AI自研硬件的技术突破与对芯片产业链的颠覆性影响",
+   "hook_reason": "AI首次自主设计推理芯片，开源开源，芯片战格局或重塑",
+   "url": "https://github.com/FeSens/openTPU",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:aiisnowcapableofdevelopingitsowninferenc"
   }
  },
- "breaking_count": 9,
+ "breaking_count": 10,
  "a_pushed_window": 0
 }
