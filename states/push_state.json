@@ -542,19 +542,6 @@
    "batch_window": 20
   },
   {
-   "key": "pressreleasenobelprizeinphysiologyormedicine2026",
-   "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-   "rating": "A",
-   "score": 76.5,
-   "angle": "2026诺奖揭晓，突破点在哪？对中国科研有哪些启示与机遇",
-   "hook_reason": "诺贝尔奖突发，全民关注科学界最高荣誉时刻",
-   "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:pressreleasenobelprizeinphysiologyormedi",
-   "batch_window": 21
-  },
-  {
    "key": "europesnewroboticsunicorngermany50757c49",
    "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
    "rating": "A",
@@ -1384,7 +1371,8 @@
   "中国代表团超23运动员首次征战亚运",
   "nearly200peopleunderobservationa8db6a5e3",
   "缅北电诈头目酒店被抓画面曝光",
-  "usingbluraymdiskasbackupoflastresort"
+  "usingbluraymdiskasbackupoflastresort",
+  "pressreleasenobelprizeinphysiologyormedicine2026"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1489,7 +1477,8 @@
   "e:中国代表团超23运动员首次征战亚运": "中国代表团超2/3运动员首次征战亚运",
   "e:nearly200peopleunderobservationafterirku": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
   "e:缅北电诈头目酒店被抓画面曝光": "缅北电诈头目酒店被抓画面曝光",
-  "e:usingbluraymdiskasbackupoflastresort": "Using Blu-ray M-Disk as Backup of Last Resort"
+  "e:usingbluraymdiskasbackupoflastresort": "Using Blu-ray M-Disk as Backup of Last Resort",
+  "e:pressreleasenobelprizeinphysiologyormedi": "Press Release: Nobel Prize in Physiology or Medicine 2026"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -1674,5 +1663,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
