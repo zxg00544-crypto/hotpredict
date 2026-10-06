@@ -1088,19 +1088,6 @@
    "batch_window": 21
   },
   {
-   "key": "16条人命只剩5具尸体1份骨灰",
-   "title": "“16条人命只剩5具尸体1份骨灰”",
-   "rating": "A",
-   "score": 78.45,
-   "angle": "深挖事故原因与责任归属，追踪官方调查进展，唤起公众安全警惕",
-   "hook_reason": "惨烈伤亡数字直击公共安全意识，引发全民震惊与追问",
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C16%E6%9D%A1%E4%BA%BA%E5%91%BD%E5%8F%AA%E5%89%A95%E5%85%B7%E5%B0%B8%E4%BD%931%E4%BB%BD%E9%AA%A8%E7%81%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:16条人命只剩5具尸体1份骨灰",
-   "batch_window": 22
-  },
-  {
    "key": "缅方曾称没有中国人死起初拒绝中国警方从电诈园区带回同胞遗骸哪些信息值得关注",
    "title": "缅方曾称没有中国人死，起初拒绝中国警方从电诈园区带回同胞遗骸，哪些信息值得关注？",
    "rating": "A",
@@ -1125,6 +1112,58 @@
    "breaking": true,
    "event_id": "e:韦世豪情绪失控肘击对手",
    "batch_window": 22
+  },
+  {
+   "key": "十人国足01塔吉克斯坦韦世豪肘击染红刘殿座脱手致丢球如何评价本场比赛",
+   "title": "十人国足 0-1 塔吉克斯坦，韦世豪肘击染红，刘殿座脱手致丢球，如何评价本场比赛？",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "从十人应战仍0-1失利切入，串联韦世豪情绪失控与门将失误，深挖国足系统性崩盘",
+   "hook_reason": "国足十人再输+红牌失误双爆点，全民情绪引爆",
+   "url": "https://www.zhihu.com/question/2090893475461817505",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:十人国足01塔吉克斯坦韦世豪肘击染红刘殿座脱手致丢球如何评价本场比赛",
+   "batch_window": 23
+  },
+  {
+   "key": "mistrallarge4",
+   "title": "Mistral Large 4",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "Mistral Large 4发布，对标GPT-5，欧洲AI战力几何？从参数到性能全面评测解读",
+   "hook_reason": "Mistral新旗舰直怼OpenAI，AI大模型军备赛再升级",
+   "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:mistrallarge4",
+   "batch_window": 23
+  },
+  {
+   "key": "伊朗安全负责人称美国针对伊朗的经济战将会失败正如其军事行动一样",
+   "title": "伊朗安全负责人称，美国针对伊朗的经济战将会失败，正如其军事行动一样。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从'经济战'概念切入，拆解美国金融制裁工具箱与伊朗反制手段，映射原油/黄金/美元短线波动逻辑",
+   "hook_reason": "美伊经济战升级版，直接冲击能源定价与全球避险情绪",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniuiewx5456167.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗安全负责人称美国针对伊朗的经济战将会失败正如其军事行动一样",
+   "batch_window": 23
+  },
+  {
+   "key": "无人机袭击致俄罗斯大型炼油厂停产",
+   "title": "无人机袭击致俄罗斯大型炼油厂停产",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "无人机袭击俄罗斯炼油厂→全球原油供给扰动→国际油价联动→国内成品油调价预期变化，关联每个车主利益",
+   "hook_reason": "俄乌冲突+国内油价，国际局势如何掐住你加油的钱包",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniuiewx5456844.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:无人机袭击致俄罗斯大型炼油厂停产",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -1277,7 +1316,8 @@
   "我痛恨自己的无知愚蠢和贪欲",
   "缅北魏家接班人自曝布局军政两界",
   "马斯克身家为何能再破万亿美元",
-  "denmarkdatabreachexposes88mpeoplespersonaldata"
+  "denmarkdatabreachexposes88mpeoplespersonaldata",
+  "16条人命只剩5具尸体1份骨灰"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1366,7 +1406,8 @@
   "e:我痛恨自己的无知愚蠢和贪欲": "“我痛恨自己的无知、愚蠢和贪欲”",
   "e:缅北魏家接班人自曝布局军政两界": "缅北魏家接班人自曝布局军政两界",
   "e:马斯克身家为何能再破万亿美元": "马斯克身家为何能再破万亿美元",
-  "e:denmarkdatabreachexposes88mpeoplesperson": "Denmark Data Breach Exposes 8.8M People's Personal Data"
+  "e:denmarkdatabreachexposes88mpeoplesperson": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+  "e:16条人命只剩5具尸体1份骨灰": "“16条人命只剩5具尸体1份骨灰”"
  },
  "a_seen": {
   "英国海上贸易行动办公室3艘船在霍尔木兹海峡遭袭": {
@@ -2028,8 +2069,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:韦世豪情绪失控肘击对手"
+  },
+  "十人国足01塔吉克斯坦韦世豪肘击染红刘殿座脱手致丢球如何评价本场比赛": {
+   "key": "十人国足01塔吉克斯坦韦世豪肘击染红刘殿座脱手致丢球如何评价本场比赛",
+   "title": "十人国足 0-1 塔吉克斯坦，韦世豪肘击染红，刘殿座脱手致丢球，如何评价本场比赛？",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "从十人应战仍0-1失利切入，串联韦世豪情绪失控与门将失误，深挖国足系统性崩盘",
+   "hook_reason": "国足十人再输+红牌失误双爆点，全民情绪引爆",
+   "url": "https://www.zhihu.com/question/2090893475461817505",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:十人国足01塔吉克斯坦韦世豪肘击染红刘殿座脱手致丢球如何评价本场比赛"
+  },
+  "mistrallarge4": {
+   "key": "mistrallarge4",
+   "title": "Mistral Large 4",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "Mistral Large 4发布，对标GPT-5，欧洲AI战力几何？从参数到性能全面评测解读",
+   "hook_reason": "Mistral新旗舰直怼OpenAI，AI大模型军备赛再升级",
+   "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:mistrallarge4"
+  },
+  "伊朗安全负责人称美国针对伊朗的经济战将会失败正如其军事行动一样": {
+   "key": "伊朗安全负责人称美国针对伊朗的经济战将会失败正如其军事行动一样",
+   "title": "伊朗安全负责人称，美国针对伊朗的经济战将会失败，正如其军事行动一样。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从'经济战'概念切入，拆解美国金融制裁工具箱与伊朗反制手段，映射原油/黄金/美元短线波动逻辑",
+   "hook_reason": "美伊经济战升级版，直接冲击能源定价与全球避险情绪",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniuiewx5456167.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗安全负责人称美国针对伊朗的经济战将会失败正如其军事行动一样"
+  },
+  "无人机袭击致俄罗斯大型炼油厂停产": {
+   "key": "无人机袭击致俄罗斯大型炼油厂停产",
+   "title": "无人机袭击致俄罗斯大型炼油厂停产",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "无人机袭击俄罗斯炼油厂→全球原油供给扰动→国际油价联动→国内成品油调价预期变化，关联每个车主利益",
+   "hook_reason": "俄乌冲突+国内油价，国际局势如何掐住你加油的钱包",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniuiewx5456844.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:无人机袭击致俄罗斯大型炼油厂停产"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
