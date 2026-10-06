@@ -1166,19 +1166,6 @@
    "batch_window": 2
   },
   {
-   "key": "缅北电诈头目酒店被抓画面曝光",
-   "title": "缅北电诈头目酒店被抓画面曝光",
-   "rating": "A",
-   "score": 81.2,
-   "angle": "从电诈产业链视角切入，结合公众安全感议题，解读抓捕行动背后的社会意义",
-   "hook_reason": "缅北电诈头目被抓，全民关心的安全话题",
-   "url": "https://www.toutiao.com/trending/7693390371895738378/",
-   "track": "社会热点",
-   "breaking": false,
-   "event_id": "e:缅北电诈头目酒店被抓画面曝光",
-   "batch_window": 2
-  },
-  {
    "key": "游客一进县城就收到文旅局长手机号",
    "title": "游客一进县城就收到文旅局长手机号",
    "rating": "A",
@@ -1190,6 +1177,19 @@
    "breaking": false,
    "event_id": "e:游客一进县城就收到文旅局长手机号",
    "batch_window": 2
+  },
+  {
+   "key": "nobelprizeinphysics2026francishalzen",
+   "title": "Nobel Prize in Physics 2026: Francis Halzen",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "解读Francis Halzen获奖成就，关联中微子天文台等前沿科技突破",
+   "hook_reason": "诺贝尔物理学奖刚揭晓，科学圈顶流事件，权威背书+稀缺资讯",
+   "url": "https://www.nobelprize.org/prizes/physics/2026/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nobelprizeinphysics2026francishalzen",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -1356,7 +1356,8 @@
   "十人国足01塔吉克斯坦韦世豪肘击染红刘殿座脱手致丢球如何评价本场比赛",
   "国足友谊赛3连败1球未进丢掉9球邵佳一该下课吗",
   "中国代表团超23运动员首次征战亚运",
-  "nearly200peopleunderobservationa8db6a5e3"
+  "nearly200peopleunderobservationa8db6a5e3",
+  "缅北电诈头目酒店被抓画面曝光"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1459,7 +1460,8 @@
   "e:十人国足01塔吉克斯坦韦世豪肘击染红刘殿座脱手致丢球如何评价本场比赛": "十人国足 0-1 塔吉克斯坦，韦世豪肘击染红，刘殿座脱手致丢球，如何评价本场比赛？",
   "e:国足友谊赛3连败1球未进丢掉9球邵佳一该下课吗": "国足友谊赛 3 连败，1 球未进丢掉 9 球，邵佳一该下课吗？",
   "e:中国代表团超23运动员首次征战亚运": "中国代表团超2/3运动员首次征战亚运",
-  "e:nearly200peopleunderobservationafterirku": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague"
+  "e:nearly200peopleunderobservationafterirku": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
+  "e:缅北电诈头目酒店被抓画面曝光": "缅北电诈头目酒店被抓画面曝光"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -1514,12 +1516,12 @@
    "key": "aiisnowcapableofdevelopingitsown083321ba",
    "title": "AI is now capable of developing its own inference hardware",
    "rating": "A",
-   "score": 75.85,
-   "angle": "从AI自我设计硬件切入，解读开源芯片如何降低算力门槛，普通创业者能否逆袭",
-   "hook_reason": "AI能自己设计芯片？开源TPU将打破英伟达垄断",
+   "score": 75.6,
+   "angle": "AI设计自己的推理硬件，是算力民主化还是新一轮垄断？",
+   "hook_reason": "AI自研芯片，算力格局或改写",
    "url": "https://github.com/FeSens/openTPU",
    "track": "科技",
-   "breaking": true,
+   "breaking": false,
    "event_id": "e:aiisnowcapableofdevelopingitsowninferenc"
   },
   "全民进入大耍起时代": {
@@ -1563,12 +1565,12 @@
    "title": "缅北电诈头目酒店被抓画面曝光",
    "rating": "A",
    "score": 81.2,
-   "angle": "从电诈产业链视角切入，结合公众安全感议题，解读抓捕行动背后的社会意义",
-   "hook_reason": "缅北电诈头目被抓，全民关心的安全话题",
+   "angle": "从抓人画面切入，探讨跨国打击电诈的进展与意义，引发读者安全感共鸣",
+   "hook_reason": "缅北电诈头目落网画面曝光，正义感爆棚，引发全民关注",
    "url": "https://www.toutiao.com/trending/7693390371895738378/",
    "track": "社会热点",
    "breaking": false,
-   "event_id": "e:缅北电诈头目酒店被抓画面曝光"
+   "event_id": "e:中方10分钟收网缅北四大家族重要成员"
   },
   "游客一进县城就收到文旅局长手机号": {
    "key": "游客一进县城就收到文旅局长手机号",
@@ -1581,8 +1583,32 @@
    "track": "社会热点",
    "breaking": false,
    "event_id": "e:游客一进县城就收到文旅局长手机号"
+  },
+  "nobelprizeinphysics2026francishalzen": {
+   "key": "nobelprizeinphysics2026francishalzen",
+   "title": "Nobel Prize in Physics 2026: Francis Halzen",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "解读Francis Halzen获奖成就，关联中微子天文台等前沿科技突破",
+   "hook_reason": "诺贝尔物理学奖刚揭晓，科学圈顶流事件，权威背书+稀缺资讯",
+   "url": "https://www.nobelprize.org/prizes/physics/2026/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nobelprizeinphysics2026francishalzen"
+  },
+  "警方从缅北带回5具尸体1份骨灰": {
+   "key": "警方从缅北带回5具尸体1份骨灰",
+   "title": "警方从缅北带回5具尸体1份骨灰",
+   "rating": "A",
+   "score": 91.5,
+   "angle": "从执法行动切入，关联跨境犯罪治理，引发公众对海外安全及反诈意识讨论",
+   "hook_reason": "境外犯罪执法直击公众安全感，涉及生死，情绪浓度极高",
+   "url": "https://www.toutiao.com/trending/7693542372982423606/",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:16条人命只剩5具尸体1份骨灰"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
