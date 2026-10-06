@@ -841,17 +841,56 @@
    "batch_window": 7
   },
   {
-   "key": "诺奖得主研究如何为大脑装开关",
-   "title": "诺奖得主研究如何“为大脑装开关”",
+   "key": "明学昌畏罪自杀身亡照片曝光",
+   "title": "明学昌畏罪自杀身亡照片曝光",
    "rating": "A",
-   "score": 86.5,
-   "angle": null,
-   "hook_reason": "诺奖得主+脑科学突破，大脑",
-   "url": "https://www.toutiao.com/trending/7693195854991068713/",
+   "score": 52.4,
+   "angle": "聚焦事件细节与社会舆论反应，理性还原现场",
+   "hook_reason": "突发死亡+照片曝光，强烈好奇心驱动",
+   "url": "https://www.toutiao.com/trending/7692279017315290643/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:明学昌畏罪自杀身亡照片曝光",
+   "batch_window": 8
+  },
+  {
+   "key": "chatgptisaddingrealcartoonistssi7f97f30a",
+   "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "AI生成内容边界在哪里？从签名事件看创作者署名权危机",
+   "hook_reason": "AI冒用真人签名创作，创作者权益危机引爆舆论",
+   "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
    "track": "科技",
-   "breaking": false,
-   "event_id": "e:诺奖得主研究如何为大脑装开关",
-   "batch_window": 7
+   "breaking": true,
+   "event_id": "e:chatgptisaddingrealcartoonistssignatures",
+   "batch_window": 8
+  },
+  {
+   "key": "中国警方缅北战火下挖出同胞遗体",
+   "title": "中国警方缅北战火下挖出同胞遗体",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从缅北战火中的中国公民命运切入，探讨海外安全与大国担当",
+   "hook_reason": "同胞遗体、战火、警方行动，情绪浓度极高",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E7%BC%85%E5%8C%97%E6%88%98%E7%81%AB%E4%B8%8B%E6%8C%96%E5%87%BA%E5%90%8C%E8%83%9E%E9%81%97%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国警方缅北战火下挖出同胞遗体",
+   "batch_window": 8
+  },
+  {
+   "key": "英国海上贸易行动办公室连日来多艘船只在霍尔木兹海峡遭袭",
+   "title": "英国海上贸易行动办公室：连日来多艘船只在霍尔木兹海峡遭袭",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从石油运输通道安全风险切入，解读对国际油价、航运成本及C端消费者钱包的直接影响",
+   "hook_reason": "霍尔木兹海峡遇袭，油价航运将如何反应",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniufsvp9147282.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英国海上贸易行动办公室连日来多艘船只在霍尔木兹海峡遭袭",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -989,7 +1028,8 @@
   "openairogueagentactivitiesfoundo97284459",
   "家长给女儿买机器人当家教情感陪伴",
   "换汤不换药的ai短剧还能不烧心吗",
-  "重庆酉阳发生盗矿案件7人死亡"
+  "重庆酉阳发生盗矿案件7人死亡",
+  "诺奖得主研究如何为大脑装开关"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1063,7 +1103,8 @@
   "e:openairogueagentactivitiesfoundonwikimed": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
   "e:家长给女儿买机器人当家教情感陪伴": "家长给女儿买机器人当家教：情感陪伴",
   "e:换汤不换药的ai短剧还能不烧心吗": "换汤不换药的AI短剧还能“不烧心”吗",
-  "e:重庆酉阳发生盗矿案件7人死亡": "重庆酉阳发生盗矿案件 7人死亡"
+  "e:重庆酉阳发生盗矿案件7人死亡": "重庆酉阳发生盗矿案件 7人死亡",
+  "e:诺奖得主研究如何为大脑装开关": "诺奖得主研究如何“为大脑装开关”"
  },
  "a_seen": {
   "英国海上贸易行动办公室3艘船在霍尔木兹海峡遭袭": {
@@ -1281,8 +1322,56 @@
    "track": "科技",
    "breaking": false,
    "event_id": "e:诺奖得主研究如何为大脑装开关"
+  },
+  "明学昌畏罪自杀身亡照片曝光": {
+   "key": "明学昌畏罪自杀身亡照片曝光",
+   "title": "明学昌畏罪自杀身亡照片曝光",
+   "rating": "A",
+   "score": 52.4,
+   "angle": "聚焦事件细节与社会舆论反应，理性还原现场",
+   "hook_reason": "突发死亡+照片曝光，强烈好奇心驱动",
+   "url": "https://www.toutiao.com/trending/7692279017315290643/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:明学昌畏罪自杀身亡照片曝光"
+  },
+  "chatgptisaddingrealcartoonistssi7f97f30a": {
+   "key": "chatgptisaddingrealcartoonistssi7f97f30a",
+   "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "AI生成内容边界在哪里？从签名事件看创作者署名权危机",
+   "hook_reason": "AI冒用真人签名创作，创作者权益危机引爆舆论",
+   "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:chatgptisaddingrealcartoonistssignatures"
+  },
+  "中国警方缅北战火下挖出同胞遗体": {
+   "key": "中国警方缅北战火下挖出同胞遗体",
+   "title": "中国警方缅北战火下挖出同胞遗体",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从缅北战火中的中国公民命运切入，探讨海外安全与大国担当",
+   "hook_reason": "同胞遗体、战火、警方行动，情绪浓度极高",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E7%BC%85%E5%8C%97%E6%88%98%E7%81%AB%E4%B8%8B%E6%8C%96%E5%87%BA%E5%90%8C%E8%83%9E%E9%81%97%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国警方缅北战火下挖出同胞遗体"
+  },
+  "英国海上贸易行动办公室连日来多艘船只在霍尔木兹海峡遭袭": {
+   "key": "英国海上贸易行动办公室连日来多艘船只在霍尔木兹海峡遭袭",
+   "title": "英国海上贸易行动办公室：连日来多艘船只在霍尔木兹海峡遭袭",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从石油运输通道安全风险切入，解读对国际油价、航运成本及C端消费者钱包的直接影响",
+   "hook_reason": "霍尔木兹海峡遇袭，油价航运将如何反应",
+   "url": "https://finance.sina.cn/7x24/2026-10-06/detail-iniufsvp9147282.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英国海上贸易行动办公室连日来多艘船只在霍尔木兹海峡遭袭"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
