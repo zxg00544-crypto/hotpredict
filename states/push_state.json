@@ -1073,6 +1073,32 @@
    "breaking": true,
    "event_id": "e:英国央行曼恩总体而言我认为通胀固化的风险更大",
    "batch_window": 17
+  },
+  {
+   "key": "我痛恨自己的无知愚蠢和贪欲",
+   "title": "“我痛恨自己的无知、愚蠢和贪欲”",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "拆解其反思背景与公众认知落差，挖掘金句背后真实故事与舆论走向",
+   "hook_reason": "狠话自查引爆共情，名人自省话题自带流量",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E7%97%9B%E6%81%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E6%97%A0%E7%9F%A5%E3%80%81%E6%84%9A%E8%A0%A2%E5%92%8C%E8%B4%AA%E6%AC%B2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:我痛恨自己的无知愚蠢和贪欲",
+   "batch_window": 18
+  },
+  {
+   "key": "nobelprizeinphysicsgoestofrancishalzen",
+   "title": "Nobel Prize in Physics goes to Francis Halzen",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "深度解读Francis Halzen为何获诺奖、其研究意义、以及对中国科研的启示",
+   "hook_reason": "诺贝尔物理学奖突发发布，登顶热搜榜第一",
+   "url": "https://www.nobelprize.org/prizes/physics/2026/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nobelprizeinphysicsgoestofrancishalzen",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -1841,9 +1867,9 @@
    "key": "缅北明家犯罪证据宣读了两个半小时",
    "title": "缅北明家犯罪证据宣读了两个半小时",
    "rating": "A",
-   "score": 86.54,
-   "angle": "从犯罪证据宣读细节切入，展现跨境打击电诈犯罪的坚定决心与社会正义实现",
-   "hook_reason": "缅北明家落网证据公开，正义得到伸张的强烈情绪共鸣",
+   "score": 86.89,
+   "angle": "从证据宣读细节切入，剖析缅北犯罪链条与司法审判的深远意义，激发读者对跨国打击犯罪的共鸣与思考",
+   "hook_reason": "犯罪证据长达2.5小时宣读，牵动公众对缅北正义审判的强烈关注",
    "url": "https://www.toutiao.com/trending/7692694262311390763/",
    "track": "社会热点",
    "breaking": true,
@@ -1872,6 +1898,30 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:英国央行曼恩总体而言我认为通胀固化的风险更大"
+  },
+  "我痛恨自己的无知愚蠢和贪欲": {
+   "key": "我痛恨自己的无知愚蠢和贪欲",
+   "title": "“我痛恨自己的无知、愚蠢和贪欲”",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "拆解其反思背景与公众认知落差，挖掘金句背后真实故事与舆论走向",
+   "hook_reason": "狠话自查引爆共情，名人自省话题自带流量",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E7%97%9B%E6%81%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E6%97%A0%E7%9F%A5%E3%80%81%E6%84%9A%E8%A0%A2%E5%92%8C%E8%B4%AA%E6%AC%B2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:我痛恨自己的无知愚蠢和贪欲"
+  },
+  "nobelprizeinphysicsgoestofrancishalzen": {
+   "key": "nobelprizeinphysicsgoestofrancishalzen",
+   "title": "Nobel Prize in Physics goes to Francis Halzen",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "深度解读Francis Halzen为何获诺奖、其研究意义、以及对中国科研的启示",
+   "hook_reason": "诺贝尔物理学奖突发发布，登顶热搜榜第一",
+   "url": "https://www.nobelprize.org/prizes/physics/2026/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nobelprizeinphysicsgoestofrancishalzen"
   }
  },
  "breaking_count": 10,
