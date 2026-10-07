@@ -1479,19 +1479,6 @@
    "batch_window": 18
   },
   {
-   "key": "网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真戳中了大家什么",
-   "title": "网友称过节回老家掰玉米感觉现代化离自己很远，你也有过这样割裂感的体验吗？这种返璞归真戳中了大家什么？",
-   "rating": "A",
-   "score": 85.0,
-   "angle": "以青年返乡体验为切口，探讨现代化进程中城乡生活方式的割裂与心理落差",
-   "hook_reason": "城乡割裂引发强烈共鸣，打工人返乡的真实刺痛感",
-   "url": "https://www.zhihu.com/question/2090718200484684963",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真",
-   "batch_window": 18
-  },
-  {
    "key": "小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里",
    "title": "小米澎程 N90 Max，长途高速续航有多强？ 看看视频，满油满电出发，上海至北京，1230公里",
    "rating": "A",
@@ -1711,6 +1698,45 @@
    "breaking": true,
    "event_id": "e:claudehaiku55",
    "batch_window": 2
+  },
+  {
+   "key": "gpt6andintelligentuiforeveryone",
+   "title": "GPT‑6 and Intelligent UI for everyone",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "解读GPT-6技术突破与智能UI如何改变普通人使用AI的方式",
+   "hook_reason": "OpenAI正式发布GPT-6，智能UI人人可用，AI平民化里程碑",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gpt6andintelligentuiforeveryone",
+   "batch_window": 3
+  },
+  {
+   "key": "特朗普将推出逾10亿美元人工智能科研计划",
+   "title": "特朗普将推出逾10亿美元人工智能科研计划",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从美国AI战略转向切入，分析对全球科技格局及中国AI产业的影响",
+   "hook_reason": "特朗普宣布千亿AI计划，中美科技竞争新篇章",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniumumr7859375.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特朗普将推出逾10亿美元人工智能科研计划",
+   "batch_window": 3
+  },
+  {
+   "key": "白宫要求五角大楼提供中期选举前打击伊朗的方案",
+   "title": "白宫要求五角大楼提供中期选举前打击伊朗的方案。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从地缘政治格局变化切入，分析美伊冲突升级对全球能源、股市及大国博弈的连锁影响，吸引关注国际局势的读者",
+   "hook_reason": "中东战火一触即发！美国大选前的军事动作牵动全球神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniumumt4633629.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:市场资讯美国对伊朗潜在打击的规模和目标尚未确定",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -1910,7 +1936,8 @@
   "手机价格在涨掏钱的理由没涨",
   "调查显示周四eia报告预计美国上周天然气库存增加790亿立方英尺",
   "中国警方缅北电诈死灰复燃也不怕",
-  "visamastercardmajorbanksfacingne2f896d52"
+  "visamastercardmajorbanksfacingne2f896d52",
+  "网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真戳中了大家什么"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2046,7 +2073,8 @@
   "e:手机价格在涨掏钱的理由没涨": "手机价格在涨 掏钱的理由没涨",
   "e:调查显示周四eia报告预计美国上周天然气库存增加790亿立方英尺": "调查显示：周四 EIA 报告预计，美国上周天然气库存增加 790 亿立方英尺。",
   "e:中国警方缅北电诈死灰复燃也不怕": "中国警方：缅北电诈死灰复燃也不怕",
-  "e:visamastercardmajorbanksfacingnewlitigat": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees"
+  "e:visamastercardmajorbanksfacingnewlitigat": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
+  "e:网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真": "网友称过节回老家掰玉米感觉现代化离自己很远，你也有过这样割裂感的体验吗？这种返璞归真戳中了大家什么？"
  },
  "a_seen": {
   "南亚科技继续上调dram合同价": {
@@ -2216,8 +2244,56 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:claudehaiku55"
+  },
+  "gpt6andintelligentuiforeveryone": {
+   "key": "gpt6andintelligentuiforeveryone",
+   "title": "GPT‑6 and Intelligent UI for everyone",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "解读GPT-6技术突破与智能UI如何改变普通人使用AI的方式",
+   "hook_reason": "OpenAI正式发布GPT-6，智能UI人人可用，AI平民化里程碑",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gpt6andintelligentuiforeveryone"
+  },
+  "刚刚诺贝尔化学奖颁给镜像之谜破解者法日学者分享殊荣网页链接网页链接": {
+   "key": "刚刚诺贝尔化学奖颁给镜像之谜破解者法日学者分享殊荣网页链接网页链接",
+   "title": "刚刚，诺贝尔化学奖颁给“镜像之谜”破解者！法日学者分享殊荣 网页链接 网页链接",
+   "rating": "A",
+   "score": 84.9,
+   "angle": "用通俗比喻解读'手性'分子发现，关联医药、材料产业应用前景",
+   "hook_reason": "诺贝尔化学奖解密分子镜像，普通人也能读懂的科学突破",
+   "url": "https://weibo.com/1249424622/RlDrLb1cU",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:诺贝尔化学奖揭晓"
+  },
+  "特朗普将推出逾10亿美元人工智能科研计划": {
+   "key": "特朗普将推出逾10亿美元人工智能科研计划",
+   "title": "特朗普将推出逾10亿美元人工智能科研计划",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从美国AI战略转向切入，分析对全球科技格局及中国AI产业的影响",
+   "hook_reason": "特朗普宣布千亿AI计划，中美科技竞争新篇章",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniumumr7859375.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特朗普将推出逾10亿美元人工智能科研计划"
+  },
+  "白宫要求五角大楼提供中期选举前打击伊朗的方案": {
+   "key": "白宫要求五角大楼提供中期选举前打击伊朗的方案",
+   "title": "白宫要求五角大楼提供中期选举前打击伊朗的方案。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从地缘政治格局变化切入，分析美伊冲突升级对全球能源、股市及大国博弈的连锁影响，吸引关注国际局势的读者",
+   "hook_reason": "中东战火一触即发！美国大选前的军事动作牵动全球神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniumumt4633629.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:市场资讯美国对伊朗潜在打击的规模和目标尚未确定"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
