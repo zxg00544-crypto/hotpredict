@@ -1479,19 +1479,6 @@
    "batch_window": 18
   },
   {
-   "key": "诺贝尔化学奖揭晓",
-   "title": "诺贝尔化学奖揭晓",
-   "rating": "A",
-   "score": 87.85,
-   "angle": "从化学诺奖的突破成果切入，解读其对医药/材料行业的潜在影响，引发读者对科研改变生活的共鸣",
-   "hook_reason": "科学界重磅颁奖，普通人也能蹭的科普流量密码",
-   "url": "https://search.bilibili.com/all?keyword=诺贝尔化学奖揭晓",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:诺贝尔化学奖揭晓",
-   "batch_window": 18
-  },
-  {
    "key": "中国警方缅北电诈死灰复燃也不怕",
    "title": "中国警方：缅北电诈死灰复燃也不怕",
    "rating": "A",
@@ -1529,6 +1516,45 @@
    "breaking": true,
    "event_id": "e:小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里",
    "batch_window": 18
+  },
+  {
+   "key": "上3休1再上5休2",
+   "title": "上3休1再上5休2",
+   "rating": "A",
+   "score": 89.82,
+   "angle": "从网友热议切入，盘点各地奇葩调休/排班制度，追问合法性与员工权益边界",
+   "hook_reason": "打工人共鸣强烈，质疑996变体，引发劳动权益讨论",
+   "url": "https://s.weibo.com/weibo?q=上3休1再上5休2",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:上3休1再上5休2",
+   "batch_window": 19
+  },
+  {
+   "key": "王星失联前向女友求救发猫喂了没",
+   "title": "王星失联前向女友求救发猫喂了没",
+   "rating": "A",
+   "score": 87.9,
+   "angle": "从人性角度切入，危急时刻人们最牵挂的往往是最日常的小事",
+   "hook_reason": "普通人失联生死救援故事，生死牵挂细节引发共情",
+   "url": "https://s.weibo.com/weibo?q=王星失联前向女友求救发猫喂了没",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:王星失联前向女友求救发猫喂了没",
+   "batch_window": 19
+  },
+  {
+   "key": "降息加息为何都救不了日元",
+   "title": "降息加息为何都救不了日元",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "央行货币政策全面失效的背后，日元贬值如何冲击全球经济格局与中国投资者",
+   "hook_reason": "加息降息双失效，日元崩溃真相令人震惊",
+   "url": "https://search.bilibili.com/all?keyword=降息加息为何都救不了日元",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:降息加息为何都救不了日元",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -1711,7 +1737,8 @@
   "thecostofliesamineserverstory",
   "nobelprizeinphysicsgoestofrancishalzen",
   "总书记反复提及一位红军师长",
-  "mistrallarge4"
+  "mistrallarge4",
+  "诺贝尔化学奖揭晓"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1830,7 +1857,8 @@
   "e:thecostofliesamineserverstory": "The cost of lies: A Mineserver story",
   "e:nobelprizeinphysicsgoestofrancishalzen": "Nobel Prize in Physics goes to Francis Halzen",
   "e:总书记反复提及一位红军师长": "总书记反复提及一位红军师长",
-  "e:mistrallarge4": "Mistral Large 4"
+  "e:mistrallarge4": "Mistral Large 4",
+  "e:诺贝尔化学奖揭晓": "诺贝尔化学奖揭晓"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -2480,8 +2508,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里"
+  },
+  "上3休1再上5休2": {
+   "key": "上3休1再上5休2",
+   "title": "上3休1再上5休2",
+   "rating": "A",
+   "score": 89.82,
+   "angle": "从网友热议切入，盘点各地奇葩调休/排班制度，追问合法性与员工权益边界",
+   "hook_reason": "打工人共鸣强烈，质疑996变体，引发劳动权益讨论",
+   "url": "https://s.weibo.com/weibo?q=上3休1再上5休2",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:上3休1再上5休2"
+  },
+  "王星失联前向女友求救发猫喂了没": {
+   "key": "王星失联前向女友求救发猫喂了没",
+   "title": "王星失联前向女友求救发猫喂了没",
+   "rating": "A",
+   "score": 87.9,
+   "angle": "从人性角度切入，危急时刻人们最牵挂的往往是最日常的小事",
+   "hook_reason": "普通人失联生死救援故事，生死牵挂细节引发共情",
+   "url": "https://s.weibo.com/weibo?q=王星失联前向女友求救发猫喂了没",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:王星失联前向女友求救发猫喂了没"
+  },
+  "小米手表s541mm你的全天运动健康助手全新四灯组四pd传感器心率监测准确度984": {
+   "key": "小米手表s541mm你的全天运动健康助手全新四灯组四pd传感器心率监测准确度984",
+   "title": "#小米手表S5 41mm# 你的全天运动健康助手 全新四灯组四PD传感器，心率监测准确度98.4",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "科技评测角度，实测对比各品牌心率监测准确度",
+   "hook_reason": "小米新品首发，心率监测准确度近99%引关注",
+   "url": "https://weibo.com/1892653244/RlA1a6T2F",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米18fold你的出游高效决策搭档支持三窗口应用分屏至高六应用并排运行做行程"
+  },
+  "电诈团伙称妙瓦底最缺的是人不是钱": {
+   "key": "电诈团伙称妙瓦底最缺的是人不是钱",
+   "title": "电诈团伙称妙瓦底最缺的是人不是钱",
+   "rating": "A",
+   "score": 81.28,
+   "angle": "从犯罪团伙视角切入，揭秘妙瓦底如何'招募'中国受害者，深挖背后的产业链与监管困境",
+   "hook_reason": "电诈团伙自曝'最缺人不是钱'，揭示东南亚人口贩卖产业链真相",
+   "url": "https://s.weibo.com/weibo?q=电诈团伙称妙瓦底最缺的是人不是钱",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:央视披露缅北电诈真实案例"
+  },
+  "降息加息为何都救不了日元": {
+   "key": "降息加息为何都救不了日元",
+   "title": "降息加息为何都救不了日元",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "央行货币政策全面失效的背后，日元贬值如何冲击全球经济格局与中国投资者",
+   "hook_reason": "加息降息双失效，日元崩溃真相令人震惊",
+   "url": "https://search.bilibili.com/all?keyword=降息加息为何都救不了日元",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:降息加息为何都救不了日元"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
