@@ -1349,17 +1349,69 @@
    "batch_window": 10
   },
   {
-   "key": "只要在导弹射程内我肯定能消灭你",
-   "title": "“只要在导弹射程内我肯定能消灭你”",
+   "key": "缅北电诈犯杀陌生人祭天明珍珍死刑前微笑接受采访为什么这些电诈犯这么嚣张背后可能存在哪些保护伞",
+   "title": "缅北电诈犯杀陌生人祭天，明珍珍死刑前微笑接受采访，为什么这些电诈犯这么嚣张？背后可能存在哪些保护伞？",
    "rating": "A",
-   "score": 83.0,
-   "angle": "解读发言背后的地缘信号，对比各方反应看局势走向",
-   "hook_reason": "军事威慑言论引爆全网，强冲突+情绪共鸣",
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%AA%E8%A6%81%E5%9C%A8%E5%AF%BC%E5%BC%B9%E5%B0%84%E7%A8%8B%E5%86%85%E6%88%91%E8%82%AF%E5%AE%9A%E8%83%BD%E6%B6%88%E7%81%AD%E4%BD%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "score": 81.0,
+   "angle": "从犯罪心理切入，深挖电诈团伙残暴逻辑与背后保护伞链条，呼应全民反诈情绪",
+   "hook_reason": "杀人祭天+死刑犯微笑，反常人性引爆愤怒与猎奇",
+   "url": "https://www.zhihu.com/question/2090789565132793677",
    "track": "社会热点",
    "breaking": true,
-   "event_id": "e:只要在导弹射程内我肯定能消灭你",
-   "batch_window": 11
+   "event_id": "e:缅北电诈犯杀陌生人祭天明珍珍死刑前微笑接受采访为什么这些电诈犯这么嚣张背后可能存",
+   "batch_window": 12
+  },
+  {
+   "key": "thecostofliesamineserverstory",
+   "title": "The cost of lies: A Mineserver story",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从项目崩盘点名道姓切入，挖欺诈链条与投资者损失，带出行业治理缺失",
+   "hook_reason": "Hacker News爆发，揭露项目欺诈，科技圈关注度高",
+   "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thecostofliesamineserverstory",
+   "batch_window": 12
+  },
+  {
+   "key": "汇丰拟在英国财富管理部门大举裁员以推进人工智能战略",
+   "title": "汇丰拟在英国财富管理部门大举裁员，以推进人工智能战略。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从汇丰裁员切入，对比金融科技行业AI替代趋势，分析职场人如何避免被取代",
+   "hook_reason": "金融巨头裁员潮+AI取代人类，打工人共鸣",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniuknsf8220554.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:汇丰拟在英国财富管理部门大举裁员以推进人工智能战略",
+   "batch_window": 12
+  },
+  {
+   "key": "openai发布722篇数学论文",
+   "title": "OpenAI发布722篇数学论文",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "深挖OpenAI论文战略：是刷量还是真突破？对AI竞赛意味着什么",
+   "hook_reason": "OpenAI一口气狂发722篇数学论文，数字惊人引好奇",
+   "url": "https://search.bilibili.com/all?keyword=OpenAI发布722篇数学论文",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai发布722篇数学论文",
+   "batch_window": 12
+  },
+  {
+   "key": "缅北电诈团伙窝点距中国口岸仅200米",
+   "title": "缅北电诈团伙窝点距中国口岸仅200米",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从边境治安切入，盘点缅北电诈对华渗透现状，呼吁加强跨境执法协作",
+   "hook_reason": "距口岸仅200米的危机感，直击国人跨境安全焦虑",
+   "url": "https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%9B%A2%E4%BC%99%E7%AA%9D%E7%82%B9%E8%B7%9D%E4%B8%AD%E5%9B%BD%E5%8F%A3%E5%B2%B8%E4%BB%85200%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:缅北电诈团伙窝点距中国口岸仅200米",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -1535,7 +1587,8 @@
   "runqwen38flashnext125bonconsumer8b81bbb3",
   "europesnewroboticsunicorngermany50757c49",
   "缅北白家涉诈超290亿",
-  "新一轮油价调整时间定了"
+  "新一轮油价调整时间定了",
+  "只要在导弹射程内我肯定能消灭你"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1647,7 +1700,8 @@
   "e:runqwen38flashnext125bonconsumerhardware": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
   "e:europesnewroboticsunicorngermanysrobcohi": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
   "e:缅北白家涉诈超290亿": "缅北白家涉诈超290亿",
-  "e:新一轮油价调整时间定了": "新一轮油价调整时间定了"
+  "e:新一轮油价调整时间定了": "新一轮油价调整时间定了",
+  "e:只要在导弹射程内我肯定能消灭你": "“只要在导弹射程内我肯定能消灭你”"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -2057,8 +2111,68 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:只要在导弹射程内我肯定能消灭你"
+  },
+  "缅北电诈犯杀陌生人祭天明珍珍死刑前微笑接受采访为什么这些电诈犯这么嚣张背后可能存在哪些保护伞": {
+   "key": "缅北电诈犯杀陌生人祭天明珍珍死刑前微笑接受采访为什么这些电诈犯这么嚣张背后可能存在哪些保护伞",
+   "title": "缅北电诈犯杀陌生人祭天，明珍珍死刑前微笑接受采访，为什么这些电诈犯这么嚣张？背后可能存在哪些保护伞？",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "从犯罪心理切入，深挖电诈团伙残暴逻辑与背后保护伞链条，呼应全民反诈情绪",
+   "hook_reason": "杀人祭天+死刑犯微笑，反常人性引爆愤怒与猎奇",
+   "url": "https://www.zhihu.com/question/2090789565132793677",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:缅北电诈犯杀陌生人祭天明珍珍死刑前微笑接受采访为什么这些电诈犯这么嚣张背后可能存"
+  },
+  "thecostofliesamineserverstory": {
+   "key": "thecostofliesamineserverstory",
+   "title": "The cost of lies: A Mineserver story",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从项目崩盘点名道姓切入，挖欺诈链条与投资者损失，带出行业治理缺失",
+   "hook_reason": "Hacker News爆发，揭露项目欺诈，科技圈关注度高",
+   "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thecostofliesamineserverstory"
+  },
+  "汇丰拟在英国财富管理部门大举裁员以推进人工智能战略": {
+   "key": "汇丰拟在英国财富管理部门大举裁员以推进人工智能战略",
+   "title": "汇丰拟在英国财富管理部门大举裁员，以推进人工智能战略。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从汇丰裁员切入，对比金融科技行业AI替代趋势，分析职场人如何避免被取代",
+   "hook_reason": "金融巨头裁员潮+AI取代人类，打工人共鸣",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniuknsf8220554.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:汇丰拟在英国财富管理部门大举裁员以推进人工智能战略"
+  },
+  "openai发布722篇数学论文": {
+   "key": "openai发布722篇数学论文",
+   "title": "OpenAI发布722篇数学论文",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "深挖OpenAI论文战略：是刷量还是真突破？对AI竞赛意味着什么",
+   "hook_reason": "OpenAI一口气狂发722篇数学论文，数字惊人引好奇",
+   "url": "https://search.bilibili.com/all?keyword=OpenAI发布722篇数学论文",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai发布722篇数学论文"
+  },
+  "缅北电诈团伙窝点距中国口岸仅200米": {
+   "key": "缅北电诈团伙窝点距中国口岸仅200米",
+   "title": "缅北电诈团伙窝点距中国口岸仅200米",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从边境治安切入，盘点缅北电诈对华渗透现状，呼吁加强跨境执法协作",
+   "hook_reason": "距口岸仅200米的危机感，直击国人跨境安全焦虑",
+   "url": "https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%9B%A2%E4%BC%99%E7%AA%9D%E7%82%B9%E8%B7%9D%E4%B8%AD%E5%9B%BD%E5%8F%A3%E5%B2%B8%E4%BB%85200%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:缅北电诈团伙窝点距中国口岸仅200米"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
