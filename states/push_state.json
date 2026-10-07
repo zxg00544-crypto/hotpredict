@@ -1321,6 +1321,32 @@
    "breaking": true,
    "event_id": "e:缅北白家涉诈超290亿",
    "batch_window": 9
+  },
+  {
+   "key": "新一轮油价调整时间定了",
+   "title": "新一轮油价调整时间定了",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从调价窗口切入，分析本轮涨幅对普通车主及物流成本的实际影响，附带出行省钱攻略",
+   "hook_reason": "油价关乎每位车主钱包，时效强且身份高度相关",
+   "url": "https://www.toutiao.com/trending/7693613365381513755/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:新一轮油价调整时间定了",
+   "batch_window": 9
+  },
+  {
+   "key": "anyps5portps5binariestopcwithout86e84dee",
+   "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "从技术角度解读PS5跨平台移植突破，分析其对PC玩家和内容创作者的影响及索尼可能的法律回应",
+   "hook_reason": "PS5游戏无需模拟器直跑PC，87%系统库已映射，技术突破引关注",
+   "url": "https://github.com/boykopovar/AnyPS5",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anyps5portps5binariestopcwithoutemulatio",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -1900,8 +1926,8 @@
    "title": "华为也扛不住了 余承东：不得不涨价",
    "rating": "A",
    "score": 46.9,
-   "angle": "从余承东'不得不涨价'切入，解读华为供应链压力与国产替代成本逻辑",
-   "hook_reason": "华为老大亲自下场谈涨价，自带民族品牌+消费痛点双重情绪钩子",
+   "angle": "从余承东发言切入，解读华为涨价背后的供应链压力与消费策略转向",
+   "hook_reason": "余承东亲口承认华为扛不住涨价，反差感强，消费者与粉丝情绪双爆",
    "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86+%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E4%B8%8D%E5%BE%97%E4%B8%8D%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news",
    "track": "大咖发言",
    "breaking": true,
@@ -1935,9 +1961,9 @@
    "key": "缅北白家涉诈超290亿",
    "title": "缅北白家涉诈超290亿",
    "rating": "A",
-   "score": 92.0,
-   "angle": "涉案金额创史纪录，缅北诈骗集团覆灭始末，国际执法合作成果",
-   "hook_reason": "290亿诈骗案创纪录，缅北白家覆灭引全民关注",
+   "score": 81.95,
+   "angle": "从涉案金额与缅北局势切入，结合反诈警示与民生视角",
+   "hook_reason": "缅北超级诈骗案，金额震撼，民众共鸣强",
    "url": "https://www.toutiao.com/trending/7692694262311489067/",
    "track": "社会热点",
    "breaking": true,
@@ -1954,6 +1980,30 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:国庆返程高峰来了尾灯红成一片"
+  },
+  "新一轮油价调整时间定了": {
+   "key": "新一轮油价调整时间定了",
+   "title": "新一轮油价调整时间定了",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从调价窗口切入，分析本轮涨幅对普通车主及物流成本的实际影响，附带出行省钱攻略",
+   "hook_reason": "油价关乎每位车主钱包，时效强且身份高度相关",
+   "url": "https://www.toutiao.com/trending/7693613365381513755/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:新一轮油价调整时间定了"
+  },
+  "anyps5portps5binariestopcwithout86e84dee": {
+   "key": "anyps5portps5binariestopcwithout86e84dee",
+   "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "从技术角度解读PS5跨平台移植突破，分析其对PC玩家和内容创作者的影响及索尼可能的法律回应",
+   "hook_reason": "PS5游戏无需模拟器直跑PC，87%系统库已映射，技术突破引关注",
+   "url": "https://github.com/boykopovar/AnyPS5",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anyps5portps5binariestopcwithoutemulatio"
   }
  },
  "breaking_count": 10,
