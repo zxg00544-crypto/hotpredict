@@ -517,19 +517,6 @@
    "batch_window": 20
   },
   {
-   "key": "europesnewroboticsunicorngermany50757c49",
-   "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-   "rating": "A",
-   "score": 75.95,
-   "angle": "从欧洲机器人产业突围角度切入，对比中美机器人赛道格局变化",
-   "hook_reason": "欧洲首个机器人独角兽诞生，德国科技板块重大突破",
-   "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:europesnewroboticsunicorngermanysrobcohi",
-   "batch_window": 21
-  },
-  {
    "key": "花旗缩短初级投行员工晋升年限应对私募股权公司挖角",
    "title": "花旗缩短初级投行员工晋升年限 应对私募股权公司挖角",
    "rating": "A",
@@ -1321,6 +1308,19 @@
    "breaking": true,
    "event_id": "e:2599元一桌的婚宴14道主菜上错7道",
    "batch_window": 8
+  },
+  {
+   "key": "缅北白家涉诈超290亿",
+   "title": "缅北白家涉诈超290亿",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "涉案金额创史纪录，缅北诈骗集团覆灭始末，国际执法合作成果",
+   "hook_reason": "290亿诈骗案创纪录，缅北白家覆灭引全民关注",
+   "url": "https://www.toutiao.com/trending/7692694262311489067/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:缅北白家涉诈超290亿",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -1493,7 +1493,8 @@
   "pressreleasenobelprizeinphysiologyormedicine2026",
   "embeddinggemma2",
   "如何评价deepseekharness桌面版正式发布",
-  "runqwen38flashnext125bonconsumer8b81bbb3"
+  "runqwen38flashnext125bonconsumer8b81bbb3",
+  "europesnewroboticsunicorngermany50757c49"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1602,7 +1603,8 @@
   "e:pressreleasenobelprizeinphysiologyormedi": "Press Release: Nobel Prize in Physiology or Medicine 2026",
   "e:embeddinggemma2": "EmbeddingGemma 2",
   "e:如何评价deepseekharness桌面版正式发布": "如何评价DeepSeek Harness桌面版正式发布？",
-  "e:runqwen38flashnext125bonconsumerhardware": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s"
+  "e:runqwen38flashnext125bonconsumerhardware": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+  "e:europesnewroboticsunicorngermanysrobcohi": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -1898,8 +1900,8 @@
    "title": "华为也扛不住了 余承东：不得不涨价",
    "rating": "A",
    "score": 46.9,
-   "angle": "余承东首次公开承认'扛不住'，华为手机涨价背后的产业链压力与战略转向",
-   "hook_reason": "华为+余承东双IP，涨价直击消费者钱袋子",
+   "angle": "从余承东'不得不涨价'切入，解读华为供应链压力与国产替代成本逻辑",
+   "hook_reason": "华为老大亲自下场谈涨价，自带民族品牌+消费痛点双重情绪钩子",
    "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86+%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E4%B8%8D%E5%BE%97%E4%B8%8D%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news",
    "track": "大咖发言",
    "breaking": true,
@@ -1928,8 +1930,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:2599元一桌的婚宴14道主菜上错7道"
+  },
+  "缅北白家涉诈超290亿": {
+   "key": "缅北白家涉诈超290亿",
+   "title": "缅北白家涉诈超290亿",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "涉案金额创史纪录，缅北诈骗集团覆灭始末，国际执法合作成果",
+   "hook_reason": "290亿诈骗案创纪录，缅北白家覆灭引全民关注",
+   "url": "https://www.toutiao.com/trending/7692694262311489067/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:缅北白家涉诈超290亿"
+  },
+  "提前返程游客称高速堵成停车场": {
+   "key": "提前返程游客称高速堵成停车场",
+   "title": "提前返程游客称高速堵成停车场",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从返程高速拥堵切入，分析假期出行经济影响及交通调度问题",
+   "hook_reason": "假期返程痛点，亿万打工人共鸣，堵车画面感强易传播",
+   "url": "https://www.toutiao.com/trending/7693491953228693547/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:国庆返程高峰来了尾灯红成一片"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
