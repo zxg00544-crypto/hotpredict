@@ -1518,19 +1518,6 @@
    "batch_window": 18
   },
   {
-   "key": "上3休1再上5休2",
-   "title": "上3休1再上5休2",
-   "rating": "A",
-   "score": 89.82,
-   "angle": "从网友热议切入，盘点各地奇葩调休/排班制度，追问合法性与员工权益边界",
-   "hook_reason": "打工人共鸣强烈，质疑996变体，引发劳动权益讨论",
-   "url": "https://s.weibo.com/weibo?q=上3休1再上5休2",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:上3休1再上5休2",
-   "batch_window": 19
-  },
-  {
    "key": "王星失联前向女友求救发猫喂了没",
    "title": "王星失联前向女友求救发猫喂了没",
    "rating": "A",
@@ -1555,6 +1542,45 @@
    "breaking": true,
    "event_id": "e:降息加息为何都救不了日元",
    "batch_window": 19
+  },
+  {
+   "key": "演员王星案牵出跨境人口贩卖集团其4天被卖3次打击跨境犯罪有哪些难点我们要提高哪些防骗意识",
+   "title": "演员王星案牵出跨境人口贩卖集团，其4天被卖3次，打击跨境犯罪有哪些难点？我们要提高哪些防骗意识？",
+   "rating": "A",
+   "score": 87.0,
+   "angle": "从演员案例切入，剖析跨境人口贩卖黑产链条、打击难点，给出普通人防骗实操指南",
+   "hook_reason": "演员被拐4天卖3次，明星光环都护不住，普通人更该警惕",
+   "url": "https://www.zhihu.com/question/2091181702186022094",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:演员王星案牵出跨境人口贩卖集团其4天被卖3次打击跨境犯罪有哪些难点我们要提高哪些",
+   "batch_window": 20
+  },
+  {
+   "key": "nobelprizeinchemistry2026tohenri9f12c1c2",
+   "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "科技向：诺贝尔化学奖2026揭晓，两位化学家获殊荣，突破性研究指向未来",
+   "hook_reason": "Nobel化学奖首次登顶，2小时内突发，科学圈顶级权威事件",
+   "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nobelprizeinchemistry2026tohenribkaganan",
+   "batch_window": 20
+  },
+  {
+   "key": "谷歌与unity将联合推出ai游戏平台unityspark",
+   "title": "谷歌与Unity将联合推出AI游戏平台Unity Spark",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "聚焦AI如何重塑游戏开发生态，探讨传统游戏巨头的转型布局",
+   "hook_reason": "谷歌联手Unity推出AI游戏平台，双巨头跨界合作引爆行业",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniumcpx8082602.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:谷歌与unity将联合推出ai游戏平台unityspark",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -1738,7 +1764,8 @@
   "nobelprizeinphysicsgoestofrancishalzen",
   "总书记反复提及一位红军师长",
   "mistrallarge4",
-  "诺贝尔化学奖揭晓"
+  "诺贝尔化学奖揭晓",
+  "上3休1再上5休2"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1858,7 +1885,8 @@
   "e:nobelprizeinphysicsgoestofrancishalzen": "Nobel Prize in Physics goes to Francis Halzen",
   "e:总书记反复提及一位红军师长": "总书记反复提及一位红军师长",
   "e:mistrallarge4": "Mistral Large 4",
-  "e:诺贝尔化学奖揭晓": "诺贝尔化学奖揭晓"
+  "e:诺贝尔化学奖揭晓": "诺贝尔化学奖揭晓",
+  "e:上3休1再上5休2": "上3休1再上5休2"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -2562,14 +2590,50 @@
    "title": "降息加息为何都救不了日元",
    "rating": "A",
    "score": 40.9,
-   "angle": "央行货币政策全面失效的背后，日元贬值如何冲击全球经济格局与中国投资者",
-   "hook_reason": "加息降息双失效，日元崩溃真相令人震惊",
+   "angle": "从普通人的钱包视角切入，解读日元走势对留学、旅游、投资的影响",
+   "hook_reason": "央行救市失效，你的存款和旅行成本将如何受影响",
    "url": "https://search.bilibili.com/all?keyword=降息加息为何都救不了日元",
    "track": "财经",
    "breaking": true,
    "event_id": "e:降息加息为何都救不了日元"
+  },
+  "演员王星案牵出跨境人口贩卖集团其4天被卖3次打击跨境犯罪有哪些难点我们要提高哪些防骗意识": {
+   "key": "演员王星案牵出跨境人口贩卖集团其4天被卖3次打击跨境犯罪有哪些难点我们要提高哪些防骗意识",
+   "title": "演员王星案牵出跨境人口贩卖集团，其4天被卖3次，打击跨境犯罪有哪些难点？我们要提高哪些防骗意识？",
+   "rating": "A",
+   "score": 87.0,
+   "angle": "从演员案例切入，剖析跨境人口贩卖黑产链条、打击难点，给出普通人防骗实操指南",
+   "hook_reason": "演员被拐4天卖3次，明星光环都护不住，普通人更该警惕",
+   "url": "https://www.zhihu.com/question/2091181702186022094",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:演员王星案牵出跨境人口贩卖集团其4天被卖3次打击跨境犯罪有哪些难点我们要提高哪些"
+  },
+  "nobelprizeinchemistry2026tohenri9f12c1c2": {
+   "key": "nobelprizeinchemistry2026tohenri9f12c1c2",
+   "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "科技向：诺贝尔化学奖2026揭晓，两位化学家获殊荣，突破性研究指向未来",
+   "hook_reason": "Nobel化学奖首次登顶，2小时内突发，科学圈顶级权威事件",
+   "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nobelprizeinchemistry2026tohenribkaganan"
+  },
+  "谷歌与unity将联合推出ai游戏平台unityspark": {
+   "key": "谷歌与unity将联合推出ai游戏平台unityspark",
+   "title": "谷歌与Unity将联合推出AI游戏平台Unity Spark",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "聚焦AI如何重塑游戏开发生态，探讨传统游戏巨头的转型布局",
+   "hook_reason": "谷歌联手Unity推出AI游戏平台，双巨头跨界合作引爆行业",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniumcpx8082602.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:谷歌与unity将联合推出ai游戏平台unityspark"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
