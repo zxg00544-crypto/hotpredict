@@ -179,19 +179,6 @@
    "batch_window": 22
   },
   {
-   "key": "runqwen38flashnext125bonconsumer8b81bbb3",
-   "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "rating": "A",
-   "score": 75.95,
-   "angle": "从技术突破切入，分析125B模型在4090上实现100T/s推理的核心技术路径及对开发者的实际影响",
-   "hook_reason": "消费级显卡跑125B大模型，普通人也能用顶级AI了",
-   "url": "https://github.com/Niko1221/Strata",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:runqwen38flashnext125bonconsumerhardware",
-   "batch_window": 23
-  },
-  {
    "key": "carisasmartphoneonwheelshereswhoslistening",
    "title": "Car is a smartphone on wheels. Here's who's listening",
    "rating": "A",
@@ -1295,6 +1282,45 @@
    "breaking": true,
    "event_id": "e:decisionsapiisinpublicbeta",
    "batch_window": 7
+  },
+  {
+   "key": "华为也扛不住了余承东不得不涨价",
+   "title": "华为也扛不住了 余承东：不得不涨价",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "余承东首次公开承认'扛不住'，华为手机涨价背后的产业链压力与战略转向",
+   "hook_reason": "华为+余承东双IP，涨价直击消费者钱袋子",
+   "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86+%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E4%B8%8D%E5%BE%97%E4%B8%8D%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:华为也扛不住了余承东不得不涨价",
+   "batch_window": 8
+  },
+  {
+   "key": "刘建宏国足教练团队对球队已失控",
+   "title": "刘建宏：国足教练团队对球队已失控",
+   "rating": "A",
+   "score": 52.9,
+   "angle": "借大咖言论切入中国足球深层次问题，关联大众对国足球员的集体情绪",
+   "hook_reason": "刘建宏怒批国足失控，撕开足球圈脓疮，戳中全民痛点",
+   "url": "https://www.toutiao.com/trending/7692653990828425252/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:刘建宏国足教练团队对球队已失控",
+   "batch_window": 8
+  },
+  {
+   "key": "2599元一桌的婚宴14道主菜上错7道",
+   "title": "2599元一桌的婚宴14道主菜上错7道",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从新人心酸经历切入，剖析婚宴市场低价套路与服务质量失衡问题",
+   "hook_reason": "低价婚宴翻车，14道上错7道，消费维权+婚礼情绪双爆点",
+   "url": "https://www.baidu.com/s?wd=2599%E5%85%83%E4%B8%80%E6%A1%8C%E7%9A%84%E5%A9%9A%E5%AE%B414%E9%81%93%E4%B8%BB%E8%8F%9C%E4%B8%8A%E9%94%997%E9%81%93&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:2599元一桌的婚宴14道主菜上错7道",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -1466,7 +1492,8 @@
   "usingbluraymdiskasbackupoflastresort",
   "pressreleasenobelprizeinphysiologyormedicine2026",
   "embeddinggemma2",
-  "如何评价deepseekharness桌面版正式发布"
+  "如何评价deepseekharness桌面版正式发布",
+  "runqwen38flashnext125bonconsumer8b81bbb3"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1574,7 +1601,8 @@
   "e:usingbluraymdiskasbackupoflastresort": "Using Blu-ray M-Disk as Backup of Last Resort",
   "e:pressreleasenobelprizeinphysiologyormedi": "Press Release: Nobel Prize in Physiology or Medicine 2026",
   "e:embeddinggemma2": "EmbeddingGemma 2",
-  "e:如何评价deepseekharness桌面版正式发布": "如何评价DeepSeek Harness桌面版正式发布？"
+  "e:如何评价deepseekharness桌面版正式发布": "如何评价DeepSeek Harness桌面版正式发布？",
+  "e:runqwen38flashnext125bonconsumerhardware": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -1857,15 +1885,51 @@
    "key": "decisionsapiisinpublicbeta",
    "title": "Decisions API is in public beta",
    "rating": "A",
-   "score": 40.85,
-   "angle": "从开发者视角解读Decisions API的核心能力、适用场景及与现有工具的区别，判断是否值得接入",
-   "hook_reason": "OpenAI推新API，开发者社区关注，技术落地信号明确",
+   "score": 75.11,
+   "angle": "解读Decisions API新功能，对比竞品，分析开发者生态影响",
+   "hook_reason": "OpenAI新品API公测，开发者关注",
    "url": "https://developers.openai.com/api/docs/guides/decisions",
    "track": "科技",
    "breaking": true,
    "event_id": "e:decisionsapiisinpublicbeta"
+  },
+  "华为也扛不住了余承东不得不涨价": {
+   "key": "华为也扛不住了余承东不得不涨价",
+   "title": "华为也扛不住了 余承东：不得不涨价",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "余承东首次公开承认'扛不住'，华为手机涨价背后的产业链压力与战略转向",
+   "hook_reason": "华为+余承东双IP，涨价直击消费者钱袋子",
+   "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86+%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E4%B8%8D%E5%BE%97%E4%B8%8D%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:华为也扛不住了余承东不得不涨价"
+  },
+  "刘建宏国足教练团队对球队已失控": {
+   "key": "刘建宏国足教练团队对球队已失控",
+   "title": "刘建宏：国足教练团队对球队已失控",
+   "rating": "A",
+   "score": 52.9,
+   "angle": "借大咖言论切入中国足球深层次问题，关联大众对国足球员的集体情绪",
+   "hook_reason": "刘建宏怒批国足失控，撕开足球圈脓疮，戳中全民痛点",
+   "url": "https://www.toutiao.com/trending/7692653990828425252/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:刘建宏国足教练团队对球队已失控"
+  },
+  "2599元一桌的婚宴14道主菜上错7道": {
+   "key": "2599元一桌的婚宴14道主菜上错7道",
+   "title": "2599元一桌的婚宴14道主菜上错7道",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从新人心酸经历切入，剖析婚宴市场低价套路与服务质量失衡问题",
+   "hook_reason": "低价婚宴翻车，14道上错7道，消费维权+婚礼情绪双爆点",
+   "url": "https://www.baidu.com/s?wd=2599%E5%85%83%E4%B8%80%E6%A1%8C%E7%9A%84%E5%A9%9A%E5%AE%B414%E9%81%93%E4%B8%BB%E8%8F%9C%E4%B8%8A%E9%94%997%E9%81%93&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:2599元一桌的婚宴14道主菜上错7道"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
