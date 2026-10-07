@@ -1011,19 +1011,6 @@
    "batch_window": 22
   },
   {
-   "key": "mistrallarge4",
-   "title": "Mistral Large 4",
-   "rating": "A",
-   "score": 75.95,
-   "angle": "Mistral Large 4发布，对标GPT-5，欧洲AI战力几何？从参数到性能全面评测解读",
-   "hook_reason": "Mistral新旗舰直怼OpenAI，AI大模型军备赛再升级",
-   "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:mistrallarge4",
-   "batch_window": 23
-  },
-  {
    "key": "伊朗安全负责人称美国针对伊朗的经济战将会失败正如其军事行动一样",
    "title": "伊朗安全负责人称，美国针对伊朗的经济战将会失败，正如其军事行动一样。",
    "rating": "A",
@@ -1477,6 +1464,71 @@
    "breaking": true,
    "event_id": "e:第三次荣膺亚洲私人银行家年度最佳经济学家大奖今晚的颁奖典礼盛况空前再次感谢大家的",
    "batch_window": 16
+  },
+  {
+   "key": "余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机市场有多大影响",
+   "title": "余承东称华为将不得不涨价，存储元器件大涨使每部手机增超两百美元成本，会对消费者及手机市场有多大影响？",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "余承东发言切入，分析存储成本暴涨下华为的定价策略及对消费者影响",
+   "hook_reason": "华为官宣涨价，你的手机要更贵了？",
+   "url": "https://www.zhihu.com/question/2091102378480985803",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机",
+   "batch_window": 18
+  },
+  {
+   "key": "诺贝尔化学奖揭晓",
+   "title": "诺贝尔化学奖揭晓",
+   "rating": "A",
+   "score": 87.85,
+   "angle": "从化学诺奖的突破成果切入，解读其对医药/材料行业的潜在影响，引发读者对科研改变生活的共鸣",
+   "hook_reason": "科学界重磅颁奖，普通人也能蹭的科普流量密码",
+   "url": "https://search.bilibili.com/all?keyword=诺贝尔化学奖揭晓",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:诺贝尔化学奖揭晓",
+   "batch_window": 18
+  },
+  {
+   "key": "中国警方缅北电诈死灰复燃也不怕",
+   "title": "中国警方：缅北电诈死灰复燃也不怕",
+   "rating": "A",
+   "score": 85.5,
+   "angle": "警方强势回应电诈反弹，展现执法决心，可结合民生视角写",
+   "hook_reason": "反诈+硬核警方表态，民众安全感直接相关",
+   "url": "https://www.toutiao.com/trending/7692945943666249259/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国警方缅北电诈死灰复燃也不怕",
+   "batch_window": 18
+  },
+  {
+   "key": "网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真戳中了大家什么",
+   "title": "网友称过节回老家掰玉米感觉现代化离自己很远，你也有过这样割裂感的体验吗？这种返璞归真戳中了大家什么？",
+   "rating": "A",
+   "score": 85.0,
+   "angle": "以青年返乡体验为切口，探讨现代化进程中城乡生活方式的割裂与心理落差",
+   "hook_reason": "城乡割裂引发强烈共鸣，打工人返乡的真实刺痛感",
+   "url": "https://www.zhihu.com/question/2090718200484684963",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真",
+   "batch_window": 18
+  },
+  {
+   "key": "小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里",
+   "title": "小米澎程 N90 Max，长途高速续航有多强？ 看看视频，满油满电出发，上海至北京，1230公里",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "以长途实测为切入点，解读小米汽车三电技术实力与新能源续航焦虑现实",
+   "hook_reason": "小米汽车实测1230公里续航，结果能否颠覆续航焦虑？",
+   "url": "https://weibo.com/1749127163/RlzI5gE3N",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -1658,7 +1710,8 @@
   "缅北电诈犯杀陌生人祭天明珍珍死刑前微笑接受采访为什么这些电诈犯这么嚣张背后可能存在哪些保护伞",
   "thecostofliesamineserverstory",
   "nobelprizeinphysicsgoestofrancishalzen",
-  "总书记反复提及一位红军师长"
+  "总书记反复提及一位红军师长",
+  "mistrallarge4"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1776,7 +1829,8 @@
   "e:缅北电诈犯杀陌生人祭天明珍珍死刑前微笑接受采访为什么这些电诈犯这么嚣张背后可能存": "缅北电诈犯杀陌生人祭天，明珍珍死刑前微笑接受采访，为什么这些电诈犯这么嚣张？背后可能存在哪些保护伞？",
   "e:thecostofliesamineserverstory": "The cost of lies: A Mineserver story",
   "e:nobelprizeinphysicsgoestofrancishalzen": "Nobel Prize in Physics goes to Francis Halzen",
-  "e:总书记反复提及一位红军师长": "总书记反复提及一位红军师长"
+  "e:总书记反复提及一位红军师长": "总书记反复提及一位红军师长",
+  "e:mistrallarge4": "Mistral Large 4"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -2366,8 +2420,68 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:第三次荣膺亚洲私人银行家年度最佳经济学家大奖今晚的颁奖典礼盛况空前再次感谢大家的"
+  },
+  "余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机市场有多大影响": {
+   "key": "余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机市场有多大影响",
+   "title": "余承东称华为将不得不涨价，存储元器件大涨使每部手机增超两百美元成本，会对消费者及手机市场有多大影响？",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "余承东发言切入，分析存储成本暴涨下华为的定价策略及对消费者影响",
+   "hook_reason": "华为官宣涨价，你的手机要更贵了？",
+   "url": "https://www.zhihu.com/question/2091102378480985803",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机"
+  },
+  "诺贝尔化学奖揭晓": {
+   "key": "诺贝尔化学奖揭晓",
+   "title": "诺贝尔化学奖揭晓",
+   "rating": "A",
+   "score": 87.85,
+   "angle": "从化学诺奖的突破成果切入，解读其对医药/材料行业的潜在影响，引发读者对科研改变生活的共鸣",
+   "hook_reason": "科学界重磅颁奖，普通人也能蹭的科普流量密码",
+   "url": "https://search.bilibili.com/all?keyword=诺贝尔化学奖揭晓",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:诺贝尔化学奖揭晓"
+  },
+  "中国警方缅北电诈死灰复燃也不怕": {
+   "key": "中国警方缅北电诈死灰复燃也不怕",
+   "title": "中国警方：缅北电诈死灰复燃也不怕",
+   "rating": "A",
+   "score": 85.5,
+   "angle": "警方强势回应电诈反弹，展现执法决心，可结合民生视角写",
+   "hook_reason": "反诈+硬核警方表态，民众安全感直接相关",
+   "url": "https://www.toutiao.com/trending/7692945943666249259/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国警方缅北电诈死灰复燃也不怕"
+  },
+  "网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真戳中了大家什么": {
+   "key": "网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真戳中了大家什么",
+   "title": "网友称过节回老家掰玉米感觉现代化离自己很远，你也有过这样割裂感的体验吗？这种返璞归真戳中了大家什么？",
+   "rating": "A",
+   "score": 85.0,
+   "angle": "以青年返乡体验为切口，探讨现代化进程中城乡生活方式的割裂与心理落差",
+   "hook_reason": "城乡割裂引发强烈共鸣，打工人返乡的真实刺痛感",
+   "url": "https://www.zhihu.com/question/2090718200484684963",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真"
+  },
+  "小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里": {
+   "key": "小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里",
+   "title": "小米澎程 N90 Max，长途高速续航有多强？ 看看视频，满油满电出发，上海至北京，1230公里",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "以长途实测为切入点，解读小米汽车三电技术实力与新能源续航焦虑现实",
+   "hook_reason": "小米汽车实测1230公里续航，结果能否颠覆续航焦虑？",
+   "url": "https://weibo.com/1749127163/RlzI5gE3N",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
