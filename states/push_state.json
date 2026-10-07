@@ -1336,19 +1336,6 @@
    "batch_window": 10
   },
   {
-   "key": "thecostofliesamineserverstory",
-   "title": "The cost of lies: A Mineserver story",
-   "rating": "A",
-   "score": 76.5,
-   "angle": "从项目崩盘点名道姓切入，挖欺诈链条与投资者损失，带出行业治理缺失",
-   "hook_reason": "Hacker News爆发，揭露项目欺诈，科技圈关注度高",
-   "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:thecostofliesamineserverstory",
-   "batch_window": 12
-  },
-  {
    "key": "汇丰拟在英国财富管理部门大举裁员以推进人工智能战略",
    "title": "汇丰拟在英国财富管理部门大举裁员，以推进人工智能战略。",
    "rating": "A",
@@ -1425,6 +1412,32 @@
    "breaking": true,
    "event_id": "e:佘智江被捕画面满脸笑意十分嚣张",
    "batch_window": 14
+  },
+  {
+   "key": "ai行业最大的护城河根本不是大模型ai创造营热搜ai创作激励大赛红衣大叔周鸿祎",
+   "title": "AI行业最大的护城河，根本不是大模型！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周鸿祎",
+   "rating": "A",
+   "score": 49.8,
+   "angle": "从周鸿祎观点切入，剖析AI真正护城河，引发行业大讨论",
+   "hook_reason": "周鸿祎反常识观点，AI从业者必看",
+   "url": "https://weibo.com/1708942053/Rlow0vG8V",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:ai行业最大的护城河根本不是大模型ai创造营热搜ai创作激励大赛红衣大叔周鸿祎",
+   "batch_window": 15
+  },
+  {
+   "key": "ai开始自己造ai了人类的角色正在改变ai创造营热搜ai创作激励大赛ai生活",
+   "title": "AI开始自己造AI了，人类的角色正在改变。 #ai创造营# #热搜AI创作激励大赛# #ai生活",
+   "rating": "A",
+   "score": 49.75,
+   "angle": "从AI造AI切入，探讨人类在智能时代的不可替代性价值",
+   "hook_reason": "AI自主进化颠覆人类角色，引发身份焦虑与好奇",
+   "url": "https://weibo.com/1708942053/RlhrDrUMS",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai开始自己造ai了人类的角色正在改变ai创造营热搜ai创作激励大赛ai生活",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -1603,7 +1616,8 @@
   "新一轮油价调整时间定了",
   "只要在导弹射程内我肯定能消灭你",
   "缅北赚钱缅北花一分别想带回家",
-  "缅北电诈犯杀陌生人祭天明珍珍死刑前微笑接受采访为什么这些电诈犯这么嚣张背后可能存在哪些保护伞"
+  "缅北电诈犯杀陌生人祭天明珍珍死刑前微笑接受采访为什么这些电诈犯这么嚣张背后可能存在哪些保护伞",
+  "thecostofliesamineserverstory"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1718,7 +1732,8 @@
   "e:新一轮油价调整时间定了": "新一轮油价调整时间定了",
   "e:只要在导弹射程内我肯定能消灭你": "“只要在导弹射程内我肯定能消灭你”",
   "e:缅北赚钱缅北花一分别想带回家": "“缅北赚钱缅北花 一分别想带回家”",
-  "e:缅北电诈犯杀陌生人祭天明珍珍死刑前微笑接受采访为什么这些电诈犯这么嚣张背后可能存": "缅北电诈犯杀陌生人祭天，明珍珍死刑前微笑接受采访，为什么这些电诈犯这么嚣张？背后可能存在哪些保护伞？"
+  "e:缅北电诈犯杀陌生人祭天明珍珍死刑前微笑接受采访为什么这些电诈犯这么嚣张背后可能存": "缅北电诈犯杀陌生人祭天，明珍珍死刑前微笑接受采访，为什么这些电诈犯这么嚣张？背后可能存在哪些保护伞？",
+  "e:thecostofliesamineserverstory": "The cost of lies: A Mineserver story"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -2224,8 +2239,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:佘智江被捕画面满脸笑意十分嚣张"
+  },
+  "ai行业最大的护城河根本不是大模型ai创造营热搜ai创作激励大赛红衣大叔周鸿祎": {
+   "key": "ai行业最大的护城河根本不是大模型ai创造营热搜ai创作激励大赛红衣大叔周鸿祎",
+   "title": "AI行业最大的护城河，根本不是大模型！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周鸿祎",
+   "rating": "A",
+   "score": 49.8,
+   "angle": "从周鸿祎观点切入，剖析AI真正护城河，引发行业大讨论",
+   "hook_reason": "周鸿祎反常识观点，AI从业者必看",
+   "url": "https://weibo.com/1708942053/Rlow0vG8V",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:ai行业最大的护城河根本不是大模型ai创造营热搜ai创作激励大赛红衣大叔周鸿祎"
+  },
+  "ai开始自己造ai了人类的角色正在改变ai创造营热搜ai创作激励大赛ai生活": {
+   "key": "ai开始自己造ai了人类的角色正在改变ai创造营热搜ai创作激励大赛ai生活",
+   "title": "AI开始自己造AI了，人类的角色正在改变。 #ai创造营# #热搜AI创作激励大赛# #ai生活",
+   "rating": "A",
+   "score": 49.75,
+   "angle": "从AI造AI切入，探讨人类在智能时代的不可替代性价值",
+   "hook_reason": "AI自主进化颠覆人类角色，引发身份焦虑与好奇",
+   "url": "https://weibo.com/1708942053/RlhrDrUMS",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai开始自己造ai了人类的角色正在改变ai创造营热搜ai创作激励大赛ai生活"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 14
+ "a_pushed_window": 15
 }
