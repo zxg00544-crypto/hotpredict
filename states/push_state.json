@@ -1531,19 +1531,6 @@
    "batch_window": 19
   },
   {
-   "key": "演员王星案牵出跨境人口贩卖集团其4天被卖3次打击跨境犯罪有哪些难点我们要提高哪些防骗意识",
-   "title": "演员王星案牵出跨境人口贩卖集团，其4天被卖3次，打击跨境犯罪有哪些难点？我们要提高哪些防骗意识？",
-   "rating": "A",
-   "score": 87.0,
-   "angle": "从演员案例切入，剖析跨境人口贩卖黑产链条、打击难点，给出普通人防骗实操指南",
-   "hook_reason": "演员被拐4天卖3次，明星光环都护不住，普通人更该警惕",
-   "url": "https://www.zhihu.com/question/2091181702186022094",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:演员王星案牵出跨境人口贩卖集团其4天被卖3次打击跨境犯罪有哪些难点我们要提高哪些",
-   "batch_window": 20
-  },
-  {
    "key": "nobelprizeinchemistry2026tohenri9f12c1c2",
    "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
    "rating": "A",
@@ -1594,6 +1581,58 @@
    "breaking": true,
    "event_id": "e:马斯克评up主自制黄仁勋ai短片",
    "batch_window": 21
+  },
+  {
+   "key": "手机价格在涨掏钱的理由没涨",
+   "title": "手机价格在涨 掏钱的理由没涨",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从消费者视角切入，吐槽'涨价不涨配'现象，引发共鸣讨论",
+   "hook_reason": "手机涨价但体验没提升，戳中千万用户钱袋子",
+   "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E5%9C%A8%E6%B6%A8+%E6%8E%8F%E9%92%B1%E7%9A%84%E7%90%86%E7%94%B1%E6%B2%A1%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:手机价格在涨掏钱的理由没涨",
+   "batch_window": 22
+  },
+  {
+   "key": "writelikeits1866llmsrelearntelegraphese",
+   "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "从LLM自然输出电报体切入，探讨大模型行为模式与训练数据的深层关联，引发对AI'复古本能'的好奇",
+   "hook_reason": "AI写出19世纪电报腔？大模型行为反常引关注",
+   "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:writelikeits1866llmsrelearntelegraphese",
+   "batch_window": 22
+  },
+  {
+   "key": "柬埔寨太子集团头目陈志押解画面曝光太子集团以及陈志曾犯下过哪些罪行接下来他可能面对哪些刑罚",
+   "title": "柬埔寨太子集团头目陈志押解画面曝光，太子集团以及陈志曾犯下过哪些罪行？接下来他可能面对哪些刑罚？",
+   "rating": "A",
+   "score": 56.05,
+   "angle": "从押解画面切入，盘点太子集团主要罪行，解读可能面临的法律后果",
+   "hook_reason": "跨国大案头目被抓押解画面曝光，读者关心其罪行和下场",
+   "url": "https://www.zhihu.com/question/2091163800770536220",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:柬埔寨太子集团头目陈志押解画面曝光太子集团以及陈志曾犯下过哪些罪行接下来他可能面",
+   "batch_window": 22
+  },
+  {
+   "key": "前特斯拉optimus项目负责人正筹备创办机器人初创公司intelligent",
+   "title": "前特斯拉Optimus项目负责人正筹备创办机器人初创公司Intelligent ",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "前特斯拉Optimus负责人出走创业：技术传承与独立路线的对决",
+   "hook_reason": "特斯拉Optimus领军人物单飞，创业+技术革命",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniumivv8007824.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:前特斯拉optimus项目负责人正筹备创办机器人初创公司intelligent",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -1779,7 +1818,8 @@
   "mistrallarge4",
   "诺贝尔化学奖揭晓",
   "上3休1再上5休2",
-  "王星失联前向女友求救发猫喂了没"
+  "王星失联前向女友求救发猫喂了没",
+  "演员王星案牵出跨境人口贩卖集团其4天被卖3次打击跨境犯罪有哪些难点我们要提高哪些防骗意识"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1901,7 +1941,8 @@
   "e:mistrallarge4": "Mistral Large 4",
   "e:诺贝尔化学奖揭晓": "诺贝尔化学奖揭晓",
   "e:上3休1再上5休2": "上3休1再上5休2",
-  "e:王星失联前向女友求救发猫喂了没": "王星失联前向女友求救发猫喂了没"
+  "e:王星失联前向女友求救发猫喂了没": "王星失联前向女友求救发猫喂了没",
+  "e:演员王星案牵出跨境人口贩卖集团其4天被卖3次打击跨境犯罪有哪些难点我们要提高哪些": "演员王星案牵出跨境人口贩卖集团，其4天被卖3次，打击跨境犯罪有哪些难点？我们要提高哪些防骗意识？"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -2665,14 +2706,62 @@
    "title": "马斯克评UP主自制黄仁勋AI短片",
    "rating": "A",
    "score": 40.75,
-   "angle": "借马斯克点评AI短片一事，切入AI生成内容边界、科技圈名人互动效应，以及对AI技术可信度的公共讨论",
-   "hook_reason": "马斯克+黄仁勋双圈撞饭，AI短片真假争议引科技圈围观",
+   "angle": "AI时代大咖人设重塑：当AI能完美模仿黄仁勋，马斯克为何点赞？反思名人形象的商品化危机",
+   "hook_reason": "马斯克点评AI造假短片，科技圈顶流同框，颠覆真人偶像概念",
    "url": "https://search.bilibili.com/all?keyword=马斯克评UP主自制黄仁勋AI短片",
-   "track": "科技",
+   "track": "大咖发言",
    "breaking": true,
    "event_id": "e:马斯克评up主自制黄仁勋ai短片"
+  },
+  "手机价格在涨掏钱的理由没涨": {
+   "key": "手机价格在涨掏钱的理由没涨",
+   "title": "手机价格在涨 掏钱的理由没涨",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从消费者视角切入，吐槽'涨价不涨配'现象，引发共鸣讨论",
+   "hook_reason": "手机涨价但体验没提升，戳中千万用户钱袋子",
+   "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E5%9C%A8%E6%B6%A8+%E6%8E%8F%E9%92%B1%E7%9A%84%E7%90%86%E7%94%B1%E6%B2%A1%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:手机价格在涨掏钱的理由没涨"
+  },
+  "writelikeits1866llmsrelearntelegraphese": {
+   "key": "writelikeits1866llmsrelearntelegraphese",
+   "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "从LLM自然输出电报体切入，探讨大模型行为模式与训练数据的深层关联，引发对AI'复古本能'的好奇",
+   "hook_reason": "AI写出19世纪电报腔？大模型行为反常引关注",
+   "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:writelikeits1866llmsrelearntelegraphese"
+  },
+  "柬埔寨太子集团头目陈志押解画面曝光太子集团以及陈志曾犯下过哪些罪行接下来他可能面对哪些刑罚": {
+   "key": "柬埔寨太子集团头目陈志押解画面曝光太子集团以及陈志曾犯下过哪些罪行接下来他可能面对哪些刑罚",
+   "title": "柬埔寨太子集团头目陈志押解画面曝光，太子集团以及陈志曾犯下过哪些罪行？接下来他可能面对哪些刑罚？",
+   "rating": "A",
+   "score": 56.05,
+   "angle": "从押解画面切入，盘点太子集团主要罪行，解读可能面临的法律后果",
+   "hook_reason": "跨国大案头目被抓押解画面曝光，读者关心其罪行和下场",
+   "url": "https://www.zhihu.com/question/2091163800770536220",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:柬埔寨太子集团头目陈志押解画面曝光太子集团以及陈志曾犯下过哪些罪行接下来他可能面"
+  },
+  "前特斯拉optimus项目负责人正筹备创办机器人初创公司intelligent": {
+   "key": "前特斯拉optimus项目负责人正筹备创办机器人初创公司intelligent",
+   "title": "前特斯拉Optimus项目负责人正筹备创办机器人初创公司Intelligent ",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "前特斯拉Optimus负责人出走创业：技术传承与独立路线的对决",
+   "hook_reason": "特斯拉Optimus领军人物单飞，创业+技术革命",
+   "url": "https://finance.sina.cn/7x24/2026-10-07/detail-iniumivv8007824.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:前特斯拉optimus项目负责人正筹备创办机器人初创公司intelligent"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
