@@ -1323,19 +1323,6 @@
    "batch_window": 9
   },
   {
-   "key": "缅北赚钱缅北花一分别想带回家",
-   "title": "“缅北赚钱缅北花 一分别想带回家”",
-   "rating": "A",
-   "score": 81.75,
-   "angle": "从流行语切入，揭秘缅北诈骗产业链真相，警示境外\"高薪工作\"陷阱",
-   "hook_reason": "缅北诈骗话题全民关注，警示+猎奇双重驱动力强",
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BC%85%E5%8C%97%E8%B5%9A%E9%92%B1%E7%BC%85%E5%8C%97%E8%8A%B1+%E4%B8%80%E5%88%86%E5%88%AB%E6%83%B3%E5%B8%A6%E5%9B%9E%E5%AE%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:缅北赚钱缅北花一分别想带回家",
-   "batch_window": 10
-  },
-  {
    "key": "中国9月外汇储备3400251亿美元前值343833亿美元",
    "title": "中国9月外汇储备 34002.51亿美元，前值34383.3亿美元。",
    "rating": "A",
@@ -1412,6 +1399,32 @@
    "breaking": true,
    "event_id": "e:缅北电诈团伙窝点距中国口岸仅200米",
    "batch_window": 12
+  },
+  {
+   "key": "电诈人员换董事长头像骗财务转1700万",
+   "title": "电诈人员换董事长头像骗财务转1700万",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦企业财务安全意识薄弱痛点，拆解AI换脸诈骗手法与防范攻略",
+   "hook_reason": "AI换脸+董事长头像骗走1700万，企业老板/财务必看的防骗警示",
+   "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E4%BA%BA%E5%91%98%E6%8D%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E5%A4%B4%E5%83%8F%E9%AA%97%E8%B4%A2%E5%8A%A1%E8%BD%AC1700%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:电诈人员换董事长头像骗财务转1700万",
+   "batch_window": 13
+  },
+  {
+   "key": "买labubu不如买香蕉",
+   "title": "“买Labubu不如买香蕉”",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从 Labubu 溢价与香蕉性价比的荒诞对比，切入 Z 世代消费降级与情绪消费的新趋势",
+   "hook_reason": "年轻人消费观反差话题，用香蕉嘲讽潮流玩具溢价，易引发共鸣讨论",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%B0Labubu%E4%B8%8D%E5%A6%82%E4%B9%B0%E9%A6%99%E8%95%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:买labubu不如买香蕉",
+   "batch_window": 13
   }
  ],
  "pushed": [
@@ -1588,7 +1601,8 @@
   "europesnewroboticsunicorngermany50757c49",
   "缅北白家涉诈超290亿",
   "新一轮油价调整时间定了",
-  "只要在导弹射程内我肯定能消灭你"
+  "只要在导弹射程内我肯定能消灭你",
+  "缅北赚钱缅北花一分别想带回家"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1701,7 +1715,8 @@
   "e:europesnewroboticsunicorngermanysrobcohi": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
   "e:缅北白家涉诈超290亿": "缅北白家涉诈超290亿",
   "e:新一轮油价调整时间定了": "新一轮油价调整时间定了",
-  "e:只要在导弹射程内我肯定能消灭你": "“只要在导弹射程内我肯定能消灭你”"
+  "e:只要在导弹射程内我肯定能消灭你": "“只要在导弹射程内我肯定能消灭你”",
+  "e:缅北赚钱缅北花一分别想带回家": "“缅北赚钱缅北花 一分别想带回家”"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -2153,8 +2168,8 @@
    "title": "OpenAI发布722篇数学论文",
    "rating": "A",
    "score": 40.95,
-   "angle": "深挖OpenAI论文战略：是刷量还是真突破？对AI竞赛意味着什么",
-   "hook_reason": "OpenAI一口气狂发722篇数学论文，数字惊人引好奇",
+   "angle": "从数学基础突破切入，解读OpenAI底层技术升级信号，预判AI能力质变",
+   "hook_reason": "AI霸主OpenAI突然狂发722篇数学论文，技术路线大转向？",
    "url": "https://search.bilibili.com/all?keyword=OpenAI发布722篇数学论文",
    "track": "科技",
    "breaking": true,
@@ -2171,8 +2186,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:缅北电诈团伙窝点距中国口岸仅200米"
+  },
+  "电诈人员换董事长头像骗财务转1700万": {
+   "key": "电诈人员换董事长头像骗财务转1700万",
+   "title": "电诈人员换董事长头像骗财务转1700万",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦企业财务安全意识薄弱痛点，拆解AI换脸诈骗手法与防范攻略",
+   "hook_reason": "AI换脸+董事长头像骗走1700万，企业老板/财务必看的防骗警示",
+   "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E4%BA%BA%E5%91%98%E6%8D%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E5%A4%B4%E5%83%8F%E9%AA%97%E8%B4%A2%E5%8A%A1%E8%BD%AC1700%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:电诈人员换董事长头像骗财务转1700万"
+  },
+  "买labubu不如买香蕉": {
+   "key": "买labubu不如买香蕉",
+   "title": "“买Labubu不如买香蕉”",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从 Labubu 溢价与香蕉性价比的荒诞对比，切入 Z 世代消费降级与情绪消费的新趋势",
+   "hook_reason": "年轻人消费观反差话题，用香蕉嘲讽潮流玩具溢价，易引发共鸣讨论",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%B0Labubu%E4%B8%8D%E5%A6%82%E4%B9%B0%E9%A6%99%E8%95%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:买labubu不如买香蕉"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 12
+ "a_pushed_window": 13
 }
