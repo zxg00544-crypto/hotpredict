@@ -1789,6 +1789,19 @@
    "breaking": false,
    "event_id": "e:印度调查亚运会惨败事件",
    "batch_window": 5
+  },
+  {
+   "key": "博通计划为openai定制芯片项目融资逾500亿美元",
+   "title": "博通计划为OpenAI定制芯片项目融资逾500亿美元",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从芯片定制看AI算力军备竞赛，OpenAI如何通过资本布局突破算力瓶颈",
+   "hook_reason": "OpenAI×博通500亿芯片合作，AI算力版图再生巨变",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniumytp7779321.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:博通计划为openai定制芯片项目融资逾500亿美元",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -2174,12 +2187,12 @@
    "title": "1.8万字｜李录最新哥大交流：AI发展可能会伴随不止一轮繁荣与崩溃，今天这种巨大的市场分化，反而",
    "rating": "A",
    "score": 84.85,
-   "angle": "借李录哥大演讲，解析AI投资泡沫论的深层逻辑与投资启示",
-   "hook_reason": "投资教父李录警告AI繁荣或伴多轮崩溃，投资者必读",
+   "angle": "从李录'AI不止一轮繁荣崩溃'的预判切入，解读市场分化背后的投资逻辑与时代信号",
+   "hook_reason": "顶级投资人预判AI周期，1.8万字深度观点，戳中科技+投资双圈读者",
    "url": "https://weibo.com/1249424622/RlC6YpLTo",
    "track": "大咖发言",
    "breaking": false,
-   "event_id": "e:ai正在让大学文凭变成一张废纸ai创造营热搜ai创作激励大赛ai生活指南"
+   "event_id": "e:18万字李录最新哥大交流ai发展可能会伴随不止一轮繁荣与崩溃今天这种巨大的市场分"
   },
   "刚刚2026年诺贝尔化学奖揭晓网页链接网页链接": {
    "key": "刚刚2026年诺贝尔化学奖揭晓网页链接网页链接",
@@ -2305,12 +2318,12 @@
    "key": "gpt6andintelligentuiforeveryone",
    "title": "GPT‑6 and Intelligent UI for everyone",
    "rating": "A",
-   "score": 81.5,
-   "angle": "解读GPT-6技术突破与智能UI如何改变普通人使用AI的方式",
-   "hook_reason": "OpenAI正式发布GPT-6，智能UI人人可用，AI平民化里程碑",
+   "score": 75.9,
+   "angle": "从GPT-6的Intelligent UI切入，分析低门槛AI开发如何颠覆应用生态，对创业者和产品经理的实际机会",
+   "hook_reason": "GPT-6发布，Intelligent UI让普通人也能造APP，产品形态要变了",
    "url": "https://openai.com/index/gpt-6-for-everyone/",
    "track": "科技",
-   "breaking": true,
+   "breaking": false,
    "event_id": "e:gpt6andintelligentuiforeveryone"
   },
   "刚刚诺贝尔化学奖颁给镜像之谜破解者法日学者分享殊荣网页链接网页链接": {
@@ -2432,6 +2445,18 @@
    "track": "社会热点",
    "breaking": false,
    "event_id": "e:印度调查亚运会惨败事件"
+  },
+  "博通计划为openai定制芯片项目融资逾500亿美元": {
+   "key": "博通计划为openai定制芯片项目融资逾500亿美元",
+   "title": "博通计划为OpenAI定制芯片项目融资逾500亿美元",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从芯片定制看AI算力军备竞赛，OpenAI如何通过资本布局突破算力瓶颈",
+   "hook_reason": "OpenAI×博通500亿芯片合作，AI算力版图再生巨变",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniumytp7779321.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:博通计划为openai定制芯片项目融资逾500亿美元"
   }
  },
  "breaking_count": 10,
