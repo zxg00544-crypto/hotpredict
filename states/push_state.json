@@ -1479,19 +1479,6 @@
    "batch_window": 18
   },
   {
-   "key": "小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里",
-   "title": "小米澎程 N90 Max，长途高速续航有多强？ 看看视频，满油满电出发，上海至北京，1230公里",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "以长途实测为切入点，解读小米汽车三电技术实力与新能源续航焦虑现实",
-   "hook_reason": "小米汽车实测1230公里续航，结果能否颠覆续航焦虑？",
-   "url": "https://weibo.com/1749127163/RlzI5gE3N",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里",
-   "batch_window": 18
-  },
-  {
    "key": "降息加息为何都救不了日元",
    "title": "降息加息为何都救不了日元",
    "rating": "A",
@@ -1737,6 +1724,45 @@
    "breaking": true,
    "event_id": "e:市场资讯美国对伊朗潜在打击的规模和目标尚未确定",
    "batch_window": 3
+  },
+  {
+   "key": "dockeragent",
+   "title": "Docker Agent",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "Docker从容器工具到Agent平台的战略转型，解读对开发者的工作流变革与商业影响",
+   "hook_reason": "Docker跨界推出AI Agent，开发者生态大地震",
+   "url": "https://github.com/docker/docker-agent",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:dockeragent",
+   "batch_window": 4
+  },
+  {
+   "key": "metaandmicrosoftlimitemployeeuseofclaudeaitools",
+   "title": "Meta and Microsoft Limit Employee Use of Claude AI Tools",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "从企业数据安全与AI管控视角，解读Meta、微软为何对第三方大模型收紧权限",
+   "hook_reason": "两大科技巨头联手限制Claude使用，背后的安全考量引猜测",
+   "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:metaandmicrosoftlimitemployeeuseofclaude",
+   "batch_window": 4
+  },
+  {
+   "key": "wolfspeed将从五角大楼获得15亿美元的有条件贷款",
+   "title": "Wolfspeed将从五角大楼获得15亿美元的有条件贷款。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从国防供应链安全切入，解读$1.5B有条件贷款对Wolfspeed估值及国内SiC产业的分镜意义",
+   "hook_reason": "五角大楼15亿刀砸向碳化硅龙头，中美芯片博弈再添重码",
+   "url": "https://zhibo.sina.com.cn/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:wolfspeed将从五角大楼获得15亿美元的有条件贷款",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -1937,7 +1963,8 @@
   "调查显示周四eia报告预计美国上周天然气库存增加790亿立方英尺",
   "中国警方缅北电诈死灰复燃也不怕",
   "visamastercardmajorbanksfacingne2f896d52",
-  "网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真戳中了大家什么"
+  "网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真戳中了大家什么",
+  "小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2074,7 +2101,8 @@
   "e:调查显示周四eia报告预计美国上周天然气库存增加790亿立方英尺": "调查显示：周四 EIA 报告预计，美国上周天然气库存增加 790 亿立方英尺。",
   "e:中国警方缅北电诈死灰复燃也不怕": "中国警方：缅北电诈死灰复燃也不怕",
   "e:visamastercardmajorbanksfacingnewlitigat": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
-  "e:网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真": "网友称过节回老家掰玉米感觉现代化离自己很远，你也有过这样割裂感的体验吗？这种返璞归真戳中了大家什么？"
+  "e:网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真": "网友称过节回老家掰玉米感觉现代化离自己很远，你也有过这样割裂感的体验吗？这种返璞归真戳中了大家什么？",
+  "e:小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里": "小米澎程 N90 Max，长途高速续航有多强？ 看看视频，满油满电出发，上海至北京，1230公里"
  },
  "a_seen": {
   "南亚科技继续上调dram合同价": {
@@ -2117,12 +2145,12 @@
    "key": "18万字李录最新哥大交流ai发展可能会伴随不止一轮繁荣与崩溃今天这种巨大的市场分化反而",
    "title": "1.8万字｜李录最新哥大交流：AI发展可能会伴随不止一轮繁荣与崩溃，今天这种巨大的市场分化，反而",
    "rating": "A",
-   "score": 57.25,
-   "angle": "从“投资大佬预判AI有多轮牛熊”切入，对比2000年互联网泡沫与当前AI热潮",
-   "hook_reason": "李录深度预判AI周期：繁荣与崩溃不止一轮",
+   "score": 84.85,
+   "angle": "从芒格价值投资体系出发，解读AI繁荣-崩溃周期论对当下持仓/仓位策略的指导意义",
+   "hook_reason": "芒格合伙人+哥大讲台+AI泡沫预言，三个爆点叠满",
    "url": "https://weibo.com/1249424622/RlC6YpLTo",
    "track": "大咖发言",
-   "breaking": true,
+   "breaking": false,
    "event_id": "e:18万字李录最新哥大交流ai发展可能会伴随不止一轮繁荣与崩溃今天这种巨大的市场分"
   },
   "刚刚2026年诺贝尔化学奖揭晓网页链接网页链接": {
@@ -2292,8 +2320,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:市场资讯美国对伊朗潜在打击的规模和目标尚未确定"
+  },
+  "dockeragent": {
+   "key": "dockeragent",
+   "title": "Docker Agent",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "Docker从容器工具到Agent平台的战略转型，解读对开发者的工作流变革与商业影响",
+   "hook_reason": "Docker跨界推出AI Agent，开发者生态大地震",
+   "url": "https://github.com/docker/docker-agent",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:dockeragent"
+  },
+  "metaandmicrosoftlimitemployeeuseofclaudeaitools": {
+   "key": "metaandmicrosoftlimitemployeeuseofclaudeaitools",
+   "title": "Meta and Microsoft Limit Employee Use of Claude AI Tools",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "从企业数据安全与AI管控视角，解读Meta、微软为何对第三方大模型收紧权限",
+   "hook_reason": "两大科技巨头联手限制Claude使用，背后的安全考量引猜测",
+   "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:metaandmicrosoftlimitemployeeuseofclaude"
+  },
+  "wolfspeed将从五角大楼获得15亿美元的有条件贷款": {
+   "key": "wolfspeed将从五角大楼获得15亿美元的有条件贷款",
+   "title": "Wolfspeed将从五角大楼获得15亿美元的有条件贷款。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从国防供应链安全切入，解读$1.5B有条件贷款对Wolfspeed估值及国内SiC产业的分镜意义",
+   "hook_reason": "五角大楼15亿刀砸向碳化硅龙头，中美芯片博弈再添重码",
+   "url": "https://zhibo.sina.com.cn/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:wolfspeed将从五角大楼获得15亿美元的有条件贷款"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
