@@ -1466,19 +1466,6 @@
    "batch_window": 16
   },
   {
-   "key": "余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机市场有多大影响",
-   "title": "余承东称华为将不得不涨价，存储元器件大涨使每部手机增超两百美元成本，会对消费者及手机市场有多大影响？",
-   "rating": "A",
-   "score": 84.5,
-   "angle": "余承东发言切入，分析存储成本暴涨下华为的定价策略及对消费者影响",
-   "hook_reason": "华为官宣涨价，你的手机要更贵了？",
-   "url": "https://www.zhihu.com/question/2091102378480985803",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机",
-   "batch_window": 18
-  },
-  {
    "key": "降息加息为何都救不了日元",
    "title": "降息加息为何都救不了日元",
    "rating": "A",
@@ -1763,6 +1750,45 @@
    "breaking": true,
    "event_id": "e:wolfspeed将从五角大楼获得15亿美元的有条件贷款",
    "batch_window": 4
+  },
+  {
+   "key": "themathocalypse",
+   "title": "The Mathocalypse",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "解析Scott Aaronson博客核心观点，解读其对数学/计算领域的颠覆性预判",
+   "hook_reason": "图灵奖得主级学者发声，标题引爆",
+   "url": "https://scottaaronson.blog/?p=10169",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:themathocalypse",
+   "batch_window": 5
+  },
+  {
+   "key": "博通着手安排逾500亿美元融资用于openai购买芯片",
+   "title": "博通着手安排逾500亿美元融资，用于OpenAI购买芯片。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从融资规模看AI芯片战争升级，博通如何分羹万亿算力市场",
+   "hook_reason": "OpenAI豪掷500亿美金抢芯片，AI军备战白热化",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniumytr4538925.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:博通着手安排逾500亿美元融资用于openai购买芯片",
+   "batch_window": 5
+  },
+  {
+   "key": "印度调查亚运会惨败事件",
+   "title": "印度调查亚运会“惨败”事件",
+   "rating": "A",
+   "score": 80.95,
+   "angle": "从印度亚运惨败看新兴体育大国困境，可切入印度体育改革失败与民族情绪反思",
+   "hook_reason": "国家荣誉受挫+国际赛事调查，引发民族情绪和体育迷关注",
+   "url": "https://www.toutiao.com/trending/7693145496223186963/",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:印度调查亚运会惨败事件",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -1964,7 +1990,8 @@
   "中国警方缅北电诈死灰复燃也不怕",
   "visamastercardmajorbanksfacingne2f896d52",
   "网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真戳中了大家什么",
-  "小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里"
+  "小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里",
+  "余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机市场有多大影响"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2102,7 +2129,8 @@
   "e:中国警方缅北电诈死灰复燃也不怕": "中国警方：缅北电诈死灰复燃也不怕",
   "e:visamastercardmajorbanksfacingnewlitigat": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
   "e:网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真": "网友称过节回老家掰玉米感觉现代化离自己很远，你也有过这样割裂感的体验吗？这种返璞归真戳中了大家什么？",
-  "e:小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里": "小米澎程 N90 Max，长途高速续航有多强？ 看看视频，满油满电出发，上海至北京，1230公里"
+  "e:小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里": "小米澎程 N90 Max，长途高速续航有多强？ 看看视频，满油满电出发，上海至北京，1230公里",
+  "e:余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机": "余承东称华为将不得不涨价，存储元器件大涨使每部手机增超两百美元成本，会对消费者及手机市场有多大影响？"
  },
  "a_seen": {
   "南亚科技继续上调dram合同价": {
@@ -2146,12 +2174,12 @@
    "title": "1.8万字｜李录最新哥大交流：AI发展可能会伴随不止一轮繁荣与崩溃，今天这种巨大的市场分化，反而",
    "rating": "A",
    "score": 84.85,
-   "angle": "从芒格价值投资体系出发，解读AI繁荣-崩溃周期论对当下持仓/仓位策略的指导意义",
-   "hook_reason": "芒格合伙人+哥大讲台+AI泡沫预言，三个爆点叠满",
+   "angle": "借李录哥大演讲，解析AI投资泡沫论的深层逻辑与投资启示",
+   "hook_reason": "投资教父李录警告AI繁荣或伴多轮崩溃，投资者必读",
    "url": "https://weibo.com/1249424622/RlC6YpLTo",
    "track": "大咖发言",
    "breaking": false,
-   "event_id": "e:18万字李录最新哥大交流ai发展可能会伴随不止一轮繁荣与崩溃今天这种巨大的市场分"
+   "event_id": "e:ai正在让大学文凭变成一张废纸ai创造营热搜ai创作激励大赛ai生活指南"
   },
   "刚刚2026年诺贝尔化学奖揭晓网页链接网页链接": {
    "key": "刚刚2026年诺贝尔化学奖揭晓网页链接网页链接",
@@ -2325,12 +2353,12 @@
    "key": "dockeragent",
    "title": "Docker Agent",
    "rating": "A",
-   "score": 75.75,
-   "angle": "Docker从容器工具到Agent平台的战略转型，解读对开发者的工作流变革与商业影响",
-   "hook_reason": "Docker跨界推出AI Agent，开发者生态大地震",
+   "score": 76.5,
+   "angle": "Docker推出Agent工具的底层逻辑：容器厂商抢滩AI代理入口，开发者工作流将被重写",
+   "hook_reason": "Docker做Agent了，AI时代容器入口变了吗",
    "url": "https://github.com/docker/docker-agent",
    "track": "科技",
-   "breaking": true,
+   "breaking": false,
    "event_id": "e:dockeragent"
   },
   "metaandmicrosoftlimitemployeeuseofclaudeaitools": {
@@ -2356,8 +2384,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:wolfspeed将从五角大楼获得15亿美元的有条件贷款"
+  },
+  "themathocalypse": {
+   "key": "themathocalypse",
+   "title": "The Mathocalypse",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "解析Scott Aaronson博客核心观点，解读其对数学/计算领域的颠覆性预判",
+   "hook_reason": "图灵奖得主级学者发声，标题引爆",
+   "url": "https://scottaaronson.blog/?p=10169",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:themathocalypse"
+  },
+  "博通着手安排逾500亿美元融资用于openai购买芯片": {
+   "key": "博通着手安排逾500亿美元融资用于openai购买芯片",
+   "title": "博通着手安排逾500亿美元融资，用于OpenAI购买芯片。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从融资规模看AI芯片战争升级，博通如何分羹万亿算力市场",
+   "hook_reason": "OpenAI豪掷500亿美金抢芯片，AI军备战白热化",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniumytr4538925.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:博通着手安排逾500亿美元融资用于openai购买芯片"
+  },
+  "甲骨文博通正寻求债务融资用于ai芯片资金安排": {
+   "key": "甲骨文博通正寻求债务融资用于ai芯片资金安排",
+   "title": "甲骨文、博通正寻求债务融资，用于AI芯片资金安排。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦巨头融资抢AI芯片赛道，解读背后资本布局意图",
+   "hook_reason": "巨头豪赌AI芯片，借债抢滩万亿赛道",
+   "url": "https://zhibo.sina.com.cn/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:博通着手安排逾500亿美元融资用于openai购买芯片"
+  },
+  "印度调查亚运会惨败事件": {
+   "key": "印度调查亚运会惨败事件",
+   "title": "印度调查亚运会“惨败”事件",
+   "rating": "A",
+   "score": 80.95,
+   "angle": "从印度亚运惨败看新兴体育大国困境，可切入印度体育改革失败与民族情绪反思",
+   "hook_reason": "国家荣誉受挫+国际赛事调查，引发民族情绪和体育迷关注",
+   "url": "https://www.toutiao.com/trending/7693145496223186963/",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:印度调查亚运会惨败事件"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
