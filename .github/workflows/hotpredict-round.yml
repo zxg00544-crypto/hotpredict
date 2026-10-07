@@ -1,4 +1,4 @@
-﻿name: hotpredict-round
+name: hotpredict-round
 
 on:
   schedule:
@@ -52,10 +52,11 @@ jobs:
           git config user.email "hotpredict-actions@users.noreply.github.com"
           # 本轮产出先落临时目录：旧写法 git pull --rebase 撞同名状态文件必冲突（2026-10-04 21:14 run 61 失败根因）
           STATE_TMP="$(mktemp -d)"
-          mkdir -p "$STATE_TMP/states" "$STATE_TMP/日报" "$STATE_TMP/看板"
+          mkdir -p "$STATE_TMP/states" "$STATE_TMP/日报" "$STATE_TMP/看板" "$STATE_TMP/大V"
           cp -f -- states/*.json "$STATE_TMP/states/" 2>/dev/null || true
           cp -rf -- 日报/. "$STATE_TMP/日报/" 2>/dev/null || true
           cp -rf -- 看板/. "$STATE_TMP/看板/" 2>/dev/null || true
+          cp -rf -- 大V/. "$STATE_TMP/大V/" 2>/dev/null || true
           # 并发竞争改写法：取最新上游 -> 重放本轮状态 -> 直接推，不 rebase。失败重试 3 次，宁可后写覆盖不丢轮
           for i in 1 2 3; do
             git fetch origin
@@ -63,7 +64,10 @@ jobs:
             cp -f -- "$STATE_TMP"/states/*.json states/ 2>/dev/null || true
             cp -rf -- "$STATE_TMP"/日报/. 日报/ 2>/dev/null || true
             cp -rf -- "$STATE_TMP"/看板/. 看板/ 2>/dev/null || true
-            git add -f -- 日报 看板 || true
+            cp -rf -- "$STATE_TMP"/大V/. 大V/ 2>/dev/null || true
+            git add -f -- 日报 || true
+            git add -f -- 看板 || true
+            git add -f -- 大V || true
             if ls states/*.json >/dev/null 2>&1; then git add -f -- states/*.json; fi
             if git diff --cached --quiet; then
               echo "state already upstream, nothing to push"

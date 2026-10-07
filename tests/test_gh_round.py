@@ -136,6 +136,15 @@ class TestWorkflowContract(unittest.TestCase):
         self.assertIn("git add", self.text)
         self.assertIn("states", self.text)
 
+    def test_commit_step_covers_vv(self):
+        # 阶段一：大V/ 产出必须入库——暂存、重放、add 三处都缺一不可
+        self.assertIn("大V", self.text)
+        self.assertGreaterEqual(self.text.count("大V"), 3)
+        self.assertNotIn("git add -f -- 日报 看板", self.text)   # 禁止多路径合并 add（原子失败回归）
+        self.assertIn("git add -f -- 大V || true", self.text)
+        self.assertIn("git add -f -- 日报 || true", self.text)
+        self.assertIn("git add -f -- 看板 || true", self.text)
+
 
 class TestTz(unittest.TestCase):
     def test_set_tz_is_safe_everywhere(self):

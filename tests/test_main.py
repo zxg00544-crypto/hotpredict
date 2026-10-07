@@ -102,5 +102,88 @@ class TestMain(unittest.TestCase):
                 st = _json.load(fh)
             self.assertEqual(len(st["pushed_events"]), 1)    # 只登记一个事件
             self.assertEqual(len(st["pushed"]), 1)
+    @patch("main.notify", return_value="ok")
+    @patch("main.judge_topic")
+    @patch("main.get_collectors")
+    def test_run_round_writes_vv_board_and_pushes(self, m_col, m_judge, m_notify):
+        """阶段一（2026-10-05）：大V动向独立板块出文件 + 钉钉推送 1 次。
+        2 条同 uid + 1 条异 uid，验证 select_top/plan_vv_push 全链路。"""
+        from datetime import datetime as _dt
+        from collectors.base import Signal, topic_key
+        now = _dt.now().isoformat()
+        m_judge.return_value = {"rating": "A", "track": "AI/科技工具", "hook_reason": "r",
+                                "genre_score": 9, "fit_score": 8, "angle": "角度",
+                                "act_now": True, "risk": "低", "model": "mock"}
+
+        def fake_collector(cfg):
+            return [
+                Signal(topic_key=topic_key("大V微博甲"), source="weibo_v",
+                       title="甲博文一", url="https://weibo.com/111/bA",
+                       heat=300, rank=1, rank_delta=0, engagement=100,
+                       author_weight=0.9, fetched_at=now),
+                Signal(topic_key=topic_key("大V微博甲2"), source="weibo_v",
+                       title="甲博文二", url="https://weibo.com/111/bB",
+                       heat=200, rank=2, rank_delta=0, engagement=80,
+                       author_weight=0.9, fetched_at=now),
+                Signal(topic_key=topic_key("大V微博乙"), source="weibo_v",
+                       title="乙博文一", url="https://weibo.com/222/bC",
+                       heat=150, rank=3, rank_delta=0, engagement=60,
+                       author_weight=0.8, fetched_at=now),
+            ]
+        m_col.return_value = [fake_collector]
+
+        with tempfile.TemporaryDirectory() as tmp:
+            cfg = load_cfg("config.yaml")
+            cfg["db_path"] = os.path.join(tmp, "t.db")
+            cfg["out_dir"] = tmp
+            cfg["use_llm"] = False
+            cfg["dry_run"] = True
+            cfg["notify"] = {}
+            res = run_round(cfg)
+            self.assertEqual(res["status"], "ok")
+            self.assertTrue(res["vv_path"])
+            self.assertTrue(os.path.exists(res["vv_path"]))
+            with open(res["vv_path"], encoding="utf-8") as fh:
+                vv = fh.read()
+            self.assertIn("大V动向", vv)
+            self.assertIn("| 1 |", vv)
+            self.assertIn("vv", [p["kind"] for p in res["push"]])
+            vv_state = os.path.join(tmp, "states", "vv_push_state.json")
+            self.assertTrue(os.path.exists(vv_state))
+            with open(vv_state, encoding="utf-8") as fh:
+                st = json.load(fh)
+            self.assertEqual(st["vv_count"], 1)
+
+    @patch("main.notify", return_value="ok")
+    @patch("main.judge_topic")
+    @patch("main.get_collectors", return_value=[])
+    def test_run_round_empty_vv_writes_placeholder_no_push(self, m_col, m_judge, m_notify):
+        """阶段一（2026-10-05）：无大V信号 → 写占位文件、不推 vv。"""
+        m_judge.return_value = {"rating": "A", "track": "AI/科技工具", "hook_reason": "r",
+                                "genre_score": 9, "fit_score": 8, "angle": "角度",
+                                "act_now": True, "risk": "低", "model": "mock"}
+        with tempfile.TemporaryDirectory() as tmp:
+            cfg = load_cfg("config.yaml")
+            cfg["db_path"] = os.path.join(tmp, "t.db")
+            cfg["out_dir"] = tmp
+            cfg["use_llm"] = False
+            cfg["dry_run"] = True
+            cfg["notify"] = {}
+            res = run_round(cfg)
+            self.assertEqual(res["status"], "ok")
+            self.assertTrue(res["vv_path"])
+            self.assertTrue(os.path.exists(res["vv_path"]))
+            with open(res["vv_path"], encoding="utf-8") as fh:
+                vv = fh.read()
+            self.assertIn("今日暂无大V博文", vv)
+            self.assertNotIn("vv", [p["kind"] for p in res["push"]])
+            vv_state = os.path.join(tmp, "states", "vv_push_state.json")
+            if os.path.exists(vv_state):
+                with open(vv_state, encoding="utf-8") as fh:
+                    st = json.load(fh)
+                self.assertEqual(st.get("vv_count", 0), 0)
+            else:
+                self.assertFalse(os.path.exists(vv_state))
+
 if __name__ == "__main__":
     unittest.main()

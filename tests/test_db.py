@@ -21,9 +21,13 @@ class TestDB(unittest.TestCase):
         self.assertEqual(save_signals(self.conn, [mk(src="weibo")]), 1)
 
     def test_history_groups_by_round_summing_engagement(self):
-        save_signals(self.conn, [mk(eng=100, ts="2026-09-28T10:00:00"),
-                                 mk(src="weibo", eng=50, ts="2026-09-28T10:00:00"),
-                                 mk(eng=300, ts="2026-09-28T12:00:00")])
+        # 防flake：默认窗口168h，写死绝对日期会在 7 天后滚出窗口（2026-10-05 复现）；改用相对时间，语义不变
+        base = datetime.datetime.now() - datetime.timedelta(hours=6)
+        t1 = base.isoformat()
+        t2 = (base + datetime.timedelta(hours=2)).isoformat()
+        save_signals(self.conn, [mk(eng=100, ts=t1),
+                                 mk(src="weibo", eng=50, ts=t1),
+                                 mk(eng=300, ts=t2)])
         h = history(self.conn, "ai模型")
         self.assertEqual(len(h), 2)
         self.assertEqual(h[0]["engagement"], 150)

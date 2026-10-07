@@ -12,6 +12,7 @@ from render.report import render_daily
 from render.board import render_board
 from render.notifier import notify
 from render.push_policy import load_state, save_state, plan_push
+from render.vv_board import vv_cfg, fetch_rows, select_top, render_vv, plan_vv_push
 from llm_judge.cluster import assign_event_ids
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -131,6 +132,22 @@ def run_round(cfg: dict) -> dict:
     with open(board_path, "w", encoding="utf-8") as f:
         f.write(board)
 
+    # 阶段一（2026-10-05 用户批准）：大V动向独立板块，只读，不参与评分/推送管道。
+    vv_conf = vv_cfg(cfg)
+    vv_items, vv_out_path = [], ""
+    try:
+        vv_items = select_top(fetch_rows(conn, vv_conf["window_hours"]), vv_conf)
+        vv_out_path = os.path.join(out_dir, "大V", "vv-daily.md")
+        os.makedirs(os.path.dirname(vv_out_path), exist_ok=True)
+        with open(vv_out_path, "w", encoding="utf-8") as f:
+            f.write(render_vv(vv_items, date_str, {
+                "window_hours": vv_conf["window_hours"],
+                "per_author": vv_conf["per_author"],
+                "sources": ["weibo_v"]}))
+    except Exception as e:
+        failed.append(f"vv_board: {type(e).__name__}")
+        vv_items, vv_out_path = [], ""
+
     pushes = [{"kind": k, "result": notify(t, c, cfg)}
               for k, t, c in plan_push(st, date_str, fast, trend,
                                        degraded, failed, board_path,
@@ -139,9 +156,21 @@ def run_round(cfg: dict) -> dict:
                                        .get("fast", {}).get("breaking", {})
                                        .get("max_push_per_day", 6))]
     save_state(state_path, st)
+
+    vv_state_path = os.path.join(out_dir, "states", "vv_push_state.json")
+    try:
+        vst = load_state(vv_state_path)
+        ok, vv_title, vv_content = plan_vv_push(
+            vv_items[:vv_conf["push_top"]], vst, date_str, vv_conf)
+        if ok:
+            pushes.append({"kind": "vv", "result": notify(vv_title, vv_content, cfg)})
+        save_state(vv_state_path, vst)
+    except Exception as e:
+        failed.append(f"vv_push: {type(e).__name__}")
     conn.close()
     return {"status": "ok", "date": date_str, "report_path": report_path,
-            "board_path": board_path, "fast": len(fast), "trend": len(trend),
+            "board_path": board_path, "vv_path": vv_out_path,
+            "fast": len(fast), "trend": len(trend),
             "signals": len(signals), "failed_sources": failed,
             "degraded": degraded, "push": pushes}
 
