@@ -1609,19 +1609,6 @@
    "batch_window": 1
   },
   {
-   "key": "showhnbigwordspageturnanyscreeni757ef3a6",
-   "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "从URL即应用的极简产品哲学切入，解析Bigwords.page如何用一句话解决一个普遍需求",
-   "hook_reason": "URL即应用、手机变电子屏，极简创意直击产品思维痛点",
-   "url": "https://bigwords.page/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:showhnbigwordspageturnanyscreenintoasign",
-   "batch_window": 2
-  },
-  {
    "key": "美联储会议纪要纽约联储代表财政部干预了外汇市场",
    "title": "美联储会议纪要：纽约联储代表财政部干预了外汇市场。",
    "rating": "A",
@@ -1802,6 +1789,19 @@
    "breaking": true,
    "event_id": "e:博通计划为openai定制芯片项目融资逾500亿美元",
    "batch_window": 5
+  },
+  {
+   "key": "美联储10月维持利率不变的概率为806",
+   "title": "美联储10月维持利率不变的概率为80.6%",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "解读维持不变预期背后的政策逻辑，及对中国资本市场和楼市的传导路径",
+   "hook_reason": "美联储利率决策直接牵动全球资产定价，80%概率维持不变的消息对投资者高度相关",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniunezm7655922.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储10月维持利率不变的概率为806",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -2004,7 +2004,8 @@
   "visamastercardmajorbanksfacingne2f896d52",
   "网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真戳中了大家什么",
   "小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里",
-  "余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机市场有多大影响"
+  "余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机市场有多大影响",
+  "showhnbigwordspageturnanyscreeni757ef3a6"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2143,7 +2144,8 @@
   "e:visamastercardmajorbanksfacingnewlitigat": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
   "e:网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真": "网友称过节回老家掰玉米感觉现代化离自己很远，你也有过这样割裂感的体验吗？这种返璞归真戳中了大家什么？",
   "e:小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里": "小米澎程 N90 Max，长途高速续航有多强？ 看看视频，满油满电出发，上海至北京，1230公里",
-  "e:余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机": "余承东称华为将不得不涨价，存储元器件大涨使每部手机增超两百美元成本，会对消费者及手机市场有多大影响？"
+  "e:余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机": "余承东称华为将不得不涨价，存储元器件大涨使每部手机增超两百美元成本，会对消费者及手机市场有多大影响？",
+  "e:showhnbigwordspageturnanyscreenintoasign": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app"
  },
  "a_seen": {
   "南亚科技继续上调dram合同价": {
@@ -2319,8 +2321,8 @@
    "title": "GPT‑6 and Intelligent UI for everyone",
    "rating": "A",
    "score": 75.9,
-   "angle": "从GPT-6的Intelligent UI切入，分析低门槛AI开发如何颠覆应用生态，对创业者和产品经理的实际机会",
-   "hook_reason": "GPT-6发布，Intelligent UI让普通人也能造APP，产品形态要变了",
+   "angle": "从AI民主化视角切入，探讨智能UI如何降低开发门槛并重塑创业生态",
+   "hook_reason": "OpenAI发布GPT-6，「人人可用」引爆开发者圈层情绪",
    "url": "https://openai.com/index/gpt-6-for-everyone/",
    "track": "科技",
    "breaking": false,
@@ -2366,9 +2368,9 @@
    "key": "dockeragent",
    "title": "Docker Agent",
    "rating": "A",
-   "score": 76.5,
-   "angle": "Docker推出Agent工具的底层逻辑：容器厂商抢滩AI代理入口，开发者工作流将被重写",
-   "hook_reason": "Docker做Agent了，AI时代容器入口变了吗",
+   "score": 75.85,
+   "angle": "Docker Agent 功能解析+对开发者工作流的实际影响，结合AI代理趋势分析其市场定位",
+   "hook_reason": "Docker官方推出Agent工具，开发者生态重大升级",
    "url": "https://github.com/docker/docker-agent",
    "track": "科技",
    "breaking": false,
@@ -2457,8 +2459,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:博通计划为openai定制芯片项目融资逾500亿美元"
+  },
+  "美联储10月维持利率不变的概率为806": {
+   "key": "美联储10月维持利率不变的概率为806",
+   "title": "美联储10月维持利率不变的概率为80.6%",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "解读维持不变预期背后的政策逻辑，及对中国资本市场和楼市的传导路径",
+   "hook_reason": "美联储利率决策直接牵动全球资产定价，80%概率维持不变的消息对投资者高度相关",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniunezm7655922.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储10月维持利率不变的概率为806"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
