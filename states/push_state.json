@@ -1310,19 +1310,6 @@
    "batch_window": 8
   },
   {
-   "key": "新一轮油价调整时间定了",
-   "title": "新一轮油价调整时间定了",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "从调价窗口切入，分析本轮涨幅对普通车主及物流成本的实际影响，附带出行省钱攻略",
-   "hook_reason": "油价关乎每位车主钱包，时效强且身份高度相关",
-   "url": "https://www.toutiao.com/trending/7693613365381513755/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:新一轮油价调整时间定了",
-   "batch_window": 9
-  },
-  {
    "key": "anyps5portps5binariestopcwithout86e84dee",
    "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
    "rating": "A",
@@ -1360,6 +1347,19 @@
    "breaking": true,
    "event_id": "e:中国9月外汇储备3400251亿美元前值343833亿美元",
    "batch_window": 10
+  },
+  {
+   "key": "只要在导弹射程内我肯定能消灭你",
+   "title": "“只要在导弹射程内我肯定能消灭你”",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "解读发言背后的地缘信号，对比各方反应看局势走向",
+   "hook_reason": "军事威慑言论引爆全网，强冲突+情绪共鸣",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%AA%E8%A6%81%E5%9C%A8%E5%AF%BC%E5%BC%B9%E5%B0%84%E7%A8%8B%E5%86%85%E6%88%91%E8%82%AF%E5%AE%9A%E8%83%BD%E6%B6%88%E7%81%AD%E4%BD%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:只要在导弹射程内我肯定能消灭你",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -1534,7 +1534,8 @@
   "如何评价deepseekharness桌面版正式发布",
   "runqwen38flashnext125bonconsumer8b81bbb3",
   "europesnewroboticsunicorngermany50757c49",
-  "缅北白家涉诈超290亿"
+  "缅北白家涉诈超290亿",
+  "新一轮油价调整时间定了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1645,7 +1646,8 @@
   "e:如何评价deepseekharness桌面版正式发布": "如何评价DeepSeek Harness桌面版正式发布？",
   "e:runqwen38flashnext125bonconsumerhardware": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
   "e:europesnewroboticsunicorngermanysrobcohi": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-  "e:缅北白家涉诈超290亿": "缅北白家涉诈超290亿"
+  "e:缅北白家涉诈超290亿": "缅北白家涉诈超290亿",
+  "e:新一轮油价调整时间定了": "新一轮油价调整时间定了"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -2043,8 +2045,20 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:中国9月外汇储备3400251亿美元前值343833亿美元"
+  },
+  "只要在导弹射程内我肯定能消灭你": {
+   "key": "只要在导弹射程内我肯定能消灭你",
+   "title": "“只要在导弹射程内我肯定能消灭你”",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "解读发言背后的地缘信号，对比各方反应看局势走向",
+   "hook_reason": "军事威慑言论引爆全网，强冲突+情绪共鸣",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%AA%E8%A6%81%E5%9C%A8%E5%AF%BC%E5%BC%B9%E5%B0%84%E7%A8%8B%E5%86%85%E6%88%91%E8%82%AF%E5%AE%9A%E8%83%BD%E6%B6%88%E7%81%AD%E4%BD%A0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:只要在导弹射程内我肯定能消灭你"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
