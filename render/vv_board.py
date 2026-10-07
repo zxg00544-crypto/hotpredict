@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """大V动向独立板块（阶段一，2026-10-05 用户批准）。
 
-只读 signals 表出独立文件 + 钉钉 Top3，不参与评分/推送管道（不改
+只读 signals 表出独立文件 + 钉钉 TopN（push_top），不参与评分/推送管道（不改
 scoring/buckets/push_policy）。筛选：近 window_hours 内大V源 → heat 降序
 → 每人（微博 uid）≤3 → url 去重 → Top N。节流三闸：同 sig 不重推、
 每日 max_push_per_day 次上限、跨日重置。
@@ -17,7 +17,7 @@ from email.utils import parsedate_to_datetime
 from urlclean import clean_url
 
 DEFAULTS = {"window_hours": 24, "per_author": 3, "file_top": 10,
-            "push_top": 3, "max_push_per_day": 3}
+            "push_top": 10, "max_push_per_day": 3}
 VV_SOURCES = ("weibo_v",)
 EMPTY_MSG = "今日暂无大V博文"
 
@@ -151,4 +151,4 @@ def plan_vv_push(items: list, state: dict, date_str: str, c: dict) -> tuple:
             lines.append(str(it["url"]))
     state["vv_sig"] = sig
     state["vv_count"] = int(state.get("vv_count") or 0) + 1
-    return True, "大V动向 Top3", "\n".join(lines)
+    return True, f"大V动向 Top{len(items)}", "\n".join(lines)

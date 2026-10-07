@@ -40,7 +40,7 @@ class TestVVConfig(unittest.TestCase):
         self.assertEqual(c["file_top"], 5)
         self.assertEqual(c["window_hours"], 24)
         self.assertEqual(c["per_author"], 3)
-        self.assertEqual(c["push_top"], 3)
+        self.assertEqual(c["push_top"], 10)
         self.assertEqual(c["max_push_per_day"], 3)
 
 
