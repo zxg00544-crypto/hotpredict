@@ -959,19 +959,6 @@
    "batch_window": 17
   },
   {
-   "key": "nobelprizeinphysicsgoestofrancishalzen",
-   "title": "Nobel Prize in Physics goes to Francis Halzen",
-   "rating": "A",
-   "score": 75.95,
-   "angle": "深度解读Francis Halzen为何获诺奖、其研究意义、以及对中国科研的启示",
-   "hook_reason": "诺贝尔物理学奖突发发布，登顶热搜榜第一",
-   "url": "https://www.nobelprize.org/prizes/physics/2026/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:nobelprizeinphysicsgoestofrancishalzen",
-   "batch_window": 18
-  },
-  {
    "key": "当你意识到来不及写国庆作业时",
    "title": "当你意识到来不及写国庆作业时",
    "rating": "A",
@@ -1438,6 +1425,19 @@
    "breaking": true,
    "event_id": "e:ai开始自己造ai了人类的角色正在改变ai创造营热搜ai创作激励大赛ai生活",
    "batch_window": 15
+  },
+  {
+   "key": "9年陪伴今天见证了历史祝贺宇树祝贺王兴兴也祝福更多要去穿透天花板的新一代创业者",
+   "title": "9 年陪伴，今天见证了历史。 祝贺宇树，祝贺王兴兴。 也祝福更多要去“穿透天花板”的新一代创业者",
+   "rating": "A",
+   "score": 49.85,
+   "angle": "以'穿透天花板'为核心意象，书写中国硬科技创业者9年孤独坚守与技术突围",
+   "hook_reason": "9年坚守终见历史时刻，中国机器人公司突破性瞬间",
+   "url": "https://weibo.com/1642362784/Re5s2esXg",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:9年陪伴今天见证了历史祝贺宇树祝贺王兴兴也祝福更多要去穿透天花板的新一代创业者",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -1617,7 +1617,8 @@
   "只要在导弹射程内我肯定能消灭你",
   "缅北赚钱缅北花一分别想带回家",
   "缅北电诈犯杀陌生人祭天明珍珍死刑前微笑接受采访为什么这些电诈犯这么嚣张背后可能存在哪些保护伞",
-  "thecostofliesamineserverstory"
+  "thecostofliesamineserverstory",
+  "nobelprizeinphysicsgoestofrancishalzen"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1733,7 +1734,8 @@
   "e:只要在导弹射程内我肯定能消灭你": "“只要在导弹射程内我肯定能消灭你”",
   "e:缅北赚钱缅北花一分别想带回家": "“缅北赚钱缅北花 一分别想带回家”",
   "e:缅北电诈犯杀陌生人祭天明珍珍死刑前微笑接受采访为什么这些电诈犯这么嚣张背后可能存": "缅北电诈犯杀陌生人祭天，明珍珍死刑前微笑接受采访，为什么这些电诈犯这么嚣张？背后可能存在哪些保护伞？",
-  "e:thecostofliesamineserverstory": "The cost of lies: A Mineserver story"
+  "e:thecostofliesamineserverstory": "The cost of lies: A Mineserver story",
+  "e:nobelprizeinphysicsgoestofrancishalzen": "Nobel Prize in Physics goes to Francis Halzen"
  },
  "a_seen": {
   "王皓遭辱骂拍照取证其妻子发声不理解竞技体育怎么变这样了怎样看待这一现象骂人者会受到处罚吗": {
@@ -2245,8 +2247,8 @@
    "title": "AI行业最大的护城河，根本不是大模型！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周鸿祎",
    "rating": "A",
    "score": 49.8,
-   "angle": "从周鸿祎观点切入，剖析AI真正护城河，引发行业大讨论",
-   "hook_reason": "周鸿祎反常识观点，AI从业者必看",
+   "angle": "以周鸿祎观点为切入点，拆解AI真正壁垒何在，引发从业者思考",
+   "hook_reason": "周鸿祎反常识断言，挑战AI圈共识，引发行业内卷焦虑",
    "url": "https://weibo.com/1708942053/Rlow0vG8V",
    "track": "大咖发言",
    "breaking": true,
@@ -2263,8 +2265,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:ai开始自己造ai了人类的角色正在改变ai创造营热搜ai创作激励大赛ai生活"
+  },
+  "9年陪伴今天见证了历史祝贺宇树祝贺王兴兴也祝福更多要去穿透天花板的新一代创业者": {
+   "key": "9年陪伴今天见证了历史祝贺宇树祝贺王兴兴也祝福更多要去穿透天花板的新一代创业者",
+   "title": "9 年陪伴，今天见证了历史。 祝贺宇树，祝贺王兴兴。 也祝福更多要去“穿透天花板”的新一代创业者",
+   "rating": "A",
+   "score": 49.85,
+   "angle": "以'穿透天花板'为核心意象，书写中国硬科技创业者9年孤独坚守与技术突围",
+   "hook_reason": "9年坚守终见历史时刻，中国机器人公司突破性瞬间",
+   "url": "https://weibo.com/1642362784/Re5s2esXg",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:9年陪伴今天见证了历史祝贺宇树祝贺王兴兴也祝福更多要去穿透天花板的新一代创业者"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 15
+ "a_pushed_window": 16
 }
