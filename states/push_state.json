@@ -1479,19 +1479,6 @@
    "batch_window": 18
   },
   {
-   "key": "中国警方缅北电诈死灰复燃也不怕",
-   "title": "中国警方：缅北电诈死灰复燃也不怕",
-   "rating": "A",
-   "score": 85.5,
-   "angle": "警方强势回应电诈反弹，展现执法决心，可结合民生视角写",
-   "hook_reason": "反诈+硬核警方表态，民众安全感直接相关",
-   "url": "https://www.toutiao.com/trending/7692945943666249259/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:中国警方缅北电诈死灰复燃也不怕",
-   "batch_window": 18
-  },
-  {
    "key": "网友称过节回老家掰玉米感觉现代化离自己很远你也有过这样割裂感的体验吗这种返璞归真戳中了大家什么",
    "title": "网友称过节回老家掰玉米感觉现代化离自己很远，你也有过这样割裂感的体验吗？这种返璞归真戳中了大家什么？",
    "rating": "A",
@@ -1633,6 +1620,45 @@
    "breaking": true,
    "event_id": "e:美国国务卿鲁比奥尽管情绪有时会让美国与欧洲之间的友好纽带承压但绝不能任由其断",
    "batch_window": 0
+  },
+  {
+   "key": "visamastercardmajorbanksfacingne2f896d52",
+   "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "反垄断诉讼直击支付产业链利益分配，揭秘商家被割多少刀、费率如何传导至消费者",
+   "hook_reason": "全球支付巨头遭反垄断重拳，商家消费者钱包受直接影响",
+   "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:visamastercardmajorbanksfacingnewlitigat",
+   "batch_window": 1
+  },
+  {
+   "key": "githubincidentwithgitoperationsp877d6a0a",
+   "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
+   "rating": "A",
+   "score": 71.36,
+   "angle": "从开发者视角切入，分析故障影响及应急方案",
+   "hook_reason": "GitHub核心服务突发故障，全球开发者宕机",
+   "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:githubincidentwithgitoperationspullreque",
+   "batch_window": 1
+  },
+  {
+   "key": "缅方从一直通报无中国人死亡到与中方联合成立调查组缅方的态度转变是从什么时候开始的受哪些因素驱动",
+   "title": "缅方从一直通报无中国人死亡到与中方联合成立调查组，缅方的态度转变是从什么时候开始的？受哪些因素驱动？",
+   "rating": "A",
+   "score": 43.3,
+   "angle": "追踪缅甸态度转变的时间节点和驱动因素，深挖背后外交博弈与利益交换",
+   "hook_reason": "缅甸态度突然转向，背后谁在推动？牵动无数海外华人神经",
+   "url": "https://www.zhihu.com/question/2090769204127298873",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:缅方从一直通报无中国人死亡到与中方联合成立调查组缅方的态度转变是从什么时候开始的",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -1830,7 +1856,8 @@
   "幸福都是奋斗出来的",
   "摩根士丹利建议做空欧元瑞郎因欧元风险上升",
   "手机价格在涨掏钱的理由没涨",
-  "调查显示周四eia报告预计美国上周天然气库存增加790亿立方英尺"
+  "调查显示周四eia报告预计美国上周天然气库存增加790亿立方英尺",
+  "中国警方缅北电诈死灰复燃也不怕"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1964,7 +1991,8 @@
   "e:幸福都是奋斗出来的": "幸福都是奋斗出来的",
   "e:摩根士丹利建议做空欧元瑞郎因欧元风险上升": "摩根士丹利建议做空欧元/瑞郎 因欧元风险上升",
   "e:手机价格在涨掏钱的理由没涨": "手机价格在涨 掏钱的理由没涨",
-  "e:调查显示周四eia报告预计美国上周天然气库存增加790亿立方英尺": "调查显示：周四 EIA 报告预计，美国上周天然气库存增加 790 亿立方英尺。"
+  "e:调查显示周四eia报告预计美国上周天然气库存增加790亿立方英尺": "调查显示：周四 EIA 报告预计，美国上周天然气库存增加 790 亿立方英尺。",
+  "e:中国警方缅北电诈死灰复燃也不怕": "中国警方：缅北电诈死灰复燃也不怕"
  },
  "a_seen": {
   "南亚科技继续上调dram合同价": {
@@ -1983,9 +2011,9 @@
    "key": "全球储备大转向看透黄金与美债的博弈美国美债黄金卢克文的微博视频",
    "title": "全球储备大转向，看透黄金与美债的博弈 #美国# #美债# #黄金# 卢克文的微博视频",
    "rating": "A",
-   "score": 56.4,
-   "angle": "从卢克文视角拆解全球去美元化趋势下黄金与美债的资产重配逻辑，提供实操参考",
-   "hook_reason": "全球储备格局突变+黄金美债博弈，戳中投资者财富焦虑",
+   "score": 79.47,
+   "angle": "从普通人资产配置视角切入，解析全球储备转向对黄金、美债持有者的实际影响",
+   "hook_reason": "普通人的钱袋子正在被改写，黄金美债博弈关乎财富安全",
    "url": "https://weibo.com/1875293522/RlCuBa222",
    "track": "财经",
    "breaking": true,
@@ -1995,9 +2023,9 @@
    "key": "徐直军华为昇腾已超过英伟达网页链接网页链接",
    "title": "徐直军：华为昇腾已超过英伟达！ 网页链接 网页链接",
    "rating": "A",
-   "score": 52.2,
-   "angle": "徐直军为何选此时机发声？昇腾真实算力数据与英伟达差距几何，信创替代加速下的战略信号",
-   "hook_reason": "华为总裁公开宣称昇腾已超越英伟达，引爆中美AI芯片竞争话题",
+   "score": 60.76,
+   "angle": "从'谁在定义AI芯片话语权'切入，分析徐直军表态时机与华为资本市场/生态布局的关联",
+   "hook_reason": "华为高管直接叫板英伟达，争议性极强，引发科技圈民族情绪与理性讨论两派站队",
    "url": "https://weibo.com/1249424622/RlC5KaAhz",
    "track": "大咖发言",
    "breaking": true,
@@ -2007,9 +2035,9 @@
    "key": "18万字李录最新哥大交流ai发展可能会伴随不止一轮繁荣与崩溃今天这种巨大的市场分化反而",
    "title": "1.8万字｜李录最新哥大交流：AI发展可能会伴随不止一轮繁荣与崩溃，今天这种巨大的市场分化，反而",
    "rating": "A",
-   "score": 55.84,
-   "angle": "借李录哥大演讲视角，剖析AI投资繁荣与崩溃轮动规律，引导读者关注下一轮机会与风险节点",
-   "hook_reason": "投资大佬预判AI泡沫周期，财富风向标",
+   "score": 57.25,
+   "angle": "从“投资大佬预判AI有多轮牛熊”切入，对比2000年互联网泡沫与当前AI热潮",
+   "hook_reason": "李录深度预判AI周期：繁荣与崩溃不止一轮",
    "url": "https://weibo.com/1249424622/RlC6YpLTo",
    "track": "大咖发言",
    "breaking": true,
@@ -2019,9 +2047,9 @@
    "key": "刚刚2026年诺贝尔化学奖揭晓网页链接网页链接",
    "title": "刚刚，2026年诺贝尔化学奖揭晓！ 网页链接 网页链接",
    "rating": "A",
-   "score": 49.8,
-   "angle": "A档：解读今年获奖成果对AI/材料/生物医药的潜在影响，附获奖者背景速览",
-   "hook_reason": "诺贝尔奖刚揭晓，科技圈最重磅年度事件",
+   "score": 54.17,
+   "angle": "从2026年诺贝尔化学奖看中国科学家在基础研究领域的突破与差距",
+   "hook_reason": "诺贝尔化学奖揭晓，前沿成果登顶国际榜单",
    "url": "https://weibo.com/1249424622/RlC3ZcN4v",
    "track": "科技",
    "breaking": true,
@@ -2038,8 +2066,44 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:美国国务卿鲁比奥尽管情绪有时会让美国与欧洲之间的友好纽带承压但绝不能任由其断"
+  },
+  "visamastercardmajorbanksfacingne2f896d52": {
+   "key": "visamastercardmajorbanksfacingne2f896d52",
+   "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "反垄断诉讼直击支付产业链利益分配，揭秘商家被割多少刀、费率如何传导至消费者",
+   "hook_reason": "全球支付巨头遭反垄断重拳，商家消费者钱包受直接影响",
+   "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:visamastercardmajorbanksfacingnewlitigat"
+  },
+  "githubincidentwithgitoperationsp877d6a0a": {
+   "key": "githubincidentwithgitoperationsp877d6a0a",
+   "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
+   "rating": "A",
+   "score": 71.36,
+   "angle": "从开发者视角切入，分析故障影响及应急方案",
+   "hook_reason": "GitHub核心服务突发故障，全球开发者宕机",
+   "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:githubincidentwithgitoperationspullreque"
+  },
+  "缅方从一直通报无中国人死亡到与中方联合成立调查组缅方的态度转变是从什么时候开始的受哪些因素驱动": {
+   "key": "缅方从一直通报无中国人死亡到与中方联合成立调查组缅方的态度转变是从什么时候开始的受哪些因素驱动",
+   "title": "缅方从一直通报无中国人死亡到与中方联合成立调查组，缅方的态度转变是从什么时候开始的？受哪些因素驱动？",
+   "rating": "A",
+   "score": 43.3,
+   "angle": "追踪缅甸态度转变的时间节点和驱动因素，深挖背后外交博弈与利益交换",
+   "hook_reason": "缅甸态度突然转向，背后谁在推动？牵动无数海外华人神经",
+   "url": "https://www.zhihu.com/question/2090769204127298873",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:缅方从一直通报无中国人死亡到与中方联合成立调查组缅方的态度转变是从什么时候开始的"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 0
+ "a_pushed_window": 1
 }
