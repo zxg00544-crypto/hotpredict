@@ -1622,19 +1622,6 @@
    "batch_window": 0
   },
   {
-   "key": "visamastercardmajorbanksfacingne2f896d52",
-   "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
-   "rating": "A",
-   "score": 86.0,
-   "angle": "反垄断诉讼直击支付产业链利益分配，揭秘商家被割多少刀、费率如何传导至消费者",
-   "hook_reason": "全球支付巨头遭反垄断重拳，商家消费者钱包受直接影响",
-   "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:visamastercardmajorbanksfacingnewlitigat",
-   "batch_window": 1
-  },
-  {
    "key": "githubincidentwithgitoperationsp877d6a0a",
    "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
    "rating": "A",
@@ -1659,6 +1646,71 @@
    "breaking": true,
    "event_id": "e:缅方从一直通报无中国人死亡到与中方联合成立调查组缅方的态度转变是从什么时候开始的",
    "batch_window": 1
+  },
+  {
+   "key": "showhnbigwordspageturnanyscreeni757ef3a6",
+   "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从URL即应用的极简产品哲学切入，解析Bigwords.page如何用一句话解决一个普遍需求",
+   "hook_reason": "URL即应用、手机变电子屏，极简创意直击产品思维痛点",
+   "url": "https://bigwords.page/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:showhnbigwordspageturnanyscreenintoasign",
+   "batch_window": 2
+  },
+  {
+   "key": "美联储会议纪要纽约联储代表财政部干预了外汇市场",
+   "title": "美联储会议纪要：纽约联储代表财政部干预了外汇市场。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "NY Fed为何代表财政部出手？是协同维稳还是政策转向信号，背后有故事",
+   "hook_reason": "美联储直接下场干预汇市，信号意义拉满，交易员必看",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniumumr7838733.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储会议纪要纽约联储代表财政部干预了外汇市场",
+   "batch_window": 2
+  },
+  {
+   "key": "anthropic发布最新模型claudehaiku55",
+   "title": "Anthropic 发布最新模型 Claude Haiku 5.5。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "对比GPT系列，分析Haiku 5.5在性价比与速度上的策略意图及对市场格局的影响",
+   "hook_reason": "Claude大模型升级，AI玩家关注性能与定价战",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniumumr7837982.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic发布最新模型claudehaiku55",
+   "batch_window": 2
+  },
+  {
+   "key": "美联储会议纪要许多与会者表示尽管近期长期国债收益率上升但金融状况似乎仍支持",
+   "title": "美联储会议纪要：许多与会者表示，尽管近期长期国债收益率上升，但金融状况似乎仍支持",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从纪要措辞切入，解读美联储对金融状况的判断逻辑，拆解对降息路径的潜在影响",
+   "hook_reason": "美联储释放鸽派信号，降息预期或重燃，牵动全球资金面",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniumumr7837782.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储会议纪要许多与会者表示尽管近期长期国债收益率上升但金融状况似乎仍支持",
+   "batch_window": 2
+  },
+  {
+   "key": "claudehaiku55",
+   "title": "Claude Haiku 5.5",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "Haiku 5.5性能跃迁解读：从'快'到'又快又好'，轻量模型拐点来了",
+   "hook_reason": "Anthropic官方发布Claude Haiku 5.5，AI圈最轻量模型重大升级，开发者高度关注",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:claudehaiku55",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -1857,7 +1909,8 @@
   "摩根士丹利建议做空欧元瑞郎因欧元风险上升",
   "手机价格在涨掏钱的理由没涨",
   "调查显示周四eia报告预计美国上周天然气库存增加790亿立方英尺",
-  "中国警方缅北电诈死灰复燃也不怕"
+  "中国警方缅北电诈死灰复燃也不怕",
+  "visamastercardmajorbanksfacingne2f896d52"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -1992,7 +2045,8 @@
   "e:摩根士丹利建议做空欧元瑞郎因欧元风险上升": "摩根士丹利建议做空欧元/瑞郎 因欧元风险上升",
   "e:手机价格在涨掏钱的理由没涨": "手机价格在涨 掏钱的理由没涨",
   "e:调查显示周四eia报告预计美国上周天然气库存增加790亿立方英尺": "调查显示：周四 EIA 报告预计，美国上周天然气库存增加 790 亿立方英尺。",
-  "e:中国警方缅北电诈死灰复燃也不怕": "中国警方：缅北电诈死灰复燃也不怕"
+  "e:中国警方缅北电诈死灰复燃也不怕": "中国警方：缅北电诈死灰复燃也不怕",
+  "e:visamastercardmajorbanksfacingnewlitigat": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees"
  },
  "a_seen": {
   "南亚科技继续上调dram合同价": {
@@ -2071,9 +2125,9 @@
    "key": "visamastercardmajorbanksfacingne2f896d52",
    "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
    "rating": "A",
-   "score": 86.0,
-   "angle": "反垄断诉讼直击支付产业链利益分配，揭秘商家被割多少刀、费率如何传导至消费者",
-   "hook_reason": "全球支付巨头遭反垄断重拳，商家消费者钱包受直接影响",
+   "score": 75.95,
+   "angle": "反垄断诉讼对支付生态的影响，商户与消费者谁能受益，拆解手续费背后的利益链",
+   "hook_reason": "Visa Mastercard反垄断诉讼，商户手续费或大降，谁买单？",
    "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
    "track": "财经",
    "breaking": true,
@@ -2096,14 +2150,74 @@
    "title": "缅方从一直通报无中国人死亡到与中方联合成立调查组，缅方的态度转变是从什么时候开始的？受哪些因素驱动？",
    "rating": "A",
    "score": 43.3,
-   "angle": "追踪缅甸态度转变的时间节点和驱动因素，深挖背后外交博弈与利益交换",
-   "hook_reason": "缅甸态度突然转向，背后谁在推动？牵动无数海外华人神经",
+   "angle": "深挖缅方态度骤变的时间节点与关键催化事件，拆解中国外交力量与地方势力的利益交换",
+   "hook_reason": "缅甸态度180度大转弯，背后是中国影响力在东南亚的博弈",
    "url": "https://www.zhihu.com/question/2090769204127298873",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:缅方从一直通报无中国人死亡到与中方联合成立调查组缅方的态度转变是从什么时候开始的"
+  },
+  "showhnbigwordspageturnanyscreeni757ef3a6": {
+   "key": "showhnbigwordspageturnanyscreeni757ef3a6",
+   "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从URL即应用的极简产品哲学切入，解析Bigwords.page如何用一句话解决一个普遍需求",
+   "hook_reason": "URL即应用、手机变电子屏，极简创意直击产品思维痛点",
+   "url": "https://bigwords.page/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:showhnbigwordspageturnanyscreenintoasign"
+  },
+  "美联储会议纪要纽约联储代表财政部干预了外汇市场": {
+   "key": "美联储会议纪要纽约联储代表财政部干预了外汇市场",
+   "title": "美联储会议纪要：纽约联储代表财政部干预了外汇市场。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "NY Fed为何代表财政部出手？是协同维稳还是政策转向信号，背后有故事",
+   "hook_reason": "美联储直接下场干预汇市，信号意义拉满，交易员必看",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniumumr7838733.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储会议纪要纽约联储代表财政部干预了外汇市场"
+  },
+  "anthropic发布最新模型claudehaiku55": {
+   "key": "anthropic发布最新模型claudehaiku55",
+   "title": "Anthropic 发布最新模型 Claude Haiku 5.5。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "对比GPT系列，分析Haiku 5.5在性价比与速度上的策略意图及对市场格局的影响",
+   "hook_reason": "Claude大模型升级，AI玩家关注性能与定价战",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniumumr7837982.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic发布最新模型claudehaiku55"
+  },
+  "美联储会议纪要许多与会者表示尽管近期长期国债收益率上升但金融状况似乎仍支持": {
+   "key": "美联储会议纪要许多与会者表示尽管近期长期国债收益率上升但金融状况似乎仍支持",
+   "title": "美联储会议纪要：许多与会者表示，尽管近期长期国债收益率上升，但金融状况似乎仍支持",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从纪要措辞切入，解读美联储对金融状况的判断逻辑，拆解对降息路径的潜在影响",
+   "hook_reason": "美联储释放鸽派信号，降息预期或重燃，牵动全球资金面",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniumumr7837782.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储会议纪要许多与会者表示尽管近期长期国债收益率上升但金融状况似乎仍支持"
+  },
+  "claudehaiku55": {
+   "key": "claudehaiku55",
+   "title": "Claude Haiku 5.5",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "Haiku 5.5性能跃迁解读：从'快'到'又快又好'，轻量模型拐点来了",
+   "hook_reason": "Anthropic官方发布Claude Haiku 5.5，AI圈最轻量模型重大升级，开发者高度关注",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:claudehaiku55"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
