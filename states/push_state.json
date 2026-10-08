@@ -2012,19 +2012,6 @@
    "batch_window": 17
   },
   {
-   "key": "江淮汽车对尊界启动调查和测试",
-   "title": "江淮汽车对尊界启动调查和测试",
-   "rating": "A",
-   "score": 86.75,
-   "angle": "华为鸿蒙智行版图再洗牌：江淮从'合作伙伴'变'调查对象'，尊界未来走向成悬念",
-   "hook_reason": "华为系智车与江淮合作生变，引发国产新能源车格局洗牌想象",
-   "url": "https://s.weibo.com/weibo?q=江淮汽车对尊界启动调查和测试",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:江淮汽车对尊界启动调查和测试",
-   "batch_window": 18
-  },
-  {
    "key": "豪华车现腰斩式降价",
    "title": "豪华车现“腰斩式”降价",
    "rating": "A",
@@ -2296,6 +2283,19 @@
    "breaking": true,
    "event_id": "e:anthropic埃森哲博思艾伦和crowdstrike等为其合作伙伴",
    "batch_window": 3
+  },
+  {
+   "key": "licenseupdateaiderivationprohibi7809c39e",
+   "title": "License update: AI derivation prohibited on all my art, lore, stories, comics",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "从AI技术边界与创作者权益冲突切入，探讨技术伦理与行业影响",
+   "hook_reason": "AI与创作者直接冲突，情绪共鸣强",
+   "url": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:licenseupdateaiderivationprohibitedonall",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -2530,7 +2530,8 @@
   "考不上清北就去清北工作",
   "俄罗斯不明原因肺炎事件发酵",
   "固态电池逆市大涨多股涨停",
-  "余承东向霍震寰交付尊界v800"
+  "余承东向霍震寰交付尊界v800",
+  "江淮汽车对尊界启动调查和测试"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2701,7 +2702,8 @@
   "e:考不上清北就去清北工作": "“考不上清北就去清北工作”",
   "e:俄罗斯不明原因肺炎事件发酵": "俄罗斯“不明原因肺炎”事件发酵",
   "e:固态电池逆市大涨多股涨停": "固态电池逆市大涨 多股涨停",
-  "e:余承东向霍震寰交付尊界v800": "余承东向霍震寰交付尊界V800"
+  "e:余承东向霍震寰交付尊界v800": "余承东向霍震寰交付尊界V800",
+  "e:江淮汽车对尊界启动调查和测试": "江淮汽车对尊界启动调查和测试"
  },
  "a_seen": {
   "宇树科技股价较上市高点跌超60": {
@@ -2720,12 +2722,12 @@
    "key": "anthropic这份ai技能替代雷达图很有启发蓝色代表理论上ai可覆盖的能力上限红色是当下",
    "title": "Anthropic这份AI技能替代雷达图很有启发。蓝色代表理论上AI可覆盖的能力上限，红色是当下",
    "rating": "A",
-   "score": 49.9,
-   "angle": "拆解AI能替代哪些技能，对比理论与现实差距，预判未来3年职场技能重估",
-   "hook_reason": "AI技能替代焦虑直击职场人，蓝色上限vs红色现状形成强反差",
+   "score": 78.79,
+   "angle": "用雷达图拆解AI能力边界，对比当下与未来，给职场人一份'保命指南'",
+   "hook_reason": "AI能替代哪些工作？这张图告诉你答案",
    "url": "https://weibo.com/1249424622/RlLL3bADW",
    "track": "科技",
-   "breaking": true,
+   "breaking": false,
    "event_id": "e:anthropic这份ai技能替代雷达图很有启发蓝色代表理论上ai可覆盖的能力上"
   },
   "如何评价字节seed团队发现deepseek性能漂移": {
@@ -2835,8 +2837,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:anthropic埃森哲博思艾伦和crowdstrike等为其合作伙伴"
+  },
+  "licenseupdateaiderivationprohibi7809c39e": {
+   "key": "licenseupdateaiderivationprohibi7809c39e",
+   "title": "License update: AI derivation prohibited on all my art, lore, stories, comics",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "从AI技术边界与创作者权益冲突切入，探讨技术伦理与行业影响",
+   "hook_reason": "AI与创作者直接冲突，情绪共鸣强",
+   "url": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:licenseupdateaiderivationprohibitedonall"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
