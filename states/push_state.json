@@ -2259,19 +2259,6 @@
    "batch_window": 0
   },
   {
-   "key": "固态电池逆市大涨多股涨停",
-   "title": "固态电池逆市大涨 多股涨停",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "解析固态电池产业链投资逻辑，技术突破与资本市场的共振机会",
-   "hook_reason": "固态电池技术突破+涨停双重刺激，投资者和科技爱好者都会点",
-   "url": "https://www.toutiao.com/trending/7694268221725377034/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:固态电池逆市大涨多股涨停",
-   "batch_window": 1
-  },
-  {
    "key": "ussuspendsvisaprogramfortechfirm86989c6f",
    "title": "US Suspends Visa Program for Tech Firms Including Microsoft",
    "rating": "A",
@@ -2283,6 +2270,32 @@
    "breaking": true,
    "event_id": "e:ussuspendsvisaprogramfortechfirmsincludi",
    "batch_window": 1
+  },
+  {
+   "key": "whistlespeechtotextin169mb",
+   "title": "Whistle: Speech to Text in 16.9 MB",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从端侧AI趋势切入，探讨小模型如何在下沉场景替代云端大模型，引发开发者共鸣",
+   "hook_reason": "16.9MB实现语音转文字，极致轻量AI模型颠覆行业认知",
+   "url": "https://cactuscompute.com/blog/whistle",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whistlespeechtotextin169mb",
+   "batch_window": 2
+  },
+  {
+   "key": "trumpadministrationissuspendingm3e415e0c",
+   "title": "Trump administration is suspending Microsoft from a green card program",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "深度解读特朗普移民政策转向对科技巨头的人才战略冲击及应对预判",
+   "hook_reason": "特朗普政府直接叫停微软绿卡项目，政策强冲击科技巨头，悬念十足",
+   "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:trumpadministrationissuspendingmicrosoft",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -2515,7 +2528,8 @@
   "美国国家航空航天局与美国能源部签署太空核开发谅解备忘录",
   "据猫眼专业版数据电影复仇者联盟4终局之战加码臻享版总票房破44亿",
   "考不上清北就去清北工作",
-  "俄罗斯不明原因肺炎事件发酵"
+  "俄罗斯不明原因肺炎事件发酵",
+  "固态电池逆市大涨多股涨停"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2684,7 +2698,8 @@
   "e:美国国家航空航天局与美国能源部签署太空核开发谅解备忘录": "美国国家航空航天局与美国能源部签署太空核开发谅解备忘录。",
   "e:据猫眼专业版数据电影复仇者联盟4终局之战加码臻享版总票房破44亿": "据猫眼专业版数据，电影 《复仇者联盟4：终局之战（加码臻享版）》 总票房破44亿",
   "e:考不上清北就去清北工作": "“考不上清北就去清北工作”",
-  "e:俄罗斯不明原因肺炎事件发酵": "俄罗斯“不明原因肺炎”事件发酵"
+  "e:俄罗斯不明原因肺炎事件发酵": "俄罗斯“不明原因肺炎”事件发酵",
+  "e:固态电池逆市大涨多股涨停": "固态电池逆市大涨 多股涨停"
  },
  "a_seen": {
   "宇树科技股价较上市高点跌超60": {
@@ -2739,9 +2754,9 @@
    "key": "固态电池逆市大涨多股涨停",
    "title": "固态电池逆市大涨 多股涨停",
    "rating": "A",
-   "score": 92.0,
-   "angle": "解析固态电池产业链投资逻辑，技术突破与资本市场的共振机会",
-   "hook_reason": "固态电池技术突破+涨停双重刺激，投资者和科技爱好者都会点",
+   "score": 81.8,
+   "angle": "盘点固态电池概念股龙头，技术突破如何驱动资本热捧",
+   "hook_reason": "固态电池涨停，股民必点看谁受益",
    "url": "https://www.toutiao.com/trending/7694268221725377034/",
    "track": "财经",
    "breaking": true,
@@ -2782,8 +2797,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:李子坝地下33米藏一亿现钞"
+  },
+  "whistlespeechtotextin169mb": {
+   "key": "whistlespeechtotextin169mb",
+   "title": "Whistle: Speech to Text in 16.9 MB",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从端侧AI趋势切入，探讨小模型如何在下沉场景替代云端大模型，引发开发者共鸣",
+   "hook_reason": "16.9MB实现语音转文字，极致轻量AI模型颠覆行业认知",
+   "url": "https://cactuscompute.com/blog/whistle",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whistlespeechtotextin169mb"
+  },
+  "trumpadministrationissuspendingm3e415e0c": {
+   "key": "trumpadministrationissuspendingm3e415e0c",
+   "title": "Trump administration is suspending Microsoft from a green card program",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "深度解读特朗普移民政策转向对科技巨头的人才战略冲击及应对预判",
+   "hook_reason": "特朗普政府直接叫停微软绿卡项目，政策强冲击科技巨头，悬念十足",
+   "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:trumpadministrationissuspendingmicrosoft"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
