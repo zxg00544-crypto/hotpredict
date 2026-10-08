@@ -1804,19 +1804,6 @@
    "batch_window": 9
   },
   {
-   "key": "711关闭印度全部门店",
-   "title": "711关闭印度全部门店",
-   "rating": "A",
-   "score": 91.82,
-   "angle": "从711退出印度看零售出海困局，拆解中国企业全球化踩坑的共性问题与应对策略",
-   "hook_reason": "711印度全线溃败，中国品牌出海还有多远",
-   "url": "https://s.weibo.com/weibo?q=711关闭印度全部门店",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:711关闭印度全部门店",
-   "batch_window": 9
-  },
-  {
    "key": "在泰失联的上海音乐教师已安全回国具体情况如何此事有哪些警示意义",
    "title": "在泰失联的上海音乐教师已安全回国，具体情况如何？此事有哪些警示意义？",
    "rating": "A",
@@ -1854,6 +1841,19 @@
    "breaking": true,
    "event_id": "e:网友们说胡锡进批评你了你咋不回复第一胡锡进所说内容并不是批评他只是说了自己的观点",
    "batch_window": 10
+  },
+  {
+   "key": "尊界v800刹车踏板支架断裂",
+   "title": "尊界V800刹车踏板支架断裂",
+   "rating": "A",
+   "score": 77.58,
+   "angle": "从刹车失灵事故切入，探讨智能汽车安全底线与企业危机应对",
+   "hook_reason": "突发汽车安全事故，事关行车安全与品牌信誉，读者高度关注",
+   "url": "https://search.bilibili.com/all?keyword=尊界V800刹车踏板支架断裂",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:尊界v800刹车踏板支架断裂",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -2061,7 +2061,8 @@
   "themathocalypse",
   "gpt6andintelligentuiforeveryone",
   "印度调查亚运会惨败事件",
-  "openai全面上线gpt6"
+  "openai全面上线gpt6",
+  "711关闭印度全部门店"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2205,7 +2206,8 @@
   "e:themathocalypse": "The Mathocalypse",
   "e:gpt6andintelligentuiforeveryone": "GPT‑6 and Intelligent UI for everyone",
   "e:印度调查亚运会惨败事件": "印度调查亚运会“惨败”事件",
-  "e:openai全面上线gpt6": "OpenAI全面上线GPT-6"
+  "e:openai全面上线gpt6": "OpenAI全面上线GPT-6",
+  "e:711关闭印度全部门店": "711关闭印度全部门店"
  },
  "a_seen": {
   "南亚科技继续上调dram合同价": {
@@ -2608,9 +2610,9 @@
    "key": "央行将开展12000亿买断式逆回购操作",
    "title": "央行将开展12000亿买断式逆回购操作",
    "rating": "A",
-   "score": 86.15,
-   "angle": "解读买断式逆回购与常规逆回购的区别，分析市场流动性预期变化及A股短期影响",
-   "hook_reason": "12000亿超预期投放，直接影响股市债市走向",
+   "score": 96.5,
+   "angle": "拆解买断式逆回购政策意图与1.2万亿对A股/债市资金面的实质影响，对比历史操作节奏判断是否宽松转弯",
+   "hook_reason": "央行1.2万亿超预期放血，流动性信号直击市场神经",
    "url": "https://s.weibo.com/weibo?q=央行将开展12000亿买断式逆回购操作",
    "track": "财经",
    "breaking": true,
@@ -2621,14 +2623,26 @@
    "title": "网友们说胡锡进批评你了，你咋不回复？ 第一，胡锡进所说内容并不是批评，他只是说了自己的观点，大家",
    "rating": "A",
    "score": 84.95,
-   "angle": "AI首次正面回应社会名嘴：不卑不亢、理性克制，展现人机边界",
-   "hook_reason": "社会名嘴vsAI，身份反差+回应悬念，读者好奇AI怎么接招",
+   "angle": "以'为何不回复'为切入点，剖析公众人物面对批评的沉默策略及其舆论得失",
+   "hook_reason": "胡锡进点名、当事人沉默，吃瓜群众最爱看名人交锋与回避",
    "url": "https://weibo.com/1875293522/RlGmP8UcQ",
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:网友们说胡锡进批评你了你咋不回复第一胡锡进所说内容并不是批评他只是说了自己的观点"
+  },
+  "尊界v800刹车踏板支架断裂": {
+   "key": "尊界v800刹车踏板支架断裂",
+   "title": "尊界V800刹车踏板支架断裂",
+   "rating": "A",
+   "score": 77.58,
+   "angle": "从刹车失灵事故切入，探讨智能汽车安全底线与企业危机应对",
+   "hook_reason": "突发汽车安全事故，事关行车安全与品牌信誉，读者高度关注",
+   "url": "https://search.bilibili.com/all?keyword=尊界V800刹车踏板支架断裂",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:尊界v800刹车踏板支架断裂"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
