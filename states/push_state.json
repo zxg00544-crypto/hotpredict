@@ -2038,19 +2038,6 @@
    "batch_window": 18
   },
   {
-   "key": "余承东向霍震寰交付尊界v800",
-   "title": "余承东向霍震寰交付尊界V800",
-   "rating": "A",
-   "score": 87.2,
-   "angle": "聚焦余承东与霍震寰两大商界大佬的合作互动，解读尊界品牌的高端定位与商业价值",
-   "hook_reason": "华为高管与香港富豪跨界交车，名人大咖效应显著",
-   "url": "https://www.toutiao.com/trending/7693845051495088147/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:余承东向霍震寰交付尊界v800",
-   "batch_window": 19
-  },
-  {
    "key": "929新政策政策底已现这个时点怎么办股市财经金融投资理财机会",
    "title": "“929新政策”政策底已现，这个时点怎么办？ #股市# #财经# #金融# #投资理财# #机会",
    "rating": "A",
@@ -2296,6 +2283,19 @@
    "breaking": true,
    "event_id": "e:trumpadministrationissuspendingmicrosoft",
    "batch_window": 2
+  },
+  {
+   "key": "anthropic埃森哲博思艾伦和crowdstrike等为其合作伙伴",
+   "title": "Anthropic：埃森哲、博思艾伦和CrowdStrike等为其合作伙伴。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从企业采购视角解读AI落地拐点，对比OpenAI生态布局差异",
+   "hook_reason": "AI巨头Anthropic绑定三大企业级客户，预示商用化加速",
+   "url": "https://finance.sina.cn/7x24/2026-10-09/detail-iniuqcsr4130560.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic埃森哲博思艾伦和crowdstrike等为其合作伙伴",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -2529,7 +2529,8 @@
   "据猫眼专业版数据电影复仇者联盟4终局之战加码臻享版总票房破44亿",
   "考不上清北就去清北工作",
   "俄罗斯不明原因肺炎事件发酵",
-  "固态电池逆市大涨多股涨停"
+  "固态电池逆市大涨多股涨停",
+  "余承东向霍震寰交付尊界v800"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2699,7 +2700,8 @@
   "e:据猫眼专业版数据电影复仇者联盟4终局之战加码臻享版总票房破44亿": "据猫眼专业版数据，电影 《复仇者联盟4：终局之战（加码臻享版）》 总票房破44亿",
   "e:考不上清北就去清北工作": "“考不上清北就去清北工作”",
   "e:俄罗斯不明原因肺炎事件发酵": "俄罗斯“不明原因肺炎”事件发酵",
-  "e:固态电池逆市大涨多股涨停": "固态电池逆市大涨 多股涨停"
+  "e:固态电池逆市大涨多股涨停": "固态电池逆市大涨 多股涨停",
+  "e:余承东向霍震寰交付尊界v800": "余承东向霍震寰交付尊界V800"
  },
  "a_seen": {
   "宇树科技股价较上市高点跌超60": {
@@ -2802,9 +2804,9 @@
    "key": "whistlespeechtotextin169mb",
    "title": "Whistle: Speech to Text in 16.9 MB",
    "rating": "A",
-   "score": 40.95,
-   "angle": "从端侧AI趋势切入，探讨小模型如何在下沉场景替代云端大模型，引发开发者共鸣",
-   "hook_reason": "16.9MB实现语音转文字，极致轻量AI模型颠覆行业认知",
+   "score": 75.95,
+   "angle": "盘点极端压缩AI模型的技术突破，解读边缘设备落地前景",
+   "hook_reason": "16.9MB完成语音转文字，打破技术极限认知",
    "url": "https://cactuscompute.com/blog/whistle",
    "track": "科技",
    "breaking": true,
@@ -2814,15 +2816,27 @@
    "key": "trumpadministrationissuspendingm3e415e0c",
    "title": "Trump administration is suspending Microsoft from a green card program",
    "rating": "A",
-   "score": 40.9,
-   "angle": "深度解读特朗普移民政策转向对科技巨头的人才战略冲击及应对预判",
-   "hook_reason": "特朗普政府直接叫停微软绿卡项目，政策强冲击科技巨头，悬念十足",
+   "score": 65.01,
+   "angle": "从H-1B签证政策突变切入，剖析对硅谷科技人才链的冲击，关联大厂招聘策略调整",
+   "hook_reason": "特朗普政府封杀微软绿卡项目，IT从业者集体失眠",
    "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
-   "track": "科技",
+   "track": "社会热点",
    "breaking": true,
    "event_id": "e:trumpadministrationissuspendingmicrosoft"
+  },
+  "anthropic埃森哲博思艾伦和crowdstrike等为其合作伙伴": {
+   "key": "anthropic埃森哲博思艾伦和crowdstrike等为其合作伙伴",
+   "title": "Anthropic：埃森哲、博思艾伦和CrowdStrike等为其合作伙伴。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从企业采购视角解读AI落地拐点，对比OpenAI生态布局差异",
+   "hook_reason": "AI巨头Anthropic绑定三大企业级客户，预示商用化加速",
+   "url": "https://finance.sina.cn/7x24/2026-10-09/detail-iniuqcsr4130560.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic埃森哲博思艾伦和crowdstrike等为其合作伙伴"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
