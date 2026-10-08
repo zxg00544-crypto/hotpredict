@@ -2038,19 +2038,6 @@
    "batch_window": 18
   },
   {
-   "key": "余承东手机芯片基本摆脱外部依赖",
-   "title": "余承东：手机芯片基本摆脱外部依赖",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从余承东发言切入，拆解华为芯片自主化进展与中美科技博弈深层逻辑",
-   "hook_reason": "华为高管宣布芯片突围，民族情绪+科技突破双重爆点",
-   "url": "https://www.toutiao.com/trending/7693984805352129070/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:余承东手机芯片基本摆脱外部依赖",
-   "batch_window": 19
-  },
-  {
    "key": "余承东向霍震寰交付尊界v800",
    "title": "余承东向霍震寰交付尊界V800",
    "rating": "A",
@@ -2088,6 +2075,45 @@
    "breaking": true,
    "event_id": "e:祁连县官方回应征用宿舍事件称宿舍已复原消杀给学生发放文创礼包如何评价这次处置与善",
    "batch_window": 19
+  },
+  {
+   "key": "粤j2888t抵达开封万岁山景区",
+   "title": "粤J2888T抵达开封万岁山景区",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "深挖粤J2888T背后是谁、为何选开封万岁山，满足公众对神秘身份的猎奇心理",
+   "hook_reason": "神秘车牌引发全网猜测，背后故事悬念强",
+   "url": "https://www.toutiao.com/trending/7694164678230458411/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:粤j2888t抵达开封万岁山景区",
+   "batch_window": 20
+  },
+  {
+   "key": "openaiwithdraws3mathpapers",
+   "title": "OpenAI Withdraws 3 Math Papers",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "从OpenAI学术信誉切入，探讨AI大厂论文质量争议，折射行业信任危机",
+   "hook_reason": "OpenAI撤回论文引发AI学术诚信大讨论",
+   "url": "https://github.com/openai/math/blob/main/history.md",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openaiwithdraws3mathpapers",
+   "batch_window": 20
+  },
+  {
+   "key": "倪萍发文悼念彭玉",
+   "title": "倪萍发文悼念彭玉",
+   "rating": "A",
+   "score": 51.26,
+   "angle": "从两位艺术家的人生交集切入，致敬一代人的荧幕记忆与私人情谊",
+   "hook_reason": "Emotional memorial by iconic host for fellow legend — taps nostalgia and grief",
+   "url": "https://www.toutiao.com/trending/7694208994314912283/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:倪萍发文悼念彭玉",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -2304,7 +2330,8 @@
   "航天人紧急营救北斗卫星",
   "高速免费最后60秒工作人员比司机急",
   "央行将开展12000亿买断式逆回购操作",
-  "外交部回应直呼高市早苗名字"
+  "外交部回应直呼高市早苗名字",
+  "余承东手机芯片基本摆脱外部依赖"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2457,7 +2484,8 @@
   "e:航天人紧急营救北斗卫星": "航天人紧急营救北斗卫星",
   "e:高速免费最后60秒工作人员比司机急": "高速免费最后60秒工作人员比司机急",
   "e:央行将开展12000亿买断式逆回购操作": "央行将开展12000亿买断式逆回购操作",
-  "e:外交部回应直呼高市早苗名字": "外交部回应直呼高市早苗名字"
+  "e:外交部回应直呼高市早苗名字": "外交部回应直呼高市早苗名字",
+  "e:余承东手机芯片基本摆脱外部依赖": "余承东：手机芯片基本摆脱外部依赖"
  },
  "a_seen": {
   "南亚科技继续上调dram合同价": {
@@ -3208,9 +3236,9 @@
    "key": "余承东手机芯片基本摆脱外部依赖",
    "title": "余承东：手机芯片基本摆脱外部依赖",
    "rating": "A",
-   "score": 92.0,
-   "angle": "从余承东发言切入，拆解华为芯片自主化进展与中美科技博弈深层逻辑",
-   "hook_reason": "华为高管宣布芯片突围，民族情绪+科技突破双重爆点",
+   "score": 87.9,
+   "angle": "从余承东表态切入，解读国产芯片产业链格局变化及科技自立前景",
+   "hook_reason": "国产芯片突破！华为官宣摆脱外部依赖，影响几何？",
    "url": "https://www.toutiao.com/trending/7693984805352129070/",
    "track": "大咖发言",
    "breaking": true,
@@ -3263,8 +3291,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:pressreleasenobelprizeinphysiologyormedi"
+  },
+  "粤j2888t抵达开封万岁山景区": {
+   "key": "粤j2888t抵达开封万岁山景区",
+   "title": "粤J2888T抵达开封万岁山景区",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "深挖粤J2888T背后是谁、为何选开封万岁山，满足公众对神秘身份的猎奇心理",
+   "hook_reason": "神秘车牌引发全网猜测，背后故事悬念强",
+   "url": "https://www.toutiao.com/trending/7694164678230458411/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:粤j2888t抵达开封万岁山景区"
+  },
+  "openaiwithdraws3mathpapers": {
+   "key": "openaiwithdraws3mathpapers",
+   "title": "OpenAI Withdraws 3 Math Papers",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "从OpenAI学术信誉切入，探讨AI大厂论文质量争议，折射行业信任危机",
+   "hook_reason": "OpenAI撤回论文引发AI学术诚信大讨论",
+   "url": "https://github.com/openai/math/blob/main/history.md",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openaiwithdraws3mathpapers"
+  },
+  "倪萍发文悼念彭玉": {
+   "key": "倪萍发文悼念彭玉",
+   "title": "倪萍发文悼念彭玉",
+   "rating": "A",
+   "score": 51.26,
+   "angle": "从两位艺术家的人生交集切入，致敬一代人的荧幕记忆与私人情谊",
+   "hook_reason": "Emotional memorial by iconic host for fellow legend — taps nostalgia and grief",
+   "url": "https://www.toutiao.com/trending/7694208994314912283/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:倪萍发文悼念彭玉"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
