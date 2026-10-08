@@ -2103,19 +2103,6 @@
    "batch_window": 20
   },
   {
-   "key": "霍启刚见证郭晶晶获授荣誉院士",
-   "title": "霍启刚见证郭晶晶获授荣誉院士",
-   "rating": "A",
-   "score": 98.0,
-   "angle": "郭晶晶从奥运冠军到荣誉院士的身份跨越，拆解她背后的专业沉淀，打破\"花瓶\"刻板印象",
-   "hook_reason": "奥运冠军变院士，身份反差+豪门夫妻，国民级话题",
-   "url": "https://s.weibo.com/weibo?q=霍启刚见证郭晶晶获授荣誉院士",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:霍启刚见证郭晶晶获授荣誉院士",
-   "batch_window": 21
-  },
-  {
    "key": "墨西哥摔角手赛场上摔死75岁裁判",
    "title": "墨西哥摔角手赛场上摔死75岁裁判",
    "rating": "A",
@@ -2179,6 +2166,71 @@
    "breaking": true,
    "event_id": "e:洪灝别人贪婪我们33今早0900洪灝的宏观策略的微博视频",
    "batch_window": 21
+  },
+  {
+   "key": "俄罗斯不明原因肺炎事件发酵",
+   "title": "俄罗斯“不明原因肺炎”事件发酵",
+   "rating": "A",
+   "score": 90.0,
+   "angle": "从\"不明原因\"切入，追踪俄方通报节奏与中国边境防控响应，关联民众安全焦虑与地缘博弈",
+   "hook_reason": "\"不明原因\"+俄罗斯，双重悬念叠加，国内读者关切防疫与地缘安全",
+   "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E2%80%9C%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%8F%91%E9%85%B5&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:俄罗斯不明原因肺炎事件发酵",
+   "batch_window": 22
+  },
+  {
+   "key": "央行发布关于人民币汇率的政策立场称中国没有必要也无意通过汇率贬值获取贸易竞争优势如何解读",
+   "title": "央行发布关于人民币汇率的政策立场，称中国没有必要，也无意通过汇率贬值获取贸易竞争优势，如何解读？",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "央行表态人民币无意贬值，对进出口企业、外汇储备及中美贸易谈判的影响分析",
+   "hook_reason": "央行罕见定性人民币贬值意图，触及出口企业核心利益",
+   "url": "https://www.zhihu.com/question/2091589191394185302",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:央行发布关于人民币汇率的政策立场称中国没有必要也无意通过汇率贬值获取贸易竞争优势",
+   "batch_window": 22
+  },
+  {
+   "key": "igaveopus55onepromptandsixhourst43484513",
+   "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "拆解Opus 5.5单次提示词的创作上限，从'工具演示'到'AI时代创作者范式转移'",
+   "hook_reason": "一提示词6小时复刻《看不见的城市》，AI创作力突破想象边界",
+   "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:igaveopus55onepromptandsixhourstovisuali",
+   "batch_window": 22
+  },
+  {
+   "key": "湖南一女局长被举报婚内出轨多人",
+   "title": "湖南一女局长被举报婚内出轨多人",
+   "rating": "A",
+   "score": 72.7,
+   "angle": "从官员作风切入，探讨公职人员道德监管漏洞与公信力危机",
+   "hook_reason": "官员私德问题+多人出轨，身份反差强，易引发热议",
+   "url": "https://s.weibo.com/weibo?q=湖南一女局长被举报婚内出轨多人",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:湖南一女局长被举报婚内出轨多人",
+   "batch_window": 22
+  },
+  {
+   "key": "veradermics股价大涨23创历史新高为4月以来最大单日涨幅",
+   "title": "Veradermics 股价大涨 23% 创历史新高，为 4 月以来最大单日涨幅",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "深挖暴涨背后的原因：业绩驱动还是市场炒作？对同类股有何映射",
+   "hook_reason": "股价暴涨23%创历史新高，投资者必看",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniuptat7481072.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:veradermics股价大涨23创历史新高为4月以来最大单日涨幅",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -2397,7 +2449,8 @@
   "央行将开展12000亿买断式逆回购操作",
   "外交部回应直呼高市早苗名字",
   "余承东手机芯片基本摆脱外部依赖",
-  "粤j2888t抵达开封万岁山景区"
+  "粤j2888t抵达开封万岁山景区",
+  "霍启刚见证郭晶晶获授荣誉院士"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2552,7 +2605,8 @@
   "e:央行将开展12000亿买断式逆回购操作": "央行将开展12000亿买断式逆回购操作",
   "e:外交部回应直呼高市早苗名字": "外交部回应直呼高市早苗名字",
   "e:余承东手机芯片基本摆脱外部依赖": "余承东：手机芯片基本摆脱外部依赖",
-  "e:粤j2888t抵达开封万岁山景区": "粤J2888T抵达开封万岁山景区"
+  "e:粤j2888t抵达开封万岁山景区": "粤J2888T抵达开封万岁山景区",
+  "e:霍启刚见证郭晶晶获授荣誉院士": "霍启刚见证郭晶晶获授荣誉院士"
  },
  "a_seen": {
   "南亚科技继续上调dram合同价": {
@@ -3466,8 +3520,92 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:洪灝别人贪婪我们33今早0900洪灝的宏观策略的微博视频"
+  },
+  "俄罗斯不明原因肺炎事件发酵": {
+   "key": "俄罗斯不明原因肺炎事件发酵",
+   "title": "俄罗斯“不明原因肺炎”事件发酵",
+   "rating": "A",
+   "score": 90.0,
+   "angle": "从\"不明原因\"切入，追踪俄方通报节奏与中国边境防控响应，关联民众安全焦虑与地缘博弈",
+   "hook_reason": "\"不明原因\"+俄罗斯，双重悬念叠加，国内读者关切防疫与地缘安全",
+   "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E2%80%9C%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%8F%91%E9%85%B5&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:俄罗斯不明原因肺炎事件发酵"
+  },
+  "央行发布关于人民币汇率的政策立场称中国没有必要也无意通过汇率贬值获取贸易竞争优势如何解读": {
+   "key": "央行发布关于人民币汇率的政策立场称中国没有必要也无意通过汇率贬值获取贸易竞争优势如何解读",
+   "title": "央行发布关于人民币汇率的政策立场，称中国没有必要，也无意通过汇率贬值获取贸易竞争优势，如何解读？",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "央行表态人民币无意贬值，对进出口企业、外汇储备及中美贸易谈判的影响分析",
+   "hook_reason": "央行罕见定性人民币贬值意图，触及出口企业核心利益",
+   "url": "https://www.zhihu.com/question/2091589191394185302",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:央行发布关于人民币汇率的政策立场称中国没有必要也无意通过汇率贬值获取贸易竞争优势"
+  },
+  "尊界通报刹车踏板断裂": {
+   "key": "尊界通报刹车踏板断裂",
+   "title": "尊界通报刹车踏板断裂",
+   "rating": "A",
+   "score": 87.95,
+   "angle": "以官方通报为切入点，聚焦新车安全隐患，引发有车一族共鸣讨论",
+   "hook_reason": "新品车刹车故障，关乎每个人出行安全，情绪引爆点明确",
+   "url": "https://s.weibo.com/weibo?q=尊界通报刹车踏板断裂",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:尊界v800测试中刹车踏板支架断裂"
+  },
+  "000005变995今年化学诺奖发现了什么2026诺贝尔奖将陆续揭晓202": {
+   "key": "000005变995今年化学诺奖发现了什么2026诺贝尔奖将陆续揭晓202",
+   "title": "0.00005%变99.5%！今年化学诺奖发现了什么？ #2026诺贝尔奖将陆续揭晓# #202",
+   "rating": "A",
+   "score": 84.9,
+   "angle": "用通俗比喻解读量子点从实验室到显示屏/医疗的逆袭故事",
+   "hook_reason": "诺奖级量子点突破+生活应用反差，满足吃瓜群众好奇心",
+   "url": "https://weibo.com/1708942053/RlKBUDphp",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:诺贝尔化学奖揭晓"
+  },
+  "igaveopus55onepromptandsixhourst43484513": {
+   "key": "igaveopus55onepromptandsixhourst43484513",
+   "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "拆解Opus 5.5单次提示词的创作上限，从'工具演示'到'AI时代创作者范式转移'",
+   "hook_reason": "一提示词6小时复刻《看不见的城市》，AI创作力突破想象边界",
+   "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:igaveopus55onepromptandsixhourstovisuali"
+  },
+  "湖南一女局长被举报婚内出轨多人": {
+   "key": "湖南一女局长被举报婚内出轨多人",
+   "title": "湖南一女局长被举报婚内出轨多人",
+   "rating": "A",
+   "score": 72.7,
+   "angle": "从官员作风切入，探讨公职人员道德监管漏洞与公信力危机",
+   "hook_reason": "官员私德问题+多人出轨，身份反差强，易引发热议",
+   "url": "https://s.weibo.com/weibo?q=湖南一女局长被举报婚内出轨多人",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:湖南一女局长被举报婚内出轨多人"
+  },
+  "veradermics股价大涨23创历史新高为4月以来最大单日涨幅": {
+   "key": "veradermics股价大涨23创历史新高为4月以来最大单日涨幅",
+   "title": "Veradermics 股价大涨 23% 创历史新高，为 4 月以来最大单日涨幅",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "深挖暴涨背后的原因：业绩驱动还是市场炒作？对同类股有何映射",
+   "hook_reason": "股价暴涨23%创历史新高，投资者必看",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniuptat7481072.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:veradermics股价大涨23创历史新高为4月以来最大单日涨幅"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
