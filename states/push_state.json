@@ -1739,19 +1739,6 @@
    "batch_window": 5
   },
   {
-   "key": "印度调查亚运会惨败事件",
-   "title": "印度调查亚运会“惨败”事件",
-   "rating": "A",
-   "score": 80.95,
-   "angle": "从印度亚运惨败看新兴体育大国困境，可切入印度体育改革失败与民族情绪反思",
-   "hook_reason": "国家荣誉受挫+国际赛事调查，引发民族情绪和体育迷关注",
-   "url": "https://www.toutiao.com/trending/7693145496223186963/",
-   "track": "社会热点",
-   "breaking": false,
-   "event_id": "e:印度调查亚运会惨败事件",
-   "batch_window": 5
-  },
-  {
    "key": "博通计划为openai定制芯片项目融资逾500亿美元",
    "title": "博通计划为OpenAI定制芯片项目融资逾500亿美元",
    "rating": "A",
@@ -1789,6 +1776,45 @@
    "breaking": true,
    "event_id": "e:margarethamiltonwholedsoftwaredevelopmen",
    "batch_window": 7
+  },
+  {
+   "key": "openai全面上线gpt6",
+   "title": "OpenAI全面上线GPT-6",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "GPT-6究竟强在哪？对比GPT-4/Olympiad成绩，解读OpenAI技术路线是否拉开代差",
+   "hook_reason": "OpenAI发布GPT-6，AI领域年度重磅，全网热度140爆表",
+   "url": "https://s.weibo.com/weibo?q=OpenAI全面上线GPT6",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai全面上线gpt6",
+   "batch_window": 9
+  },
+  {
+   "key": "河北电商据称把成本压到极致发1万单倒赔130利润来自卖纸壳是真的吗河北电商是怎样一个存在",
+   "title": "河北电商据称把成本压到极致，发1万单倒赔130，利润来自「卖纸壳」，是真的吗？河北电商是怎样一个存在？",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "河北电商底层生存战：极致低价背后的真实账本与行业生态",
+   "hook_reason": "极低价电商生存真相：靠卖废纸箱赚钱，利润反套路揭秘",
+   "url": "https://www.zhihu.com/question/2080321200090079273",
+   "track": "创业",
+   "breaking": true,
+   "event_id": "e:河北电商据称把成本压到极致发1万单倒赔130利润来自卖纸壳是真的吗河北电商是怎样",
+   "batch_window": 9
+  },
+  {
+   "key": "margarethamiltonhasdied",
+   "title": "Margaret Hamilton has died",
+   "rating": "A",
+   "score": 71.9,
+   "angle": "阿波罗登月背后的关键人物 Margaret Hamilton 逝世，她发明了 '软件工程' 一词，致敬代码改变世界的力量",
+   "hook_reason": "阿波罗登月软件工程之父离世，改写科技史的 pioneers 又一个",
+   "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:margarethamiltonhasdied",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -1994,7 +2020,8 @@
   "余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机市场有多大影响",
   "showhnbigwordspageturnanyscreeni757ef3a6",
   "themathocalypse",
-  "gpt6andintelligentuiforeveryone"
+  "gpt6andintelligentuiforeveryone",
+  "印度调查亚运会惨败事件"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2136,7 +2163,8 @@
   "e:余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机": "余承东称华为将不得不涨价，存储元器件大涨使每部手机增超两百美元成本，会对消费者及手机市场有多大影响？",
   "e:showhnbigwordspageturnanyscreenintoasign": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
   "e:themathocalypse": "The Mathocalypse",
-  "e:gpt6andintelligentuiforeveryone": "GPT‑6 and Intelligent UI for everyone"
+  "e:gpt6andintelligentuiforeveryone": "GPT‑6 and Intelligent UI for everyone",
+  "e:印度调查亚运会惨败事件": "印度调查亚运会“惨败”事件"
  },
  "a_seen": {
   "南亚科技继续上调dram合同价": {
@@ -2474,8 +2502,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:margarethamiltonwholedsoftwaredevelopmen"
+  },
+  "openai全面上线gpt6": {
+   "key": "openai全面上线gpt6",
+   "title": "OpenAI全面上线GPT-6",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "GPT-6究竟强在哪？对比GPT-4/Olympiad成绩，解读OpenAI技术路线是否拉开代差",
+   "hook_reason": "OpenAI发布GPT-6，AI领域年度重磅，全网热度140爆表",
+   "url": "https://s.weibo.com/weibo?q=OpenAI全面上线GPT6",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai全面上线gpt6"
+  },
+  "河北电商据称把成本压到极致发1万单倒赔130利润来自卖纸壳是真的吗河北电商是怎样一个存在": {
+   "key": "河北电商据称把成本压到极致发1万单倒赔130利润来自卖纸壳是真的吗河北电商是怎样一个存在",
+   "title": "河北电商据称把成本压到极致，发1万单倒赔130，利润来自「卖纸壳」，是真的吗？河北电商是怎样一个存在？",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "河北电商底层生存战：极致低价背后的真实账本与行业生态",
+   "hook_reason": "极低价电商生存真相：靠卖废纸箱赚钱，利润反套路揭秘",
+   "url": "https://www.zhihu.com/question/2080321200090079273",
+   "track": "创业",
+   "breaking": true,
+   "event_id": "e:河北电商据称把成本压到极致发1万单倒赔130利润来自卖纸壳是真的吗河北电商是怎样"
+  },
+  "margarethamiltonhasdied": {
+   "key": "margarethamiltonhasdied",
+   "title": "Margaret Hamilton has died",
+   "rating": "A",
+   "score": 71.9,
+   "angle": "阿波罗登月背后的关键人物 Margaret Hamilton 逝世，她发明了 '软件工程' 一词，致敬代码改变世界的力量",
+   "hook_reason": "阿波罗登月软件工程之父离世，改写科技史的 pioneers 又一个",
+   "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:margarethamiltonhasdied"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
