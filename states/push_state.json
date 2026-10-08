@@ -2322,6 +2322,19 @@
    "breaking": true,
    "event_id": "e:马斯克这听起来可能极其疯狂但我看到一条路径能让spacexspcxo",
    "batch_window": 6
+  },
+  {
+   "key": "openaiannualisedrevenues20blesstddcb5d8c",
+   "title": "OpenAI annualised revenues $20B less than previously signalled",
+   "rating": "A",
+   "score": 74.5,
+   "angle": "切入OpenAI盈利困境与AI军备竞赛成本悖论，科技繁荣背后的财务现实",
+   "hook_reason": "OpenAI收入不及预期200亿美元，科技巨头财务信号引发市场震动",
+   "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:openaiannualisedrevenues20blessthanprevi",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -2927,6 +2940,18 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:马斯克这听起来可能极其疯狂但我看到一条路径能让spacexspcxo"
+  },
+  "openaiannualisedrevenues20blesstddcb5d8c": {
+   "key": "openaiannualisedrevenues20blesstddcb5d8c",
+   "title": "OpenAI annualised revenues $20B less than previously signalled",
+   "rating": "A",
+   "score": 74.5,
+   "angle": "切入OpenAI盈利困境与AI军备竞赛成本悖论，科技繁荣背后的财务现实",
+   "hook_reason": "OpenAI收入不及预期200亿美元，科技巨头财务信号引发市场震动",
+   "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:openaiannualisedrevenues20blessthanprevi"
   }
  },
  "breaking_count": 10,
