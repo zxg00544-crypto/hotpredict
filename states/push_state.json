@@ -1882,19 +1882,6 @@
    "batch_window": 13
   },
   {
-   "key": "保时捷回归燃油车",
-   "title": "保时捷回归燃油车",
-   "rating": "A",
-   "score": 85.61,
-   "angle": "从汽车科技转型切入，分析保时捷为何放弃纯电，背后是技术瓶颈还是市场需求？",
-   "hook_reason": "全球顶级豪车品牌逆势回归燃油车，电动车神话被打破？",
-   "url": "https://s.weibo.com/weibo?q=保时捷回归燃油车",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:保时捷回归燃油车",
-   "batch_window": 13
-  },
-  {
    "key": "郑克强生死有命富贵在天他是谈这个听听",
    "title": "// @郑克强 :生死有命富贵在天，他是谈这个？听听。",
    "rating": "A",
@@ -2296,6 +2283,19 @@
    "breaking": true,
    "event_id": "e:licenseupdateaiderivationprohibitedonall",
    "batch_window": 4
+  },
+  {
+   "key": "whyisnttheindustryfreakingoutabo5fcd0523",
+   "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "拆解DeepSeek 4.1 Flash未引发预期的'恐慌'，分析业界理性评估背后的技术实力与市场认知差",
+   "hook_reason": "DeepSeek新模型发布业界却反应平淡，反常现象引发好奇",
+   "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whyisnttheindustryfreakingoutaboutdeepse",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -2531,7 +2531,8 @@
   "俄罗斯不明原因肺炎事件发酵",
   "固态电池逆市大涨多股涨停",
   "余承东向霍震寰交付尊界v800",
-  "江淮汽车对尊界启动调查和测试"
+  "江淮汽车对尊界启动调查和测试",
+  "保时捷回归燃油车"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2703,7 +2704,8 @@
   "e:俄罗斯不明原因肺炎事件发酵": "俄罗斯“不明原因肺炎”事件发酵",
   "e:固态电池逆市大涨多股涨停": "固态电池逆市大涨 多股涨停",
   "e:余承东向霍震寰交付尊界v800": "余承东向霍震寰交付尊界V800",
-  "e:江淮汽车对尊界启动调查和测试": "江淮汽车对尊界启动调查和测试"
+  "e:江淮汽车对尊界启动调查和测试": "江淮汽车对尊界启动调查和测试",
+  "e:保时捷回归燃油车": "保时捷回归燃油车"
  },
  "a_seen": {
   "宇树科技股价较上市高点跌超60": {
@@ -2849,8 +2851,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:licenseupdateaiderivationprohibitedonall"
+  },
+  "whyisnttheindustryfreakingoutabo5fcd0523": {
+   "key": "whyisnttheindustryfreakingoutabo5fcd0523",
+   "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "拆解DeepSeek 4.1 Flash未引发预期的'恐慌'，分析业界理性评估背后的技术实力与市场认知差",
+   "hook_reason": "DeepSeek新模型发布业界却反应平淡，反常现象引发好奇",
+   "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whyisnttheindustryfreakingoutaboutdeepse"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
