@@ -1,7 +1,7 @@
 {
  "date": "2026-10-09",
  "daily_done": false,
- "alert_date": "",
+ "alert_date": "2026-10-09",
  "a_pending": [
   {
    "key": "曾预警金融危机的whitney称美国经济有暗伤ai投资热恐是纸牌屋",
@@ -2142,19 +2142,6 @@
    "batch_window": 21
   },
   {
-   "key": "俄罗斯不明原因肺炎事件发酵",
-   "title": "俄罗斯“不明原因肺炎”事件发酵",
-   "rating": "A",
-   "score": 90.0,
-   "angle": "从\"不明原因\"切入，追踪俄方通报节奏与中国边境防控响应，关联民众安全焦虑与地缘博弈",
-   "hook_reason": "\"不明原因\"+俄罗斯，双重悬念叠加，国内读者关切防疫与地缘安全",
-   "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E2%80%9C%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%8F%91%E9%85%B5&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:俄罗斯不明原因肺炎事件发酵",
-   "batch_window": 22
-  },
-  {
    "key": "央行发布关于人民币汇率的政策立场称中国没有必要也无意通过汇率贬值获取贸易竞争优势如何解读",
    "title": "央行发布关于人民币汇率的政策立场，称中国没有必要，也无意通过汇率贬值获取贸易竞争优势，如何解读？",
    "rating": "A",
@@ -2270,6 +2257,32 @@
    "breaking": true,
    "event_id": "e:特朗普排除在11月3日选举前打击伊朗的可能性",
    "batch_window": 0
+  },
+  {
+   "key": "固态电池逆市大涨多股涨停",
+   "title": "固态电池逆市大涨 多股涨停",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解析固态电池产业链投资逻辑，技术突破与资本市场的共振机会",
+   "hook_reason": "固态电池技术突破+涨停双重刺激，投资者和科技爱好者都会点",
+   "url": "https://www.toutiao.com/trending/7694268221725377034/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:固态电池逆市大涨多股涨停",
+   "batch_window": 1
+  },
+  {
+   "key": "ussuspendsvisaprogramfortechfirm86989c6f",
+   "title": "US Suspends Visa Program for Tech Firms Including Microsoft",
+   "rating": "A",
+   "score": 84.0,
+   "angle": "政策突变冲击科技巨头人才战略，H1B暂停对硅谷招聘链的连锁反应解读",
+   "hook_reason": "美国突然叫停科技公司签证，直接影响大厂人才战略和留学生就业焦虑",
+   "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ussuspendsvisaprogramfortechfirmsincludi",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -2501,7 +2514,8 @@
   "伊朗伊斯兰革命卫队司令随时准备对敌人予以毁灭性回击",
   "美国国家航空航天局与美国能源部签署太空核开发谅解备忘录",
   "据猫眼专业版数据电影复仇者联盟4终局之战加码臻享版总票房破44亿",
-  "考不上清北就去清北工作"
+  "考不上清北就去清北工作",
+  "俄罗斯不明原因肺炎事件发酵"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2669,7 +2683,8 @@
   "e:伊朗伊斯兰革命卫队司令随时准备对敌人予以毁灭性回击": "伊朗伊斯兰革命卫队司令：随时准备对敌人予以毁灭性回击",
   "e:美国国家航空航天局与美国能源部签署太空核开发谅解备忘录": "美国国家航空航天局与美国能源部签署太空核开发谅解备忘录。",
   "e:据猫眼专业版数据电影复仇者联盟4终局之战加码臻享版总票房破44亿": "据猫眼专业版数据，电影 《复仇者联盟4：终局之战（加码臻享版）》 总票房破44亿",
-  "e:考不上清北就去清北工作": "“考不上清北就去清北工作”"
+  "e:考不上清北就去清北工作": "“考不上清北就去清北工作”",
+  "e:俄罗斯不明原因肺炎事件发酵": "俄罗斯“不明原因肺炎”事件发酵"
  },
  "a_seen": {
   "宇树科技股价较上市高点跌超60": {
@@ -2719,8 +2734,56 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:特朗普排除在11月3日选举前打击伊朗的可能性"
+  },
+  "固态电池逆市大涨多股涨停": {
+   "key": "固态电池逆市大涨多股涨停",
+   "title": "固态电池逆市大涨 多股涨停",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解析固态电池产业链投资逻辑，技术突破与资本市场的共振机会",
+   "hook_reason": "固态电池技术突破+涨停双重刺激，投资者和科技爱好者都会点",
+   "url": "https://www.toutiao.com/trending/7694268221725377034/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:固态电池逆市大涨多股涨停"
+  },
+  "高速免费最后一刻女子淡定缴费": {
+   "key": "高速免费最后一刻女子淡定缴费",
+   "title": "高速免费最后一刻女子淡定缴费",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从'最后一刻缴费'切入，讲述高速免费政策下的全民出行故事，挖掘普通人瞬间反应背后的情绪张力",
+   "hook_reason": "高速免费最后一秒的紧张瞬间，引发普通车主强烈代入感和情绪共鸣",
+   "url": "https://www.toutiao.com/trending/7693486233125273627/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:高速免费最后60秒工作人员比司机急"
+  },
+  "ussuspendsvisaprogramfortechfirm86989c6f": {
+   "key": "ussuspendsvisaprogramfortechfirm86989c6f",
+   "title": "US Suspends Visa Program for Tech Firms Including Microsoft",
+   "rating": "A",
+   "score": 84.0,
+   "angle": "政策突变冲击科技巨头人才战略，H1B暂停对硅谷招聘链的连锁反应解读",
+   "hook_reason": "美国突然叫停科技公司签证，直接影响大厂人才战略和留学生就业焦虑",
+   "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ussuspendsvisaprogramfortechfirmsincludi"
+  },
+  "李子坝地下33米藏一亿现钞": {
+   "key": "李子坝地下33米藏一亿现钞",
+   "title": "李子坝地下33米藏一亿现钞",
+   "rating": "A",
+   "score": 49.84,
+   "angle": "重庆李子坝地下惊现一亿现钞，谜团待解——从城市奇闻切入，深挖背后故事",
+   "hook_reason": "巨额现金+神秘地点，激发强烈好奇心",
+   "url": "https://www.toutiao.com/trending/7693904813129662490/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:李子坝地下33米藏一亿现钞"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 0
+ "a_pushed_window": 1
 }
