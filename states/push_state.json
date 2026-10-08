@@ -1804,19 +1804,6 @@
    "batch_window": 9
   },
   {
-   "key": "在泰失联的上海音乐教师已安全回国具体情况如何此事有哪些警示意义",
-   "title": "在泰失联的上海音乐教师已安全回国，具体情况如何？此事有哪些警示意义？",
-   "rating": "A",
-   "score": 89.0,
-   "angle": "追踪事件进展，延伸泰国旅行安全提醒，为华人出境提供实用避险指南",
-   "hook_reason": "公民境外失联+安全回国，天然情绪共鸣，公众对出境安全高度关注",
-   "url": "https://www.zhihu.com/question/2091196584369316750",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:在泰失联的上海音乐教师已安全回国具体情况如何此事有哪些警示意义",
-   "batch_window": 9
-  },
-  {
    "key": "央行将开展12000亿买断式逆回购操作",
    "title": "央行将开展12000亿买断式逆回购操作",
    "rating": "A",
@@ -1854,6 +1841,71 @@
    "breaking": true,
    "event_id": "e:尊界v800刹车踏板支架断裂",
    "batch_window": 11
+  },
+  {
+   "key": "达利欧ai泡沫即将破裂网页链接网页链接",
+   "title": "达利欧：AI泡沫即将破裂 网页链接 网页链接",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "达利欧喊话AI泡沫，一线资本是否开始撤退？科技股估值重构窗口",
+   "hook_reason": "全球顶级投资人公开看空AI，直接触发投资者群体情绪共振",
+   "url": "https://weibo.com/1249424622/RlGVY38tC",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:达利欧ai泡沫即将破裂网页链接网页链接",
+   "batch_window": 12
+  },
+  {
+   "key": "江淮汽车被砸跌停",
+   "title": "江淮汽车被砸跌停",
+   "rating": "A",
+   "score": 87.5,
+   "angle": "深挖跌停触发因素，关联江淮与华为合作预期落差对资本市场的冲击",
+   "hook_reason": "股民血亏！江淮汽车突然跌停，背后引爆全网热议",
+   "url": "https://s.weibo.com/weibo?q=江淮汽车被砸跌停",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:江淮汽车被砸跌停",
+   "batch_window": 12
+  },
+  {
+   "key": "尊界v800测试中刹车踏板支架断裂",
+   "title": "尊界V800测试中刹车踏板支架断裂",
+   "rating": "A",
+   "score": 86.85,
+   "angle": "从智能汽车安全底线切入，解析测试车即暴露重大隐患背后的品控争议",
+   "hook_reason": "华为系新车测试期爆刹车故障，安全问题触达百万潜在车主神经",
+   "url": "https://www.toutiao.com/trending/7694101420622053412/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:尊界v800测试中刹车踏板支架断裂",
+   "batch_window": 12
+  },
+  {
+   "key": "郎行2026老人摔倒了大伙儿都不敢扶这是个啥世道叶苍茫2022感觉",
+   "title": "// @郎行-2026 :老人摔倒了大伙儿都不敢扶，这是个啥世道？// @叶苍茫2022 :感觉",
+   "rating": "A",
+   "score": 84.7,
+   "angle": "从老人摔倒不敢扶现象切入，剖析信任危机与社会救助机制的现实困境",
+   "hook_reason": "全民共鸣的道德困境，触碰每个人养老焦虑与信任危机",
+   "url": "https://weibo.com/1249424622/RlGJ62ld0",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:郎行2026老人摔倒了大伙儿都不敢扶这是个啥世道叶苍茫2022感觉",
+   "batch_window": 12
+  },
+  {
+   "key": "manus完成超5亿美元新一轮融资",
+   "title": "Manus完成超5亿美元新一轮融资",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "解析Manus估值逻辑与中国AI创业公司融资寒冬的对比，预判下一轮资本风向",
+   "hook_reason": "5亿美元融资刷新AI赛道纪录，资本疯狂涌入，读者必看",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniunrri4431869.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:manus完成超5亿美元新一轮融资",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -2062,7 +2114,8 @@
   "gpt6andintelligentuiforeveryone",
   "印度调查亚运会惨败事件",
   "openai全面上线gpt6",
-  "711关闭印度全部门店"
+  "711关闭印度全部门店",
+  "在泰失联的上海音乐教师已安全回国具体情况如何此事有哪些警示意义"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2207,7 +2260,8 @@
   "e:gpt6andintelligentuiforeveryone": "GPT‑6 and Intelligent UI for everyone",
   "e:印度调查亚运会惨败事件": "印度调查亚运会“惨败”事件",
   "e:openai全面上线gpt6": "OpenAI全面上线GPT-6",
-  "e:711关闭印度全部门店": "711关闭印度全部门店"
+  "e:711关闭印度全部门店": "711关闭印度全部门店",
+  "e:在泰失联的上海音乐教师已安全回国具体情况如何此事有哪些警示意义": "在泰失联的上海音乐教师已安全回国，具体情况如何？此事有哪些警示意义？"
  },
  "a_seen": {
   "南亚科技继续上调dram合同价": {
@@ -2641,8 +2695,80 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:尊界v800刹车踏板支架断裂"
+  },
+  "达利欧ai泡沫即将破裂网页链接网页链接": {
+   "key": "达利欧ai泡沫即将破裂网页链接网页链接",
+   "title": "达利欧：AI泡沫即将破裂 网页链接 网页链接",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "达利欧喊话AI泡沫，一线资本是否开始撤退？科技股估值重构窗口",
+   "hook_reason": "全球顶级投资人公开看空AI，直接触发投资者群体情绪共振",
+   "url": "https://weibo.com/1249424622/RlGVY38tC",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:达利欧ai泡沫即将破裂网页链接网页链接"
+  },
+  "江淮汽车被砸跌停": {
+   "key": "江淮汽车被砸跌停",
+   "title": "江淮汽车被砸跌停",
+   "rating": "A",
+   "score": 87.5,
+   "angle": "深挖跌停触发因素，关联江淮与华为合作预期落差对资本市场的冲击",
+   "hook_reason": "股民血亏！江淮汽车突然跌停，背后引爆全网热议",
+   "url": "https://s.weibo.com/weibo?q=江淮汽车被砸跌停",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:江淮汽车被砸跌停"
+  },
+  "尊界v800测试中刹车踏板支架断裂": {
+   "key": "尊界v800测试中刹车踏板支架断裂",
+   "title": "尊界V800测试中刹车踏板支架断裂",
+   "rating": "A",
+   "score": 86.85,
+   "angle": "从智能汽车安全底线切入，解析测试车即暴露重大隐患背后的品控争议",
+   "hook_reason": "华为系新车测试期爆刹车故障，安全问题触达百万潜在车主神经",
+   "url": "https://www.toutiao.com/trending/7694101420622053412/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:尊界v800测试中刹车踏板支架断裂"
+  },
+  "郎行2026老人摔倒了大伙儿都不敢扶这是个啥世道叶苍茫2022感觉": {
+   "key": "郎行2026老人摔倒了大伙儿都不敢扶这是个啥世道叶苍茫2022感觉",
+   "title": "// @郎行-2026 :老人摔倒了大伙儿都不敢扶，这是个啥世道？// @叶苍茫2022 :感觉",
+   "rating": "A",
+   "score": 84.7,
+   "angle": "从老人摔倒不敢扶现象切入，剖析信任危机与社会救助机制的现实困境",
+   "hook_reason": "全民共鸣的道德困境，触碰每个人养老焦虑与信任危机",
+   "url": "https://weibo.com/1249424622/RlGJ62ld0",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:郎行2026老人摔倒了大伙儿都不敢扶这是个啥世道叶苍茫2022感觉"
+  },
+  "如何评价懂车帝测试过程中3台尊界v800刹车踏板支架断裂": {
+   "key": "如何评价懂车帝测试过程中3台尊界v800刹车踏板支架断裂",
+   "title": "如何评价懂车帝测试过程中3台尊界V800刹车踏板支架断裂？",
+   "rating": "A",
+   "score": 78.95,
+   "angle": "3台尊界V800同一故障，质疑测试标准与整车品控，关联购车决策与售后维权",
+   "hook_reason": "高端车测试同时3台刹车断裂，直击车主安全焦虑",
+   "url": "https://www.zhihu.com/question/2091438763624882365",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:尊界v800测试中刹车踏板支架断裂"
+  },
+  "manus完成超5亿美元新一轮融资": {
+   "key": "manus完成超5亿美元新一轮融资",
+   "title": "Manus完成超5亿美元新一轮融资",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "解析Manus估值逻辑与中国AI创业公司融资寒冬的对比，预判下一轮资本风向",
+   "hook_reason": "5亿美元融资刷新AI赛道纪录，资本疯狂涌入，读者必看",
+   "url": "https://finance.sina.cn/7x24/2026-10-08/detail-iniunrri4431869.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:manus完成超5亿美元新一轮融资"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
