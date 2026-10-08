@@ -1815,6 +1815,32 @@
    "breaking": true,
    "event_id": "e:margarethamiltonhasdied",
    "batch_window": 9
+  },
+  {
+   "key": "711关闭印度全部门店",
+   "title": "711关闭印度全部门店",
+   "rating": "A",
+   "score": 91.82,
+   "angle": "从711退出印度看零售出海困局，拆解中国企业全球化踩坑的共性问题与应对策略",
+   "hook_reason": "711印度全线溃败，中国品牌出海还有多远",
+   "url": "https://s.weibo.com/weibo?q=711关闭印度全部门店",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:711关闭印度全部门店",
+   "batch_window": 9
+  },
+  {
+   "key": "在泰失联的上海音乐教师已安全回国具体情况如何此事有哪些警示意义",
+   "title": "在泰失联的上海音乐教师已安全回国，具体情况如何？此事有哪些警示意义？",
+   "rating": "A",
+   "score": 89.0,
+   "angle": "追踪事件进展，延伸泰国旅行安全提醒，为华人出境提供实用避险指南",
+   "hook_reason": "公民境外失联+安全回国，天然情绪共鸣，公众对出境安全高度关注",
+   "url": "https://www.zhihu.com/question/2091196584369316750",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:在泰失联的上海音乐教师已安全回国具体情况如何此事有哪些警示意义",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -2507,13 +2533,13 @@
    "key": "openai全面上线gpt6",
    "title": "OpenAI全面上线GPT-6",
    "rating": "A",
-   "score": 98.0,
-   "angle": "GPT-6究竟强在哪？对比GPT-4/Olympiad成绩，解读OpenAI技术路线是否拉开代差",
-   "hook_reason": "OpenAI发布GPT-6，AI领域年度重磅，全网热度140爆表",
+   "score": 87.25,
+   "angle": "对比GPT-5的突破点，拆解对开发者、创作者的实际影响",
+   "hook_reason": "GPT-6落地，AI能力跃升引发全民讨论",
    "url": "https://s.weibo.com/weibo?q=OpenAI全面上线GPT6",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:openai全面上线gpt6"
+   "event_id": "e:gpt6andintelligentuiforeveryone"
   },
   "河北电商据称把成本压到极致发1万单倒赔130利润来自卖纸壳是真的吗河北电商是怎样一个存在": {
    "key": "河北电商据称把成本压到极致发1万单倒赔130利润来自卖纸壳是真的吗河北电商是怎样一个存在",
@@ -2538,6 +2564,30 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:margarethamiltonhasdied"
+  },
+  "711关闭印度全部门店": {
+   "key": "711关闭印度全部门店",
+   "title": "711关闭印度全部门店",
+   "rating": "A",
+   "score": 91.82,
+   "angle": "从711退出印度看零售出海困局，拆解中国企业全球化踩坑的共性问题与应对策略",
+   "hook_reason": "711印度全线溃败，中国品牌出海还有多远",
+   "url": "https://s.weibo.com/weibo?q=711关闭印度全部门店",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:711关闭印度全部门店"
+  },
+  "在泰失联的上海音乐教师已安全回国具体情况如何此事有哪些警示意义": {
+   "key": "在泰失联的上海音乐教师已安全回国具体情况如何此事有哪些警示意义",
+   "title": "在泰失联的上海音乐教师已安全回国，具体情况如何？此事有哪些警示意义？",
+   "rating": "A",
+   "score": 89.0,
+   "angle": "追踪事件进展，延伸泰国旅行安全提醒，为华人出境提供实用避险指南",
+   "hook_reason": "公民境外失联+安全回国，天然情绪共鸣，公众对出境安全高度关注",
+   "url": "https://www.zhihu.com/question/2091196584369316750",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:在泰失联的上海音乐教师已安全回国具体情况如何此事有哪些警示意义"
   }
  },
  "breaking_count": 10,
