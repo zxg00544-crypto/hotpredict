@@ -1661,19 +1661,6 @@
    "batch_window": 2
   },
   {
-   "key": "gpt6andintelligentuiforeveryone",
-   "title": "GPT‑6 and Intelligent UI for everyone",
-   "rating": "A",
-   "score": 81.5,
-   "angle": "解读GPT-6技术突破与智能UI如何改变普通人使用AI的方式",
-   "hook_reason": "OpenAI正式发布GPT-6，智能UI人人可用，AI平民化里程碑",
-   "url": "https://openai.com/index/gpt-6-for-everyone/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:gpt6andintelligentuiforeveryone",
-   "batch_window": 3
-  },
-  {
    "key": "特朗普将推出逾10亿美元人工智能科研计划",
    "title": "特朗普将推出逾10亿美元人工智能科研计划",
    "rating": "A",
@@ -2006,7 +1993,8 @@
   "小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里",
   "余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机市场有多大影响",
   "showhnbigwordspageturnanyscreeni757ef3a6",
-  "themathocalypse"
+  "themathocalypse",
+  "gpt6andintelligentuiforeveryone"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2147,7 +2135,8 @@
   "e:小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里": "小米澎程 N90 Max，长途高速续航有多强？ 看看视频，满油满电出发，上海至北京，1230公里",
   "e:余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机": "余承东称华为将不得不涨价，存储元器件大涨使每部手机增超两百美元成本，会对消费者及手机市场有多大影响？",
   "e:showhnbigwordspageturnanyscreenintoasign": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-  "e:themathocalypse": "The Mathocalypse"
+  "e:themathocalypse": "The Mathocalypse",
+  "e:gpt6andintelligentuiforeveryone": "GPT‑6 and Intelligent UI for everyone"
  },
  "a_seen": {
   "南亚科技继续上调dram合同价": {
@@ -2488,5 +2477,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
