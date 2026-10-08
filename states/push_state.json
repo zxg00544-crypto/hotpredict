@@ -1973,19 +1973,6 @@
    "batch_window": 16
   },
   {
-   "key": "鸿蒙智行回应刹车踏板断裂传闻",
-   "title": "鸿蒙智行回应刹车踏板断裂传闻",
-   "rating": "A",
-   "score": 85.53,
-   "angle": "从'刹车踏板断裂'技术质疑切入，拆解鸿蒙智行公关回应的时间线与技术逻辑，追问车企安全红线与企业信任危机",
-   "hook_reason": "华为系造车安全危机，关乎问界车主生命安全，情绪引爆点极强",
-   "url": "https://s.weibo.com/weibo?q=鸿蒙智行回应刹车踏板断裂传闻",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:鸿蒙智行回应刹车踏板断裂传闻",
-   "batch_window": 17
-  },
-  {
    "key": "国庆每天3亿人出游旅行社却撑不住了",
    "title": "国庆每天3亿人出游 旅行社却撑不住了",
    "rating": "A",
@@ -2296,6 +2283,45 @@
    "breaking": true,
    "event_id": "e:whyisnttheindustryfreakingoutaboutdeepse",
    "batch_window": 5
+  },
+  {
+   "key": "theranosworld",
+   "title": "Theranos.world",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "以Theranos历史丑闻为镜，结合 Theranos.world 新动态，警示科技创业圈诚信底线与监管盲区",
+   "hook_reason": "Theranos骗局重提？新爆料引爆科技圈，投资人必读警醒",
+   "url": "https://www.theranos.world/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:theranosworld",
+   "batch_window": 6
+  },
+  {
+   "key": "mandiscovershisparentscoffeemachbe58f88f",
+   "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+   "rating": "A",
+   "score": 75.6,
+   "angle": "以咖啡机为例切入IoT设备数据黑洞，揭示智能家居背后的隐私与安全风险",
+   "hook_reason": "咖啡机10天偷跑1TB流量，智能设备隐私危机引发全民警觉",
+   "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:mandiscovershisparentscoffeemachineused1",
+   "batch_window": 6
+  },
+  {
+   "key": "马斯克这听起来可能极其疯狂但我看到一条路径能让spacexspcxo",
+   "title": "马斯克：这听起来可能极其疯狂，但我看到一条路径，能让SpaceX(SPCX.O)",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "以马斯克'疯狂'言论为切入点，解读SpaceX商业航天路径及对中国商业航天的启示",
+   "hook_reason": "马斯克放狠话谈SpaceX商业化路径，太空生意引全民围观",
+   "url": "https://finance.sina.cn/7x24/2026-10-09/detail-iniuqiym7305160.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克这听起来可能极其疯狂但我看到一条路径能让spacexspcxo",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -2532,7 +2558,8 @@
   "固态电池逆市大涨多股涨停",
   "余承东向霍震寰交付尊界v800",
   "江淮汽车对尊界启动调查和测试",
-  "保时捷回归燃油车"
+  "保时捷回归燃油车",
+  "鸿蒙智行回应刹车踏板断裂传闻"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2705,7 +2732,8 @@
   "e:固态电池逆市大涨多股涨停": "固态电池逆市大涨 多股涨停",
   "e:余承东向霍震寰交付尊界v800": "余承东向霍震寰交付尊界V800",
   "e:江淮汽车对尊界启动调查和测试": "江淮汽车对尊界启动调查和测试",
-  "e:保时捷回归燃油车": "保时捷回归燃油车"
+  "e:保时捷回归燃油车": "保时捷回归燃油车",
+  "e:鸿蒙智行回应刹车踏板断裂传闻": "鸿蒙智行回应刹车踏板断裂传闻"
  },
  "a_seen": {
   "宇树科技股价较上市高点跌超60": {
@@ -2856,15 +2884,51 @@
    "key": "whyisnttheindustryfreakingoutabo5fcd0523",
    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
    "rating": "A",
-   "score": 77.0,
-   "angle": "拆解DeepSeek 4.1 Flash未引发预期的'恐慌'，分析业界理性评估背后的技术实力与市场认知差",
-   "hook_reason": "DeepSeek新模型发布业界却反应平淡，反常现象引发好奇",
+   "score": 75.85,
+   "angle": "逆向切入：DeepSeek 4.1 Flash为何没引发行业震动？分析技术预期、市场环境与竞争对手格局",
+   "hook_reason": "DeepSeek新品反常冷遇，揭秘AI圈真实情绪",
    "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
    "track": "科技",
    "breaking": true,
    "event_id": "e:whyisnttheindustryfreakingoutaboutdeepse"
+  },
+  "theranosworld": {
+   "key": "theranosworld",
+   "title": "Theranos.world",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "以Theranos历史丑闻为镜，结合 Theranos.world 新动态，警示科技创业圈诚信底线与监管盲区",
+   "hook_reason": "Theranos骗局重提？新爆料引爆科技圈，投资人必读警醒",
+   "url": "https://www.theranos.world/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:theranosworld"
+  },
+  "mandiscovershisparentscoffeemachbe58f88f": {
+   "key": "mandiscovershisparentscoffeemachbe58f88f",
+   "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+   "rating": "A",
+   "score": 75.6,
+   "angle": "以咖啡机为例切入IoT设备数据黑洞，揭示智能家居背后的隐私与安全风险",
+   "hook_reason": "咖啡机10天偷跑1TB流量，智能设备隐私危机引发全民警觉",
+   "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:mandiscovershisparentscoffeemachineused1"
+  },
+  "马斯克这听起来可能极其疯狂但我看到一条路径能让spacexspcxo": {
+   "key": "马斯克这听起来可能极其疯狂但我看到一条路径能让spacexspcxo",
+   "title": "马斯克：这听起来可能极其疯狂，但我看到一条路径，能让SpaceX(SPCX.O)",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "以马斯克'疯狂'言论为切入点，解读SpaceX商业航天路径及对中国商业航天的启示",
+   "hook_reason": "马斯克放狠话谈SpaceX商业化路径，太空生意引全民围观",
+   "url": "https://finance.sina.cn/7x24/2026-10-09/detail-iniuqiym7305160.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克这听起来可能极其疯狂但我看到一条路径能让spacexspcxo"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
