@@ -1804,19 +1804,6 @@
    "batch_window": 9
   },
   {
-   "key": "网友们说胡锡进批评你了你咋不回复第一胡锡进所说内容并不是批评他只是说了自己的观点大家",
-   "title": "网友们说胡锡进批评你了，你咋不回复？ 第一，胡锡进所说内容并不是批评，他只是说了自己的观点，大家",
-   "rating": "A",
-   "score": 84.95,
-   "angle": "AI首次正面回应社会名嘴：不卑不亢、理性克制，展现人机边界",
-   "hook_reason": "社会名嘴vsAI，身份反差+回应悬念，读者好奇AI怎么接招",
-   "url": "https://weibo.com/1875293522/RlGmP8UcQ",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:网友们说胡锡进批评你了你咋不回复第一胡锡进所说内容并不是批评他只是说了自己的观点",
-   "batch_window": 10
-  },
-  {
    "key": "尊界v800刹车踏板支架断裂",
    "title": "尊界V800刹车踏板支架断裂",
    "rating": "A",
@@ -2660,6 +2647,32 @@
    "breaking": true,
    "event_id": "e:a股上演大奇迹日回调结束了吗",
    "batch_window": 23
+  },
+  {
+   "key": "太平洋海啸预警中心可能出现大范围危险海啸波",
+   "title": "太平洋海啸预警中心：可能出现大范围危险海啸波。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从预警出发，盘点沿海城市应急储备现状与民众避险指南",
+   "hook_reason": "突发高危自然灾害预警，牵动沿海千万人安全焦虑",
+   "url": "https://finance.sina.cn/7x24/2026-10-10/detail-iniushrz7634675.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:太平洋海啸预警中心可能出现大范围危险海啸波",
+   "batch_window": 2
+  },
+  {
+   "key": "sorryiminameeting",
+   "title": "Sorry, I'm in a meeting",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从HN爆款项目切入，解读'会议文化'背后的职场焦虑与打工人的集体情绪宣泄",
+   "hook_reason": "职场人共鸣极强的自嘲梗，精准击中打工人痛点",
+   "url": "https://iminafleeting.com/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:sorryiminameeting",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -2926,7 +2939,8 @@
   "美国农业部佛罗里达州202627年度橙子产量预计为1000万箱",
   "wasde作物报告发布后谷物期货价格大幅下跌",
   "我不小心把丈夫落在高速上了",
-  "新郎母亲回应儿子婚礼当天离世"
+  "新郎母亲回应儿子婚礼当天离世",
+  "网友们说胡锡进批评你了你咋不回复第一胡锡进所说内容并不是批评他只是说了自己的观点大家"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -3129,7 +3143,8 @@
   "e:美国农业部佛罗里达州202627年度橙子产量预计为1000万箱": "美国农业部：佛罗里达州2026/27年度橙子产量预计为1000万箱。",
   "e:wasde作物报告发布后谷物期货价格大幅下跌": "WASDE作物报告发布后，谷物期货价格大幅下跌。",
   "e:我不小心把丈夫落在高速上了": "“我不小心把丈夫落在高速上了”",
-  "e:新郎母亲回应儿子婚礼当天离世": "新郎母亲回应儿子婚礼当天离世"
+  "e:新郎母亲回应儿子婚礼当天离世": "新郎母亲回应儿子婚礼当天离世",
+  "e:网友们说胡锡进批评你了你咋不回复第一胡锡进所说内容并不是批评他只是说了自己的观点": "网友们说胡锡进批评你了，你咋不回复？ 第一，胡锡进所说内容并不是批评，他只是说了自己的观点，大家"
  },
  "a_seen": {
   "usimposessanctionsonicchoursafte7392c7d4": {
@@ -3143,8 +3158,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:usimposessanctionsonicchoursafterformerj"
+  },
+  "太平洋海啸预警中心可能出现大范围危险海啸波": {
+   "key": "太平洋海啸预警中心可能出现大范围危险海啸波",
+   "title": "太平洋海啸预警中心：可能出现大范围危险海啸波。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从预警出发，盘点沿海城市应急储备现状与民众避险指南",
+   "hook_reason": "突发高危自然灾害预警，牵动沿海千万人安全焦虑",
+   "url": "https://finance.sina.cn/7x24/2026-10-10/detail-iniushrz7634675.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:太平洋海啸预警中心可能出现大范围危险海啸波"
+  },
+  "sorryiminameeting": {
+   "key": "sorryiminameeting",
+   "title": "Sorry, I'm in a meeting",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从HN爆款项目切入，解读'会议文化'背后的职场焦虑与打工人的集体情绪宣泄",
+   "hook_reason": "职场人共鸣极强的自嘲梗，精准击中打工人痛点",
+   "url": "https://iminafleeting.com/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:sorryiminameeting"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
