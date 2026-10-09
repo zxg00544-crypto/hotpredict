@@ -2517,6 +2517,32 @@
    "breaking": true,
    "event_id": "e:特斯拉fsd欧洲改名tad辅助驾驶欧盟审批再延期入华时间仍未明确",
    "batch_window": 16
+  },
+  {
+   "key": "48起事故致54死精诚矿业案宣判",
+   "title": "48起事故致54死 精诚矿业案宣判",
+   "rating": "A",
+   "score": 91.5,
+   "angle": "从矿难事故追责、企业责任、安全监管漏洞切入，关注司法判决的社会意义",
+   "hook_reason": "54人死亡的矿难案件宣判，牵动公众对安全生产与司法公正的关注",
+   "url": "https://www.baidu.com/s?wd=48%E8%B5%B7%E4%BA%8B%E6%95%85%E8%87%B454%E6%AD%BB+%E7%B2%BE%E8%AF%9A%E7%9F%BF%E4%B8%9A%E6%A1%88%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:48起事故致54死精诚矿业案宣判",
+   "batch_window": 16
+  },
+  {
+   "key": "nianxuexu澎湃os这一代大提升",
+   "title": "// @nianxuexu :澎湃OS这一代大提升",
+   "rating": "A",
+   "score": 84.8,
+   "angle": "拆解澎湃OS迭代亮点，对比前代分析技术突破与体验升级",
+   "hook_reason": "小米OS重大升级引爆科技圈，用户换新机关注点集中",
+   "url": "https://weibo.com/1749127163/RlRPxAbvS",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nianxuexu澎湃os这一代大提升",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -3454,6 +3480,42 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:特斯拉fsd欧洲改名tad辅助驾驶欧盟审批再延期入华时间仍未明确"
+  },
+  "48起事故致54死精诚矿业案宣判": {
+   "key": "48起事故致54死精诚矿业案宣判",
+   "title": "48起事故致54死 精诚矿业案宣判",
+   "rating": "A",
+   "score": 91.5,
+   "angle": "从矿难事故追责、企业责任、安全监管漏洞切入，关注司法判决的社会意义",
+   "hook_reason": "54人死亡的矿难案件宣判，牵动公众对安全生产与司法公正的关注",
+   "url": "https://www.baidu.com/s?wd=48%E8%B5%B7%E4%BA%8B%E6%95%85%E8%87%B454%E6%AD%BB+%E7%B2%BE%E8%AF%9A%E7%9F%BF%E4%B8%9A%E6%A1%88%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:48起事故致54死精诚矿业案宣判"
+  },
+  "nianxuexu澎湃os这一代大提升": {
+   "key": "nianxuexu澎湃os这一代大提升",
+   "title": "// @nianxuexu :澎湃OS这一代大提升",
+   "rating": "A",
+   "score": 84.8,
+   "angle": "拆解澎湃OS迭代亮点，对比前代分析技术突破与体验升级",
+   "hook_reason": "小米OS重大升级引爆科技圈，用户换新机关注点集中",
+   "url": "https://weibo.com/1749127163/RlRPxAbvS",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nianxuexu澎湃os这一代大提升"
+  },
+  "精诚矿业瞒报54人死亡41人获刑": {
+   "key": "精诚矿业瞒报54人死亡41人获刑",
+   "title": "精诚矿业瞒报54人死亡41人获刑",
+   "rating": "A",
+   "score": 81.8,
+   "angle": "司法审判视角切入，深挖矿难瞒报黑幕与监管漏洞",
+   "hook_reason": "54人遇难瞒报案宣判，触及安全生产底线",
+   "url": "https://www.toutiao.com/trending/7693839169075888154/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:48起事故致54死精诚矿业案宣判"
   }
  },
  "breaking_count": 10,
