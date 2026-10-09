@@ -2610,19 +2610,6 @@
    "batch_window": 21
   },
   {
-   "key": "曝小米yu7上市一年单车销售额达624亿",
-   "title": "曝小米YU7上市一年单车销售额达624亿",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "拆解小米YU7真实销量数据，对比豪车/电车市场，分析624亿背后的商业模式与盈利逻辑",
-   "hook_reason": "小米汽车销量爆表，单车624亿太离谱？数字背后藏着真相",
-   "url": "https://www.toutiao.com/trending/7694587308582161970/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:曝小米yu7上市一年单车销售额达624亿",
-   "batch_window": 22
-  },
-  {
    "key": "度电成本压到3分高空风电改写能源格局高空风电度电成本能源格局卢克文的微",
    "title": "度电成本压到 3 分！高空风电改写能源格局 #高空风电# #度电成本# #能源格局# 卢克文的微",
    "rating": "A",
@@ -2647,6 +2634,58 @@
    "breaking": true,
    "event_id": "e:weiwei解语无论好坏但总都心怀坦荡光明磊落非常荣幸能在这伟大的时代遇见但总",
    "batch_window": 22
+  },
+  {
+   "key": "我不小心把丈夫落在高速上了",
+   "title": "“我不小心把丈夫落在高速上了”",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从女性司机视角切入，探讨高速行车安全与夫妻相处趣事，引发共鸣讨论",
+   "hook_reason": "意外事件+婚姻话题，读者想看后续和反应",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8A%E4%B8%88%E5%A4%AB%E8%90%BD%E5%9C%A8%E9%AB%98%E9%80%9F%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:我不小心把丈夫落在高速上了",
+   "batch_window": 23
+  },
+  {
+   "key": "denoisjoiningcloudflare",
+   "title": "Deno Is Joining Cloudflare",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从开源生态格局切入，解读Cloudflare收购Deno对JS/TS开发者及Rust技术栈的深远影响",
+   "hook_reason": "Deno被Cloudflare收购，开发者社区震动，技术版图再洗牌",
+   "url": "https://deno.com/blog/cloudflare",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:denoisjoiningcloudflare",
+   "batch_window": 23
+  },
+  {
+   "key": "our445mseriesd",
+   "title": "Our $445M Series D",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从Oxide融资切入，分析云计算基础设施赛道资本动态与下一代云竞争格局",
+   "hook_reason": "4.45亿美元D轮，云计算新贵引爆资本追逐",
+   "url": "https://oxide.computer/blog/our-445m-series-d",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:our445mseriesd",
+   "batch_window": 23
+  },
+  {
+   "key": "a股上演大奇迹日回调结束了吗",
+   "title": "A股上演“大奇迹日” 回调结束了吗",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深度复盘'奇迹日'催化剂：政策/资金面双轮驱动下，A股这波是反弹还是反转？附3个关键信号帮你判断",
+   "hook_reason": "A股暴涨点燃散户FOMO，百万投资者迫切想知道回调是否终结",
+   "url": "https://www.toutiao.com/trending/7694652593582116371/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股上演大奇迹日回调结束了吗",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -2900,7 +2939,8 @@
   "美军将直播枪决",
   "龟速车到底有多气人",
   "两虎被开除党籍",
-  "家族16人参军仅1人生还"
+  "家族16人参军仅1人生还",
+  "曝小米yu7上市一年单车销售额达624亿"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -3090,7 +3130,8 @@
   "e:美军将直播枪决": "美军将直播枪决",
   "e:龟速车到底有多气人": "“龟速车”到底有多气人",
   "e:两虎被开除党籍": "两“虎”被开除党籍",
-  "e:家族16人参军仅1人生还": "家族16人参军仅1人生还"
+  "e:家族16人参军仅1人生还": "家族16人参军仅1人生还",
+  "e:曝小米yu7上市一年单车销售额达624亿": "曝小米YU7上市一年单车销售额达624亿"
  },
  "a_seen": {
   "宇树科技股价较上市高点跌超60": {
@@ -3800,8 +3841,56 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:weiwei解语无论好坏但总都心怀坦荡光明磊落非常荣幸能在这伟大的时代遇见但总"
+  },
+  "我不小心把丈夫落在高速上了": {
+   "key": "我不小心把丈夫落在高速上了",
+   "title": "“我不小心把丈夫落在高速上了”",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从女性司机视角切入，探讨高速行车安全与夫妻相处趣事，引发共鸣讨论",
+   "hook_reason": "意外事件+婚姻话题，读者想看后续和反应",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8A%E4%B8%88%E5%A4%AB%E8%90%BD%E5%9C%A8%E9%AB%98%E9%80%9F%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:我不小心把丈夫落在高速上了"
+  },
+  "denoisjoiningcloudflare": {
+   "key": "denoisjoiningcloudflare",
+   "title": "Deno Is Joining Cloudflare",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从开源生态格局切入，解读Cloudflare收购Deno对JS/TS开发者及Rust技术栈的深远影响",
+   "hook_reason": "Deno被Cloudflare收购，开发者社区震动，技术版图再洗牌",
+   "url": "https://deno.com/blog/cloudflare",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:denoisjoiningcloudflare"
+  },
+  "our445mseriesd": {
+   "key": "our445mseriesd",
+   "title": "Our $445M Series D",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从Oxide融资切入，分析云计算基础设施赛道资本动态与下一代云竞争格局",
+   "hook_reason": "4.45亿美元D轮，云计算新贵引爆资本追逐",
+   "url": "https://oxide.computer/blog/our-445m-series-d",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:our445mseriesd"
+  },
+  "a股上演大奇迹日回调结束了吗": {
+   "key": "a股上演大奇迹日回调结束了吗",
+   "title": "A股上演“大奇迹日” 回调结束了吗",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深度复盘'奇迹日'催化剂：政策/资金面双轮驱动下，A股这波是反弹还是反转？附3个关键信号帮你判断",
+   "hook_reason": "A股暴涨点燃散户FOMO，百万投资者迫切想知道回调是否终结",
+   "url": "https://www.toutiao.com/trending/7694652593582116371/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股上演大奇迹日回调结束了吗"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
