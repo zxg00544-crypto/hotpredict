@@ -2350,19 +2350,6 @@
    "batch_window": 13
   },
   {
-   "key": "新华社消10月3日消息阿根廷经济部长卡普托宣布推出投资换国籍方案简单来说只要花钱就能申",
-   "title": "新华社消10月3日消息，阿根廷经济部长卡普托宣布推出“投资换国籍”方案。简单来说，只要花钱就能申",
-   "rating": "A",
-   "score": 84.95,
-   "angle": "从'花钱买国籍'切入，分析各国入籍门槛对比、阿根廷方案细节、普通人的可行性与风险",
-   "hook_reason": "花钱买国籍？门槛多少普通人能否上车",
-   "url": "https://weibo.com/1875293522/RlQErfnZO",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:新华社消10月3日消息阿根廷经济部长卡普托宣布推出投资换国籍方案简单来说只要花钱",
-   "batch_window": 14
-  },
-  {
    "key": "24元救命药飙涨到1200元",
    "title": "24元救命药飙涨到1200元",
    "rating": "A",
@@ -2764,6 +2751,45 @@
    "breaking": true,
    "event_id": "e:anthropic模型的非预期行为包括claude利用网址缩短服务绕过其抓取工",
    "batch_window": 6
+  },
+  {
+   "key": "youtubersayscopsvisitedhimafterhc5c1601f",
+   "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从公民使用科技监控执法者角度切入，探讨'监控谁'的权力博弈与法律边界",
+   "hook_reason": "警察拜访监控自己的YouTuber，公民监督执法的冲突叙事引爆情绪",
+   "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:youtubersayscopsvisitedhimafterhebuiltaf",
+   "batch_window": 7
+  },
+  {
+   "key": "anthropic欺诈性使用政府系统促使白宫出台ai报告强制令",
+   "title": "Anthropic“欺诈性”使用政府系统促使白宫出台AI报告强制令",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从Anthropic合规风波切入，探讨大模型企业政企关系边界与监管红线",
+   "hook_reason": "AI巨头被控欺诈政府系统，白宫紧急出台强制监管令",
+   "url": "https://finance.sina.cn/7x24/2026-10-10/detail-iniustfu0720557.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic欺诈性使用政府系统促使白宫出台ai报告强制令",
+   "batch_window": 7
+  },
+  {
+   "key": "熟悉情况的西方官员称尽管美国和以色列进行了数月的轰炸伊朗仍保留了导弹和无人机",
+   "title": "熟悉情况的西方官员称，尽管美国和以色列进行了数月的轰炸，伊朗仍保留了导弹和无人机",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从地缘冲突意外走向切入，关联全球能源供应链与A股军工/油气板块联动逻辑",
+   "hook_reason": "中东局势突变！伊朗导弹能力存疑，油价恐掀巨浪",
+   "url": "https://finance.sina.cn/7x24/2026-10-10/detail-iniustfu0714641.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:熟悉情况的西方官员称尽管美国和以色列进行了数月的轰炸伊朗仍保留了导弹和无人机",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -3035,7 +3061,8 @@
   "929新政策政策底已现这个时点怎么办股市财经金融投资理财机会",
   "一片好评华为的工程师是怎么想到这个赛道的过两年苹果一定跟进",
   "马斯克称未来金钱可能不再重要",
-  "央妈出钱贴房贷普通人现在该买房吗房贷贴息购房时机租售比卢克文的微博视频"
+  "央妈出钱贴房贷普通人现在该买房吗房贷贴息购房时机租售比卢克文的微博视频",
+  "新华社消10月3日消息阿根廷经济部长卡普托宣布推出投资换国籍方案简单来说只要花钱就能申"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -3243,7 +3270,8 @@
   "e:929新政策政策底已现这个时点怎么办股市财经金融投资理财机会": "“929新政策”政策底已现，这个时点怎么办？ #股市# #财经# #金融# #投资理财# #机会",
   "e:一片好评华为的工程师是怎么想到这个赛道的过两年苹果一定跟进": "一片好评，华为的工程师是怎么想到这个赛道的？过两年苹果一定跟进。",
   "e:马斯克称未来金钱可能不再重要": "马斯克称未来金钱可能不再重要",
-  "e:央妈出钱贴房贷普通人现在该买房吗房贷贴息购房时机租售比卢克文的微博视频": "央妈出钱贴房贷，普通人现在该买房吗？ #房贷贴息# #购房时机# #租售比 卢克文的微博视频"
+  "e:央妈出钱贴房贷普通人现在该买房吗房贷贴息购房时机租售比卢克文的微博视频": "央妈出钱贴房贷，普通人现在该买房吗？ #房贷贴息# #购房时机# #租售比 卢克文的微博视频",
+  "e:新华社消10月3日消息阿根廷经济部长卡普托宣布推出投资换国籍方案简单来说只要花钱": "新华社消10月3日消息，阿根廷经济部长卡普托宣布推出“投资换国籍”方案。简单来说，只要花钱就能申"
  },
  "a_seen": {
   "usimposessanctionsonicchoursafte7392c7d4": {
@@ -3437,8 +3465,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:anthropic模型的非预期行为包括claude利用网址缩短服务绕过其抓取工"
+  },
+  "youtubersayscopsvisitedhimafterhc5c1601f": {
+   "key": "youtubersayscopsvisitedhimafterhc5c1601f",
+   "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从公民使用科技监控执法者角度切入，探讨'监控谁'的权力博弈与法律边界",
+   "hook_reason": "警察拜访监控自己的YouTuber，公民监督执法的冲突叙事引爆情绪",
+   "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:youtubersayscopsvisitedhimafterhebuiltaf"
+  },
+  "anthropic欺诈性使用政府系统促使白宫出台ai报告强制令": {
+   "key": "anthropic欺诈性使用政府系统促使白宫出台ai报告强制令",
+   "title": "Anthropic“欺诈性”使用政府系统促使白宫出台AI报告强制令",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从Anthropic合规风波切入，探讨大模型企业政企关系边界与监管红线",
+   "hook_reason": "AI巨头被控欺诈政府系统，白宫紧急出台强制监管令",
+   "url": "https://finance.sina.cn/7x24/2026-10-10/detail-iniustfu0720557.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic欺诈性使用政府系统促使白宫出台ai报告强制令"
+  },
+  "熟悉情况的西方官员称尽管美国和以色列进行了数月的轰炸伊朗仍保留了导弹和无人机": {
+   "key": "熟悉情况的西方官员称尽管美国和以色列进行了数月的轰炸伊朗仍保留了导弹和无人机",
+   "title": "熟悉情况的西方官员称，尽管美国和以色列进行了数月的轰炸，伊朗仍保留了导弹和无人机",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从地缘冲突意外走向切入，关联全球能源供应链与A股军工/油气板块联动逻辑",
+   "hook_reason": "中东局势突变！伊朗导弹能力存疑，油价恐掀巨浪",
+   "url": "https://finance.sina.cn/7x24/2026-10-10/detail-iniustfu0714641.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:熟悉情况的西方官员称尽管美国和以色列进行了数月的轰炸伊朗仍保留了导弹和无人机"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
