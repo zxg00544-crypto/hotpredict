@@ -2506,19 +2506,6 @@
    "batch_window": 16
   },
   {
-   "key": "48起事故致54死精诚矿业案宣判",
-   "title": "48起事故致54死 精诚矿业案宣判",
-   "rating": "A",
-   "score": 91.5,
-   "angle": "从矿难事故追责、企业责任、安全监管漏洞切入，关注司法判决的社会意义",
-   "hook_reason": "54人死亡的矿难案件宣判，牵动公众对安全生产与司法公正的关注",
-   "url": "https://www.baidu.com/s?wd=48%E8%B5%B7%E4%BA%8B%E6%95%85%E8%87%B454%E6%AD%BB+%E7%B2%BE%E8%AF%9A%E7%9F%BF%E4%B8%9A%E6%A1%88%E5%AE%A3%E5%88%A4&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:48起事故致54死精诚矿业案宣判",
-   "batch_window": 16
-  },
-  {
    "key": "nianxuexu澎湃os这一代大提升",
    "title": "// @nianxuexu :澎湃OS这一代大提升",
    "rating": "A",
@@ -2556,6 +2543,45 @@
    "breaking": true,
    "event_id": "e:小米澎程出色的续航背后是什么有一个核心原因是超低的风阻系数作为全尺寸增程suv小",
    "batch_window": 17
+  },
+  {
+   "key": "陶哲轩转发多位数学家抵制openai的文章怎么看待该观点这将对ai数学研究带来哪些改变",
+   "title": "陶哲轩转发多位数学家抵制 OpenAI 的文章，怎么看待该观点？这将对 AI 数学研究带来哪些改变？",
+   "rating": "A",
+   "score": 77.37,
+   "angle": "从陶哲轩态度转变切入，解析数学家为何集体抵制OpenAI及其对AI科研范式的冲击",
+   "hook_reason": "陶哲轩罕见站队抵制AI，数学家集体发声引发技术伦理大讨论",
+   "url": "https://www.zhihu.com/question/2091831158468244988",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:陶哲轩转发多位数学家抵制openai的文章怎么看待该观点这将对ai数学研究带来哪",
+   "batch_window": 18
+  },
+  {
+   "key": "美军将直播枪决",
+   "title": "美军将直播枪决",
+   "rating": "A",
+   "score": 87.0,
+   "angle": "从国际军事热点切入，分析美军此举的象征意义与舆论争议",
+   "hook_reason": "美军直播枪决涉及国际军事敏感话题，视觉冲击力极强",
+   "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%B0%86%E7%9B%B4%E6%92%AD%E6%9E%AA%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:美军将直播枪决",
+   "batch_window": 18
+  },
+  {
+   "key": "英伟达限制使用claude这背后意味着什么ai创造营热搜ai创作激励大赛红衣大",
+   "title": "英伟达限制使用Claude！这背后意味着什么？ #ai创造营# #热搜AI创作激励大赛# 红衣大",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "英伟达限制Claude背后是算力霸权之争，揭示AI产业上下游博弈真相",
+   "hook_reason": "英伟达封杀Claude，AI巨头正面开战，谁在害怕谁？",
+   "url": "https://weibo.com/1708942053/RlT5gAZI3",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达限制使用claude这背后意味着什么ai创造营热搜ai创作激励大赛红衣大",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -2804,7 +2830,8 @@
   "世界第134削翻世界第4",
   "昔日顶级业主又要卖酒店了",
   "超强厄尔尼诺已形成",
-  "新郎新娘同名同姓还是同行"
+  "新郎新娘同名同姓还是同行",
+  "48起事故致54死精诚矿业案宣判"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -2989,7 +3016,8 @@
   "e:世界第134削翻世界第4": "世界第134“削”翻世界第4",
   "e:昔日顶级业主又要卖酒店了": "昔日顶级业主又要卖酒店了",
   "e:超强厄尔尼诺已形成": "超强厄尔尼诺已形成",
-  "e:新郎新娘同名同姓还是同行": "新郎新娘同名同姓还是同行"
+  "e:新郎新娘同名同姓还是同行": "新郎新娘同名同姓还是同行",
+  "e:48起事故致54死精诚矿业案宣判": "48起事故致54死 精诚矿业案宣判"
  },
  "a_seen": {
   "宇树科技股价较上市高点跌超60": {
@@ -3536,9 +3564,9 @@
    "key": "全球股市大涨大a先抑后扬未来怎么干首次讲透三大主线股市大a股票知识",
    "title": "全球股市大涨 大A先抑后扬？未来怎么干 首次讲透三大主线！ #股市# #大A# #股票知识# #",
    "rating": "A",
-   "score": 84.95,
-   "angle": "A股先抑后扬的底层逻辑，三大主线是哪三条，普通人如何跟对节奏",
-   "hook_reason": "全球暴涨+大A逆袭，股民最关心的赚钱机会首次讲透",
+   "score": 84.9,
+   "angle": "全球股市大涨背景下，A股三大主线如何布局？从涨停板到基本面，拆解投资者最关心的机会与风险",
+   "hook_reason": "股市大涨+三大主线干货，散户必看的实操指南",
    "url": "https://weibo.com/5884573948/RlSBQgc5w",
    "track": "财经",
    "breaking": true,
@@ -3548,15 +3576,51 @@
    "key": "小米澎程出色的续航背后是什么有一个核心原因是超低的风阻系数作为全尺寸增程suv小米澎程n",
    "title": "小米澎程出色的续航背后是什么？有一个核心原因是超低的风阻系数。 作为全尺寸增程SUV，小米澎程N",
    "rating": "A",
-   "score": 80.33,
-   "angle": "从风阻系数切入，拆解小米澎程增程技术的底层逻辑与行业突破",
-   "hook_reason": "小米首款增程SUV技术揭秘，风阻系数背后有何黑科技",
+   "score": 84.8,
+   "angle": "从'全尺寸增程SUV的超低风阻系数'切入，技术解析+小米生态故事，1-2小时动作窗口，趁热打铁抢首发",
+   "hook_reason": "小米造车首秀SUV，续航+风阻技术细节，雷军生态自带流量，读者想看",
    "url": "https://weibo.com/1749127163/RlSB0CT3u",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:小米澎程出色的续航背后是什么有一个核心原因是超低的风阻系数作为全尺寸增程suv小"
+   "event_id": "e:小米澎程n90max长途高速续航有多强看看视频满油满电出发上海至北京1230公里"
+  },
+  "陶哲轩转发多位数学家抵制openai的文章怎么看待该观点这将对ai数学研究带来哪些改变": {
+   "key": "陶哲轩转发多位数学家抵制openai的文章怎么看待该观点这将对ai数学研究带来哪些改变",
+   "title": "陶哲轩转发多位数学家抵制 OpenAI 的文章，怎么看待该观点？这将对 AI 数学研究带来哪些改变？",
+   "rating": "A",
+   "score": 77.37,
+   "angle": "从陶哲轩态度转变切入，解析数学家为何集体抵制OpenAI及其对AI科研范式的冲击",
+   "hook_reason": "陶哲轩罕见站队抵制AI，数学家集体发声引发技术伦理大讨论",
+   "url": "https://www.zhihu.com/question/2091831158468244988",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:陶哲轩转发多位数学家抵制openai的文章怎么看待该观点这将对ai数学研究带来哪"
+  },
+  "美军将直播枪决": {
+   "key": "美军将直播枪决",
+   "title": "美军将直播枪决",
+   "rating": "A",
+   "score": 87.0,
+   "angle": "从国际军事热点切入，分析美军此举的象征意义与舆论争议",
+   "hook_reason": "美军直播枪决涉及国际军事敏感话题，视觉冲击力极强",
+   "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%B0%86%E7%9B%B4%E6%92%AD%E6%9E%AA%E5%86%B3&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:美军将直播枪决"
+  },
+  "英伟达限制使用claude这背后意味着什么ai创造营热搜ai创作激励大赛红衣大": {
+   "key": "英伟达限制使用claude这背后意味着什么ai创造营热搜ai创作激励大赛红衣大",
+   "title": "英伟达限制使用Claude！这背后意味着什么？ #ai创造营# #热搜AI创作激励大赛# 红衣大",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "英伟达限制Claude背后是算力霸权之争，揭示AI产业上下游博弈真相",
+   "hook_reason": "英伟达封杀Claude，AI巨头正面开战，谁在害怕谁？",
+   "url": "https://weibo.com/1708942053/RlT5gAZI3",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达限制使用claude这背后意味着什么ai创造营热搜ai创作激励大赛红衣大"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
