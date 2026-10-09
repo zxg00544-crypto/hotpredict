@@ -2348,6 +2348,19 @@
    "breaking": true,
    "event_id": "e:711便利店关闭印度全部门店背后的原因是什么",
    "batch_window": 10
+  },
+  {
+   "key": "俄解除不明原因肺炎防疫措施",
+   "title": "俄解除不明原因肺炎防疫措施",
+   "rating": "A",
+   "score": 87.35,
+   "angle": "从俄乌防疫政策反差切入，探讨'为何俄能解防而中国不行'，引发情绪共鸣",
+   "hook_reason": "俄突然解除防疫措施，与国内防疫政策形成强烈对比，公众高度关注",
+   "url": "https://s.weibo.com/weibo?q=俄解除不明原因肺炎防疫措施",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:俄解除不明原因肺炎防疫措施",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -3045,6 +3058,18 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:国际油价深夜大涨"
+  },
+  "俄解除不明原因肺炎防疫措施": {
+   "key": "俄解除不明原因肺炎防疫措施",
+   "title": "俄解除不明原因肺炎防疫措施",
+   "rating": "A",
+   "score": 87.35,
+   "angle": "从俄乌防疫政策反差切入，探讨'为何俄能解防而中国不行'，引发情绪共鸣",
+   "hook_reason": "俄突然解除防疫措施，与国内防疫政策形成强烈对比，公众高度关注",
+   "url": "https://s.weibo.com/weibo?q=俄解除不明原因肺炎防疫措施",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:俄解除不明原因肺炎防疫措施"
   }
  },
  "breaking_count": 10,
