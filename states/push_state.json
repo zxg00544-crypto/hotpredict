@@ -3039,19 +3039,6 @@
    "batch_window": 13
   },
   {
-   "key": "王曼昱反击摔倒",
-   "title": "王曼昱反击摔倒",
-   "rating": "A",
-   "score": 86.18,
-   "angle": "聚焦运动员逆境翻盘的励志叙事，切入体育精神与国民情感共鸣",
-   "hook_reason": "中国乒乓球星逆境反击，体育精神与戏剧性瞬间双重引爆情绪",
-   "url": "https://s.weibo.com/weibo?q=王曼昱反击摔倒",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:王曼昱反击摔倒",
-   "batch_window": 14
-  },
-  {
    "key": "双汇因猪肉林可霉素残留超标合计被罚没129亿元公司致歉并公布整改措施怎样从法律角度解读",
    "title": "双汇因猪肉林可霉素残留超标，合计被罚没 1.29 亿元，公司致歉并公布整改措施，怎样从法律角度解读？",
    "rating": "A",
@@ -3193,6 +3180,32 @@
    "breaking": true,
    "event_id": "e:男子在icu抢救母亲却取不出儿子存款救命银行称家属须出具法定监护人身份证明这规定",
    "batch_window": 18
+  },
+  {
+   "key": "我从来都不无原则地劝说大家一定要对父母好但感谢父母从来不是妥协而是一场自我救赎因为成年人",
+   "title": "我从来都不无原则地劝说大家一定要对父母好。但感谢父母，从来不是妥协，而是一场自我救赎，因为成年人",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "从'妥协'到'自我救赎'——当代成年人的亲子关系心理重构",
+   "hook_reason": "反常识观点颠覆传统孝道，引发成年人情感共鸣与讨论",
+   "url": "https://weibo.com/1043269321/Rm2A75irM",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:我从来都不无原则地劝说大家一定要对父母好但感谢父母从来不是妥协而是一场自我救赎因",
+   "batch_window": 19
+  },
+  {
+   "key": "123456passwordusedindanishcprdatabreach",
+   "title": "`123456' password used in Danish CPR data breach",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从弱密码导致丹麦CPR数据泄露切入，科普企业/政府数据防护漏洞，呼吁密码安全意识",
+   "hook_reason": "国家级数据泄露竟因123456密码，引发全民安全焦虑",
+   "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:123456passwordusedindanishcprdatabreach",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -3476,7 +3489,8 @@
   "男子河里捞出春秋编钟卖30万获刑5年",
   "人社部要把未参保人员找到动员参保",
   "有一个百思不得其解的问题也是我迟迟不想换电车的原因电车电池虚标这么严重为什么没有人打假",
-  "两名内地女学生在澳门非法旅拍被捕为什么属于非法务工雇主和摄影师会面临什么处罚"
+  "两名内地女学生在澳门非法旅拍被捕为什么属于非法务工雇主和摄影师会面临什么处罚",
+  "王曼昱反击摔倒"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -3696,7 +3710,8 @@
   "e:男子河里捞出春秋编钟卖30万获刑5年": "男子河里捞出春秋编钟卖30万获刑5年",
   "e:人社部要把未参保人员找到动员参保": "人社部：要把未参保人员找到动员参保",
   "e:有一个百思不得其解的问题也是我迟迟不想换电车的原因电车电池虚标这么严重为什么没有": "有一个百思不得其解的问题，也是我迟迟不想换电车的原因，电车电池虚标这么严重为什么没有人打假？",
-  "e:两名内地女学生在澳门非法旅拍被捕为什么属于非法务工雇主和摄影师会面临什么处罚": "两名内地女学生在澳门非法旅拍被捕，为什么属于非法务工？雇主和摄影师会面临什么处罚？"
+  "e:两名内地女学生在澳门非法旅拍被捕为什么属于非法务工雇主和摄影师会面临什么处罚": "两名内地女学生在澳门非法旅拍被捕，为什么属于非法务工？雇主和摄影师会面临什么处罚？",
+  "e:王曼昱反击摔倒": "王曼昱反击摔倒"
  },
  "a_seen": {
   "usimposessanctionsonicchoursafte7392c7d4": {
@@ -4466,8 +4481,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:男子在icu抢救母亲却取不出儿子存款救命银行称家属须出具法定监护人身份证明这规定"
+  },
+  "等等党等来手机第四波涨价": {
+   "key": "等等党等来手机第四波涨价",
+   "title": "“等等党”等来手机第四波涨价",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "从消费者心理出发，拆解手机厂商涨价逻辑，给",
+   "hook_reason": "等了N个月，结果等了四波涨价？消费者愤怒情绪拉满",
+   "url": "https://www.toutiao.com/trending/7694650736013934635/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:余承东称华为将不得不涨价存储元器件大涨使每部手机增超两百美元成本会对消费者及手机"
+  },
+  "我从来都不无原则地劝说大家一定要对父母好但感谢父母从来不是妥协而是一场自我救赎因为成年人": {
+   "key": "我从来都不无原则地劝说大家一定要对父母好但感谢父母从来不是妥协而是一场自我救赎因为成年人",
+   "title": "我从来都不无原则地劝说大家一定要对父母好。但感谢父母，从来不是妥协，而是一场自我救赎，因为成年人",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "从'妥协'到'自我救赎'——当代成年人的亲子关系心理重构",
+   "hook_reason": "反常识观点颠覆传统孝道，引发成年人情感共鸣与讨论",
+   "url": "https://weibo.com/1043269321/Rm2A75irM",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:我从来都不无原则地劝说大家一定要对父母好但感谢父母从来不是妥协而是一场自我救赎因"
+  },
+  "123456passwordusedindanishcprdatabreach": {
+   "key": "123456passwordusedindanishcprdatabreach",
+   "title": "`123456' password used in Danish CPR data breach",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从弱密码导致丹麦CPR数据泄露切入，科普企业/政府数据防护漏洞，呼吁密码安全意识",
+   "hook_reason": "国家级数据泄露竟因123456密码，引发全民安全焦虑",
+   "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:123456passwordusedindanishcprdatabreach"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
