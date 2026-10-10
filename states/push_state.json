@@ -2506,19 +2506,6 @@
    "batch_window": 21
   },
   {
-   "key": "度电成本压到3分高空风电改写能源格局高空风电度电成本能源格局卢克文的微",
-   "title": "度电成本压到 3 分！高空风电改写能源格局 #高空风电# #度电成本# #能源格局# 卢克文的微",
-   "rating": "A",
-   "score": 84.95,
-   "angle": "从技术突破角度切入，解析高空风电如何实现成本碾压，对比传统能源的竞争优势，展望能源格局重塑",
-   "hook_reason": "度电成本3分创纪录，高空风电技术突破改写能源格局",
-   "url": "https://weibo.com/1875293522/RlUcytYxc",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:度电成本压到3分高空风电改写能源格局高空风电度电成本能源格局卢克文的微",
-   "batch_window": 22
-  },
-  {
    "key": "weiwei解语无论好坏但总都心怀坦荡光明磊落非常荣幸能在这伟大的时代遇见但总",
    "title": "// @Weiwei解语 :无论好坏，但总都心怀坦荡，光明磊落，非常荣幸能在这伟大的时代遇见但总",
    "rating": "A",
@@ -2907,6 +2894,45 @@
    "breaking": true,
    "event_id": "e:一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻",
    "batch_window": 9
+  },
+  {
+   "key": "出口暴涨160昔日废料全球抢手",
+   "title": "出口暴涨160%！昔日“废料”全球抢手",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "深挖出口暴涨背后的产业链重构与贸易新格局",
+   "hook_reason": "出口暴涨160%反差感强，昔日废料变抢手货",
+   "url": "https://www.baidu.com/s?wd=%E5%87%BA%E5%8F%A3%E6%9A%B4%E6%B6%A8160%25%EF%BC%81%E6%98%94%E6%97%A5%E2%80%9C%E5%BA%9F%E6%96%99%E2%80%9D%E5%85%A8%E7%90%83%E6%8A%A2%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:出口暴涨160昔日废料全球抢手",
+   "batch_window": 10
+  },
+  {
+   "key": "中小学春秋假多地官宣",
+   "title": "中小学春秋假 多地官宣",
+   "rating": "A",
+   "score": 81.94,
+   "angle": "多地官宣春秋假落地细节待揭晓，家长如何平衡工作与假期？教育新政或催生新的消费场景",
+   "hook_reason": "触及百万家长痛点，政策变动直接关联家庭出行与子女安排",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%98%A5%E7%A7%8B%E5%81%87+%E5%A4%9A%E5%9C%B0%E5%AE%98%E5%AE%A3&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中小学春秋假多地官宣",
+   "batch_window": 10
+  },
+  {
+   "key": "11of23coreopensourceprojectsrunon1or2people",
+   "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "从关键开发者危机切入，探讨开源脆弱性如何威胁整个技术生态",
+   "hook_reason": "开源基石竟靠1-2人死撑，揭示技术圈最大隐患",
+   "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:11of23coreopensourceprojectsrunon1or2peo",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -3181,7 +3207,8 @@
   "央妈出钱贴房贷普通人现在该买房吗房贷贴息购房时机租售比卢克文的微博视频",
   "新华社消10月3日消息阿根廷经济部长卡普托宣布推出投资换国籍方案简单来说只要花钱就能申",
   "全球股市大涨大a先抑后扬未来怎么干首次讲透三大主线股市大a股票知识",
-  "用手机换来的听话真的是好事吗育儿亲子关系家庭教育育儿经验樊登的微博"
+  "用手机换来的听话真的是好事吗育儿亲子关系家庭教育育儿经验樊登的微博",
+  "度电成本压到3分高空风电改写能源格局高空风电度电成本能源格局卢克文的微"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -3392,7 +3419,8 @@
   "e:央妈出钱贴房贷普通人现在该买房吗房贷贴息购房时机租售比卢克文的微博视频": "央妈出钱贴房贷，普通人现在该买房吗？ #房贷贴息# #购房时机# #租售比 卢克文的微博视频",
   "e:新华社消10月3日消息阿根廷经济部长卡普托宣布推出投资换国籍方案简单来说只要花钱": "新华社消10月3日消息，阿根廷经济部长卡普托宣布推出“投资换国籍”方案。简单来说，只要花钱就能申",
   "e:全球股市大涨大a先抑后扬未来怎么干首次讲透三大主线股市大a股票知识": "全球股市大涨 大A先抑后扬？未来怎么干 首次讲透三大主线！ #股市# #大A# #股票知识# #",
-  "e:用手机换来的听话真的是好事吗育儿亲子关系家庭教育育儿经验樊登的微博": "用手机换来的听话，真的是好事吗？ #育儿# #亲子关系# #家庭教育# #育儿经验# 樊登的微博"
+  "e:用手机换来的听话真的是好事吗育儿亲子关系家庭教育育儿经验樊登的微博": "用手机换来的听话，真的是好事吗？ #育儿# #亲子关系# #家庭教育# #育儿经验# 樊登的微博",
+  "e:度电成本压到3分高空风电改写能源格局高空风电度电成本能源格局卢克文的微": "度电成本压到 3 分！高空风电改写能源格局 #高空风电# #度电成本# #能源格局# 卢克文的微"
  },
  "a_seen": {
   "usimposessanctionsonicchoursafte7392c7d4": {
@@ -3711,13 +3739,13 @@
    "key": "发布了头条文章财政安排5500亿929新政再加一码财政安排5500亿929新政再加一",
    "title": "发布了头条文章：《财政安排5500亿，929新政再加一码》 财政安排5500亿，929新政再加一",
    "rating": "A",
-   "score": 57.73,
-   "angle": "解读5500亿财政安排具体投向，分析对股市/楼市/消费的实际影响",
-   "hook_reason": "5500亿新政突发，与每个人钱包息息相关",
+   "score": 84.95,
+   "angle": "拆解5500亿财政安排流向，解读929新政增量对房产/消费/投资的实际影响",
+   "hook_reason": "国家真金白银砸5500亿，新政加码直击普通人钱包",
    "url": "https://weibo.com/5884573948/RlYFS5I2l",
    "track": "财经",
    "breaking": true,
-   "event_id": "e:发布了头条文章新一轮924新政拉开序幕新一轮924新政拉开序幕"
+   "event_id": "e:发布了头条文章财政安排5500亿929新政再加一码财政安排5500亿929新政再"
   },
   "马云贝克汉姆蹲下与轮椅球迷合影": {
    "key": "马云贝克汉姆蹲下与轮椅球迷合影",
@@ -3747,9 +3775,9 @@
    "key": "小米澎程n90max高速爆胎测试视频一镜到底时速160kmh7人满载同侧双",
    "title": "#小米澎程# N90 Max 高速爆胎测试视频，一镜到底！ 时速160km/h、7人满载、同侧双",
    "rating": "A",
-   "score": 77.59,
-   "angle": "从极限安全测试切入，解读小米汽车技术实力与新能源安全标准的重新定义",
-   "hook_reason": "160km/h双爆胎还稳如磐石？小米这波硬核测试看哭多少车主",
+   "score": 77.54,
+   "angle": "小米用极限安全测试证明技术实力，智能电动车安全新标杆引发全网围观",
+   "hook_reason": "160km/h爆胎还能一镜到底，小米汽车安全测试有多狠？",
    "url": "https://weibo.com/1749127163/RlYEIbRdP",
    "track": "科技",
    "breaking": true,
@@ -3766,8 +3794,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻"
+  },
+  "出口暴涨160昔日废料全球抢手": {
+   "key": "出口暴涨160昔日废料全球抢手",
+   "title": "出口暴涨160%！昔日“废料”全球抢手",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "深挖出口暴涨背后的产业链重构与贸易新格局",
+   "hook_reason": "出口暴涨160%反差感强，昔日废料变抢手货",
+   "url": "https://www.baidu.com/s?wd=%E5%87%BA%E5%8F%A3%E6%9A%B4%E6%B6%A8160%25%EF%BC%81%E6%98%94%E6%97%A5%E2%80%9C%E5%BA%9F%E6%96%99%E2%80%9D%E5%85%A8%E7%90%83%E6%8A%A2%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:出口暴涨160昔日废料全球抢手"
+  },
+  "谢谢对小米18pro系列传奇一瞬的认可": {
+   "key": "谢谢对小米18pro系列传奇一瞬的认可",
+   "title": "谢谢对 #小米18Pro系列# 传奇一瞬的认可",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "从雷军个人IP+小米手机产品力切入，分析爆款背后的品控与用户口碑",
+   "hook_reason": "雷军亲测爆款机型，小米新品登顶热搜，极客关注",
+   "url": "https://weibo.com/1892653244/RlYRjy59O",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:早假期第五天还在旅途吗小米18pro系列"
+  },
+  "中小学春秋假多地官宣": {
+   "key": "中小学春秋假多地官宣",
+   "title": "中小学春秋假 多地官宣",
+   "rating": "A",
+   "score": 81.94,
+   "angle": "多地官宣春秋假落地细节待揭晓，家长如何平衡工作与假期？教育新政或催生新的消费场景",
+   "hook_reason": "触及百万家长痛点，政策变动直接关联家庭出行与子女安排",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%98%A5%E7%A7%8B%E5%81%87+%E5%A4%9A%E5%9C%B0%E5%AE%98%E5%AE%A3&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中小学春秋假多地官宣"
+  },
+  "11of23coreopensourceprojectsrunon1or2people": {
+   "key": "11of23coreopensourceprojectsrunon1or2people",
+   "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "从关键开发者危机切入，探讨开源脆弱性如何威胁整个技术生态",
+   "hook_reason": "开源基石竟靠1-2人死撑，揭示技术圈最大隐患",
+   "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:11of23coreopensourceprojectsrunon1or2peo"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
