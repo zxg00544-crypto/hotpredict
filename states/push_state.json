@@ -1817,19 +1817,6 @@
    "batch_window": 11
   },
   {
-   "key": "达利欧ai泡沫即将破裂网页链接网页链接",
-   "title": "达利欧：AI泡沫即将破裂 网页链接 网页链接",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "达利欧喊话AI泡沫，一线资本是否开始撤退？科技股估值重构窗口",
-   "hook_reason": "全球顶级投资人公开看空AI，直接触发投资者群体情绪共振",
-   "url": "https://weibo.com/1249424622/RlGVY38tC",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:达利欧ai泡沫即将破裂网页链接网页链接",
-   "batch_window": 12
-  },
-  {
    "key": "郎行2026老人摔倒了大伙儿都不敢扶这是个啥世道叶苍茫2022感觉",
    "title": "// @郎行-2026 :老人摔倒了大伙儿都不敢扶，这是个啥世道？// @叶苍茫2022 :感觉",
    "rating": "A",
@@ -3440,6 +3427,71 @@
    "breaking": false,
    "event_id": "e:下周一a股要变盘吗",
    "batch_window": 4
+  },
+  {
+   "key": "recentaimodelsstruggledtomatchah3f7eb127",
+   "title": "Recent AI models struggled to match a human algorithmic innovation",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "从算法创新角度切入，对比AI与人类创造力边界，引发科技圈深度讨论",
+   "hook_reason": "AI神话再破！人类算法竟碾压顶级模型，引发技术焦虑与自豪",
+   "url": "https://epoch.ai/publications/innovationeval",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:recentaimodelsstruggledtomatchahumanalgo",
+   "batch_window": 5
+  },
+  {
+   "key": "thelightbulbcomputer",
+   "title": "The Lightbulb Computer",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "从HN爆发现象切入，解析Lightbulb Computer的硬件创新点与开发者生态野心",
+   "hook_reason": "HN突发，1小时破圈，100%增速，灯泡形态计算设备引发好奇",
+   "url": "https://lightbulbcomputer.com/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thelightbulbcomputer",
+   "batch_window": 5
+  },
+  {
+   "key": "如何看待5090将停产",
+   "title": "如何看待5090将停产？",
+   "rating": "A",
+   "score": 52.53,
+   "angle": "从产能瓶颈、供应链危机或营销争议切入，分析5090为何'短命'，关联NVIDIA未来产品策略及玩家购卡时机",
+   "hook_reason": "5090刚发布就传停产，玩家圈炸锅，谁还能抢到旗舰卡？",
+   "url": "https://www.zhihu.com/question/2092286756028671952",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何看待5090将停产",
+   "batch_window": 5
+  },
+  {
+   "key": "特朗普谈及加拿大我们不需要曲棍球杆不需要口罩不需要那些他们卖给我们的东西",
+   "title": "特朗普谈及加拿大：我们不需要曲棍球杆，不需要口罩，不需要那些他们卖给我们的东西。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从特朗普关税言论切入，分析对北美供应链、中企出海加拿大的冲击与机遇",
+   "hook_reason": "特朗普关税发言引爆贸易战预期，投资者高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-11/detail-iniuuwev7338081.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:特朗普谈及加拿大我们不需要曲棍球杆不需要口罩不需要那些他们卖给我们的东西",
+   "batch_window": 5
+  },
+  {
+   "key": "applemacosremovedfromofficialunixregistry",
+   "title": "Apple/macOS removed from official Unix registry",
+   "rating": "A",
+   "score": 46.3,
+   "angle": "从技术认证争议切入，解读苹果'特立独行'品牌形象崩塌，关联用户对大厂合规性的信任危机",
+   "hook_reason": "苹果百年Unix头衔被撤，品牌信任危机引科技圈地震",
+   "url": "https://www.opengroup.org//openbrand/register/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:applemacosremovedfromofficialunixregistr",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -3743,7 +3795,8 @@
   "礼来ceoai制药路还很长人类可能只掌握10的生物学知识网页链接网页链接",
   "谷歌gemini4新模型大泄露内测评价这不opus55吗网页链接网页链接",
   "360拿下ai安全第一六大维度五项满分ai创造营热搜ai创作激励大赛红衣大叔周",
-  "史上最大变化苹果这台新机不得了网页链接网页链接"
+  "史上最大变化苹果这台新机不得了网页链接网页链接",
+  "达利欧ai泡沫即将破裂网页链接网页链接"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -3983,7 +4036,8 @@
   "e:礼来ceoai制药路还很长人类可能只掌握10的生物学知识网页链接网页链接": "礼来CEO：AI制药路还很长，人类可能只掌握10%的生物学知识 网页链接 网页链接",
   "e:谷歌gemini4新模型大泄露内测评价这不opus55吗网页链接网页链接": "谷歌Gemini 4新模型大泄露！内测评价：这不Opus 5.5吗？！ 网页链接 网页链接",
   "e:360拿下ai安全第一六大维度五项满分ai创造营热搜ai创作激励大赛红衣大叔周": "360拿下AI安全第一，六大维度五项满分！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周",
-  "e:史上最大变化苹果这台新机不得了网页链接网页链接": "史上最大变化！苹果这台新机不得了 网页链接 网页链接"
+  "e:史上最大变化苹果这台新机不得了网页链接网页链接": "史上最大变化！苹果这台新机不得了 网页链接 网页链接",
+  "e:达利欧ai泡沫即将破裂网页链接网页链接": "达利欧：AI泡沫即将破裂 网页链接 网页链接"
  },
  "a_seen": {
   "乌方抛出全面无条件停火方案有何意图": {
@@ -4201,8 +4255,68 @@
    "track": "财经",
    "breaking": false,
    "event_id": "e:下周一a股要变盘吗"
+  },
+  "recentaimodelsstruggledtomatchah3f7eb127": {
+   "key": "recentaimodelsstruggledtomatchah3f7eb127",
+   "title": "Recent AI models struggled to match a human algorithmic innovation",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "从算法创新角度切入，对比AI与人类创造力边界，引发科技圈深度讨论",
+   "hook_reason": "AI神话再破！人类算法竟碾压顶级模型，引发技术焦虑与自豪",
+   "url": "https://epoch.ai/publications/innovationeval",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:recentaimodelsstruggledtomatchahumanalgo"
+  },
+  "thelightbulbcomputer": {
+   "key": "thelightbulbcomputer",
+   "title": "The Lightbulb Computer",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "从HN爆发现象切入，解析Lightbulb Computer的硬件创新点与开发者生态野心",
+   "hook_reason": "HN突发，1小时破圈，100%增速，灯泡形态计算设备引发好奇",
+   "url": "https://lightbulbcomputer.com/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thelightbulbcomputer"
+  },
+  "如何看待5090将停产": {
+   "key": "如何看待5090将停产",
+   "title": "如何看待5090将停产？",
+   "rating": "A",
+   "score": 52.53,
+   "angle": "从产能瓶颈、供应链危机或营销争议切入，分析5090为何'短命'，关联NVIDIA未来产品策略及玩家购卡时机",
+   "hook_reason": "5090刚发布就传停产，玩家圈炸锅，谁还能抢到旗舰卡？",
+   "url": "https://www.zhihu.com/question/2092286756028671952",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何看待5090将停产"
+  },
+  "特朗普谈及加拿大我们不需要曲棍球杆不需要口罩不需要那些他们卖给我们的东西": {
+   "key": "特朗普谈及加拿大我们不需要曲棍球杆不需要口罩不需要那些他们卖给我们的东西",
+   "title": "特朗普谈及加拿大：我们不需要曲棍球杆，不需要口罩，不需要那些他们卖给我们的东西。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从特朗普关税言论切入，分析对北美供应链、中企出海加拿大的冲击与机遇",
+   "hook_reason": "特朗普关税发言引爆贸易战预期，投资者高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-11/detail-iniuuwev7338081.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:特朗普谈及加拿大我们不需要曲棍球杆不需要口罩不需要那些他们卖给我们的东西"
+  },
+  "applemacosremovedfromofficialunixregistry": {
+   "key": "applemacosremovedfromofficialunixregistry",
+   "title": "Apple/macOS removed from official Unix registry",
+   "rating": "A",
+   "score": 46.3,
+   "angle": "从技术认证争议切入，解读苹果'特立独行'品牌形象崩塌，关联用户对大厂合规性的信任危机",
+   "hook_reason": "苹果百年Unix头衔被撤，品牌信任危机引科技圈地震",
+   "url": "https://www.opengroup.org//openbrand/register/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:applemacosremovedfromofficialunixregistr"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
