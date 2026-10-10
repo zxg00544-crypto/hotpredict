@@ -2896,19 +2896,6 @@
    "batch_window": 9
   },
   {
-   "key": "出口暴涨160昔日废料全球抢手",
-   "title": "出口暴涨160%！昔日“废料”全球抢手",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "深挖出口暴涨背后的产业链重构与贸易新格局",
-   "hook_reason": "出口暴涨160%反差感强，昔日废料变抢手货",
-   "url": "https://www.baidu.com/s?wd=%E5%87%BA%E5%8F%A3%E6%9A%B4%E6%B6%A8160%25%EF%BC%81%E6%98%94%E6%97%A5%E2%80%9C%E5%BA%9F%E6%96%99%E2%80%9D%E5%85%A8%E7%90%83%E6%8A%A2%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:出口暴涨160昔日废料全球抢手",
-   "batch_window": 10
-  },
-  {
    "key": "中小学春秋假多地官宣",
    "title": "中小学春秋假 多地官宣",
    "rating": "A",
@@ -2933,6 +2920,71 @@
    "breaking": true,
    "event_id": "e:11of23coreopensourceprojectsrunon1or2peo",
    "batch_window": 10
+  },
+  {
+   "key": "谷歌gemini4新模型大泄露内测评价这不opus55吗网页链接网页链接",
+   "title": "谷歌Gemini 4新模型大泄露！内测评价：这不Opus 5.5吗？！ 网页链接 网页链接",
+   "rating": "A",
+   "score": 84.9,
+   "angle": "从泄露内容切入，对比Gemini 4与Opus 5.5核心能力差异，解读谷歌AI最新技术路线",
+   "hook_reason": "谷歌AI大模型泄露+涉嫌模仿竞品，科技圈炸裂级内幕瓜",
+   "url": "https://weibo.com/1249424622/RlZkDnYwI",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:谷歌gemini4新模型大泄露内测评价这不opus55吗网页链接网页链接",
+   "batch_window": 11
+  },
+  {
+   "key": "中国汽车流通协会精真估联合发布2026年9月中国汽车保值率研究报告小米yu7一",
+   "title": "中国汽车流通协会 × 精真估联合发布《2026年9月中国汽车保值率研究报告》 #小米YU7# 一",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "小米YU7保值率数据公布，新能源vs燃油车残值之争；用户最关心的",
+   "hook_reason": "小米YU7保值率曝光，新能源车vs燃油车谁更亏？",
+   "url": "https://weibo.com/1749127163/RlZ6ppLwv",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:中国汽车流通协会精真估联合发布2026年9月中国汽车保值率研究报告小米yu7一",
+   "batch_window": 11
+  },
+  {
+   "key": "睡这个床感觉有人在挤我",
+   "title": "“睡这个床感觉有人在挤我”",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从'床睡不舒服'切入，探讨现代人睡眠质量焦虑或智能家居/床品创新",
+   "hook_reason": "睡眠痛点+悬疑标题，人人躺枪，好奇心强",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9D%A1%E8%BF%99%E4%B8%AA%E5%BA%8A%E6%84%9F%E8%A7%89%E6%9C%89%E4%BA%BA%E5%9C%A8%E6%8C%A4%E6%88%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:睡这个床感觉有人在挤我",
+   "batch_window": 11
+  },
+  {
+   "key": "挖自家地下古墓葬也是犯罪",
+   "title": "挖自家地下古墓葬也是犯罪",
+   "rating": "A",
+   "score": 80.26,
+   "angle": "你家地下室可能藏着案底：挖地建车库、种菜挖出古董竟触刑法",
+   "hook_reason": "反常识法律知识+房产热点，读者会震惊",
+   "url": "https://www.baidu.com/s?wd=%E6%8C%96%E8%87%AA%E5%AE%B6%E5%9C%B0%E4%B8%8B%E5%8F%A4%E5%A2%93%E8%91%AC%E4%B9%9F%E6%98%AF%E7%8A%AF%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:挖自家地下古墓葬也是犯罪",
+   "batch_window": 11
+  },
+  {
+   "key": "昨日a股v型反弹港股低开后全日走高宽基etf放量买入接受彭博社采访点评全文链接网页链",
+   "title": "昨日A股V型反弹，港股低开后全日走高，宽基ETF放量买入。接受彭博社采访点评，全文链接： 网页链",
+   "rating": "A",
+   "score": 49.85,
+   "angle": "从V型反转背后的资金逻辑切入，解析ETF放量信号与机构动向",
+   "hook_reason": "V型反弹+ETF放量，股民急需解读资金信号",
+   "url": "https://weibo.com/7799274131/RlZDBsxVI",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:昨日a股v型反弹港股低开后全日走高宽基etf放量买入接受彭博社采访点评全文链接网",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -3208,7 +3260,8 @@
   "新华社消10月3日消息阿根廷经济部长卡普托宣布推出投资换国籍方案简单来说只要花钱就能申",
   "全球股市大涨大a先抑后扬未来怎么干首次讲透三大主线股市大a股票知识",
   "用手机换来的听话真的是好事吗育儿亲子关系家庭教育育儿经验樊登的微博",
-  "度电成本压到3分高空风电改写能源格局高空风电度电成本能源格局卢克文的微"
+  "度电成本压到3分高空风电改写能源格局高空风电度电成本能源格局卢克文的微",
+  "出口暴涨160昔日废料全球抢手"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -3420,7 +3473,8 @@
   "e:新华社消10月3日消息阿根廷经济部长卡普托宣布推出投资换国籍方案简单来说只要花钱": "新华社消10月3日消息，阿根廷经济部长卡普托宣布推出“投资换国籍”方案。简单来说，只要花钱就能申",
   "e:全球股市大涨大a先抑后扬未来怎么干首次讲透三大主线股市大a股票知识": "全球股市大涨 大A先抑后扬？未来怎么干 首次讲透三大主线！ #股市# #大A# #股票知识# #",
   "e:用手机换来的听话真的是好事吗育儿亲子关系家庭教育育儿经验樊登的微博": "用手机换来的听话，真的是好事吗？ #育儿# #亲子关系# #家庭教育# #育儿经验# 樊登的微博",
-  "e:度电成本压到3分高空风电改写能源格局高空风电度电成本能源格局卢克文的微": "度电成本压到 3 分！高空风电改写能源格局 #高空风电# #度电成本# #能源格局# 卢克文的微"
+  "e:度电成本压到3分高空风电改写能源格局高空风电度电成本能源格局卢克文的微": "度电成本压到 3 分！高空风电改写能源格局 #高空风电# #度电成本# #能源格局# 卢克文的微",
+  "e:出口暴涨160昔日废料全球抢手": "出口暴涨160%！昔日“废料”全球抢手"
  },
  "a_seen": {
   "usimposessanctionsonicchoursafte7392c7d4": {
@@ -3842,8 +3896,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:11of23coreopensourceprojectsrunon1or2peo"
+  },
+  "谷歌gemini4新模型大泄露内测评价这不opus55吗网页链接网页链接": {
+   "key": "谷歌gemini4新模型大泄露内测评价这不opus55吗网页链接网页链接",
+   "title": "谷歌Gemini 4新模型大泄露！内测评价：这不Opus 5.5吗？！ 网页链接 网页链接",
+   "rating": "A",
+   "score": 84.9,
+   "angle": "从泄露内容切入，对比Gemini 4与Opus 5.5核心能力差异，解读谷歌AI最新技术路线",
+   "hook_reason": "谷歌AI大模型泄露+涉嫌模仿竞品，科技圈炸裂级内幕瓜",
+   "url": "https://weibo.com/1249424622/RlZkDnYwI",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:谷歌gemini4新模型大泄露内测评价这不opus55吗网页链接网页链接"
+  },
+  "中国汽车流通协会精真估联合发布2026年9月中国汽车保值率研究报告小米yu7一": {
+   "key": "中国汽车流通协会精真估联合发布2026年9月中国汽车保值率研究报告小米yu7一",
+   "title": "中国汽车流通协会 × 精真估联合发布《2026年9月中国汽车保值率研究报告》 #小米YU7# 一",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "小米YU7保值率数据公布，新能源vs燃油车残值之争；用户最关心的",
+   "hook_reason": "小米YU7保值率曝光，新能源车vs燃油车谁更亏？",
+   "url": "https://weibo.com/1749127163/RlZ6ppLwv",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:中国汽车流通协会精真估联合发布2026年9月中国汽车保值率研究报告小米yu7一"
+  },
+  "睡这个床感觉有人在挤我": {
+   "key": "睡这个床感觉有人在挤我",
+   "title": "“睡这个床感觉有人在挤我”",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从'床睡不舒服'切入，探讨现代人睡眠质量焦虑或智能家居/床品创新",
+   "hook_reason": "睡眠痛点+悬疑标题，人人躺枪，好奇心强",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9D%A1%E8%BF%99%E4%B8%AA%E5%BA%8A%E6%84%9F%E8%A7%89%E6%9C%89%E4%BA%BA%E5%9C%A8%E6%8C%A4%E6%88%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:睡这个床感觉有人在挤我"
+  },
+  "挖自家地下古墓葬也是犯罪": {
+   "key": "挖自家地下古墓葬也是犯罪",
+   "title": "挖自家地下古墓葬也是犯罪",
+   "rating": "A",
+   "score": 80.26,
+   "angle": "你家地下室可能藏着案底：挖地建车库、种菜挖出古董竟触刑法",
+   "hook_reason": "反常识法律知识+房产热点，读者会震惊",
+   "url": "https://www.baidu.com/s?wd=%E6%8C%96%E8%87%AA%E5%AE%B6%E5%9C%B0%E4%B8%8B%E5%8F%A4%E5%A2%93%E8%91%AC%E4%B9%9F%E6%98%AF%E7%8A%AF%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:挖自家地下古墓葬也是犯罪"
+  },
+  "昨日a股v型反弹港股低开后全日走高宽基etf放量买入接受彭博社采访点评全文链接网页链": {
+   "key": "昨日a股v型反弹港股低开后全日走高宽基etf放量买入接受彭博社采访点评全文链接网页链",
+   "title": "昨日A股V型反弹，港股低开后全日走高，宽基ETF放量买入。接受彭博社采访点评，全文链接： 网页链",
+   "rating": "A",
+   "score": 49.85,
+   "angle": "从V型反转背后的资金逻辑切入，解析ETF放量信号与机构动向",
+   "hook_reason": "V型反弹+ETF放量，股民急需解读资金信号",
+   "url": "https://weibo.com/7799274131/RlZDBsxVI",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:昨日a股v型反弹港股低开后全日走高宽基etf放量买入接受彭博社采访点评全文链接网"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
