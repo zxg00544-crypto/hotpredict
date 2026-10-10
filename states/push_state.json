@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-10-10",
  "a_pending": [
   {
@@ -3065,19 +3065,6 @@
    "batch_window": 14
   },
   {
-   "key": "蔚来全新es8位列35万元以上新能源suv保值率第一775的一年保值率代表了市场对全新e",
-   "title": "蔚来全新ES8位列35万元以上新能源SUV保值率第一！77.5%的一年保值率，代表了市场对全新E",
-   "rating": "A",
-   "score": 84.95,
-   "angle": "从保值率数据切入，分析蔚来如何用产品力重塑35万+市场格局",
-   "hook_reason": "国产新能源逆袭保值率神话，打破合资垄断",
-   "url": "https://weibo.com/1679013335/Rm0Hg6bQQ",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:蔚来全新es8位列35万元以上新能源suv保值率第一775的一年保值率代表了市场",
-   "batch_window": 15
-  },
-  {
    "key": "精神病院为何扎堆更名",
    "title": "精神病院为何扎堆更名",
    "rating": "A",
@@ -3206,6 +3193,45 @@
    "breaking": true,
    "event_id": "e:财经股市ai任泽平的微博视频",
    "batch_window": 20
+  },
+  {
+   "key": "证监会召开资本市场和金融形势座谈会",
+   "title": "证监会召开资本市场和金融形势座谈会",
+   "rating": "A",
+   "score": 86.85,
+   "angle": "从座谈会释放的政策信号切入，解读对市场流动性和板块情绪的即时影响，适合快讯+深度双发",
+   "hook_reason": "最高监管层直接定调资本市场，投资者必跟",
+   "url": "https://www.toutiao.com/trending/7694802279362854938/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:证监会召开资本市场和金融形势座谈会",
+   "batch_window": 21
+  },
+  {
+   "key": "applemacossilentlyremovedfromoff5cb0819a",
+   "title": "Apple/macOS silently removed from official Unix registry",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "深挖苹果移除Unix认证的技术原因及行业影响",
+   "hook_reason": "苹果被踢出Unix认证，大公司动态引发技术圈震动",
+   "url": "https://www.opengroup.org//openbrand/register/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:applemacossilentlyremovedfromofficialuni",
+   "batch_window": 21
+  },
+  {
+   "key": "2年化利率大额存单重出江湖",
+   "title": "2%年化利率大额存单重出江湖",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从存款利率持续下行到2%大额存单重出，解读银行策略转变与居民理财新窗口",
+   "hook_reason": "低利率时代大额存单回归，储户资产配置格局生变",
+   "url": "https://finance.sina.cn/7x24/2026-10-10/detail-iniutyze0669558.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:2年化利率大额存单重出江湖",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -3491,7 +3517,8 @@
   "有一个百思不得其解的问题也是我迟迟不想换电车的原因电车电池虚标这么严重为什么没有人打假",
   "两名内地女学生在澳门非法旅拍被捕为什么属于非法务工雇主和摄影师会面临什么处罚",
   "王曼昱反击摔倒",
-  "双汇因猪肉林可霉素残留超标合计被罚没129亿元公司致歉并公布整改措施怎样从法律角度解读"
+  "双汇因猪肉林可霉素残留超标合计被罚没129亿元公司致歉并公布整改措施怎样从法律角度解读",
+  "蔚来全新es8位列35万元以上新能源suv保值率第一775的一年保值率代表了市场对全新e"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -3713,7 +3740,8 @@
   "e:有一个百思不得其解的问题也是我迟迟不想换电车的原因电车电池虚标这么严重为什么没有": "有一个百思不得其解的问题，也是我迟迟不想换电车的原因，电车电池虚标这么严重为什么没有人打假？",
   "e:两名内地女学生在澳门非法旅拍被捕为什么属于非法务工雇主和摄影师会面临什么处罚": "两名内地女学生在澳门非法旅拍被捕，为什么属于非法务工？雇主和摄影师会面临什么处罚？",
   "e:王曼昱反击摔倒": "王曼昱反击摔倒",
-  "e:双汇因猪肉林可霉素残留超标合计被罚没129亿元公司致歉并公布整改措施怎样从法律角": "双汇因猪肉林可霉素残留超标，合计被罚没 1.29 亿元，公司致歉并公布整改措施，怎样从法律角度解读？"
+  "e:双汇因猪肉林可霉素残留超标合计被罚没129亿元公司致歉并公布整改措施怎样从法律角": "双汇因猪肉林可霉素残留超标，合计被罚没 1.29 亿元，公司致歉并公布整改措施，怎样从法律角度解读？",
+  "e:蔚来全新es8位列35万元以上新能源suv保值率第一775的一年保值率代表了市场": "蔚来全新ES8位列35万元以上新能源SUV保值率第一！77.5%的一年保值率，代表了市场对全新E"
  },
  "a_seen": {
   "usimposessanctionsonicchoursafte7392c7d4": {
@@ -4531,8 +4559,56 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:财经股市ai任泽平的微博视频"
+  },
+  "证监会召开资本市场和金融形势座谈会": {
+   "key": "证监会召开资本市场和金融形势座谈会",
+   "title": "证监会召开资本市场和金融形势座谈会",
+   "rating": "A",
+   "score": 86.85,
+   "angle": "从座谈会释放的政策信号切入，解读对市场流动性和板块情绪的即时影响，适合快讯+深度双发",
+   "hook_reason": "最高监管层直接定调资本市场，投资者必跟",
+   "url": "https://www.toutiao.com/trending/7694802279362854938/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:证监会召开资本市场和金融形势座谈会"
+  },
+  "applemacossilentlyremovedfromoff5cb0819a": {
+   "key": "applemacossilentlyremovedfromoff5cb0819a",
+   "title": "Apple/macOS silently removed from official Unix registry",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "深挖苹果移除Unix认证的技术原因及行业影响",
+   "hook_reason": "苹果被踢出Unix认证，大公司动态引发技术圈震动",
+   "url": "https://www.opengroup.org//openbrand/register/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:applemacossilentlyremovedfromofficialuni"
+  },
+  "2年化利率大额存单重出江湖": {
+   "key": "2年化利率大额存单重出江湖",
+   "title": "2%年化利率大额存单重出江湖",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从存款利率持续下行到2%大额存单重出，解读银行策略转变与居民理财新窗口",
+   "hook_reason": "低利率时代大额存单回归，储户资产配置格局生变",
+   "url": "https://finance.sina.cn/7x24/2026-10-10/detail-iniutyze0669558.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:2年化利率大额存单重出江湖"
+  },
+  "美军拟直播枪决罪犯有哪些争议": {
+   "key": "美军拟直播枪决罪犯有哪些争议",
+   "title": "美军拟直播枪决罪犯有哪些争议",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从'战时执法透明度 vs 人权伦理'双线切入，结合国际法与公众情绪对比写作",
+   "hook_reason": "美军首次直播枪决罪犯，冲击人类底线",
+   "url": "https://search.bilibili.com/all?keyword=美军拟直播枪决罪犯有哪些争议",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:美军将直播枪决"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
