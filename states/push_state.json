@@ -2428,19 +2428,6 @@
    "batch_window": 18
   },
   {
-   "key": "中国汽车流通协会发布了9月保值率榜单纯电动车型保值率一年车龄小米yu7表现优秀排名第",
-   "title": "中国汽车流通协会发布了9月保值率榜单： 纯电动车型保值率（一年车龄），小米YU7表现优秀，排名第",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "从保值率看小米汽车产品力，对比特斯拉、比亚迪分析新能源车市场格局变化",
-   "hook_reason": "小米YU7保值率登顶，车主和潜在买家最关心",
-   "url": "https://weibo.com/1749127163/RlTx8dWdg",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:中国汽车流通协会发布了9月保值率榜单纯电动车型保值率一年车龄小米yu7表现优秀排",
-   "batch_window": 20
-  },
-  {
    "key": "openai爆冷19月年化营收低于预期200亿美股日经科技板块重挫如何看其业绩影响",
    "title": "OpenAI 爆冷，1-9月年化营收低于预期200亿，美股、日经科技板块重挫，如何看其业绩影响？",
    "rating": "A",
@@ -3544,6 +3531,19 @@
    "breaking": false,
    "event_id": "e:唐国强无提词朗诵出师表",
    "batch_window": 6
+  },
+  {
+   "key": "nixwrotehalfofmydebugger",
+   "title": "Nix wrote half of my debugger",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从技术实现角度深挖开发者如何用Nix重构核心调试工具，展现技术实力",
+   "hook_reason": "开发者用Nix构建核心调试工具，技术突破吸引极客群体",
+   "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:nixwrotehalfofmydebugger",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -3849,7 +3849,8 @@
   "360拿下ai安全第一六大维度五项满分ai创造营热搜ai创作激励大赛红衣大叔周",
   "史上最大变化苹果这台新机不得了网页链接网页链接",
   "达利欧ai泡沫即将破裂网页链接网页链接",
-  "广东话洪灝恒指目标四季度机会和投资的要义录制于20260902前天播出洪灝的宏观"
+  "广东话洪灝恒指目标四季度机会和投资的要义录制于20260902前天播出洪灝的宏观",
+  "中国汽车流通协会发布了9月保值率榜单纯电动车型保值率一年车龄小米yu7表现优秀排名第"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -4091,7 +4092,8 @@
   "e:360拿下ai安全第一六大维度五项满分ai创造营热搜ai创作激励大赛红衣大叔周": "360拿下AI安全第一，六大维度五项满分！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周",
   "e:史上最大变化苹果这台新机不得了网页链接网页链接": "史上最大变化！苹果这台新机不得了 网页链接 网页链接",
   "e:达利欧ai泡沫即将破裂网页链接网页链接": "达利欧：AI泡沫即将破裂 网页链接 网页链接",
-  "e:广东话洪灝恒指目标四季度机会和投资的要义录制于20260902前天播出洪灝的宏观": "广东话洪灝：恒指目标、四季度机会和投资的要义（录制于2026.09.02 前天播出） 洪灝的宏观"
+  "e:广东话洪灝恒指目标四季度机会和投资的要义录制于20260902前天播出洪灝的宏观": "广东话洪灝：恒指目标、四季度机会和投资的要义（录制于2026.09.02 前天播出） 洪灝的宏观",
+  "e:中国汽车流通协会发布了9月保值率榜单纯电动车型保值率一年车龄小米yu7表现优秀排": "中国汽车流通协会发布了9月保值率榜单： 纯电动车型保值率（一年车龄），小米YU7表现优秀，排名第"
  },
  "a_seen": {
   "乌方抛出全面无条件停火方案有何意图": {
@@ -4422,9 +4424,9 @@
    "key": "nvidiaintalkstoacquireusopenmode0e9bb98f",
    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
    "rating": "A",
-   "score": 75.5,
-   "angle": "剖析Nvidia收购Reflection AI背后的战略逻辑，开源生态是扩张还是背叛",
-   "hook_reason": "英伟达收购开源模型公司，开放AI与商业化的终极碰撞",
+   "score": 75.4,
+   "angle": "从OpenAI与英伟达博弈看AI生态并购趋势",
+   "hook_reason": "英伟达再下一城：收购OpenAI最大竞争对手",
    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
    "track": "科技",
    "breaking": false,
@@ -4434,15 +4436,27 @@
    "key": "唐国强无提词朗诵出师表",
    "title": "唐国强无提词朗诵《出师表》",
    "rating": "A",
-   "score": 80.55,
-   "angle": "从唐国强经典形象切入，探讨当代明星如何传承传统文化，引发民族情感共鸣",
-   "hook_reason": "老戏骨无提词朗诵经典，文化自信话题引发情感共鸣",
+   "score": 86.5,
+   "angle": "从老艺术家专业精神切入，结合传统文化传承热点，引发情感共鸣",
+   "hook_reason": "著名演员无提词朗诵经典，展现传统文化魅力与专业功底",
    "url": "https://www.toutiao.com/trending/7693727830303588379/",
-   "track": "社会热点",
+   "track": "大咖发言",
    "breaking": false,
    "event_id": "e:唐国强无提词朗诵出师表"
+  },
+  "nixwrotehalfofmydebugger": {
+   "key": "nixwrotehalfofmydebugger",
+   "title": "Nix wrote half of my debugger",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从技术实现角度深挖开发者如何用Nix重构核心调试工具，展现技术实力",
+   "hook_reason": "开发者用Nix构建核心调试工具，技术突破吸引极客群体",
+   "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:nixwrotehalfofmydebugger"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
