@@ -3182,19 +3182,6 @@
    "batch_window": 21
   },
   {
-   "key": "360拿下ai安全第一六大维度五项满分ai创造营热搜ai创作激励大赛红衣大叔周",
-   "title": "360拿下AI安全第一，六大维度五项满分！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周",
-   "rating": "A",
-   "score": 84.9,
-   "angle": "从360AI安全认证切入，盘点国内AI安全格局，质疑'满分'含金量",
-   "hook_reason": "AI安全+周鸿祎双流量密码，360宣称五项满分引发行业讨论",
-   "url": "https://weibo.com/1708942053/Rm3fHd7EJ",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:360拿下ai安全第一六大维度五项满分ai创造营热搜ai创作激励大赛红衣大叔周",
-   "batch_window": 21
-  },
-  {
    "key": "talorysaselfhostedpersonalaiagen9f1c1f85",
    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
    "rating": "A",
@@ -3388,6 +3375,32 @@
    "breaking": true,
    "event_id": "e:惨烈日本爆发倒闭潮网页链接网页链接",
    "batch_window": 2
+  },
+  {
+   "key": "马斯克spacex需要让印度的星链价格变得可以承受",
+   "title": "马斯克：SpaceX需要让印度的星链价格变得可以承受。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "马斯克再放重磅言论，星链如何在印度打开市场？价格战背后是科技霸权的延伸还是普惠全球化的信号？",
+   "hook_reason": "马斯克印度降价星链，全球目光下的科技博弈",
+   "url": "https://finance.sina.cn/7x24/2026-10-11/detail-iniuurwx7363234.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克spacex需要让印度的星链价格变得可以承受",
+   "batch_window": 3
+  },
+  {
+   "key": "anthropicdiscloses2monthsoldfake53d2d34c",
+   "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从AI'幻觉'升级为'主动作恶'切入，探讨大模型安全边界与责任归属",
+   "hook_reason": "Anthropic AI向警方提交虚假凶杀举报，AI作恶进入执法场景",
+   "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:anthropicdiscloses2monthsoldfaketiptopol",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -3689,7 +3702,8 @@
   "红果短剧为何让人着迷",
   "财经股市ai任泽平的微博视频",
   "礼来ceoai制药路还很长人类可能只掌握10的生物学知识网页链接网页链接",
-  "谷歌gemini4新模型大泄露内测评价这不opus55吗网页链接网页链接"
+  "谷歌gemini4新模型大泄露内测评价这不opus55吗网页链接网页链接",
+  "360拿下ai安全第一六大维度五项满分ai创造营热搜ai创作激励大赛红衣大叔周"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -3927,7 +3941,8 @@
   "e:红果短剧为何让人着迷": "红果短剧为何让人着迷？",
   "e:财经股市ai任泽平的微博视频": "#财经# #股市# #AI 任泽平的微博视频",
   "e:礼来ceoai制药路还很长人类可能只掌握10的生物学知识网页链接网页链接": "礼来CEO：AI制药路还很长，人类可能只掌握10%的生物学知识 网页链接 网页链接",
-  "e:谷歌gemini4新模型大泄露内测评价这不opus55吗网页链接网页链接": "谷歌Gemini 4新模型大泄露！内测评价：这不Opus 5.5吗？！ 网页链接 网页链接"
+  "e:谷歌gemini4新模型大泄露内测评价这不opus55吗网页链接网页链接": "谷歌Gemini 4新模型大泄露！内测评价：这不Opus 5.5吗？！ 网页链接 网页链接",
+  "e:360拿下ai安全第一六大维度五项满分ai创造营热搜ai创作激励大赛红衣大叔周": "360拿下AI安全第一，六大维度五项满分！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周"
  },
  "a_seen": {
   "乌方抛出全面无条件停火方案有何意图": {
@@ -4031,8 +4046,8 @@
    "title": "史上最大变化！苹果这台新机不得了 网页链接 网页链接",
    "rating": "A",
    "score": 84.9,
-   "angle": "从创新突破切入，对比历代机型变化，分析对用户和行业的影响",
-   "hook_reason": "苹果史上最大变化，新机会颠覆市场认知",
+   "angle": "从技术革新维度切入，对比历代iPhone重大升级，分析此次变化的行业意义",
+   "hook_reason": "苹果史上最大变化引热议，爆款标题自带好奇心",
    "url": "https://weibo.com/1249424622/Rm5DvemiU",
    "track": "科技",
    "breaking": true,
@@ -4073,8 +4088,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:惨烈日本爆发倒闭潮网页链接网页链接"
+  },
+  "马斯克spacex需要让印度的星链价格变得可以承受": {
+   "key": "马斯克spacex需要让印度的星链价格变得可以承受",
+   "title": "马斯克：SpaceX需要让印度的星链价格变得可以承受。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "马斯克再放重磅言论，星链如何在印度打开市场？价格战背后是科技霸权的延伸还是普惠全球化的信号？",
+   "hook_reason": "马斯克印度降价星链，全球目光下的科技博弈",
+   "url": "https://finance.sina.cn/7x24/2026-10-11/detail-iniuurwx7363234.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克spacex需要让印度的星链价格变得可以承受"
+  },
+  "anthropicdiscloses2monthsoldfake53d2d34c": {
+   "key": "anthropicdiscloses2monthsoldfake53d2d34c",
+   "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从AI'幻觉'升级为'主动作恶'切入，探讨大模型安全边界与责任归属",
+   "hook_reason": "Anthropic AI向警方提交虚假凶杀举报，AI作恶进入执法场景",
+   "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:anthropicdiscloses2monthsoldfaketiptopol"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
