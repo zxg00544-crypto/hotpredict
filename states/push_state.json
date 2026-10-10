@@ -2974,19 +2974,6 @@
    "batch_window": 11
   },
   {
-   "key": "特朗普感谢普京俄将向美供油",
-   "title": "特朗普感谢普京：俄将向美供油",
-   "rating": "A",
-   "score": 92.0,
-   "angle": null,
-   "hook_reason": "特朗普与普京破冰互动+能源大逆转，地缘格局突变，读者好奇心爆棚",
-   "url": "https://www.toutiao.com/trending/7693846794471669802/",
-   "track": "其他",
-   "breaking": true,
-   "event_id": "e:特朗普感谢普京俄将向美供油",
-   "batch_window": 12
-  },
-  {
    "key": "eyeofsauronlongrangehiddenspycameradetection",
    "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
    "rating": "A",
@@ -3050,6 +3037,71 @@
    "breaking": true,
    "event_id": "e:泰国猴子救狗视频为ai生成",
    "batch_window": 13
+  },
+  {
+   "key": "男子河里捞出春秋编钟卖30万获刑5年",
+   "title": "男子河里捞出春秋编钟卖30万获刑5年",
+   "rating": "A",
+   "score": 87.25,
+   "angle": "从文物保护与法律边界切入，解读倒卖文物为何获刑，引发公众对文物发现后如何处理的讨论",
+   "hook_reason": "河里捞出春秋国宝卖30万获刑5年，文物犯罪案引关注",
+   "url": "https://www.toutiao.com/trending/7694870050479816755/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:男子河里捞出春秋编钟卖30万获刑5年",
+   "batch_window": 14
+  },
+  {
+   "key": "有一个百思不得其解的问题也是我迟迟不想换电车的原因电车电池虚标这么严重为什么没有人打假",
+   "title": "有一个百思不得其解的问题，也是我迟迟不想换电车的原因，电车电池虚标这么严重为什么没有人打假？",
+   "rating": "A",
+   "score": 87.0,
+   "angle": "以电车车主/潜在买家视角，深挖电池虚标真相，追问监管与打假缺失",
+   "hook_reason": "电车电池虚标无人打假，消费者权益质疑引爆情绪共鸣",
+   "url": "https://www.zhihu.com/question/2090544879965419159",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:有一个百思不得其解的问题也是我迟迟不想换电车的原因电车电池虚标这么严重为什么没有",
+   "batch_window": 14
+  },
+  {
+   "key": "王曼昱反击摔倒",
+   "title": "王曼昱反击摔倒",
+   "rating": "A",
+   "score": 86.18,
+   "angle": "聚焦运动员逆境翻盘的励志叙事，切入体育精神与国民情感共鸣",
+   "hook_reason": "中国乒乓球星逆境反击，体育精神与戏剧性瞬间双重引爆情绪",
+   "url": "https://s.weibo.com/weibo?q=王曼昱反击摔倒",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:王曼昱反击摔倒",
+   "batch_window": 14
+  },
+  {
+   "key": "双汇因猪肉林可霉素残留超标合计被罚没129亿元公司致歉并公布整改措施怎样从法律角度解读",
+   "title": "双汇因猪肉林可霉素残留超标，合计被罚没 1.29 亿元，公司致歉并公布整改措施，怎样从法律角度解读？",
+   "rating": "A",
+   "score": 85.0,
+   "angle": "从《食品安全法》切入，分析双汇为何被罚没1.29亿（远超一般罚款），科普违法成本与监管红线，引导公众关注日常食品安全",
+   "hook_reason": "食品安全直击民生痛点，亿元处罚罕见，法律解读有爆点",
+   "url": "https://www.zhihu.com/question/2092200492000438103",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:双汇因猪肉林可霉素残留超标合计被罚没129亿元公司致歉并公布整改措施怎样从法律角",
+   "batch_window": 14
+  },
+  {
+   "key": "telegramdesktopvulnerabilityalloc6a4d2fc",
+   "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "从普通用户视角切入，拆解漏洞原理+自救指南，附带Telegram安全设置教程",
+   "hook_reason": "Telegram千万级用户PC端曝高危漏洞，文件随时被偷",
+   "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:telegramdesktopvulnerabilityallowedanyus",
+   "batch_window": 14
   }
  ],
  "pushed": [
@@ -3328,7 +3380,8 @@
   "度电成本压到3分高空风电改写能源格局高空风电度电成本能源格局卢克文的微",
   "出口暴涨160昔日废料全球抢手",
   "ai黑客攻入48国26秒攻破11家组织ai创造营热搜ai创作激励大赛红衣大叔周",
-  "32岁女子连吃5斤榴莲确诊罕见病"
+  "32岁女子连吃5斤榴莲确诊罕见病",
+  "特朗普感谢普京俄将向美供油"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -3543,7 +3596,8 @@
   "e:度电成本压到3分高空风电改写能源格局高空风电度电成本能源格局卢克文的微": "度电成本压到 3 分！高空风电改写能源格局 #高空风电# #度电成本# #能源格局# 卢克文的微",
   "e:出口暴涨160昔日废料全球抢手": "出口暴涨160%！昔日“废料”全球抢手",
   "e:ai黑客攻入48国26秒攻破11家组织ai创造营热搜ai创作激励大赛红衣大叔周": "AI黑客攻入48国！26秒攻破11家组织！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周",
-  "e:32岁女子连吃5斤榴莲确诊罕见病": "32岁女子连吃5斤榴莲确诊罕见病"
+  "e:32岁女子连吃5斤榴莲确诊罕见病": "32岁女子连吃5斤榴莲确诊罕见病",
+  "e:特朗普感谢普京俄将向美供油": "特朗普感谢普京：俄将向美供油"
  },
  "a_seen": {
   "usimposessanctionsonicchoursafte7392c7d4": {
@@ -4109,8 +4163,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:泰国猴子救狗视频为ai生成"
+  },
+  "男子河里捞出春秋编钟卖30万获刑5年": {
+   "key": "男子河里捞出春秋编钟卖30万获刑5年",
+   "title": "男子河里捞出春秋编钟卖30万获刑5年",
+   "rating": "A",
+   "score": 87.25,
+   "angle": "从文物保护与法律边界切入，解读倒卖文物为何获刑，引发公众对文物发现后如何处理的讨论",
+   "hook_reason": "河里捞出春秋国宝卖30万获刑5年，文物犯罪案引关注",
+   "url": "https://www.toutiao.com/trending/7694870050479816755/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:男子河里捞出春秋编钟卖30万获刑5年"
+  },
+  "有一个百思不得其解的问题也是我迟迟不想换电车的原因电车电池虚标这么严重为什么没有人打假": {
+   "key": "有一个百思不得其解的问题也是我迟迟不想换电车的原因电车电池虚标这么严重为什么没有人打假",
+   "title": "有一个百思不得其解的问题，也是我迟迟不想换电车的原因，电车电池虚标这么严重为什么没有人打假？",
+   "rating": "A",
+   "score": 87.0,
+   "angle": "以电车车主/潜在买家视角，深挖电池虚标真相，追问监管与打假缺失",
+   "hook_reason": "电车电池虚标无人打假，消费者权益质疑引爆情绪共鸣",
+   "url": "https://www.zhihu.com/question/2090544879965419159",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:有一个百思不得其解的问题也是我迟迟不想换电车的原因电车电池虚标这么严重为什么没有"
+  },
+  "王曼昱反击摔倒": {
+   "key": "王曼昱反击摔倒",
+   "title": "王曼昱反击摔倒",
+   "rating": "A",
+   "score": 86.18,
+   "angle": "聚焦运动员逆境翻盘的励志叙事，切入体育精神与国民情感共鸣",
+   "hook_reason": "中国乒乓球星逆境反击，体育精神与戏剧性瞬间双重引爆情绪",
+   "url": "https://s.weibo.com/weibo?q=王曼昱反击摔倒",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:王曼昱反击摔倒"
+  },
+  "双汇因猪肉林可霉素残留超标合计被罚没129亿元公司致歉并公布整改措施怎样从法律角度解读": {
+   "key": "双汇因猪肉林可霉素残留超标合计被罚没129亿元公司致歉并公布整改措施怎样从法律角度解读",
+   "title": "双汇因猪肉林可霉素残留超标，合计被罚没 1.29 亿元，公司致歉并公布整改措施，怎样从法律角度解读？",
+   "rating": "A",
+   "score": 85.0,
+   "angle": "从《食品安全法》切入，分析双汇为何被罚没1.29亿（远超一般罚款），科普违法成本与监管红线，引导公众关注日常食品安全",
+   "hook_reason": "食品安全直击民生痛点，亿元处罚罕见，法律解读有爆点",
+   "url": "https://www.zhihu.com/question/2092200492000438103",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:双汇因猪肉林可霉素残留超标合计被罚没129亿元公司致歉并公布整改措施怎样从法律角"
+  },
+  "telegramdesktopvulnerabilityalloc6a4d2fc": {
+   "key": "telegramdesktopvulnerabilityalloc6a4d2fc",
+   "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "从普通用户视角切入，拆解漏洞原理+自救指南，附带Telegram安全设置教程",
+   "hook_reason": "Telegram千万级用户PC端曝高危漏洞，文件随时被偷",
+   "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:telegramdesktopvulnerabilityallowedanyus"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 13
+ "a_pushed_window": 14
 }
