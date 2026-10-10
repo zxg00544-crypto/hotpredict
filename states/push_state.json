@@ -3505,6 +3505,45 @@
    "breaking": false,
    "event_id": "e:虚拟外卖点了永远不会送达",
    "batch_window": 6
+  },
+  {
+   "key": "英国联合海事行动中心ukmto已收到一份关于霍尔木兹海峡内发生一起事件的报",
+   "title": "英国联合海事行动中心（UKMTO）：已收到一份关于霍尔木兹海峡内发生一起事件的报",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从油价、航运、能源安全三维度切入，预判短期市场波动与中长期地缘风险溢价",
+   "hook_reason": "霍尔木兹海峡事关全球石油命脉，突发地缘事件直接冲击油价与航运预期",
+   "url": "https://finance.sina.cn/7x24/2026-10-11/detail-iniuuweu0622973.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英国联合海事行动中心ukmto已收到一份关于霍尔木兹海峡内发生一起事件的报",
+   "batch_window": 6
+  },
+  {
+   "key": "nvidiaintalkstoacquireusopenmode0e9bb98f",
+   "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+   "rating": "A",
+   "score": 75.5,
+   "angle": "剖析Nvidia收购Reflection AI背后的战略逻辑，开源生态是扩张还是背叛",
+   "hook_reason": "英伟达收购开源模型公司，开放AI与商业化的终极碰撞",
+   "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:nvidiaintalkstoacquireusopenmodelstartup",
+   "batch_window": 6
+  },
+  {
+   "key": "唐国强无提词朗诵出师表",
+   "title": "唐国强无提词朗诵《出师表》",
+   "rating": "A",
+   "score": 80.55,
+   "angle": "从唐国强经典形象切入，探讨当代明星如何传承传统文化，引发民族情感共鸣",
+   "hook_reason": "老戏骨无提词朗诵经典，文化自信话题引发情感共鸣",
+   "url": "https://www.toutiao.com/trending/7693727830303588379/",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:唐国强无提词朗诵出师表",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -4107,12 +4146,12 @@
    "key": "如果不追究敲诈刑责的话以后估计连打120的人都没有了民风就是这样的事情给败坏的好人没有好",
    "title": "如果不追究敲诈刑责的话，以后，估计连打120的人都没有了。民风就是这样的事情给败坏的，好人没有好",
    "rating": "A",
-   "score": 49.8,
-   "angle": "从个案切入探讨敲诈刑责尺度与社会救助信任的深层关联，引发读者对自身安全的代入共鸣",
-   "hook_reason": "戳中人人自危痛点：扶不扶、救不救的社会信任危机",
+   "score": 84.08,
+   "angle": "从120拒救案例切入，探讨敲诈成本与行善成本的倒挂，如何建立保护善意者的法律屏障",
+   "hook_reason": "触及见义勇为法律风险，戳中公众对民风败坏的集体焦虑",
    "url": "https://weibo.com/1249424622/Rm53AeHxY",
    "track": "社会热点",
-   "breaking": true,
+   "breaking": false,
    "event_id": "e:如果不追究敲诈刑责的话以后估计连打120的人都没有了民风就是这样的事情给败坏的好"
   },
   "伊朗革命卫队称一艘油轮在霍尔木兹海峡触碰到水雷后发生爆炸": {
@@ -4366,6 +4405,42 @@
    "track": "社会热点",
    "breaking": false,
    "event_id": "e:虚拟外卖点了永远不会送达"
+  },
+  "英国联合海事行动中心ukmto已收到一份关于霍尔木兹海峡内发生一起事件的报": {
+   "key": "英国联合海事行动中心ukmto已收到一份关于霍尔木兹海峡内发生一起事件的报",
+   "title": "英国联合海事行动中心（UKMTO）：已收到一份关于霍尔木兹海峡内发生一起事件的报",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从油价、航运、能源安全三维度切入，预判短期市场波动与中长期地缘风险溢价",
+   "hook_reason": "霍尔木兹海峡事关全球石油命脉，突发地缘事件直接冲击油价与航运预期",
+   "url": "https://finance.sina.cn/7x24/2026-10-11/detail-iniuuweu0622973.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英国联合海事行动中心ukmto已收到一份关于霍尔木兹海峡内发生一起事件的报"
+  },
+  "nvidiaintalkstoacquireusopenmode0e9bb98f": {
+   "key": "nvidiaintalkstoacquireusopenmode0e9bb98f",
+   "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+   "rating": "A",
+   "score": 75.5,
+   "angle": "剖析Nvidia收购Reflection AI背后的战略逻辑，开源生态是扩张还是背叛",
+   "hook_reason": "英伟达收购开源模型公司，开放AI与商业化的终极碰撞",
+   "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:nvidiaintalkstoacquireusopenmodelstartup"
+  },
+  "唐国强无提词朗诵出师表": {
+   "key": "唐国强无提词朗诵出师表",
+   "title": "唐国强无提词朗诵《出师表》",
+   "rating": "A",
+   "score": 80.55,
+   "angle": "从唐国强经典形象切入，探讨当代明星如何传承传统文化，引发民族情感共鸣",
+   "hook_reason": "老戏骨无提词朗诵经典，文化自信话题引发情感共鸣",
+   "url": "https://www.toutiao.com/trending/7693727830303588379/",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:唐国强无提词朗诵出师表"
   }
  },
  "breaking_count": 10,
