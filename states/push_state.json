@@ -3349,6 +3349,45 @@
    "breaking": true,
    "event_id": "e:特朗普的集会行程包含下周三蒙大拿州一站",
    "batch_window": 2
+  },
+  {
+   "key": "史上最大变化苹果这台新机不得了网页链接网页链接",
+   "title": "史上最大变化！苹果这台新机不得了 网页链接 网页链接",
+   "rating": "A",
+   "score": 84.9,
+   "angle": "从创新突破切入，对比历代机型变化，分析对用户和行业的影响",
+   "hook_reason": "苹果史上最大变化，新机会颠覆市场认知",
+   "url": "https://weibo.com/1249424622/Rm5DvemiU",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:史上最大变化苹果这台新机不得了网页链接网页链接",
+   "batch_window": 2
+  },
+  {
+   "key": "英伟达正洽谈收购reflectionai",
+   "title": "英伟达正洽谈收购reflection AI",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深度解读英伟达收购Reflection AI的战略意图，对AI算力格局及产业链的连锁影响",
+   "hook_reason": "AI芯片巨头并购AI公司，引发行业格局剧变猜测",
+   "url": "https://finance.sina.cn/7x24/2026-10-11/detail-iniuurwx7322223.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达正洽谈收购reflectionai",
+   "batch_window": 2
+  },
+  {
+   "key": "惨烈日本爆发倒闭潮网页链接网页链接",
+   "title": "惨烈！日本爆发倒闭潮 网页链接 网页链接",
+   "rating": "A",
+   "score": 53.03,
+   "angle": "日本倒闭潮冲击出口供应链，中国外贸企业如何避坑并抓住订单转移机会？",
+   "hook_reason": "日本经济崩溃警示：70年惨败，中国外贸人该警惕什么？",
+   "url": "https://weibo.com/1249424622/Rm5vl3LtG",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:惨烈日本爆发倒闭潮网页链接网页链接",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -3968,8 +4007,8 @@
    "title": "【Tom Zhang博士：美国职场风向标】美国就业急刹车：非农仅增2.9万，10月美联储加息悬了",
    "rating": "A",
    "score": 84.8,
-   "angle": "非农数据意外低迷→美联储10月加息预期重估→全球资产联动影响分析",
-   "hook_reason": "美联储加息悬念+就业数据爆冷，直击全球投资者敏感神经",
+   "angle": "非农数据意外疲软揭示美国经济放缓信号，叠加Tom Zhang专业解读，10月加息概率骤降，美元及美股或承压",
+   "hook_reason": "美国就业数据暴雷，降息预期升温，直接影响全球资产定价",
    "url": "https://weibo.com/1249424622/Rm5g6mlni",
    "track": "财经",
    "breaking": true,
@@ -3986,6 +4025,54 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:特朗普的集会行程包含下周三蒙大拿州一站"
+  },
+  "史上最大变化苹果这台新机不得了网页链接网页链接": {
+   "key": "史上最大变化苹果这台新机不得了网页链接网页链接",
+   "title": "史上最大变化！苹果这台新机不得了 网页链接 网页链接",
+   "rating": "A",
+   "score": 84.9,
+   "angle": "从创新突破切入，对比历代机型变化，分析对用户和行业的影响",
+   "hook_reason": "苹果史上最大变化，新机会颠覆市场认知",
+   "url": "https://weibo.com/1249424622/Rm5DvemiU",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:史上最大变化苹果这台新机不得了网页链接网页链接"
+  },
+  "英伟达正洽谈收购reflectionai": {
+   "key": "英伟达正洽谈收购reflectionai",
+   "title": "英伟达正洽谈收购reflection AI",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深度解读英伟达收购Reflection AI的战略意图，对AI算力格局及产业链的连锁影响",
+   "hook_reason": "AI芯片巨头并购AI公司，引发行业格局剧变猜测",
+   "url": "https://finance.sina.cn/7x24/2026-10-11/detail-iniuurwx7322223.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达正洽谈收购reflectionai"
+  },
+  "英伟达正洽谈收购reflectionai双方谈判尚处于早期阶段": {
+   "key": "英伟达正洽谈收购reflectionai双方谈判尚处于早期阶段",
+   "title": "英伟达正洽谈收购Reflection AI，双方谈判尚处于早期阶段。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从英伟达收购AI初创公司切入，分析AI算力军备竞赛如何向应用层延伸",
+   "hook_reason": "英伟达再出手收购AI公司，行业格局或生变",
+   "url": "https://finance.sina.cn/7x24/2026-10-11/detail-iniuurww0544481.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达正洽谈收购reflectionai"
+  },
+  "惨烈日本爆发倒闭潮网页链接网页链接": {
+   "key": "惨烈日本爆发倒闭潮网页链接网页链接",
+   "title": "惨烈！日本爆发倒闭潮 网页链接 网页链接",
+   "rating": "A",
+   "score": 53.03,
+   "angle": "日本倒闭潮冲击出口供应链，中国外贸企业如何避坑并抓住订单转移机会？",
+   "hook_reason": "日本经济崩溃警示：70年惨败，中国外贸人该警惕什么？",
+   "url": "https://weibo.com/1249424622/Rm5vl3LtG",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:惨烈日本爆发倒闭潮网页链接网页链接"
   }
  },
  "breaking_count": 10,
