@@ -1856,19 +1856,6 @@
    "batch_window": 12
   },
   {
-   "key": "ai黑客攻入48国26秒攻破11家组织ai创造营热搜ai创作激励大赛红衣大叔周",
-   "title": "AI黑客攻入48国！26秒攻破11家组织！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周",
-   "rating": "A",
-   "score": 84.9,
-   "angle": "从红衣大叔周鸿祎视角切入，剖析AI赋能黑客攻击的威胁升级与防御应对",
-   "hook_reason": "26秒攻破11家组织，AI黑客震撼48国，红衣大叔首发解读",
-   "url": "https://weibo.com/1708942053/RlHn0ltuU",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:ai黑客攻入48国26秒攻破11家组织ai创造营热搜ai创作激励大赛红衣大叔周",
-   "batch_window": 13
-  },
-  {
    "key": "郑克强生死有命富贵在天他是谈这个听听",
    "title": "// @郑克强 :生死有命富贵在天，他是谈这个？听听。",
    "rating": "A",
@@ -2985,6 +2972,71 @@
    "breaking": true,
    "event_id": "e:昨日a股v型反弹港股低开后全日走高宽基etf放量买入接受彭博社采访点评全文链接网",
    "batch_window": 11
+  },
+  {
+   "key": "32岁女子连吃5斤榴莲确诊罕见病",
+   "title": "32岁女子连吃5斤榴莲确诊罕见病",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "健康警示角度：榴莲虽好不能贪多，从病例切入科普饮食边界",
+   "hook_reason": "爱吃榴莲人群的健康焦虑+罕见病猎奇，易引发转发",
+   "url": "https://s.weibo.com/weibo?q=32岁女子连吃5斤榴莲确诊罕见病",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:32岁女子连吃5斤榴莲确诊罕见病",
+   "batch_window": 12
+  },
+  {
+   "key": "特朗普感谢普京俄将向美供油",
+   "title": "特朗普感谢普京：俄将向美供油",
+   "rating": "A",
+   "score": 92.0,
+   "angle": null,
+   "hook_reason": "特朗普与普京破冰互动+能源大逆转，地缘格局突变，读者好奇心爆棚",
+   "url": "https://www.toutiao.com/trending/7693846794471669802/",
+   "track": "其他",
+   "breaking": true,
+   "event_id": "e:特朗普感谢普京俄将向美供油",
+   "batch_window": 12
+  },
+  {
+   "key": "eyeofsauronlongrangehiddenspycameradetection",
+   "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+   "rating": "A",
+   "score": 80.5,
+   "angle": "从全民隐私焦虑切入，介绍顶级安全会议公布的远程摄像头检测黑科技，兼具科普性与实用价值",
+   "hook_reason": "远程隐形偷拍也能被抓包？隐私党集体沸腾",
+   "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:eyeofsauronlongrangehiddenspycameradetec",
+   "batch_window": 12
+  },
+  {
+   "key": "飞机失控机长重伤174人的生死竟被一个小女孩改写救援红衣大叔周鸿祎的微博视频",
+   "title": "飞机失控机长重伤！174人的生死竟被一个小女孩改写！ #救援# 红衣大叔周鸿祎的微博视频",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "从小女孩应急反应切入，结合周鸿祎转发放大话题，追问普通人能否成为英雄",
+   "hook_reason": "小女孩拯救174人生命，周鸿祎助推引爆情绪",
+   "url": "https://weibo.com/1708942053/Rm0d1BCKs",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:飞机失控机长重伤174人的生死竟被一个小女孩改写救援红衣大叔周鸿祎的微博视频",
+   "batch_window": 12
+  },
+  {
+   "key": "小米手表s541mm你的全天运动健康助手专业滑雪模式记录滑雪轨迹播报滑雪表现",
+   "title": "#小米手表S5 41mm# 你的全天运动健康助手 专业滑雪模式，记录滑雪轨迹，播报滑雪表现",
+   "rating": "A",
+   "score": 49.95,
+   "angle": "从小米可穿戴布局切入，滑雪场景是差异化亮点，体现大厂硬件生态的细分渗透",
+   "hook_reason": "小米手表出滑雪模式，冷门运动被智能穿戴破圈",
+   "url": "https://weibo.com/1892653244/RlZThjU2w",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米手表s541mm你的全天运动健康助手专业滑雪模式记录滑雪轨迹播报滑雪表现",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -3261,7 +3313,8 @@
   "全球股市大涨大a先抑后扬未来怎么干首次讲透三大主线股市大a股票知识",
   "用手机换来的听话真的是好事吗育儿亲子关系家庭教育育儿经验樊登的微博",
   "度电成本压到3分高空风电改写能源格局高空风电度电成本能源格局卢克文的微",
-  "出口暴涨160昔日废料全球抢手"
+  "出口暴涨160昔日废料全球抢手",
+  "ai黑客攻入48国26秒攻破11家组织ai创造营热搜ai创作激励大赛红衣大叔周"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -3474,7 +3527,8 @@
   "e:全球股市大涨大a先抑后扬未来怎么干首次讲透三大主线股市大a股票知识": "全球股市大涨 大A先抑后扬？未来怎么干 首次讲透三大主线！ #股市# #大A# #股票知识# #",
   "e:用手机换来的听话真的是好事吗育儿亲子关系家庭教育育儿经验樊登的微博": "用手机换来的听话，真的是好事吗？ #育儿# #亲子关系# #家庭教育# #育儿经验# 樊登的微博",
   "e:度电成本压到3分高空风电改写能源格局高空风电度电成本能源格局卢克文的微": "度电成本压到 3 分！高空风电改写能源格局 #高空风电# #度电成本# #能源格局# 卢克文的微",
-  "e:出口暴涨160昔日废料全球抢手": "出口暴涨160%！昔日“废料”全球抢手"
+  "e:出口暴涨160昔日废料全球抢手": "出口暴涨160%！昔日“废料”全球抢手",
+  "e:ai黑客攻入48国26秒攻破11家组织ai创造营热搜ai创作激励大赛红衣大叔周": "AI黑客攻入48国！26秒攻破11家组织！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周"
  },
  "a_seen": {
   "usimposessanctionsonicchoursafte7392c7d4": {
@@ -3949,15 +4003,75 @@
    "key": "昨日a股v型反弹港股低开后全日走高宽基etf放量买入接受彭博社采访点评全文链接网页链",
    "title": "昨日A股V型反弹，港股低开后全日走高，宽基ETF放量买入。接受彭博社采访点评，全文链接： 网页链",
    "rating": "A",
-   "score": 49.85,
-   "angle": "从V型反转背后的资金逻辑切入，解析ETF放量信号与机构动向",
-   "hook_reason": "V型反弹+ETF放量，股民急需解读资金信号",
+   "score": 84.85,
+   "angle": "解读A股V型反转逻辑与宽基ETF放量背后的资金意图",
+   "hook_reason": "A股V型反弹+彭博社采访，股民必点的暴涨密码",
    "url": "https://weibo.com/7799274131/RlZDBsxVI",
    "track": "财经",
    "breaking": true,
    "event_id": "e:昨日a股v型反弹港股低开后全日走高宽基etf放量买入接受彭博社采访点评全文链接网"
+  },
+  "32岁女子连吃5斤榴莲确诊罕见病": {
+   "key": "32岁女子连吃5斤榴莲确诊罕见病",
+   "title": "32岁女子连吃5斤榴莲确诊罕见病",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "健康警示角度：榴莲虽好不能贪多，从病例切入科普饮食边界",
+   "hook_reason": "爱吃榴莲人群的健康焦虑+罕见病猎奇，易引发转发",
+   "url": "https://s.weibo.com/weibo?q=32岁女子连吃5斤榴莲确诊罕见病",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:32岁女子连吃5斤榴莲确诊罕见病"
+  },
+  "特朗普感谢普京俄将向美供油": {
+   "key": "特朗普感谢普京俄将向美供油",
+   "title": "特朗普感谢普京：俄将向美供油",
+   "rating": "A",
+   "score": 92.0,
+   "angle": null,
+   "hook_reason": "特朗普与普京破冰互动+能源大逆转，地缘格局突变，读者好奇心爆棚",
+   "url": "https://www.toutiao.com/trending/7693846794471669802/",
+   "track": "其他",
+   "breaking": true,
+   "event_id": "e:特朗普感谢普京俄将向美供油"
+  },
+  "eyeofsauronlongrangehiddenspycameradetection": {
+   "key": "eyeofsauronlongrangehiddenspycameradetection",
+   "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+   "rating": "A",
+   "score": 80.5,
+   "angle": "从全民隐私焦虑切入，介绍顶级安全会议公布的远程摄像头检测黑科技，兼具科普性与实用价值",
+   "hook_reason": "远程隐形偷拍也能被抓包？隐私党集体沸腾",
+   "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:eyeofsauronlongrangehiddenspycameradetec"
+  },
+  "飞机失控机长重伤174人的生死竟被一个小女孩改写救援红衣大叔周鸿祎的微博视频": {
+   "key": "飞机失控机长重伤174人的生死竟被一个小女孩改写救援红衣大叔周鸿祎的微博视频",
+   "title": "飞机失控机长重伤！174人的生死竟被一个小女孩改写！ #救援# 红衣大叔周鸿祎的微博视频",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "从小女孩应急反应切入，结合周鸿祎转发放大话题，追问普通人能否成为英雄",
+   "hook_reason": "小女孩拯救174人生命，周鸿祎助推引爆情绪",
+   "url": "https://weibo.com/1708942053/Rm0d1BCKs",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:飞机失控机长重伤174人的生死竟被一个小女孩改写救援红衣大叔周鸿祎的微博视频"
+  },
+  "小米手表s541mm你的全天运动健康助手专业滑雪模式记录滑雪轨迹播报滑雪表现": {
+   "key": "小米手表s541mm你的全天运动健康助手专业滑雪模式记录滑雪轨迹播报滑雪表现",
+   "title": "#小米手表S5 41mm# 你的全天运动健康助手 专业滑雪模式，记录滑雪轨迹，播报滑雪表现",
+   "rating": "A",
+   "score": 49.95,
+   "angle": "从小米可穿戴布局切入，滑雪场景是差异化亮点，体现大厂硬件生态的细分渗透",
+   "hook_reason": "小米手表出滑雪模式，冷门运动被智能穿戴破圈",
+   "url": "https://weibo.com/1892653244/RlZThjU2w",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米手表s541mm你的全天运动健康助手专业滑雪模式记录滑雪轨迹播报滑雪表现"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
