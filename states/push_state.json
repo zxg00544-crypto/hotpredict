@@ -3195,19 +3195,6 @@
    "batch_window": 20
   },
   {
-   "key": "证监会召开资本市场和金融形势座谈会",
-   "title": "证监会召开资本市场和金融形势座谈会",
-   "rating": "A",
-   "score": 86.85,
-   "angle": "从座谈会释放的政策信号切入，解读对市场流动性和板块情绪的即时影响，适合快讯+深度双发",
-   "hook_reason": "最高监管层直接定调资本市场，投资者必跟",
-   "url": "https://www.toutiao.com/trending/7694802279362854938/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:证监会召开资本市场和金融形势座谈会",
-   "batch_window": 21
-  },
-  {
    "key": "applemacossilentlyremovedfromoff5cb0819a",
    "title": "Apple/macOS silently removed from official Unix registry",
    "rating": "A",
@@ -3284,6 +3271,58 @@
    "breaking": true,
    "event_id": "e:日本外相茂木敏充与美国国务卿鲁比奥通电话就近期发生在冲绳的美军士兵抢劫杀人事件",
    "batch_window": 21
+  },
+  {
+   "key": "郑钦文首进中网决赛",
+   "title": "郑钦文首进中网决赛",
+   "rating": "A",
+   "score": 81.95,
+   "angle": "A档：郑钦文成长轨迹+中国网球突破史；B档：中网历届冠军盘点+新生代冲击",
+   "hook_reason": "中国网球一姐首进中网决赛，民族情绪+体育热血双重驱动",
+   "url": "https://www.toutiao.com/trending/7694296090988298303/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:郑钦文首进中网决赛",
+   "batch_window": 22
+  },
+  {
+   "key": "lobbyingiscorruption",
+   "title": "Lobbying Is Corruption",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "从科技巨头游说行为切入，剖析政商利益输送如何影响行业监管与创新生态",
+   "hook_reason": "游说与腐败的边界争议，触及公众对权力寻租的敏感神经",
+   "url": "https://carette.xyz/posts/lobbying_and_corruption/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:lobbyingiscorruption",
+   "batch_window": 22
+  },
+  {
+   "key": "小米澎程大电池增程平时当纯电车开长途出门无焦虑n70max纯电cltc续航50",
+   "title": "#小米澎程# 大电池增程，平时当纯电车开，长途出门无焦虑！ N70 Max 纯电CLTC续航50",
+   "rating": "A",
+   "score": 64.38,
+   "angle": "小米入局增程赛道，大电池技术能否打破纯电续航焦虑，抢占新能源增量市场",
+   "hook_reason": "小米首款增程车曝光，大电池+超长续航直击新能源痛点",
+   "url": "https://weibo.com/1749127163/Rm3v8miI2",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米澎程大电池增程平时当纯电车开长途出门无焦虑n70max纯电cltc续航50",
+   "batch_window": 22
+  },
+  {
+   "key": "日媒曝黑客黑掉软银旗下云平台后留下225封勒索信结果运维找7小时没发现勒索信只是一味重启如何看待",
+   "title": "日媒曝黑客黑掉软银旗下云平台后留下225封勒索信，结果运维找7小时没发现勒索信只是一味重启，如何看待？",
+   "rating": "A",
+   "score": 59.79,
+   "angle": "从黑客'低调'攻击与运维'高调'失误的反差切入，审视云安全运维漏洞与 professionals 专业性危机",
+   "hook_reason": "黑客留了225封勒索信运维找7小时没发现，运维翻车引发安全焦虑",
+   "url": "https://www.zhihu.com/question/2092283931764552084",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:日媒曝黑客黑掉软银旗下云平台后留下225封勒索信结果运维找7小时没发现勒索信只是",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -3570,7 +3609,8 @@
   "两名内地女学生在澳门非法旅拍被捕为什么属于非法务工雇主和摄影师会面临什么处罚",
   "王曼昱反击摔倒",
   "双汇因猪肉林可霉素残留超标合计被罚没129亿元公司致歉并公布整改措施怎样从法律角度解读",
-  "蔚来全新es8位列35万元以上新能源suv保值率第一775的一年保值率代表了市场对全新e"
+  "蔚来全新es8位列35万元以上新能源suv保值率第一775的一年保值率代表了市场对全新e",
+  "证监会召开资本市场和金融形势座谈会"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -3793,7 +3833,8 @@
   "e:两名内地女学生在澳门非法旅拍被捕为什么属于非法务工雇主和摄影师会面临什么处罚": "两名内地女学生在澳门非法旅拍被捕，为什么属于非法务工？雇主和摄影师会面临什么处罚？",
   "e:王曼昱反击摔倒": "王曼昱反击摔倒",
   "e:双汇因猪肉林可霉素残留超标合计被罚没129亿元公司致歉并公布整改措施怎样从法律角": "双汇因猪肉林可霉素残留超标，合计被罚没 1.29 亿元，公司致歉并公布整改措施，怎样从法律角度解读？",
-  "e:蔚来全新es8位列35万元以上新能源suv保值率第一775的一年保值率代表了市场": "蔚来全新ES8位列35万元以上新能源SUV保值率第一！77.5%的一年保值率，代表了市场对全新E"
+  "e:蔚来全新es8位列35万元以上新能源suv保值率第一775的一年保值率代表了市场": "蔚来全新ES8位列35万元以上新能源SUV保值率第一！77.5%的一年保值率，代表了市场对全新E",
+  "e:证监会召开资本市场和金融形势座谈会": "证监会召开资本市场和金融形势座谈会"
  },
  "a_seen": {
   "usimposessanctionsonicchoursafte7392c7d4": {
@@ -4652,9 +4693,9 @@
    "key": "美军拟直播枪决罪犯有哪些争议",
    "title": "美军拟直播枪决罪犯有哪些争议",
    "rating": "A",
-   "score": 40.85,
-   "angle": "从'战时执法透明度 vs 人权伦理'双线切入，结合国际法与公众情绪对比写作",
-   "hook_reason": "美军首次直播枪决罪犯，冲击人类底线",
+   "score": 42.21,
+   "angle": "从美军此举争议切入，对比国际社会反应，点出人权双重标准",
+   "hook_reason": "美军直播处决引全球谴责，中国人关心的底线问题",
    "url": "https://search.bilibili.com/all?keyword=美军拟直播枪决罪犯有哪些争议",
    "track": "社会热点",
    "breaking": true,
@@ -4707,8 +4748,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:日本外相茂木敏充与美国国务卿鲁比奥通电话就近期发生在冲绳的美军士兵抢劫杀人事件"
+  },
+  "郑钦文首进中网决赛": {
+   "key": "郑钦文首进中网决赛",
+   "title": "郑钦文首进中网决赛",
+   "rating": "A",
+   "score": 81.95,
+   "angle": "A档：郑钦文成长轨迹+中国网球突破史；B档：中网历届冠军盘点+新生代冲击",
+   "hook_reason": "中国网球一姐首进中网决赛，民族情绪+体育热血双重驱动",
+   "url": "https://www.toutiao.com/trending/7694296090988298303/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:郑钦文首进中网决赛"
+  },
+  "lobbyingiscorruption": {
+   "key": "lobbyingiscorruption",
+   "title": "Lobbying Is Corruption",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "从科技巨头游说行为切入，剖析政商利益输送如何影响行业监管与创新生态",
+   "hook_reason": "游说与腐败的边界争议，触及公众对权力寻租的敏感神经",
+   "url": "https://carette.xyz/posts/lobbying_and_corruption/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:lobbyingiscorruption"
+  },
+  "小米澎程大电池增程平时当纯电车开长途出门无焦虑n70max纯电cltc续航50": {
+   "key": "小米澎程大电池增程平时当纯电车开长途出门无焦虑n70max纯电cltc续航50",
+   "title": "#小米澎程# 大电池增程，平时当纯电车开，长途出门无焦虑！ N70 Max 纯电CLTC续航50",
+   "rating": "A",
+   "score": 64.38,
+   "angle": "小米入局增程赛道，大电池技术能否打破纯电续航焦虑，抢占新能源增量市场",
+   "hook_reason": "小米首款增程车曝光，大电池+超长续航直击新能源痛点",
+   "url": "https://weibo.com/1749127163/Rm3v8miI2",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米澎程大电池增程平时当纯电车开长途出门无焦虑n70max纯电cltc续航50"
+  },
+  "日媒曝黑客黑掉软银旗下云平台后留下225封勒索信结果运维找7小时没发现勒索信只是一味重启如何看待": {
+   "key": "日媒曝黑客黑掉软银旗下云平台后留下225封勒索信结果运维找7小时没发现勒索信只是一味重启如何看待",
+   "title": "日媒曝黑客黑掉软银旗下云平台后留下225封勒索信，结果运维找7小时没发现勒索信只是一味重启，如何看待？",
+   "rating": "A",
+   "score": 59.79,
+   "angle": "从黑客'低调'攻击与运维'高调'失误的反差切入，审视云安全运维漏洞与 professionals 专业性危机",
+   "hook_reason": "黑客留了225封勒索信运维找7小时没发现，运维翻车引发安全焦虑",
+   "url": "https://www.zhihu.com/question/2092283931764552084",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:日媒曝黑客黑掉软银旗下云平台后留下225封勒索信结果运维找7小时没发现勒索信只是"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
