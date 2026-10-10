@@ -3338,19 +3338,6 @@
    "batch_window": 2
   },
   {
-   "key": "史上最大变化苹果这台新机不得了网页链接网页链接",
-   "title": "史上最大变化！苹果这台新机不得了 网页链接 网页链接",
-   "rating": "A",
-   "score": 84.9,
-   "angle": "从创新突破切入，对比历代机型变化，分析对用户和行业的影响",
-   "hook_reason": "苹果史上最大变化，新机会颠覆市场认知",
-   "url": "https://weibo.com/1249424622/Rm5DvemiU",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:史上最大变化苹果这台新机不得了网页链接网页链接",
-   "batch_window": 2
-  },
-  {
    "key": "英伟达正洽谈收购reflectionai",
    "title": "英伟达正洽谈收购reflection AI",
    "rating": "A",
@@ -3401,6 +3388,58 @@
    "breaking": false,
    "event_id": "e:anthropicdiscloses2monthsoldfaketiptopol",
    "batch_window": 3
+  },
+  {
+   "key": "2dvehicles",
+   "title": "2D Vehicles",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "2D车辆项目登顶HN，用极简设计挑战自动驾驶复杂路线，重新定义未来交通工具形态",
+   "hook_reason": "HN首爆，2D车辆概念颠覆出行想象，开发者圈层沸腾",
+   "url": "https://patkerr.co.uk/2d-vehicles/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:2dvehicles",
+   "batch_window": 4
+  },
+  {
+   "key": "特朗普称或加入打击胡塞武装行动",
+   "title": "特朗普称或加入打击胡塞武装行动",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从国际地缘政治角度解读特朗普表态对美国及全球能源、股市的潜在冲击，突出普通读者切身利益关联",
+   "hook_reason": "特朗普突发军事表态，中东局势升级牵动全球神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-11/detail-iniuurww0612046.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:特朗普称或加入打击胡塞武装行动",
+   "batch_window": 4
+  },
+  {
+   "key": "whyduckdb20isfaster",
+   "title": "Why DuckDB 2.0 is faster",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从性能突破切入，解读DuckDB如何重塑本地数据分析格局，影响开发者生态",
+   "hook_reason": "数据库性能革命：DuckDB 2.0凭什么快？",
+   "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whyduckdb20isfaster",
+   "batch_window": 4
+  },
+  {
+   "key": "下周一a股要变盘吗",
+   "title": "下周一A股要变盘吗",
+   "rating": "A",
+   "score": 62.08,
+   "angle": "A股变盘点前瞻：资金面+政策信号双驱动，三类投资者应对策略",
+   "hook_reason": "股民最关心下周走势，悬念感拉满",
+   "url": "https://www.toutiao.com/trending/7695030077406318121/",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:下周一a股要变盘吗",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -3703,7 +3742,8 @@
   "财经股市ai任泽平的微博视频",
   "礼来ceoai制药路还很长人类可能只掌握10的生物学知识网页链接网页链接",
   "谷歌gemini4新模型大泄露内测评价这不opus55吗网页链接网页链接",
-  "360拿下ai安全第一六大维度五项满分ai创造营热搜ai创作激励大赛红衣大叔周"
+  "360拿下ai安全第一六大维度五项满分ai创造营热搜ai创作激励大赛红衣大叔周",
+  "史上最大变化苹果这台新机不得了网页链接网页链接"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -3942,7 +3982,8 @@
   "e:财经股市ai任泽平的微博视频": "#财经# #股市# #AI 任泽平的微博视频",
   "e:礼来ceoai制药路还很长人类可能只掌握10的生物学知识网页链接网页链接": "礼来CEO：AI制药路还很长，人类可能只掌握10%的生物学知识 网页链接 网页链接",
   "e:谷歌gemini4新模型大泄露内测评价这不opus55吗网页链接网页链接": "谷歌Gemini 4新模型大泄露！内测评价：这不Opus 5.5吗？！ 网页链接 网页链接",
-  "e:360拿下ai安全第一六大维度五项满分ai创造营热搜ai创作激励大赛红衣大叔周": "360拿下AI安全第一，六大维度五项满分！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周"
+  "e:360拿下ai安全第一六大维度五项满分ai创造营热搜ai创作激励大赛红衣大叔周": "360拿下AI安全第一，六大维度五项满分！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周",
+  "e:史上最大变化苹果这台新机不得了网页链接网页链接": "史上最大变化！苹果这台新机不得了 网页链接 网页链接"
  },
  "a_seen": {
   "乌方抛出全面无条件停火方案有何意图": {
@@ -4112,8 +4153,56 @@
    "track": "科技",
    "breaking": false,
    "event_id": "e:anthropicdiscloses2monthsoldfaketiptopol"
+  },
+  "2dvehicles": {
+   "key": "2dvehicles",
+   "title": "2D Vehicles",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "2D车辆项目登顶HN，用极简设计挑战自动驾驶复杂路线，重新定义未来交通工具形态",
+   "hook_reason": "HN首爆，2D车辆概念颠覆出行想象，开发者圈层沸腾",
+   "url": "https://patkerr.co.uk/2d-vehicles/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:2dvehicles"
+  },
+  "特朗普称或加入打击胡塞武装行动": {
+   "key": "特朗普称或加入打击胡塞武装行动",
+   "title": "特朗普称或加入打击胡塞武装行动",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从国际地缘政治角度解读特朗普表态对美国及全球能源、股市的潜在冲击，突出普通读者切身利益关联",
+   "hook_reason": "特朗普突发军事表态，中东局势升级牵动全球神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-11/detail-iniuurww0612046.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:特朗普称或加入打击胡塞武装行动"
+  },
+  "whyduckdb20isfaster": {
+   "key": "whyduckdb20isfaster",
+   "title": "Why DuckDB 2.0 is faster",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从性能突破切入，解读DuckDB如何重塑本地数据分析格局，影响开发者生态",
+   "hook_reason": "数据库性能革命：DuckDB 2.0凭什么快？",
+   "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whyduckdb20isfaster"
+  },
+  "下周一a股要变盘吗": {
+   "key": "下周一a股要变盘吗",
+   "title": "下周一A股要变盘吗",
+   "rating": "A",
+   "score": 62.08,
+   "angle": "A股变盘点前瞻：资金面+政策信号双驱动，三类投资者应对策略",
+   "hook_reason": "股民最关心下周走势，悬念感拉满",
+   "url": "https://www.toutiao.com/trending/7695030077406318121/",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:下周一a股要变盘吗"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
