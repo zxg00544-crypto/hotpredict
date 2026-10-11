@@ -1,7 +1,7 @@
 {
  "date": "2026-10-12",
  "daily_done": false,
- "alert_date": "",
+ "alert_date": "2026-10-12",
  "a_pending": [
   {
    "key": "曾预警金融危机的whitney称美国经济有暗伤ai投资热恐是纸牌屋",
@@ -2675,19 +2675,6 @@
    "batch_window": 8
   },
   {
-   "key": "姚明马云现身nba中国赛场边观赛",
-   "title": "姚明马云现身NBA中国赛场边观赛",
-   "rating": "A",
-   "score": 83.5,
-   "angle": "捕捉两位顶级名人在国际体育赛场同框的稀缺画面，解读背后的商业体育联动信号",
-   "hook_reason": "姚明马云跨界同框NBA，商业+体育名人大咖效应拉满",
-   "url": "https://www.toutiao.com/trending/7693322083971141162/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:马云贝克汉姆蹲下与轮椅球迷合影",
-   "batch_window": 8
-  },
-  {
    "key": "爆发中国资产大涨",
    "title": "爆发！中国资产大涨",
    "rating": "A",
@@ -3895,6 +3882,19 @@
    "breaking": true,
    "event_id": "e:cartographersofnorthkorea",
    "batch_window": 6
+  },
+  {
+   "key": "搬运直播切片带货侵权",
+   "title": "搬运直播切片带货 侵权",
+   "rating": "A",
+   "score": 87.4,
+   "angle": "盘点近期典型案例+法律依据+创作者避坑指南，切入普通人关心的'能不能做'问题",
+   "hook_reason": "直播切片带货侵权问题，关乎普通人赚钱路径与法律红线",
+   "url": "https://www.baidu.com/s?wd=%E6%90%AC%E8%BF%90%E7%9B%B4%E6%92%AD%E5%88%87%E7%89%87%E5%B8%A6%E8%B4%A7+%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:搬运直播切片带货侵权",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -4234,7 +4234,8 @@
   "深圳公布一起高处坠落事故调查报告",
   "imsorrybutyoustillhavetothink",
   "虚拟外卖点了永远不会送达",
-  "ussuspendsvisaprogramfortechfirm86989c6f"
+  "ussuspendsvisaprogramfortechfirm86989c6f",
+  "姚明马云现身nba中国赛场边观赛"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -4510,7 +4511,8 @@
   "e:深圳公布一起高处坠落事故调查报告": "深圳公布一起高处坠落事故调查报告",
   "e:imsorrybutyoustillhavetothink": "I'm sorry, but you still have to think",
   "e:虚拟外卖点了永远不会送达": "虚拟外卖点了永远不会送达",
-  "e:ussuspendsvisaprogramfortechfirmsincludi": "US Suspends Visa Program for Tech Firms Including Microsoft"
+  "e:ussuspendsvisaprogramfortechfirmsincludi": "US Suspends Visa Program for Tech Firms Including Microsoft",
+  "e:马云贝克汉姆蹲下与轮椅球迷合影": "姚明马云现身NBA中国赛场边观赛"
  },
  "a_seen": {
   "百亿私募希瓦梁宏吐槽部分保险资管巨头7月高位买入大量科技股9月下旬却大幅减仓止损直言追涨": {
@@ -4716,8 +4718,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:cartographersofnorthkorea"
+  },
+  "搬运直播切片带货侵权": {
+   "key": "搬运直播切片带货侵权",
+   "title": "搬运直播切片带货 侵权",
+   "rating": "A",
+   "score": 87.4,
+   "angle": "盘点近期典型案例+法律依据+创作者避坑指南，切入普通人关心的'能不能做'问题",
+   "hook_reason": "直播切片带货侵权问题，关乎普通人赚钱路径与法律红线",
+   "url": "https://www.baidu.com/s?wd=%E6%90%AC%E8%BF%90%E7%9B%B4%E6%92%AD%E5%88%87%E7%89%87%E5%B8%A6%E8%B4%A7+%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:搬运直播切片带货侵权"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
