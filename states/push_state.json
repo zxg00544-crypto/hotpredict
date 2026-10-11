@@ -2974,19 +2974,6 @@
    "batch_window": 16
   },
   {
-   "key": "男子在icu抢救母亲却取不出儿子存款救命银行称家属须出具法定监护人身份证明这规定合理吗",
-   "title": "男子在 ICU 抢救，母亲却取不出儿子存款救命，银行称家属须出具法定监护人身份证明，这规定合理吗？",
-   "rating": "A",
-   "score": 84.5,
-   "angle": "从母亲视角切入，讲述ICU外取钱难的窒息感，追问银行'合规'与'人命'的边界在哪里",
-   "hook_reason": "救命钱取不出，银行规定vs生命伦理，直击每个人都会有的存款焦虑",
-   "url": "https://www.zhihu.com/question/2092224091172201313",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:男子在icu抢救母亲却取不出儿子存款救命银行称家属须出具法定监护人身份证明这规定",
-   "batch_window": 18
-  },
-  {
    "key": "123456passwordusedindanishcprdatabreach",
    "title": "`123456' password used in Danish CPR data breach",
    "rating": "A",
@@ -3843,6 +3830,58 @@
    "breaking": true,
    "event_id": "e:伊朗安全委员会秘书雷扎伊如果再次爆发战争地区许多电缆数据中心人工智能设施",
    "batch_window": 23
+  },
+  {
+   "key": "imsorrybutyoustillhavetothink",
+   "title": "I'm sorry, but you still have to think",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "从AI滥用反思切入，论证人类批判性思维不可替代，反AI依赖论",
+   "hook_reason": "AI时代人类是否还需独立思考？直击痛点引发共鸣",
+   "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:imsorrybutyoustillhavetothink",
+   "batch_window": 2
+  },
+  {
+   "key": "伊朗军方在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标",
+   "title": "伊朗军方：在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "霍尔木兹海峡关闭导航→国际油价暴涨→中国原油进口成本与股市板块机会分析",
+   "hook_reason": "全球石油咽喉被卡，油价要炸了",
+   "url": "https://finance.sina.cn/7x24/2026-10-12/detail-iniuwuvx7209201.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗军方在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标",
+   "batch_window": 2
+  },
+  {
+   "key": "documentsaddtoevidenceinclimated7260792c",
+   "title": "Documents add to evidence in climate deception case against ExxonMobil",
+   "rating": "A",
+   "score": 45.63,
+   "angle": "从内部文件看埃克森美孚如何用学术伪装误导公众，延伸至全球能源企业的\"漂绿\"产业链",
+   "hook_reason": "能源巨头系统性欺骗公众的新铁证，环境正义vs资本博弈",
+   "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:documentsaddtoevidenceinclimatedeception",
+   "batch_window": 2
+  },
+  {
+   "key": "深圳公布一起高处坠落事故调查报告",
+   "title": "深圳公布一起高处坠落事故调查报告",
+   "rating": "A",
+   "score": 86.45,
+   "angle": "从坠落事故切入高处作业安全监管漏洞",
+   "hook_reason": "坠落事故冲击力强，调查报告涉公共安全",
+   "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%85%AC%E5%B8%83%E4%B8%80%E8%B5%B7%E9%AB%98%E5%A4%84%E5%9D%A0%E8%90%BD%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:深圳公布一起高处坠落事故调查报告",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -4177,7 +4216,8 @@
   "郑克强生死有命富贵在天他是谈这个听听",
   "李娜之后苦等14年",
   "沙特阿拉伯巴基斯坦埃及和土耳其就袭击事件发表声明袭击事件代表着危险的局势升",
-  "郎行2026老人摔倒了大伙儿都不敢扶这是个啥世道叶苍茫2022感觉"
+  "郎行2026老人摔倒了大伙儿都不敢扶这是个啥世道叶苍茫2022感觉",
+  "男子在icu抢救母亲却取不出儿子存款救命银行称家属须出具法定监护人身份证明这规定合理吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -4448,7 +4488,8 @@
   "e:郑克强生死有命富贵在天他是谈这个听听": "// @郑克强 :生死有命富贵在天，他是谈这个？听听。",
   "e:李娜之后苦等14年": "李娜之后苦等14年",
   "e:沙特阿拉伯巴基斯坦埃及和土耳其就袭击事件发表声明袭击事件代表着危险的局势升": "沙特阿拉伯、巴基斯坦、埃及和土耳其就袭击事件发表声明：袭击事件代表着危险的局势升",
-  "e:郎行2026老人摔倒了大伙儿都不敢扶这是个啥世道叶苍茫2022感觉": "// @郎行-2026 :老人摔倒了大伙儿都不敢扶，这是个啥世道？// @叶苍茫2022 :感觉"
+  "e:郎行2026老人摔倒了大伙儿都不敢扶这是个啥世道叶苍茫2022感觉": "// @郎行-2026 :老人摔倒了大伙儿都不敢扶，这是个啥世道？// @叶苍茫2022 :感觉",
+  "e:男子在icu抢救母亲却取不出儿子存款救命银行称家属须出具法定监护人身份证明这规定": "男子在 ICU 抢救，母亲却取不出儿子存款救命，银行称家属须出具法定监护人身份证明，这规定合理吗？"
  },
  "a_seen": {
   "百亿私募希瓦梁宏吐槽部分保险资管巨头7月高位买入大量科技股9月下旬却大幅减仓止损直言追涨": {
@@ -4546,8 +4587,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:李娜之后苦等14年"
+  },
+  "imsorrybutyoustillhavetothink": {
+   "key": "imsorrybutyoustillhavetothink",
+   "title": "I'm sorry, but you still have to think",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "从AI滥用反思切入，论证人类批判性思维不可替代，反AI依赖论",
+   "hook_reason": "AI时代人类是否还需独立思考？直击痛点引发共鸣",
+   "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:imsorrybutyoustillhavetothink"
+  },
+  "伊朗军方在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标": {
+   "key": "伊朗军方在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标",
+   "title": "伊朗军方：在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "霍尔木兹海峡关闭导航→国际油价暴涨→中国原油进口成本与股市板块机会分析",
+   "hook_reason": "全球石油咽喉被卡，油价要炸了",
+   "url": "https://finance.sina.cn/7x24/2026-10-12/detail-iniuwuvx7209201.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗军方在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标"
+  },
+  "documentsaddtoevidenceinclimated7260792c": {
+   "key": "documentsaddtoevidenceinclimated7260792c",
+   "title": "Documents add to evidence in climate deception case against ExxonMobil",
+   "rating": "A",
+   "score": 45.63,
+   "angle": "从内部文件看埃克森美孚如何用学术伪装误导公众，延伸至全球能源企业的\"漂绿\"产业链",
+   "hook_reason": "能源巨头系统性欺骗公众的新铁证，环境正义vs资本博弈",
+   "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:documentsaddtoevidenceinclimatedeception"
+  },
+  "深圳公布一起高处坠落事故调查报告": {
+   "key": "深圳公布一起高处坠落事故调查报告",
+   "title": "深圳公布一起高处坠落事故调查报告",
+   "rating": "A",
+   "score": 86.45,
+   "angle": "从坠落事故切入高处作业安全监管漏洞",
+   "hook_reason": "坠落事故冲击力强，调查报告涉公共安全",
+   "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%85%AC%E5%B8%83%E4%B8%80%E8%B5%B7%E9%AB%98%E5%A4%84%E5%9D%A0%E8%90%BD%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:深圳公布一起高处坠落事故调查报告"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
