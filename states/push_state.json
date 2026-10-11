@@ -3832,19 +3832,6 @@
    "batch_window": 23
   },
   {
-   "key": "imsorrybutyoustillhavetothink",
-   "title": "I'm sorry, but you still have to think",
-   "rating": "A",
-   "score": 84.5,
-   "angle": "从AI滥用反思切入，论证人类批判性思维不可替代，反AI依赖论",
-   "hook_reason": "AI时代人类是否还需独立思考？直击痛点引发共鸣",
-   "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:imsorrybutyoustillhavetothink",
-   "batch_window": 2
-  },
-  {
    "key": "伊朗军方在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标",
    "title": "伊朗军方：在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标",
    "rating": "A",
@@ -3895,6 +3882,32 @@
    "breaking": false,
    "event_id": "e:央视曝光个别地区蔬菜大棚撂荒",
    "batch_window": 3
+  },
+  {
+   "key": "媒体曝46岁数学家用ai炒股登上富豪榜年赚642亿如何看待这一造富神话对普通人有借鉴意义吗",
+   "title": "媒体曝46岁「数学家」用AI炒股登上富豪榜，年赚642亿，如何看待这一造富神话？对普通人有借鉴意义吗？",
+   "rating": "A",
+   "score": 43.75,
+   "angle": "AI炒股年赚642亿：造富神话还是技术红利？拆解数学家的AI策略与普通人复制路径",
+   "hook_reason": "AI造富神话+具体数字冲击，普通人能否复制？",
+   "url": "https://www.zhihu.com/question/2092640723375842413",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:媒体曝46岁数学家用ai炒股登上富豪榜年赚642亿如何看待这一造富神话对普通人有",
+   "batch_window": 4
+  },
+  {
+   "key": "华为mate90这真实真动人",
+   "title": "华为Mate90这真实真动人",
+   "rating": "A",
+   "score": 20.25,
+   "angle": "从网友实拍图切入，解读华为新机策略与供应链动向",
+   "hook_reason": "华为新品引爆社交，科技粉围观必点",
+   "url": "https://s.weibo.com/weibo?q=华为Mate90这真实真动人",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为mate90这真实真动人",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -4231,7 +4244,8 @@
   "沙特阿拉伯巴基斯坦埃及和土耳其就袭击事件发表声明袭击事件代表着危险的局势升",
   "郎行2026老人摔倒了大伙儿都不敢扶这是个啥世道叶苍茫2022感觉",
   "男子在icu抢救母亲却取不出儿子存款救命银行称家属须出具法定监护人身份证明这规定合理吗",
-  "深圳公布一起高处坠落事故调查报告"
+  "深圳公布一起高处坠落事故调查报告",
+  "imsorrybutyoustillhavetothink"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -4504,7 +4518,8 @@
   "e:沙特阿拉伯巴基斯坦埃及和土耳其就袭击事件发表声明袭击事件代表着危险的局势升": "沙特阿拉伯、巴基斯坦、埃及和土耳其就袭击事件发表声明：袭击事件代表着危险的局势升",
   "e:郎行2026老人摔倒了大伙儿都不敢扶这是个啥世道叶苍茫2022感觉": "// @郎行-2026 :老人摔倒了大伙儿都不敢扶，这是个啥世道？// @叶苍茫2022 :感觉",
   "e:男子在icu抢救母亲却取不出儿子存款救命银行称家属须出具法定监护人身份证明这规定": "男子在 ICU 抢救，母亲却取不出儿子存款救命，银行称家属须出具法定监护人身份证明，这规定合理吗？",
-  "e:深圳公布一起高处坠落事故调查报告": "深圳公布一起高处坠落事故调查报告"
+  "e:深圳公布一起高处坠落事故调查报告": "深圳公布一起高处坠落事故调查报告",
+  "e:imsorrybutyoustillhavetothink": "I'm sorry, but you still have to think"
  },
  "a_seen": {
   "百亿私募希瓦梁宏吐槽部分保险资管巨头7月高位买入大量科技股9月下旬却大幅减仓止损直言追涨": {
@@ -4674,8 +4689,44 @@
    "track": "社会热点",
    "breaking": false,
    "event_id": "e:央视曝光个别地区蔬菜大棚撂荒"
+  },
+  "媒体曝46岁数学家用ai炒股登上富豪榜年赚642亿如何看待这一造富神话对普通人有借鉴意义吗": {
+   "key": "媒体曝46岁数学家用ai炒股登上富豪榜年赚642亿如何看待这一造富神话对普通人有借鉴意义吗",
+   "title": "媒体曝46岁「数学家」用AI炒股登上富豪榜，年赚642亿，如何看待这一造富神话？对普通人有借鉴意义吗？",
+   "rating": "A",
+   "score": 43.75,
+   "angle": "AI炒股年赚642亿：造富神话还是技术红利？拆解数学家的AI策略与普通人复制路径",
+   "hook_reason": "AI造富神话+具体数字冲击，普通人能否复制？",
+   "url": "https://www.zhihu.com/question/2092640723375842413",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:媒体曝46岁数学家用ai炒股登上富豪榜年赚642亿如何看待这一造富神话对普通人有"
+  },
+  "特朗普强推俄乌停火俄乌诉求分歧显著": {
+   "key": "特朗普强推俄乌停火俄乌诉求分歧显著",
+   "title": "特朗普强推俄乌停火，俄乌诉求分歧显著",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从特朗普个人决策风格切入，分析其对全球格局的影响",
+   "hook_reason": "特朗普强推停火vs俄乌强硬分歧，大国博弈引爆情绪",
+   "url": "https://finance.sina.cn/7x24/2026-10-12/detail-iniuwzcv7166283.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普俄乌双方同意能源停火"
+  },
+  "华为mate90这真实真动人": {
+   "key": "华为mate90这真实真动人",
+   "title": "华为Mate90这真实真动人",
+   "rating": "A",
+   "score": 20.25,
+   "angle": "从网友实拍图切入，解读华为新机策略与供应链动向",
+   "hook_reason": "华为新品引爆社交，科技粉围观必点",
+   "url": "https://s.weibo.com/weibo?q=华为Mate90这真实真动人",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为mate90这真实真动人"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
