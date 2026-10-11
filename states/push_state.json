@@ -2961,19 +2961,6 @@
    "batch_window": 14
   },
   {
-   "key": "曙光初现2010这个车就是为你这样的人设计的",
-   "title": "// @曙光初现2010 :这个车，就是为你这样的人设计的",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "解读车企'精准圈人'话术背后的用户分层策略，引发'我在不在目标人群里'的代入讨论",
-   "hook_reason": "车企高管精准标签化话术引共鸣/争议，用户身份投射强",
-   "url": "https://weibo.com/1749127163/Rm0Q6Aoy6",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:曙光初现2010这个车就是为你这样的人设计的",
-   "batch_window": 14
-  },
-  {
    "key": "精神病院为何扎堆更名",
    "title": "精神病院为何扎堆更名",
    "rating": "A",
@@ -3609,6 +3596,45 @@
    "breaking": true,
    "event_id": "e:鲲游光电完成超10亿元c轮融资",
    "batch_window": 9
+  },
+  {
+   "key": "generativeaiscandalhascometooneob836d96a",
+   "title": "Generative AI scandal has come to one of Nikon's competitions",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "从尼康摄影大赛AI丑闻切入，探讨AI生成内容如何冲击专业竞赛的评选标准与公信力，引发科技伦理与行业规则重塑的讨论",
+   "hook_reason": "AI生成照片闯入专业摄影大赛，真实与伪造边界引爆摄影圈争议",
+   "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:generativeaiscandalhascometooneofnikonsc",
+   "batch_window": 10
+  },
+  {
+   "key": "胡塞武装战术出现关键转变",
+   "title": "胡塞武装战术出现关键转变",
+   "rating": "A",
+   "score": 87.25,
+   "angle": "聚焦胡塞战术升级对全球供应链、航运保险费率及中东局势外溢影响",
+   "hook_reason": "胡塞战术突变，红海航运或受冲击，油价波动待观察",
+   "url": "https://s.weibo.com/weibo?q=胡塞武装战术出现关键转变",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:胡塞武装战术出现关键转变",
+   "batch_window": 10
+  },
+  {
+   "key": "wallhop12ftioisgonesoibuiltareplacement",
+   "title": "WallHop – 12ft.io is gone, so I built a replacement",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "12ft.io关停后，开发者48小时内做出替代工具登顶HN，一周营收破万美金——爆款短内容",
+   "hook_reason": "12ft.io被封，开发者做出替代工具，Hacker News登顶",
+   "url": "https://wallhop.io/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:wallhop12ftioisgonesoibuiltareplacement",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -3917,7 +3943,8 @@
   "广东话洪灝恒指目标四季度机会和投资的要义录制于20260902前天播出洪灝的宏观",
   "中国汽车流通协会发布了9月保值率榜单纯电动车型保值率一年车龄小米yu7表现优秀排名第",
   "weiwei解语无论好坏但总都心怀坦荡光明磊落非常荣幸能在这伟大的时代遇见但总",
-  "中国汽车流通协会精真估联合发布2026年9月中国汽车保值率研究报告小米yu7一"
+  "中国汽车流通协会精真估联合发布2026年9月中国汽车保值率研究报告小米yu7一",
+  "曙光初现2010这个车就是为你这样的人设计的"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -4162,7 +4189,8 @@
   "e:广东话洪灝恒指目标四季度机会和投资的要义录制于20260902前天播出洪灝的宏观": "广东话洪灝：恒指目标、四季度机会和投资的要义（录制于2026.09.02 前天播出） 洪灝的宏观",
   "e:中国汽车流通协会发布了9月保值率榜单纯电动车型保值率一年车龄小米yu7表现优秀排": "中国汽车流通协会发布了9月保值率榜单： 纯电动车型保值率（一年车龄），小米YU7表现优秀，排名第",
   "e:weiwei解语无论好坏但总都心怀坦荡光明磊落非常荣幸能在这伟大的时代遇见但总": "// @Weiwei解语 :无论好坏，但总都心怀坦荡，光明磊落，非常荣幸能在这伟大的时代遇见但总",
-  "e:中国汽车流通协会精真估联合发布2026年9月中国汽车保值率研究报告小米yu7一": "中国汽车流通协会 × 精真估联合发布《2026年9月中国汽车保值率研究报告》 #小米YU7# 一"
+  "e:中国汽车流通协会精真估联合发布2026年9月中国汽车保值率研究报告小米yu7一": "中国汽车流通协会 × 精真估联合发布《2026年9月中国汽车保值率研究报告》 #小米YU7# 一",
+  "e:曙光初现2010这个车就是为你这样的人设计的": "// @曙光初现2010 :这个车，就是为你这样的人设计的"
  },
  "a_seen": {
   "乌方抛出全面无条件停火方案有何意图": {
@@ -4601,9 +4629,9 @@
    "key": "如何看待给大模型投毒被字节索赔800万的前实习生开启创业已获近三千万美元融资你看好其创业前景吗",
    "title": "如何看待给大模型投毒被字节索赔800 万的前实习生开启创业，已获近三千万美元融资？你看好其创业前景吗？",
    "rating": "A",
-   "score": 63.87,
-   "angle": "从'AI投毒者变创业者'切入，揭秘大模型数据污染灰色产业链的产业化路径与监管盲区",
-   "hook_reason": "被字节索赔800万的前实习生竟获3000万美元融资，AI投毒灰色产业链再掀波澜",
+   "score": 80.5,
+   "angle": "从AI数据安全边界切入，探讨投毒行为的法律红线与创业者的灰色叙事",
+   "hook_reason": "投毒大模型反手创业融资3000万，离奇逆袭引热议",
    "url": "https://www.zhihu.com/question/2092306646621844796",
    "track": "科技",
    "breaking": true,
@@ -4620,8 +4648,44 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:鲲游光电完成超10亿元c轮融资"
+  },
+  "generativeaiscandalhascometooneob836d96a": {
+   "key": "generativeaiscandalhascometooneob836d96a",
+   "title": "Generative AI scandal has come to one of Nikon's competitions",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "从尼康摄影大赛AI丑闻切入，探讨AI生成内容如何冲击专业竞赛的评选标准与公信力，引发科技伦理与行业规则重塑的讨论",
+   "hook_reason": "AI生成照片闯入专业摄影大赛，真实与伪造边界引爆摄影圈争议",
+   "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:generativeaiscandalhascometooneofnikonsc"
+  },
+  "胡塞武装战术出现关键转变": {
+   "key": "胡塞武装战术出现关键转变",
+   "title": "胡塞武装战术出现关键转变",
+   "rating": "A",
+   "score": 87.25,
+   "angle": "聚焦胡塞战术升级对全球供应链、航运保险费率及中东局势外溢影响",
+   "hook_reason": "胡塞战术突变，红海航运或受冲击，油价波动待观察",
+   "url": "https://s.weibo.com/weibo?q=胡塞武装战术出现关键转变",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:胡塞武装战术出现关键转变"
+  },
+  "wallhop12ftioisgonesoibuiltareplacement": {
+   "key": "wallhop12ftioisgonesoibuiltareplacement",
+   "title": "WallHop – 12ft.io is gone, so I built a replacement",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "12ft.io关停后，开发者48小时内做出替代工具登顶HN，一周营收破万美金——爆款短内容",
+   "hook_reason": "12ft.io被封，开发者做出替代工具，Hacker News登顶",
+   "url": "https://wallhop.io/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:wallhop12ftioisgonesoibuiltareplacement"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
