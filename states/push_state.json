@@ -3674,6 +3674,58 @@
    "breaking": true,
    "event_id": "e:长寿真相这四点超出你的想象健康长寿是人类永恒的追求但为何有的人高度自律状态未必尽",
    "batch_window": 16
+  },
+  {
+   "key": "梅艳芳连灵位上的籍贯信息都是假的",
+   "title": "梅艳芳连灵位上的籍贯信息都是假的",
+   "rating": "A",
+   "score": 79.18,
+   "angle": "从灵位籍贯虚假信息切入，探讨名人身份建构、媒体叙事与公众记忆的落差",
+   "hook_reason": "名人灵位信息造假引爆好奇心，真实身份与公众认知的强烈反差",
+   "url": "https://s.weibo.com/weibo?q=梅艳芳连灵位上的籍贯信息都是假的",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:梅艳芳连灵位上的籍贯信息都是假的",
+   "batch_window": 16
+  },
+  {
+   "key": "3rdyandexclouddatacenterwashit",
+   "title": "3rd Yandex Cloud Data Center Was Hit",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "聚焦俄科技基础设施安全态势，云厂商抗打击能力与企业数据风险",
+   "hook_reason": "俄最大云服务商数据中心突遭攻击，地缘+科技双重热点",
+   "url": "https://status.yandex.cloud/en/incidents/2136",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:3rdyandexclouddatacenterwashit",
+   "batch_window": 16
+  },
+  {
+   "key": "decadeoldramismakingacomeback",
+   "title": "Decade-old RAM is making a comeback",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "从DDR4重返市场切入，解读Intel/AMD供应链博弈与芯片短周期背后的产业逻辑",
+   "hook_reason": "DDR4老旧内存因供应紧张回归，折射芯片周期逆转",
+   "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:decadeoldramismakingacomeback",
+   "batch_window": 16
+  },
+  {
+   "key": "李连杰澄清抛妻弃子传闻",
+   "title": "李连杰澄清抛妻弃子传闻",
+   "rating": "A",
+   "score": 58.39,
+   "angle": "从明星私德争议切入，探讨公众人物家庭形象与网络谣言的关系",
+   "hook_reason": "武打巨星澄清家庭负面传闻，情感冲击强，读者好奇真相",
+   "url": "https://www.toutiao.com/trending/7695236775379894326/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:李连杰澄清抛妻弃子传闻",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -4927,6 +4979,54 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:长寿真相这四点超出你的想象健康长寿是人类永恒的追求但为何有的人高度自律状态未必尽"
+  },
+  "梅艳芳连灵位上的籍贯信息都是假的": {
+   "key": "梅艳芳连灵位上的籍贯信息都是假的",
+   "title": "梅艳芳连灵位上的籍贯信息都是假的",
+   "rating": "A",
+   "score": 79.18,
+   "angle": "从灵位籍贯虚假信息切入，探讨名人身份建构、媒体叙事与公众记忆的落差",
+   "hook_reason": "名人灵位信息造假引爆好奇心，真实身份与公众认知的强烈反差",
+   "url": "https://s.weibo.com/weibo?q=梅艳芳连灵位上的籍贯信息都是假的",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:梅艳芳连灵位上的籍贯信息都是假的"
+  },
+  "3rdyandexclouddatacenterwashit": {
+   "key": "3rdyandexclouddatacenterwashit",
+   "title": "3rd Yandex Cloud Data Center Was Hit",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "聚焦俄科技基础设施安全态势，云厂商抗打击能力与企业数据风险",
+   "hook_reason": "俄最大云服务商数据中心突遭攻击，地缘+科技双重热点",
+   "url": "https://status.yandex.cloud/en/incidents/2136",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:3rdyandexclouddatacenterwashit"
+  },
+  "decadeoldramismakingacomeback": {
+   "key": "decadeoldramismakingacomeback",
+   "title": "Decade-old RAM is making a comeback",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "从DDR4重返市场切入，解读Intel/AMD供应链博弈与芯片短周期背后的产业逻辑",
+   "hook_reason": "DDR4老旧内存因供应紧张回归，折射芯片周期逆转",
+   "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:decadeoldramismakingacomeback"
+  },
+  "李连杰澄清抛妻弃子传闻": {
+   "key": "李连杰澄清抛妻弃子传闻",
+   "title": "李连杰澄清抛妻弃子传闻",
+   "rating": "A",
+   "score": 58.39,
+   "angle": "从明星私德争议切入，探讨公众人物家庭形象与网络谣言的关系",
+   "hook_reason": "武打巨星澄清家庭负面传闻，情感冲击强，读者好奇真相",
+   "url": "https://www.toutiao.com/trending/7695236775379894326/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:李连杰澄清抛妻弃子传闻"
   }
  },
  "breaking_count": 10,
