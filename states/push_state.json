@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-10-11",
  "a_pending": [
   {
@@ -3728,17 +3728,56 @@
    "batch_window": 19
   },
   {
-   "key": "酒红色好看吧小米澎程",
-   "title": "酒红色，好看吧？ #小米澎程#",
+   "key": "网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤",
+   "title": "网红贵价面包接连遇冷，迎来烘焙「闭店潮」，是消费回归理性还是烘焙商业模式本身就存在硬伤？",
    "rating": "A",
-   "score": 84.85,
-   "angle": "借小米高管社交发言，解读国产手机如何以色彩/审美抢占用户心智，延伸品牌年轻化策略",
-   "hook_reason": "小米高管1小时破千热度，酒红配色引发审美讨论",
-   "url": "https://weibo.com/1749127163/RmckgdUTf",
-   "track": "大咖发言",
+   "score": 82.5,
+   "angle": "从'贵价面包遇冷'切入消费回归理性，关联闭店潮与商业模式反思",
+   "hook_reason": "消费降级+网红反噬，打工人共鸣",
+   "url": "https://www.zhihu.com/question/2092203524230754555",
+   "track": "社会热点",
    "breaking": true,
-   "event_id": "e:酒红色好看吧小米澎程",
-   "batch_window": 20
+   "event_id": "e:网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤",
+   "batch_window": 21
+  },
+  {
+   "key": "suddendropincloudflarebottrafficfb4f37ba",
+   "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "Cloudflare流量骤降折射俄白数据中心成混合战争新目标，科技基建安全隐忧浮出水面",
+   "hook_reason": "Cloudflare数据中心遇袭成地缘冲突新战场，科技基础设施安全引关注",
+   "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:suddendropincloudflarebottrafficafterstr",
+   "batch_window": 21
+  },
+  {
+   "key": "英国海上贸易行动办公室一艘船只在事件中受损",
+   "title": "英国海上贸易行动办公室：一艘船只在事件中受损。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从英国海上贸易行动办公室介入事件切入，解读对全球航运保险、贸易路线及能源供应链的潜在冲击，预判后续政策走向",
+   "hook_reason": "英官方介入船只受损，航运贸易格局或生变",
+   "url": "https://finance.sina.cn/7x24/2026-10-11/detail-iniuwkhc7287373.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英国海上贸易行动办公室一艘船只在事件中受损",
+   "batch_window": 21
+  },
+  {
+   "key": "沙特首都机场遇袭意味着什么",
+   "title": "沙特首都机场遇袭意味着什么",
+   "rating": "A",
+   "score": 51.26,
+   "angle": "从地缘冲突升级切入，解读沙特机场遇袭对全球能源供应链、红海航运及区域安全格局的连锁影响，附油价走势预判",
+   "hook_reason": "沙特首都被袭+产油国核心设施遇袭，直接牵动全球油价与中东局势神经",
+   "url": "https://www.toutiao.com/trending/7695367654676106778/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:沙特首都机场遇袭意味着什么",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -4058,7 +4097,8 @@
   "长寿真相这四点超出你的想象健康长寿是人类永恒的追求但为何有的人高度自律状态未必尽如人意",
   "xpengngp牛被大家的热情和肯定包围了现场不少朋友体验后都跟我说对ngp在巴",
   "股道热肠也老王谈改革再说一次中国人口最大的问题不是总量而是结构看看新疆",
-  "刚到巴黎就展现出不错的跨地域泛化能力接下来继续推进欧洲本地化适配让中国智驾在更多国家和地区"
+  "刚到巴黎就展现出不错的跨地域泛化能力接下来继续推进欧洲本地化适配让中国智驾在更多国家和地区",
+  "酒红色好看吧小米澎程"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -4314,7 +4354,8 @@
   "e:长寿真相这四点超出你的想象健康长寿是人类永恒的追求但为何有的人高度自律状态未必尽": "长寿真相，这四点超出你的想象 健康长寿，是人类永恒的追求。但为何有的人高度自律，状态未必尽如人意",
   "e:xpengngp牛被大家的热情和肯定包围了现场不少朋友体验后都跟我说对ngp在巴": "“XPENG NGP 牛”，被大家的热情和肯定包围了 现场不少朋友体验后都跟我说，对NGP 在巴",
   "e:股道热肠也老王谈改革再说一次中国人口最大的问题不是总量而是结构看看新疆": "// @股道热肠也 :// @老王谈改革 :再说一次中国人口最大的问题不是总量而是结构，看看新疆",
-  "e:刚到巴黎就展现出不错的跨地域泛化能力接下来继续推进欧洲本地化适配让中国智驾在更多": "刚到巴黎，就展现出不错的跨地域泛化能力。接下来继续推进欧洲本地化适配，让中国智驾在更多国家和地区"
+  "e:刚到巴黎就展现出不错的跨地域泛化能力接下来继续推进欧洲本地化适配让中国智驾在更多": "刚到巴黎，就展现出不错的跨地域泛化能力。接下来继续推进欧洲本地化适配，让中国智驾在更多国家和地区",
+  "e:酒红色好看吧小米澎程": "酒红色，好看吧？ #小米澎程#"
  },
  "a_seen": {
   "乌方抛出全面无条件停火方案有何意图": {
@@ -5108,8 +5149,68 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:酒红色好看吧小米澎程"
+  },
+  "小米手机传奇一瞬模式可以调出更自然的影调和虚化效果呈现更具美感的光学韵味新加入": {
+   "key": "小米手机传奇一瞬模式可以调出更自然的影调和虚化效果呈现更具美感的光学韵味新加入",
+   "title": "// @小米手机 :“传奇一瞬模式可以调出更自然的影调和虚化效果，呈现更具美感的光学韵味，新加入",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "小米影像新升级，'传奇一瞬'模式实测：专业级摄影门槛再降低",
+   "hook_reason": "小米手机重磅摄影功能，登顶微博热榜，粉丝必点",
+   "url": "https://weibo.com/1892653244/RmcxvDAew",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米18pro系列传奇一瞬一共有3种模式传奇ccd当代经典黑白胶片你最喜欢哪个"
+  },
+  "网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤": {
+   "key": "网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤",
+   "title": "网红贵价面包接连遇冷，迎来烘焙「闭店潮」，是消费回归理性还是烘焙商业模式本身就存在硬伤？",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从'贵价面包遇冷'切入消费回归理性，关联闭店潮与商业模式反思",
+   "hook_reason": "消费降级+网红反噬，打工人共鸣",
+   "url": "https://www.zhihu.com/question/2092203524230754555",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤"
+  },
+  "suddendropincloudflarebottrafficfb4f37ba": {
+   "key": "suddendropincloudflarebottrafficfb4f37ba",
+   "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "Cloudflare流量骤降折射俄白数据中心成混合战争新目标，科技基建安全隐忧浮出水面",
+   "hook_reason": "Cloudflare数据中心遇袭成地缘冲突新战场，科技基础设施安全引关注",
+   "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:suddendropincloudflarebottrafficafterstr"
+  },
+  "英国海上贸易行动办公室一艘船只在事件中受损": {
+   "key": "英国海上贸易行动办公室一艘船只在事件中受损",
+   "title": "英国海上贸易行动办公室：一艘船只在事件中受损。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从英国海上贸易行动办公室介入事件切入，解读对全球航运保险、贸易路线及能源供应链的潜在冲击，预判后续政策走向",
+   "hook_reason": "英官方介入船只受损，航运贸易格局或生变",
+   "url": "https://finance.sina.cn/7x24/2026-10-11/detail-iniuwkhc7287373.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英国海上贸易行动办公室一艘船只在事件中受损"
+  },
+  "沙特首都机场遇袭意味着什么": {
+   "key": "沙特首都机场遇袭意味着什么",
+   "title": "沙特首都机场遇袭意味着什么",
+   "rating": "A",
+   "score": 51.26,
+   "angle": "从地缘冲突升级切入，解读沙特机场遇袭对全球能源供应链、红海航运及区域安全格局的连锁影响，附油价走势预判",
+   "hook_reason": "沙特首都被袭+产油国核心设施遇袭，直接牵动全球油价与中东局势神经",
+   "url": "https://www.toutiao.com/trending/7695367654676106778/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:沙特首都机场遇袭意味着什么"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
