@@ -2051,19 +2051,6 @@
    "batch_window": 0
   },
   {
-   "key": "ussuspendsvisaprogramfortechfirm86989c6f",
-   "title": "US Suspends Visa Program for Tech Firms Including Microsoft",
-   "rating": "A",
-   "score": 84.0,
-   "angle": "政策突变冲击科技巨头人才战略，H1B暂停对硅谷招聘链的连锁反应解读",
-   "hook_reason": "美国突然叫停科技公司签证，直接影响大厂人才战略和留学生就业焦虑",
-   "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:ussuspendsvisaprogramfortechfirmsincludi",
-   "batch_window": 1
-  },
-  {
    "key": "whistlespeechtotextin169mb",
    "title": "Whistle: Speech to Text in 16.9 MB",
    "rating": "A",
@@ -3895,6 +3882,19 @@
    "breaking": true,
    "event_id": "e:英国首相伯纳姆今日与特朗普通话讨论立即启动俄罗斯与乌克兰之间的持续性能源停火",
    "batch_window": 4
+  },
+  {
+   "key": "cartographersofnorthkorea",
+   "title": "Cartographers of North Korea",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "从科技视角切入：开源地图工具如何打破朝鲜信息封锁，地缘政治+技术破壁的双重看点",
+   "hook_reason": "朝鲜信息黑箱被黑客地图工具攻破，HN热榜94分爆款",
+   "url": "https://cartographers-nk.wonyoung.so/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:cartographersofnorthkorea",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -4233,7 +4233,8 @@
   "男子在icu抢救母亲却取不出儿子存款救命银行称家属须出具法定监护人身份证明这规定合理吗",
   "深圳公布一起高处坠落事故调查报告",
   "imsorrybutyoustillhavetothink",
-  "虚拟外卖点了永远不会送达"
+  "虚拟外卖点了永远不会送达",
+  "ussuspendsvisaprogramfortechfirm86989c6f"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -4508,7 +4509,8 @@
   "e:男子在icu抢救母亲却取不出儿子存款救命银行称家属须出具法定监护人身份证明这规定": "男子在 ICU 抢救，母亲却取不出儿子存款救命，银行称家属须出具法定监护人身份证明，这规定合理吗？",
   "e:深圳公布一起高处坠落事故调查报告": "深圳公布一起高处坠落事故调查报告",
   "e:imsorrybutyoustillhavetothink": "I'm sorry, but you still have to think",
-  "e:虚拟外卖点了永远不会送达": "虚拟外卖点了永远不会送达"
+  "e:虚拟外卖点了永远不会送达": "虚拟外卖点了永远不会送达",
+  "e:ussuspendsvisaprogramfortechfirmsincludi": "US Suspends Visa Program for Tech Firms Including Microsoft"
  },
  "a_seen": {
   "百亿私募希瓦梁宏吐槽部分保险资管巨头7月高位买入大量科技股9月下旬却大幅减仓止损直言追涨": {
@@ -4702,8 +4704,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:英国首相伯纳姆今日与特朗普通话讨论立即启动俄罗斯与乌克兰之间的持续性能源停火"
+  },
+  "cartographersofnorthkorea": {
+   "key": "cartographersofnorthkorea",
+   "title": "Cartographers of North Korea",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "从科技视角切入：开源地图工具如何打破朝鲜信息封锁，地缘政治+技术破壁的双重看点",
+   "hook_reason": "朝鲜信息黑箱被黑客地图工具攻破，HN热榜94分爆款",
+   "url": "https://cartographers-nk.wonyoung.so/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:cartographersofnorthkorea"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
