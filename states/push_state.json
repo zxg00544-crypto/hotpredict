@@ -3611,19 +3611,6 @@
    "batch_window": 10
   },
   {
-   "key": "胡塞武装战术出现关键转变",
-   "title": "胡塞武装战术出现关键转变",
-   "rating": "A",
-   "score": 87.25,
-   "angle": "聚焦胡塞战术升级对全球供应链、航运保险费率及中东局势外溢影响",
-   "hook_reason": "胡塞战术突变，红海航运或受冲击，油价波动待观察",
-   "url": "https://s.weibo.com/weibo?q=胡塞武装战术出现关键转变",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:胡塞武装战术出现关键转变",
-   "batch_window": 10
-  },
-  {
    "key": "wallhop12ftioisgonesoibuiltareplacement",
    "title": "WallHop – 12ft.io is gone, so I built a replacement",
    "rating": "A",
@@ -3635,6 +3622,32 @@
    "breaking": true,
    "event_id": "e:wallhop12ftioisgonesoibuiltareplacement",
    "batch_window": 10
+  },
+  {
+   "key": "为什么大a持续震荡首次讲在大a的生存策略大a股市认知提升财富密码任泽",
+   "title": "为什么大A持续震荡，首次讲在大A的生存策略 #大A# #股市# #认知提升# #财富密码# 任泽",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "借任泽平观点切入当前震荡市，提炼散户实操策略，附大V金句",
+   "hook_reason": "任泽平首谈大A生存策略，股民刚需+突发登顶",
+   "url": "https://weibo.com/5884573948/Rm8RMx6Q5",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:为什么大a持续震荡首次讲在大a的生存策略大a股市认知提升财富密码任泽",
+   "batch_window": 11
+  },
+  {
+   "key": "500btokenslaterlettingaiagentsdebf5454c8",
+   "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "从'土豪式实验'切入，反思AI Agent的真能力边界——能调参不等于真理解，引发开发者共鸣",
+   "hook_reason": "500B tokens砸进去能反编译出啥？AI能力的边界在试探",
+   "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:500btokenslaterlettingaiagentsdecompilea",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -3944,7 +3957,8 @@
   "中国汽车流通协会发布了9月保值率榜单纯电动车型保值率一年车龄小米yu7表现优秀排名第",
   "weiwei解语无论好坏但总都心怀坦荡光明磊落非常荣幸能在这伟大的时代遇见但总",
   "中国汽车流通协会精真估联合发布2026年9月中国汽车保值率研究报告小米yu7一",
-  "曙光初现2010这个车就是为你这样的人设计的"
+  "曙光初现2010这个车就是为你这样的人设计的",
+  "胡塞武装战术出现关键转变"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -4190,7 +4204,8 @@
   "e:中国汽车流通协会发布了9月保值率榜单纯电动车型保值率一年车龄小米yu7表现优秀排": "中国汽车流通协会发布了9月保值率榜单： 纯电动车型保值率（一年车龄），小米YU7表现优秀，排名第",
   "e:weiwei解语无论好坏但总都心怀坦荡光明磊落非常荣幸能在这伟大的时代遇见但总": "// @Weiwei解语 :无论好坏，但总都心怀坦荡，光明磊落，非常荣幸能在这伟大的时代遇见但总",
   "e:中国汽车流通协会精真估联合发布2026年9月中国汽车保值率研究报告小米yu7一": "中国汽车流通协会 × 精真估联合发布《2026年9月中国汽车保值率研究报告》 #小米YU7# 一",
-  "e:曙光初现2010这个车就是为你这样的人设计的": "// @曙光初现2010 :这个车，就是为你这样的人设计的"
+  "e:曙光初现2010这个车就是为你这样的人设计的": "// @曙光初现2010 :这个车，就是为你这样的人设计的",
+  "e:胡塞武装战术出现关键转变": "胡塞武装战术出现关键转变"
  },
  "a_seen": {
   "乌方抛出全面无条件停火方案有何意图": {
@@ -4684,8 +4699,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:wallhop12ftioisgonesoibuiltareplacement"
+  },
+  "为什么大a持续震荡首次讲在大a的生存策略大a股市认知提升财富密码任泽": {
+   "key": "为什么大a持续震荡首次讲在大a的生存策略大a股市认知提升财富密码任泽",
+   "title": "为什么大A持续震荡，首次讲在大A的生存策略 #大A# #股市# #认知提升# #财富密码# 任泽",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "借任泽平观点切入当前震荡市，提炼散户实操策略，附大V金句",
+   "hook_reason": "任泽平首谈大A生存策略，股民刚需+突发登顶",
+   "url": "https://weibo.com/5884573948/Rm8RMx6Q5",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:为什么大a持续震荡首次讲在大a的生存策略大a股市认知提升财富密码任泽"
+  },
+  "沙特利雅得机场遭袭造成12人死亡309人受伤哪些信息值得关注对中东局势有何影响": {
+   "key": "沙特利雅得机场遭袭造成12人死亡309人受伤哪些信息值得关注对中东局势有何影响",
+   "title": "沙特利雅得机场遭袭，造成 12 人死亡 309 人受伤，哪些信息值得关注？对中东局势有何影响？",
+   "rating": "A",
+   "score": 78.95,
+   "angle": "从机场遇袭切入，解析中东势力博弈与全球能源链条冲击",
+   "hook_reason": "中东突发机场遇袭12死309伤，冲击地缘格局与能源供应",
+   "url": "https://www.zhihu.com/question/2092513467722719411",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:美国方面表示已获悉哈立德国王国际机场遭受袭击事件"
+  },
+  "转发看到的评论证监会重磅座谈会定调四季度政策底彻底夯实a股市场最大的预期差正在本轮证监会": {
+   "key": "转发看到的评论证监会重磅座谈会定调四季度政策底彻底夯实a股市场最大的预期差正在本轮证监会",
+   "title": "转发看到的评论：证监会重磅座谈会定调：四季度政策底彻底夯实 A股市场最大的预期差，正在本轮证监会",
+   "rating": "A",
+   "score": 49.75,
+   "angle": "解读证监会座谈会核心信号：政策底如何落地、哪些板块率先受益、散户如何布局四季度行情",
+   "hook_reason": "证监会定调政策底，A股四季度反转机会？股民必看",
+   "url": "https://weibo.com/1249424622/Rm95BFWXS",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:证监会召开资本市场和金融形势座谈会"
+  },
+  "500btokenslaterlettingaiagentsdebf5454c8": {
+   "key": "500btokenslaterlettingaiagentsdebf5454c8",
+   "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "从'土豪式实验'切入，反思AI Agent的真能力边界——能调参不等于真理解，引发开发者共鸣",
+   "hook_reason": "500B tokens砸进去能反编译出啥？AI能力的边界在试探",
+   "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:500btokenslaterlettingaiagentsdecompilea"
+  },
+  "中国人亲历机场遇袭多人被巨响吓哭": {
+   "key": "中国人亲历机场遇袭多人被巨响吓哭",
+   "title": "中国人亲历机场遇袭：多人被巨响吓哭",
+   "rating": "A",
+   "score": 51.52,
+   "angle": "从亲历者视角切入，聚焦海外公民安全焦虑与心理创伤",
+   "hook_reason": "中国公民海外遇袭，情绪冲击+身份共鸣双重驱动点击",
+   "url": "https://www.toutiao.com/trending/7695196471968353830/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:美国方面表示已获悉哈立德国王国际机场遭受袭击事件"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
