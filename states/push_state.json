@@ -4261,19 +4261,6 @@
    "batch_window": 17
   },
   {
-   "key": "8千元狗仅退款商家驱车600公里寻狗",
-   "title": "8千元狗仅退款商家驱车600公里寻狗",
-   "rating": "A",
-   "score": 89.14,
-   "angle": "从仅退款规则争议切入，讨论宠物交易的维权边界与道德底线",
-   "hook_reason": "8000元狗仅退款引道德争议，600公里寻狗触动养宠人共情",
-   "url": "https://s.weibo.com/weibo?q=8千元狗仅退款商家驱车600公里寻狗",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:8千元狗仅退款商家驱车600公里寻狗",
-   "batch_window": 18
-  },
-  {
    "key": "郑钦文中网夺冠霸王茶姬赢麻了",
    "title": "郑钦文中网夺冠 霸王茶姬赢麻了",
    "rating": "A",
@@ -4298,6 +4285,97 @@
    "breaking": true,
    "event_id": "e:专家这轮牛市真的结束了",
    "batch_window": 19
+  },
+  {
+   "key": "小米这样的公司为啥非要执着于做大模型",
+   "title": "小米这样的公司，为啥非要执着于做大模型？",
+   "rating": "A",
+   "score": 77.95,
+   "angle": "从雷军战略意图切入，分析小米做大模型背后的商业护城河与竞争焦虑",
+   "hook_reason": "小米为何执念大模型？技术战略还是商业博弈？",
+   "url": "https://www.zhihu.com/question/2091214671135167570",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米这样的公司为啥非要执着于做大模型",
+   "batch_window": 20
+  },
+  {
+   "key": "霸王茶姬买一送一自己接不住的营销",
+   "title": "霸王茶姬买一送一：自己接不住的营销",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从霸王茶姬营销失误切入，分析新消费品牌为何'捧不起'的底层逻辑",
+   "hook_reason": "知名品牌营销翻车，消费者和从业者都爱看",
+   "url": "https://www.baidu.com/s?wd=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%EF%BC%9A%E8%87%AA%E5%B7%B1%E6%8E%A5%E4%B8%8D%E4%BD%8F%E7%9A%84%E8%90%A5%E9%94%80&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:霸王茶姬买一送一自己接不住的营销",
+   "batch_window": 20
+  },
+  {
+   "key": "deloittefalsifieddocumentstoevad2edd0f48",
+   "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从德勤造假事件切入，剖析高净值人群税务合规风险与财务机构信任危机",
+   "hook_reason": "四大事务所卷入税务丑闻，触碰财富安全痛点",
+   "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:deloittefalsifieddocumentstoevadetaxonab",
+   "batch_window": 20
+  },
+  {
+   "key": "日本首相高市早苗日本财务大臣片山皋月将出任世界银行与国际货币基金组织imf",
+   "title": "日本首相高市早苗：日本财务大臣片山皋月将出任世界银行与国际货币基金组织（IMF）",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "日本财长出任IMF要职，对中国金融话语权意味着什么？写国际金融中心权力格局变化，突出中日博弈",
+   "hook_reason": "日本财相突然出任IMF要职，关乎全球经济话语权",
+   "url": "https://finance.sina.cn/7x24/2026-10-12/detail-iniuypfa0531480.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:日本首相高市早苗日本财务大臣片山皋月将出任世界银行与国际货币基金组织imf",
+   "batch_window": 20
+  },
+  {
+   "key": "qgisbansaiassistedcontributions",
+   "title": "QGIS bans AI assisted contributions",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从开源精神与技术伦理冲突切入，探讨AI时代开发者社区的分化",
+   "hook_reason": "开源项目QGIS禁止AI辅助贡献，AI vs 开源社区正面碰撞",
+   "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:qgisbansaiassistedcontributions",
+   "batch_window": 20
+  },
+  {
+   "key": "曝某大厂员工当众掌掴领导疑因遭领导拒绝批假其企微个签研究国法企规获1万同事点赞具体啥情况",
+   "title": "曝某大厂员工当众掌掴领导，疑因遭领导拒绝批假，其企微个签「研究国法企规」获1万同事点赞，具体啥情况？",
+   "rating": "A",
+   "score": 49.31,
+   "angle": "从劳动法与企业规训冲突切入，解析员工维权式'作秀'能否成为打工人情绪出口",
+   "hook_reason": "打工人集体共鸣的职场冲突，掌掴+反讽签名引爆舆论",
+   "url": "https://www.zhihu.com/question/2092693417465569589",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:曝某大厂员工当众掌掴领导疑因遭领导拒绝批假其企微个签研究国法企规获1万同事点赞具",
+   "batch_window": 20
+  },
+  {
+   "key": "台退将戴脚镣发声中国必将统一",
+   "title": "台退将戴脚镣发声：中国必将统一",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "军事大咖震撼表态+两岸关系走向预判，借热点解析统一时间线",
+   "hook_reason": "退将戴脚镣发声涉台统一，视觉冲击强+突发政治热点",
+   "url": "https://www.toutiao.com/trending/7695633020144893971/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:台退将戴脚镣发声中国必将统一",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -4650,7 +4728,8 @@
   "霸王茶姬店员做完你的做你的",
   "霸王茶姬就崩了致歉急急急",
   "外交部美方应当慎重处理台湾问题",
-  "全市场超4300只个股下挫"
+  "全市场超4300只个股下挫",
+  "8千元狗仅退款商家驱车600公里寻狗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -4939,7 +5018,8 @@
   "e:霸王茶姬店员做完你的做你的": "霸王茶姬店员做完你的做你的",
   "e:霸王茶姬就崩了致歉急急急": "霸王茶姬就崩了致歉：急急急",
   "e:外交部美方应当慎重处理台湾问题": "外交部：美方应当慎重处理台湾问题",
-  "e:全市场超4300只个股下挫": "全市场超4300只个股下挫"
+  "e:全市场超4300只个股下挫": "全市场超4300只个股下挫",
+  "e:8千元狗仅退款商家驱车600公里寻狗": "8千元狗仅退款商家驱车600公里寻狗"
  },
  "a_seen": {
   "百亿私募希瓦梁宏吐槽部分保险资管巨头7月高位买入大量科技股9月下旬却大幅减仓止损直言追涨": {
@@ -5697,8 +5777,92 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:专家这轮牛市真的结束了"
+  },
+  "小米这样的公司为啥非要执着于做大模型": {
+   "key": "小米这样的公司为啥非要执着于做大模型",
+   "title": "小米这样的公司，为啥非要执着于做大模型？",
+   "rating": "A",
+   "score": 77.95,
+   "angle": "从雷军战略意图切入，分析小米做大模型背后的商业护城河与竞争焦虑",
+   "hook_reason": "小米为何执念大模型？技术战略还是商业博弈？",
+   "url": "https://www.zhihu.com/question/2091214671135167570",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米这样的公司为啥非要执着于做大模型"
+  },
+  "霸王茶姬买一送一自己接不住的营销": {
+   "key": "霸王茶姬买一送一自己接不住的营销",
+   "title": "霸王茶姬买一送一：自己接不住的营销",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从霸王茶姬营销失误切入，分析新消费品牌为何'捧不起'的底层逻辑",
+   "hook_reason": "知名品牌营销翻车，消费者和从业者都爱看",
+   "url": "https://www.baidu.com/s?wd=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%EF%BC%9A%E8%87%AA%E5%B7%B1%E6%8E%A5%E4%B8%8D%E4%BD%8F%E7%9A%84%E8%90%A5%E9%94%80&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:霸王茶姬买一送一自己接不住的营销"
+  },
+  "deloittefalsifieddocumentstoevad2edd0f48": {
+   "key": "deloittefalsifieddocumentstoevad2edd0f48",
+   "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从德勤造假事件切入，剖析高净值人群税务合规风险与财务机构信任危机",
+   "hook_reason": "四大事务所卷入税务丑闻，触碰财富安全痛点",
+   "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:deloittefalsifieddocumentstoevadetaxonab"
+  },
+  "日本首相高市早苗日本财务大臣片山皋月将出任世界银行与国际货币基金组织imf": {
+   "key": "日本首相高市早苗日本财务大臣片山皋月将出任世界银行与国际货币基金组织imf",
+   "title": "日本首相高市早苗：日本财务大臣片山皋月将出任世界银行与国际货币基金组织（IMF）",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "日本财长出任IMF要职，对中国金融话语权意味着什么？写国际金融中心权力格局变化，突出中日博弈",
+   "hook_reason": "日本财相突然出任IMF要职，关乎全球经济话语权",
+   "url": "https://finance.sina.cn/7x24/2026-10-12/detail-iniuypfa0531480.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:日本首相高市早苗日本财务大臣片山皋月将出任世界银行与国际货币基金组织imf"
+  },
+  "qgisbansaiassistedcontributions": {
+   "key": "qgisbansaiassistedcontributions",
+   "title": "QGIS bans AI assisted contributions",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从开源精神与技术伦理冲突切入，探讨AI时代开发者社区的分化",
+   "hook_reason": "开源项目QGIS禁止AI辅助贡献，AI vs 开源社区正面碰撞",
+   "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:qgisbansaiassistedcontributions"
+  },
+  "曝某大厂员工当众掌掴领导疑因遭领导拒绝批假其企微个签研究国法企规获1万同事点赞具体啥情况": {
+   "key": "曝某大厂员工当众掌掴领导疑因遭领导拒绝批假其企微个签研究国法企规获1万同事点赞具体啥情况",
+   "title": "曝某大厂员工当众掌掴领导，疑因遭领导拒绝批假，其企微个签「研究国法企规」获1万同事点赞，具体啥情况？",
+   "rating": "A",
+   "score": 49.31,
+   "angle": "从劳动法与企业规训冲突切入，解析员工维权式'作秀'能否成为打工人情绪出口",
+   "hook_reason": "打工人集体共鸣的职场冲突，掌掴+反讽签名引爆舆论",
+   "url": "https://www.zhihu.com/question/2092693417465569589",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:曝某大厂员工当众掌掴领导疑因遭领导拒绝批假其企微个签研究国法企规获1万同事点赞具"
+  },
+  "台退将戴脚镣发声中国必将统一": {
+   "key": "台退将戴脚镣发声中国必将统一",
+   "title": "台退将戴脚镣发声：中国必将统一",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "军事大咖震撼表态+两岸关系走向预判，借热点解析统一时间线",
+   "hook_reason": "退将戴脚镣发声涉台统一，视觉冲击强+突发政治热点",
+   "url": "https://www.toutiao.com/trending/7695633020144893971/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:台退将戴脚镣发声中国必将统一"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
