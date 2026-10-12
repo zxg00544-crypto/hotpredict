@@ -3923,19 +3923,6 @@
    "batch_window": 9
   },
   {
-   "key": "男子国庆被排7天班1天都没去遭开除法院判公司合法解除从法律角度该如何解读",
-   "title": "男子国庆被排 7 天班 1 天都没去遭开除，法院判公司合法解除，从法律角度该如何解读？",
-   "rating": "A",
-   "score": 83.0,
-   "angle": "从打工人视角切入，拆解法院判决逻辑与劳动者维权边界，带出'被排班≠必须到岗'的法律常识",
-   "hook_reason": "打工人共鸣爆棚：排7天休1天就被开除，谁不慌？",
-   "url": "https://www.zhihu.com/question/2092544237233517008",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:男子国庆被排7天班1天都没去遭开除法院判公司合法解除从法律角度该如何解读",
-   "batch_window": 10
-  },
-  {
    "key": "郑钦文成为中网历史上首位本土女单冠军你认为她有机会在职业生涯内超越李娜的历史地位吗",
    "title": "郑钦文成为中网历史上首位本土女单冠军，你认为她有机会在职业生涯内超越李娜的历史地位吗？",
    "rating": "A",
@@ -3973,6 +3960,71 @@
    "breaking": true,
    "event_id": "e:央视曝光农业大棚被撂荒",
    "batch_window": 10
+  },
+  {
+   "key": "ai用于军事效果惊人新式武器正在诞生在俄乌冲突美伊战争委内瑞拉冲突中ai军事效果惊人",
+   "title": "AI用于军事效果惊人，新式武器正在诞生 在俄乌冲突、美伊战争、委内瑞拉冲突中，AI军事效果惊人，",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "从俄乌战场切入，解读AI如何重塑现代战争形态及中国应对",
+   "hook_reason": "AI+军事碰撞，颠覆认知的未来战争图景",
+   "url": "https://weibo.com/5884573948/Rmi9TzCn4",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai用于军事效果惊人新式武器正在诞生在俄乌冲突美伊战争委内瑞拉冲突中ai军事效果",
+   "batch_window": 11
+  },
+  {
+   "key": "对未来出特别版大家有什么建议小米18pro系列",
+   "title": "对未来出特别版，大家有什么建议？ #小米18Pro系列#",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "从小米18Pro特别版策划看品牌如何让用户参与产品设计，分析粉丝共创的商业逻辑与用户体验升级路径",
+   "hook_reason": "小米新品征集用户创意，科技圈热议+用户参与感强",
+   "url": "https://weibo.com/1892653244/Rmi9l0pDS",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:对未来出特别版大家有什么建议小米18pro系列",
+   "batch_window": 11
+  },
+  {
+   "key": "小米yu7gt赛道版今年初刷新纽北赛道suv圈速纪录7分22秒755核心因素之一就是",
+   "title": "小米YU7 GT赛道版，今年初，刷新纽北赛道SUV圈速纪录，7分22秒755。 核心因素之一就是",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "以纽北破纪录为切入点，解读小米汽车研发投入与国产智能电动车出海雄心",
+   "hook_reason": "国产车杀入纽北破纪录，SUV圈速震惊车圈，技术实力引关注",
+   "url": "https://weibo.com/1749127163/Rmijpg8RN",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米yu7gt赛道版今年初刷新纽北赛道suv圈速纪录7分22秒755核心因素之一",
+   "batch_window": 11
+  },
+  {
+   "key": "马斯克最新访谈星舰15飞terafaboptimus手cybercab扩张网页链接网",
+   "title": "马斯克最新访谈：星舰15飞，Terafab，Optimus手，Cybercab扩张 网页链接 网",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "A角度：拆解马斯克'全能帝国'战略——星舰、Optimus、Cybercab同步推进，谁在接盘万亿市值；B角度：从普通用户看，哪个突破离生活最近，引发代入讨论",
+   "hook_reason": "马斯克一次访谈同时引爆太空、AI、出行三大万亿赛道，读者好奇'下一个是谁'",
+   "url": "https://weibo.com/1249424622/Rmix869Gz",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克最新访谈星舰15飞terafaboptimus手cybercab扩张网页链",
+   "batch_window": 11
+  },
+  {
+   "key": "passkeysareatrap",
+   "title": "Passkeys are a trap",
+   "rating": "A",
+   "score": 53.6,
+   "angle": "从HN热帖出发，剖析passkey推广背后的安全困境与用户痛点",
+   "hook_reason": "主流推崇的passkey被HN爆批为'陷阱'，反常识冲突",
+   "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:passkeysareatrap",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -4316,7 +4368,8 @@
   "姚明马云现身nba中国赛场边观赛",
   "搬运直播切片带货侵权",
   "祁连县官方回应征用宿舍事件称宿舍已复原消杀给学生发放文创礼包如何评价这次处置与善后措施",
-  "发布了头条文章站在新一轮康波周期的起点上站在新一轮康波周期的起点上"
+  "发布了头条文章站在新一轮康波周期的起点上站在新一轮康波周期的起点上",
+  "男子国庆被排7天班1天都没去遭开除法院判公司合法解除从法律角度该如何解读"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -4596,7 +4649,8 @@
   "e:马云贝克汉姆蹲下与轮椅球迷合影": "姚明马云现身NBA中国赛场边观赛",
   "e:搬运直播切片带货侵权": "搬运直播切片带货 侵权",
   "e:祁连县官方回应征用宿舍事件称宿舍已复原消杀给学生发放文创礼包如何评价这次处置与善": "祁连县官方回应征用宿舍事件，称宿舍已复原消杀，给学生发放文创礼包，如何评价这次处置与善后措施？",
-  "e:发布了头条文章站在新一轮康波周期的起点上站在新一轮康波周期的起点上": "发布了头条文章：《站在新一轮康波周期的起点上》 站在新一轮康波周期的起点上"
+  "e:发布了头条文章站在新一轮康波周期的起点上站在新一轮康波周期的起点上": "发布了头条文章：《站在新一轮康波周期的起点上》 站在新一轮康波周期的起点上",
+  "e:男子国庆被排7天班1天都没去遭开除法院判公司合法解除从法律角度该如何解读": "男子国庆被排 7 天班 1 天都没去遭开除，法院判公司合法解除，从法律角度该如何解读？"
  },
  "a_seen": {
   "百亿私募希瓦梁宏吐槽部分保险资管巨头7月高位买入大量科技股9月下旬却大幅减仓止损直言追涨": {
@@ -4922,8 +4976,68 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:央视曝光农业大棚被撂荒"
+  },
+  "ai用于军事效果惊人新式武器正在诞生在俄乌冲突美伊战争委内瑞拉冲突中ai军事效果惊人": {
+   "key": "ai用于军事效果惊人新式武器正在诞生在俄乌冲突美伊战争委内瑞拉冲突中ai军事效果惊人",
+   "title": "AI用于军事效果惊人，新式武器正在诞生 在俄乌冲突、美伊战争、委内瑞拉冲突中，AI军事效果惊人，",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "从俄乌战场切入，解读AI如何重塑现代战争形态及中国应对",
+   "hook_reason": "AI+军事碰撞，颠覆认知的未来战争图景",
+   "url": "https://weibo.com/5884573948/Rmi9TzCn4",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai用于军事效果惊人新式武器正在诞生在俄乌冲突美伊战争委内瑞拉冲突中ai军事效果"
+  },
+  "对未来出特别版大家有什么建议小米18pro系列": {
+   "key": "对未来出特别版大家有什么建议小米18pro系列",
+   "title": "对未来出特别版，大家有什么建议？ #小米18Pro系列#",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "从小米18Pro特别版策划看品牌如何让用户参与产品设计，分析粉丝共创的商业逻辑与用户体验升级路径",
+   "hook_reason": "小米新品征集用户创意，科技圈热议+用户参与感强",
+   "url": "https://weibo.com/1892653244/Rmi9l0pDS",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:对未来出特别版大家有什么建议小米18pro系列"
+  },
+  "小米yu7gt赛道版今年初刷新纽北赛道suv圈速纪录7分22秒755核心因素之一就是": {
+   "key": "小米yu7gt赛道版今年初刷新纽北赛道suv圈速纪录7分22秒755核心因素之一就是",
+   "title": "小米YU7 GT赛道版，今年初，刷新纽北赛道SUV圈速纪录，7分22秒755。 核心因素之一就是",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "以纽北破纪录为切入点，解读小米汽车研发投入与国产智能电动车出海雄心",
+   "hook_reason": "国产车杀入纽北破纪录，SUV圈速震惊车圈，技术实力引关注",
+   "url": "https://weibo.com/1749127163/Rmijpg8RN",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米yu7gt赛道版今年初刷新纽北赛道suv圈速纪录7分22秒755核心因素之一"
+  },
+  "马斯克最新访谈星舰15飞terafaboptimus手cybercab扩张网页链接网": {
+   "key": "马斯克最新访谈星舰15飞terafaboptimus手cybercab扩张网页链接网",
+   "title": "马斯克最新访谈：星舰15飞，Terafab，Optimus手，Cybercab扩张 网页链接 网",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "A角度：拆解马斯克'全能帝国'战略——星舰、Optimus、Cybercab同步推进，谁在接盘万亿市值；B角度：从普通用户看，哪个突破离生活最近，引发代入讨论",
+   "hook_reason": "马斯克一次访谈同时引爆太空、AI、出行三大万亿赛道，读者好奇'下一个是谁'",
+   "url": "https://weibo.com/1249424622/Rmix869Gz",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克最新访谈星舰15飞terafaboptimus手cybercab扩张网页链"
+  },
+  "passkeysareatrap": {
+   "key": "passkeysareatrap",
+   "title": "Passkeys are a trap",
+   "rating": "A",
+   "score": 53.6,
+   "angle": "从HN热帖出发，剖析passkey推广背后的安全困境与用户痛点",
+   "hook_reason": "主流推崇的passkey被HN爆批为'陷阱'，反常识冲突",
+   "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:passkeysareatrap"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
