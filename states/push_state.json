@@ -3908,6 +3908,19 @@
    "breaking": true,
    "event_id": "e:周一早小米18pro系列",
    "batch_window": 8
+  },
+  {
+   "key": "儿科医生按号顺序抢救车祸重伤儿童后一位家长插队被拒后打电话投诉此事背后反映了哪些问题",
+   "title": "儿科医生按号顺序抢救车祸重伤儿童，后一位家长插队被拒后打电话投诉，此事背后反映了哪些问题？",
+   "rating": "A",
+   "score": 60.3,
+   "angle": "聚焦规则与人性冲突，探讨急诊分诊机制及社会信任缺失，呼吁理性维权与医者免责保护。",
+   "hook_reason": "插队抢救遭投诉？医者仁心vs无赖家长引爆共情",
+   "url": "https://www.zhihu.com/question/2092686581832180646",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:儿科医生按号顺序抢救车祸重伤儿童后一位家长插队被拒后打电话投诉此事背后反映了哪些",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -4750,9 +4763,9 @@
    "key": "recursiveselfimprovementthroughcf7637a63",
    "title": "Recursive self-improvement through collective intelligence",
    "rating": "A",
-   "score": 79.5,
-   "angle": "Sakana发布集体智能递归自我改进框架，AI可自主迭代升级，突破人类训练瓶颈",
-   "hook_reason": "AI自动进化突破，Sakana引发范式革命，技术圈热议",
+   "score": 75.8,
+   "angle": "Sakana AI新作登顶HN，递归自我改进+集体智能双重buff，AI竞争再升级",
+   "hook_reason": "Sakana AI发布递归自我改进模型，AI又突破一次",
    "url": "https://pub.sakana.ai/mass/",
    "track": "科技",
    "breaking": true,
@@ -4762,13 +4775,25 @@
    "key": "周一早小米18pro系列",
    "title": "周一早！ #小米18Pro系列#",
    "rating": "A",
-   "score": 49.95,
-   "angle": "小米18Pro系列参数解析+行业对比，抢占首发解读流量",
-   "hook_reason": "小米新品登顶热搜，米粉和科技圈必追",
+   "score": 61.96,
+   "angle": "聚焦小米18 Pro核心配置与定价预期，对比竞品旗舰，制造「值不值」消费决策话题，切入科技圈层+泛用户双视角",
+   "hook_reason": "小米新旗舰发布，数码圈顶流+价格悬念拉满讨论欲",
    "url": "https://weibo.com/1892653244/RmhbgkJqm",
    "track": "科技",
    "breaking": true,
    "event_id": "e:周一早小米18pro系列"
+  },
+  "儿科医生按号顺序抢救车祸重伤儿童后一位家长插队被拒后打电话投诉此事背后反映了哪些问题": {
+   "key": "儿科医生按号顺序抢救车祸重伤儿童后一位家长插队被拒后打电话投诉此事背后反映了哪些问题",
+   "title": "儿科医生按号顺序抢救车祸重伤儿童，后一位家长插队被拒后打电话投诉，此事背后反映了哪些问题？",
+   "rating": "A",
+   "score": 60.3,
+   "angle": "聚焦规则与人性冲突，探讨急诊分诊机制及社会信任缺失，呼吁理性维权与医者免责保护。",
+   "hook_reason": "插队抢救遭投诉？医者仁心vs无赖家长引爆共情",
+   "url": "https://www.zhihu.com/question/2092686581832180646",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:儿科医生按号顺序抢救车祸重伤儿童后一位家长插队被拒后打电话投诉此事背后反映了哪些"
   }
  },
  "breaking_count": 10,
