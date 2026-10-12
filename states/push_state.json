@@ -4378,19 +4378,6 @@
    "batch_window": 23
   },
   {
-   "key": "医生快速掉秤多是脱水并非减脂",
-   "title": "医生：快速掉秤多是脱水并非减脂",
-   "rating": "A",
-   "score": 85.85,
-   "angle": "以医生命名'快速减肥=脱水'切入，拆解网红减肥法陷阱，唤醒科学减脂认知",
-   "hook_reason": "减肥痛点+医生命名误区，直击大众焦虑",
-   "url": "https://www.toutiao.com/trending/7695721434303594559/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:医生快速掉秤多是脱水并非减脂",
-   "batch_window": 1
-  },
-  {
    "key": "meta首席ai官alexandrwang最新深度访谈muse如何成为史上增长最快的消费",
    "title": "Meta首席AI官Alexandr Wang 最新深度访谈：Muse 如何成为史上增长最快的消费",
    "rating": "A",
@@ -4454,6 +4441,32 @@
    "breaking": true,
    "event_id": "e:qgisnoaicontributionspermitted",
    "batch_window": 2
+  },
+  {
+   "key": "launchhnagent37ycf26lowcostagente2d3582b",
+   "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "AI Agent基础设施赛道拥挤度分析，YC新玩家入局意味着什么",
+   "hook_reason": "YC F26新项目登顶HN，AI Agent基础设施竞争加剧",
+   "url": "https://news.ycombinator.com/item?id=50059096",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:launchhnagent37ycf26lowcostagentsandboxe",
+   "batch_window": 3
+  },
+  {
+   "key": "a股资金为何持续弃科技抱红利",
+   "title": "A股资金为何持续“弃科技、抱红利”",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "解读资金从科技转向红利的背后逻辑：市场避险情绪升温，高股息策略成资金避风港，散户如何跟上大资金的节奏？",
+   "hook_reason": "A股资金大调仓，科技红利谁主沉浮？散户要不要跟着转？",
+   "url": "https://www.toutiao.com/trending/7695773990240915007/",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:a股资金为何持续弃科技抱红利",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -4823,7 +4836,8 @@
   "撑了20年的宜信也撑不住了倒了网页链接网页链接",
   "霸王茶姬奖励员工1350万元350万元团建费1000万元红包全部给到一线门店员工如何评价此举",
   "郑钦文中网夺冠十多个品牌集体发文祝贺霸王茶姬被流量冲崩小程序如何看待这波冠军商业狂欢",
-  "霸王茶姬开启买一送一大促小程序一度崩溃店员无奈劝退消费者商家的活动组织和预案出现了哪些问题"
+  "霸王茶姬开启买一送一大促小程序一度崩溃店员无奈劝退消费者商家的活动组织和预案出现了哪些问题",
+  "医生快速掉秤多是脱水并非减脂"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5129,7 +5143,8 @@
   "e:撑了20年的宜信也撑不住了倒了网页链接网页链接": "撑了20年的宜信，也撑不住了倒了 网页链接 网页链接",
   "e:霸王茶姬奖励员工1350万元350万元团建费1000万元红包全部给到一线门店员工": "霸王茶姬奖励员工1350万元，350万元团建费，1000万元红包，全部给到一线门店员工，如何评价此举？",
   "e:郑钦文中网夺冠十多个品牌集体发文祝贺霸王茶姬被流量冲崩小程序如何看待这波冠军商业": "郑钦文中网夺冠，十多个品牌集体发文祝贺，霸王茶姬被流量冲崩小程序，如何看待这波冠军商业「狂欢」？",
-  "e:霸王茶姬开启买一送一大促小程序一度崩溃店员无奈劝退消费者商家的活动组织和预案出现": "霸王茶姬开启买一送一大促，小程序一度崩溃，店员无奈劝退消费者，商家的活动组织和预案出现了哪些问题？"
+  "e:霸王茶姬开启买一送一大促小程序一度崩溃店员无奈劝退消费者商家的活动组织和预案出现": "霸王茶姬开启买一送一大促，小程序一度崩溃，店员无奈劝退消费者，商家的活动组织和预案出现了哪些问题？",
+  "e:医生快速掉秤多是脱水并非减脂": "医生：快速掉秤多是脱水并非减脂"
  },
  "a_seen": {
   "whyarentaicompaniesbeingchargedforhacking": {
@@ -5275,8 +5290,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:qgisnoaicontributionspermitted"
+  },
+  "launchhnagent37ycf26lowcostagente2d3582b": {
+   "key": "launchhnagent37ycf26lowcostagente2d3582b",
+   "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "AI Agent基础设施赛道拥挤度分析，YC新玩家入局意味着什么",
+   "hook_reason": "YC F26新项目登顶HN，AI Agent基础设施竞争加剧",
+   "url": "https://news.ycombinator.com/item?id=50059096",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:launchhnagent37ycf26lowcostagentsandboxe"
+  },
+  "a股资金为何持续弃科技抱红利": {
+   "key": "a股资金为何持续弃科技抱红利",
+   "title": "A股资金为何持续“弃科技、抱红利”",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "解读资金从科技转向红利的背后逻辑：市场避险情绪升温，高股息策略成资金避风港，散户如何跟上大资金的节奏？",
+   "hook_reason": "A股资金大调仓，科技红利谁主沉浮？散户要不要跟着转？",
+   "url": "https://www.toutiao.com/trending/7695773990240915007/",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:a股资金为何持续弃科技抱红利"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
