@@ -3962,19 +3962,6 @@
    "batch_window": 10
   },
   {
-   "key": "小米yu7gt赛道版今年初刷新纽北赛道suv圈速纪录7分22秒755核心因素之一就是",
-   "title": "小米YU7 GT赛道版，今年初，刷新纽北赛道SUV圈速纪录，7分22秒755。 核心因素之一就是",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "以纽北破纪录为切入点，解读小米汽车研发投入与国产智能电动车出海雄心",
-   "hook_reason": "国产车杀入纽北破纪录，SUV圈速震惊车圈，技术实力引关注",
-   "url": "https://weibo.com/1749127163/Rmijpg8RN",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:小米yu7gt赛道版今年初刷新纽北赛道suv圈速纪录7分22秒755核心因素之一",
-   "batch_window": 11
-  },
-  {
    "key": "马斯克最新访谈星舰15飞terafaboptimus手cybercab扩张网页链接网",
    "title": "马斯克最新访谈：星舰15飞，Terafab，Optimus手，Cybercab扩张 网页链接 网",
    "rating": "A",
@@ -4545,6 +4532,32 @@
    "breaking": true,
    "event_id": "e:上市公司加大回购力度专项贷款额逐季放量",
    "batch_window": 6
+  },
+  {
+   "key": "英特尔博通ceo警告资金紧张可能成为ai发展的最大瓶颈",
+   "title": "英特尔、博通CEO警告：资金紧张可能成为AI发展的最大瓶颈",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦两大CEO罕见联手预警，剖析AI热潮下的资金链隐忧，解读对投资者的风向标意义",
+   "hook_reason": "两大芯片巨头CEO集体发声，AI发展资金困局直击行业焦虑",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-iniuzqsr7144014.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:英特尔博通ceo警告资金紧张可能成为ai发展的最大瓶颈",
+   "batch_window": 7
+  },
+  {
+   "key": "人民日报若不切断流量利益链饭圈乱象很容易换个阵地形式卷土重来",
+   "title": "人民日报：若不切断流量利益链，“饭圈”乱象很容易换个阵地形式卷土重来",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从平台、粉丝、监管三方撕开饭圈利益链，预判下一个被整治的网络生态",
+   "hook_reason": "人民日报点名饭圈+流量利益链，千万粉丝围观自身利益",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-iniuzqsr7144539.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:人民日报若不切断流量利益链饭圈乱象很容易换个阵地形式卷土重来",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -4918,7 +4931,8 @@
   "医生快速掉秤多是脱水并非减脂",
   "如何看待穆欣月桃晚安成亚运会电竞项目首位女子冠军后其父亲说后悔以前阻拦她打游戏搞电竞",
   "再次推荐k100promax",
-  "夜骑"
+  "夜骑",
+  "小米yu7gt赛道版今年初刷新纽北赛道suv圈速纪录7分22秒755核心因素之一就是"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5228,7 +5242,8 @@
   "e:医生快速掉秤多是脱水并非减脂": "医生：快速掉秤多是脱水并非减脂",
   "e:如何看待穆欣月桃晚安成亚运会电竞项目首位女子冠军后其父亲说后悔以前阻拦她打游戏搞": "如何看待穆欣月（桃晚安）成亚运会电竞项目首位女子冠军后，其父亲说后悔以前阻拦她打游戏搞电竞？",
   "e:再次推荐k100promax": "再次推荐 #K100ProMax#",
-  "e:夜骑": "夜骑"
+  "e:夜骑": "夜骑",
+  "e:小米yu7gt赛道版今年初刷新纽北赛道suv圈速纪录7分22秒755核心因素之一": "小米YU7 GT赛道版，今年初，刷新纽北赛道SUV圈速纪录，7分22秒755。 核心因素之一就是"
  },
  "a_seen": {
   "whyarentaicompaniesbeingchargedforhacking": {
@@ -5518,8 +5533,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:上市公司加大回购力度专项贷款额逐季放量"
+  },
+  "英特尔博通ceo警告资金紧张可能成为ai发展的最大瓶颈": {
+   "key": "英特尔博通ceo警告资金紧张可能成为ai发展的最大瓶颈",
+   "title": "英特尔、博通CEO警告：资金紧张可能成为AI发展的最大瓶颈",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦两大CEO罕见联手预警，剖析AI热潮下的资金链隐忧，解读对投资者的风向标意义",
+   "hook_reason": "两大芯片巨头CEO集体发声，AI发展资金困局直击行业焦虑",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-iniuzqsr7144014.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:英特尔博通ceo警告资金紧张可能成为ai发展的最大瓶颈"
+  },
+  "人民日报若不切断流量利益链饭圈乱象很容易换个阵地形式卷土重来": {
+   "key": "人民日报若不切断流量利益链饭圈乱象很容易换个阵地形式卷土重来",
+   "title": "人民日报：若不切断流量利益链，“饭圈”乱象很容易换个阵地形式卷土重来",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从平台、粉丝、监管三方撕开饭圈利益链，预判下一个被整治的网络生态",
+   "hook_reason": "人民日报点名饭圈+流量利益链，千万粉丝围观自身利益",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-iniuzqsr7144539.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:人民日报若不切断流量利益链饭圈乱象很容易换个阵地形式卷土重来"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
