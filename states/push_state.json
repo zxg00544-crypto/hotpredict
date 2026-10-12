@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-10-12",
  "a_pending": [
   {
@@ -4300,19 +4300,6 @@
    "batch_window": 20
   },
   {
-   "key": "霸王茶姬买一送一自己接不住的营销",
-   "title": "霸王茶姬买一送一：自己接不住的营销",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从霸王茶姬营销失误切入，分析新消费品牌为何'捧不起'的底层逻辑",
-   "hook_reason": "知名品牌营销翻车，消费者和从业者都爱看",
-   "url": "https://www.baidu.com/s?wd=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%EF%BC%9A%E8%87%AA%E5%B7%B1%E6%8E%A5%E4%B8%8D%E4%BD%8F%E7%9A%84%E8%90%A5%E9%94%80&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:霸王茶姬买一送一自己接不住的营销",
-   "batch_window": 20
-  },
-  {
    "key": "deloittefalsifieddocumentstoevad2edd0f48",
    "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
    "rating": "A",
@@ -4376,6 +4363,58 @@
    "breaking": true,
    "event_id": "e:台退将戴脚镣发声中国必将统一",
    "batch_window": 20
+  },
+  {
+   "key": "贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法律角度解读",
+   "title": "贵州男子被曝同酒楼同时与两女子办婚宴百日宴，官方称不构成重婚，具体是怎么回事？如何从法律角度解读？",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "从法律与道德边界切入，解读'不构成重婚'的合法性争议与社会价值观冲突",
+   "hook_reason": "一男同时办两场婚礼百日宴，法律擦边引发全民讨论",
+   "url": "https://www.zhihu.com/question/2093028174019785264",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法",
+   "batch_window": 21
+  },
+  {
+   "key": "ai短剧围猎中年男性",
+   "title": "AI短剧 围猎中年男性",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从AI短剧切入中年男性消费心理，拆解平台如何用情感叙事围猎该群体",
+   "hook_reason": "AI瞄准中年男性？新风口还是新收割？",
+   "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7+%E5%9B%B4%E7%8C%8E%E4%B8%AD%E5%B9%B4%E7%94%B7%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:ai短剧围猎中年男性",
+   "batch_window": 21
+  },
+  {
+   "key": "外国游客爱上中国科技",
+   "title": "外国游客爱上中国科技",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "外国游客Vlog记录：原来中国科技这么好用——打破西方技术霸权叙事的鲜活故事，评论区将爆发'被低估的中国'",
+   "hook_reason": "外国游客实拍中国支付/导航/高铁引发全网民族情绪共鸣",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%88%B1%E4%B8%8A%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:外国游客爱上中国科技",
+   "batch_window": 21
+  },
+  {
+   "key": "为什么医院验血要抽好几管血为什么不能一管多用",
+   "title": "为什么医院验血要抽好几管血？为什么不能一管多用？",
+   "rating": "A",
+   "score": 48.29,
+   "angle": "从普通人验血困惑切入，科普多管血各自对应什么检测项目，解释医学必要性",
+   "hook_reason": "几乎每个人都抽过血，好奇为什么不能一管搞定",
+   "url": "https://www.zhihu.com/question/2081195847480619059",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:为什么医院验血要抽好几管血为什么不能一管多用",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -4729,7 +4768,8 @@
   "霸王茶姬就崩了致歉急急急",
   "外交部美方应当慎重处理台湾问题",
   "全市场超4300只个股下挫",
-  "8千元狗仅退款商家驱车600公里寻狗"
+  "8千元狗仅退款商家驱车600公里寻狗",
+  "霸王茶姬买一送一自己接不住的营销"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5019,7 +5059,8 @@
   "e:霸王茶姬就崩了致歉急急急": "霸王茶姬就崩了致歉：急急急",
   "e:外交部美方应当慎重处理台湾问题": "外交部：美方应当慎重处理台湾问题",
   "e:全市场超4300只个股下挫": "全市场超4300只个股下挫",
-  "e:8千元狗仅退款商家驱车600公里寻狗": "8千元狗仅退款商家驱车600公里寻狗"
+  "e:8千元狗仅退款商家驱车600公里寻狗": "8千元狗仅退款商家驱车600公里寻狗",
+  "e:霸王茶姬买一送一自己接不住的营销": "霸王茶姬买一送一：自己接不住的营销"
  },
  "a_seen": {
   "百亿私募希瓦梁宏吐槽部分保险资管巨头7月高位买入大量科技股9月下旬却大幅减仓止损直言追涨": {
@@ -5830,9 +5871,9 @@
    "key": "qgisbansaiassistedcontributions",
    "title": "QGIS bans AI assisted contributions",
    "rating": "A",
-   "score": 40.9,
-   "angle": "从开源精神与技术伦理冲突切入，探讨AI时代开发者社区的分化",
-   "hook_reason": "开源项目QGIS禁止AI辅助贡献，AI vs 开源社区正面碰撞",
+   "score": 76.5,
+   "angle": "开源社区的AI焦虑：QGIS封杀AI辅助，是代码质量保卫战还是技术守旧？",
+   "hook_reason": "首个主流开源项目封杀AI辅助提交，开发者群体炸锅",
    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
    "track": "科技",
    "breaking": true,
@@ -5861,8 +5902,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:台退将戴脚镣发声中国必将统一"
+  },
+  "贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法律角度解读": {
+   "key": "贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法律角度解读",
+   "title": "贵州男子被曝同酒楼同时与两女子办婚宴百日宴，官方称不构成重婚，具体是怎么回事？如何从法律角度解读？",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "从法律与道德边界切入，解读'不构成重婚'的合法性争议与社会价值观冲突",
+   "hook_reason": "一男同时办两场婚礼百日宴，法律擦边引发全民讨论",
+   "url": "https://www.zhihu.com/question/2093028174019785264",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法"
+  },
+  "ai短剧围猎中年男性": {
+   "key": "ai短剧围猎中年男性",
+   "title": "AI短剧 围猎中年男性",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从AI短剧切入中年男性消费心理，拆解平台如何用情感叙事围猎该群体",
+   "hook_reason": "AI瞄准中年男性？新风口还是新收割？",
+   "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7+%E5%9B%B4%E7%8C%8E%E4%B8%AD%E5%B9%B4%E7%94%B7%E6%80%A7&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:ai短剧围猎中年男性"
+  },
+  "外国游客爱上中国科技": {
+   "key": "外国游客爱上中国科技",
+   "title": "外国游客爱上中国科技",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "外国游客Vlog记录：原来中国科技这么好用——打破西方技术霸权叙事的鲜活故事，评论区将爆发'被低估的中国'",
+   "hook_reason": "外国游客实拍中国支付/导航/高铁引发全网民族情绪共鸣",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%88%B1%E4%B8%8A%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:外国游客爱上中国科技"
+  },
+  "为什么医院验血要抽好几管血为什么不能一管多用": {
+   "key": "为什么医院验血要抽好几管血为什么不能一管多用",
+   "title": "为什么医院验血要抽好几管血？为什么不能一管多用？",
+   "rating": "A",
+   "score": 48.29,
+   "angle": "从普通人验血困惑切入，科普多管血各自对应什么检测项目，解释医学必要性",
+   "hook_reason": "几乎每个人都抽过血，好奇为什么不能一管搞定",
+   "url": "https://www.zhihu.com/question/2081195847480619059",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:为什么医院验血要抽好几管血为什么不能一管多用"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
