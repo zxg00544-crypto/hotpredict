@@ -4131,19 +4131,6 @@
    "batch_window": 15
   },
   {
-   "key": "再次推荐k100promax",
-   "title": "再次推荐 #K100ProMax#",
-   "rating": "A",
-   "score": 84.95,
-   "angle": "K100ProMax登顶背后的产品力解析：从参数党到体验派的消费心理转变，揭示国产旗舰的破局之路",
-   "hook_reason": "顶流新品首销登顶，用户疯抢背后是技术升级还是营销噱头",
-   "url": "https://weibo.com/1892653244/Rmke3AT8x",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:再次推荐k100promax",
-   "batch_window": 16
-  },
-  {
    "key": "如何看待近期社保纳入税务处罚单位欠缴社保最高罚三倍引发热议",
    "title": "如何看待近期社保纳入税务处罚，单位欠缴社保最高罚三倍引发热议？",
    "rating": "A",
@@ -4506,6 +4493,58 @@
    "breaking": false,
    "event_id": "e:aicodingagentsgeneratemorecodebutnotmore",
    "batch_window": 4
+  },
+  {
+   "key": "特朗普可能取消对哥伦比亚的关税",
+   "title": "特朗普：可能取消对哥伦比亚的关税。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从关税取消看哥伦比亚咖啡/花卉出口链，拆解受益标的与市场资金动向",
+   "hook_reason": "特朗普关税变脸，哥伦比亚出口命脉牵动全球产业链神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-iniuzkkt7160251.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:特朗普可能取消对哥伦比亚的关税",
+   "batch_window": 5
+  },
+  {
+   "key": "qgisenactsmoratoriumonaicontributions",
+   "title": "QGIS enacts moratorium on AI contributions",
+   "rating": "A",
+   "score": 39.95,
+   "angle": "QGIS开源社区正式拒绝AI代码贡献，引发AI替代人类开发者还是辅助工具的伦理大讨论",
+   "hook_reason": "开源VS AI大决战，开发者群体高度关注，冲突感拉满",
+   "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:qgisenactsmoratoriumonaicontributions",
+   "batch_window": 5
+  },
+  {
+   "key": "百风武士市场跌的惨绝人寰时候能站出来坚定说做多的但总是第一人基本没看过其他人而",
+   "title": "// @百风武士 :市场跌的惨绝人寰时候能站出来坚定说做多的，但总是第一人，基本没看过其他人，而",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "深挖该大佬历史做多记录，盘点其精准抄底案例，制造'神预测'人设",
+   "hook_reason": "市场暴跌时敢坚定做多的第一人，谁有这样的胆识？",
+   "url": "https://weibo.com/1249424622/RmpxIpUJq",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:百风武士市场跌的惨绝人寰时候能站出来坚定说做多的但总是第一人基本没看过其他人而",
+   "batch_window": 5
+  },
+  {
+   "key": "记者俄罗斯今晚违反了停火协议特朗普双方都有违反协议的情况",
+   "title": "记者：俄罗斯今晚违反了停火协议。 特朗普：双方都有违反协议的情况。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "聚焦特朗普表态的核心立场与背后意图，解读其对俄乌局势走向的实际影响",
+   "hook_reason": "特朗普亲自回应俄乌停火争议，重磅发言+地缘冲突双重看点",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-iniuzkks0387544.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:泽连斯基说他支持你的能源停火但普京不支持特朗普我认为他们都支持",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -4877,7 +4916,8 @@
   "郑钦文中网夺冠十多个品牌集体发文祝贺霸王茶姬被流量冲崩小程序如何看待这波冠军商业狂欢",
   "霸王茶姬开启买一送一大促小程序一度崩溃店员无奈劝退消费者商家的活动组织和预案出现了哪些问题",
   "医生快速掉秤多是脱水并非减脂",
-  "如何看待穆欣月桃晚安成亚运会电竞项目首位女子冠军后其父亲说后悔以前阻拦她打游戏搞电竞"
+  "如何看待穆欣月桃晚安成亚运会电竞项目首位女子冠军后其父亲说后悔以前阻拦她打游戏搞电竞",
+  "再次推荐k100promax"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5185,7 +5225,8 @@
   "e:郑钦文中网夺冠十多个品牌集体发文祝贺霸王茶姬被流量冲崩小程序如何看待这波冠军商业": "郑钦文中网夺冠，十多个品牌集体发文祝贺，霸王茶姬被流量冲崩小程序，如何看待这波冠军商业「狂欢」？",
   "e:霸王茶姬开启买一送一大促小程序一度崩溃店员无奈劝退消费者商家的活动组织和预案出现": "霸王茶姬开启买一送一大促，小程序一度崩溃，店员无奈劝退消费者，商家的活动组织和预案出现了哪些问题？",
   "e:医生快速掉秤多是脱水并非减脂": "医生：快速掉秤多是脱水并非减脂",
-  "e:如何看待穆欣月桃晚安成亚运会电竞项目首位女子冠军后其父亲说后悔以前阻拦她打游戏搞": "如何看待穆欣月（桃晚安）成亚运会电竞项目首位女子冠军后，其父亲说后悔以前阻拦她打游戏搞电竞？"
+  "e:如何看待穆欣月桃晚安成亚运会电竞项目首位女子冠军后其父亲说后悔以前阻拦她打游戏搞": "如何看待穆欣月（桃晚安）成亚运会电竞项目首位女子冠军后，其父亲说后悔以前阻拦她打游戏搞电竞？",
+  "e:再次推荐k100promax": "再次推荐 #K100ProMax#"
  },
  "a_seen": {
   "whyarentaicompaniesbeingchargedforhacking": {
@@ -5349,8 +5390,8 @@
    "title": "A股资金为何持续“弃科技、抱红利”",
    "rating": "A",
    "score": 81.1,
-   "angle": "从散户持仓焦虑切入，拆解资金轮动逻辑，给出",
-   "hook_reason": "A股资金大迁移：科技弃儿vs红利宠儿，你的持仓跟上了吗？",
+   "angle": "解读资金轮动逻辑：科技遇冷红利走强背后，是避险情绪还是价值回归？给出三种资金去向假设及操作建议",
+   "hook_reason": "散户焦虑点：股市风向变了，钱去哪了",
    "url": "https://www.toutiao.com/trending/7695773990240915007/",
    "track": "财经",
    "breaking": false,
@@ -5403,8 +5444,68 @@
    "track": "科技",
    "breaking": false,
    "event_id": "e:aicodingagentsgeneratemorecodebutnotmore"
+  },
+  "特朗普可能取消对哥伦比亚的关税": {
+   "key": "特朗普可能取消对哥伦比亚的关税",
+   "title": "特朗普：可能取消对哥伦比亚的关税。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从关税取消看哥伦比亚咖啡/花卉出口链，拆解受益标的与市场资金动向",
+   "hook_reason": "特朗普关税变脸，哥伦比亚出口命脉牵动全球产业链神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-iniuzkkt7160251.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:特朗普可能取消对哥伦比亚的关税"
+  },
+  "qgisenactsmoratoriumonaicontributions": {
+   "key": "qgisenactsmoratoriumonaicontributions",
+   "title": "QGIS enacts moratorium on AI contributions",
+   "rating": "A",
+   "score": 39.95,
+   "angle": "QGIS开源社区正式拒绝AI代码贡献，引发AI替代人类开发者还是辅助工具的伦理大讨论",
+   "hook_reason": "开源VS AI大决战，开发者群体高度关注，冲突感拉满",
+   "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:qgisenactsmoratoriumonaicontributions"
+  },
+  "百风武士市场跌的惨绝人寰时候能站出来坚定说做多的但总是第一人基本没看过其他人而": {
+   "key": "百风武士市场跌的惨绝人寰时候能站出来坚定说做多的但总是第一人基本没看过其他人而",
+   "title": "// @百风武士 :市场跌的惨绝人寰时候能站出来坚定说做多的，但总是第一人，基本没看过其他人，而",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "深挖该大佬历史做多记录，盘点其精准抄底案例，制造'神预测'人设",
+   "hook_reason": "市场暴跌时敢坚定做多的第一人，谁有这样的胆识？",
+   "url": "https://weibo.com/1249424622/RmpxIpUJq",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:百风武士市场跌的惨绝人寰时候能站出来坚定说做多的但总是第一人基本没看过其他人而"
+  },
+  "记者俄罗斯今晚违反了停火协议特朗普双方都有违反协议的情况": {
+   "key": "记者俄罗斯今晚违反了停火协议特朗普双方都有违反协议的情况",
+   "title": "记者：俄罗斯今晚违反了停火协议。 特朗普：双方都有违反协议的情况。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "聚焦特朗普表态的核心立场与背后意图，解读其对俄乌局势走向的实际影响",
+   "hook_reason": "特朗普亲自回应俄乌停火争议，重磅发言+地缘冲突双重看点",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-iniuzkks0387544.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:泽连斯基说他支持你的能源停火但普京不支持特朗普我认为他们都支持"
+  },
+  "特朗普普京比泽连斯基更想达成协议": {
+   "key": "特朗普普京比泽连斯基更想达成协议",
+   "title": "特朗普：普京比泽连斯基更想达成协议。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从特朗普言论切入，解读俄乌停战博弈背后的利益算计与国际格局变化",
+   "hook_reason": "特朗普再放狠话！普京泽连斯基谁更想停战？",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-iniuzkks0385958.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:泽连斯基说他支持你的能源停火但普京不支持特朗普我认为他们都支持"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
