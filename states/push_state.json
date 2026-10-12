@@ -4428,6 +4428,19 @@
    "breaking": true,
    "event_id": "e:新石油润滑油这警方要严打一个年轻人哪有那么多识别能力",
    "batch_window": 1
+  },
+  {
+   "key": "amodernwebappinc",
+   "title": "A Modern Web App in C",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从C语言开发Web的争议切入，探讨性能极致与开发效率的永恒博弈，链接到Rust/Go等替代方案的现状",
+   "hook_reason": "C语言写Web？性能党vs开发效率党的技术争论，程序员群体高相关",
+   "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:amodernwebappinc",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -5168,9 +5181,9 @@
    "key": "meta首席ai官alexandrwang最新深度访谈muse如何成为史上增长最快的消费",
    "title": "Meta首席AI官Alexandr Wang 最新深度访谈：Muse 如何成为史上增长最快的消费",
    "rating": "A",
-   "score": 49.9,
-   "angle": "科技巨头AI官解读产品爆发路径，对标国内大模型增长策略",
-   "hook_reason": "Meta首席AI官谈史上增长最快AI应用，科技圈必追",
+   "score": 84.9,
+   "angle": "解读Muse从0到1的爆发式增长路径，对比同类产品分析AI应用商业化新范式",
+   "hook_reason": "史上增长最快消费级AI产品，大咖亲述背后增长逻辑",
    "url": "https://weibo.com/1249424622/Rmo9LFyir",
    "track": "科技",
    "breaking": true,
@@ -5211,6 +5224,18 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:新石油润滑油这警方要严打一个年轻人哪有那么多识别能力"
+  },
+  "amodernwebappinc": {
+   "key": "amodernwebappinc",
+   "title": "A Modern Web App in C",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从C语言开发Web的争议切入，探讨性能极致与开发效率的永恒博弈，链接到Rust/Go等替代方案的现状",
+   "hook_reason": "C语言写Web？性能党vs开发效率党的技术争论，程序员群体高相关",
+   "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:amodernwebappinc"
   }
  },
  "breaking_count": 10,
