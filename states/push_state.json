@@ -3884,17 +3884,30 @@
    "batch_window": 6
   },
   {
-   "key": "搬运直播切片带货侵权",
-   "title": "搬运直播切片带货 侵权",
+   "key": "recursiveselfimprovementthroughcf7637a63",
+   "title": "Recursive self-improvement through collective intelligence",
    "rating": "A",
-   "score": 87.4,
-   "angle": "盘点近期典型案例+法律依据+创作者避坑指南，切入普通人关心的'能不能做'问题",
-   "hook_reason": "直播切片带货侵权问题，关乎普通人赚钱路径与法律红线",
-   "url": "https://www.baidu.com/s?wd=%E6%90%AC%E8%BF%90%E7%9B%B4%E6%92%AD%E5%88%87%E7%89%87%E5%B8%A6%E8%B4%A7+%E4%BE%B5%E6%9D%83&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": false,
-   "event_id": "e:搬运直播切片带货侵权",
-   "batch_window": 7
+   "score": 79.5,
+   "angle": "Sakana发布集体智能递归自我改进框架，AI可自主迭代升级，突破人类训练瓶颈",
+   "hook_reason": "AI自动进化突破，Sakana引发范式革命，技术圈热议",
+   "url": "https://pub.sakana.ai/mass/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:recursiveselfimprovementthroughcollectiv",
+   "batch_window": 8
+  },
+  {
+   "key": "周一早小米18pro系列",
+   "title": "周一早！ #小米18Pro系列#",
+   "rating": "A",
+   "score": 49.95,
+   "angle": "小米18Pro系列参数解析+行业对比，抢占首发解读流量",
+   "hook_reason": "小米新品登顶热搜，米粉和科技圈必追",
+   "url": "https://weibo.com/1892653244/RmhbgkJqm",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:周一早小米18pro系列",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -4235,7 +4248,8 @@
   "imsorrybutyoustillhavetothink",
   "虚拟外卖点了永远不会送达",
   "ussuspendsvisaprogramfortechfirm86989c6f",
-  "姚明马云现身nba中国赛场边观赛"
+  "姚明马云现身nba中国赛场边观赛",
+  "搬运直播切片带货侵权"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -4512,7 +4526,8 @@
   "e:imsorrybutyoustillhavetothink": "I'm sorry, but you still have to think",
   "e:虚拟外卖点了永远不会送达": "虚拟外卖点了永远不会送达",
   "e:ussuspendsvisaprogramfortechfirmsincludi": "US Suspends Visa Program for Tech Firms Including Microsoft",
-  "e:马云贝克汉姆蹲下与轮椅球迷合影": "姚明马云现身NBA中国赛场边观赛"
+  "e:马云贝克汉姆蹲下与轮椅球迷合影": "姚明马云现身NBA中国赛场边观赛",
+  "e:搬运直播切片带货侵权": "搬运直播切片带货 侵权"
  },
  "a_seen": {
   "百亿私募希瓦梁宏吐槽部分保险资管巨头7月高位买入大量科技股9月下旬却大幅减仓止损直言追涨": {
@@ -4730,8 +4745,32 @@
    "track": "社会热点",
    "breaking": false,
    "event_id": "e:搬运直播切片带货侵权"
+  },
+  "recursiveselfimprovementthroughcf7637a63": {
+   "key": "recursiveselfimprovementthroughcf7637a63",
+   "title": "Recursive self-improvement through collective intelligence",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "Sakana发布集体智能递归自我改进框架，AI可自主迭代升级，突破人类训练瓶颈",
+   "hook_reason": "AI自动进化突破，Sakana引发范式革命，技术圈热议",
+   "url": "https://pub.sakana.ai/mass/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:recursiveselfimprovementthroughcollectiv"
+  },
+  "周一早小米18pro系列": {
+   "key": "周一早小米18pro系列",
+   "title": "周一早！ #小米18Pro系列#",
+   "rating": "A",
+   "score": 49.95,
+   "angle": "小米18Pro系列参数解析+行业对比，抢占首发解读流量",
+   "hook_reason": "小米新品登顶热搜，米粉和科技圈必追",
+   "url": "https://weibo.com/1892653244/RmhbgkJqm",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:周一早小米18pro系列"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
