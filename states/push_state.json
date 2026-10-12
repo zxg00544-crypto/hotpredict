@@ -4092,19 +4092,6 @@
    "batch_window": 15
   },
   {
-   "key": "霸王茶姬开启买一送一大促小程序一度崩溃店员无奈劝退消费者商家的活动组织和预案出现了哪些问题",
-   "title": "霸王茶姬开启买一送一大促，小程序一度崩溃，店员无奈劝退消费者，商家的活动组织和预案出现了哪些问题？",
-   "rating": "A",
-   "score": 86.5,
-   "angle": "从'买一送一变'买一赶'看茶饮品牌大促组织能力短板，技术预案缺失成槽点",
-   "hook_reason": "小程序崩溃现场冲突，消费者维权情绪高涨，店员无奈劝退画面感强",
-   "url": "https://www.zhihu.com/question/2092973087201257351",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:霸王茶姬开启买一送一大促小程序一度崩溃店员无奈劝退消费者商家的活动组织和预案出现",
-   "batch_window": 15
-  },
-  {
    "key": "attackofthevibecodedphotoshopclones",
    "title": "Attack of the Vibe Coded Photoshop Clones",
    "rating": "A",
@@ -4441,6 +4428,32 @@
    "breaking": true,
    "event_id": "e:amodernwebappinc",
    "batch_window": 1
+  },
+  {
+   "key": "夜骑",
+   "title": "夜骑",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "聚焦夜骑现象背后的青年情绪释放与城市公共空间管理困境",
+   "hook_reason": "大学生夜骑热潮席卷全国，城市治理与青春宣泄的激烈碰撞",
+   "url": "https://weibo.com/1875293522/Rmo3QEoHn",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:夜骑",
+   "batch_window": 2
+  },
+  {
+   "key": "qgisnoaicontributionspermitted",
+   "title": "QGIS: No AI contributions permitted",
+   "rating": "A",
+   "score": 39.55,
+   "angle": "从开源社区抵制AI切入，探讨AI浪潮下开发者身份认同与协作边界重构",
+   "hook_reason": "开源GIS项目官方封杀AI贡献，开发者社区首次正面硬刚AI",
+   "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:qgisnoaicontributionspermitted",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -4809,7 +4822,8 @@
   "评论员日本是铁了心要介入台海",
   "撑了20年的宜信也撑不住了倒了网页链接网页链接",
   "霸王茶姬奖励员工1350万元350万元团建费1000万元红包全部给到一线门店员工如何评价此举",
-  "郑钦文中网夺冠十多个品牌集体发文祝贺霸王茶姬被流量冲崩小程序如何看待这波冠军商业狂欢"
+  "郑钦文中网夺冠十多个品牌集体发文祝贺霸王茶姬被流量冲崩小程序如何看待这波冠军商业狂欢",
+  "霸王茶姬开启买一送一大促小程序一度崩溃店员无奈劝退消费者商家的活动组织和预案出现了哪些问题"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5114,7 +5128,8 @@
   "e:评论员日本是铁了心要介入台海": "评论员：日本是铁了心要介入台海",
   "e:撑了20年的宜信也撑不住了倒了网页链接网页链接": "撑了20年的宜信，也撑不住了倒了 网页链接 网页链接",
   "e:霸王茶姬奖励员工1350万元350万元团建费1000万元红包全部给到一线门店员工": "霸王茶姬奖励员工1350万元，350万元团建费，1000万元红包，全部给到一线门店员工，如何评价此举？",
-  "e:郑钦文中网夺冠十多个品牌集体发文祝贺霸王茶姬被流量冲崩小程序如何看待这波冠军商业": "郑钦文中网夺冠，十多个品牌集体发文祝贺，霸王茶姬被流量冲崩小程序，如何看待这波冠军商业「狂欢」？"
+  "e:郑钦文中网夺冠十多个品牌集体发文祝贺霸王茶姬被流量冲崩小程序如何看待这波冠军商业": "郑钦文中网夺冠，十多个品牌集体发文祝贺，霸王茶姬被流量冲崩小程序，如何看待这波冠军商业「狂欢」？",
+  "e:霸王茶姬开启买一送一大促小程序一度崩溃店员无奈劝退消费者商家的活动组织和预案出现": "霸王茶姬开启买一送一大促，小程序一度崩溃，店员无奈劝退消费者，商家的活动组织和预案出现了哪些问题？"
  },
  "a_seen": {
   "whyarentaicompaniesbeingchargedforhacking": {
@@ -5182,8 +5197,8 @@
    "title": "Meta首席AI官Alexandr Wang 最新深度访谈：Muse 如何成为史上增长最快的消费",
    "rating": "A",
    "score": 84.9,
-   "angle": "解读Muse从0到1的爆发式增长路径，对比同类产品分析AI应用商业化新范式",
-   "hook_reason": "史上增长最快消费级AI产品，大咖亲述背后增长逻辑",
+   "angle": "从0到1亿用户仅需X天，AI应用增长奇迹背后的产品逻辑与增长策略解析",
+   "hook_reason": "AI应用史上最快增长+Meta首席AI官揭秘，双击率拉满",
    "url": "https://weibo.com/1249424622/Rmo9LFyir",
    "track": "科技",
    "breaking": true,
@@ -5236,8 +5251,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:amodernwebappinc"
+  },
+  "夜骑": {
+   "key": "夜骑",
+   "title": "夜骑",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "聚焦夜骑现象背后的青年情绪释放与城市公共空间管理困境",
+   "hook_reason": "大学生夜骑热潮席卷全国，城市治理与青春宣泄的激烈碰撞",
+   "url": "https://weibo.com/1875293522/Rmo3QEoHn",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:夜骑"
+  },
+  "qgisnoaicontributionspermitted": {
+   "key": "qgisnoaicontributionspermitted",
+   "title": "QGIS: No AI contributions permitted",
+   "rating": "A",
+   "score": 39.55,
+   "angle": "从开源社区抵制AI切入，探讨AI浪潮下开发者身份认同与协作边界重构",
+   "hook_reason": "开源GIS项目官方封杀AI贡献，开发者社区首次正面硬刚AI",
+   "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:qgisnoaicontributionspermitted"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
