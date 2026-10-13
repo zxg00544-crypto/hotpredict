@@ -4573,19 +4573,6 @@
    "batch_window": 8
   },
   {
-   "key": "gt源于意大利语granturismo译为伟大旅程小米yu7gt为热爱驾驶的人",
-   "title": "GT，源于意大利语Gran Turismo，译为“伟大旅程”。 小米YU7 GT，为热爱驾驶的人",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "从小米YU7 GT切入，解析小米汽车产品矩阵升级及智能驾驶技术布局",
-   "hook_reason": "小米汽车新品首发，GT定位引爆科技圈期待",
-   "url": "https://weibo.com/1749127163/RmqXntri6",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:gt源于意大利语granturismo译为伟大旅程小米yu7gt为热爱驾驶的人",
-   "batch_window": 8
-  },
-  {
    "key": "陶哲轩的黑盒ai治癌药思想实验引发争议如何看待这一讨论人类需要完全理解科学研究的过程吗",
    "title": "陶哲轩的「黑盒 AI 治癌药」思想实验引发争议，如何看待这一讨论？人类需要完全理解科学研究的过程吗？",
    "rating": "A",
@@ -5065,6 +5052,58 @@
    "breaking": true,
    "event_id": "e:男生高考522分被调剂马术专业成为在校本科生中唯一持证钉蹄师前景如何能带给选专业",
    "batch_window": 5
+  },
+  {
+   "key": "马斯克谈数据中心债券遭抛售并不是说超级计算机数据中心没有高需求它们确实需",
+   "title": "马斯克：（谈数据中心债券遭抛售）并不是说超级计算机数据中心没有高需求，它们确实需",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从债券遭抛售切入，解读AI数据中心投资风向转变",
+   "hook_reason": "马斯克最新表态数据中心债券遇冷，AI基建泡沫论再起",
+   "url": "https://finance.sina.cn/7x24/2026-10-14/detail-inivctrq0414824.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克谈数据中心债券遭抛售并不是说超级计算机数据中心没有高需求它们确实需",
+   "batch_window": 6
+  },
+  {
+   "key": "openaiengineerarrestedinbuggingoe9d027a3",
+   "title": "OpenAI engineer arrested in bugging of executive conference room",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从科技巨头内部权力斗争切入，折射AI行业竞争白热化下的道德失范",
+   "hook_reason": "AI巨头内部惊现窃听案，OpenAI高管层暗斗曝光",
+   "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openaiengineerarrestedinbuggingofexecuti",
+   "batch_window": 6
+  },
+  {
+   "key": "现代汽车集团首尔公告未来七年将在印度投资155亿美元",
+   "title": "现代汽车集团（首尔公告）未来七年将在印度投资155亿美元。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "韩国车企大规模投资印度 vs 中国车企出海战略，新兴市场争夺战正在重塑全球汽车产业格局",
+   "hook_reason": "韩系巨头砸155亿赌印度，全球车企抢新兴市场的棋局变了",
+   "url": "https://finance.sina.cn/7x24/2026-10-14/detail-inivctrq0421454.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:现代汽车集团首尔公告未来七年将在印度投资155亿美元",
+   "batch_window": 6
+  },
+  {
+   "key": "中国为何主动砍新能源车出口退税",
+   "title": "中国为何主动砍新能源车出口退税",
+   "rating": "A",
+   "score": 85.5,
+   "angle": "从政策转向切入，分析退税取消对新能源车企利润表和出海格局的深层影响",
+   "hook_reason": "国家主动退坡直接冲击新能源车企利润，牵动出海战略",
+   "url": "https://www.toutiao.com/trending/7696114788773924371/",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:中国为何主动砍新能源车出口退税",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -5471,7 +5510,8 @@
   "ai改变世界我们的生活被彻底颠覆我预测未来35年ai将彻底改变世界满大街跑的都是自动",
   "刚刚meta最强旗舰多项屠榜智能水平仅落后opus55两分网页链接网页链接",
   "ai批量造星真人明星还有何价值",
-  "茶百道ipo疑遭操纵被停牌有啥后果"
+  "茶百道ipo疑遭操纵被停牌有啥后果",
+  "gt源于意大利语granturismo译为伟大旅程小米yu7gt为热爱驾驶的人"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5814,7 +5854,8 @@
   "e:ai改变世界我们的生活被彻底颠覆我预测未来35年ai将彻底改变世界满大街跑的都是": "AI改变世界，我们的生活被彻底颠覆 我预测未来3-5年，AI将彻底改变世界： 满大街跑的都是自动",
   "e:刚刚meta最强旗舰多项屠榜智能水平仅落后opus55两分网页链接网页链接": "刚刚，Meta最强旗舰多项屠榜！智能水平仅落后Opus 5.5两分 网页链接 网页链接",
   "e:ai批量造星真人明星还有何价值": "AI批量造星 真人明星还有何价值",
-  "e:茶百道ipo疑遭操纵被停牌有啥后果": "茶百道IPO疑遭操纵被停牌 有啥后果"
+  "e:茶百道ipo疑遭操纵被停牌有啥后果": "茶百道IPO疑遭操纵被停牌 有啥后果",
+  "e:gt源于意大利语granturismo译为伟大旅程小米yu7gt为热爱驾驶的人": "GT，源于意大利语Gran Turismo，译为“伟大旅程”。 小米YU7 GT，为热爱驾驶的人"
  },
  "a_seen": {
   "王星被胁迫借下的网贷该不该还": {
@@ -5965,11 +6006,11 @@
    "key": "ai批量造星真人明星还有何价值",
    "title": "AI批量造星 真人明星还有何价值",
    "rating": "A",
-   "score": 80.75,
-   "angle": "从粉丝经济切入，探讨AI偶像对传统娱乐产业链的冲击与重构",
-   "hook_reason": "AI取代真人？粉丝和从业者都在焦虑",
+   "score": 80.5,
+   "angle": "从生成式AI技术突破切入，解析AI造星底层逻辑，对比真人明星情感价值不可替代性",
+   "hook_reason": "AI取代明星引发身份焦虑，3亿网民热议，情绪张力拉满",
    "url": "https://www.baidu.com/s?wd=AI%E6%89%B9%E9%87%8F%E9%80%A0%E6%98%9F+%E7%9C%9F%E4%BA%BA%E6%98%8E%E6%98%9F%E8%BF%98%E6%9C%89%E4%BD%95%E4%BB%B7%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
+   "track": "科技",
    "breaking": false,
    "event_id": "e:ai批量造星真人明星还有何价值"
   },
@@ -6008,8 +6049,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:男生高考522分被调剂马术专业成为在校本科生中唯一持证钉蹄师前景如何能带给选专业"
+  },
+  "马斯克谈数据中心债券遭抛售并不是说超级计算机数据中心没有高需求它们确实需": {
+   "key": "马斯克谈数据中心债券遭抛售并不是说超级计算机数据中心没有高需求它们确实需",
+   "title": "马斯克：（谈数据中心债券遭抛售）并不是说超级计算机数据中心没有高需求，它们确实需",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从债券遭抛售切入，解读AI数据中心投资风向转变",
+   "hook_reason": "马斯克最新表态数据中心债券遇冷，AI基建泡沫论再起",
+   "url": "https://finance.sina.cn/7x24/2026-10-14/detail-inivctrq0414824.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克谈数据中心债券遭抛售并不是说超级计算机数据中心没有高需求它们确实需"
+  },
+  "openaiengineerarrestedinbuggingoe9d027a3": {
+   "key": "openaiengineerarrestedinbuggingoe9d027a3",
+   "title": "OpenAI engineer arrested in bugging of executive conference room",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从科技巨头内部权力斗争切入，折射AI行业竞争白热化下的道德失范",
+   "hook_reason": "AI巨头内部惊现窃听案，OpenAI高管层暗斗曝光",
+   "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openaiengineerarrestedinbuggingofexecuti"
+  },
+  "现代汽车集团首尔公告未来七年将在印度投资155亿美元": {
+   "key": "现代汽车集团首尔公告未来七年将在印度投资155亿美元",
+   "title": "现代汽车集团（首尔公告）未来七年将在印度投资155亿美元。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "韩国车企大规模投资印度 vs 中国车企出海战略，新兴市场争夺战正在重塑全球汽车产业格局",
+   "hook_reason": "韩系巨头砸155亿赌印度，全球车企抢新兴市场的棋局变了",
+   "url": "https://finance.sina.cn/7x24/2026-10-14/detail-inivctrq0421454.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:现代汽车集团首尔公告未来七年将在印度投资155亿美元"
+  },
+  "中国为何主动砍新能源车出口退税": {
+   "key": "中国为何主动砍新能源车出口退税",
+   "title": "中国为何主动砍新能源车出口退税",
+   "rating": "A",
+   "score": 85.5,
+   "angle": "从政策转向切入，分析退税取消对新能源车企利润表和出海格局的深层影响",
+   "hook_reason": "国家主动退坡直接冲击新能源车企利润，牵动出海战略",
+   "url": "https://www.toutiao.com/trending/7696114788773924371/",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:中国为何主动砍新能源车出口退税"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
