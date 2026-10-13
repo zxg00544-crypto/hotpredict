@@ -4781,19 +4781,6 @@
    "batch_window": 13
   },
   {
-   "key": "35岁前策划用5万元的token做出纯ai游戏他说单人能搓原神你认为这是暴论还是预言",
-   "title": "35岁前策划用5万元的token做出纯AI游戏，他说“单人能搓《原神》”，你认为这是暴论还是预言？",
-   "rating": "A",
-   "score": 87.5,
-   "angle": "从AI能力边界切入，讨论单体开发者+AI是否真能复制大厂3A游戏，兼顾技术可行性与行业冲击",
-   "hook_reason": "35岁个人用5万token挑战《原神》级别，AI能否单干颠覆游戏行业",
-   "url": "https://www.zhihu.com/question/2088282544672458104",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:35岁前策划用5万元的token做出纯ai游戏他说单人能搓原神你认为这是暴论还是",
-   "batch_window": 14
-  },
-  {
    "key": "ai改变世界我们的生活被彻底颠覆我预测未来35年ai将彻底改变世界满大街跑的都是自动",
    "title": "AI改变世界，我们的生活被彻底颠覆 我预测未来3-5年，AI将彻底改变世界： 满大街跑的都是自动",
    "rating": "A",
@@ -4818,6 +4805,58 @@
    "breaking": true,
    "event_id": "e:李迅雷最新分享这一轮ai周期或持续50年目前仍处早期真正能大规模受益还要看应用端",
    "batch_window": 14
+  },
+  {
+   "key": "央视曝光大棚闲置后当地连夜开会",
+   "title": "央视曝光大棚闲置后当地连夜开会",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "曝光到回应的速度折射基层治理效能，质疑形式主义or肯定执行力",
+   "hook_reason": "央视曝光+连夜开会，官方回应速度成焦点",
+   "url": "https://www.toutiao.com/trending/7695720930878144522/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:央视曝光大棚闲置后当地连夜开会",
+   "batch_window": 15
+  },
+  {
+   "key": "threatofaisharecrashputsworldfin2aa56ddd",
+   "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "从宏观金融风险视角切入，解析AI估值泡沫化与IMF预警的逻辑链条，关联A股相关标的",
+   "hook_reason": "IMF首次警告AI泡沫威胁全球金融稳定，引发系统性风险担忧",
+   "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:threatofaisharecrashputsworldfinancialst",
+   "batch_window": 15
+  },
+  {
+   "key": "各位都什么原因没买一艘呢",
+   "title": "“各位都什么原因没买一艘呢”",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "挖掘发言者身份背景，解读高净值人群消费观对普通人的冲击与启示",
+   "hook_reason": "天价商品购买欲引发的全民热议，自带话题性和代入感",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%90%84%E4%BD%8D%E9%83%BD%E4%BB%80%E4%B9%88%E5%8E%9F%E5%9B%A0%E6%B2%A1%E4%B9%B0%E4%B8%80%E8%89%98%E5%91%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:各位都什么原因没买一艘呢",
+   "batch_window": 15
+  },
+  {
+   "key": "开回家的路上风都是甜的能给车主们带来这样的幸福我们所有小米人都非常开心我们会更努力",
+   "title": "“开回家的路上风都是甜的”。能给车主们带来这样的幸福，我们所有小米人都非常开心，我们会更努力！",
+   "rating": "A",
+   "score": 84.8,
+   "angle": "从'风都是甜的'看雷军如何用情绪价值重新定义汽车营销",
+   "hook_reason": "雷军团队金句引爆小米汽车情感共鸣",
+   "url": "https://weibo.com/1749127163/Rmt8v2FIg",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:开回家的路上风都是甜的能给车主们带来这样的幸福我们所有小米人都非常开心我们会更努",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -5199,7 +5238,8 @@
   "法国把一个中国说定",
   "c罗和马宁交涉",
   "79岁陶华碧用ai一年赚了54亿",
-  "2027国考明天开始报名"
+  "2027国考明天开始报名",
+  "35岁前策划用5万元的token做出纯ai游戏他说单人能搓原神你认为这是暴论还是预言"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5517,7 +5557,8 @@
   "e:法国把一个中国说定": "法国把“一个中国”说定",
   "e:c罗和马宁交涉": "C罗和马宁交涉",
   "e:79岁陶华碧用ai一年赚了54亿": "79岁陶华碧用AI一年赚了54亿",
-  "e:2027国考明天开始报名": "2027国考明天开始报名"
+  "e:2027国考明天开始报名": "2027国考明天开始报名",
+  "e:35岁前策划用5万元的token做出纯ai游戏他说单人能搓原神你认为这是暴论还是": "35岁前策划用5万元的token做出纯AI游戏，他说“单人能搓《原神》”，你认为这是暴论还是预言？"
  },
  "a_seen": {
   "whyarentaicompaniesbeingchargedforhacking": {
@@ -6124,11 +6165,11 @@
    "key": "79岁老干妈陶华碧用ai一年赚了54亿",
    "title": "79岁老干妈陶华碧用AI一年赚了54亿",
    "rating": "A",
-   "score": 90.5,
-   "angle": "从陶华碧用AI年赚54亿切入，写传统制造业如何用AI破局，颠覆公众对实体品牌的认知",
-   "hook_reason": "79岁传统品牌+AI逆袭，反差感拉满，国民记忆被科技激活",
+   "score": 81.9,
+   "angle": "老干妈用AI破局的商业故事，传统品牌如何拥抱科技",
+   "hook_reason": "79岁企业家+AI年赚54亿，老品牌反差冲击",
    "url": "https://www.toutiao.com/trending/7695240616376303626/",
-   "track": "社会热点",
+   "track": "大咖发言",
    "breaking": true,
    "event_id": "e:79岁陶华碧用ai一年赚了54亿"
   },
@@ -6160,15 +6201,63 @@
    "key": "李迅雷最新分享这一轮ai周期或持续50年目前仍处早期真正能大规模受益还要看应用端网页",
    "title": "李迅雷最新分享：这一轮AI周期或持续50年，目前仍处早期，真正能大规模受益还要看应用端…… 网页",
    "rating": "A",
-   "score": 49.9,
-   "angle": "以李迅雷权威背书切入，拆解AI应用端何时爆发、哪些领域最受益",
-   "hook_reason": "顶级经济学家预判AI周期50年，应用端机会引发读者好奇",
+   "score": 84.9,
+   "angle": "借李迅雷50年AI周期论，拆解应用端红利窗口，呼应大众对AI焦虑与机遇",
+   "hook_reason": "顶级经济学家断言AI周期50年，预测爆量且反常识",
    "url": "https://weibo.com/1249424622/Rmt6WnReO",
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:李迅雷最新分享这一轮ai周期或持续50年目前仍处早期真正能大规模受益还要看应用端"
+  },
+  "央视曝光大棚闲置后当地连夜开会": {
+   "key": "央视曝光大棚闲置后当地连夜开会",
+   "title": "央视曝光大棚闲置后当地连夜开会",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "曝光到回应的速度折射基层治理效能，质疑形式主义or肯定执行力",
+   "hook_reason": "央视曝光+连夜开会，官方回应速度成焦点",
+   "url": "https://www.toutiao.com/trending/7695720930878144522/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:央视曝光大棚闲置后当地连夜开会"
+  },
+  "threatofaisharecrashputsworldfin2aa56ddd": {
+   "key": "threatofaisharecrashputsworldfin2aa56ddd",
+   "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "从宏观金融风险视角切入，解析AI估值泡沫化与IMF预警的逻辑链条，关联A股相关标的",
+   "hook_reason": "IMF首次警告AI泡沫威胁全球金融稳定，引发系统性风险担忧",
+   "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:threatofaisharecrashputsworldfinancialst"
+  },
+  "各位都什么原因没买一艘呢": {
+   "key": "各位都什么原因没买一艘呢",
+   "title": "“各位都什么原因没买一艘呢”",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "挖掘发言者身份背景，解读高净值人群消费观对普通人的冲击与启示",
+   "hook_reason": "天价商品购买欲引发的全民热议，自带话题性和代入感",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%90%84%E4%BD%8D%E9%83%BD%E4%BB%80%E4%B9%88%E5%8E%9F%E5%9B%A0%E6%B2%A1%E4%B9%B0%E4%B8%80%E8%89%98%E5%91%A2%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:各位都什么原因没买一艘呢"
+  },
+  "开回家的路上风都是甜的能给车主们带来这样的幸福我们所有小米人都非常开心我们会更努力": {
+   "key": "开回家的路上风都是甜的能给车主们带来这样的幸福我们所有小米人都非常开心我们会更努力",
+   "title": "“开回家的路上风都是甜的”。能给车主们带来这样的幸福，我们所有小米人都非常开心，我们会更努力！",
+   "rating": "A",
+   "score": 84.8,
+   "angle": "从'风都是甜的'看雷军如何用情绪价值重新定义汽车营销",
+   "hook_reason": "雷军团队金句引爆小米汽车情感共鸣",
+   "url": "https://weibo.com/1749127163/Rmt8v2FIg",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:开回家的路上风都是甜的能给车主们带来这样的幸福我们所有小米人都非常开心我们会更努"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 14
+ "a_pushed_window": 15
 }
