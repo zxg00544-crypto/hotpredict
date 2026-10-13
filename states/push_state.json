@@ -4859,19 +4859,6 @@
    "batch_window": 15
   },
   {
-   "key": "中方回应特朗普称不相信中俄在帮伊朗",
-   "title": "中方回应特朗普称不相信中俄在帮伊朗",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "聚焦中方回应中的战略定力，拆解中俄伊三角关系的美方误判逻辑",
-   "hook_reason": "特朗普突发涉中俄伊言论引中方强硬回应，三方博弈悬念拉满",
-   "url": "https://www.toutiao.com/trending/7695661082907610687/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:中方回应特朗普称不相信中俄在帮伊朗",
-   "batch_window": 16
-  },
-  {
    "key": "雅思主办方致歉",
    "title": "雅思主办方致歉",
    "rating": "A",
@@ -4948,6 +4935,32 @@
    "breaking": true,
    "event_id": "e:weresoftwareengineersbluecollarworkersal",
    "batch_window": 18
+  },
+  {
+   "key": "太空经济2026年投资有望首次突破千亿美元spacex上市为重要推手",
+   "title": "太空经济2026年投资有望首次突破千亿美元，SpaceX上市为重要推手",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "SpaceX登陆资本市场，万亿太空经济从科幻走向现实，普通人如何分一杯羹？",
+   "hook_reason": "SpaceX上市+千亿太空经济，科技圈最炸裂的消息",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-inivasea0539003.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:太空经济2026年投资有望首次突破千亿美元spacex上市为重要推手",
+   "batch_window": 19
+  },
+  {
+   "key": "上海到2030年小客车电动化率超过40",
+   "title": "上海：到2030年 小客车电动化率超过40%",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "政策如何改写新能源车市格局、哪些股票受益",
+   "hook_reason": "政策级新能源渗透目标，汽车/锂电/A股联动",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-inivasea0539204.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:上海到2030年小客车电动化率超过40",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -5333,7 +5346,8 @@
   "35岁前策划用5万元的token做出纯ai游戏他说单人能搓原神你认为这是暴论还是预言",
   "央视曝光大棚闲置后当地连夜开会",
   "各位都什么原因没买一艘呢",
-  "男群演疑似猥亵女演员剧组回应"
+  "男群演疑似猥亵女演员剧组回应",
+  "中方回应特朗普称不相信中俄在帮伊朗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5655,7 +5669,8 @@
   "e:35岁前策划用5万元的token做出纯ai游戏他说单人能搓原神你认为这是暴论还是": "35岁前策划用5万元的token做出纯AI游戏，他说“单人能搓《原神》”，你认为这是暴论还是预言？",
   "e:央视曝光大棚闲置后当地连夜开会": "央视曝光大棚闲置后当地连夜开会",
   "e:各位都什么原因没买一艘呢": "“各位都什么原因没买一艘呢”",
-  "e:男群演疑似猥亵女演员剧组回应": "男群演疑似猥亵女演员 剧组回应"
+  "e:男群演疑似猥亵女演员剧组回应": "男群演疑似猥亵女演员 剧组回应",
+  "e:中方回应特朗普称不相信中俄在帮伊朗": "中方回应特朗普称不相信中俄在帮伊朗"
  },
  "a_seen": {
   "whyarentaicompaniesbeingchargedforhacking": {
@@ -6467,8 +6482,8 @@
    "title": "黄奇帆被查",
    "rating": "A",
    "score": 46.95,
-   "angle": "从经济人物反腐角度切入，剖析对宏观经济政策及市场信心的潜在影响",
-   "hook_reason": "顶级经济学家落马，反腐风暴再掀波澜",
+   "angle": "从经济政策影响、地方治理风向解读其落马信号",
+   "hook_reason": "前重庆市长、著名经济学家突然被查，反腐重磅信号",
    "url": "https://www.toutiao.com/trending/7696089821101981750/",
    "track": "财经",
    "breaking": true,
@@ -6509,8 +6524,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:weresoftwareengineersbluecollarworkersal"
+  },
+  "太空经济2026年投资有望首次突破千亿美元spacex上市为重要推手": {
+   "key": "太空经济2026年投资有望首次突破千亿美元spacex上市为重要推手",
+   "title": "太空经济2026年投资有望首次突破千亿美元，SpaceX上市为重要推手",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "SpaceX登陆资本市场，万亿太空经济从科幻走向现实，普通人如何分一杯羹？",
+   "hook_reason": "SpaceX上市+千亿太空经济，科技圈最炸裂的消息",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-inivasea0539003.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:太空经济2026年投资有望首次突破千亿美元spacex上市为重要推手"
+  },
+  "上海到2030年小客车电动化率超过40": {
+   "key": "上海到2030年小客车电动化率超过40",
+   "title": "上海：到2030年 小客车电动化率超过40%",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "政策如何改写新能源车市格局、哪些股票受益",
+   "hook_reason": "政策级新能源渗透目标，汽车/锂电/A股联动",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-inivasea0539204.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:上海到2030年小客车电动化率超过40"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
