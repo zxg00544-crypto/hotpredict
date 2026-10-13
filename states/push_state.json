@@ -5013,6 +5013,45 @@
    "breaking": true,
    "event_id": "e:高志凯台海若爆发战争没开战就结束",
    "batch_window": 23
+  },
+  {
+   "key": "马斯克巨额捐款能否帮共和党守住国会",
+   "title": "马斯克巨额捐款能否帮共和党守住国会",
+   "rating": "A",
+   "score": 49.88,
+   "angle": "从普通人视角切入：马斯克巨额捐款背后是富豪操控政治的隐忧，引发身份共鸣",
+   "hook_reason": "全球首富砸钱入局美国大选，草根读者爱看金钱与权力的碰撞",
+   "url": "https://search.bilibili.com/all?keyword=马斯克巨额捐款能否帮共和党守住国会",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:马斯克巨额捐款能否帮共和党守住国会",
+   "batch_window": 23
+  },
+  {
+   "key": "19元汽水收礼事件发生于2023年",
+   "title": "1.9元汽水收礼事件发生于2023年",
+   "rating": "A",
+   "score": 51.9,
+   "angle": "从'旧闻新炒'角度切入，深挖低价营销套路与消费者维权困境",
+   "hook_reason": "1.9元汽水真相曝光，低价套路揭开消费陷阱",
+   "url": "https://www.toutiao.com/trending/7696108126894194715/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:19元汽水收礼事件发生于2023年",
+   "batch_window": 23
+  },
+  {
+   "key": "33岁销冠确诊胃癌晚期后突然被辞退",
+   "title": "33岁销冠确诊胃癌晚期后突然被辞退",
+   "rating": "A",
+   "score": 51.11,
+   "angle": "从劳动者权益视角切入，追问企业用工边界与癌症患者就业歧视问题",
+   "hook_reason": "绝症+职场歧视双重爆点，打工人共情拉满",
+   "url": "https://www.baidu.com/s?wd=33%E5%B2%81%E9%94%80%E5%86%A0%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E5%90%8E%E7%AA%81%E7%84%B6%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:33岁销冠确诊胃癌晚期后突然被辞退",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -6709,13 +6748,49 @@
    "key": "高志凯台海若爆发战争没开战就结束",
    "title": "高志凯：台海若爆发战争没开战就结束",
    "rating": "A",
-   "score": 79.5,
-   "angle": "解读高志凯'未战先终'判断的战略逻辑与信号释放",
-   "hook_reason": "台海战争惊人预测，高志凯重磅表态引爆地缘关注度",
+   "score": 72.9,
+   "angle": "聚焦高志凯金句的前瞻性与争议性，解读其对台海局势的战略预判",
+   "hook_reason": "台海局势+金句预警，直击国民安全焦虑与大国博弈看点",
    "url": "https://www.toutiao.com/trending/7696116438790438955/",
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:高志凯台海若爆发战争没开战就结束"
+  },
+  "马斯克巨额捐款能否帮共和党守住国会": {
+   "key": "马斯克巨额捐款能否帮共和党守住国会",
+   "title": "马斯克巨额捐款能否帮共和党守住国会",
+   "rating": "A",
+   "score": 49.88,
+   "angle": "从普通人视角切入：马斯克巨额捐款背后是富豪操控政治的隐忧，引发身份共鸣",
+   "hook_reason": "全球首富砸钱入局美国大选，草根读者爱看金钱与权力的碰撞",
+   "url": "https://search.bilibili.com/all?keyword=马斯克巨额捐款能否帮共和党守住国会",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:马斯克巨额捐款能否帮共和党守住国会"
+  },
+  "19元汽水收礼事件发生于2023年": {
+   "key": "19元汽水收礼事件发生于2023年",
+   "title": "1.9元汽水收礼事件发生于2023年",
+   "rating": "A",
+   "score": 51.9,
+   "angle": "从'旧闻新炒'角度切入，深挖低价营销套路与消费者维权困境",
+   "hook_reason": "1.9元汽水真相曝光，低价套路揭开消费陷阱",
+   "url": "https://www.toutiao.com/trending/7696108126894194715/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:19元汽水收礼事件发生于2023年"
+  },
+  "33岁销冠确诊胃癌晚期后突然被辞退": {
+   "key": "33岁销冠确诊胃癌晚期后突然被辞退",
+   "title": "33岁销冠确诊胃癌晚期后突然被辞退",
+   "rating": "A",
+   "score": 51.11,
+   "angle": "从劳动者权益视角切入，追问企业用工边界与癌症患者就业歧视问题",
+   "hook_reason": "绝症+职场歧视双重爆点，打工人共情拉满",
+   "url": "https://www.baidu.com/s?wd=33%E5%B2%81%E9%94%80%E5%86%A0%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E5%90%8E%E7%AA%81%E7%84%B6%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:33岁销冠确诊胃癌晚期后突然被辞退"
   }
  },
  "breaking_count": 10,
