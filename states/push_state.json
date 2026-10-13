@@ -5041,17 +5041,30 @@
    "batch_window": 3
   },
   {
-   "key": "ai批量造星真人明星还有何价值",
-   "title": "AI批量造星 真人明星还有何价值",
+   "key": "ledgerconfirmsspychipimplantbehi3954b582",
+   "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
    "rating": "A",
-   "score": 89.8,
-   "angle": "从打工人视角切入：AI批量生产'完美明星'，背后是娱乐工业对真人劳动力的替代焦虑",
-   "hook_reason": "AI取代真人明星？打工人共鸣+娱乐圈身份焦虑双重刺激",
-   "url": "https://www.baidu.com/s?wd=AI%E6%89%B9%E9%87%8F%E9%80%A0%E6%98%9F+%E7%9C%9F%E4%BA%BA%E6%98%8E%E6%98%9F%E8%BF%98%E6%9C%89%E4%BD%95%E4%BB%B7%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
+   "score": 40.85,
+   "angle": "Ledger确认硬件钱包被植入间谍芯片致盗币，加密资产安全底线再遭重创，从业者需紧急自查资产风险",
+   "hook_reason": "硬件钱包竟被植入间谍芯片，加密资产安全信任崩塌",
+   "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:ledgerconfirmsspychipimplantbehindwallet",
+   "batch_window": 4
+  },
+  {
+   "key": "茶百道ipo疑遭操纵被停牌有啥后果",
+   "title": "茶百道IPO疑遭操纵被停牌 有啥后果",
+   "rating": "A",
+   "score": 87.1,
+   "angle": "从茶百道IPO操纵嫌疑切入，分析涉事企业、中介、监管三方博弈格局及后续连锁反应",
+   "hook_reason": "新消费品牌IPO疑遭操纵停牌，资本圈热议后果",
+   "url": "https://www.baidu.com/s?wd=%E8%8C%B6%E7%99%BE%E9%81%93IPO%E7%96%91%E9%81%AD%E6%93%8D%E7%BA%B5%E8%A2%AB%E5%81%9C%E7%89%8C+%E6%9C%89%E5%95%A5%E5%90%8E%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
    "breaking": false,
-   "event_id": "e:ai批量造星真人明星还有何价值",
-   "batch_window": 3
+   "event_id": "e:茶百道ipo疑遭操纵被停牌有啥后果",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -5456,7 +5469,8 @@
   "ipostedtohnandthenmywebsitewasfldb9fb672",
   "很高兴向大家汇报2026年9月蔚来全新es8零售销量10539台蝉联40万级车型市场月度",
   "ai改变世界我们的生活被彻底颠覆我预测未来35年ai将彻底改变世界满大街跑的都是自动",
-  "刚刚meta最强旗舰多项屠榜智能水平仅落后opus55两分网页链接网页链接"
+  "刚刚meta最强旗舰多项屠榜智能水平仅落后opus55两分网页链接网页链接",
+  "ai批量造星真人明星还有何价值"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5797,7 +5811,8 @@
   "e:ipostedtohnandthenmywebsitewasfloodedwit": "I posted to HN, and then my website was flooded with AI bot traffic",
   "e:很高兴向大家汇报2026年9月蔚来全新es8零售销量10539台蝉联40万级车型": "很高兴向大家汇报，2026年9月，蔚来全新ES8零售销量10,539台，蝉联40万级车型市场月度",
   "e:ai改变世界我们的生活被彻底颠覆我预测未来35年ai将彻底改变世界满大街跑的都是": "AI改变世界，我们的生活被彻底颠覆 我预测未来3-5年，AI将彻底改变世界： 满大街跑的都是自动",
-  "e:刚刚meta最强旗舰多项屠榜智能水平仅落后opus55两分网页链接网页链接": "刚刚，Meta最强旗舰多项屠榜！智能水平仅落后Opus 5.5两分 网页链接 网页链接"
+  "e:刚刚meta最强旗舰多项屠榜智能水平仅落后opus55两分网页链接网页链接": "刚刚，Meta最强旗舰多项屠榜！智能水平仅落后Opus 5.5两分 网页链接 网页链接",
+  "e:ai批量造星真人明星还有何价值": "AI批量造星 真人明星还有何价值"
  },
  "a_seen": {
   "王星被胁迫借下的网贷该不该还": {
@@ -5924,9 +5939,9 @@
    "key": "19元汽水收礼事件发生于2023年",
    "title": "1.9元汽水收礼事件发生于2023年",
    "rating": "A",
-   "score": 92.5,
-   "angle": "从送礼文化切入，探讨礼轻情意重vs面子焦虑，引发全民共鸣",
-   "hook_reason": "1.9元汽水当礼物引热议，戳中人情世故痛点",
+   "score": 90.5,
+   "angle": "从'高价礼品'到'1.9元汽水'的社会反转切入，探讨年轻人消费降级背后的情感真实性与社会心态",
+   "hook_reason": "1.9元汽水成热门礼物，折射当代人消费观与情感表达方式转变",
    "url": "https://www.toutiao.com/trending/7696108126894194715/",
    "track": "社会热点",
    "breaking": false,
@@ -5955,8 +5970,32 @@
    "track": "社会热点",
    "breaking": false,
    "event_id": "e:ai批量造星真人明星还有何价值"
+  },
+  "ledgerconfirmsspychipimplantbehi3954b582": {
+   "key": "ledgerconfirmsspychipimplantbehi3954b582",
+   "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "Ledger确认硬件钱包被植入间谍芯片致盗币，加密资产安全底线再遭重创，从业者需紧急自查资产风险",
+   "hook_reason": "硬件钱包竟被植入间谍芯片，加密资产安全信任崩塌",
+   "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:ledgerconfirmsspychipimplantbehindwallet"
+  },
+  "茶百道ipo疑遭操纵被停牌有啥后果": {
+   "key": "茶百道ipo疑遭操纵被停牌有啥后果",
+   "title": "茶百道IPO疑遭操纵被停牌 有啥后果",
+   "rating": "A",
+   "score": 87.1,
+   "angle": "从茶百道IPO操纵嫌疑切入，分析涉事企业、中介、监管三方博弈格局及后续连锁反应",
+   "hook_reason": "新消费品牌IPO疑遭操纵停牌，资本圈热议后果",
+   "url": "https://www.baidu.com/s?wd=%E8%8C%B6%E7%99%BE%E9%81%93IPO%E7%96%91%E9%81%AD%E6%93%8D%E7%BA%B5%E8%A2%AB%E5%81%9C%E7%89%8C+%E6%9C%89%E5%95%A5%E5%90%8E%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:茶百道ipo疑遭操纵被停牌有啥后果"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
