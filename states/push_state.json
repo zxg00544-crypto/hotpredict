@@ -4885,19 +4885,6 @@
    "batch_window": 16
   },
   {
-   "key": "居民投诉月亮太亮影响睡觉白岩松回应",
-   "title": "居民投诉月亮太亮影响睡觉白岩松回应",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "白岩松如何幽默接招荒诞投诉，折射当代人睡眠焦虑与公共话语场生态",
-   "hook_reason": "荒诞投诉+权威回应，反差感拉满，吃瓜欲望强",
-   "url": "https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%8A%95%E8%AF%89%E6%9C%88%E4%BA%AE%E5%A4%AA%E4%BA%AE%E5%BD%B1%E5%93%8D%E7%9D%A1%E8%A7%89%E7%99%BD%E5%B2%A9%E6%9D%BE%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:居民投诉月亮太亮影响睡觉白岩松回应",
-   "batch_window": 17
-  },
-  {
    "key": "黄奇帆被查",
    "title": "黄奇帆被查",
    "rating": "A",
@@ -4961,6 +4948,45 @@
    "breaking": true,
    "event_id": "e:上海到2030年小客车电动化率超过40",
    "batch_window": 19
+  },
+  {
+   "key": "cftcstaffweretoldtoretractanalysf6b05680",
+   "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "从CFTC监管独立性危机切入，深挖政治势力干预石油交易审查的内幕与潜在市场影响",
+   "hook_reason": "监管独立性遭政治干预，伊朗石油调查被强行撤回",
+   "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:cftcstaffweretoldtoretractanalysisofsusp",
+   "batch_window": 20
+  },
+  {
+   "key": "11yearoldunsoundnessbugsfoundinrustborrowchecker",
+   "title": "11 year old unsoundness bugs found in Rust borrow checker",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从系统性风险角度切入，探讨Rust语言安全承诺的真实性及技术债务的隐性成本",
+   "hook_reason": "Rust语言重大漏洞：11年未被发现的借用检查器缺陷，引发开发者社区震动",
+   "url": "https://github.com/rust-lang/rust/issues/164250",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:11yearoldunsoundnessbugsfoundinrustborro",
+   "batch_window": 20
+  },
+  {
+   "key": "习近平出席全国卫生与健康大会",
+   "title": "习近平出席全国卫生与健康大会",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从卫生健康大会解读政策信号，关注医改、医保、公共卫生等领域最新动向",
+   "hook_reason": "国家领导人出席全国卫生与健康大会，涉及民生健康政策方向",
+   "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E5%85%A8%E5%9B%BD%E5%8D%AB%E7%94%9F%E4%B8%8E%E5%81%A5%E5%BA%B7%E5%A4%A7%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:习近平出席全国卫生与健康大会",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -5347,7 +5373,8 @@
   "央视曝光大棚闲置后当地连夜开会",
   "各位都什么原因没买一艘呢",
   "男群演疑似猥亵女演员剧组回应",
-  "中方回应特朗普称不相信中俄在帮伊朗"
+  "中方回应特朗普称不相信中俄在帮伊朗",
+  "居民投诉月亮太亮影响睡觉白岩松回应"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5670,7 +5697,8 @@
   "e:央视曝光大棚闲置后当地连夜开会": "央视曝光大棚闲置后当地连夜开会",
   "e:各位都什么原因没买一艘呢": "“各位都什么原因没买一艘呢”",
   "e:男群演疑似猥亵女演员剧组回应": "男群演疑似猥亵女演员 剧组回应",
-  "e:中方回应特朗普称不相信中俄在帮伊朗": "中方回应特朗普称不相信中俄在帮伊朗"
+  "e:中方回应特朗普称不相信中俄在帮伊朗": "中方回应特朗普称不相信中俄在帮伊朗",
+  "e:居民投诉月亮太亮影响睡觉白岩松回应": "居民投诉月亮太亮影响睡觉白岩松回应"
  },
  "a_seen": {
   "whyarentaicompaniesbeingchargedforhacking": {
@@ -6482,10 +6510,10 @@
    "title": "黄奇帆被查",
    "rating": "A",
    "score": 46.95,
-   "angle": "从经济政策影响、地方治理风向解读其落马信号",
-   "hook_reason": "前重庆市长、著名经济学家突然被查，反腐重磅信号",
+   "angle": "从黄奇帆的公开表态反推政策风向，解读被查背后的经济信号",
+   "hook_reason": "经济大佬落马信号，读者关心风向变化",
    "url": "https://www.toutiao.com/trending/7696089821101981750/",
-   "track": "财经",
+   "track": "大咖发言",
    "breaking": true,
    "event_id": "e:黄奇帆被查"
   },
@@ -6548,8 +6576,44 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:上海到2030年小客车电动化率超过40"
+  },
+  "cftcstaffweretoldtoretractanalysf6b05680": {
+   "key": "cftcstaffweretoldtoretractanalysf6b05680",
+   "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "从CFTC监管独立性危机切入，深挖政治势力干预石油交易审查的内幕与潜在市场影响",
+   "hook_reason": "监管独立性遭政治干预，伊朗石油调查被强行撤回",
+   "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:cftcstaffweretoldtoretractanalysisofsusp"
+  },
+  "11yearoldunsoundnessbugsfoundinrustborrowchecker": {
+   "key": "11yearoldunsoundnessbugsfoundinrustborrowchecker",
+   "title": "11 year old unsoundness bugs found in Rust borrow checker",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从系统性风险角度切入，探讨Rust语言安全承诺的真实性及技术债务的隐性成本",
+   "hook_reason": "Rust语言重大漏洞：11年未被发现的借用检查器缺陷，引发开发者社区震动",
+   "url": "https://github.com/rust-lang/rust/issues/164250",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:11yearoldunsoundnessbugsfoundinrustborro"
+  },
+  "习近平出席全国卫生与健康大会": {
+   "key": "习近平出席全国卫生与健康大会",
+   "title": "习近平出席全国卫生与健康大会",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从卫生健康大会解读政策信号，关注医改、医保、公共卫生等领域最新动向",
+   "hook_reason": "国家领导人出席全国卫生与健康大会，涉及民生健康政策方向",
+   "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E5%85%A8%E5%9B%BD%E5%8D%AB%E7%94%9F%E4%B8%8E%E5%81%A5%E5%BA%B7%E5%A4%A7%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:习近平出席全国卫生与健康大会"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
