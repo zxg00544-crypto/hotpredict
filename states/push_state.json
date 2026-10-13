@@ -5052,19 +5052,6 @@
    "breaking": true,
    "event_id": "e:ledgerconfirmsspychipimplantbehindwallet",
    "batch_window": 4
-  },
-  {
-   "key": "茶百道ipo疑遭操纵被停牌有啥后果",
-   "title": "茶百道IPO疑遭操纵被停牌 有啥后果",
-   "rating": "A",
-   "score": 87.1,
-   "angle": "从茶百道IPO操纵嫌疑切入，分析涉事企业、中介、监管三方博弈格局及后续连锁反应",
-   "hook_reason": "新消费品牌IPO疑遭操纵停牌，资本圈热议后果",
-   "url": "https://www.baidu.com/s?wd=%E8%8C%B6%E7%99%BE%E9%81%93IPO%E7%96%91%E9%81%AD%E6%93%8D%E7%BA%B5%E8%A2%AB%E5%81%9C%E7%89%8C+%E6%9C%89%E5%95%A5%E5%90%8E%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "财经",
-   "breaking": false,
-   "event_id": "e:茶百道ipo疑遭操纵被停牌有啥后果",
-   "batch_window": 4
   }
  ],
  "pushed": [
@@ -5470,7 +5457,8 @@
   "很高兴向大家汇报2026年9月蔚来全新es8零售销量10539台蝉联40万级车型市场月度",
   "ai改变世界我们的生活被彻底颠覆我预测未来35年ai将彻底改变世界满大街跑的都是自动",
   "刚刚meta最强旗舰多项屠榜智能水平仅落后opus55两分网页链接网页链接",
-  "ai批量造星真人明星还有何价值"
+  "ai批量造星真人明星还有何价值",
+  "茶百道ipo疑遭操纵被停牌有啥后果"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5812,7 +5800,8 @@
   "e:很高兴向大家汇报2026年9月蔚来全新es8零售销量10539台蝉联40万级车型": "很高兴向大家汇报，2026年9月，蔚来全新ES8零售销量10,539台，蝉联40万级车型市场月度",
   "e:ai改变世界我们的生活被彻底颠覆我预测未来35年ai将彻底改变世界满大街跑的都是": "AI改变世界，我们的生活被彻底颠覆 我预测未来3-5年，AI将彻底改变世界： 满大街跑的都是自动",
   "e:刚刚meta最强旗舰多项屠榜智能水平仅落后opus55两分网页链接网页链接": "刚刚，Meta最强旗舰多项屠榜！智能水平仅落后Opus 5.5两分 网页链接 网页链接",
-  "e:ai批量造星真人明星还有何价值": "AI批量造星 真人明星还有何价值"
+  "e:ai批量造星真人明星还有何价值": "AI批量造星 真人明星还有何价值",
+  "e:茶百道ipo疑遭操纵被停牌有啥后果": "茶百道IPO疑遭操纵被停牌 有啥后果"
  },
  "a_seen": {
   "王星被胁迫借下的网贷该不该还": {
@@ -5975,11 +5964,11 @@
    "key": "ledgerconfirmsspychipimplantbehi3954b582",
    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
    "rating": "A",
-   "score": 40.85,
-   "angle": "Ledger确认硬件钱包被植入间谍芯片致盗币，加密资产安全底线再遭重创，从业者需紧急自查资产风险",
-   "hook_reason": "硬件钱包竟被植入间谍芯片，加密资产安全信任崩塌",
+   "score": 69.6,
+   "angle": "Ledger供应链安全漏洞深度解析， crypto用户如何自检与防护",
+   "hook_reason": "硬件钱包竟被植间谍芯片？你的加密资产安全吗？",
    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-   "track": "财经",
+   "track": "科技",
    "breaking": true,
    "event_id": "e:ledgerconfirmsspychipimplantbehindwallet"
   },
@@ -5997,5 +5986,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
