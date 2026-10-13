@@ -4729,19 +4729,6 @@
    "batch_window": 13
   },
   {
-   "key": "很高兴向大家汇报2026年9月蔚来全新es8零售销量10539台蝉联40万级车型市场月度",
-   "title": "很高兴向大家汇报，2026年9月，蔚来全新ES8零售销量10,539台，蝉联40万级车型市场月度",
-   "rating": "A",
-   "score": 84.95,
-   "angle": "从蔚来ES8破万切入，剖析新势力高端化突围战与国产替代BBA的进程",
-   "hook_reason": "国产40万级车销量破万，打脸'买国产丢人'偏见",
-   "url": "https://weibo.com/1679013335/RmsgV6eDD",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:很高兴向大家汇报2026年9月蔚来全新es8零售销量10539台蝉联40万级车型",
-   "batch_window": 13
-  },
-  {
    "key": "yu7gt这台原汁原味的纯血gt开过才知道媒体老师们试驾后给了很高的评价小米汽车",
    "title": "YU7 GT，这台原汁原味的纯血GT，开过才知道。 媒体老师们试驾后，给了很高的评价。 小米汽车",
    "rating": "A",
@@ -5026,6 +5013,19 @@
    "breaking": true,
    "event_id": "e:33岁销冠确诊胃癌晚期后突然被辞退",
    "batch_window": 23
+  },
+  {
+   "key": "一男子在悬空寺古建筑横梁做引体向上警方已立案涉事者将承担哪些责任",
+   "title": "一男子在悬空寺古建筑横梁做引体向上，警方已立案，涉事者将承担哪些责任？",
+   "rating": "A",
+   "score": 43.75,
+   "angle": "从法律责任切入，科普故意损毁文物的法律后果与公共道德边界",
+   "hook_reason": "悬空寺横梁做引体向上被立案，游客这种行为要负什么责？",
+   "url": "https://www.zhihu.com/question/2093390624560871266",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:一男子在悬空寺古建筑横梁做引体向上警方已立案涉事者将承担哪些责任",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -5426,7 +5426,9 @@
   "谷歌gemini4argon现已通过付费geminiapi以及谷歌a",
   "meta更新了三点菜单可更便捷地使用这些自定义工具",
   "老人凌晨下地干活被气枪击中身亡持气枪打猎合法吗案件还有哪些疑点待查涉事人员将承担什么法律责任",
-  "大家对小米18pro系列的影像有什么反馈"
+  "大家对小米18pro系列的影像有什么反馈",
+  "ipostedtohnandthenmywebsitewasfldb9fb672",
+  "很高兴向大家汇报2026年9月蔚来全新es8零售销量10539台蝉联40万级车型市场月度"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5763,7 +5765,9 @@
   "e:谷歌gemini4argon现已通过付费geminiapi以及谷歌a": "谷歌：Gemini 4 Argon现已通过付费 Gemini API 以及谷歌A",
   "e:meta更新了三点菜单可更便捷地使用这些自定义工具": "Meta更新了三点菜单，可更便捷地使用这些自定义工具。",
   "e:老人凌晨下地干活被气枪击中身亡持气枪打猎合法吗案件还有哪些疑点待查涉事人员将承担": "老人凌晨下地干活被气枪击中身亡，持气枪打猎合法吗？案件还有哪些疑点待查？涉事人员将承担什么法律责任？",
-  "e:大家对小米18pro系列的影像有什么反馈": "大家对 #小米18Pro系列# 的影像，有什么反馈？"
+  "e:大家对小米18pro系列的影像有什么反馈": "大家对 #小米18Pro系列# 的影像，有什么反馈？",
+  "e:ipostedtohnandthenmywebsitewasfloodedwit": "I posted to HN, and then my website was flooded with AI bot traffic",
+  "e:很高兴向大家汇报2026年9月蔚来全新es8零售销量10539台蝉联40万级车型": "很高兴向大家汇报，2026年9月，蔚来全新ES8零售销量10,539台，蝉联40万级车型市场月度"
  },
  "a_seen": {
   "王星被胁迫借下的网贷该不该还": {
@@ -5782,9 +5786,9 @@
    "key": "thunderbirdforios",
    "title": "Thunderbird for iOS",
    "rating": "A",
-   "score": 78.0,
-   "angle": "从桌面到手机，Mozilla用Thunderbird iOS证明开源邮件客户端的最后一块拼图补齐",
-   "hook_reason": "老牌桌面软件杀入移动端，Mozilla再出大招",
+   "score": 76.5,
+   "angle": "Mozilla系产品进军iOS生态的战略意义，以及开源软件移动端化的行业趋势",
+   "hook_reason": "知名开源邮件客户端首登iOS，老牌产品移动端突围引发关注",
    "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
    "track": "科技",
    "breaking": true,
@@ -5818,15 +5822,51 @@
    "key": "老人凌晨下地干活被气枪击中身亡持气枪打猎合法吗案件还有哪些疑点待查涉事人员将承担什么法律责任",
    "title": "老人凌晨下地干活被气枪击中身亡，持气枪打猎合法吗？案件还有哪些疑点待查？涉事人员将承担什么法律责任？",
    "rating": "A",
-   "score": 43.8,
-   "angle": "气枪管理法漏洞与农村安全治理困境，联动公众对",
-   "hook_reason": "气枪合法边界+老人惨死，触碰全民安全焦虑",
+   "score": 80.0,
+   "angle": "从气枪管理漏洞与农村夜间作业安全切入，追问法律边界与人性关怀",
+   "hook_reason": "老人凌晨劳作身亡，气枪打猎合法性引争议，触及民生安全痛点",
    "url": "https://www.zhihu.com/question/2093446305422862227",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:老人凌晨下地干活被气枪击中身亡持气枪打猎合法吗案件还有哪些疑点待查涉事人员将承担"
+  },
+  "ipostedtohnandthenmywebsitewasfldb9fb672": {
+   "key": "ipostedtohnandthenmywebsitewasfldb9fb672",
+   "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "从创业者视角切入，探讨AI公司爬取内容引发的版权与流量争议，延伸到创作者如何防御AI爬虫",
+   "hook_reason": "AI爬虫正在吃掉普通创作者的内容，个人网站变成AI公司的免费数据源",
+   "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ipostedtohnandthenmywebsitewasfloodedwit"
+  },
+  "gemini4argon": {
+   "key": "gemini4argon",
+   "title": "Gemini 4 Argon",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "深度拆解Gemini 4 Argon核心参数与Benchmark，对比GPT-5/Olympus定位差异，预判大厂AI军备赛下一步",
+   "hook_reason": "Google最新AI模型登顶热议，性能对比成焦点",
+   "url": "https://deepmind.google/models/gemini/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:谷歌gemini15pro代号argon可通过付费geminia"
+  },
+  "一男子在悬空寺古建筑横梁做引体向上警方已立案涉事者将承担哪些责任": {
+   "key": "一男子在悬空寺古建筑横梁做引体向上警方已立案涉事者将承担哪些责任",
+   "title": "一男子在悬空寺古建筑横梁做引体向上，警方已立案，涉事者将承担哪些责任？",
+   "rating": "A",
+   "score": 43.75,
+   "angle": "从法律责任切入，科普故意损毁文物的法律后果与公共道德边界",
+   "hook_reason": "悬空寺横梁做引体向上被立案，游客这种行为要负什么责？",
+   "url": "https://www.zhihu.com/question/2093390624560871266",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:一男子在悬空寺古建筑横梁做引体向上警方已立案涉事者将承担哪些责任"
   }
  },
- "breaking_count": 9,
- "a_pushed_window": 0
+ "breaking_count": 10,
+ "a_pushed_window": 1
 }
