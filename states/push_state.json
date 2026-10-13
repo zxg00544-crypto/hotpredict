@@ -5093,17 +5093,17 @@
    "batch_window": 6
   },
   {
-   "key": "中国为何主动砍新能源车出口退税",
-   "title": "中国为何主动砍新能源车出口退税",
+   "key": "z114次列车成候鸟老人迁徙核心通道",
+   "title": "Z114次列车成候鸟老人迁徙核心通道",
    "rating": "A",
-   "score": 85.5,
-   "angle": "从政策转向切入，分析退税取消对新能源车企利润表和出海格局的深层影响",
-   "hook_reason": "国家主动退坡直接冲击新能源车企利润，牵动出海战略",
-   "url": "https://www.toutiao.com/trending/7696114788773924371/",
-   "track": "财经",
+   "score": 88.0,
+   "angle": "从Z114次列车切入，讲述候鸟老人的迁徙故事，折射中国养老模式变迁与代际温情",
+   "hook_reason": "候鸟老人跨越千里的温暖故事，触动老龄化社会全民共鸣",
+   "url": "https://www.toutiao.com/trending/7695746670344781875/",
+   "track": "社会热点",
    "breaking": false,
-   "event_id": "e:中国为何主动砍新能源车出口退税",
-   "batch_window": 6
+   "event_id": "e:z114次列车成候鸟老人迁徙核心通道",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -5511,7 +5511,8 @@
   "刚刚meta最强旗舰多项屠榜智能水平仅落后opus55两分网页链接网页链接",
   "ai批量造星真人明星还有何价值",
   "茶百道ipo疑遭操纵被停牌有啥后果",
-  "gt源于意大利语granturismo译为伟大旅程小米yu7gt为热爱驾驶的人"
+  "gt源于意大利语granturismo译为伟大旅程小米yu7gt为热爱驾驶的人",
+  "中国为何主动砍新能源车出口退税"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5855,7 +5856,8 @@
   "e:刚刚meta最强旗舰多项屠榜智能水平仅落后opus55两分网页链接网页链接": "刚刚，Meta最强旗舰多项屠榜！智能水平仅落后Opus 5.5两分 网页链接 网页链接",
   "e:ai批量造星真人明星还有何价值": "AI批量造星 真人明星还有何价值",
   "e:茶百道ipo疑遭操纵被停牌有啥后果": "茶百道IPO疑遭操纵被停牌 有啥后果",
-  "e:gt源于意大利语granturismo译为伟大旅程小米yu7gt为热爱驾驶的人": "GT，源于意大利语Gran Turismo，译为“伟大旅程”。 小米YU7 GT，为热爱驾驶的人"
+  "e:gt源于意大利语granturismo译为伟大旅程小米yu7gt为热爱驾驶的人": "GT，源于意大利语Gran Turismo，译为“伟大旅程”。 小米YU7 GT，为热爱驾驶的人",
+  "e:中国为何主动砍新能源车出口退税": "中国为何主动砍新能源车出口退税"
  },
  "a_seen": {
   "王星被胁迫借下的网贷该不该还": {
@@ -6066,9 +6068,9 @@
    "key": "openaiengineerarrestedinbuggingoe9d027a3",
    "title": "OpenAI engineer arrested in bugging of executive conference room",
    "rating": "A",
-   "score": 40.9,
-   "angle": "从科技巨头内部权力斗争切入，折射AI行业竞争白热化下的道德失范",
-   "hook_reason": "AI巨头内部惊现窃听案，OpenAI高管层暗斗曝光",
+   "score": 76.5,
+   "angle": "从OpenAI工程师监控高管事件切入，探讨AI公司权力结构、员工伦理边界与科技圈隐私危机",
+   "hook_reason": "OpenAI内部窃听丑闻，科技巨头隐私与伦理双重冲击",
    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
    "track": "科技",
    "breaking": true,
@@ -6097,8 +6099,20 @@
    "track": "财经",
    "breaking": false,
    "event_id": "e:中国为何主动砍新能源车出口退税"
+  },
+  "z114次列车成候鸟老人迁徙核心通道": {
+   "key": "z114次列车成候鸟老人迁徙核心通道",
+   "title": "Z114次列车成候鸟老人迁徙核心通道",
+   "rating": "A",
+   "score": 88.0,
+   "angle": "从Z114次列车切入，讲述候鸟老人的迁徙故事，折射中国养老模式变迁与代际温情",
+   "hook_reason": "候鸟老人跨越千里的温暖故事，触动老龄化社会全民共鸣",
+   "url": "https://www.toutiao.com/trending/7695746670344781875/",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:z114次列车成候鸟老人迁徙核心通道"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
