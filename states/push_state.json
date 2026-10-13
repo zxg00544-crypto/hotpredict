@@ -4898,19 +4898,6 @@
    "batch_window": 16
   },
   {
-   "key": "男群演疑似猥亵女演员剧组回应",
-   "title": "男群演疑似猥亵女演员 剧组回应",
-   "rating": "A",
-   "score": 98.0,
-   "angle": "从娱乐圈女性权益与群演生存现状切入，透视行业权力不对等与潜规则困境",
-   "hook_reason": "影视圈性骚扰疑云，群演vs女演员身份反差引爆情绪",
-   "url": "https://www.toutiao.com/trending/7695955690120691750/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:男群演疑似猥亵女演员剧组回应",
-   "batch_window": 17
-  },
-  {
    "key": "居民投诉月亮太亮影响睡觉白岩松回应",
    "title": "居民投诉月亮太亮影响睡觉白岩松回应",
    "rating": "A",
@@ -4922,6 +4909,45 @@
    "breaking": true,
    "event_id": "e:居民投诉月亮太亮影响睡觉白岩松回应",
    "batch_window": 17
+  },
+  {
+   "key": "黄奇帆被查",
+   "title": "黄奇帆被查",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从经济人物反腐角度切入，剖析对宏观经济政策及市场信心的潜在影响",
+   "hook_reason": "顶级经济学家落马，反腐风暴再掀波澜",
+   "url": "https://www.toutiao.com/trending/7696089821101981750/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:黄奇帆被查",
+   "batch_window": 18
+  },
+  {
+   "key": "贝莱德将收购wcas持有的股权估值28亿美元",
+   "title": "贝莱德将收购WCAS持有的股权，估值28亿美元。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "拆解贝莱德收购逻辑：是抄底中国资产信号，还是布局新兴产业？28亿背后的财富密码",
+   "hook_reason": "全球最大资管巨头出手28亿，背后战略意图悬念强",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-inivasea0472685.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:贝莱德将收购wcas持有的股权估值28亿美元",
+   "batch_window": 18
+  },
+  {
+   "key": "weresoftwareengineersbluecollarworkersallalong",
+   "title": "Were Software Engineers blue-collar workers all along?",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从职业身份认同切入，探讨互联网高薪光环褪去后，工程师群体的自我定位焦虑与行业认知重构",
+   "hook_reason": "程序员集体破防：我们到底是金领还是蓝领？身份危机引发强烈共鸣",
+   "url": "https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:weresoftwareengineersbluecollarworkersal",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -5306,7 +5332,8 @@
   "2027国考明天开始报名",
   "35岁前策划用5万元的token做出纯ai游戏他说单人能搓原神你认为这是暴论还是预言",
   "央视曝光大棚闲置后当地连夜开会",
-  "各位都什么原因没买一艘呢"
+  "各位都什么原因没买一艘呢",
+  "男群演疑似猥亵女演员剧组回应"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5627,7 +5654,8 @@
   "e:2027国考明天开始报名": "2027国考明天开始报名",
   "e:35岁前策划用5万元的token做出纯ai游戏他说单人能搓原神你认为这是暴论还是": "35岁前策划用5万元的token做出纯AI游戏，他说“单人能搓《原神》”，你认为这是暴论还是预言？",
   "e:央视曝光大棚闲置后当地连夜开会": "央视曝光大棚闲置后当地连夜开会",
-  "e:各位都什么原因没买一艘呢": "“各位都什么原因没买一艘呢”"
+  "e:各位都什么原因没买一艘呢": "“各位都什么原因没买一艘呢”",
+  "e:男群演疑似猥亵女演员剧组回应": "男群演疑似猥亵女演员 剧组回应"
  },
  "a_seen": {
   "whyarentaicompaniesbeingchargedforhacking": {
@@ -6433,8 +6461,56 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:居民投诉月亮太亮影响睡觉白岩松回应"
+  },
+  "黄奇帆被查": {
+   "key": "黄奇帆被查",
+   "title": "黄奇帆被查",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从经济人物反腐角度切入，剖析对宏观经济政策及市场信心的潜在影响",
+   "hook_reason": "顶级经济学家落马，反腐风暴再掀波澜",
+   "url": "https://www.toutiao.com/trending/7696089821101981750/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:黄奇帆被查"
+  },
+  "重庆市原市长黄奇帆被查": {
+   "key": "重庆市原市长黄奇帆被查",
+   "title": "重庆市原市长黄奇帆被查",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从财经大佬到被查官员的身份转变，剖析反腐风暴下的政商边界",
+   "hook_reason": "前高官落马，政治反腐+财经名人双重身份引爆关注",
+   "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%B8%82%E5%8E%9F%E5%B8%82%E9%95%BF%E9%BB%84%E5%A5%87%E5%B8%86%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:黄奇帆被查"
+  },
+  "贝莱德将收购wcas持有的股权估值28亿美元": {
+   "key": "贝莱德将收购wcas持有的股权估值28亿美元",
+   "title": "贝莱德将收购WCAS持有的股权，估值28亿美元。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "拆解贝莱德收购逻辑：是抄底中国资产信号，还是布局新兴产业？28亿背后的财富密码",
+   "hook_reason": "全球最大资管巨头出手28亿，背后战略意图悬念强",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-inivasea0472685.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:贝莱德将收购wcas持有的股权估值28亿美元"
+  },
+  "weresoftwareengineersbluecollarworkersallalong": {
+   "key": "weresoftwareengineersbluecollarworkersallalong",
+   "title": "Were Software Engineers blue-collar workers all along?",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从职业身份认同切入，探讨互联网高薪光环褪去后，工程师群体的自我定位焦虑与行业认知重构",
+   "hook_reason": "程序员集体破防：我们到底是金领还是蓝领？身份危机引发强烈共鸣",
+   "url": "https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:weresoftwareengineersbluecollarworkersal"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
