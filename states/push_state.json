@@ -4807,19 +4807,6 @@
    "batch_window": 14
   },
   {
-   "key": "threatofaisharecrashputsworldfin2aa56ddd",
-   "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-   "rating": "A",
-   "score": 86.0,
-   "angle": "从宏观金融风险视角切入，解析AI估值泡沫化与IMF预警的逻辑链条，关联A股相关标的",
-   "hook_reason": "IMF首次警告AI泡沫威胁全球金融稳定，引发系统性风险担忧",
-   "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:threatofaisharecrashputsworldfinancialst",
-   "batch_window": 15
-  },
-  {
    "key": "开回家的路上风都是甜的能给车主们带来这样的幸福我们所有小米人都非常开心我们会更努力",
    "title": "“开回家的路上风都是甜的”。能给车主们带来这样的幸福，我们所有小米人都非常开心，我们会更努力！",
    "rating": "A",
@@ -5013,6 +5000,19 @@
    "breaking": true,
    "event_id": "e:如何看待andrejkarpathy提出ai能力认知漏斗少数专业人士已开始有眩晕",
    "batch_window": 22
+  },
+  {
+   "key": "高志凯台海若爆发战争没开战就结束",
+   "title": "高志凯：台海若爆发战争没开战就结束",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "解读高志凯'未战先终'判断的战略逻辑与信号释放",
+   "hook_reason": "台海战争惊人预测，高志凯重磅表态引爆地缘关注度",
+   "url": "https://www.toutiao.com/trending/7696116438790438955/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:高志凯台海若爆发战争没开战就结束",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -5402,7 +5402,8 @@
   "中方回应特朗普称不相信中俄在帮伊朗",
   "居民投诉月亮太亮影响睡觉白岩松回应",
   "雅思主办方致歉",
-  "黄奇帆一个月前还曾公开露面"
+  "黄奇帆一个月前还曾公开露面",
+  "threatofaisharecrashputsworldfin2aa56ddd"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5728,7 +5729,8 @@
   "e:中方回应特朗普称不相信中俄在帮伊朗": "中方回应特朗普称不相信中俄在帮伊朗",
   "e:居民投诉月亮太亮影响睡觉白岩松回应": "居民投诉月亮太亮影响睡觉白岩松回应",
   "e:雅思主办方致歉": "雅思主办方致歉",
-  "e:黄奇帆一个月前还曾公开露面": "黄奇帆一个月前还曾公开露面"
+  "e:黄奇帆一个月前还曾公开露面": "黄奇帆一个月前还曾公开露面",
+  "e:threatofaisharecrashputsworldfinancialst": "Threat of AI share crash puts world financial stability at risk, says IMF"
  },
  "a_seen": {
   "whyarentaicompaniesbeingchargedforhacking": {
@@ -6695,15 +6697,27 @@
    "key": "如何看待andrejkarpathy提出ai能力认知漏斗少数专业人士已开始有眩晕感",
    "title": "如何看待Andrej Karpathy提出「AI能力认知漏斗」，少数专业人士已开始有「眩晕感」？",
    "rating": "A",
-   "score": 43.75,
-   "angle": "解读认知漏斗模型，切入AI从业者身份焦虑，预判技术拐点对普通人的认知冲击",
-   "hook_reason": "AI创始人提新概念，专业人士集体眩晕，引发群体焦虑共鸣",
+   "score": 48.55,
+   "angle": "借Karpathy漏斗模型切入，探讨AI能力爆炸下人类认知的滞后与焦虑，引发从业者共鸣",
+   "hook_reason": "AI顶级大咖谈认知极限，专业人士都眩晕，普通人更慌",
    "url": "https://www.zhihu.com/question/2092928330336925348",
    "track": "科技",
    "breaking": true,
    "event_id": "e:如何看待andrejkarpathy提出ai能力认知漏斗少数专业人士已开始有眩晕"
+  },
+  "高志凯台海若爆发战争没开战就结束": {
+   "key": "高志凯台海若爆发战争没开战就结束",
+   "title": "高志凯：台海若爆发战争没开战就结束",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "解读高志凯'未战先终'判断的战略逻辑与信号释放",
+   "hook_reason": "台海战争惊人预测，高志凯重磅表态引爆地缘关注度",
+   "url": "https://www.toutiao.com/trending/7696116438790438955/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:高志凯台海若爆发战争没开战就结束"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
