@@ -1,7 +1,7 @@
 {
  "date": "2026-10-13",
  "daily_done": false,
- "alert_date": "",
+ "alert_date": "2026-10-13",
  "a_pending": [
   {
    "key": "曾预警金融危机的whitney称美国经济有暗伤ai投资热恐是纸牌屋",
@@ -4857,6 +4857,32 @@
    "breaking": true,
    "event_id": "e:开回家的路上风都是甜的能给车主们带来这样的幸福我们所有小米人都非常开心我们会更努",
    "batch_window": 15
+  },
+  {
+   "key": "孩子越来越笨ai正在惩罚下一代",
+   "title": "孩子越来越笨 AI正在惩罚下一代",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "以教育焦虑为切口，深度探讨AI依赖是否真的在削弱下一代独立思考能力",
+   "hook_reason": "家长群体教育焦虑+AI冲击代际冲击，情绪强烈易转发",
+   "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%AC%A8+AI%E6%AD%A3%E5%9C%A8%E6%83%A9%E7%BD%9A%E4%B8%8B%E4%B8%80%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:孩子越来越笨ai正在惩罚下一代",
+   "batch_window": 15
+  },
+  {
+   "key": "比特币升破84000美元日内涨264",
+   "title": "比特币升破84000美元，日内涨2.64%。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从数字资产投资视角解读BTC突破84000美元的市場信号，分析资金流向与投资者心理，提供短线操作参考",
+   "hook_reason": "比特币创新高84000美元，币圈资金动向直接关联投资群体",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-inivafqh0548009.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:比特币升破84000美元日内涨264",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -6213,9 +6239,9 @@
    "key": "央视曝光大棚闲置后当地连夜开会",
    "title": "央视曝光大棚闲置后当地连夜开会",
    "rating": "A",
-   "score": 92.0,
-   "angle": "曝光到回应的速度折射基层治理效能，质疑形式主义or肯定执行力",
-   "hook_reason": "央视曝光+连夜开会，官方回应速度成焦点",
+   "score": 81.75,
+   "angle": "央视曝光推动地方连夜整改，凸显舆论监督效力与基层治理响应速度",
+   "hook_reason": "央视曝光+连夜开会，监督力度与地方应急形成强反差，读者想看后续",
    "url": "https://www.toutiao.com/trending/7695720930878144522/",
    "track": "社会热点",
    "breaking": true,
@@ -6256,6 +6282,42 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:开回家的路上风都是甜的能给车主们带来这样的幸福我们所有小米人都非常开心我们会更努"
+  },
+  "魏家犯罪骨干称杀人没什么感受": {
+   "key": "魏家犯罪骨干称杀人没什么感受",
+   "title": "魏家犯罪骨干称杀人没什么感受",
+   "rating": "A",
+   "score": 68.8,
+   "angle": "从犯罪心理角度切入，剖析黑社会分子冷血发言背后的社会警示，引发公众对治安与法治情绪共鸣",
+   "hook_reason": "黑社会老大冷血发言杀人如儿戏，震撼度极高读者必看",
+   "url": "https://www.toutiao.com/trending/7695553439589338667/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:缅北魏家接班人自曝布局军政两界"
+  },
+  "孩子越来越笨ai正在惩罚下一代": {
+   "key": "孩子越来越笨ai正在惩罚下一代",
+   "title": "孩子越来越笨 AI正在惩罚下一代",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "以教育焦虑为切口，深度探讨AI依赖是否真的在削弱下一代独立思考能力",
+   "hook_reason": "家长群体教育焦虑+AI冲击代际冲击，情绪强烈易转发",
+   "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%AC%A8+AI%E6%AD%A3%E5%9C%A8%E6%83%A9%E7%BD%9A%E4%B8%8B%E4%B8%80%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:孩子越来越笨ai正在惩罚下一代"
+  },
+  "比特币升破84000美元日内涨264": {
+   "key": "比特币升破84000美元日内涨264",
+   "title": "比特币升破84000美元，日内涨2.64%。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从数字资产投资视角解读BTC突破84000美元的市場信号，分析资金流向与投资者心理，提供短线操作参考",
+   "hook_reason": "比特币创新高84000美元，币圈资金动向直接关联投资群体",
+   "url": "https://finance.sina.cn/7x24/2026-10-13/detail-inivafqh0548009.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:比特币升破84000美元日内涨264"
   }
  },
  "breaking_count": 10,
