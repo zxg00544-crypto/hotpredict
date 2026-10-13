@@ -4807,19 +4807,6 @@
    "batch_window": 14
   },
   {
-   "key": "央视曝光大棚闲置后当地连夜开会",
-   "title": "央视曝光大棚闲置后当地连夜开会",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "曝光到回应的速度折射基层治理效能，质疑形式主义or肯定执行力",
-   "hook_reason": "央视曝光+连夜开会，官方回应速度成焦点",
-   "url": "https://www.toutiao.com/trending/7695720930878144522/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:央视曝光大棚闲置后当地连夜开会",
-   "batch_window": 15
-  },
-  {
    "key": "threatofaisharecrashputsworldfin2aa56ddd",
    "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
    "rating": "A",
@@ -4883,6 +4870,45 @@
    "breaking": true,
    "event_id": "e:比特币升破84000美元日内涨264",
    "batch_window": 15
+  },
+  {
+   "key": "中方回应特朗普称不相信中俄在帮伊朗",
+   "title": "中方回应特朗普称不相信中俄在帮伊朗",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "聚焦中方回应中的战略定力，拆解中俄伊三角关系的美方误判逻辑",
+   "hook_reason": "特朗普突发涉中俄伊言论引中方强硬回应，三方博弈悬念拉满",
+   "url": "https://www.toutiao.com/trending/7695661082907610687/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:中方回应特朗普称不相信中俄在帮伊朗",
+   "batch_window": 16
+  },
+  {
+   "key": "雅思主办方致歉",
+   "title": "雅思主办方致歉",
+   "rating": "A",
+   "score": 89.5,
+   "angle": "聚焦考生权益受损真相，深挖道歉事件背后的监管漏洞与行业黑幕",
+   "hook_reason": "千万雅思考生群体切身利益，主办方道歉背后必有重大猫腻",
+   "url": "https://www.baidu.com/s?wd=%E9%9B%85%E6%80%9D%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:雅思主办方致歉",
+   "batch_window": 16
+  },
+  {
+   "key": "缅北四大家族覆灭时间线",
+   "title": "缅北四大家族覆灭时间线",
+   "rating": "A",
+   "score": 53.38,
+   "angle": "四大家族覆灭时间线全梳理，解析中国跨境执法力度",
+   "hook_reason": "缅北犯罪帝国覆灭，全民情绪引爆点",
+   "url": "https://www.toutiao.com/trending/7694979756118294582/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:缅北四大家族覆灭时间线",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -5265,7 +5291,8 @@
   "c罗和马宁交涉",
   "79岁陶华碧用ai一年赚了54亿",
   "2027国考明天开始报名",
-  "35岁前策划用5万元的token做出纯ai游戏他说单人能搓原神你认为这是暴论还是预言"
+  "35岁前策划用5万元的token做出纯ai游戏他说单人能搓原神你认为这是暴论还是预言",
+  "央视曝光大棚闲置后当地连夜开会"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5584,7 +5611,8 @@
   "e:c罗和马宁交涉": "C罗和马宁交涉",
   "e:79岁陶华碧用ai一年赚了54亿": "79岁陶华碧用AI一年赚了54亿",
   "e:2027国考明天开始报名": "2027国考明天开始报名",
-  "e:35岁前策划用5万元的token做出纯ai游戏他说单人能搓原神你认为这是暴论还是": "35岁前策划用5万元的token做出纯AI游戏，他说“单人能搓《原神》”，你认为这是暴论还是预言？"
+  "e:35岁前策划用5万元的token做出纯ai游戏他说单人能搓原神你认为这是暴论还是": "35岁前策划用5万元的token做出纯AI游戏，他说“单人能搓《原神》”，你认为这是暴论还是预言？",
+  "e:央视曝光大棚闲置后当地连夜开会": "央视曝光大棚闲置后当地连夜开会"
  },
  "a_seen": {
   "whyarentaicompaniesbeingchargedforhacking": {
@@ -6318,8 +6346,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:比特币升破84000美元日内涨264"
+  },
+  "中方回应特朗普称不相信中俄在帮伊朗": {
+   "key": "中方回应特朗普称不相信中俄在帮伊朗",
+   "title": "中方回应特朗普称不相信中俄在帮伊朗",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "聚焦中方回应中的战略定力，拆解中俄伊三角关系的美方误判逻辑",
+   "hook_reason": "特朗普突发涉中俄伊言论引中方强硬回应，三方博弈悬念拉满",
+   "url": "https://www.toutiao.com/trending/7695661082907610687/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:中方回应特朗普称不相信中俄在帮伊朗"
+  },
+  "雅思主办方致歉": {
+   "key": "雅思主办方致歉",
+   "title": "雅思主办方致歉",
+   "rating": "A",
+   "score": 89.5,
+   "angle": "聚焦考生权益受损真相，深挖道歉事件背后的监管漏洞与行业黑幕",
+   "hook_reason": "千万雅思考生群体切身利益，主办方道歉背后必有重大猫腻",
+   "url": "https://www.baidu.com/s?wd=%E9%9B%85%E6%80%9D%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:雅思主办方致歉"
+  },
+  "缅北四大家族覆灭时间线": {
+   "key": "缅北四大家族覆灭时间线",
+   "title": "缅北四大家族覆灭时间线",
+   "rating": "A",
+   "score": 53.38,
+   "angle": "四大家族覆灭时间线全梳理，解析中国跨境执法力度",
+   "hook_reason": "缅北犯罪帝国覆灭，全民情绪引爆点",
+   "url": "https://www.toutiao.com/trending/7694979756118294582/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:缅北四大家族覆灭时间线"
+  },
+  "缅北魏家犯罪集团案一审宣判魏怀仁陈大卫廖景芳被判死刑哪些信息值得关注": {
+   "key": "缅北魏家犯罪集团案一审宣判魏怀仁陈大卫廖景芳被判死刑哪些信息值得关注",
+   "title": "缅北魏家犯罪集团案一审宣判，魏怀仁、陈大卫、廖景芳被判死刑，哪些信息值得关注？",
+   "rating": "A",
+   "score": 50.37,
+   "angle": "聚焦宣判结果的震慑意义，深挖犯罪链条背后民生关切与跨境执法难点",
+   "hook_reason": "死刑宣判引发全民关注，正义伸张的强烈情绪共鸣",
+   "url": "https://www.zhihu.com/question/2093321780270031789",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:缅北四大家族覆灭时间线"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 15
+ "a_pushed_window": 16
 }
