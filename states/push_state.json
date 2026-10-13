@@ -4586,19 +4586,6 @@
    "batch_window": 8
   },
   {
-   "key": "吉林松原回应大棚撂荒仍领补贴",
-   "title": "吉林松原回应“大棚撂荒仍领补贴”",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "三农政策落地偏差：补贴发放谁来监督？从个案切入财政透明度与基层治理反思",
-   "hook_reason": "大棚撂荒还能领补贴？农民种地 vs 不种地领钱，政策执行漏洞引众怒",
-   "url": "https://www.toutiao.com/trending/7695697157025972763/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:吉林松原回应大棚撂荒仍领补贴",
-   "batch_window": 8
-  },
-  {
    "key": "gt源于意大利语granturismo译为伟大旅程小米yu7gt为热爱驾驶的人",
    "title": "GT，源于意大利语Gran Turismo，译为“伟大旅程”。 小米YU7 GT，为热爱驾驶的人",
    "rating": "A",
@@ -4636,6 +4623,19 @@
    "breaking": true,
    "event_id": "e:11人年赚9亿美元hyperliquid改变华尔街31岁华人jeffyan正在用",
    "batch_window": 8
+  },
+  {
+   "key": "谈英伟达新型光模块和背后的商战网页链接网页链接",
+   "title": "谈英伟达新型光模块和背后的商战 网页链接 网页链接",
+   "rating": "A",
+   "score": 84.75,
+   "angle": "英伟达亮剑AI算力供应链：新一代光模块背后，谁被卡脖子？",
+   "hook_reason": "英伟达新品+供应链博弈，AI芯片爱好者必看",
+   "url": "https://weibo.com/1249424622/Rmr4Gw6Rx",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:谈英伟达新型光模块和背后的商战网页链接网页链接",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -5011,7 +5011,8 @@
   "再次推荐k100promax",
   "夜骑",
   "小米yu7gt赛道版今年初刷新纽北赛道suv圈速纪录7分22秒755核心因素之一就是",
-  "巨头涌入香港抢人又抢楼网页链接网页链接"
+  "巨头涌入香港抢人又抢楼网页链接网页链接",
+  "吉林松原回应大棚撂荒仍领补贴"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5323,7 +5324,8 @@
   "e:再次推荐k100promax": "再次推荐 #K100ProMax#",
   "e:夜骑": "夜骑",
   "e:小米yu7gt赛道版今年初刷新纽北赛道suv圈速纪录7分22秒755核心因素之一": "小米YU7 GT赛道版，今年初，刷新纽北赛道SUV圈速纪录，7分22秒755。 核心因素之一就是",
-  "e:巨头涌入香港抢人又抢楼网页链接网页链接": "巨头涌入香港，抢人又抢楼 网页链接 网页链接"
+  "e:巨头涌入香港抢人又抢楼网页链接网页链接": "巨头涌入香港，抢人又抢楼 网页链接 网页链接",
+  "e:吉林松原回应大棚撂荒仍领补贴": "吉林松原回应“大棚撂荒仍领补贴”"
  },
  "a_seen": {
   "whyarentaicompaniesbeingchargedforhacking": {
@@ -5691,8 +5693,8 @@
    "title": "GT，源于意大利语Gran Turismo，译为“伟大旅程”。 小米YU7 GT，为热爱驾驶的人",
    "rating": "A",
    "score": 84.85,
-   "angle": "从小米YU7 GT切入，解析小米汽车产品矩阵升级及智能驾驶技术布局",
-   "hook_reason": "小米汽车新品首发，GT定位引爆科技圈期待",
+   "angle": "从手机到汽车再到GT跑车，雷军的生态野心再下一城，科技跨界降维打击的下一步。",
+   "hook_reason": "小米再出新车YU7 GT，雷军又要颠覆跑车市场？",
    "url": "https://weibo.com/1749127163/RmqXntri6",
    "track": "科技",
    "breaking": true,
@@ -5714,15 +5716,27 @@
    "key": "11人年赚9亿美元hyperliquid改变华尔街31岁华人jeffyan正在用区块链重",
    "title": "11人年赚9亿美元，Hyperliquid改变华尔街 31岁华人Jeff Yan，正在用区块链重",
    "rating": "A",
-   "score": 77.9,
-   "angle": "从华裔青年创业者视角切入，拆解Hyperliquid如何用链上交易模式撬动传统华尔街格局",
-   "hook_reason": "31岁华人+9亿美元+颠覆华尔街，三重身份标签叠加引爆好奇心",
+   "score": 84.9,
+   "angle": "华人31岁创业逆袭，11人团队用DeFi改写华尔街格局的财富密码",
+   "hook_reason": "11人年赚9亿美元+31岁华人创业，财富神话+身份共鸣双重击中",
    "url": "https://weibo.com/5884573948/RmqQGCew3",
-   "track": "大咖发言",
+   "track": "创业",
    "breaking": true,
    "event_id": "e:11人年赚9亿美元hyperliquid改变华尔街31岁华人jeffyan正在用"
+  },
+  "谈英伟达新型光模块和背后的商战网页链接网页链接": {
+   "key": "谈英伟达新型光模块和背后的商战网页链接网页链接",
+   "title": "谈英伟达新型光模块和背后的商战 网页链接 网页链接",
+   "rating": "A",
+   "score": 84.75,
+   "angle": "英伟达亮剑AI算力供应链：新一代光模块背后，谁被卡脖子？",
+   "hook_reason": "英伟达新品+供应链博弈，AI芯片爱好者必看",
+   "url": "https://weibo.com/1249424622/Rmr4Gw6Rx",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:谈英伟达新型光模块和背后的商战网页链接网页链接"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
