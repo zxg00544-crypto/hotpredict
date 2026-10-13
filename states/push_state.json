@@ -4690,19 +4690,6 @@
    "batch_window": 12
   },
   {
-   "key": "刚刚meta最强旗舰多项屠榜智能水平仅落后opus55两分网页链接网页链接",
-   "title": "刚刚，Meta最强旗舰多项屠榜！智能水平仅落后Opus 5.5两分 网页链接 网页链接",
-   "rating": "A",
-   "score": 84.9,
-   "angle": "从AI技术竞赛角度切入，分析Meta旗舰模型多项突破与差距，解读中美AI格局",
-   "hook_reason": "Meta旗舰AI屠榜仅差2分惜败Opus，AI竞赛白热化",
-   "url": "https://weibo.com/1249424622/RmrSfnHOf",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:刚刚meta最强旗舰多项屠榜智能水平仅落后opus55两分网页链接网页链接",
-   "batch_window": 12
-  },
-  {
    "key": "尊界v800公布制动踏板第三方检测结果加严检验至纵向力3000n未出现裂纹和损坏哪些信息值得关注",
    "title": "尊界V800公布制动踏板第三方检测结果，加严检验至纵向力3000N未出现裂纹和损坏，哪些信息值得关注？",
    "rating": "A",
@@ -5039,6 +5026,32 @@
    "breaking": true,
    "event_id": "e:美联储威廉姆斯9月加息的理由始于风险管理",
    "batch_window": 2
+  },
+  {
+   "key": "gemini4argonforrobotics",
+   "title": "Gemini 4 Argon for Robotics",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "Google用Gemini 4深度绑定机器人赛道，AI大模型从云端走向物理世界，直接对标特斯拉Optimus，科技圈格局再洗牌。",
+   "hook_reason": "Google推Gemini 4进军机器人领域，AI+硬件双赛事情绪拉满",
+   "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gemini4argonforrobotics",
+   "batch_window": 3
+  },
+  {
+   "key": "ai批量造星真人明星还有何价值",
+   "title": "AI批量造星 真人明星还有何价值",
+   "rating": "A",
+   "score": 89.8,
+   "angle": "从打工人视角切入：AI批量生产'完美明星'，背后是娱乐工业对真人劳动力的替代焦虑",
+   "hook_reason": "AI取代真人明星？打工人共鸣+娱乐圈身份焦虑双重刺激",
+   "url": "https://www.baidu.com/s?wd=AI%E6%89%B9%E9%87%8F%E9%80%A0%E6%98%9F+%E7%9C%9F%E4%BA%BA%E6%98%8E%E6%98%9F%E8%BF%98%E6%9C%89%E4%BD%95%E4%BB%B7%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:ai批量造星真人明星还有何价值",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -5442,7 +5455,8 @@
   "大家对小米18pro系列的影像有什么反馈",
   "ipostedtohnandthenmywebsitewasfldb9fb672",
   "很高兴向大家汇报2026年9月蔚来全新es8零售销量10539台蝉联40万级车型市场月度",
-  "ai改变世界我们的生活被彻底颠覆我预测未来35年ai将彻底改变世界满大街跑的都是自动"
+  "ai改变世界我们的生活被彻底颠覆我预测未来35年ai将彻底改变世界满大街跑的都是自动",
+  "刚刚meta最强旗舰多项屠榜智能水平仅落后opus55两分网页链接网页链接"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5782,7 +5796,8 @@
   "e:大家对小米18pro系列的影像有什么反馈": "大家对 #小米18Pro系列# 的影像，有什么反馈？",
   "e:ipostedtohnandthenmywebsitewasfloodedwit": "I posted to HN, and then my website was flooded with AI bot traffic",
   "e:很高兴向大家汇报2026年9月蔚来全新es8零售销量10539台蝉联40万级车型": "很高兴向大家汇报，2026年9月，蔚来全新ES8零售销量10,539台，蝉联40万级车型市场月度",
-  "e:ai改变世界我们的生活被彻底颠覆我预测未来35年ai将彻底改变世界满大街跑的都是": "AI改变世界，我们的生活被彻底颠覆 我预测未来3-5年，AI将彻底改变世界： 满大街跑的都是自动"
+  "e:ai改变世界我们的生活被彻底颠覆我预测未来35年ai将彻底改变世界满大街跑的都是": "AI改变世界，我们的生活被彻底颠覆 我预测未来3-5年，AI将彻底改变世界： 满大街跑的都是自动",
+  "e:刚刚meta最强旗舰多项屠榜智能水平仅落后opus55两分网页链接网页链接": "刚刚，Meta最强旗舰多项屠榜！智能水平仅落后Opus 5.5两分 网页链接 网页链接"
  },
  "a_seen": {
   "王星被胁迫借下的网贷该不该还": {
@@ -5916,8 +5931,32 @@
    "track": "社会热点",
    "breaking": false,
    "event_id": "e:19元汽水收礼事件发生于2023年"
+  },
+  "gemini4argonforrobotics": {
+   "key": "gemini4argonforrobotics",
+   "title": "Gemini 4 Argon for Robotics",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "Google用Gemini 4深度绑定机器人赛道，AI大模型从云端走向物理世界，直接对标特斯拉Optimus，科技圈格局再洗牌。",
+   "hook_reason": "Google推Gemini 4进军机器人领域，AI+硬件双赛事情绪拉满",
+   "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gemini4argonforrobotics"
+  },
+  "ai批量造星真人明星还有何价值": {
+   "key": "ai批量造星真人明星还有何价值",
+   "title": "AI批量造星 真人明星还有何价值",
+   "rating": "A",
+   "score": 89.8,
+   "angle": "从打工人视角切入：AI批量生产'完美明星'，背后是娱乐工业对真人劳动力的替代焦虑",
+   "hook_reason": "AI取代真人明星？打工人共鸣+娱乐圈身份焦虑双重刺激",
+   "url": "https://www.baidu.com/s?wd=AI%E6%89%B9%E9%87%8F%E9%80%A0%E6%98%9F+%E7%9C%9F%E4%BA%BA%E6%98%8E%E6%98%9F%E8%BF%98%E6%9C%89%E4%BD%95%E4%BB%B7%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:ai批量造星真人明星还有何价值"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
