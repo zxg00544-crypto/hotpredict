@@ -5587,19 +5587,6 @@
    "batch_window": 4
   },
   {
-   "key": "imf日本gdp明年或降至全球第六",
-   "title": "IMF：日本GDP明年或降至全球第六",
-   "rating": "A",
-   "score": 91.0,
-   "angle": "从IMF预测切入，解读日本经济衰退信号及中日韩经济格局变迁，关联中国读者国家竞争力话题",
-   "hook_reason": "IMF预测日本GDP跌至全球第六，国家经济格局巨变引关注",
-   "url": "https://www.toutiao.com/trending/7696501446660932106/",
-   "track": "财经",
-   "breaking": false,
-   "event_id": "e:imf日本gdp明年或降至全球第六",
-   "batch_window": 4
-  },
-  {
    "key": "苹果加入英伟达行列成为第二家市值突破5万亿美元的上市公司",
    "title": "苹果加入英伟达行列 成为第二家市值突破5万亿美元的上市公司‌",
    "rating": "A",
@@ -5637,6 +5624,45 @@
    "breaking": false,
    "event_id": "e:高盛谁高位接盘了美股科技",
    "batch_window": 5
+  },
+  {
+   "key": "opencode20",
+   "title": "OpenCode 2.0",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "OpenCode 2.0核心升级点拆解，对开发者工作流及AI编程生态的影响分析",
+   "hook_reason": "开发者工具突发登顶，1小时热度破百，技术圈引爆",
+   "url": "https://anoma.ly/notes/opencode-2-0/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:opencode20",
+   "batch_window": 6
+  },
+  {
+   "key": "巴克莱特斯拉spacex合并消息可能在年度股东大会前公布",
+   "title": "巴克莱：特斯拉-SpaceX合并消息可能在年度股东大会前公布",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "聚焦合并传闻对特斯拉股价及太空板块的即时影响，预判股东大会催化点",
+   "hook_reason": "马斯克旗下两大巨头传合并，市场震动级话题",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfwra1279465.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:巴克莱特斯拉spacex合并消息可能在年度股东大会前公布",
+   "batch_window": 6
+  },
+  {
+   "key": "美联储戴利大概率还需要进一步加息但仍在斟酌加息时机",
+   "title": "美联储戴利：大概率还需要进一步加息，但仍在斟酌加息时机。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "戴利发言解读：加息信号背后的市场博弈",
+   "hook_reason": "美联储高官表态加息，全球投资者必看",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfwqy4492968.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储戴利大概率还需要进一步加息但仍在斟酌加息时机",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -6077,7 +6103,8 @@
   "女老虎包惠被开除党籍",
   "贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法律角度解读",
   "郑钦文首进中网决赛",
-  "好莱坞演员的中国短剧梦被ai截胡"
+  "好莱坞演员的中国短剧梦被ai截胡",
+  "imf日本gdp明年或降至全球第六"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6454,7 +6481,8 @@
   "e:女老虎包惠被开除党籍": "“女老虎”包惠被开除党籍",
   "e:贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法": "贵州男子被曝同酒楼同时与两女子办婚宴百日宴，官方称不构成重婚，具体是怎么回事？如何从法律角度解读？",
   "e:郑钦文首进中网决赛": "郑钦文首进中网决赛",
-  "e:好莱坞演员的中国短剧梦被ai截胡": "“好莱坞”演员的中国短剧梦被AI截胡"
+  "e:好莱坞演员的中国短剧梦被ai截胡": "“好莱坞”演员的中国短剧梦被AI截胡",
+  "e:imf日本gdp明年或降至全球第六": "IMF：日本GDP明年或降至全球第六"
  },
  "a_seen": {
   "asmlsstrongorderseasefearsaispen5929adb6": {
@@ -6756,8 +6784,44 @@
    "track": "财经",
    "breaking": false,
    "event_id": "e:高盛谁高位接盘了美股科技"
+  },
+  "opencode20": {
+   "key": "opencode20",
+   "title": "OpenCode 2.0",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "OpenCode 2.0核心升级点拆解，对开发者工作流及AI编程生态的影响分析",
+   "hook_reason": "开发者工具突发登顶，1小时热度破百，技术圈引爆",
+   "url": "https://anoma.ly/notes/opencode-2-0/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:opencode20"
+  },
+  "巴克莱特斯拉spacex合并消息可能在年度股东大会前公布": {
+   "key": "巴克莱特斯拉spacex合并消息可能在年度股东大会前公布",
+   "title": "巴克莱：特斯拉-SpaceX合并消息可能在年度股东大会前公布",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "聚焦合并传闻对特斯拉股价及太空板块的即时影响，预判股东大会催化点",
+   "hook_reason": "马斯克旗下两大巨头传合并，市场震动级话题",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfwra1279465.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:巴克莱特斯拉spacex合并消息可能在年度股东大会前公布"
+  },
+  "美联储戴利大概率还需要进一步加息但仍在斟酌加息时机": {
+   "key": "美联储戴利大概率还需要进一步加息但仍在斟酌加息时机",
+   "title": "美联储戴利：大概率还需要进一步加息，但仍在斟酌加息时机。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "戴利发言解读：加息信号背后的市场博弈",
+   "hook_reason": "美联储高官表态加息，全球投资者必看",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfwqy4492968.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储戴利大概率还需要进一步加息但仍在斟酌加息时机"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
