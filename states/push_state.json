@@ -4690,19 +4690,6 @@
    "batch_window": 13
   },
   {
-   "key": "yu7gt这台原汁原味的纯血gt开过才知道媒体老师们试驾后给了很高的评价小米汽车",
-   "title": "YU7 GT，这台原汁原味的纯血GT，开过才知道。 媒体老师们试驾后，给了很高的评价。 小米汽车",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "从科技巨头进军高性能跑车领域切入，分析小米汽车的技术路线与市场野心",
-   "hook_reason": "小米首款纯血GT跑车亮相，科技巨头跨界赛车领域引发关注",
-   "url": "https://weibo.com/1749127163/RmslPkTT2",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:yu7gt这台原汁原味的纯血gt开过才知道媒体老师们试驾后给了很高的评价小米汽车",
-   "batch_window": 13
-  },
-  {
    "key": "第二经济大省开抢年轻人",
    "title": "第二经济大省“开抢”年轻人",
    "rating": "A",
@@ -5156,6 +5143,58 @@
    "breaking": true,
    "event_id": "e:田柯宇时隔两年回应字节模型投毒事件当时究竟发生了什么",
    "batch_window": 9
+  },
+  {
+   "key": "女摊主遭差评跳河身亡顾客用担责吗",
+   "title": "女摊主遭差评跳河身亡 顾客用担责吗",
+   "rating": "A",
+   "score": 70.92,
+   "angle": "法律视角切入：差评权边界在哪？顾客无恶意差评是否需承担民事责任？结合民法典与真实判例",
+   "hook_reason": "差评逼死摊主？顾客该不该赔命？极端争议引爆情绪",
+   "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E5%B7%AE%E8%AF%84%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1+%E9%A1%BE%E5%AE%A2%E7%94%A8%E6%8B%85%E8%B4%A3%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女摊主遭差评跳河身亡顾客用担责吗",
+   "batch_window": 10
+  },
+  {
+   "key": "pcb概念持续拉升满坤科技20cm涨停",
+   "title": "PCB概念持续拉升，满坤科技20cm涨停",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "满坤科技20cm涨停背后：PCB产业链估值逻辑与资金动向拆解",
+   "hook_reason": "20cm涨停+概念爆发，股民必看！",
+   "url": "https://zhibo.sina.com.cn/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:pcb概念持续拉升满坤科技20cm涨停",
+   "batch_window": 10
+  },
+  {
+   "key": "马斯克存储厂商报价高得离谱唯独美光价格合理",
+   "title": "马斯克：存储厂商报价高得离谱 唯独美光价格合理",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "解析马斯克评价背后的存储行业格局与美光机遇，结合其科技领袖影响力切入",
+   "hook_reason": "马斯克点名点评存储厂商报价，引发美光股价波动预期",
+   "url": "https://finance.sina.cn/7x24/2026-10-14/detail-iniveefk0434352.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克存储厂商报价高得离谱唯独美光价格合理",
+   "batch_window": 10
+  },
+  {
+   "key": "陶哲轩呼吁抵制openai",
+   "title": "陶哲轩呼吁抵制OpenAI",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从陶哲轩的数学视角剖析OpenAI问题，探讨AI与学术界的张力边界",
+   "hook_reason": "顶级数学家公开抵制OpenAI，AI圈地震级争议",
+   "url": "https://search.bilibili.com/all?keyword=陶哲轩呼吁抵制OpenAI",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:陶哲轩呼吁抵制openai",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -5566,7 +5605,8 @@
   "gt源于意大利语granturismo译为伟大旅程小米yu7gt为热爱驾驶的人",
   "中国为何主动砍新能源车出口退税",
   "z114次列车成候鸟老人迁徙核心通道",
-  "我确实需要一台更大的车但我不想开一台不像我的车过去不少年轻人跟我说过这话我一直记着"
+  "我确实需要一台更大的车但我不想开一台不像我的车过去不少年轻人跟我说过这话我一直记着",
+  "yu7gt这台原汁原味的纯血gt开过才知道媒体老师们试驾后给了很高的评价小米汽车"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5913,7 +5953,8 @@
   "e:gt源于意大利语granturismo译为伟大旅程小米yu7gt为热爱驾驶的人": "GT，源于意大利语Gran Turismo，译为“伟大旅程”。 小米YU7 GT，为热爱驾驶的人",
   "e:中国为何主动砍新能源车出口退税": "中国为何主动砍新能源车出口退税",
   "e:z114次列车成候鸟老人迁徙核心通道": "Z114次列车成候鸟老人迁徙核心通道",
-  "e:我确实需要一台更大的车但我不想开一台不像我的车过去不少年轻人跟我说过这话我一直记": "“我确实需要一台更大的车，但我不想开一台不像我的车。” 过去不少年轻人跟我说过这话，我一直记着。"
+  "e:我确实需要一台更大的车但我不想开一台不像我的车过去不少年轻人跟我说过这话我一直记": "“我确实需要一台更大的车，但我不想开一台不像我的车。” 过去不少年轻人跟我说过这话，我一直记着。",
+  "e:yu7gt这台原汁原味的纯血gt开过才知道媒体老师们试驾后给了很高的评价小米汽车": "YU7 GT，这台原汁原味的纯血GT，开过才知道。 媒体老师们试驾后，给了很高的评价。 小米汽车"
  },
  "a_seen": {
   "王星被胁迫借下的网贷该不该还": {
@@ -6173,8 +6214,8 @@
    "title": "专家：中国核力量能摧毁任何来犯之敌",
    "rating": "A",
    "score": 46.95,
-   "angle": "拆解专家言论战略信号，中国核威慑最新表态的国内外解读空间",
-   "hook_reason": "专家放话核力量摧毁来犯之敌，民族情绪+国防话题双重引爆",
+   "angle": "以专家发言切入，解读核力量战略意义，引发国民自豪感讨论",
+   "hook_reason": "核力量话题+专家权威背书，激发国民情绪共鸣",
    "url": "https://www.toutiao.com/trending/7696232890182664731/",
    "track": "大咖发言",
    "breaking": true,
@@ -6220,9 +6261,9 @@
    "key": "报告英伟达中国ai芯片份额跌至34",
    "title": "报告：英伟达中国AI芯片份额跌至34%",
    "rating": "A",
-   "score": 70.23,
-   "angle": "从英伟达份额下滑切入，盘点国产AI芯片替代进展与卡脖子风险",
-   "hook_reason": "英伟达在华份额腰斩，国产AI芯片能否接棒？",
+   "score": 70.08,
+   "angle": "从'被卡脖子'到'主动突围'，解读国产AI芯片如何承接英伟达退场后的市场真空，重点剖析华为昇腾、寒武纪等竞品的真实竞争力。",
+   "hook_reason": "英伟达芯片份额暴跌，国产替代加速引爆民族情绪",
    "url": "https://www.toutiao.com/trending/7696186267725205046/",
    "track": "科技",
    "breaking": true,
@@ -6251,8 +6292,56 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:田柯宇时隔两年回应字节模型投毒事件当时究竟发生了什么"
+  },
+  "女摊主遭差评跳河身亡顾客用担责吗": {
+   "key": "女摊主遭差评跳河身亡顾客用担责吗",
+   "title": "女摊主遭差评跳河身亡 顾客用担责吗",
+   "rating": "A",
+   "score": 70.92,
+   "angle": "法律视角切入：差评权边界在哪？顾客无恶意差评是否需承担民事责任？结合民法典与真实判例",
+   "hook_reason": "差评逼死摊主？顾客该不该赔命？极端争议引爆情绪",
+   "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E5%B7%AE%E8%AF%84%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1+%E9%A1%BE%E5%AE%A2%E7%94%A8%E6%8B%85%E8%B4%A3%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女摊主遭差评跳河身亡顾客用担责吗"
+  },
+  "pcb概念持续拉升满坤科技20cm涨停": {
+   "key": "pcb概念持续拉升满坤科技20cm涨停",
+   "title": "PCB概念持续拉升，满坤科技20cm涨停",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "满坤科技20cm涨停背后：PCB产业链估值逻辑与资金动向拆解",
+   "hook_reason": "20cm涨停+概念爆发，股民必看！",
+   "url": "https://zhibo.sina.com.cn/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:pcb概念持续拉升满坤科技20cm涨停"
+  },
+  "马斯克存储厂商报价高得离谱唯独美光价格合理": {
+   "key": "马斯克存储厂商报价高得离谱唯独美光价格合理",
+   "title": "马斯克：存储厂商报价高得离谱 唯独美光价格合理",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "解析马斯克评价背后的存储行业格局与美光机遇，结合其科技领袖影响力切入",
+   "hook_reason": "马斯克点名点评存储厂商报价，引发美光股价波动预期",
+   "url": "https://finance.sina.cn/7x24/2026-10-14/detail-iniveefk0434352.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克存储厂商报价高得离谱唯独美光价格合理"
+  },
+  "陶哲轩呼吁抵制openai": {
+   "key": "陶哲轩呼吁抵制openai",
+   "title": "陶哲轩呼吁抵制OpenAI",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从陶哲轩的数学视角剖析OpenAI问题，探讨AI与学术界的张力边界",
+   "hook_reason": "顶级数学家公开抵制OpenAI，AI圈地震级争议",
+   "url": "https://search.bilibili.com/all?keyword=陶哲轩呼吁抵制OpenAI",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:陶哲轩呼吁抵制openai"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
