@@ -5613,19 +5613,6 @@
    "batch_window": 5
   },
   {
-   "key": "高盛谁高位接盘了美股科技",
-   "title": "高盛：谁高位接盘了美股科技",
-   "rating": "A",
-   "score": 91.0,
-   "angle": "从资金流向切入，分析散户高位追涨美股科技股的现状与风险，结合高盛大单数据解读",
-   "hook_reason": "高盛揭秘散户接盘美股科技，资金动向引发市场关注",
-   "url": "https://www.toutiao.com/trending/7696513698201865764/",
-   "track": "财经",
-   "breaking": false,
-   "event_id": "e:高盛谁高位接盘了美股科技",
-   "batch_window": 5
-  },
-  {
    "key": "opencode20",
    "title": "OpenCode 2.0",
    "rating": "A",
@@ -5663,6 +5650,32 @@
    "breaking": true,
    "event_id": "e:美联储戴利大概率还需要进一步加息但仍在斟酌加息时机",
    "batch_window": 6
+  },
+  {
+   "key": "containmentandmonitoringfailures002c792d",
+   "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+   "rating": "A",
+   "score": 44.04,
+   "angle": "AI安全问题被低估？专家揭秘黑客攻击真因，安全行业如何应对",
+   "hook_reason": "AI黑客事件归因反转，专家直指监管漏洞",
+   "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:containmentandmonitoringfailuresaretobla",
+   "batch_window": 7
+  },
+  {
+   "key": "今天人民日报头版的主要内容有1习近平向第140届中国进出口商品交易会致",
+   "title": "今天《人民日报》头版的主要内容有： 1、习近平向第140届中国进出口商品交易会致",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读广交会背后的政策信号，研判外贸走势与商机",
+   "hook_reason": "人民日报头版+领导人发声，时政风向标，读者必看",
+   "url": "https://zhibo.sina.com.cn/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:除了头版内容今天人民日报涉及财经的主要内容还包括1李强出席广交世界",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -6104,7 +6117,8 @@
   "贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法律角度解读",
   "郑钦文首进中网决赛",
   "好莱坞演员的中国短剧梦被ai截胡",
-  "imf日本gdp明年或降至全球第六"
+  "imf日本gdp明年或降至全球第六",
+  "高盛谁高位接盘了美股科技"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6482,7 +6496,8 @@
   "e:贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法": "贵州男子被曝同酒楼同时与两女子办婚宴百日宴，官方称不构成重婚，具体是怎么回事？如何从法律角度解读？",
   "e:郑钦文首进中网决赛": "郑钦文首进中网决赛",
   "e:好莱坞演员的中国短剧梦被ai截胡": "“好莱坞”演员的中国短剧梦被AI截胡",
-  "e:imf日本gdp明年或降至全球第六": "IMF：日本GDP明年或降至全球第六"
+  "e:imf日本gdp明年或降至全球第六": "IMF：日本GDP明年或降至全球第六",
+  "e:高盛谁高位接盘了美股科技": "高盛：谁高位接盘了美股科技"
  },
  "a_seen": {
   "asmlsstrongorderseasefearsaispen5929adb6": {
@@ -6820,8 +6835,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:美联储戴利大概率还需要进一步加息但仍在斟酌加息时机"
+  },
+  "containmentandmonitoringfailures002c792d": {
+   "key": "containmentandmonitoringfailures002c792d",
+   "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+   "rating": "A",
+   "score": 44.04,
+   "angle": "AI安全问题被低估？专家揭秘黑客攻击真因，安全行业如何应对",
+   "hook_reason": "AI黑客事件归因反转，专家直指监管漏洞",
+   "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:containmentandmonitoringfailuresaretobla"
+  },
+  "今天人民日报头版的主要内容有1习近平向第140届中国进出口商品交易会致": {
+   "key": "今天人民日报头版的主要内容有1习近平向第140届中国进出口商品交易会致",
+   "title": "今天《人民日报》头版的主要内容有： 1、习近平向第140届中国进出口商品交易会致",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读广交会背后的政策信号，研判外贸走势与商机",
+   "hook_reason": "人民日报头版+领导人发声，时政风向标，读者必看",
+   "url": "https://zhibo.sina.com.cn/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:除了头版内容今天人民日报涉及财经的主要内容还包括1李强出席广交世界"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
