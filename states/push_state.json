@@ -5392,19 +5392,6 @@
    "batch_window": 19
   },
   {
-   "key": "amazonpushesuppricesacrosstheinternet",
-   "title": "Amazon pushes up prices across the Internet",
-   "rating": "A",
-   "score": 84.5,
-   "angle": "从亚马逊全球涨价看科技巨头如何利用平台优势转嫁成本，消费者如何应对",
-   "hook_reason": "亚马逊全网涨价，普通网民钱包受影响",
-   "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:amazonpushesuppricesacrosstheinternet",
-   "batch_window": 19
-  },
-  {
    "key": "女老虎包惠被开除党籍",
    "title": "“女老虎”包惠被开除党籍",
    "rating": "A",
@@ -5862,7 +5849,8 @@
   "国际油价深夜大涨",
   "睡这个床感觉有人在挤我",
   "anthropicdiscloses2monthsoldfake53d2d34c",
-  "网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤"
+  "网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤",
+  "amazonpushesuppricesacrosstheinternet"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6219,7 +6207,8 @@
   "e:国际油价深夜大涨": "国际油价深夜大涨",
   "e:睡这个床感觉有人在挤我": "“睡这个床感觉有人在挤我”",
   "e:anthropicdiscloses2monthsoldfaketiptopol": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-  "e:网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤": "网红贵价面包接连遇冷，迎来烘焙「闭店潮」，是消费回归理性还是烘焙商业模式本身就存在硬伤？"
+  "e:网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤": "网红贵价面包接连遇冷，迎来烘焙「闭店潮」，是消费回归理性还是烘焙商业模式本身就存在硬伤？",
+  "e:amazonpushesuppricesacrosstheinternet": "Amazon pushes up prices across the Internet"
  },
  "a_seen": {
   "王星被胁迫借下的网贷该不该还": {
@@ -6898,9 +6887,9 @@
    "key": "opus55还原田柯宇模型投毒事件",
    "title": "Opus5.5还原田柯宇模型投毒事件",
    "rating": "A",
-   "score": 40.9,
-   "angle": "从技术安全角度切入，剖析AI训练数据投毒的实现路径、危害及行业防护漏洞",
-   "hook_reason": "AI模型被投毒？科技圈最炸裂的安全危机曝光",
+   "score": 42.21,
+   "angle": "从AI安全治理角度切入，解读模型投毒的技术路径与行业警示，呼应公众对AI可信度的焦虑",
+   "hook_reason": "AI模型投毒事件首次被还原，科技安全与信任危机引爆关注",
    "url": "https://search.bilibili.com/all?keyword=Opus5.5还原田柯宇模型投毒事件",
    "track": "科技",
    "breaking": true,
@@ -6958,9 +6947,9 @@
    "key": "whoisplantingbackdoorsinledgercryptowallets",
    "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
    "rating": "A",
-   "score": 80.0,
-   "angle": "深挖谁在幕后操控、Ledger官方回应、普通用户如何自保",
-   "hook_reason": "加密钱包被植入门的后门，用户资产安全直接受威胁",
+   "score": 75.8,
+   "angle": "从消费者安全视角切入，剖析硬件钱包信任危机及行业监管缺失",
+   "hook_reason": "知名加密钱包被曝植入后门，用户资产安全直接受威胁",
    "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
    "track": "科技",
    "breaking": true,
@@ -6980,5 +6969,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
