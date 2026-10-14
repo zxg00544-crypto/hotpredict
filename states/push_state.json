@@ -5522,19 +5522,6 @@
    "batch_window": 3
   },
   {
-   "key": "好莱坞演员的中国短剧梦被ai截胡",
-   "title": "“好莱坞”演员的中国短剧梦被AI截胡",
-   "rating": "A",
-   "score": 91.5,
-   "angle": "从好莱坞演员入局中国短剧被AI替代切入，探讨AIGC对影视表演的颠覆性冲击及普通人职业焦虑",
-   "hook_reason": "好莱坞明星来淘金反被AI取代，打工人的共鸣+吃瓜心理双驱动",
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%BD%E8%8E%B1%E5%9D%9E%E2%80%9D%E6%BC%94%E5%91%98%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E6%A2%A6%E8%A2%ABAI%E6%88%AA%E8%83%A1&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "科技",
-   "breaking": false,
-   "event_id": "e:好莱坞演员的中国短剧梦被ai截胡",
-   "batch_window": 4
-  },
-  {
    "key": "banksarenowtryingtooffloadtheaid9464c005",
    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
    "rating": "A",
@@ -5611,6 +5598,45 @@
    "breaking": false,
    "event_id": "e:imf日本gdp明年或降至全球第六",
    "batch_window": 4
+  },
+  {
+   "key": "苹果加入英伟达行列成为第二家市值突破5万亿美元的上市公司",
+   "title": "苹果加入英伟达行列 成为第二家市值突破5万亿美元的上市公司‌",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从万亿市值里程碑切入，对比英伟达与苹果的科技霸权之争，解读背后产业逻辑",
+   "hook_reason": "苹果市值首破5万亿，追平英伟达，科技巨头历史对决引爆关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfwra1233612.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:苹果加入英伟达行列成为第二家市值突破5万亿美元的上市公司",
+   "batch_window": 5
+  },
+  {
+   "key": "特朗普谈及格陵兰岛记住他们当时以为我会派军队攻打格陵兰岛我并没有这个打算",
+   "title": "特朗普谈及格陵兰岛：记住，他们当时以为我会派军队攻打格陵兰岛。我并没有这个打算。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "解读特朗普此言的战略意图，结合美国对格陵兰岛的长期觊觎背景分析",
+   "hook_reason": "特朗普放话涉军事话题，读者好奇他要搞什么动作",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfwqt7477335.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普谈及格陵兰岛记住他们当时以为我会派军队攻打格陵兰岛我并没有这个打算",
+   "batch_window": 5
+  },
+  {
+   "key": "高盛谁高位接盘了美股科技",
+   "title": "高盛：谁高位接盘了美股科技",
+   "rating": "A",
+   "score": 91.0,
+   "angle": "从资金流向切入，分析散户高位追涨美股科技股的现状与风险，结合高盛大单数据解读",
+   "hook_reason": "高盛揭秘散户接盘美股科技，资金动向引发市场关注",
+   "url": "https://www.toutiao.com/trending/7696513698201865764/",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:高盛谁高位接盘了美股科技",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -6050,7 +6076,8 @@
   "百果园2年亏掉了7个亿问题出在哪里百果园既想做高品质水果又想强调高性价比品牌定位该如何取舍",
   "女老虎包惠被开除党籍",
   "贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法律角度解读",
-  "郑钦文首进中网决赛"
+  "郑钦文首进中网决赛",
+  "好莱坞演员的中国短剧梦被ai截胡"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6426,7 +6453,8 @@
   "e:百果园2年亏掉了7个亿问题出在哪里百果园既想做高品质水果又想强调高性价比品牌定位": "百果园2年亏掉了7个亿，问题出在哪里？百果园既想做高品质水果，又想强调高性价比，品牌定位该如何取舍？",
   "e:女老虎包惠被开除党籍": "“女老虎”包惠被开除党籍",
   "e:贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法": "贵州男子被曝同酒楼同时与两女子办婚宴百日宴，官方称不构成重婚，具体是怎么回事？如何从法律角度解读？",
-  "e:郑钦文首进中网决赛": "郑钦文首进中网决赛"
+  "e:郑钦文首进中网决赛": "郑钦文首进中网决赛",
+  "e:好莱坞演员的中国短剧梦被ai截胡": "“好莱坞”演员的中国短剧梦被AI截胡"
  },
  "a_seen": {
   "asmlsstrongorderseasefearsaispen5929adb6": {
@@ -6673,9 +6701,9 @@
    "key": "thingstoknowifyougetcancerin2026",
    "title": "Things to know if you get cancer in 2026",
    "rating": "A",
-   "score": 40.95,
-   "angle": "癌症叙事从绝症到慢性病的范式转变，普通人认知升级清单",
-   "hook_reason": "全民终极恐惧+2026新认知颠覆，每个读者都想知道答案",
+   "score": 75.95,
+   "angle": "从HN热帖切入，拆解2026癌症应对新策略，引发公众健康共鸣与转发",
+   "hook_reason": "2026癌症生存指南爆火，直击生命焦虑与健康管理痛点",
    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
    "track": "社会热点",
    "breaking": true,
@@ -6692,8 +6720,44 @@
    "track": "财经",
    "breaking": false,
    "event_id": "e:imf日本gdp明年或降至全球第六"
+  },
+  "苹果加入英伟达行列成为第二家市值突破5万亿美元的上市公司": {
+   "key": "苹果加入英伟达行列成为第二家市值突破5万亿美元的上市公司",
+   "title": "苹果加入英伟达行列 成为第二家市值突破5万亿美元的上市公司‌",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从万亿市值里程碑切入，对比英伟达与苹果的科技霸权之争，解读背后产业逻辑",
+   "hook_reason": "苹果市值首破5万亿，追平英伟达，科技巨头历史对决引爆关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfwra1233612.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:苹果加入英伟达行列成为第二家市值突破5万亿美元的上市公司"
+  },
+  "特朗普谈及格陵兰岛记住他们当时以为我会派军队攻打格陵兰岛我并没有这个打算": {
+   "key": "特朗普谈及格陵兰岛记住他们当时以为我会派军队攻打格陵兰岛我并没有这个打算",
+   "title": "特朗普谈及格陵兰岛：记住，他们当时以为我会派军队攻打格陵兰岛。我并没有这个打算。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "解读特朗普此言的战略意图，结合美国对格陵兰岛的长期觊觎背景分析",
+   "hook_reason": "特朗普放话涉军事话题，读者好奇他要搞什么动作",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfwqt7477335.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普谈及格陵兰岛记住他们当时以为我会派军队攻打格陵兰岛我并没有这个打算"
+  },
+  "高盛谁高位接盘了美股科技": {
+   "key": "高盛谁高位接盘了美股科技",
+   "title": "高盛：谁高位接盘了美股科技",
+   "rating": "A",
+   "score": 91.0,
+   "angle": "从资金流向切入，分析散户高位追涨美股科技股的现状与风险，结合高盛大单数据解读",
+   "hook_reason": "高盛揭秘散户接盘美股科技，资金动向引发市场关注",
+   "url": "https://www.toutiao.com/trending/7696513698201865764/",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:高盛谁高位接盘了美股科技"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
