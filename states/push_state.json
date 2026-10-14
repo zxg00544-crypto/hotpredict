@@ -5390,6 +5390,58 @@
    "breaking": true,
    "event_id": "e:showhnbuildinganllmfromscratchintypescri",
    "batch_window": 19
+  },
+  {
+   "key": "amazonpushesuppricesacrosstheinternet",
+   "title": "Amazon pushes up prices across the Internet",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "从亚马逊全球涨价看科技巨头如何利用平台优势转嫁成本，消费者如何应对",
+   "hook_reason": "亚马逊全网涨价，普通网民钱包受影响",
+   "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:amazonpushesuppricesacrosstheinternet",
+   "batch_window": 19
+  },
+  {
+   "key": "女老虎包惠被开除党籍",
+   "title": "“女老虎”包惠被开除党籍",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从反腐角度切入，分析高层官员被查的信号意义及对政界的影响",
+   "hook_reason": "女高官落马，反腐再出大案，民众天然关注",
+   "url": "https://www.toutiao.com/trending/7696446731625434651/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女老虎包惠被开除党籍",
+   "batch_window": 19
+  },
+  {
+   "key": "whoisplantingbackdoorsinledgercryptowallets",
+   "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "深挖谁在幕后操控、Ledger官方回应、普通用户如何自保",
+   "hook_reason": "加密钱包被植入门的后门，用户资产安全直接受威胁",
+   "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whoisplantingbackdoorsinledgercryptowall",
+   "batch_window": 19
+  },
+  {
+   "key": "151款应用拒绝接入豆包手机助手",
+   "title": "151款应用拒绝接入豆包手机助手",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从应用厂商拒绝豆包切入，分析AI助手生态竞争与企业数据护城河的博弈",
+   "hook_reason": "151款应用集体对抗百度豆包，大厂护城河还是封闭生态？",
+   "url": "https://www.baidu.com/s?wd=151%E6%AC%BE%E5%BA%94%E7%94%A8%E6%8B%92%E7%BB%9D%E6%8E%A5%E5%85%A5%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:151款应用拒绝接入豆包手机助手",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -6877,6 +6929,54 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:showhnbuildinganllmfromscratchintypescri"
+  },
+  "amazonpushesuppricesacrosstheinternet": {
+   "key": "amazonpushesuppricesacrosstheinternet",
+   "title": "Amazon pushes up prices across the Internet",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "从亚马逊全球涨价看科技巨头如何利用平台优势转嫁成本，消费者如何应对",
+   "hook_reason": "亚马逊全网涨价，普通网民钱包受影响",
+   "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:amazonpushesuppricesacrosstheinternet"
+  },
+  "女老虎包惠被开除党籍": {
+   "key": "女老虎包惠被开除党籍",
+   "title": "“女老虎”包惠被开除党籍",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从反腐角度切入，分析高层官员被查的信号意义及对政界的影响",
+   "hook_reason": "女高官落马，反腐再出大案，民众天然关注",
+   "url": "https://www.toutiao.com/trending/7696446731625434651/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女老虎包惠被开除党籍"
+  },
+  "whoisplantingbackdoorsinledgercryptowallets": {
+   "key": "whoisplantingbackdoorsinledgercryptowallets",
+   "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "深挖谁在幕后操控、Ledger官方回应、普通用户如何自保",
+   "hook_reason": "加密钱包被植入门的后门，用户资产安全直接受威胁",
+   "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whoisplantingbackdoorsinledgercryptowall"
+  },
+  "151款应用拒绝接入豆包手机助手": {
+   "key": "151款应用拒绝接入豆包手机助手",
+   "title": "151款应用拒绝接入豆包手机助手",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从应用厂商拒绝豆包切入，分析AI助手生态竞争与企业数据护城河的博弈",
+   "hook_reason": "151款应用集体对抗百度豆包，大厂护城河还是封闭生态？",
+   "url": "https://www.baidu.com/s?wd=151%E6%AC%BE%E5%BA%94%E7%94%A8%E6%8B%92%E7%BB%9D%E6%8E%A5%E5%85%A5%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:151款应用拒绝接入豆包手机助手"
   }
  },
  "breaking_count": 10,
