@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-10-14",
  "a_pending": [
   {
@@ -4053,19 +4053,6 @@
    "batch_window": 15
   },
   {
-   "key": "如何看待近期社保纳入税务处罚单位欠缴社保最高罚三倍引发热议",
-   "title": "如何看待近期社保纳入税务处罚，单位欠缴社保最高罚三倍引发热议？",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "从打工人视角切入：企业不交社保违法成本飙升至三倍，劳动者维权正当时；同时分析中小微企业生存压力与政策刚性的张力",
-   "hook_reason": "打工人切身利益，谁不交社保谁违法",
-   "url": "https://www.zhihu.com/question/2092944563266479186",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:如何看待近期社保纳入税务处罚单位欠缴社保最高罚三倍引发热议",
-   "batch_window": 16
-  },
-  {
    "key": "中文在线称中国55的token消耗指向ai短剧如何看待这一现象",
    "title": "中文在线称，中国55%的token消耗指向AI短剧，如何看待这一现象？",
    "rating": "A",
@@ -5429,6 +5416,58 @@
    "breaking": true,
    "event_id": "e:151款应用拒绝接入豆包手机助手",
    "batch_window": 19
+  },
+  {
+   "key": "怎么看openai的ns数学证明被发现其实没遵循spanishprogram",
+   "title": "怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？",
+   "rating": "A",
+   "score": 78.8,
+   "angle": "OpenAI核心能力遭质疑，技术背书神话是否破灭？深挖争议细节",
+   "hook_reason": "OpenAI技术可信度存疑，科技圈信任危机引关注",
+   "url": "https://www.zhihu.com/question/2093654423369152454",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:怎么看openai的ns数学证明被发现其实没遵循spanishprogram",
+   "batch_window": 21
+  },
+  {
+   "key": "官方介入女摊主遭差评后轻生离世",
+   "title": "官方介入女摊主遭差评后轻生离世",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从差评机制切入，探讨平台规则如何吞噬小贩命运，官方介入后的问责走向",
+   "hook_reason": "差评致人死亡，官方介入，触及平台规则与底层生存矛盾",
+   "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E5%B7%AE%E8%AF%84%E5%90%8E%E8%BD%BB%E7%94%9F%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:官方介入女摊主遭差评后轻生离世",
+   "batch_window": 21
+  },
+  {
+   "key": "加拿大鹅道歉了",
+   "title": "加拿大鹅道歉了",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从'道歉背后'切入，深挖加拿大鹅争议事件全貌，引发读者对品牌傲慢态度的共鸣与吐槽",
+   "hook_reason": "知名品牌突然道歉，吃瓜群众最爱围观品牌翻车现场",
+   "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E9%81%93%E6%AD%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:加拿大鹅道歉了",
+   "batch_window": 21
+  },
+  {
+   "key": "微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位吗",
+   "title": "微信上线绿泡泡短剧，腾讯此前多次进军短剧市场都效果平平，这次能成功吗？能撼动红果的地位吗？",
+   "rating": "A",
+   "score": 80.5,
+   "angle": "从腾讯短剧战略失败史切入，分析'绿泡泡'差异化打法及能否颠覆红果格局",
+   "hook_reason": "腾讯短剧屡次失利后再次出招，这次能否逆袭红果引发关注",
+   "url": "https://www.zhihu.com/question/2093689082383524747",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -5850,7 +5889,8 @@
   "睡这个床感觉有人在挤我",
   "anthropicdiscloses2monthsoldfake53d2d34c",
   "网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤",
-  "amazonpushesuppricesacrosstheinternet"
+  "amazonpushesuppricesacrosstheinternet",
+  "如何看待近期社保纳入税务处罚单位欠缴社保最高罚三倍引发热议"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6208,7 +6248,8 @@
   "e:睡这个床感觉有人在挤我": "“睡这个床感觉有人在挤我”",
   "e:anthropicdiscloses2monthsoldfaketiptopol": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
   "e:网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤": "网红贵价面包接连遇冷，迎来烘焙「闭店潮」，是消费回归理性还是烘焙商业模式本身就存在硬伤？",
-  "e:amazonpushesuppricesacrosstheinternet": "Amazon pushes up prices across the Internet"
+  "e:amazonpushesuppricesacrosstheinternet": "Amazon pushes up prices across the Internet",
+  "e:如何看待近期社保纳入税务处罚单位欠缴社保最高罚三倍引发热议": "如何看待近期社保纳入税务处罚，单位欠缴社保最高罚三倍引发热议？"
  },
  "a_seen": {
   "王星被胁迫借下的网贷该不该还": {
@@ -6966,8 +7007,56 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:151款应用拒绝接入豆包手机助手"
+  },
+  "怎么看openai的ns数学证明被发现其实没遵循spanishprogram": {
+   "key": "怎么看openai的ns数学证明被发现其实没遵循spanishprogram",
+   "title": "怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？",
+   "rating": "A",
+   "score": 78.8,
+   "angle": "OpenAI核心能力遭质疑，技术背书神话是否破灭？深挖争议细节",
+   "hook_reason": "OpenAI技术可信度存疑，科技圈信任危机引关注",
+   "url": "https://www.zhihu.com/question/2093654423369152454",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:怎么看openai的ns数学证明被发现其实没遵循spanishprogram"
+  },
+  "官方介入女摊主遭差评后轻生离世": {
+   "key": "官方介入女摊主遭差评后轻生离世",
+   "title": "官方介入女摊主遭差评后轻生离世",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从差评机制切入，探讨平台规则如何吞噬小贩命运，官方介入后的问责走向",
+   "hook_reason": "差评致人死亡，官方介入，触及平台规则与底层生存矛盾",
+   "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E5%B7%AE%E8%AF%84%E5%90%8E%E8%BD%BB%E7%94%9F%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:官方介入女摊主遭差评后轻生离世"
+  },
+  "加拿大鹅道歉了": {
+   "key": "加拿大鹅道歉了",
+   "title": "加拿大鹅道歉了",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从'道歉背后'切入，深挖加拿大鹅争议事件全貌，引发读者对品牌傲慢态度的共鸣与吐槽",
+   "hook_reason": "知名品牌突然道歉，吃瓜群众最爱围观品牌翻车现场",
+   "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E9%81%93%E6%AD%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:加拿大鹅道歉了"
+  },
+  "微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位吗": {
+   "key": "微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位吗",
+   "title": "微信上线绿泡泡短剧，腾讯此前多次进军短剧市场都效果平平，这次能成功吗？能撼动红果的地位吗？",
+   "rating": "A",
+   "score": 80.5,
+   "angle": "从腾讯短剧战略失败史切入，分析'绿泡泡'差异化打法及能否颠覆红果格局",
+   "hook_reason": "腾讯短剧屡次失利后再次出招，这次能否逆袭红果引发关注",
+   "url": "https://www.zhihu.com/question/2093689082383524747",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
