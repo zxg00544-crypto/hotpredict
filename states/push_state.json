@@ -3585,19 +3585,6 @@
    "batch_window": 19
   },
   {
-   "key": "网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤",
-   "title": "网红贵价面包接连遇冷，迎来烘焙「闭店潮」，是消费回归理性还是烘焙商业模式本身就存在硬伤？",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "从'贵价面包遇冷'切入消费回归理性，关联闭店潮与商业模式反思",
-   "hook_reason": "消费降级+网红反噬，打工人共鸣",
-   "url": "https://www.zhihu.com/question/2092203524230754555",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤",
-   "batch_window": 21
-  },
-  {
    "key": "suddendropincloudflarebottrafficfb4f37ba",
    "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
    "rating": "A",
@@ -5351,6 +5338,58 @@
    "breaking": true,
    "event_id": "e:远大控股预计2026年前三季度净利润同比增长8901018",
    "batch_window": 18
+  },
+  {
+   "key": "库克谈ai如何改变应用开发中国开发者正迎来更多机会",
+   "title": "库克谈AI如何改变应用开发：中国开发者正迎来更多机会",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从科技巨头CEO视角看AI如何赋能中国开发者，解读政策与技术红利",
+   "hook_reason": "库克谈AI，中国开发者迎来机会",
+   "url": "https://finance.sina.cn/7x24/2026-10-14/detail-inivezmk4449787.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:库克谈ai如何改变应用开发中国开发者正迎来更多机会",
+   "batch_window": 19
+  },
+  {
+   "key": "opus55还原田柯宇模型投毒事件",
+   "title": "Opus5.5还原田柯宇模型投毒事件",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从技术安全角度切入，剖析AI训练数据投毒的实现路径、危害及行业防护漏洞",
+   "hook_reason": "AI模型被投毒？科技圈最炸裂的安全危机曝光",
+   "url": "https://search.bilibili.com/all?keyword=Opus5.5还原田柯宇模型投毒事件",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:opus55还原田柯宇模型投毒事件",
+   "batch_window": 19
+  },
+  {
+   "key": "agenterasedfullseasonofthechalle3b606554",
+   "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "AI Agent事故频发背后：自动化信任危机何时休？从娱乐业切入谈生产力工具的可靠性红线",
+   "hook_reason": "AI失控删全季节目，数百天工作归零，直击创作者恐惧",
+   "url": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:agenterasedfullseasonofthechallengeswehu",
+   "batch_window": 19
+  },
+  {
+   "key": "showhnbuildinganllmfromscratchintypescript",
+   "title": "Show HN: Building an LLM from Scratch in TypeScript",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "TypeScript也能造大模型？从底层解析LLM实现原理，技术栈创新引发开发者关注",
+   "hook_reason": "从0构建大模型，TypeScript实现+实战教程，开发者必看",
+   "url": "https://book.humanexperiences.io/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:showhnbuildinganllmfromscratchintypescri",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -5770,7 +5809,8 @@
   "lv承认起诉茉莉奶白产生负面影响第三季度中国客群需求下降15怎样看待这一变化",
   "国际油价深夜大涨",
   "睡这个床感觉有人在挤我",
-  "anthropicdiscloses2monthsoldfake53d2d34c"
+  "anthropicdiscloses2monthsoldfake53d2d34c",
+  "网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6126,7 +6166,8 @@
   "e:lv承认起诉茉莉奶白产生负面影响第三季度中国客群需求下降15怎样看待这一变化": "LV 承认起诉茉莉奶白产生负面影响，第三季度中国客群需求下降 15% ，怎样看待这一变化？",
   "e:国际油价深夜大涨": "国际油价深夜大涨",
   "e:睡这个床感觉有人在挤我": "“睡这个床感觉有人在挤我”",
-  "e:anthropicdiscloses2monthsoldfaketiptopol": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents"
+  "e:anthropicdiscloses2monthsoldfaketiptopol": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+  "e:网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤": "网红贵价面包接连遇冷，迎来烘焙「闭店潮」，是消费回归理性还是烘焙商业模式本身就存在硬伤？"
  },
  "a_seen": {
   "王星被胁迫借下的网贷该不该还": {
@@ -6788,8 +6829,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:黄奇帆落马次日重庆开会表态"
+  },
+  "库克谈ai如何改变应用开发中国开发者正迎来更多机会": {
+   "key": "库克谈ai如何改变应用开发中国开发者正迎来更多机会",
+   "title": "库克谈AI如何改变应用开发：中国开发者正迎来更多机会",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从科技巨头CEO视角看AI如何赋能中国开发者，解读政策与技术红利",
+   "hook_reason": "库克谈AI，中国开发者迎来机会",
+   "url": "https://finance.sina.cn/7x24/2026-10-14/detail-inivezmk4449787.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:库克谈ai如何改变应用开发中国开发者正迎来更多机会"
+  },
+  "opus55还原田柯宇模型投毒事件": {
+   "key": "opus55还原田柯宇模型投毒事件",
+   "title": "Opus5.5还原田柯宇模型投毒事件",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从技术安全角度切入，剖析AI训练数据投毒的实现路径、危害及行业防护漏洞",
+   "hook_reason": "AI模型被投毒？科技圈最炸裂的安全危机曝光",
+   "url": "https://search.bilibili.com/all?keyword=Opus5.5还原田柯宇模型投毒事件",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:opus55还原田柯宇模型投毒事件"
+  },
+  "agenterasedfullseasonofthechalle3b606554": {
+   "key": "agenterasedfullseasonofthechalle3b606554",
+   "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "AI Agent事故频发背后：自动化信任危机何时休？从娱乐业切入谈生产力工具的可靠性红线",
+   "hook_reason": "AI失控删全季节目，数百天工作归零，直击创作者恐惧",
+   "url": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:agenterasedfullseasonofthechallengeswehu"
+  },
+  "showhnbuildinganllmfromscratchintypescript": {
+   "key": "showhnbuildinganllmfromscratchintypescript",
+   "title": "Show HN: Building an LLM from Scratch in TypeScript",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "TypeScript也能造大模型？从底层解析LLM实现原理，技术栈创新引发开发者关注",
+   "hook_reason": "从0构建大模型，TypeScript实现+实战教程，开发者必看",
+   "url": "https://book.humanexperiences.io/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:showhnbuildinganllmfromscratchintypescri"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
