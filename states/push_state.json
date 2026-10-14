@@ -5353,19 +5353,6 @@
    "batch_window": 19
   },
   {
-   "key": "女老虎包惠被开除党籍",
-   "title": "“女老虎”包惠被开除党籍",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "从反腐角度切入，分析高层官员被查的信号意义及对政界的影响",
-   "hook_reason": "女高官落马，反腐再出大案，民众天然关注",
-   "url": "https://www.toutiao.com/trending/7696446731625434651/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:女老虎包惠被开除党籍",
-   "batch_window": 19
-  },
-  {
    "key": "whoisplantingbackdoorsinledgercryptowallets",
    "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
    "rating": "A",
@@ -5468,6 +5455,45 @@
    "breaking": true,
    "event_id": "e:anduril将以约900亿美元估值出售内部人士持股",
    "batch_window": 1
+  },
+  {
+   "key": "aiagentsarentgoingroguefrontierlfe3b5505",
+   "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "从AI agent安全风险切入，揭露头部实验室重功能轻安全的行业通病，呼吁建立可信AI底线",
+   "hook_reason": "AI安全争议直击行业软肋，揭秘前沿实验室忽视基础安全的真相",
+   "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:aiagentsarentgoingroguefrontierlabsaresk",
+   "batch_window": 2
+  },
+  {
+   "key": "美国银行ceo莫伊尼汉围绕如何解决相关问题因洗钱被罚12亿美元有过一些讨论",
+   "title": "美国银行CEO莫伊尼汉：围绕如何解决相关问题（因洗钱被罚12亿美元）有过一些讨论",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "聚焦洗钱罚款背后的合规成本危机，解读监管收紧信号与银行业应对策略",
+   "hook_reason": "银行巨头被罚12亿美元后CEO紧急发声，监管风暴升级引金融圈震动",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfsia4452934.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美国银行ceo莫伊尼汉公司势头强劲罚款除外",
+   "batch_window": 2
+  },
+  {
+   "key": "sound2022",
+   "title": "Sound (2022)",
+   "rating": "A",
+   "score": 42.63,
+   "angle": "国内首个可交互的3D声音可视化网站火了，网友直呼\"原来声音长这样\"",
+   "hook_reason": "能看到声音的交互式网站，视觉震撼，满足猎奇心理",
+   "url": "https://ciechanow.ski/sound/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:sound2022",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -5904,7 +5930,8 @@
   "spacex为何对乌军用星链终端限速",
   "a股资金为何持续弃科技抱红利",
   "amsterdampoliceconfisquatesserve079f0171",
-  "百果园2年亏掉了7个亿问题出在哪里百果园既想做高品质水果又想强调高性价比品牌定位该如何取舍"
+  "百果园2年亏掉了7个亿问题出在哪里百果园既想做高品质水果又想强调高性价比品牌定位该如何取舍",
+  "女老虎包惠被开除党籍"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6277,7 +6304,8 @@
   "e:spacex为何对乌军用星链终端限速": "SpaceX为何对乌军用星链终端限速",
   "e:a股资金为何持续弃科技抱红利": "A股资金为何持续“弃科技、抱红利”",
   "e:amsterdampoliceconfisquatesserverleftwin": "Amsterdam police confisquates server left-wing ISP A/I at American request",
-  "e:百果园2年亏掉了7个亿问题出在哪里百果园既想做高品质水果又想强调高性价比品牌定位": "百果园2年亏掉了7个亿，问题出在哪里？百果园既想做高品质水果，又想强调高性价比，品牌定位该如何取舍？"
+  "e:百果园2年亏掉了7个亿问题出在哪里百果园既想做高品质水果又想强调高性价比品牌定位": "百果园2年亏掉了7个亿，问题出在哪里？百果园既想做高品质水果，又想强调高性价比，品牌定位该如何取舍？",
+  "e:女老虎包惠被开除党籍": "“女老虎”包惠被开除党籍"
  },
  "a_seen": {
   "asmlsstrongorderseasefearsaispen5929adb6": {
@@ -6375,8 +6403,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:anduril将以约900亿美元估值出售内部人士持股"
+  },
+  "aiagentsarentgoingroguefrontierlfe3b5505": {
+   "key": "aiagentsarentgoingroguefrontierlfe3b5505",
+   "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "从AI agent安全风险切入，揭露头部实验室重功能轻安全的行业通病，呼吁建立可信AI底线",
+   "hook_reason": "AI安全争议直击行业软肋，揭秘前沿实验室忽视基础安全的真相",
+   "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:aiagentsarentgoingroguefrontierlabsaresk"
+  },
+  "美国银行ceo莫伊尼汉围绕如何解决相关问题因洗钱被罚12亿美元有过一些讨论": {
+   "key": "美国银行ceo莫伊尼汉围绕如何解决相关问题因洗钱被罚12亿美元有过一些讨论",
+   "title": "美国银行CEO莫伊尼汉：围绕如何解决相关问题（因洗钱被罚12亿美元）有过一些讨论",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "聚焦洗钱罚款背后的合规成本危机，解读监管收紧信号与银行业应对策略",
+   "hook_reason": "银行巨头被罚12亿美元后CEO紧急发声，监管风暴升级引金融圈震动",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfsia4452934.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美国银行ceo莫伊尼汉公司势头强劲罚款除外"
+  },
+  "sound2022": {
+   "key": "sound2022",
+   "title": "Sound (2022)",
+   "rating": "A",
+   "score": 42.63,
+   "angle": "国内首个可交互的3D声音可视化网站火了，网友直呼\"原来声音长这样\"",
+   "hook_reason": "能看到声音的交互式网站，视觉震撼，满足猎奇心理",
+   "url": "https://ciechanow.ski/sound/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:sound2022"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
