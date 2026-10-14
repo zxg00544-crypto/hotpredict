@@ -5431,19 +5431,6 @@
    "batch_window": 21
   },
   {
-   "key": "加拿大鹅道歉了",
-   "title": "加拿大鹅道歉了",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "从'道歉背后'切入，深挖加拿大鹅争议事件全貌，引发读者对品牌傲慢态度的共鸣与吐槽",
-   "hook_reason": "知名品牌突然道歉，吃瓜群众最爱围观品牌翻车现场",
-   "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E9%81%93%E6%AD%89%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:加拿大鹅道歉了",
-   "batch_window": 21
-  },
-  {
    "key": "微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位吗",
    "title": "微信上线绿泡泡短剧，腾讯此前多次进军短剧市场都效果平平，这次能成功吗？能撼动红果的地位吗？",
    "rating": "A",
@@ -5481,6 +5468,45 @@
    "breaking": true,
    "event_id": "e:2027年或成史上最热一年",
    "batch_window": 22
+  },
+  {
+   "key": "成都警方通报女子持u型锁打人",
+   "title": "成都警方通报“女子持U型锁打人”",
+   "rating": "A",
+   "score": 52.65,
+   "angle": "从女性暴力事件切入，探讨城市公共安全、法治教育与性别议题的社会反思",
+   "hook_reason": "暴力袭人+警方通报，引发公共安全与法治讨论",
+   "url": "https://www.toutiao.com/trending/7696506565130076201/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:成都警方通报女子持u型锁打人",
+   "batch_window": 23
+  },
+  {
+   "key": "asmlsstrongorderseasefearsaispen5929adb6",
+   "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "ASML强订单如何打脸AI支出放缓论，光刻机龙头一季报背后的芯片产业风向标",
+   "hook_reason": "ASML订单超预期，AI芯片需求再证旺盛，反驳市场降温论",
+   "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:asmlsstrongorderseasefearsaispendingboom",
+   "batch_window": 23
+  },
+  {
+   "key": "spacex为何对乌军用星链终端限速",
+   "title": "SpaceX为何对乌军用星链终端限速",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从星链终端实测网速暴跌视频切入，拆解SpaceX'战略克制'的商业逻辑vs道德困境，马斯克到底在想什么",
+   "hook_reason": "SpaceX在俄乌战争中卡星链终端网速，是马斯克'中立'人设首次公开翻车",
+   "url": "https://www.toutiao.com/trending/7696516735377100351/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:spacex为何对乌军用星链终端限速",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -5904,7 +5930,8 @@
   "网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤",
   "amazonpushesuppricesacrosstheinternet",
   "如何看待近期社保纳入税务处罚单位欠缴社保最高罚三倍引发热议",
-  "官方介入女摊主遭差评后轻生离世"
+  "官方介入女摊主遭差评后轻生离世",
+  "加拿大鹅道歉了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6264,7 +6291,8 @@
   "e:网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤": "网红贵价面包接连遇冷，迎来烘焙「闭店潮」，是消费回归理性还是烘焙商业模式本身就存在硬伤？",
   "e:amazonpushesuppricesacrosstheinternet": "Amazon pushes up prices across the Internet",
   "e:如何看待近期社保纳入税务处罚单位欠缴社保最高罚三倍引发热议": "如何看待近期社保纳入税务处罚，单位欠缴社保最高罚三倍引发热议？",
-  "e:官方介入女摊主遭差评后轻生离世": "官方介入女摊主遭差评后轻生离世"
+  "e:官方介入女摊主遭差评后轻生离世": "官方介入女摊主遭差评后轻生离世",
+  "e:加拿大鹅道歉了": "加拿大鹅道歉了"
  },
  "a_seen": {
   "王星被胁迫借下的网贷该不该还": {
@@ -7094,8 +7122,44 @@
    "track": "行业趋势",
    "breaking": true,
    "event_id": "e:2027年或成史上最热一年"
+  },
+  "成都警方通报女子持u型锁打人": {
+   "key": "成都警方通报女子持u型锁打人",
+   "title": "成都警方通报“女子持U型锁打人”",
+   "rating": "A",
+   "score": 52.65,
+   "angle": "从女性暴力事件切入，探讨城市公共安全、法治教育与性别议题的社会反思",
+   "hook_reason": "暴力袭人+警方通报，引发公共安全与法治讨论",
+   "url": "https://www.toutiao.com/trending/7696506565130076201/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:成都警方通报女子持u型锁打人"
+  },
+  "asmlsstrongorderseasefearsaispen5929adb6": {
+   "key": "asmlsstrongorderseasefearsaispen5929adb6",
+   "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "ASML强订单如何打脸AI支出放缓论，光刻机龙头一季报背后的芯片产业风向标",
+   "hook_reason": "ASML订单超预期，AI芯片需求再证旺盛，反驳市场降温论",
+   "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:asmlsstrongorderseasefearsaispendingboom"
+  },
+  "spacex为何对乌军用星链终端限速": {
+   "key": "spacex为何对乌军用星链终端限速",
+   "title": "SpaceX为何对乌军用星链终端限速",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从星链终端实测网速暴跌视频切入，拆解SpaceX'战略克制'的商业逻辑vs道德困境，马斯克到底在想什么",
+   "hook_reason": "SpaceX在俄乌战争中卡星链终端网速，是马斯克'中立'人设首次公开翻车",
+   "url": "https://www.toutiao.com/trending/7696516735377100351/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:spacex为何对乌军用星链终端限速"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
