@@ -5431,19 +5431,6 @@
    "batch_window": 21
   },
   {
-   "key": "官方介入女摊主遭差评后轻生离世",
-   "title": "官方介入女摊主遭差评后轻生离世",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从差评机制切入，探讨平台规则如何吞噬小贩命运，官方介入后的问责走向",
-   "hook_reason": "差评致人死亡，官方介入，触及平台规则与底层生存矛盾",
-   "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E5%B7%AE%E8%AF%84%E5%90%8E%E8%BD%BB%E7%94%9F%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:官方介入女摊主遭差评后轻生离世",
-   "batch_window": 21
-  },
-  {
    "key": "加拿大鹅道歉了",
    "title": "加拿大鹅道歉了",
    "rating": "A",
@@ -5468,6 +5455,32 @@
    "breaking": true,
    "event_id": "e:微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位",
    "batch_window": 21
+  },
+  {
+   "key": "装修公司投身ai漫剧市值暴涨16亿",
+   "title": "装修公司投身AI漫剧 市值暴涨16亿",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "中小企业主如何抓住AI内容风口，传统行业转型案例拆解",
+   "hook_reason": "传统装修企业跨界AI漫剧，市值暴涨16亿的反差故事",
+   "url": "https://www.baidu.com/s?wd=%E8%A3%85%E4%BF%AE%E5%85%AC%E5%8F%B8%E6%8A%95%E8%BA%ABAI%E6%BC%AB%E5%89%A7+%E5%B8%82%E5%80%BC%E6%9A%B4%E6%B6%A816%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:装修公司投身ai漫剧市值暴涨16亿",
+   "batch_window": 22
+  },
+  {
+   "key": "2027年或成史上最热一年",
+   "title": "2027年或成史上最热一年",
+   "rating": "A",
+   "score": 52.6,
+   "angle": "从极端天气切入，拆解制冷设备、防晒产业、保险理赔三大爆发赛道",
+   "hook_reason": "史上最热年份+金钱影响百姓钱包",
+   "url": "https://www.toutiao.com/trending/7695657946173407275/",
+   "track": "行业趋势",
+   "breaking": true,
+   "event_id": "e:2027年或成史上最热一年",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -5890,7 +5903,8 @@
   "anthropicdiscloses2monthsoldfake53d2d34c",
   "网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤",
   "amazonpushesuppricesacrosstheinternet",
-  "如何看待近期社保纳入税务处罚单位欠缴社保最高罚三倍引发热议"
+  "如何看待近期社保纳入税务处罚单位欠缴社保最高罚三倍引发热议",
+  "官方介入女摊主遭差评后轻生离世"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6249,7 +6263,8 @@
   "e:anthropicdiscloses2monthsoldfaketiptopol": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
   "e:网红贵价面包接连遇冷迎来烘焙闭店潮是消费回归理性还是烘焙商业模式本身就存在硬伤": "网红贵价面包接连遇冷，迎来烘焙「闭店潮」，是消费回归理性还是烘焙商业模式本身就存在硬伤？",
   "e:amazonpushesuppricesacrosstheinternet": "Amazon pushes up prices across the Internet",
-  "e:如何看待近期社保纳入税务处罚单位欠缴社保最高罚三倍引发热议": "如何看待近期社保纳入税务处罚，单位欠缴社保最高罚三倍引发热议？"
+  "e:如何看待近期社保纳入税务处罚单位欠缴社保最高罚三倍引发热议": "如何看待近期社保纳入税务处罚，单位欠缴社保最高罚三倍引发热议？",
+  "e:官方介入女摊主遭差评后轻生离世": "官方介入女摊主遭差评后轻生离世"
  },
  "a_seen": {
   "王星被胁迫借下的网贷该不该还": {
@@ -7055,8 +7070,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位"
+  },
+  "装修公司投身ai漫剧市值暴涨16亿": {
+   "key": "装修公司投身ai漫剧市值暴涨16亿",
+   "title": "装修公司投身AI漫剧 市值暴涨16亿",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "中小企业主如何抓住AI内容风口，传统行业转型案例拆解",
+   "hook_reason": "传统装修企业跨界AI漫剧，市值暴涨16亿的反差故事",
+   "url": "https://www.baidu.com/s?wd=%E8%A3%85%E4%BF%AE%E5%85%AC%E5%8F%B8%E6%8A%95%E8%BA%ABAI%E6%BC%AB%E5%89%A7+%E5%B8%82%E5%80%BC%E6%9A%B4%E6%B6%A816%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:装修公司投身ai漫剧市值暴涨16亿"
+  },
+  "2027年或成史上最热一年": {
+   "key": "2027年或成史上最热一年",
+   "title": "2027年或成史上最热一年",
+   "rating": "A",
+   "score": 52.6,
+   "angle": "从极端天气切入，拆解制冷设备、防晒产业、保险理赔三大爆发赛道",
+   "hook_reason": "史上最热年份+金钱影响百姓钱包",
+   "url": "https://www.toutiao.com/trending/7695657946173407275/",
+   "track": "行业趋势",
+   "breaking": true,
+   "event_id": "e:2027年或成史上最热一年"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
