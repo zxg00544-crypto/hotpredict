@@ -4625,19 +4625,6 @@
    "batch_window": 10
   },
   {
-   "key": "我确实需要一台更大的车但我不想开一台不像我的车过去不少年轻人跟我说过这话我一直记着",
-   "title": "“我确实需要一台更大的车，但我不想开一台不像我的车。” 过去不少年轻人跟我说过这话，我一直记着。",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "从这句金句切入，解读年轻中产汽车消费升级背后的心理诉求——既要实用又要个性",
-   "hook_reason": "年轻消费者购车矛盾心理，直击30-40岁职场人群汽车消费升级痛点",
-   "url": "https://weibo.com/2455476364/RmrsIhOvV",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:我确实需要一台更大的车但我不想开一台不像我的车过去不少年轻人跟我说过这话我一直记",
-   "batch_window": 11
-  },
-  {
    "key": "韩国金融服务委员会韩国将封禁包括kucoinmexc在内的27个加密货币网站",
    "title": "韩国金融服务委员会：韩国将封禁包括KuCoin、MEXC在内的27个加密货币网站",
    "rating": "A",
@@ -5130,6 +5117,71 @@
    "breaking": true,
    "event_id": "e:宜宾一摊主被顾客差评后遭网暴最后不堪重压选择跳河轻生如何避免这种悲剧再次发生",
    "batch_window": 8
+  },
+  {
+   "key": "如何评价老干妈引入ai用于检验辣椒品质将600人生产线减至48人ai能给食品制造业带来啥改变",
+   "title": "如何评价老干妈引入AI 用于检验辣椒品质，将600人生产线减至48人？AI 能给食品制造业带来啥改变？",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "AI质检如何让老干妈600人产线缩至48人，一个经典品牌正在被重新定义",
+   "hook_reason": "AI裁掉老干妈92%工人，国民品牌+就业焦虑，天然爆款冲突",
+   "url": "https://www.zhihu.com/question/2093427934316814825",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何评价老干妈引入ai用于检验辣椒品质将600人生产线减至48人ai能给食品制造",
+   "batch_window": 9
+  },
+  {
+   "key": "showhnpulselocalamacbudgetingappb06f83c4",
+   "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "从Pulse Local看AI本地化趋势：当大模型不再依赖云端，macOS用户迎来真正的隐私预算工具",
+   "hook_reason": "AI本地运行对抗云端焦虑，隐私党&效率党双吸引",
+   "url": "https://pulseos.finance",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:showhnpulselocalamacbudgetingappwhoseaim",
+   "batch_window": 9
+  },
+  {
+   "key": "报告英伟达中国ai芯片份额跌至34",
+   "title": "报告：英伟达中国AI芯片份额跌至34%",
+   "rating": "A",
+   "score": 76.33,
+   "angle": "从英伟达份额下滑切入，解读国产AI芯片突围战与供应链重构格局",
+   "hook_reason": "巨头份额暴跌背后是中国芯片替代加速",
+   "url": "https://www.toutiao.com/trending/7696186267725205046/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:报告英伟达中国ai芯片份额跌至34",
+   "batch_window": 9
+  },
+  {
+   "key": "田柯宇时隔两年回应字节模型投毒事件当时究竟发生了什么",
+   "title": "田柯宇时隔两年回应字节「模型投毒」事件，当时究竟发生了什么？",
+   "rating": "A",
+   "score": 43.8,
+   "angle": "复盘字节模型投毒事件始末，分析AI数据安全漏洞与企业危机公关策略",
+   "hook_reason": "AI大厂模型被指投毒，时隔两年创始人亲自回应，内幕引猜疑",
+   "url": "https://www.zhihu.com/question/2093344101663863892",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:田柯宇时隔两年回应字节模型投毒事件当时究竟发生了什么",
+   "batch_window": 9
+  },
+  {
+   "key": "8大ai预测s16世界赛",
+   "title": "8大AI预测S16世界赛",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "AI电竞预测准不准？科技赋能体育的新边界",
+   "hook_reason": "AI预测电竞结果，科技圈与电竞粉都关心准确性",
+   "url": "https://search.bilibili.com/all?keyword=8大AI预测S16世界赛",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:8大ai预测s16世界赛",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -5539,7 +5591,8 @@
   "茶百道ipo疑遭操纵被停牌有啥后果",
   "gt源于意大利语granturismo译为伟大旅程小米yu7gt为热爱驾驶的人",
   "中国为何主动砍新能源车出口退税",
-  "z114次列车成候鸟老人迁徙核心通道"
+  "z114次列车成候鸟老人迁徙核心通道",
+  "我确实需要一台更大的车但我不想开一台不像我的车过去不少年轻人跟我说过这话我一直记着"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -5885,7 +5938,8 @@
   "e:茶百道ipo疑遭操纵被停牌有啥后果": "茶百道IPO疑遭操纵被停牌 有啥后果",
   "e:gt源于意大利语granturismo译为伟大旅程小米yu7gt为热爱驾驶的人": "GT，源于意大利语Gran Turismo，译为“伟大旅程”。 小米YU7 GT，为热爱驾驶的人",
   "e:中国为何主动砍新能源车出口退税": "中国为何主动砍新能源车出口退税",
-  "e:z114次列车成候鸟老人迁徙核心通道": "Z114次列车成候鸟老人迁徙核心通道"
+  "e:z114次列车成候鸟老人迁徙核心通道": "Z114次列车成候鸟老人迁徙核心通道",
+  "e:我确实需要一台更大的车但我不想开一台不像我的车过去不少年轻人跟我说过这话我一直记": "“我确实需要一台更大的车，但我不想开一台不像我的车。” 过去不少年轻人跟我说过这话，我一直记着。"
  },
  "a_seen": {
   "王星被胁迫借下的网贷该不该还": {
@@ -6168,15 +6222,99 @@
    "key": "宜宾一摊主被顾客差评后遭网暴最后不堪重压选择跳河轻生如何避免这种悲剧再次发生",
    "title": "宜宾一摊主被顾客差评后遭网暴，最后不堪重压选择跳河轻生，如何避免这种悲剧再次发生？",
    "rating": "A",
-   "score": 43.9,
-   "angle": "从平台责任与法律追责切入，探讨网暴入刑后的执行痛点与普通人如何自我保护",
-   "hook_reason": "网暴致死冲击巨大，人人自危的情绪共鸣极易引发转发",
+   "score": 78.9,
+   "angle": "从网暴法律边界与平台责任切入，探讨普通人在评价体系下的生存困境",
+   "hook_reason": "差评致人死亡，极端冲突+普通人共鸣，情绪浓度极高",
    "url": "https://www.zhihu.com/question/2093063796151665961",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:宜宾一摊主被顾客差评后遭网暴最后不堪重压选择跳河轻生如何避免这种悲剧再次发生"
+  },
+  "如何评价老干妈引入ai用于检验辣椒品质将600人生产线减至48人ai能给食品制造业带来啥改变": {
+   "key": "如何评价老干妈引入ai用于检验辣椒品质将600人生产线减至48人ai能给食品制造业带来啥改变",
+   "title": "如何评价老干妈引入AI 用于检验辣椒品质，将600人生产线减至48人？AI 能给食品制造业带来啥改变？",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "AI质检如何让老干妈600人产线缩至48人，一个经典品牌正在被重新定义",
+   "hook_reason": "AI裁掉老干妈92%工人，国民品牌+就业焦虑，天然爆款冲突",
+   "url": "https://www.zhihu.com/question/2093427934316814825",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何评价老干妈引入ai用于检验辣椒品质将600人生产线减至48人ai能给食品制造"
+  },
+  "showhnpulselocalamacbudgetingappb06f83c4": {
+   "key": "showhnpulselocalamacbudgetingappb06f83c4",
+   "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "从Pulse Local看AI本地化趋势：当大模型不再依赖云端，macOS用户迎来真正的隐私预算工具",
+   "hook_reason": "AI本地运行对抗云端焦虑，隐私党&效率党双吸引",
+   "url": "https://pulseos.finance",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:showhnpulselocalamacbudgetingappwhoseaim"
+  },
+  "报告英伟达中国ai芯片份额跌至34": {
+   "key": "报告英伟达中国ai芯片份额跌至34",
+   "title": "报告：英伟达中国AI芯片份额跌至34%",
+   "rating": "A",
+   "score": 76.33,
+   "angle": "从英伟达份额下滑切入，解读国产AI芯片突围战与供应链重构格局",
+   "hook_reason": "巨头份额暴跌背后是中国芯片替代加速",
+   "url": "https://www.toutiao.com/trending/7696186267725205046/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:报告英伟达中国ai芯片份额跌至34"
+  },
+  "如何看待患者送19元汽水后举报医院药房工作人员违规收礼医院已对其进行批评教育这算违规收礼吗": {
+   "key": "如何看待患者送19元汽水后举报医院药房工作人员违规收礼医院已对其进行批评教育这算违规收礼吗",
+   "title": "如何看待患者送 1.9 元汽水后举报医院药房工作人员违规收礼，医院已对其进行批评教育？这算违规收礼吗？",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "规则边界与医患信任：'微礼'何时变'重礼'？探讨基层医疗人情困境与制度刚性",
+   "hook_reason": "1.9元汽水算不算礼？医患博弈引发全民站队",
+   "url": "https://www.zhihu.com/question/2093393122902237224",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:19元汽水收礼事件发生于2023年"
+  },
+  "meta推出ai工具允许用户自主定制facebook信息流": {
+   "key": "meta推出ai工具允许用户自主定制facebook信息流",
+   "title": "Meta推出AI工具，允许用户自主定制Facebook信息流",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "Meta AI工具让用户自主定制信息流，或颠覆算法推荐逻辑，大厂如何定义\"信息主权\"？",
+   "hook_reason": "Meta开放信息流控制权，算法黑箱时代终结？",
+   "url": "https://finance.sina.cn/7x24/2026-10-14/detail-inivcxxn0474954.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:meta推出人工智能工具让用户能够塑造facebook信息流"
+  },
+  "田柯宇时隔两年回应字节模型投毒事件当时究竟发生了什么": {
+   "key": "田柯宇时隔两年回应字节模型投毒事件当时究竟发生了什么",
+   "title": "田柯宇时隔两年回应字节「模型投毒」事件，当时究竟发生了什么？",
+   "rating": "A",
+   "score": 43.8,
+   "angle": "复盘字节模型投毒事件始末，分析AI数据安全漏洞与企业危机公关策略",
+   "hook_reason": "AI大厂模型被指投毒，时隔两年创始人亲自回应，内幕引猜疑",
+   "url": "https://www.zhihu.com/question/2093344101663863892",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:田柯宇时隔两年回应字节模型投毒事件当时究竟发生了什么"
+  },
+  "8大ai预测s16世界赛": {
+   "key": "8大ai预测s16世界赛",
+   "title": "8大AI预测S16世界赛",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "AI电竞预测准不准？科技赋能体育的新边界",
+   "hook_reason": "AI预测电竞结果，科技圈与电竞粉都关心准确性",
+   "url": "https://search.bilibili.com/all?keyword=8大AI预测S16世界赛",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:8大ai预测s16世界赛"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
