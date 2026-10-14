@@ -5442,6 +5442,32 @@
    "breaking": true,
    "event_id": "e:2027年或成史上最热一年",
    "batch_window": 22
+  },
+  {
+   "key": "passkeysarenotatrap",
+   "title": "Passkeys are not a trap",
+   "rating": "A",
+   "score": 74.7,
+   "angle": "解读Passkeys安全性争议，分析大厂推进密码管理新标准背后的技术博弈",
+   "hook_reason": "Passkeys安全争议引爆技术圈，大厂力推标准遭质疑",
+   "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:passkeysarenotatrap",
+   "batch_window": 1
+  },
+  {
+   "key": "anduril将以约900亿美元估值出售内部人士持股",
+   "title": "Anduril将以约900亿美元估值出售内部人士持股。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "Anduril为何在此时选择出售内部持股？国防科技赛道资本逻辑正在改写",
+   "hook_reason": "900亿美元估值出售，国防科技独角兽重磅交易",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfmzh1306330.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anduril将以约900亿美元估值出售内部人士持股",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -5877,7 +5903,7 @@
   "英国首相伯纳姆将加快向乌克兰交付英国制造的防空系统",
   "spacex为何对乌军用星链终端限速",
   "a股资金为何持续弃科技抱红利",
-  "passkeysarenotatrap",
+  "amsterdampoliceconfisquatesserve079f0171",
   "百果园2年亏掉了7个亿问题出在哪里百果园既想做高品质水果又想强调高性价比品牌定位该如何取舍"
  ],
  "pushed_events": {
@@ -6250,7 +6276,7 @@
   "e:英国首相伯纳姆将加快向乌克兰交付英国制造的防空系统": "英国首相伯纳姆：将加快向乌克兰交付英国制造的防空系统。",
   "e:spacex为何对乌军用星链终端限速": "SpaceX为何对乌军用星链终端限速",
   "e:a股资金为何持续弃科技抱红利": "A股资金为何持续“弃科技、抱红利”",
-  "e:passkeysarenotatrap": "Passkeys are not a trap",
+  "e:amsterdampoliceconfisquatesserverleftwin": "Amsterdam police confisquates server left-wing ISP A/I at American request",
   "e:百果园2年亏掉了7个亿问题出在哪里百果园既想做高品质水果又想强调高性价比品牌定位": "百果园2年亏掉了7个亿，问题出在哪里？百果园既想做高品质水果，又想强调高性价比，品牌定位该如何取舍？"
  },
  "a_seen": {
@@ -6313,6 +6339,42 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:spacex为何对乌军用星链终端限速"
+  },
+  "amsterdampoliceconfisquatesserve079f0171": {
+   "key": "amsterdampoliceconfisquatesserve079f0171",
+   "title": "Amsterdam police confisquates server left-wing ISP A/I at American request",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "跨国执法边界之争：美国影响力如何延伸到欧洲本地ISP？公众隐私与网络自由的隐忧",
+   "hook_reason": "美荷跨境执法争议，网民担忧网络自由",
+   "url": "https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:amsterdampoliceconfisquatesserverleftwin"
+  },
+  "passkeysarenotatrap": {
+   "key": "passkeysarenotatrap",
+   "title": "Passkeys are not a trap",
+   "rating": "A",
+   "score": 74.7,
+   "angle": "解读Passkeys安全性争议，分析大厂推进密码管理新标准背后的技术博弈",
+   "hook_reason": "Passkeys安全争议引爆技术圈，大厂力推标准遭质疑",
+   "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:passkeysarenotatrap"
+  },
+  "anduril将以约900亿美元估值出售内部人士持股": {
+   "key": "anduril将以约900亿美元估值出售内部人士持股",
+   "title": "Anduril将以约900亿美元估值出售内部人士持股。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "Anduril为何在此时选择出售内部持股？国防科技赛道资本逻辑正在改写",
+   "hook_reason": "900亿美元估值出售，国防科技独角兽重磅交易",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfmzh1306330.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anduril将以约900亿美元估值出售内部人士持股"
   }
  },
  "breaking_count": 10,
