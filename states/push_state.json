@@ -2740,19 +2740,6 @@
    "batch_window": 10
   },
   {
-   "key": "睡这个床感觉有人在挤我",
-   "title": "“睡这个床感觉有人在挤我”",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "从'床睡不舒服'切入，探讨现代人睡眠质量焦虑或智能家居/床品创新",
-   "hook_reason": "睡眠痛点+悬疑标题，人人躺枪，好奇心强",
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9D%A1%E8%BF%99%E4%B8%AA%E5%BA%8A%E6%84%9F%E8%A7%89%E6%9C%89%E4%BA%BA%E5%9C%A8%E6%8C%A4%E6%88%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:睡这个床感觉有人在挤我",
-   "batch_window": 11
-  },
-  {
    "key": "挖自家地下古墓葬也是犯罪",
    "title": "挖自家地下古墓葬也是犯罪",
    "rating": "A",
@@ -5286,6 +5273,58 @@
    "breaking": true,
    "event_id": "e:解放军演示匕首枪",
    "batch_window": 16
+  },
+  {
+   "key": "中国籍研究生投毒潜逃回国时被捕",
+   "title": "中国籍研究生投毒 潜逃回国时被捕",
+   "rating": "A",
+   "score": 75.15,
+   "angle": "从高学历人才犯罪切入，深挖心理健康、学术压力与法律底线",
+   "hook_reason": "研究生投毒潜逃被抓，触及高知群体信任危机，情绪张力拉满",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%95%E6%AF%92+%E6%BD%9C%E9%80%83%E5%9B%9E%E5%9B%BD%E6%97%B6%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国籍研究生投毒潜逃回国时被捕",
+   "batch_window": 17
+  },
+  {
+   "key": "比亚迪吉利奇瑞集体发布声明",
+   "title": "比亚迪吉利奇瑞集体发布声明",
+   "rating": "A",
+   "score": 73.89,
+   "angle": "三家车企为何紧急联名？声明背后是价格战、出海还是政策博弈？",
+   "hook_reason": "三家车企巨头同时发声，读者好奇发生了什么大事",
+   "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%90%89%E5%88%A9%E5%A5%87%E7%91%9E%E9%9B%86%E4%BD%93%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:比亚迪吉利奇瑞集体发布声明",
+   "batch_window": 17
+  },
+  {
+   "key": "晨丰科技成立多家智算科技公司",
+   "title": "晨丰科技成立多家智算科技公司",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "晨丰科技布局智算，传统企业+AI算力的跨界打法引关注",
+   "hook_reason": "传统企业跨界智算，算力新玩家入场引发行业震动",
+   "url": "https://finance.sina.cn/7x24/2026-10-14/detail-inivevcq1238979.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:晨丰科技成立多家智算科技公司",
+   "batch_window": 17
+  },
+  {
+   "key": "黄奇帆被查重庆坚决拥护党中央决定",
+   "title": "黄奇帆被查 重庆：坚决拥护党中央决定",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从反腐视角切入，结合其经济政策遗产，解读对重庆乃至全国的政治经济信号",
+   "hook_reason": "顶级经济学者型官员落马，反腐重磅消息引爆舆论",
+   "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%A5%87%E5%B8%86%E8%A2%AB%E6%9F%A5+%E9%87%8D%E5%BA%86%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:黄奇帆落马次日重庆开会表态",
+   "batch_window": 17
   }
  ],
  "pushed": [
@@ -5703,7 +5742,8 @@
   "两个潮汕人干出1100亿芯片王国",
   "在深圳机场花2元买到1粒布洛芬",
   "lv承认起诉茉莉奶白产生负面影响第三季度中国客群需求下降15怎样看待这一变化",
-  "国际油价深夜大涨"
+  "国际油价深夜大涨",
+  "睡这个床感觉有人在挤我"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6057,7 +6097,8 @@
   "e:两个潮汕人干出1100亿芯片王国": "两个潮汕人干出1100亿芯片王国",
   "e:在深圳机场花2元买到1粒布洛芬": "在深圳机场花2元买到1粒布洛芬",
   "e:lv承认起诉茉莉奶白产生负面影响第三季度中国客群需求下降15怎样看待这一变化": "LV 承认起诉茉莉奶白产生负面影响，第三季度中国客群需求下降 15% ，怎样看待这一变化？",
-  "e:国际油价深夜大涨": "国际油价深夜大涨"
+  "e:国际油价深夜大涨": "国际油价深夜大涨",
+  "e:睡这个床感觉有人在挤我": "“睡这个床感觉有人在挤我”"
  },
  "a_seen": {
   "王星被胁迫借下的网贷该不该还": {
@@ -6623,8 +6664,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:解放军演示匕首枪"
+  },
+  "中国籍研究生投毒潜逃回国时被捕": {
+   "key": "中国籍研究生投毒潜逃回国时被捕",
+   "title": "中国籍研究生投毒 潜逃回国时被捕",
+   "rating": "A",
+   "score": 75.15,
+   "angle": "从高学历人才犯罪切入，深挖心理健康、学术压力与法律底线",
+   "hook_reason": "研究生投毒潜逃被抓，触及高知群体信任危机，情绪张力拉满",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%95%E6%AF%92+%E6%BD%9C%E9%80%83%E5%9B%9E%E5%9B%BD%E6%97%B6%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国籍研究生投毒潜逃回国时被捕"
+  },
+  "比亚迪吉利奇瑞集体发布声明": {
+   "key": "比亚迪吉利奇瑞集体发布声明",
+   "title": "比亚迪吉利奇瑞集体发布声明",
+   "rating": "A",
+   "score": 73.89,
+   "angle": "三家车企为何紧急联名？声明背后是价格战、出海还是政策博弈？",
+   "hook_reason": "三家车企巨头同时发声，读者好奇发生了什么大事",
+   "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%90%89%E5%88%A9%E5%A5%87%E7%91%9E%E9%9B%86%E4%BD%93%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:比亚迪吉利奇瑞集体发布声明"
+  },
+  "晨丰科技成立多家智算科技公司": {
+   "key": "晨丰科技成立多家智算科技公司",
+   "title": "晨丰科技成立多家智算科技公司",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "晨丰科技布局智算，传统企业+AI算力的跨界打法引关注",
+   "hook_reason": "传统企业跨界智算，算力新玩家入场引发行业震动",
+   "url": "https://finance.sina.cn/7x24/2026-10-14/detail-inivevcq1238979.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:晨丰科技成立多家智算科技公司"
+  },
+  "黄奇帆被查重庆坚决拥护党中央决定": {
+   "key": "黄奇帆被查重庆坚决拥护党中央决定",
+   "title": "黄奇帆被查 重庆：坚决拥护党中央决定",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从反腐视角切入，结合其经济政策遗产，解读对重庆乃至全国的政治经济信号",
+   "hook_reason": "顶级经济学者型官员落马，反腐重磅消息引爆舆论",
+   "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%A5%87%E5%B8%86%E8%A2%AB%E6%9F%A5+%E9%87%8D%E5%BA%86%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:黄奇帆落马次日重庆开会表态"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 16
+ "a_pushed_window": 17
 }
