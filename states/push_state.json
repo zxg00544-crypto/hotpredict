@@ -2987,19 +2987,6 @@
    "batch_window": 21
   },
   {
-   "key": "郑钦文首进中网决赛",
-   "title": "郑钦文首进中网决赛",
-   "rating": "A",
-   "score": 81.95,
-   "angle": "A档：郑钦文成长轨迹+中国网球突破史；B档：中网历届冠军盘点+新生代冲击",
-   "hook_reason": "中国网球一姐首进中网决赛，民族情绪+体育热血双重驱动",
-   "url": "https://www.toutiao.com/trending/7694296090988298303/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:郑钦文首进中网决赛",
-   "batch_window": 22
-  },
-  {
    "key": "lobbyingiscorruption",
    "title": "Lobbying Is Corruption",
    "rating": "A",
@@ -5533,6 +5520,32 @@
    "breaking": true,
    "event_id": "e:howthemilitarywillhacktheelection",
    "batch_window": 3
+  },
+  {
+   "key": "好莱坞演员的中国短剧梦被ai截胡",
+   "title": "“好莱坞”演员的中国短剧梦被AI截胡",
+   "rating": "A",
+   "score": 91.5,
+   "angle": "从好莱坞演员入局中国短剧被AI替代切入，探讨AIGC对影视表演的颠覆性冲击及普通人职业焦虑",
+   "hook_reason": "好莱坞明星来淘金反被AI取代，打工人的共鸣+吃瓜心理双驱动",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%BD%E8%8E%B1%E5%9D%9E%E2%80%9D%E6%BC%94%E5%91%98%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E6%A2%A6%E8%A2%ABAI%E6%88%AA%E8%83%A1&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:好莱坞演员的中国短剧梦被ai截胡",
+   "batch_window": 4
+  },
+  {
+   "key": "banksarenowtryingtooffloadtheaid9464c005",
+   "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+   "rating": "A",
+   "score": 75.6,
+   "angle": "银行抢跑卖出AI基建债务，市场是否在预警泡沫？拆解背后信号",
+   "hook_reason": "银行刚承销AI数据中心债就急于甩卖，暗示什么风险？",
+   "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:banksarenowtryingtooffloadtheaidatacente",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -5971,7 +5984,8 @@
   "amsterdampoliceconfisquatesserve079f0171",
   "百果园2年亏掉了7个亿问题出在哪里百果园既想做高品质水果又想强调高性价比品牌定位该如何取舍",
   "女老虎包惠被开除党籍",
-  "贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法律角度解读"
+  "贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法律角度解读",
+  "郑钦文首进中网决赛"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6346,7 +6360,8 @@
   "e:amsterdampoliceconfisquatesserverleftwin": "Amsterdam police confisquates server left-wing ISP A/I at American request",
   "e:百果园2年亏掉了7个亿问题出在哪里百果园既想做高品质水果又想强调高性价比品牌定位": "百果园2年亏掉了7个亿，问题出在哪里？百果园既想做高品质水果，又想强调高性价比，品牌定位该如何取舍？",
   "e:女老虎包惠被开除党籍": "“女老虎”包惠被开除党籍",
-  "e:贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法": "贵州男子被曝同酒楼同时与两女子办婚宴百日宴，官方称不构成重婚，具体是怎么回事？如何从法律角度解读？"
+  "e:贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法": "贵州男子被曝同酒楼同时与两女子办婚宴百日宴，官方称不构成重婚，具体是怎么回事？如何从法律角度解读？",
+  "e:郑钦文首进中网决赛": "郑钦文首进中网决赛"
  },
  "a_seen": {
   "asmlsstrongorderseasefearsaispen5929adb6": {
@@ -6509,9 +6524,9 @@
    "key": "fireatstarlinksiteinbulgariaafte51ae1f7c",
    "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
    "rating": "A",
-   "score": 40.9,
-   "angle": "从Starlink站点遇袭切入，探讨太空基础设施在地缘冲突中的脆弱性与战略价值",
-   "hook_reason": "Starlink遇袭引发太空基建安全担忧，地缘+科技双重爆点",
+   "score": 75.85,
+   "angle": "从科技基建安全视角切入，分析Starlink在冲突地带的基础设施脆弱性与供应链影响",
+   "hook_reason": "Starlink遇袭引发地缘+科技双重关注，用户关心网络安全与信号中断",
    "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
    "track": "科技",
    "breaking": true,
@@ -6528,8 +6543,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:howthemilitarywillhacktheelection"
+  },
+  "好莱坞演员的中国短剧梦被ai截胡": {
+   "key": "好莱坞演员的中国短剧梦被ai截胡",
+   "title": "“好莱坞”演员的中国短剧梦被AI截胡",
+   "rating": "A",
+   "score": 91.5,
+   "angle": "从好莱坞演员入局中国短剧被AI替代切入，探讨AIGC对影视表演的颠覆性冲击及普通人职业焦虑",
+   "hook_reason": "好莱坞明星来淘金反被AI取代，打工人的共鸣+吃瓜心理双驱动",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%BD%E8%8E%B1%E5%9D%9E%E2%80%9D%E6%BC%94%E5%91%98%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E6%A2%A6%E8%A2%ABAI%E6%88%AA%E8%83%A1&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:好莱坞演员的中国短剧梦被ai截胡"
+  },
+  "banksarenowtryingtooffloadtheaid9464c005": {
+   "key": "banksarenowtryingtooffloadtheaid9464c005",
+   "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+   "rating": "A",
+   "score": 75.6,
+   "angle": "银行抢跑卖出AI基建债务，市场是否在预警泡沫？拆解背后信号",
+   "hook_reason": "银行刚承销AI数据中心债就急于甩卖，暗示什么风险？",
+   "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:banksarenowtryingtooffloadtheaidatacente"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
