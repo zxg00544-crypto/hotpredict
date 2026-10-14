@@ -4196,19 +4196,6 @@
    "batch_window": 20
   },
   {
-   "key": "贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法律角度解读",
-   "title": "贵州男子被曝同酒楼同时与两女子办婚宴百日宴，官方称不构成重婚，具体是怎么回事？如何从法律角度解读？",
-   "rating": "A",
-   "score": 82.0,
-   "angle": "从法律与道德边界切入，解读'不构成重婚'的合法性争议与社会价值观冲突",
-   "hook_reason": "一男同时办两场婚礼百日宴，法律擦边引发全民讨论",
-   "url": "https://www.zhihu.com/question/2093028174019785264",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法",
-   "batch_window": 21
-  },
-  {
    "key": "ai短剧围猎中年男性",
    "title": "AI短剧 围猎中年男性",
    "rating": "A",
@@ -5494,6 +5481,58 @@
    "breaking": true,
    "event_id": "e:sound2022",
    "batch_window": 2
+  },
+  {
+   "key": "伊朗塔斯尼姆通讯社也门武装部队打击吉达北部的沙特阿美石油分销设施",
+   "title": "伊朗塔斯尼姆通讯社：也门武装部队打击吉达北部的沙特阿美石油分销设施。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从石油设施遇袭切入，分析对国际油价、能源安全格局及A股油气板块的短线影响",
+   "hook_reason": "中东冲突升级冲击全球能源供应链，油价将如何应对？",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfsie1271904.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗塔斯尼姆通讯社也门武装部队打击吉达北部的沙特阿美石油分销设施",
+   "batch_window": 3
+  },
+  {
+   "key": "市场消息美联储古尔斯比表示美国9月通胀数据高于预期令人失望但暗示希望在进",
+   "title": "市场消息：美联储古尔斯比表示，美国9月通胀数据高于预期，令人失望，但暗示希望在进",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "美联储高官通胀表态背后：9月数据再打脸预期，降息节奏生变，对A股/港股影响几何",
+   "hook_reason": "美联储官员罕见表达失望，通胀超预期或将改变降息路径",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfsie1271580.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:市场消息美联储古尔斯比表示美国9月通胀数据高于预期令人失望但暗示希望在进",
+   "batch_window": 3
+  },
+  {
+   "key": "fireatstarlinksiteinbulgariaafte51ae1f7c",
+   "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从Starlink站点遇袭切入，探讨太空基础设施在地缘冲突中的脆弱性与战略价值",
+   "hook_reason": "Starlink遇袭引发太空基建安全担忧，地缘+科技双重爆点",
+   "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:fireatstarlinksiteinbulgariaaftersuspect",
+   "batch_window": 3
+  },
+  {
+   "key": "howthemilitarywillhacktheelection",
+   "title": "How the Military Will Hack the Election",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "聚焦美军网络战能力与美国大选安全的冲突，解读技术介入政治的风险边界",
+   "hook_reason": "军队+黑客+选举三重爆点，颠覆认知冲击强",
+   "url": "https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:howthemilitarywillhacktheelection",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -5931,7 +5970,8 @@
   "a股资金为何持续弃科技抱红利",
   "amsterdampoliceconfisquatesserve079f0171",
   "百果园2年亏掉了7个亿问题出在哪里百果园既想做高品质水果又想强调高性价比品牌定位该如何取舍",
-  "女老虎包惠被开除党籍"
+  "女老虎包惠被开除党籍",
+  "贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法律角度解读"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6305,7 +6345,8 @@
   "e:a股资金为何持续弃科技抱红利": "A股资金为何持续“弃科技、抱红利”",
   "e:amsterdampoliceconfisquatesserverleftwin": "Amsterdam police confisquates server left-wing ISP A/I at American request",
   "e:百果园2年亏掉了7个亿问题出在哪里百果园既想做高品质水果又想强调高性价比品牌定位": "百果园2年亏掉了7个亿，问题出在哪里？百果园既想做高品质水果，又想强调高性价比，品牌定位该如何取舍？",
-  "e:女老虎包惠被开除党籍": "“女老虎”包惠被开除党籍"
+  "e:女老虎包惠被开除党籍": "“女老虎”包惠被开除党籍",
+  "e:贵州男子被曝同酒楼同时与两女子办婚宴百日宴官方称不构成重婚具体是怎么回事如何从法": "贵州男子被曝同酒楼同时与两女子办婚宴百日宴，官方称不构成重婚，具体是怎么回事？如何从法律角度解读？"
  },
  "a_seen": {
   "asmlsstrongorderseasefearsaispen5929adb6": {
@@ -6439,8 +6480,56 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:sound2022"
+  },
+  "伊朗塔斯尼姆通讯社也门武装部队打击吉达北部的沙特阿美石油分销设施": {
+   "key": "伊朗塔斯尼姆通讯社也门武装部队打击吉达北部的沙特阿美石油分销设施",
+   "title": "伊朗塔斯尼姆通讯社：也门武装部队打击吉达北部的沙特阿美石油分销设施。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从石油设施遇袭切入，分析对国际油价、能源安全格局及A股油气板块的短线影响",
+   "hook_reason": "中东冲突升级冲击全球能源供应链，油价将如何应对？",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfsie1271904.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗塔斯尼姆通讯社也门武装部队打击吉达北部的沙特阿美石油分销设施"
+  },
+  "市场消息美联储古尔斯比表示美国9月通胀数据高于预期令人失望但暗示希望在进": {
+   "key": "市场消息美联储古尔斯比表示美国9月通胀数据高于预期令人失望但暗示希望在进",
+   "title": "市场消息：美联储古尔斯比表示，美国9月通胀数据高于预期，令人失望，但暗示希望在进",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "美联储高官通胀表态背后：9月数据再打脸预期，降息节奏生变，对A股/港股影响几何",
+   "hook_reason": "美联储官员罕见表达失望，通胀超预期或将改变降息路径",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivfsie1271580.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:市场消息美联储古尔斯比表示美国9月通胀数据高于预期令人失望但暗示希望在进"
+  },
+  "fireatstarlinksiteinbulgariaafte51ae1f7c": {
+   "key": "fireatstarlinksiteinbulgariaafte51ae1f7c",
+   "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从Starlink站点遇袭切入，探讨太空基础设施在地缘冲突中的脆弱性与战略价值",
+   "hook_reason": "Starlink遇袭引发太空基建安全担忧，地缘+科技双重爆点",
+   "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:fireatstarlinksiteinbulgariaaftersuspect"
+  },
+  "howthemilitarywillhacktheelection": {
+   "key": "howthemilitarywillhacktheelection",
+   "title": "How the Military Will Hack the Election",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "聚焦美军网络战能力与美国大选安全的冲突，解读技术介入政治的风险边界",
+   "hook_reason": "军队+黑客+选举三重爆点，颠覆认知冲击强",
+   "url": "https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:howthemilitarywillhacktheelection"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
