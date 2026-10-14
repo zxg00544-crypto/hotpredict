@@ -3143,19 +3143,6 @@
    "batch_window": 3
   },
   {
-   "key": "anthropicdiscloses2monthsoldfake53d2d34c",
-   "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "从AI'幻觉'升级为'主动作恶'切入，探讨大模型安全边界与责任归属",
-   "hook_reason": "Anthropic AI向警方提交虚假凶杀举报，AI作恶进入执法场景",
-   "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
-   "track": "科技",
-   "breaking": false,
-   "event_id": "e:anthropicdiscloses2monthsoldfaketiptopol",
-   "batch_window": 3
-  },
-  {
    "key": "2dvehicles",
    "title": "2D Vehicles",
    "rating": "A",
@@ -5325,6 +5312,45 @@
    "breaking": true,
    "event_id": "e:黄奇帆落马次日重庆开会表态",
    "batch_window": 17
+  },
+  {
+   "key": "百日宴孩子母亲道歉",
+   "title": "百日宴孩子母亲道歉",
+   "rating": "A",
+   "score": 69.0,
+   "angle": "从育儿焦虑切入，探讨宴会安全与家长责任边界，引发社会反思",
+   "hook_reason": "百日宴变风波，母亲道歉引育儿争议，家长群体强烈共鸣",
+   "url": "https://www.baidu.com/s?wd=%E7%99%BE%E6%97%A5%E5%AE%B4%E5%AD%A9%E5%AD%90%E6%AF%8D%E4%BA%B2%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:百日宴孩子母亲道歉",
+   "batch_window": 18
+  },
+  {
+   "key": "卫生与健康大会习近平强调这些重点",
+   "title": "卫生与健康大会 习近平强调这些重点",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深挖会议释放的健康战略信号，解读政策走向对民生与产业的影响",
+   "hook_reason": "国家领导人亲自主持重要会议并释放关键政策信号，全民健康关切",
+   "url": "https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E4%B8%8E%E5%81%A5%E5%BA%B7%E5%A4%A7%E4%BC%9A+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E8%B0%83%E8%BF%99%E4%BA%9B%E9%87%8D%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:卫生与健康大会习近平强调这些重点",
+   "batch_window": 18
+  },
+  {
+   "key": "远大控股预计2026年前三季度净利润同比增长8901018",
+   "title": "远大控股：预计2026年前三季度净利润同比增长890%–1,018%",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读净利润暴增原因，切入行业周期反转或公司基本面变化，给投资者一个判断",
+   "hook_reason": "业绩暴增近十倍，资本市场的暴利故事",
+   "url": "https://finance.sina.cn/7x24/2026-10-14/detail-inivevcn4527142.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:远大控股预计2026年前三季度净利润同比增长8901018",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -5743,7 +5769,8 @@
   "在深圳机场花2元买到1粒布洛芬",
   "lv承认起诉茉莉奶白产生负面影响第三季度中国客群需求下降15怎样看待这一变化",
   "国际油价深夜大涨",
-  "睡这个床感觉有人在挤我"
+  "睡这个床感觉有人在挤我",
+  "anthropicdiscloses2monthsoldfake53d2d34c"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6098,7 +6125,8 @@
   "e:在深圳机场花2元买到1粒布洛芬": "在深圳机场花2元买到1粒布洛芬",
   "e:lv承认起诉茉莉奶白产生负面影响第三季度中国客群需求下降15怎样看待这一变化": "LV 承认起诉茉莉奶白产生负面影响，第三季度中国客群需求下降 15% ，怎样看待这一变化？",
   "e:国际油价深夜大涨": "国际油价深夜大涨",
-  "e:睡这个床感觉有人在挤我": "“睡这个床感觉有人在挤我”"
+  "e:睡这个床感觉有人在挤我": "“睡这个床感觉有人在挤我”",
+  "e:anthropicdiscloses2monthsoldfaketiptopol": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents"
  },
  "a_seen": {
   "王星被胁迫借下的网贷该不该还": {
@@ -6681,11 +6709,11 @@
    "key": "比亚迪吉利奇瑞集体发布声明",
    "title": "比亚迪吉利奇瑞集体发布声明",
    "rating": "A",
-   "score": 73.89,
-   "angle": "三家车企为何紧急联名？声明背后是价格战、出海还是政策博弈？",
-   "hook_reason": "三家车企巨头同时发声，读者好奇发生了什么大事",
+   "score": 68.24,
+   "angle": "从财经视角拆解车企集体声明背后的价格战、出海博弈与行业洗牌信号",
+   "hook_reason": "三大车企集体发声，价格战/出口禁令何方神圣？",
    "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%90%89%E5%88%A9%E5%A5%87%E7%91%9E%E9%9B%86%E4%BD%93%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "大咖发言",
+   "track": "财经",
    "breaking": true,
    "event_id": "e:比亚迪吉利奇瑞集体发布声明"
   },
@@ -6712,8 +6740,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:黄奇帆落马次日重庆开会表态"
+  },
+  "百日宴孩子母亲道歉": {
+   "key": "百日宴孩子母亲道歉",
+   "title": "百日宴孩子母亲道歉",
+   "rating": "A",
+   "score": 69.0,
+   "angle": "从育儿焦虑切入，探讨宴会安全与家长责任边界，引发社会反思",
+   "hook_reason": "百日宴变风波，母亲道歉引育儿争议，家长群体强烈共鸣",
+   "url": "https://www.baidu.com/s?wd=%E7%99%BE%E6%97%A5%E5%AE%B4%E5%AD%A9%E5%AD%90%E6%AF%8D%E4%BA%B2%E9%81%93%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:百日宴孩子母亲道歉"
+  },
+  "卫生与健康大会习近平强调这些重点": {
+   "key": "卫生与健康大会习近平强调这些重点",
+   "title": "卫生与健康大会 习近平强调这些重点",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深挖会议释放的健康战略信号，解读政策走向对民生与产业的影响",
+   "hook_reason": "国家领导人亲自主持重要会议并释放关键政策信号，全民健康关切",
+   "url": "https://www.baidu.com/s?wd=%E5%8D%AB%E7%94%9F%E4%B8%8E%E5%81%A5%E5%BA%B7%E5%A4%A7%E4%BC%9A+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E8%B0%83%E8%BF%99%E4%BA%9B%E9%87%8D%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:卫生与健康大会习近平强调这些重点"
+  },
+  "远大控股预计2026年前三季度净利润同比增长8901018": {
+   "key": "远大控股预计2026年前三季度净利润同比增长8901018",
+   "title": "远大控股：预计2026年前三季度净利润同比增长890%–1,018%",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读净利润暴增原因，切入行业周期反转或公司基本面变化，给投资者一个判断",
+   "hook_reason": "业绩暴增近十倍，资本市场的暴利故事",
+   "url": "https://finance.sina.cn/7x24/2026-10-14/detail-inivevcn4527142.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:远大控股预计2026年前三季度净利润同比增长8901018"
+  },
+  "黄奇帆落马次日重庆开会表态": {
+   "key": "黄奇帆落马次日重庆开会表态",
+   "title": "黄奇帆落马次日重庆开会表态",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读重庆开会表态的深层信号，关联地方经济政策走向",
+   "hook_reason": "高官落马后次日立即公开表态，戏剧性强，读者好奇背后信号",
+   "url": "https://www.toutiao.com/trending/7696010899932384809/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:黄奇帆落马次日重庆开会表态"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
