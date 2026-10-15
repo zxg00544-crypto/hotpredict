@@ -5756,19 +5756,6 @@
    "batch_window": 9
   },
   {
-   "key": "以后办退休只需一张身份证",
-   "title": "以后办退休只需一张身份证",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "政策解读+实际影响，拆解'只带身份证'如何简化流程、减少材料",
-   "hook_reason": "退休人员福音，直接关乎每个人的养老钱",
-   "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%90%8E%E5%8A%9E%E9%80%80%E4%BC%91%E5%8F%AA%E9%9C%80%E4%B8%80%E5%BC%A0%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:以后办退休只需一张身份证",
-   "batch_window": 10
-  },
-  {
    "key": "创业板指跌超3沪指低开15",
    "title": "创业板指跌超3% 沪指低开1.5%",
    "rating": "A",
@@ -5832,6 +5819,32 @@
    "breaking": true,
    "event_id": "e:ai再现十七勇士强渡大渡河",
    "batch_window": 11
+  },
+  {
+   "key": "中朝新鸭绿江大桥正式开通",
+   "title": "中朝新鸭绿江大桥正式开通",
+   "rating": "A",
+   "score": 95.0,
+   "angle": "从东北亚地缘格局重塑切入，分析中国周边外交新动向，解读大国博弈下的区域战略调整",
+   "hook_reason": "中朝关系重大突破，国民关注度高，地缘政治敏感话题",
+   "url": "https://search.bilibili.com/all?keyword=中朝新鸭绿江大桥正式开通",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中朝新鸭绿江大桥正式开通",
+   "batch_window": 12
+  },
+  {
+   "key": "欧盟得寸进尺还不够继续施压中国",
+   "title": "欧盟得寸进尺：还不够，继续施压中国",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从欧盟最新施压动作切入，分析对中国产业与民众的影响，引发爱国情绪共鸣",
+   "hook_reason": "欧盟持续对华施压，民族情绪+国际博弈双热点叠加",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivhpnu1361346.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:欧盟得寸进尺还不够继续施压中国",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -6278,7 +6291,8 @@
   "opencode20",
   "美股科技题材全线下挫纳指跌近2",
   "黄金白银断崖式大跌",
-  "看病请人陪有国家标准了"
+  "看病请人陪有国家标准了",
+  "以后办退休只需一张身份证"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6661,7 +6675,8 @@
   "e:opencode20": "OpenCode 2.0",
   "e:美股科技题材全线下挫纳指跌近2": "美股科技题材全线下挫 纳指跌近2%",
   "e:黄金白银断崖式大跌": "黄金白银断崖式大跌",
-  "e:看病请人陪有国家标准了": "“看病请人陪”有国家标准了"
+  "e:看病请人陪有国家标准了": "“看病请人陪”有国家标准了",
+  "e:以后办退休只需一张身份证": "以后办退休只需一张身份证"
  },
  "a_seen": {
   "asmlsstrongorderseasefearsaispen5929adb6": {
@@ -7215,8 +7230,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:ai再现十七勇士强渡大渡河"
+  },
+  "中朝新鸭绿江大桥正式开通": {
+   "key": "中朝新鸭绿江大桥正式开通",
+   "title": "中朝新鸭绿江大桥正式开通",
+   "rating": "A",
+   "score": 95.0,
+   "angle": "从东北亚地缘格局重塑切入，分析中国周边外交新动向，解读大国博弈下的区域战略调整",
+   "hook_reason": "中朝关系重大突破，国民关注度高，地缘政治敏感话题",
+   "url": "https://search.bilibili.com/all?keyword=中朝新鸭绿江大桥正式开通",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中朝新鸭绿江大桥正式开通"
+  },
+  "欧盟得寸进尺还不够继续施压中国": {
+   "key": "欧盟得寸进尺还不够继续施压中国",
+   "title": "欧盟得寸进尺：还不够，继续施压中国",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从欧盟最新施压动作切入，分析对中国产业与民众的影响，引发爱国情绪共鸣",
+   "hook_reason": "欧盟持续对华施压，民族情绪+国际博弈双热点叠加",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivhpnu1361346.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:欧盟得寸进尺还不够继续施压中国"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
