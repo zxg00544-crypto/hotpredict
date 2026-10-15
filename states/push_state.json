@@ -5730,19 +5730,6 @@
    "batch_window": 8
   },
   {
-   "key": "看病请人陪有国家标准了",
-   "title": "“看病请人陪”有国家标准了",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从",
-   "hook_reason": "看病陪护首次国家标准，每人都会遇到，情感共鸣强",
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%8B%E7%97%85%E8%AF%B7%E4%BA%BA%E9%99%AA%E2%80%9D%E6%9C%89%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:看病请人陪有国家标准了",
-   "batch_window": 9
-  },
-  {
    "key": "lfm2524ba2bbuiltforfastondeviceagents",
    "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
    "rating": "A",
@@ -5793,6 +5780,58 @@
    "breaking": true,
    "event_id": "e:创业板指跌超3沪指低开15",
    "batch_window": 10
+  },
+  {
+   "key": "10月15日deepseek网页和app显示服务器暂时不可用可能是哪些原因导致的",
+   "title": "10 月 15 日 DeepSeek 网页和 APP 显示「服务器暂时不可用」，可能是哪些原因导致的？",
+   "rating": "A",
+   "score": 89.0,
+   "angle": "从技术架构、流量峰值、扩容瓶颈等维度分析宕机原因，兼顾用户情绪与行业观察",
+   "hook_reason": "DeepSeek宕机引发用户焦虑，技术故障背后的原因猜测",
+   "url": "https://www.zhihu.com/question/2093997001205445814",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:10月15日deepseek网页和app显示服务器暂时不可用可能是哪些原因导致的",
+   "batch_window": 11
+  },
+  {
+   "key": "名校硕士辞职去大专教书年薪25万降至月薪9千本人称试过了才知要什么如何看待这种职业选择",
+   "title": "名校硕士辞职去大专教书，年薪 25 万降至月薪 9 千，本人称试过了才知要什么，如何看待这种职业选择？",
+   "rating": "A",
+   "score": 78.65,
+   "angle": "从'学历贬值'和'职业焦虑'切入，探讨高学历群体在就业市场中的身份失落与转型困境",
+   "hook_reason": "名校硕士降薪去大专，反常识职业选择引发广泛共鸣与争议",
+   "url": "https://www.zhihu.com/question/2093748550467437948",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:名校硕士辞职去大专教书年薪25万降至月薪9千本人称试过了才知要什么如何看待这种职",
+   "batch_window": 11
+  },
+  {
+   "key": "日本经济产业大臣赤泽亮正日本和美国就5500亿美元投资计划下的首个芯片项目达成",
+   "title": "日本经济产业大臣赤泽亮正：日本和美国就5500亿美元投资计划下的首个芯片项目达成",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从美日芯片合作突破切入，解读5500亿投资对全球半导体供应链重构的地缘博弈意义",
+   "hook_reason": "5500亿美元美日芯片项目落地，直击全球半导体产业链格局变化",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivhpns4503928.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:日本经济产业大臣赤泽亮正日本和美国就5500亿美元投资计划下的首个芯片项目达成",
+   "batch_window": 11
+  },
+  {
+   "key": "ai再现十七勇士强渡大渡河",
+   "title": "AI再现十七勇士强渡大渡河",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从AI视频生成技术突破切入，探讨技术还原历史场景的能力边界与文化价值",
+   "hook_reason": "AI重现红色历史名场面，技术+情怀双杀",
+   "url": "https://search.bilibili.com/all?keyword=AI再现十七勇士强渡大渡河",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai再现十七勇士强渡大渡河",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -6238,7 +6277,8 @@
   "高盛谁高位接盘了美股科技",
   "opencode20",
   "美股科技题材全线下挫纳指跌近2",
-  "黄金白银断崖式大跌"
+  "黄金白银断崖式大跌",
+  "看病请人陪有国家标准了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6620,7 +6660,8 @@
   "e:高盛谁高位接盘了美股科技": "高盛：谁高位接盘了美股科技",
   "e:opencode20": "OpenCode 2.0",
   "e:美股科技题材全线下挫纳指跌近2": "美股科技题材全线下挫 纳指跌近2%",
-  "e:黄金白银断崖式大跌": "黄金白银断崖式大跌"
+  "e:黄金白银断崖式大跌": "黄金白银断崖式大跌",
+  "e:看病请人陪有国家标准了": "“看病请人陪”有国家标准了"
  },
  "a_seen": {
   "asmlsstrongorderseasefearsaispen5929adb6": {
@@ -7107,10 +7148,10 @@
    "key": "以后办退休只需一张身份证",
    "title": "以后办退休只需一张身份证",
    "rating": "A",
-   "score": 92.0,
-   "angle": "政策解读+实际影响，拆解'只带身份证'如何简化流程、减少材料",
-   "hook_reason": "退休人员福音，直接关乎每个人的养老钱",
-   "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%90%8E%E5%8A%9E%E9%80%80%E4%BC%91%E5%8F%AA%E9%9C%80%E4%B8%80%E5%BC%A0%E8%BA%AB%E4%BB%BD%E8%AF%81&sa=fyb_news&rsv_dl=fyb_news",
+   "score": 87.75,
+   "angle": "解读'一证通办'退休新政落地细节，算清对千万人的省时省钱账",
+   "hook_reason": "退休只需一张身份证，全民关心的民生减负新政",
+   "url": "https://www.toutiao.com/trending/7695920863779323914/",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:以后办退休只需一张身份证"
@@ -7126,8 +7167,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:创业板指跌超3沪指低开15"
+  },
+  "10月15日deepseek网页和app显示服务器暂时不可用可能是哪些原因导致的": {
+   "key": "10月15日deepseek网页和app显示服务器暂时不可用可能是哪些原因导致的",
+   "title": "10 月 15 日 DeepSeek 网页和 APP 显示「服务器暂时不可用」，可能是哪些原因导致的？",
+   "rating": "A",
+   "score": 89.0,
+   "angle": "从技术架构、流量峰值、扩容瓶颈等维度分析宕机原因，兼顾用户情绪与行业观察",
+   "hook_reason": "DeepSeek宕机引发用户焦虑，技术故障背后的原因猜测",
+   "url": "https://www.zhihu.com/question/2093997001205445814",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:10月15日deepseek网页和app显示服务器暂时不可用可能是哪些原因导致的"
+  },
+  "名校硕士辞职去大专教书年薪25万降至月薪9千本人称试过了才知要什么如何看待这种职业选择": {
+   "key": "名校硕士辞职去大专教书年薪25万降至月薪9千本人称试过了才知要什么如何看待这种职业选择",
+   "title": "名校硕士辞职去大专教书，年薪 25 万降至月薪 9 千，本人称试过了才知要什么，如何看待这种职业选择？",
+   "rating": "A",
+   "score": 78.65,
+   "angle": "从'学历贬值'和'职业焦虑'切入，探讨高学历群体在就业市场中的身份失落与转型困境",
+   "hook_reason": "名校硕士降薪去大专，反常识职业选择引发广泛共鸣与争议",
+   "url": "https://www.zhihu.com/question/2093748550467437948",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:名校硕士辞职去大专教书年薪25万降至月薪9千本人称试过了才知要什么如何看待这种职"
+  },
+  "日本经济产业大臣赤泽亮正日本和美国就5500亿美元投资计划下的首个芯片项目达成": {
+   "key": "日本经济产业大臣赤泽亮正日本和美国就5500亿美元投资计划下的首个芯片项目达成",
+   "title": "日本经济产业大臣赤泽亮正：日本和美国就5500亿美元投资计划下的首个芯片项目达成",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从美日芯片合作突破切入，解读5500亿投资对全球半导体供应链重构的地缘博弈意义",
+   "hook_reason": "5500亿美元美日芯片项目落地，直击全球半导体产业链格局变化",
+   "url": "https://finance.sina.cn/7x24/2026-10-15/detail-inivhpns4503928.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:日本经济产业大臣赤泽亮正日本和美国就5500亿美元投资计划下的首个芯片项目达成"
+  },
+  "ai再现十七勇士强渡大渡河": {
+   "key": "ai再现十七勇士强渡大渡河",
+   "title": "AI再现十七勇士强渡大渡河",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从AI视频生成技术突破切入，探讨技术还原历史场景的能力边界与文化价值",
+   "hook_reason": "AI重现红色历史名场面，技术+情怀双杀",
+   "url": "https://search.bilibili.com/all?keyword=AI再现十七勇士强渡大渡河",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai再现十七勇士强渡大渡河"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
