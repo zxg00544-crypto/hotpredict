@@ -2818,19 +2818,6 @@
    "batch_window": 14
   },
   {
-   "key": "精神病院为何扎堆更名",
-   "title": "精神病院为何扎堆更名",
-   "rating": "A",
-   "score": 81.85,
-   "angle": "深挖精神病院集体更名的背后逻辑：是去污名化还是资本运作的包装，引发公众对精神卫生体系现状的关注",
-   "hook_reason": "精神病院扎堆更名背后，藏着多少利益博弈与偏见脱敏",
-   "url": "https://www.baidu.com/s?wd=%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E4%B8%BA%E4%BD%95%E6%89%8E%E5%A0%86%E6%9B%B4%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:精神病院为何扎堆更名",
-   "batch_window": 15
-  },
-  {
    "key": "四五十元一个的面包没人买了",
    "title": "四五十元一个的面包没人买了",
    "rating": "A",
@@ -6183,6 +6170,19 @@
    "breaking": true,
    "event_id": "e:callcenterjobsaredecliningbut14000callss",
    "batch_window": 6
+  },
+  {
+   "key": "jevmeetsthetrolleyproblem",
+   "title": "Jev meets the Trolley Problem",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "以Jev视角切入电车难题，探讨科技精英面对AI伦理抉择时的思考与立场",
+   "hook_reason": "科技圈人物撞上经典伦理困境，引发深度道德讨论",
+   "url": "https://zachlandes.com/trolley-problem/",
+   "track": "大咖发言",
+   "breaking": false,
+   "event_id": "e:jevmeetsthetrolleyproblem",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -6658,7 +6658,8 @@
   "anapology",
   "中小学春秋假多地官宣",
   "einklauncheslatestversionofcolore8e32c5c",
-  "24元救命药飙涨到1200元"
+  "24元救命药飙涨到1200元",
+  "精神病院为何扎堆更名"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -7070,7 +7071,8 @@
   "e:anapology": "An Apology",
   "e:中小学春秋假多地官宣": "中小学春秋假 多地官宣",
   "e:einklauncheslatestversionofcolorepaperpl": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
-  "e:24元救命药飙涨到1200元": "24元救命药飙涨到1200元"
+  "e:24元救命药飙涨到1200元": "24元救命药飙涨到1200元",
+  "e:精神病院为何扎堆更名": "精神病院为何扎堆更名"
  },
  "a_seen": {
   "马斯克为何关注中国内存": {
@@ -7264,8 +7266,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:callcenterjobsaredecliningbut14000callss"
+  },
+  "jevmeetsthetrolleyproblem": {
+   "key": "jevmeetsthetrolleyproblem",
+   "title": "Jev meets the Trolley Problem",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "以Jev视角切入电车难题，探讨科技精英面对AI伦理抉择时的思考与立场",
+   "hook_reason": "科技圈人物撞上经典伦理困境，引发深度道德讨论",
+   "url": "https://zachlandes.com/trolley-problem/",
+   "track": "大咖发言",
+   "breaking": false,
+   "event_id": "e:jevmeetsthetrolleyproblem"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
