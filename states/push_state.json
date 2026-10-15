@@ -5613,19 +5613,6 @@
    "batch_window": 5
   },
   {
-   "key": "opencode20",
-   "title": "OpenCode 2.0",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "OpenCode 2.0核心升级点拆解，对开发者工作流及AI编程生态的影响分析",
-   "hook_reason": "开发者工具突发登顶，1小时热度破百，技术圈引爆",
-   "url": "https://anoma.ly/notes/opencode-2-0/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:opencode20",
-   "batch_window": 6
-  },
-  {
    "key": "巴克莱特斯拉spacex合并消息可能在年度股东大会前公布",
    "title": "巴克莱：特斯拉-SpaceX合并消息可能在年度股东大会前公布",
    "rating": "A",
@@ -5676,6 +5663,58 @@
    "breaking": true,
    "event_id": "e:除了头版内容今天人民日报涉及财经的主要内容还包括1李强出席广交世界",
    "batch_window": 7
+  },
+  {
+   "key": "美股科技题材全线下挫纳指跌近2",
+   "title": "美股科技题材全线下挫 纳指跌近2%",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "从纳指大跌切入，解读科技股估值回调逻辑，预判对A股影响及应对策略",
+   "hook_reason": "美股科技股暴跌牵动全球投资者神经，纳指跌近2%为何？",
+   "url": "https://www.toutiao.com/trending/7696664319009754667/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美股科技题材全线下挫纳指跌近2",
+   "batch_window": 8
+  },
+  {
+   "key": "tinylittleoffice",
+   "title": "Tiny Little Office",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "从微创业/独立开发者视角，解读小团队如何用极简产品快速验证市场",
+   "hook_reason": "新人快速登顶HN，展示小而美创业路径",
+   "url": "https://tinylittleoffice.com/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:tinylittleoffice",
+   "batch_window": 8
+  },
+  {
+   "key": "openai员工涉嫌在高管会议室安装窃听器结果被自家ai协助破案如何评价这起事件",
+   "title": "OpenAI 员工涉嫌在高管会议室安装窃听器，结果被自家 AI 协助破案，如何评价这起事件？",
+   "rating": "A",
+   "score": 43.75,
+   "angle": "科技大厂内控崩塌：AI沦为职场监控工具还是正义帮手？探讨隐私、权力与AI伦理边界",
+   "hook_reason": "AI抓内鬼比谍战剧还离谱，科技公司内控有多魔幻",
+   "url": "https://www.zhihu.com/question/2093575542540875135",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai员工涉嫌在高管会议室安装窃听器结果被自家ai协助破案如何评价这起事件",
+   "batch_window": 8
+  },
+  {
+   "key": "thingstoknowwhenyougetcancer2026edition",
+   "title": "Things to know when you get cancer – 2026 Edition",
+   "rating": "A",
+   "score": 58.54,
+   "angle": "从患者/家属视角切入，盘点癌症确诊后最该知道的5件事，附2026最新医疗进展与资源清单",
+   "hook_reason": "癌症话题触达每个人，2026新攻略+实用干货，共鸣极强",
+   "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:thingstoknowwhenyougetcancer2026edition",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -6118,7 +6157,8 @@
   "郑钦文首进中网决赛",
   "好莱坞演员的中国短剧梦被ai截胡",
   "imf日本gdp明年或降至全球第六",
-  "高盛谁高位接盘了美股科技"
+  "高盛谁高位接盘了美股科技",
+  "opencode20"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6497,7 +6537,8 @@
   "e:郑钦文首进中网决赛": "郑钦文首进中网决赛",
   "e:好莱坞演员的中国短剧梦被ai截胡": "“好莱坞”演员的中国短剧梦被AI截胡",
   "e:imf日本gdp明年或降至全球第六": "IMF：日本GDP明年或降至全球第六",
-  "e:高盛谁高位接盘了美股科技": "高盛：谁高位接盘了美股科技"
+  "e:高盛谁高位接盘了美股科技": "高盛：谁高位接盘了美股科技",
+  "e:opencode20": "OpenCode 2.0"
  },
  "a_seen": {
   "asmlsstrongorderseasefearsaispen5929adb6": {
@@ -6859,8 +6900,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:除了头版内容今天人民日报涉及财经的主要内容还包括1李强出席广交世界"
+  },
+  "美股科技题材全线下挫纳指跌近2": {
+   "key": "美股科技题材全线下挫纳指跌近2",
+   "title": "美股科技题材全线下挫 纳指跌近2%",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "从纳指大跌切入，解读科技股估值回调逻辑，预判对A股影响及应对策略",
+   "hook_reason": "美股科技股暴跌牵动全球投资者神经，纳指跌近2%为何？",
+   "url": "https://www.toutiao.com/trending/7696664319009754667/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美股科技题材全线下挫纳指跌近2"
+  },
+  "tinylittleoffice": {
+   "key": "tinylittleoffice",
+   "title": "Tiny Little Office",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "从微创业/独立开发者视角，解读小团队如何用极简产品快速验证市场",
+   "hook_reason": "新人快速登顶HN，展示小而美创业路径",
+   "url": "https://tinylittleoffice.com/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:tinylittleoffice"
+  },
+  "openai员工涉嫌在高管会议室安装窃听器结果被自家ai协助破案如何评价这起事件": {
+   "key": "openai员工涉嫌在高管会议室安装窃听器结果被自家ai协助破案如何评价这起事件",
+   "title": "OpenAI 员工涉嫌在高管会议室安装窃听器，结果被自家 AI 协助破案，如何评价这起事件？",
+   "rating": "A",
+   "score": 43.75,
+   "angle": "科技大厂内控崩塌：AI沦为职场监控工具还是正义帮手？探讨隐私、权力与AI伦理边界",
+   "hook_reason": "AI抓内鬼比谍战剧还离谱，科技公司内控有多魔幻",
+   "url": "https://www.zhihu.com/question/2093575542540875135",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai员工涉嫌在高管会议室安装窃听器结果被自家ai协助破案如何评价这起事件"
+  },
+  "thingstoknowwhenyougetcancer2026edition": {
+   "key": "thingstoknowwhenyougetcancer2026edition",
+   "title": "Things to know when you get cancer – 2026 Edition",
+   "rating": "A",
+   "score": 58.54,
+   "angle": "从患者/家属视角切入，盘点癌症确诊后最该知道的5件事，附2026最新医疗进展与资源清单",
+   "hook_reason": "癌症话题触达每个人，2026新攻略+实用干货，共鸣极强",
+   "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:thingstoknowwhenyougetcancer2026edition"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
