@@ -5769,19 +5769,6 @@
    "batch_window": 10
   },
   {
-   "key": "10月15日deepseek网页和app显示服务器暂时不可用可能是哪些原因导致的",
-   "title": "10 月 15 日 DeepSeek 网页和 APP 显示「服务器暂时不可用」，可能是哪些原因导致的？",
-   "rating": "A",
-   "score": 89.0,
-   "angle": "从技术架构、流量峰值、扩容瓶颈等维度分析宕机原因，兼顾用户情绪与行业观察",
-   "hook_reason": "DeepSeek宕机引发用户焦虑，技术故障背后的原因猜测",
-   "url": "https://www.zhihu.com/question/2093997001205445814",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:10月15日deepseek网页和app显示服务器暂时不可用可能是哪些原因导致的",
-   "batch_window": 11
-  },
-  {
    "key": "名校硕士辞职去大专教书年薪25万降至月薪9千本人称试过了才知要什么如何看待这种职业选择",
    "title": "名校硕士辞职去大专教书，年薪 25 万降至月薪 9 千，本人称试过了才知要什么，如何看待这种职业选择？",
    "rating": "A",
@@ -5871,6 +5858,58 @@
    "breaking": true,
    "event_id": "e:曾毓群捐赠约4亿元宁德时代股票",
    "batch_window": 13
+  },
+  {
+   "key": "anapology",
+   "title": "An Apology",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "从道歉信切入，挖掘AI行业近期争议事件与企业危机公关策略反思",
+   "hook_reason": "AI公司CEO突发公开道歉，背后原因悬念强烈，科技圈高度关注",
+   "url": "https://www.elevationlab.com/blogs/news/an-apology",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:anapology",
+   "batch_window": 14
+  },
+  {
+   "key": "全球股市大跌原因找到了",
+   "title": "全球股市大跌原因找到了",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从机构视角解读暴跌原因，给出普通投资者的避险指南",
+   "hook_reason": "全球股市暴跌牵动无数投资者神经，原因揭秘有强烈好奇心",
+   "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:全球股市大跌原因找到了",
+   "batch_window": 14
+  },
+  {
+   "key": "韩国股市暴跌触发熔断",
+   "title": "韩国股市暴跌触发熔断",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从A股映射角度切入，分析港股/中概股联动影响，给出散户应对建议",
+   "hook_reason": "韩国股市历史级暴跌，全球投资者高度关注",
+   "url": "https://search.bilibili.com/all?keyword=韩国股市暴跌触发熔断",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:韩国监管机构下令采取主动措施保障市场稳定与投资者保护",
+   "batch_window": 14
+  },
+  {
+   "key": "千万新房空置被陌生人拆成毛坯",
+   "title": "千万新房空置 被陌生人拆成毛坯",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从法律盲区切入：新房空置被毁却难以追责，普通人如何守住自己的资产？",
+   "hook_reason": "千万房产被陌生人恶意破坏，触及财产安全焦虑，情绪拉满",
+   "url": "https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E6%96%B0%E6%88%BF%E7%A9%BA%E7%BD%AE+%E8%A2%AB%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8B%86%E6%88%90%E6%AF%9B%E5%9D%AF&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:千万新房空置被陌生人拆成毛坯",
+   "batch_window": 14
   }
  ],
  "pushed": [
@@ -6319,7 +6358,8 @@
   "黄金白银断崖式大跌",
   "看病请人陪有国家标准了",
   "以后办退休只需一张身份证",
-  "中朝新鸭绿江大桥正式开通"
+  "中朝新鸭绿江大桥正式开通",
+  "10月15日deepseek网页和app显示服务器暂时不可用可能是哪些原因导致的"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6704,7 +6744,8 @@
   "e:黄金白银断崖式大跌": "黄金白银断崖式大跌",
   "e:看病请人陪有国家标准了": "“看病请人陪”有国家标准了",
   "e:以后办退休只需一张身份证": "以后办退休只需一张身份证",
-  "e:中朝新鸭绿江大桥正式开通": "中朝新鸭绿江大桥正式开通"
+  "e:中朝新鸭绿江大桥正式开通": "中朝新鸭绿江大桥正式开通",
+  "e:10月15日deepseek网页和app显示服务器暂时不可用可能是哪些原因导致的": "10 月 15 日 DeepSeek 网页和 APP 显示「服务器暂时不可用」，可能是哪些原因导致的？"
  },
  "a_seen": {
   "asmlsstrongorderseasefearsaispen5929adb6": {
@@ -7287,10 +7328,10 @@
    "key": "长实否认李嘉诚去世",
    "title": "长实否认李嘉诚去世",
    "rating": "A",
-   "score": 52.95,
-   "angle": "辟谣角度：长实官方否认+李嘉诚近况，打真假难辨的悬念牌",
-   "hook_reason": "传奇富豪生死谣言，全民围观",
-   "url": "https://www.toutiao.com/trending/7696736574441291795/",
+   "score": 92.45,
+   "angle": "从谣言发酵到集团1小时辟谣，剖析长实危机公关与李嘉诚家族叙事",
+   "hook_reason": "华人首富假死消息引爆全网，辟谣背后的真相引人深究",
+   "url": "https://search.bilibili.com/all?keyword=长实否认李嘉诚去世",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:长实否认李嘉诚去世"
@@ -7318,8 +7359,56 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:曾毓群捐赠约4亿元宁德时代股票"
+  },
+  "anapology": {
+   "key": "anapology",
+   "title": "An Apology",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "从道歉信切入，挖掘AI行业近期争议事件与企业危机公关策略反思",
+   "hook_reason": "AI公司CEO突发公开道歉，背后原因悬念强烈，科技圈高度关注",
+   "url": "https://www.elevationlab.com/blogs/news/an-apology",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:anapology"
+  },
+  "全球股市大跌原因找到了": {
+   "key": "全球股市大跌原因找到了",
+   "title": "全球股市大跌原因找到了",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从机构视角解读暴跌原因，给出普通投资者的避险指南",
+   "hook_reason": "全球股市暴跌牵动无数投资者神经，原因揭秘有强烈好奇心",
+   "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:全球股市大跌原因找到了"
+  },
+  "韩国股市暴跌触发熔断": {
+   "key": "韩国股市暴跌触发熔断",
+   "title": "韩国股市暴跌触发熔断",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从A股映射角度切入，分析港股/中概股联动影响，给出散户应对建议",
+   "hook_reason": "韩国股市历史级暴跌，全球投资者高度关注",
+   "url": "https://search.bilibili.com/all?keyword=韩国股市暴跌触发熔断",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:韩国监管机构下令采取主动措施保障市场稳定与投资者保护"
+  },
+  "千万新房空置被陌生人拆成毛坯": {
+   "key": "千万新房空置被陌生人拆成毛坯",
+   "title": "千万新房空置 被陌生人拆成毛坯",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从法律盲区切入：新房空置被毁却难以追责，普通人如何守住自己的资产？",
+   "hook_reason": "千万房产被陌生人恶意破坏，触及财产安全焦虑，情绪拉满",
+   "url": "https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E6%96%B0%E6%88%BF%E7%A9%BA%E7%BD%AE+%E8%A2%AB%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8B%86%E6%88%90%E6%AF%9B%E5%9D%AF&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:千万新房空置被陌生人拆成毛坯"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 13
+ "a_pushed_window": 14
 }
