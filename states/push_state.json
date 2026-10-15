@@ -5845,6 +5845,32 @@
    "breaking": true,
    "event_id": "e:欧盟得寸进尺还不够继续施压中国",
    "batch_window": 12
+  },
+  {
+   "key": "长实否认李嘉诚去世",
+   "title": "长实否认李嘉诚去世",
+   "rating": "A",
+   "score": 52.95,
+   "angle": "辟谣角度：长实官方否认+李嘉诚近况，打真假难辨的悬念牌",
+   "hook_reason": "传奇富豪生死谣言，全民围观",
+   "url": "https://www.toutiao.com/trending/7696736574441291795/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:长实否认李嘉诚去世",
+   "batch_window": 12
+  },
+  {
+   "key": "而今长征向苍穹",
+   "title": "而今“长征”向苍穹",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从长征系列火箭最新任务切入，解读中国航天技术突破背后的国家战略与产业布局",
+   "hook_reason": "长征火箭发射成功，民族科技自豪感引爆热议",
+   "url": "https://www.toutiao.com/article/7696493418049978934",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:而今长征向苍穹",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -7223,9 +7249,9 @@
    "key": "ai再现十七勇士强渡大渡河",
    "title": "AI再现十七勇士强渡大渡河",
    "rating": "A",
-   "score": 40.85,
-   "angle": "从AI视频生成技术突破切入，探讨技术还原历史场景的能力边界与文化价值",
-   "hook_reason": "AI重现红色历史名场面，技术+情怀双杀",
+   "score": 43.49,
+   "angle": "从AI视频生成技术切入，探讨AIGC在红色文化传播中的创新应用与价值边界",
+   "hook_reason": "AI重现红色经典场景，科技+情怀双重吸引",
    "url": "https://search.bilibili.com/all?keyword=AI再现十七勇士强渡大渡河",
    "track": "科技",
    "breaking": true,
@@ -7254,6 +7280,30 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:欧盟得寸进尺还不够继续施压中国"
+  },
+  "长实否认李嘉诚去世": {
+   "key": "长实否认李嘉诚去世",
+   "title": "长实否认李嘉诚去世",
+   "rating": "A",
+   "score": 52.95,
+   "angle": "辟谣角度：长实官方否认+李嘉诚近况，打真假难辨的悬念牌",
+   "hook_reason": "传奇富豪生死谣言，全民围观",
+   "url": "https://www.toutiao.com/trending/7696736574441291795/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:长实否认李嘉诚去世"
+  },
+  "而今长征向苍穹": {
+   "key": "而今长征向苍穹",
+   "title": "而今“长征”向苍穹",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从长征系列火箭最新任务切入，解读中国航天技术突破背后的国家战略与产业布局",
+   "hook_reason": "长征火箭发射成功，民族科技自豪感引爆热议",
+   "url": "https://www.toutiao.com/article/7696493418049978934",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:而今长征向苍穹"
   }
  },
  "breaking_count": 10,
