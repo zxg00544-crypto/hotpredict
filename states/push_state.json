@@ -6133,19 +6133,6 @@
    "batch_window": 3
   },
   {
-   "key": "einklauncheslatestversionofcolore8e32c5c",
-   "title": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "从Kaleido 4色彩突破切入，分析电子纸在平板/纸质屏替代场景的新机会",
-   "hook_reason": "电子纸色彩技术迭代，护眼阅读场景有望突破",
-   "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:einklauncheslatestversionofcolorepaperpl",
-   "batch_window": 4
-  },
-  {
    "key": "whywerebanningai",
    "title": "Why We're Banning AI",
    "rating": "A",
@@ -6157,6 +6144,32 @@
    "breaking": false,
    "event_id": "e:whywerebanningai",
    "batch_window": 4
+  },
+  {
+   "key": "newwithingsusersmustpay99yearforbdcfa185",
+   "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "Fromings 将 Apple Health 同步设为付费墙，新账号首年 $99，老用户受影响几何？",
+   "hook_reason": "苹果生态突然收费，千万智能穿戴用户被割韭菜",
+   "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:newwithingsusersmustpay99yearforapplehea",
+   "batch_window": 5
+  },
+  {
+   "key": "adfectiontargetedadsturnedintoaped05d4b7",
+   "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+   "rating": "A",
+   "score": 40.55,
+   "angle": "Citizen Lab揭穿广告系统被武器化，零点击漏洞如何改写隐私战局",
+   "hook_reason": "定向广告竟成间谍软件通道，零点击攻击触达亿万网民",
+   "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:adfectiontargetedadsturnedintoapipelinef",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -6630,7 +6643,8 @@
   "马斯克为何关注中国内存",
   "看多了ai短剧为什么都不太喜欢看真人演的短剧或电视剧了呢",
   "anapology",
-  "中小学春秋假多地官宣"
+  "中小学春秋假多地官宣",
+  "einklauncheslatestversionofcolore8e32c5c"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -7040,7 +7054,8 @@
   "e:马斯克为何关注中国内存": "马斯克为何关注中国内存",
   "e:看多了ai短剧为什么都不太喜欢看真人演的短剧或电视剧了呢": "看多了AI短剧，为什么都不太喜欢看真人演的短剧或电视剧了呢？",
   "e:anapology": "An Apology",
-  "e:中小学春秋假多地官宣": "中小学春秋假 多地官宣"
+  "e:中小学春秋假多地官宣": "中小学春秋假 多地官宣",
+  "e:einklauncheslatestversionofcolorepaperpl": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4"
  },
  "a_seen": {
   "马斯克为何关注中国内存": {
@@ -7186,8 +7201,32 @@
    "track": "科技",
    "breaking": false,
    "event_id": "e:whywerebanningai"
+  },
+  "newwithingsusersmustpay99yearforbdcfa185": {
+   "key": "newwithingsusersmustpay99yearforbdcfa185",
+   "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "Fromings 将 Apple Health 同步设为付费墙，新账号首年 $99，老用户受影响几何？",
+   "hook_reason": "苹果生态突然收费，千万智能穿戴用户被割韭菜",
+   "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:newwithingsusersmustpay99yearforapplehea"
+  },
+  "adfectiontargetedadsturnedintoaped05d4b7": {
+   "key": "adfectiontargetedadsturnedintoaped05d4b7",
+   "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+   "rating": "A",
+   "score": 40.55,
+   "angle": "Citizen Lab揭穿广告系统被武器化，零点击漏洞如何改写隐私战局",
+   "hook_reason": "定向广告竟成间谍软件通道，零点击攻击触达亿万网民",
+   "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:adfectiontargetedadsturnedintoapipelinef"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
