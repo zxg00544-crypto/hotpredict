@@ -5990,19 +5990,6 @@
    "batch_window": 18
   },
   {
-   "key": "看多了ai短剧为什么都不太喜欢看真人演的短剧或电视剧了呢",
-   "title": "看多了AI短剧，为什么都不太喜欢看真人演的短剧或电视剧了呢？",
-   "rating": "A",
-   "score": 86.5,
-   "angle": "从AI技术降维打击娱乐产业切入，剖析AI短剧爆火背后的技术逻辑与真人影视的困境，引发科技从业者和内容创作者的共鸣与思考",
-   "hook_reason": "AI短剧暴打真人影视？观众用脚投票揭示技术颠覆娱乐行业的真相",
-   "url": "https://www.zhihu.com/question/2062123788586726125",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:看多了ai短剧为什么都不太喜欢看真人演的短剧或电视剧了呢",
-   "batch_window": 19
-  },
-  {
    "key": "微软总裁布拉德史密斯驳斥了万斯关于签证欺诈的指控称副总统的说法完全离谱",
    "title": "微软总裁布拉德·史密斯驳斥了万斯关于签证欺诈的指控，称副总统的说法“完全离谱”。",
    "rating": "A",
@@ -6118,6 +6105,45 @@
    "breaking": false,
    "event_id": "e:韩国就股市召开紧急会议",
    "batch_window": 1
+  },
+  {
+   "key": "谷歌量子ai的willow芯片突破关键资源瓶颈",
+   "title": "谷歌量子AI的Willow芯片突破关键资源瓶颈。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从算力瓶颈切入，解读谷歌Willow芯片如何改写AI硬件格局",
+   "hook_reason": "谷歌量子芯片突破，AI算力焦虑或将终结",
+   "url": "https://finance.sina.cn/7x24/2026-10-16/detail-inivivhe1522751.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:谷歌量子ai的willow芯片突破关键资源瓶颈",
+   "batch_window": 2
+  },
+  {
+   "key": "c9kc",
+   "title": "C9 KC",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从'知识创造'切入，拆解C9高校如何用新模式推动前沿科技突破",
+   "hook_reason": "顶尖高校联盟新概念，引发科技教育圈热议",
+   "url": "https://search.bilibili.com/all?keyword=C9 KC",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:c9kc",
+   "batch_window": 2
+  },
+  {
+   "key": "moreonanthropicsscionrippingoffmononoke",
+   "title": "More on Anthropic's Scion ripping off Mononoke",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "Anthropic新产物被曝抄袭Mononoke，大厂与初创公司的知识产权博弈再掀波澜",
+   "hook_reason": "AI大厂Anthropic被指抄袭，科技圈知识产权争议引爆情绪",
+   "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:moreonanthropicsscionrippingoffmononoke",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -6588,7 +6614,8 @@
   "羊肉标价每克19元引吐槽店家致歉",
   "哈佛捐赠基金规模创纪录达680亿美元得益于spacex等持仓",
   "特朗普开玩笑称如果他嗓子哑了就派一个机器人版的自己代他跑竞选活动这样他就能",
-  "马斯克为何关注中国内存"
+  "马斯克为何关注中国内存",
+  "看多了ai短剧为什么都不太喜欢看真人演的短剧或电视剧了呢"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6995,7 +7022,8 @@
   "e:羊肉标价每克19元引吐槽店家致歉": "羊肉标价每克19元引吐槽 店家致歉",
   "e:哈佛捐赠基金规模创纪录达680亿美元得益于spacex等持仓": "哈佛捐赠基金规模创纪录达680亿美元 得益于SpaceX等持仓",
   "e:特朗普开玩笑称如果他嗓子哑了就派一个机器人版的自己代他跑竞选活动这样他就能": "特朗普开玩笑称，如果他嗓子哑了，就派一个机器人版的自己代他跑竞选活动，这样他就能",
-  "e:马斯克为何关注中国内存": "马斯克为何关注中国内存"
+  "e:马斯克为何关注中国内存": "马斯克为何关注中国内存",
+  "e:看多了ai短剧为什么都不太喜欢看真人演的短剧或电视剧了呢": "看多了AI短剧，为什么都不太喜欢看真人演的短剧或电视剧了呢？"
  },
  "a_seen": {
   "马斯克为何关注中国内存": {
@@ -7057,8 +7085,56 @@
    "track": "财经",
    "breaking": false,
    "event_id": "e:韩国就股市召开紧急会议"
+  },
+  "谷歌量子ai的willow芯片突破关键资源瓶颈": {
+   "key": "谷歌量子ai的willow芯片突破关键资源瓶颈",
+   "title": "谷歌量子AI的Willow芯片突破关键资源瓶颈。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从算力瓶颈切入，解读谷歌Willow芯片如何改写AI硬件格局",
+   "hook_reason": "谷歌量子芯片突破，AI算力焦虑或将终结",
+   "url": "https://finance.sina.cn/7x24/2026-10-16/detail-inivivhe1522751.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:谷歌量子ai的willow芯片突破关键资源瓶颈"
+  },
+  "谷歌量子人工智能发布量子计算突破": {
+   "key": "谷歌量子人工智能发布量子计算突破",
+   "title": "谷歌量子人工智能发布量子计算突破。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "解读谷歌量子计算突破的技术细节与产业影响，对比国内进展",
+   "hook_reason": "谷歌量子计算重大突破，科技圈地震级事件",
+   "url": "https://finance.sina.cn/7x24/2026-10-16/detail-inivivha4749327.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:谷歌量子ai的willow芯片突破关键资源瓶颈"
+  },
+  "c9kc": {
+   "key": "c9kc",
+   "title": "C9 KC",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从'知识创造'切入，拆解C9高校如何用新模式推动前沿科技突破",
+   "hook_reason": "顶尖高校联盟新概念，引发科技教育圈热议",
+   "url": "https://search.bilibili.com/all?keyword=C9 KC",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:c9kc"
+  },
+  "moreonanthropicsscionrippingoffmononoke": {
+   "key": "moreonanthropicsscionrippingoffmononoke",
+   "title": "More on Anthropic's Scion ripping off Mononoke",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "Anthropic新产物被曝抄袭Mononoke，大厂与初创公司的知识产权博弈再掀波澜",
+   "hook_reason": "AI大厂Anthropic被指抄袭，科技圈知识产权争议引爆情绪",
+   "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:moreonanthropicsscionrippingoffmononoke"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
