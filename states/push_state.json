@@ -6016,19 +6016,6 @@
    "batch_window": 19
   },
   {
-   "key": "泽连斯基称乌克兰遭美国背叛",
-   "title": "泽连斯基称乌克兰遭美国背叛",
-   "rating": "A",
-   "score": 94.0,
-   "angle": "从泽连斯基指控美国背叛切入，深挖美乌关系裂痕背后的地缘博弈与全球秩序震荡",
-   "hook_reason": "泽连斯基公开炮轰美国背叛，美乌同盟裂痕引爆全球关注",
-   "url": "https://www.toutiao.com/trending/7696456047573189130/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:泽连斯基称乌克兰遭美国背叛",
-   "batch_window": 20
-  },
-  {
    "key": "宁德时代又拿下两项第一",
    "title": "宁德时代又拿下两项第一",
    "rating": "A",
@@ -6066,6 +6053,45 @@
    "breaking": true,
    "event_id": "e:羊肉标价每克19元引吐槽店家致歉",
    "batch_window": 21
+  },
+  {
+   "key": "如何评价deepseek停摆5小时后按最近七日api消耗向用户发放补偿赠金",
+   "title": "如何评价DeepSeek停摆5小时后，按最近七日api消耗向用户发放补偿赠金？",
+   "rating": "A",
+   "score": 80.68,
+   "angle": "从宕机事件切入，讨论国产AI大模型的服务稳定性挑战与危机公关能力，引发开发者/用户共鸣。",
+   "hook_reason": "国产AI龙头服务宕机5小时，官方直接发钱补偿，这波操作你打几分？",
+   "url": "https://www.zhihu.com/question/2094116217489450760",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何评价deepseek停摆5小时后按最近七日api消耗向用户发放补偿赠金",
+   "batch_window": 22
+  },
+  {
+   "key": "israelifirmsdigitaladsenablingin0a51b330",
+   "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "以色列NSO集团等军警黑客产业链揭秘，广告SDK成新型武器",
+   "hook_reason": "零点击间谍软件通过广告传播，技术颠覆认知",
+   "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:israelifirmsdigitaladsenablinginstallati",
+   "batch_window": 22
+  },
+  {
+   "key": "1岁宝宝吃下被邻居投毒的鸡蛋后进icu邻居自首称想毒黄鼠狼你怎么看邻居该担什么法律责任",
+   "title": "1 岁宝宝吃下被邻居投毒的鸡蛋后进 ICU，邻居自首称「想毒黄鼠狼」，你怎么看？邻居该担什么法律责任？",
+   "rating": "A",
+   "score": 55.27,
+   "angle": "从法律责任角度切入，分析过失/故意犯罪的认定标准，结合'黄鼠狼'辩解的法律效力与舆论回应",
+   "hook_reason": "1岁婴儿被邻居投毒进ICU，借口想毒黄鼠狼，三重冲击直击家长神经",
+   "url": "https://www.zhihu.com/question/2094023847775135091",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:1岁宝宝吃下被邻居投毒的鸡蛋后进icu邻居自首称想毒黄鼠狼你怎么看邻居该担什么法",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -6522,7 +6548,8 @@
   "油价本轮不调整",
   "pc为何卖不动了",
   "很久才和爸爸妈妈通一次电话除了吃了吗考了多少分我还能和他们聊什么",
-  "车辆从60米高架坠下车主轻伤"
+  "车辆从60米高架坠下车主轻伤",
+  "泽连斯基称乌克兰遭美国背叛"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6915,7 +6942,8 @@
   "e:油价本轮不调整": "油价本轮不调整",
   "e:pc为何卖不动了": "PC为何卖不动了",
   "e:很久才和爸爸妈妈通一次电话除了吃了吗考了多少分我还能和他们聊什么": "很久才和爸爸妈妈通一次电话，除了「吃了吗」「考了多少分」，我还能和他们聊什么？",
-  "e:车辆从60米高架坠下车主轻伤": "车辆从60米高架坠下 车主轻伤"
+  "e:车辆从60米高架坠下车主轻伤": "车辆从60米高架坠下 车主轻伤",
+  "e:泽连斯基称乌克兰遭美国背叛": "泽连斯基称乌克兰遭美国背叛"
  },
  "a_seen": {
   "asmlsstrongorderseasefearsaispen5929adb6": {
@@ -7865,8 +7893,80 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:羊肉标价每克19元引吐槽店家致歉"
+  },
+  "如何评价deepseek停摆5小时后按最近七日api消耗向用户发放补偿赠金": {
+   "key": "如何评价deepseek停摆5小时后按最近七日api消耗向用户发放补偿赠金",
+   "title": "如何评价DeepSeek停摆5小时后，按最近七日api消耗向用户发放补偿赠金？",
+   "rating": "A",
+   "score": 80.68,
+   "angle": "从宕机事件切入，讨论国产AI大模型的服务稳定性挑战与危机公关能力，引发开发者/用户共鸣。",
+   "hook_reason": "国产AI龙头服务宕机5小时，官方直接发钱补偿，这波操作你打几分？",
+   "url": "https://www.zhihu.com/question/2094116217489450760",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何评价deepseek停摆5小时后按最近七日api消耗向用户发放补偿赠金"
+  },
+  "israelifirmsdigitaladsenablingin0a51b330": {
+   "key": "israelifirmsdigitaladsenablingin0a51b330",
+   "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "以色列NSO集团等军警黑客产业链揭秘，广告SDK成新型武器",
+   "hook_reason": "零点击间谍软件通过广告传播，技术颠覆认知",
+   "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:israelifirmsdigitaladsenablinginstallati"
+  },
+  "三部门联合调查尊界刹车踏板断裂": {
+   "key": "三部门联合调查尊界刹车踏板断裂",
+   "title": "三部门联合调查尊界刹车踏板断裂",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "三部门联合调查进展如何？尊界品牌危机应对与消费者权益保障",
+   "hook_reason": "刹车安全关乎人命，官方介入调查引爆公众焦虑",
+   "url": "https://www.toutiao.com/trending/7696531992778784822/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:尊界v800测试中刹车踏板支架断裂"
+  },
+  "三部门调查尊界刹车踏板支架断裂问题": {
+   "key": "三部门调查尊界刹车踏板支架断裂问题",
+   "title": "三部门调查尊界刹车踏板支架断裂问题",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从官方介入角度切入，关注调查结果对尊界品牌及新能源汽车行业安全的深远影响",
+   "hook_reason": "三部门介入安全调查，涉及国产品牌高端车核心安全隐患",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%89%E9%83%A8%E9%97%A8%E8%B0%83%E6%9F%A5%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:尊界v800测试中刹车踏板支架断裂"
+  },
+  "工信部等三部门联合调查尊界刹车踏板支架断裂问题哪些信息值得关注": {
+   "key": "工信部等三部门联合调查尊界刹车踏板支架断裂问题哪些信息值得关注",
+   "title": "工信部等三部门联合调查尊界刹车踏板支架断裂问题，哪些信息值得关注？",
+   "rating": "A",
+   "score": 43.5,
+   "angle": "从工信部紧急调查切入，对比尊界宣传的安全承诺与实际质量问题，追问国产新能源高端化的可信度",
+   "hook_reason": "政府介入调查新能源豪车安全问题，车主恐慌情绪高涨",
+   "url": "https://www.zhihu.com/question/2094181968258627243",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:尊界v800测试中刹车踏板支架断裂"
+  },
+  "1岁宝宝吃下被邻居投毒的鸡蛋后进icu邻居自首称想毒黄鼠狼你怎么看邻居该担什么法律责任": {
+   "key": "1岁宝宝吃下被邻居投毒的鸡蛋后进icu邻居自首称想毒黄鼠狼你怎么看邻居该担什么法律责任",
+   "title": "1 岁宝宝吃下被邻居投毒的鸡蛋后进 ICU，邻居自首称「想毒黄鼠狼」，你怎么看？邻居该担什么法律责任？",
+   "rating": "A",
+   "score": 55.27,
+   "angle": "从法律责任角度切入，分析过失/故意犯罪的认定标准，结合'黄鼠狼'辩解的法律效力与舆论回应",
+   "hook_reason": "1岁婴儿被邻居投毒进ICU，借口想毒黄鼠狼，三重冲击直击家长神经",
+   "url": "https://www.zhihu.com/question/2094023847775135091",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:1岁宝宝吃下被邻居投毒的鸡蛋后进icu邻居自首称想毒黄鼠狼你怎么看邻居该担什么法"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
