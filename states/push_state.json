@@ -2233,19 +2233,6 @@
    "batch_window": 13
   },
   {
-   "key": "24元救命药飙涨到1200元",
-   "title": "24元救命药飙涨到1200元",
-   "rating": "A",
-   "score": 81.85,
-   "angle": "从患者困境切入，追问药价暴涨背后的利益链条与监管缺位",
-   "hook_reason": "救命药50倍暴涨，触动每个人对健康的焦虑与愤怒",
-   "url": "https://www.baidu.com/s?wd=24%E5%85%83%E6%95%91%E5%91%BD%E8%8D%AF%E9%A3%99%E6%B6%A8%E5%88%B01200%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:24元救命药飙涨到1200元",
-   "batch_window": 15
-  },
-  {
    "key": "马斯克印度合作关系破裂星链特斯拉项目陷入停滞",
    "title": "马斯克印度合作关系破裂：星链、特斯拉项目陷入停滞",
    "rating": "A",
@@ -6170,6 +6157,32 @@
    "breaking": true,
    "event_id": "e:adfectiontargetedadsturnedintoapipelinef",
    "batch_window": 5
+  },
+  {
+   "key": "whatiselfhost",
+   "title": "What I Self-Host",
+   "rating": "A",
+   "score": 79.0,
+   "angle": "拆解HN热文《What I Self-Host》：一个技术人的自托管全景图，从基础设施到隐私考量",
+   "hook_reason": "自托管是技术圈持续热门话题，个人实践+实操清单天然吸引开发者",
+   "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whatiselfhost",
+   "batch_window": 6
+  },
+  {
+   "key": "10月16日美股成交额前20coreweave收涨594黄仁勋认为英伟达没有必要为其兜底",
+   "title": "10月16日美股成交额前20：CoreWeave收涨5.94% 黄仁勋认为英伟达没有必要为其兜底",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从黄仁勋强硬表态切入，解读英伟达与上下游合作博弈背后的供应链话语权转移",
+   "hook_reason": "黄仁勋当众表态不兜底，引发市场震动",
+   "url": "https://finance.sina.cn/7x24/2026-10-16/detail-inivkfvy1468895.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:10月16日美股成交额前20coreweave收涨594黄仁勋认为英伟达没有必要",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -6644,7 +6657,8 @@
   "看多了ai短剧为什么都不太喜欢看真人演的短剧或电视剧了呢",
   "anapology",
   "中小学春秋假多地官宣",
-  "einklauncheslatestversionofcolore8e32c5c"
+  "einklauncheslatestversionofcolore8e32c5c",
+  "24元救命药飙涨到1200元"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -7055,7 +7069,8 @@
   "e:看多了ai短剧为什么都不太喜欢看真人演的短剧或电视剧了呢": "看多了AI短剧，为什么都不太喜欢看真人演的短剧或电视剧了呢？",
   "e:anapology": "An Apology",
   "e:中小学春秋假多地官宣": "中小学春秋假 多地官宣",
-  "e:einklauncheslatestversionofcolorepaperpl": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4"
+  "e:einklauncheslatestversionofcolorepaperpl": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
+  "e:24元救命药飙涨到1200元": "24元救命药飙涨到1200元"
  },
  "a_seen": {
   "马斯克为何关注中国内存": {
@@ -7218,15 +7233,39 @@
    "key": "adfectiontargetedadsturnedintoaped05d4b7",
    "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
    "rating": "A",
-   "score": 40.55,
-   "angle": "Citizen Lab揭穿广告系统被武器化，零点击漏洞如何改写隐私战局",
-   "hook_reason": "定向广告竟成间谍软件通道，零点击攻击触达亿万网民",
+   "score": 44.97,
+   "angle": "揭露定向广告系统被恶意利用的技术细节+普通用户防护指南",
+   "hook_reason": "科技公司利用广告当间谍软件渠道，零点击就能中招",
    "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
    "track": "科技",
    "breaking": true,
    "event_id": "e:adfectiontargetedadsturnedintoapipelinef"
+  },
+  "whatiselfhost": {
+   "key": "whatiselfhost",
+   "title": "What I Self-Host",
+   "rating": "A",
+   "score": 79.0,
+   "angle": "拆解HN热文《What I Self-Host》：一个技术人的自托管全景图，从基础设施到隐私考量",
+   "hook_reason": "自托管是技术圈持续热门话题，个人实践+实操清单天然吸引开发者",
+   "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whatiselfhost"
+  },
+  "10月16日美股成交额前20coreweave收涨594黄仁勋认为英伟达没有必要为其兜底": {
+   "key": "10月16日美股成交额前20coreweave收涨594黄仁勋认为英伟达没有必要为其兜底",
+   "title": "10月16日美股成交额前20：CoreWeave收涨5.94% 黄仁勋认为英伟达没有必要为其兜底",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从黄仁勋强硬表态切入，解读英伟达与上下游合作博弈背后的供应链话语权转移",
+   "hook_reason": "黄仁勋当众表态不兜底，引发市场震动",
+   "url": "https://finance.sina.cn/7x24/2026-10-16/detail-inivkfvy1468895.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:10月16日美股成交额前20coreweave收涨594黄仁勋认为英伟达没有必要"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
