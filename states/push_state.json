@@ -2714,19 +2714,6 @@
    "batch_window": 9
   },
   {
-   "key": "中小学春秋假多地官宣",
-   "title": "中小学春秋假 多地官宣",
-   "rating": "A",
-   "score": 81.94,
-   "angle": "多地官宣春秋假落地细节待揭晓，家长如何平衡工作与假期？教育新政或催生新的消费场景",
-   "hook_reason": "触及百万家长痛点，政策变动直接关联家庭出行与子女安排",
-   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%98%A5%E7%A7%8B%E5%81%87+%E5%A4%9A%E5%9C%B0%E5%AE%98%E5%AE%A3&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:中小学春秋假多地官宣",
-   "batch_window": 10
-  },
-  {
    "key": "11of23coreopensourceprojectsrunon1or2people",
    "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
    "rating": "A",
@@ -6144,6 +6131,32 @@
    "breaking": true,
    "event_id": "e:美元指数15日下跌",
    "batch_window": 3
+  },
+  {
+   "key": "einklauncheslatestversionofcolore8e32c5c",
+   "title": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从Kaleido 4色彩突破切入，分析电子纸在平板/纸质屏替代场景的新机会",
+   "hook_reason": "电子纸色彩技术迭代，护眼阅读场景有望突破",
+   "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:einklauncheslatestversionofcolorepaperpl",
+   "batch_window": 4
+  },
+  {
+   "key": "whywerebanningai",
+   "title": "Why We're Banning AI",
+   "rating": "A",
+   "score": 75.15,
+   "angle": "解读AI禁令具体内容+科技巨头/专家立场+对行业生态的冲击",
+   "hook_reason": "AI禁令引发生存恐惧，科技伦理大辩论",
+   "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:whywerebanningai",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -6616,7 +6629,8 @@
   "特朗普开玩笑称如果他嗓子哑了就派一个机器人版的自己代他跑竞选活动这样他就能",
   "马斯克为何关注中国内存",
   "看多了ai短剧为什么都不太喜欢看真人演的短剧或电视剧了呢",
-  "anapology"
+  "anapology",
+  "中小学春秋假多地官宣"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -7025,16 +7039,17 @@
   "e:特朗普开玩笑称如果他嗓子哑了就派一个机器人版的自己代他跑竞选活动这样他就能": "特朗普开玩笑称，如果他嗓子哑了，就派一个机器人版的自己代他跑竞选活动，这样他就能",
   "e:马斯克为何关注中国内存": "马斯克为何关注中国内存",
   "e:看多了ai短剧为什么都不太喜欢看真人演的短剧或电视剧了呢": "看多了AI短剧，为什么都不太喜欢看真人演的短剧或电视剧了呢？",
-  "e:anapology": "An Apology"
+  "e:anapology": "An Apology",
+  "e:中小学春秋假多地官宣": "中小学春秋假 多地官宣"
  },
  "a_seen": {
   "马斯克为何关注中国内存": {
    "key": "马斯克为何关注中国内存",
    "title": "马斯克为何关注中国内存",
    "rating": "A",
-   "score": 80.65,
-   "angle": "从半导体产业链角度解读马斯克难民式关注背后的技术焦虑与国产替代机遇",
-   "hook_reason": "马斯克关注中国内存，引发科技博弈想象空间",
+   "score": 84.0,
+   "angle": "从芯片突围角度切入，解读中美科技博弈下中国内存产业的战略价值与马斯克的布局逻辑",
+   "hook_reason": "马斯克+中国科技，名人效应叠加民族情绪，点击欲望强",
    "url": "https://www.toutiao.com/trending/7696780186570194986/",
    "track": "科技",
    "breaking": false,
@@ -7147,8 +7162,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:美元指数15日下跌"
+  },
+  "einklauncheslatestversionofcolore8e32c5c": {
+   "key": "einklauncheslatestversionofcolore8e32c5c",
+   "title": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从Kaleido 4色彩突破切入，分析电子纸在平板/纸质屏替代场景的新机会",
+   "hook_reason": "电子纸色彩技术迭代，护眼阅读场景有望突破",
+   "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:einklauncheslatestversionofcolorepaperpl"
+  },
+  "whywerebanningai": {
+   "key": "whywerebanningai",
+   "title": "Why We're Banning AI",
+   "rating": "A",
+   "score": 75.15,
+   "angle": "解读AI禁令具体内容+科技巨头/专家立场+对行业生态的冲击",
+   "hook_reason": "AI禁令引发生存恐惧，科技伦理大辩论",
+   "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:whywerebanningai"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
