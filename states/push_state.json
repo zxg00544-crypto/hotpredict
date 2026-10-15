@@ -5665,19 +5665,6 @@
    "batch_window": 7
   },
   {
-   "key": "美股科技题材全线下挫纳指跌近2",
-   "title": "美股科技题材全线下挫 纳指跌近2%",
-   "rating": "A",
-   "score": 98.0,
-   "angle": "从纳指大跌切入，解读科技股估值回调逻辑，预判对A股影响及应对策略",
-   "hook_reason": "美股科技股暴跌牵动全球投资者神经，纳指跌近2%为何？",
-   "url": "https://www.toutiao.com/trending/7696664319009754667/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:美股科技题材全线下挫纳指跌近2",
-   "batch_window": 8
-  },
-  {
    "key": "tinylittleoffice",
    "title": "Tiny Little Office",
    "rating": "A",
@@ -5741,6 +5728,58 @@
    "breaking": true,
    "event_id": "e:如何看待郑钦文中网夺冠后躺在球场上直播镜头对准其裙底长达4秒出现这种画面算直播事",
    "batch_window": 8
+  },
+  {
+   "key": "黄金白银断崖式大跌",
+   "title": "黄金白银断崖式大跌",
+   "rating": "A",
+   "score": 94.0,
+   "angle": "从普通投资者视角切入，解读暴跌原因、影响范围及应对策略",
+   "hook_reason": "暴跌引发恐慌，人人关心资产缩水，情绪驱动点击",
+   "url": "https://www.toutiao.com/trending/7696690825396342299/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:黄金白银断崖式大跌",
+   "batch_window": 9
+  },
+  {
+   "key": "看病请人陪有国家标准了",
+   "title": "“看病请人陪”有国家标准了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从",
+   "hook_reason": "看病陪护首次国家标准，每人都会遇到，情感共鸣强",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%8B%E7%97%85%E8%AF%B7%E4%BA%BA%E9%99%AA%E2%80%9D%E6%9C%89%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:看病请人陪有国家标准了",
+   "batch_window": 9
+  },
+  {
+   "key": "lfm2524ba2bbuiltforfastondeviceagents",
+   "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "24B模型上设备成现实，本地Agent时代或由此加速，解读对芯片/端侧推理产业链的影响",
+   "hook_reason": "端侧跑24B大模型突破算力天花板，开发者必看",
+   "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:lfm2524ba2bbuiltforfastondeviceagents",
+   "batch_window": 9
+  },
+  {
+   "key": "如何评价博主北美花生就是我爆料懂车帝曾测试出丰田赛那车型后摆臂断裂但未进行发布",
+   "title": "如何评价博主「北美花生就是我」爆料懂车帝曾测试出丰田赛那车型后摆臂断裂，但未进行发布？",
+   "rating": "A",
+   "score": 65.44,
+   "angle": "从检测机构公信力角度切入，探讨汽车消费市场信息不对称与消费者维权困境",
+   "hook_reason": "检测机构隐瞒缺陷测试，消费信任崩塌引共鸣",
+   "url": "https://www.zhihu.com/question/2093821528492204459",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何评价博主北美花生就是我爆料懂车帝曾测试出丰田赛那车型后摆臂断裂但未进行发布",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -6184,7 +6223,8 @@
   "好莱坞演员的中国短剧梦被ai截胡",
   "imf日本gdp明年或降至全球第六",
   "高盛谁高位接盘了美股科技",
-  "opencode20"
+  "opencode20",
+  "美股科技题材全线下挫纳指跌近2"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -6564,7 +6604,8 @@
   "e:好莱坞演员的中国短剧梦被ai截胡": "“好莱坞”演员的中国短剧梦被AI截胡",
   "e:imf日本gdp明年或降至全球第六": "IMF：日本GDP明年或降至全球第六",
   "e:高盛谁高位接盘了美股科技": "高盛：谁高位接盘了美股科技",
-  "e:opencode20": "OpenCode 2.0"
+  "e:opencode20": "OpenCode 2.0",
+  "e:美股科技题材全线下挫纳指跌近2": "美股科技题材全线下挫 纳指跌近2%"
  },
  "a_seen": {
   "asmlsstrongorderseasefearsaispen5929adb6": {
@@ -6955,9 +6996,9 @@
    "key": "openai员工涉嫌在高管会议室安装窃听器结果被自家ai协助破案如何评价这起事件",
    "title": "OpenAI 员工涉嫌在高管会议室安装窃听器，结果被自家 AI 协助破案，如何评价这起事件？",
    "rating": "A",
-   "score": 43.75,
-   "angle": "科技大厂内控崩塌：AI沦为职场监控工具还是正义帮手？探讨隐私、权力与AI伦理边界",
-   "hook_reason": "AI抓内鬼比谍战剧还离谱，科技公司内控有多魔幻",
+   "score": 81.0,
+   "angle": "以AI伦理与科技公司内部监控冲突为切入点，探讨技术反噬与职场隐私边界",
+   "hook_reason": "用AI抓自家卧底，职场谍战+AI反杀，剧情比美剧还敢写",
    "url": "https://www.zhihu.com/question/2093575542540875135",
    "track": "科技",
    "breaking": true,
@@ -6979,9 +7020,9 @@
    "key": "耻辱合影事件最新进展雷波县教体局局长已被调离这样的处置方式如何",
    "title": "「耻辱」合影事件最新进展，雷波县教体局局长已被调离，这样的处置方式如何？",
    "rating": "A",
-   "score": 61.84,
-   "angle": "以官员调离为切入点，探讨基层权力监督困境与舆情倒逼问责的边界",
-   "hook_reason": "官员处分结果公布，\"耻辱\"标签引爆情绪，公众关心追责是否够严",
+   "score": 80.0,
+   "angle": "从",
+   "hook_reason": "官员丑闻+舆情处置，大众对",
    "url": "https://www.zhihu.com/question/2093768214543087532",
    "track": "社会热点",
    "breaking": true,
@@ -6998,8 +7039,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:如何看待郑钦文中网夺冠后躺在球场上直播镜头对准其裙底长达4秒出现这种画面算直播事"
+  },
+  "黄金白银断崖式大跌": {
+   "key": "黄金白银断崖式大跌",
+   "title": "黄金白银断崖式大跌",
+   "rating": "A",
+   "score": 94.0,
+   "angle": "从普通投资者视角切入，解读暴跌原因、影响范围及应对策略",
+   "hook_reason": "暴跌引发恐慌，人人关心资产缩水，情绪驱动点击",
+   "url": "https://www.toutiao.com/trending/7696690825396342299/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:黄金白银断崖式大跌"
+  },
+  "看病请人陪有国家标准了": {
+   "key": "看病请人陪有国家标准了",
+   "title": "“看病请人陪”有国家标准了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从",
+   "hook_reason": "看病陪护首次国家标准，每人都会遇到，情感共鸣强",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%8B%E7%97%85%E8%AF%B7%E4%BA%BA%E9%99%AA%E2%80%9D%E6%9C%89%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:看病请人陪有国家标准了"
+  },
+  "lfm2524ba2bbuiltforfastondeviceagents": {
+   "key": "lfm2524ba2bbuiltforfastondeviceagents",
+   "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "24B模型上设备成现实，本地Agent时代或由此加速，解读对芯片/端侧推理产业链的影响",
+   "hook_reason": "端侧跑24B大模型突破算力天花板，开发者必看",
+   "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:lfm2524ba2bbuiltforfastondeviceagents"
+  },
+  "如何评价博主北美花生就是我爆料懂车帝曾测试出丰田赛那车型后摆臂断裂但未进行发布": {
+   "key": "如何评价博主北美花生就是我爆料懂车帝曾测试出丰田赛那车型后摆臂断裂但未进行发布",
+   "title": "如何评价博主「北美花生就是我」爆料懂车帝曾测试出丰田赛那车型后摆臂断裂，但未进行发布？",
+   "rating": "A",
+   "score": 65.44,
+   "angle": "从检测机构公信力角度切入，探讨汽车消费市场信息不对称与消费者维权困境",
+   "hook_reason": "检测机构隐瞒缺陷测试，消费信任崩塌引共鸣",
+   "url": "https://www.zhihu.com/question/2093821528492204459",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何评价博主北美花生就是我爆料懂车帝曾测试出丰田赛那车型后摆臂断裂但未进行发布"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
