@@ -49,8 +49,15 @@ def render_daily(date_str: str, fast: list, trend: list, meta: dict) -> str:
     head.append(f"- 评级模型：{meta.get('llm_model','未运行')}"
                 f"（备选切换 {meta.get('llm_fallback_count',0)} 次）")
     if meta.get("degraded"):
-        head.append("- ⚠️ **本轮 LLM 降级**：以下只含机械评分分档，"
-                    "没有 A/B/C 评级与角度，参考价值打折，请人工补判断")
+        total = meta.get("grade_total")
+        fail = meta.get("grade_fail")
+        if total:
+            head.append(f"- ⚠️ **本轮 LLM 降级**：{fail}/{total} 个话题评级失败，"
+                        "失败行只有机械评分分档（无 A/B/C 评级与角度），"
+                        "其余为正常评级，请对失败行人工补判断")
+        else:
+            head.append("- ⚠️ **本轮 LLM 降级**：以下只含机械评分分档，"
+                        "没有 A/B/C 评级与角度，参考价值打折，请人工补判断")
     head += ["", f"生成时间：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
              f"数据来源：`{meta.get('db_path','')}`", "",
              "---", "", _fast_section(fast), "---", "", _trend_section(trend),

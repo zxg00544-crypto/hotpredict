@@ -103,11 +103,15 @@ def run_round(cfg: dict) -> dict:
 
     use_llm = bool(cfg.get("use_llm", True))
     fb, degraded = 0, not use_llm
+    grade_total = grade_fail = 0
     for bucket, label in ((fast, "快讯档"), (trend, "趋势推荐")):
         for t in bucket:
+            grade_total += 1
             f, d = _grade(t, cfg, label, use_llm)
             fb += f
             degraded = degraded or d
+            grade_fail += 1 if d else 0
+    print(f"[grade] total={grade_total} fail={grade_fail} fallback={fb}", flush=True)
 
     state_path = os.path.join(out_dir, "states", "push_state.json")
     st = load_state(state_path)
@@ -120,6 +124,7 @@ def run_round(cfg: dict) -> dict:
 
     meta = {"llm_model": cfg.get("llm", {}).get("model", "-") if use_llm else "已禁用(--no-llm)",
             "llm_fallback_count": fb, "degraded": degraded,
+            "grade_fail": grade_fail, "grade_total": grade_total,
             "sources": sources, "db_path": db_path}
     md = render_daily(date_str, fast, trend, meta)
     board = render_board({"date": date_str, "fast": fast, "trend": trend, "meta": meta})
@@ -173,7 +178,8 @@ def run_round(cfg: dict) -> dict:
             "board_path": board_path, "vv_path": vv_out_path,
             "fast": len(fast), "trend": len(trend),
             "signals": len(signals), "failed_sources": failed,
-            "degraded": degraded, "push": pushes}
+            "degraded": degraded,
+            "grade_fail": grade_fail, "grade_total": grade_total, "push": pushes}
 
 def main():
     ap = argparse.ArgumentParser(description="热点预测调度流水线")
