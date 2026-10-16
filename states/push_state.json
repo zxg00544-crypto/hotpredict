@@ -6872,6 +6872,32 @@
    "breaking": true,
    "event_id": "e:微软被告知员工应将openai抓取项目列为机密",
    "batch_window": 6
+  },
+  {
+   "key": "coreweave单周暴跌25凸显ai交易中恐惧与贪婪角力",
+   "title": "CoreWeave单周暴跌25% 凸显AI交易中恐惧与贪婪角力",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从CoreWeAVE暴跌切入，剖析AI资本市场的泡沫风险与资金撤离逻辑",
+   "hook_reason": "AI核心股单周暴跌25%，恐惧与贪婪博弈，投资者高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-17/detail-inivnrax8198439.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:coreweave单周暴跌25凸显ai交易中恐惧与贪婪角力",
+   "batch_window": 6
+  },
+  {
+   "key": "s16",
+   "title": "S16",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从S16热搜现象切入，深挖B站游戏圈层文化及流量密码",
+   "hook_reason": "S16热度登顶B站，玩家热议背后真相待解",
+   "url": "https://search.bilibili.com/all?keyword=S16",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:s16",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -7930,12 +7956,12 @@
    "key": "90ofusworkinghoursarespentontask68aa9c55",
    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
    "rating": "A",
-   "score": 75.7,
-   "angle": "从AI能力边界切入，分析AI商业化落地瓶颈，解读企业如何抓住AI做不好的场景",
-   "hook_reason": "90%工作AI搞不定，打工人集体安心",
+   "score": 75.25,
+   "angle": "标题：AI干不了90%的工作？一份重磅研究给出答案。角度：从",
+   "hook_reason": "90%工作不在AI能力内——打脸AI万能论，引发打工人和老板双重关注",
    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "track": "科技",
-   "breaking": true,
+   "breaking": false,
    "event_id": "e:90ofusworkinghoursarespentontasksnotcove"
   },
   "自然封面重磅科学家造出人猿杂交细胞意外发现人类全身骨骼被神秘减配网页链接网页链接": {
@@ -8069,6 +8095,30 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:微软被告知员工应将openai抓取项目列为机密"
+  },
+  "coreweave单周暴跌25凸显ai交易中恐惧与贪婪角力": {
+   "key": "coreweave单周暴跌25凸显ai交易中恐惧与贪婪角力",
+   "title": "CoreWeave单周暴跌25% 凸显AI交易中恐惧与贪婪角力",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从CoreWeAVE暴跌切入，剖析AI资本市场的泡沫风险与资金撤离逻辑",
+   "hook_reason": "AI核心股单周暴跌25%，恐惧与贪婪博弈，投资者高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-17/detail-inivnrax8198439.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:coreweave单周暴跌25凸显ai交易中恐惧与贪婪角力"
+  },
+  "s16": {
+   "key": "s16",
+   "title": "S16",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从S16热搜现象切入，深挖B站游戏圈层文化及流量密码",
+   "hook_reason": "S16热度登顶B站，玩家热议背后真相待解",
+   "url": "https://search.bilibili.com/all?keyword=S16",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:s16"
   }
  },
  "breaking_count": 10,
