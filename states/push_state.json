@@ -3598,19 +3598,6 @@
    "batch_window": 22
   },
   {
-   "key": "胖东来施工现场干净得像ai",
-   "title": "胖东来施工现场 干净得像AI",
-   "rating": "A",
-   "score": 81.77,
-   "angle": "胖东来精细化管理引发AI技术联想，透视实体零售的科技升级",
-   "hook_reason": "施工现场干净得像AI，反差感强，触发好奇",
-   "url": "https://www.toutiao.com/trending/7695311157557166121/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:胖东来施工现场干净得像ai",
-   "batch_window": 23
-  },
-  {
    "key": "回顾郑钦文中网夺冠之路",
    "title": "回顾郑钦文中网夺冠之路",
    "rating": "A",
@@ -6183,6 +6170,45 @@
    "breaking": false,
    "event_id": "e:jevmeetsthetrolleyproblem",
    "batch_window": 7
+  },
+  {
+   "key": "车行老板油车比新能源车更保值",
+   "title": "车行老板：油车比新能源车更保值",
+   "rating": "A",
+   "score": 52.95,
+   "angle": "以购车消费者视角切入，用数据拆解油车vs新能源车真实保值率，破除信息差",
+   "hook_reason": "油电保值之争触及购车人群痛点，话题自带争议性",
+   "url": "https://www.toutiao.com/trending/7696567519415107627/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:车行老板油车比新能源车更保值",
+   "batch_window": 8
+  },
+  {
+   "key": "特朗普我想我会去明尼苏达州",
+   "title": "特朗普：我想我会去明尼苏达州。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "追踪特朗普此行程背后的政治意图与可能政策信号",
+   "hook_reason": "特朗普突发声明，身份顶级，悬念感强",
+   "url": "https://zhibo.sina.com.cn/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普我想我会去明尼苏达州",
+   "batch_window": 8
+  },
+  {
+   "key": "印尼证券交易所针对msci的公告已采取多项具体措施以提升印尼资本市场的透明度",
+   "title": "印尼证券交易所：针对MSCI的公告，已采取多项具体措施以提升印尼资本市场的透明度",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从MSCI纳入预期切入，分析印尼市场对外开放及对区域资产配置的影响",
+   "hook_reason": "MSCI相关公告刺激外资配置兴趣",
+   "url": "https://finance.sina.cn/7x24/2026-10-16/detail-inivkncx8218922.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:印尼证券交易所针对msci的公告已采取多项具体措施以提升印尼资本市场的透明度",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -6659,7 +6685,8 @@
   "中小学春秋假多地官宣",
   "einklauncheslatestversionofcolore8e32c5c",
   "24元救命药飙涨到1200元",
-  "精神病院为何扎堆更名"
+  "精神病院为何扎堆更名",
+  "胖东来施工现场干净得像ai"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -7072,7 +7099,8 @@
   "e:中小学春秋假多地官宣": "中小学春秋假 多地官宣",
   "e:einklauncheslatestversionofcolorepaperpl": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
   "e:24元救命药飙涨到1200元": "24元救命药飙涨到1200元",
-  "e:精神病院为何扎堆更名": "精神病院为何扎堆更名"
+  "e:精神病院为何扎堆更名": "精神病院为何扎堆更名",
+  "e:胖东来施工现场干净得像ai": "胖东来施工现场 干净得像AI"
  },
  "a_seen": {
   "马斯克为何关注中国内存": {
@@ -7278,8 +7306,44 @@
    "track": "大咖发言",
    "breaking": false,
    "event_id": "e:jevmeetsthetrolleyproblem"
+  },
+  "车行老板油车比新能源车更保值": {
+   "key": "车行老板油车比新能源车更保值",
+   "title": "车行老板：油车比新能源车更保值",
+   "rating": "A",
+   "score": 52.95,
+   "angle": "以购车消费者视角切入，用数据拆解油车vs新能源车真实保值率，破除信息差",
+   "hook_reason": "油电保值之争触及购车人群痛点，话题自带争议性",
+   "url": "https://www.toutiao.com/trending/7696567519415107627/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:车行老板油车比新能源车更保值"
+  },
+  "特朗普我想我会去明尼苏达州": {
+   "key": "特朗普我想我会去明尼苏达州",
+   "title": "特朗普：我想我会去明尼苏达州。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "追踪特朗普此行程背后的政治意图与可能政策信号",
+   "hook_reason": "特朗普突发声明，身份顶级，悬念感强",
+   "url": "https://zhibo.sina.com.cn/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普我想我会去明尼苏达州"
+  },
+  "印尼证券交易所针对msci的公告已采取多项具体措施以提升印尼资本市场的透明度": {
+   "key": "印尼证券交易所针对msci的公告已采取多项具体措施以提升印尼资本市场的透明度",
+   "title": "印尼证券交易所：针对MSCI的公告，已采取多项具体措施以提升印尼资本市场的透明度",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从MSCI纳入预期切入，分析印尼市场对外开放及对区域资产配置的影响",
+   "hook_reason": "MSCI相关公告刺激外资配置兴趣",
+   "url": "https://finance.sina.cn/7x24/2026-10-16/detail-inivkncx8218922.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:印尼证券交易所针对msci的公告已采取多项具体措施以提升印尼资本市场的透明度"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
