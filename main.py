@@ -81,7 +81,8 @@ def run_round(cfg: dict) -> dict:
             signals.extend(got)
             save_signals(conn, got)
         except Exception as e:
-            failed.append(f"{mod.__module__}: {type(e).__name__}")
+            failed.append(f"{mod.__module__}: {type(e).__name__}: "
+                          f"{str(e)[:80]}")
     prune(conn)
     sources = sorted({s.source for s in signals})
 

@@ -1,9 +1,10 @@
 # tests/test_collectors.py
 import unittest
+from unittest import mock
 from collectors.zhihu import parse_hot_list
 from collectors.hn import parse_item
 from collectors.finance_sina import parse_feed as parse_sina
-from collectors.weibo_v import parse_feed as parse_vv
+from collectors.weibo_v import parse_feed as parse_vv, fetch as fetch_vv
 from collectors.registry import get_collectors
 
 class TestCollectors(unittest.TestCase):
@@ -57,6 +58,53 @@ class TestCollectors(unittest.TestCase):
         self.assertEqual(s.url, "https://weibo.com/1749127163/Abc")
         self.assertEqual(s.heat, 100 + 50 * 2 + 10 * 3)
         self.assertEqual(s.author_weight, 1.0)
+
+    def _vv_cfg(self):
+        return {"weibo_cookie": "SUB=x",
+                "weibo_v_vvs": [{"uid": 1, "name": "a"}, {"uid": 2, "name": "b"}]}
+
+    @mock.patch("collectors.weibo_v.time.sleep")
+    @mock.patch("collectors.weibo_v.requests.get")
+    def test_weibo_v_all_failed_raises(self, mget, _sleep):
+        resp = mock.Mock()
+        resp.status_code = 432
+        http_err = RuntimeError("432 Client Error")
+        http_err.response = resp
+        mget.side_effect = http_err
+        with self.assertRaises(RuntimeError) as cm:
+            fetch_vv(self._vv_cfg())
+        msg = str(cm.exception)
+        self.assertIn("2/2", msg)
+        self.assertIn("432", msg)
+
+    @mock.patch("collectors.weibo_v.time.sleep")
+    @mock.patch("collectors.weibo_v.requests.get")
+    def test_weibo_v_all_failed_with_response_empty_raises(self, mget, _sleep):
+        mget.side_effect = RuntimeError("unexpected")
+        with self.assertRaises(RuntimeError) as cm:
+            fetch_vv(self._vv_cfg())
+        self.assertIn("2/2", str(cm.exception))
+
+    @mock.patch("collectors.weibo_v.time.sleep")
+    @mock.patch("collectors.weibo_v.requests.get")
+    def test_weibo_v_partial_failure_returns_data(self, mget, _sleep):
+        payload = {"ok": 1, "data": {"cards": [
+            {"card_type": 9, "mblog": {
+                "id": "1", "bid": "B", "created_at": "Wed Sep 23 20:42:01 +0800 2026",
+                "text": "正文", "attitudes_count": 5, "comments_count": 1,
+                "reposts_count": 0, "user": {"id": 1, "screen_name": "x"}}}]}}
+        good = mock.Mock()
+        good.raise_for_status.return_value = None
+        good.json.return_value = payload
+        mget.side_effect = [good, RuntimeError("HTTP 432")]
+        sigs = fetch_vv(self._vv_cfg())
+        self.assertEqual(len(sigs), 1)
+        self.assertEqual(sigs[0].source, "weibo_v")
+
+    @mock.patch("collectors.weibo_v.requests.get")
+    def test_weibo_v_no_cookie_returns_empty(self, mget):
+        self.assertEqual(fetch_vv({"weibo_cookie": "", "weibo_v_vvs": [{"uid": 1}]}), [])
+        mget.assert_not_called()
 
     def test_registry_includes_new_sources_and_cookie_gate(self):
         cfg = {"platforms": {"zhihu": False, "weibo": True, "weibo_v": True,

@@ -35,22 +35,34 @@ def parse_feed(uid: int, payload: dict, fetched_at: str) -> list[Signal]:
     return out
 
 def fetch(cfg: dict) -> list[Signal]:
+    """逐博拉取；单博失败跳过但计数，全部失败且无数据时抛错——
+    否则 432 风控等故障静默返回空表，failed_sources 永远看不见（2026-10-16）。"""
     cookie = str(cfg.get("weibo_cookie") or "").strip()
     if not cookie:
         return []
     h = dict(UA); h["Cookie"] = cookie
     now = time.strftime("%Y-%m-%dT%H:%M:%S")
-    out = []
-    for vv in cfg.get("weibo_v_vvs") or []:
+    out, errs = [], []
+    vvs = cfg.get("weibo_v_vvs") or []
+    for vv in vvs:
         uid = int(vv["uid"])
         url = (f"https://m.weibo.cn/api/container/getIndex?type=uid&value={uid}"
                f"&containerid=107603{uid}")
         try:
             r = requests.get(url, headers=h, timeout=10)
             r.raise_for_status()
-            if r.json().get("ok") == 1:
-                out.extend(parse_feed(uid, r.json(), now))
-        except Exception:
-            continue
+            j = r.json()
+            if j.get("ok") == 1:
+                out.extend(parse_feed(uid, j, now))
+            else:
+                errs.append(f"uid{uid}:ok={j.get('ok')}")
+        except Exception as e:
+            code = getattr(getattr(e, "response", None), "status_code", None)
+            errs.append(f"uid{uid}:{type(e).__name__}"
+                        + (f"({code})" if code else ""))
         time.sleep(0.4)
+    if not out and errs:
+        raise RuntimeError(
+            f"weibo_v {len(errs)}/{len(vvs)} VVs failed, "
+            f"last={errs[-1]}")
     return out
