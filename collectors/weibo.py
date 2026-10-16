@@ -23,7 +23,14 @@ def parse_container(payload: dict, fetched_at: str) -> list[Signal]:
 
 def fetch(cfg: dict) -> list[Signal]:
     h = dict(UA); h["Cookie"] = cfg["weibo_cookie"]
+    # 2026-10-16: 不带XHR头时m.weibo.cn回HTML首页而非JSON(JSONDecodeError根因)
+    h.update({"Referer": "https://m.weibo.cn/",
+              "X-Requested-With": "XMLHttpRequest",
+              "Accept": "application/json, text/plain, */*"})
     r = requests.get("https://m.weibo.cn/api/container/getIndex?containerid=" + CID,
                      headers=h, timeout=10)
     r.raise_for_status()
-    return parse_container(r.json(), time.strftime("%Y-%m-%dT%H:%M:%S"))
+    j = r.json()
+    if j.get("ok") != 1:
+        raise RuntimeError(f"weibo: ok={j.get('ok')} (cookie invalid?)")
+    return parse_container(j, time.strftime("%Y-%m-%dT%H:%M:%S"))

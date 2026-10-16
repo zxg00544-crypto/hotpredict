@@ -41,6 +41,10 @@ def fetch(cfg: dict) -> list[Signal]:
     if not cookie:
         return []
     h = dict(UA); h["Cookie"] = cookie
+    # 2026-10-16: 不带XHR头时m.weibo.cn回HTML首页而非JSON(JSONDecodeError根因)
+    h.update({"Referer": "https://m.weibo.cn/",
+              "X-Requested-With": "XMLHttpRequest",
+              "Accept": "application/json, text/plain, */*"})
     now = time.strftime("%Y-%m-%dT%H:%M:%S")
     out, errs = [], []
     vvs = cfg.get("weibo_v_vvs") or []
