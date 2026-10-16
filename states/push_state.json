@@ -6536,19 +6536,6 @@
    "batch_window": 17
   },
   {
-   "key": "房子会二八分化硅谷之城未来涨价任泽平的微博视频",
-   "title": "房子会二八分化，硅谷之城未来涨价！ 任泽平的微博视频",
-   "rating": "A",
-   "score": 84.95,
-   "angle": "任泽平预言房市80后分化，硅谷之城房价将涨，刚需族如何破局",
-   "hook_reason": "任泽平预测房市分化，80后刚需面临房价上涨冲击",
-   "url": "https://weibo.com/5884573948/RmWKKb2B0",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:房子会二八分化硅谷之城未来涨价任泽平的微博视频",
-   "batch_window": 18
-  },
-  {
    "key": "非常酷的另外一种形态飞行汽车能否落地还要看飞行安全飞行参数例如续航等具体指标但是所有",
    "title": "非常酷的另外一种形态飞行汽车👍 能否落地还要看飞行安全，飞行参数（例如续航）等具体指标。但是所有",
    "rating": "A",
@@ -6846,6 +6833,32 @@
    "breaking": true,
    "event_id": "e:官方拟修订中国禁止出口限制出口技术目录增列部分人工智能生物医药光伏技术背后有哪些",
    "batch_window": 3
+  },
+  {
+   "key": "clauderevealsecdsacurveorigins",
+   "title": "Claude reveals ECDSA curve origins",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从AI研究揭示密码学设计黑箱切入，探讨大模型如何影响关键基础设施标准制定",
+   "hook_reason": "AI揭秘NIST密码标准黑箱，安全圈震荡",
+   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:clauderevealsecdsacurveorigins",
+   "batch_window": 4
+  },
+  {
+   "key": "ai偶像怀孕把全网都耍了",
+   "title": "AI偶像怀孕 把全网都“耍了”",
+   "rating": "A",
+   "score": 81.25,
+   "angle": "从AI技术边界切入，探讨虚拟偶像情感拟人化是否越界，以及公众对AI伦理的敏感度",
+   "hook_reason": "AI偶像怀孕颠覆认知，大众对虚拟与现实边界充满好奇",
+   "url": "https://www.baidu.com/s?wd=AI%E5%81%B6%E5%83%8F%E6%80%80%E5%AD%95+%E6%8A%8A%E5%85%A8%E7%BD%91%E9%83%BD%E2%80%9C%E8%80%8D%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:ai偶像怀孕把全网都耍了",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -7352,7 +7365,8 @@
   "37岁女子产后心脏骤停3小时被救回",
   "iphoneduo预售溢价10000元",
   "特斯拉新款roadster正式亮相能实现离地升空空中翻滚如何评价你看好它的市场前景吗",
-  "女子在自己手机上登录前男友账号以1314等金额转走近二十万法院判决全部返还如何从法律角度解读"
+  "女子在自己手机上登录前男友账号以1314等金额转走近二十万法院判决全部返还如何从法律角度解读",
+  "房子会二八分化硅谷之城未来涨价任泽平的微博视频"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -7795,7 +7809,8 @@
   "e:37岁女子产后心脏骤停3小时被救回": "37岁女子产后心脏骤停3小时被救回",
   "e:iphoneduo预售溢价10000元": "iPhone Duo预售溢价10000元",
   "e:特斯拉新款roadster正式亮相能实现离地升空空中翻滚如何评价你看好它的市场前": "特斯拉新款 Roadster 正式亮相，能实现离地升空、空中翻滚，如何评价？你看好它的市场前景吗？",
-  "e:女子在自己手机上登录前男友账号以1314等金额转走近二十万法院判决全部返还如何从": "女子在自己手机上登录前男友账号以「1314」等金额转走近二十万，法院判决全部返还，如何从法律角度解读？"
+  "e:女子在自己手机上登录前男友账号以1314等金额转走近二十万法院判决全部返还如何从": "女子在自己手机上登录前男友账号以「1314」等金额转走近二十万，法院判决全部返还，如何从法律角度解读？",
+  "e:房子会二八分化硅谷之城未来涨价任泽平的微博视频": "房子会二八分化，硅谷之城未来涨价！ 任泽平的微博视频"
  },
  "a_seen": {
   "彩电第一股确定退市": {
@@ -7958,9 +7973,9 @@
    "key": "llamacpponajailbrokenps5runanyggc5fe03dd",
    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
    "rating": "A",
-   "score": 75.8,
-   "angle": "从PS5越狱运行GGUF模型切入，探讨边缘设备本地推理的崛起与极客社区的开源创新力",
-   "hook_reason": "PS5跑本地大模型？极客玩家的AI新玩具引爆技术圈",
+   "score": 76.5,
+   "angle": "PS5越狱+本地AI双热点叠加，探讨游戏机变边缘AI跑台的创新玩法",
+   "hook_reason": "PS5越狱竟能跑本地AI大模型？游戏机变计算平台引发好奇",
    "url": "https://github.com/cobanov/PS5LM",
    "track": "科技",
    "breaking": true,
@@ -7970,15 +7985,39 @@
    "key": "官方拟修订中国禁止出口限制出口技术目录增列部分人工智能生物医药光伏技术背后有哪些考量",
    "title": "官方拟修订《中国禁止出口限制出口技术目录》，增列部分人工智能、生物医药、光伏技术，背后有哪些考量？",
    "rating": "A",
-   "score": 43.8,
-   "angle": "解读新增技术目录的产业影响，分析对AI芯片、光伏、生物医药产业链的机遇与挑战",
-   "hook_reason": "中美科技博弈再出重拳，AI/光伏从业者和投资者必看的政策动向",
+   "score": 46.44,
+   "angle": "从产业链视角解读AI、生物医药、光伏三大领域出口管制背后的产业博弈与商机",
+   "hook_reason": "政策突发锁定AI/光伏出口管制，产业影响立竿见影",
    "url": "https://www.zhihu.com/question/2094468473413789647",
-   "track": "科技",
+   "track": "财经",
    "breaking": true,
    "event_id": "e:官方拟修订中国禁止出口限制出口技术目录增列部分人工智能生物医药光伏技术背后有哪些"
+  },
+  "clauderevealsecdsacurveorigins": {
+   "key": "clauderevealsecdsacurveorigins",
+   "title": "Claude reveals ECDSA curve origins",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从AI研究揭示密码学设计黑箱切入，探讨大模型如何影响关键基础设施标准制定",
+   "hook_reason": "AI揭秘NIST密码标准黑箱，安全圈震荡",
+   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:clauderevealsecdsacurveorigins"
+  },
+  "ai偶像怀孕把全网都耍了": {
+   "key": "ai偶像怀孕把全网都耍了",
+   "title": "AI偶像怀孕 把全网都“耍了”",
+   "rating": "A",
+   "score": 81.25,
+   "angle": "从AI技术边界切入，探讨虚拟偶像情感拟人化是否越界，以及公众对AI伦理的敏感度",
+   "hook_reason": "AI偶像怀孕颠覆认知，大众对虚拟与现实边界充满好奇",
+   "url": "https://www.baidu.com/s?wd=AI%E5%81%B6%E5%83%8F%E6%80%80%E5%AD%95+%E6%8A%8A%E5%85%A8%E7%BD%91%E9%83%BD%E2%80%9C%E8%80%8D%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:ai偶像怀孕把全网都耍了"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
