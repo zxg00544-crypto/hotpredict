@@ -1947,19 +1947,6 @@
    "batch_window": 21
   },
   {
-   "key": "央行发布关于人民币汇率的政策立场称中国没有必要也无意通过汇率贬值获取贸易竞争优势如何解读",
-   "title": "央行发布关于人民币汇率的政策立场，称中国没有必要，也无意通过汇率贬值获取贸易竞争优势，如何解读？",
-   "rating": "A",
-   "score": 81.0,
-   "angle": "央行表态人民币无意贬值，对进出口企业、外汇储备及中美贸易谈判的影响分析",
-   "hook_reason": "央行罕见定性人民币贬值意图，触及出口企业核心利益",
-   "url": "https://www.zhihu.com/question/2091589191394185302",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:央行发布关于人民币汇率的政策立场称中国没有必要也无意通过汇率贬值获取贸易竞争优势",
-   "batch_window": 22
-  },
-  {
    "key": "igaveopus55onepromptandsixhourst43484513",
    "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
    "rating": "A",
@@ -6326,6 +6313,45 @@
    "breaking": true,
    "event_id": "e:四川学生分低教师拍照事件调查结果",
    "batch_window": 11
+  },
+  {
+   "key": "王毅对以方说巴问题是本世纪最大不公",
+   "title": "王毅对以方说巴问题是本世纪最大不公",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从外交辞令解析中国立场，对比美西方态度差异，预判中东局势走向",
+   "hook_reason": "外长重磅表态巴以问题，大国博弈+国际敏感议题",
+   "url": "https://www.toutiao.com/trending/7697094148029107721/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:王毅对以方说巴问题是本世纪最大不公",
+   "batch_window": 12
+  },
+  {
+   "key": "美媒中国造出了美国人喜欢的车",
+   "title": "美媒：中国造出了美国人喜欢的车",
+   "rating": "A",
+   "score": 91.5,
+   "angle": "从中国制造到中国智造，美国市场态度转变背后的产业逻辑",
+   "hook_reason": "民族情绪+产业逆袭+中美对比，三重刺激",
+   "url": "https://www.toutiao.com/trending/7696926689994162217/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:美媒中国造出了美国人喜欢的车",
+   "batch_window": 12
+  },
+  {
+   "key": "特斯拉新款roadster正式亮相能实现离地升空空中翻滚如何评价你看好它的市场前景吗",
+   "title": "特斯拉新款 Roadster 正式亮相，能实现离地升空、空中翻滚，如何评价？你看好它的市场前景吗？",
+   "rating": "A",
+   "score": 86.5,
+   "angle": "科技评测视角：拆解\"离地升空\"是营销噱头还是技术突破，关联马斯克一贯的画饼风格",
+   "hook_reason": "特斯拉飞行跑车噱头拉满，网友吵翻天，好奇心驱动点击",
+   "url": "https://www.zhihu.com/question/2094190191133172464",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特斯拉新款roadster正式亮相能实现离地升空空中翻滚如何评价你看好它的市场前",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -6806,7 +6832,8 @@
   "胖东来施工现场干净得像ai",
   "四五十元一个的面包没人买了",
   "appleroutedagraphitepipethroughta4bb6c0d",
-  "13岁男孩身高195cm全网求长高食谱"
+  "13岁男孩身高195cm全网求长高食谱",
+  "央行发布关于人民币汇率的政策立场称中国没有必要也无意通过汇率贬值获取贸易竞争优势如何解读"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -7223,7 +7250,8 @@
   "e:胖东来施工现场干净得像ai": "胖东来施工现场 干净得像AI",
   "e:四五十元一个的面包没人买了": "四五十元一个的面包没人买了",
   "e:appleroutedagraphitepipethroughtheiphone": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-  "e:13岁男孩身高195cm全网求长高食谱": "13岁男孩身高195cm 全网求长高食谱"
+  "e:13岁男孩身高195cm全网求长高食谱": "13岁男孩身高195cm 全网求长高食谱",
+  "e:央行发布关于人民币汇率的政策立场称中国没有必要也无意通过汇率贬值获取贸易竞争优势": "央行发布关于人民币汇率的政策立场，称中国没有必要，也无意通过汇率贬值获取贸易竞争优势，如何解读？"
  },
  "a_seen": {
   "马斯克为何关注中国内存": {
@@ -7609,8 +7637,68 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:四川学生分低教师拍照事件调查结果"
+  },
+  "王毅对以方说巴问题是本世纪最大不公": {
+   "key": "王毅对以方说巴问题是本世纪最大不公",
+   "title": "王毅对以方说巴问题是本世纪最大不公",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从外交辞令解析中国立场，对比美西方态度差异，预判中东局势走向",
+   "hook_reason": "外长重磅表态巴以问题，大国博弈+国际敏感议题",
+   "url": "https://www.toutiao.com/trending/7697094148029107721/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:王毅对以方说巴问题是本世纪最大不公"
+  },
+  "美媒中国造出了美国人喜欢的车": {
+   "key": "美媒中国造出了美国人喜欢的车",
+   "title": "美媒：中国造出了美国人喜欢的车",
+   "rating": "A",
+   "score": 91.5,
+   "angle": "从中国制造到中国智造，美国市场态度转变背后的产业逻辑",
+   "hook_reason": "民族情绪+产业逆袭+中美对比，三重刺激",
+   "url": "https://www.toutiao.com/trending/7696926689994162217/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:美媒中国造出了美国人喜欢的车"
+  },
+  "特斯拉新款roadster正式亮相能实现离地升空空中翻滚如何评价你看好它的市场前景吗": {
+   "key": "特斯拉新款roadster正式亮相能实现离地升空空中翻滚如何评价你看好它的市场前景吗",
+   "title": "特斯拉新款 Roadster 正式亮相，能实现离地升空、空中翻滚，如何评价？你看好它的市场前景吗？",
+   "rating": "A",
+   "score": 86.5,
+   "angle": "科技评测视角：拆解\"离地升空\"是营销噱头还是技术突破，关联马斯克一贯的画饼风格",
+   "hook_reason": "特斯拉飞行跑车噱头拉满，网友吵翻天，好奇心驱动点击",
+   "url": "https://www.zhihu.com/question/2094190191133172464",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特斯拉新款roadster正式亮相能实现离地升空空中翻滚如何评价你看好它的市场前"
+  },
+  "特斯拉roadster发布会总结": {
+   "key": "特斯拉roadster发布会总结",
+   "title": "特斯拉Roadster发布会总结",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "Roadster复活背后：特斯拉从性能图腾到商业化的战略转向，以及马斯克的造梦能力还值多少",
+   "hook_reason": "绝版超跑Roadster时隔十余年重提，情怀+马斯克双重爆点",
+   "url": "https://search.bilibili.com/all?keyword=特斯拉Roadster发布会总结",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特斯拉新款roadster正式亮相能实现离地升空空中翻滚如何评价你看好它的市场前"
+  },
+  "特斯拉roadster能飞还会空中翻滚": {
+   "key": "特斯拉roadster能飞还会空中翻滚",
+   "title": "特斯拉Roadster能飞还会空中翻滚",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从科幻到现实：特斯拉Roadster飞行能力突破，汽车科技进入新纪元，马斯克再掀技术革命",
+   "hook_reason": "飞行汽车突破想象，大众对特斯拉科幻技术持续关注",
+   "url": "https://www.toutiao.com/trending/7697099312739667506/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特斯拉新款roadster正式亮相能实现离地升空空中翻滚如何评价你看好它的市场前"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
