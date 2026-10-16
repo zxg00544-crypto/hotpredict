@@ -6315,19 +6315,6 @@
    "batch_window": 11
   },
   {
-   "key": "特斯拉新款roadster正式亮相能实现离地升空空中翻滚如何评价你看好它的市场前景吗",
-   "title": "特斯拉新款 Roadster 正式亮相，能实现离地升空、空中翻滚，如何评价？你看好它的市场前景吗？",
-   "rating": "A",
-   "score": 86.5,
-   "angle": "科技评测视角：拆解\"离地升空\"是营销噱头还是技术突破，关联马斯克一贯的画饼风格",
-   "hook_reason": "特斯拉飞行跑车噱头拉满，网友吵翻天，好奇心驱动点击",
-   "url": "https://www.zhihu.com/question/2094190191133172464",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:特斯拉新款roadster正式亮相能实现离地升空空中翻滚如何评价你看好它的市场前",
-   "batch_window": 12
-  },
-  {
    "key": "飞行汽车概念股午后继续拉升英博尔等近20股涨停",
    "title": "飞行汽车概念股午后继续拉升，英博尔等近20股涨停",
    "rating": "A",
@@ -6781,6 +6768,32 @@
    "breaking": true,
    "event_id": "e:americaswumaoinsidepolymarketspaidquoter",
    "batch_window": 0
+  },
+  {
+   "key": "90ofusworkinghoursarespentontask68aa9c55",
+   "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "AI热下的冷 Reality：90%工作不在AI能力圈，重新定义人机协作边界",
+   "hook_reason": "90%工作AI覆盖不了，打工人焦虑与AI公司股价的冲突点",
+   "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:90ofusworkinghoursarespentontasksnotcove",
+   "batch_window": 2
+  },
+  {
+   "key": "自然封面重磅科学家造出人猿杂交细胞意外发现人类全身骨骼被神秘减配网页链接网页链接",
+   "title": "《自然》封面重磅：科学家造出人猿杂交细胞，意外发现人类全身骨骼被神秘减配！ 网页链接 网页链接",
+   "rating": "A",
+   "score": 49.75,
+   "angle": "从《自然》封面研究切入，解读人猿杂交细胞实验如何揭示人类骨骼演化的关键突变，附专家观点平衡伦理争议",
+   "hook_reason": "人猿杂交+骨骼减配，颠覆人类进化认知",
+   "url": "https://weibo.com/1249424622/Rn00Wulul",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:自然封面重磅科学家造出人猿杂交细胞意外发现人类全身骨骼被神秘减配网页链接网页链接",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -7285,7 +7298,8 @@
   "沙特主导联军称拦截3枚导弹和4架无人机",
   "乌克兰总统泽连斯基普京现在不想谈判任何形式都不想他玩弄应由他们负责",
   "37岁女子产后心脏骤停3小时被救回",
-  "iphoneduo预售溢价10000元"
+  "iphoneduo预售溢价10000元",
+  "特斯拉新款roadster正式亮相能实现离地升空空中翻滚如何评价你看好它的市场前景吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -7726,7 +7740,8 @@
   "e:沙特主导联军称拦截3枚导弹和4架无人机": "沙特主导联军称拦截3枚导弹和4架无人机",
   "e:乌克兰总统泽连斯基普京现在不想谈判任何形式都不想他玩弄应由他们负责": "乌克兰总统泽连斯基：普京现在不想谈判，任何形式都不想。他玩弄 “应由他们负责” ",
   "e:37岁女子产后心脏骤停3小时被救回": "37岁女子产后心脏骤停3小时被救回",
-  "e:iphoneduo预售溢价10000元": "iPhone Duo预售溢价10000元"
+  "e:iphoneduo预售溢价10000元": "iPhone Duo预售溢价10000元",
+  "e:特斯拉新款roadster正式亮相能实现离地升空空中翻滚如何评价你看好它的市场前": "特斯拉新款 Roadster 正式亮相，能实现离地升空、空中翻滚，如何评价？你看好它的市场前景吗？"
  },
  "a_seen": {
   "彩电第一股确定退市": {
@@ -7824,8 +7839,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:americaswumaoinsidepolymarketspaidquoter"
+  },
+  "90ofusworkinghoursarespentontask68aa9c55": {
+   "key": "90ofusworkinghoursarespentontask68aa9c55",
+   "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "AI热下的冷 Reality：90%工作不在AI能力圈，重新定义人机协作边界",
+   "hook_reason": "90%工作AI覆盖不了，打工人焦虑与AI公司股价的冲突点",
+   "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:90ofusworkinghoursarespentontasksnotcove"
+  },
+  "自然封面重磅科学家造出人猿杂交细胞意外发现人类全身骨骼被神秘减配网页链接网页链接": {
+   "key": "自然封面重磅科学家造出人猿杂交细胞意外发现人类全身骨骼被神秘减配网页链接网页链接",
+   "title": "《自然》封面重磅：科学家造出人猿杂交细胞，意外发现人类全身骨骼被神秘减配！ 网页链接 网页链接",
+   "rating": "A",
+   "score": 49.75,
+   "angle": "从《自然》封面研究切入，解读人猿杂交细胞实验如何揭示人类骨骼演化的关键突变，附专家观点平衡伦理争议",
+   "hook_reason": "人猿杂交+骨骼减配，颠覆人类进化认知",
+   "url": "https://weibo.com/1249424622/Rn00Wulul",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:自然封面重磅科学家造出人猿杂交细胞意外发现人类全身骨骼被神秘减配网页链接网页链接"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
