@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-10-16",
  "a_pending": [
   {
@@ -6510,19 +6510,6 @@
    "batch_window": 16
   },
   {
-   "key": "日本误报99级地震",
-   "title": "日本误报9.9级地震",
-   "rating": "A",
-   "score": 89.99,
-   "angle": "从日本地震预警系统历史误报切入，剖析'狼来了'效应与公众安全感博弈",
-   "hook_reason": "9.9级地震误报引发全民恐慌，官方乌龙引爆信任危机",
-   "url": "https://search.bilibili.com/all?keyword=日本误报9.9级地震",
-   "track": "其他",
-   "breaking": true,
-   "event_id": "e:日本误报99级地震",
-   "batch_window": 16
-  },
-  {
    "key": "用个ai还被说豆包是低认知人群的标签这个话本身就有点低认知因为低认知恰恰有一个特点",
    "title": "用个ai还被说。“豆包是低认知人群的标签”，这个话本身就有点低认知。 因为低认知恰恰有一个特点，",
    "rating": "A",
@@ -6716,6 +6703,71 @@
    "breaking": true,
    "event_id": "e:iphoneduo今晚开卖您会下单吗请投票网页链接",
    "batch_window": 20
+  },
+  {
+   "key": "专家日本全境都在解放军射程范围内",
+   "title": "专家：日本全境都在解放军射程范围内",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从专家权威发声切入，铺陈导弹射程数据与地缘博弈背景，引导读者关注台海-东海联动局势走向",
+   "hook_reason": "中日军事对峙突发，专家定性日本全境入射程，民族情绪浓",
+   "url": "https://www.toutiao.com/trending/7696406162242535433/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:专家日本全境都在解放军射程范围内",
+   "batch_window": 21
+  },
+  {
+   "key": "iphoneduo预售溢价10000元",
+   "title": "iPhone Duo预售溢价10000元",
+   "rating": "A",
+   "score": 87.25,
+   "angle": "从溢价现象切入，分析苹果新品策略变化及消费者非理性追捧背后的产业逻辑",
+   "hook_reason": "iPhone Duo溢价一万引爆果粉抢疯，是苹果战略转向还是营销泡沫？",
+   "url": "https://s.weibo.com/weibo?q=iPhone Duo预售溢价10000元",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:iphoneduo预售溢价10000元",
+   "batch_window": 21
+  },
+  {
+   "key": "习近平在内蒙古乌兰察布考察",
+   "title": "习近平在内蒙古乌兰察布考察",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "乌兰察布作为'东数西算'节点和新能源基地，考察释放的风电、数据中心、绿色转型政策信号解读",
+   "hook_reason": "领导人考察新能源重镇乌兰察布，释放什么产业信号？",
+   "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E4%B9%8C%E5%85%B0%E5%AF%9F%E5%B8%83%E8%80%83%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:习近平在内蒙古乌兰察布考察",
+   "batch_window": 21
+  },
+  {
+   "key": "国务院免去王刚原职此前已履新河北",
+   "title": "国务院免去王刚原职 此前已履新河北",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦人事变动背后的地方发展逻辑，解读新任干部履新河北的意义与期待",
+   "hook_reason": "国务院任免快讯登顶热搜，干部人事变动牵动公众关注神经",
+   "url": "https://www.toutiao.com/trending/7696921328695427113/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:国务院免去王刚原职此前已履新河北",
+   "batch_window": 21
+  },
+  {
+   "key": "泽连斯基称星链运行改善但未完全恢复",
+   "title": "泽连斯基称“星链”运行改善但未完全恢复",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从星链稳定性切入，解读俄乌战局对关键基础设施的依赖与风险。",
+   "hook_reason": "战时星链故障引担忧，泽连斯基最新回应",
+   "url": "https://finance.sina.cn/7x24/2026-10-16/detail-inivmtxi8340466.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:泽连斯基称星链运行改善但未完全恢复",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -7205,7 +7257,8 @@
   "男子花44万闪婚婚后一个月妻子消失",
   "美媒中国造出了美国人喜欢的车",
   "中方中国核力量与美俄不在一个量级",
-  "天水幼儿血铅案一审宣判"
+  "天水幼儿血铅案一审宣判",
+  "日本误报99级地震"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -7631,7 +7684,8 @@
   "e:男子花44万闪婚婚后一个月妻子消失": "男子花44万闪婚 婚后一个月妻子消失",
   "e:美媒中国造出了美国人喜欢的车": "美媒：中国造出了美国人喜欢的车",
   "e:中方中国核力量与美俄不在一个量级": "中方：中国核力量与美俄不在一个量级",
-  "e:天水幼儿血铅案一审宣判": "天水幼儿血铅案一审宣判"
+  "e:天水幼儿血铅案一审宣判": "天水幼儿血铅案一审宣判",
+  "e:日本误报99级地震": "日本误报9.9级地震"
  },
  "a_seen": {
   "马斯克为何关注中国内存": {
@@ -8509,8 +8563,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:iphoneduo今晚开卖您会下单吗请投票网页链接"
+  },
+  "专家日本全境都在解放军射程范围内": {
+   "key": "专家日本全境都在解放军射程范围内",
+   "title": "专家：日本全境都在解放军射程范围内",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从专家权威发声切入，铺陈导弹射程数据与地缘博弈背景，引导读者关注台海-东海联动局势走向",
+   "hook_reason": "中日军事对峙突发，专家定性日本全境入射程，民族情绪浓",
+   "url": "https://www.toutiao.com/trending/7696406162242535433/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:专家日本全境都在解放军射程范围内"
+  },
+  "iphoneduo预售溢价10000元": {
+   "key": "iphoneduo预售溢价10000元",
+   "title": "iPhone Duo预售溢价10000元",
+   "rating": "A",
+   "score": 87.25,
+   "angle": "从溢价现象切入，分析苹果新品策略变化及消费者非理性追捧背后的产业逻辑",
+   "hook_reason": "iPhone Duo溢价一万引爆果粉抢疯，是苹果战略转向还是营销泡沫？",
+   "url": "https://s.weibo.com/weibo?q=iPhone Duo预售溢价10000元",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:iphoneduo预售溢价10000元"
+  },
+  "习近平在内蒙古乌兰察布考察": {
+   "key": "习近平在内蒙古乌兰察布考察",
+   "title": "习近平在内蒙古乌兰察布考察",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "乌兰察布作为'东数西算'节点和新能源基地，考察释放的风电、数据中心、绿色转型政策信号解读",
+   "hook_reason": "领导人考察新能源重镇乌兰察布，释放什么产业信号？",
+   "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E4%B9%8C%E5%85%B0%E5%AF%9F%E5%B8%83%E8%80%83%E5%AF%9F&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:习近平在内蒙古乌兰察布考察"
+  },
+  "国务院免去王刚原职此前已履新河北": {
+   "key": "国务院免去王刚原职此前已履新河北",
+   "title": "国务院免去王刚原职 此前已履新河北",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦人事变动背后的地方发展逻辑，解读新任干部履新河北的意义与期待",
+   "hook_reason": "国务院任免快讯登顶热搜，干部人事变动牵动公众关注神经",
+   "url": "https://www.toutiao.com/trending/7696921328695427113/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:国务院免去王刚原职此前已履新河北"
+  },
+  "泽连斯基称星链运行改善但未完全恢复": {
+   "key": "泽连斯基称星链运行改善但未完全恢复",
+   "title": "泽连斯基称“星链”运行改善但未完全恢复",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从星链稳定性切入，解读俄乌战局对关键基础设施的依赖与风险。",
+   "hook_reason": "战时星链故障引担忧，泽连斯基最新回应",
+   "url": "https://finance.sina.cn/7x24/2026-10-16/detail-inivmtxi8340466.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:泽连斯基称星链运行改善但未完全恢复"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
