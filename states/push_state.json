@@ -2818,19 +2818,6 @@
    "batch_window": 14
   },
   {
-   "key": "四五十元一个的面包没人买了",
-   "title": "四五十元一个的面包没人买了",
-   "rating": "A",
-   "score": 81.75,
-   "angle": "从'高价面包滞销'切入，折射年轻人消费理性觉醒与烘焙行业定价困境，引发身份共鸣",
-   "hook_reason": "消费降级共鸣，人人会买面包，情绪炸裂",
-   "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E4%BA%94%E5%8D%81%E5%85%83%E4%B8%80%E4%B8%AA%E7%9A%84%E9%9D%A2%E5%8C%85%E6%B2%A1%E4%BA%BA%E4%B9%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:四五十元一个的面包没人买了",
-   "batch_window": 15
-  },
-  {
    "key": "鼓励支持灵活就业人员参加职工养老险",
    "title": "鼓励支持灵活就业人员参加职工养老险",
    "rating": "A",
@@ -6235,6 +6222,71 @@
    "breaking": true,
    "event_id": "e:特朗普一旦弹药储备充足就会允许盟友购买",
    "batch_window": 8
+  },
+  {
+   "key": "母子衣衫不整街头游荡官方回应",
+   "title": "母子衣衫不整街头游荡 官方回应",
+   "rating": "A",
+   "score": 66.14,
+   "angle": "从官方回应切入，探讨城市流浪人口救助机制漏洞与基层社会治理短板",
+   "hook_reason": "街头母子流浪画面冲击强，官方回应引公众对弱势群体救助体系关注",
+   "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E5%AD%90%E8%A1%A3%E8%A1%AB%E4%B8%8D%E6%95%B4%E8%A1%97%E5%A4%B4%E6%B8%B8%E8%8D%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:母子衣衫不整街头游荡官方回应",
+   "batch_window": 9
+  },
+  {
+   "key": "appleroutedagraphitepipethroughta4bb6c0d",
+   "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从折叠屏散热痛点切入，解读苹果石墨管道设计的创新与行业意义",
+   "hook_reason": "苹果折叠屏散热黑科技曝光，石墨管道设计令人意外",
+   "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:appleroutedagraphitepipethroughtheiphone",
+   "batch_window": 9
+  },
+  {
+   "key": "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345万母亲道歉并承诺会尽快解决",
+   "title": "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345 万，母亲道歉并承诺会尽快解决？",
+   "rating": "A",
+   "score": 80.5,
+   "angle": "从「未成年人被资本包装出道后家庭债务爆雷」切入，写舆论对童星家庭的道德审判与行业黑箱——是谁把孩子推上去的？",
+   "hook_reason": "13岁偶像童工+父母失信，阶层反差与舆论审判双重抓人",
+   "url": "https://www.zhihu.com/question/2094093905973044678",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345万母亲道歉并承诺",
+   "batch_window": 9
+  },
+  {
+   "key": "俄对华递交布恰事件报告中方回应",
+   "title": "俄对华递交布恰事件报告？中方回应",
+   "rating": "A",
+   "score": 50.83,
+   "angle": "从中方回应切入，解读中俄外交立场与布恰事件背后的国际博弈走向",
+   "hook_reason": "俄乌冲突突发外交事件，中方官方回应引发民族情绪与地缘关注",
+   "url": "https://www.toutiao.com/trending/7696852227813605418/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:俄对华递交布恰事件报告中方回应",
+   "batch_window": 9
+  },
+  {
+   "key": "特斯拉roadster全球发布会",
+   "title": "特斯拉Roadster全球发布会",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "聚焦Roadster技术突破与性能参数，解读其对电动车市场的冲击",
+   "hook_reason": "特斯拉旗舰跑车全球首发，科技圈顶流关注",
+   "url": "https://search.bilibili.com/all?keyword=特斯拉Roadster全球发布会",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特斯拉roadster全球发布会",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -6712,7 +6764,8 @@
   "einklauncheslatestversionofcolore8e32c5c",
   "24元救命药飙涨到1200元",
   "精神病院为何扎堆更名",
-  "胖东来施工现场干净得像ai"
+  "胖东来施工现场干净得像ai",
+  "四五十元一个的面包没人买了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -7126,7 +7179,8 @@
   "e:einklauncheslatestversionofcolorepaperpl": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
   "e:24元救命药飙涨到1200元": "24元救命药飙涨到1200元",
   "e:精神病院为何扎堆更名": "精神病院为何扎堆更名",
-  "e:胖东来施工现场干净得像ai": "胖东来施工现场 干净得像AI"
+  "e:胖东来施工现场干净得像ai": "胖东来施工现场 干净得像AI",
+  "e:四五十元一个的面包没人买了": "四五十元一个的面包没人买了"
  },
  "a_seen": {
   "马斯克为何关注中国内存": {
@@ -7337,9 +7391,9 @@
    "key": "车行老板油车比新能源车更保值",
    "title": "车行老板：油车比新能源车更保值",
    "rating": "A",
-   "score": 94.0,
-   "angle": "以车行老板视角切入，对比油电保值率数据，引发新能源车主焦虑与讨论",
-   "hook_reason": "新能源vs油车保值争议，车主最关心的话题",
+   "score": 92.5,
+   "angle": "从车主资产焦虑切入，深度拆解新能源车vs油车真实保值数据，引发理性讨论",
+   "hook_reason": "新能源车保值率真相，千万车主资产焦虑引共鸣",
    "url": "https://www.toutiao.com/trending/7696567519415107627/",
    "track": "社会热点",
    "breaking": true,
@@ -7392,8 +7446,68 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:特朗普一旦弹药储备充足就会允许盟友购买"
+  },
+  "母子衣衫不整街头游荡官方回应": {
+   "key": "母子衣衫不整街头游荡官方回应",
+   "title": "母子衣衫不整街头游荡 官方回应",
+   "rating": "A",
+   "score": 66.14,
+   "angle": "从官方回应切入，探讨城市流浪人口救助机制漏洞与基层社会治理短板",
+   "hook_reason": "街头母子流浪画面冲击强，官方回应引公众对弱势群体救助体系关注",
+   "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E5%AD%90%E8%A1%A3%E8%A1%AB%E4%B8%8D%E6%95%B4%E8%A1%97%E5%A4%B4%E6%B8%B8%E8%8D%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:母子衣衫不整街头游荡官方回应"
+  },
+  "appleroutedagraphitepipethroughta4bb6c0d": {
+   "key": "appleroutedagraphitepipethroughta4bb6c0d",
+   "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从折叠屏散热痛点切入，解读苹果石墨管道设计的创新与行业意义",
+   "hook_reason": "苹果折叠屏散热黑科技曝光，石墨管道设计令人意外",
+   "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:appleroutedagraphitepipethroughtheiphone"
+  },
+  "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345万母亲道歉并承诺会尽快解决": {
+   "key": "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345万母亲道歉并承诺会尽快解决",
+   "title": "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345 万，母亲道歉并承诺会尽快解决？",
+   "rating": "A",
+   "score": 80.5,
+   "angle": "从「未成年人被资本包装出道后家庭债务爆雷」切入，写舆论对童星家庭的道德审判与行业黑箱——是谁把孩子推上去的？",
+   "hook_reason": "13岁偶像童工+父母失信，阶层反差与舆论审判双重抓人",
+   "url": "https://www.zhihu.com/question/2094093905973044678",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345万母亲道歉并承诺"
+  },
+  "俄对华递交布恰事件报告中方回应": {
+   "key": "俄对华递交布恰事件报告中方回应",
+   "title": "俄对华递交布恰事件报告？中方回应",
+   "rating": "A",
+   "score": 50.83,
+   "angle": "从中方回应切入，解读中俄外交立场与布恰事件背后的国际博弈走向",
+   "hook_reason": "俄乌冲突突发外交事件，中方官方回应引发民族情绪与地缘关注",
+   "url": "https://www.toutiao.com/trending/7696852227813605418/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:俄对华递交布恰事件报告中方回应"
+  },
+  "特斯拉roadster全球发布会": {
+   "key": "特斯拉roadster全球发布会",
+   "title": "特斯拉Roadster全球发布会",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "聚焦Roadster技术突破与性能参数，解读其对电动车市场的冲击",
+   "hook_reason": "特斯拉旗舰跑车全球首发，科技圈顶流关注",
+   "url": "https://search.bilibili.com/all?keyword=特斯拉Roadster全球发布会",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特斯拉roadster全球发布会"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
