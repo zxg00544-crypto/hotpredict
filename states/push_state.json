@@ -6770,19 +6770,6 @@
    "batch_window": 3
   },
   {
-   "key": "股道热肠也zhaijingyong88转发微博",
-   "title": "// @股道热肠也 :// @zhaijingyong88 :转发微博",
-   "rating": "A",
-   "score": 84.9,
-   "angle": "微博热搜突发，@股道热肠也+@zhaijingyong88 联名转发，推测涉A股或政策利好，需1小时内跟进拆解",
-   "hook_reason": "突发登顶+热度97+增速100%，财经博主转发明日早必读",
-   "url": "https://weibo.com/1249424622/Rn02dAh2r",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:股道热肠也zhaijingyong88转发微博",
-   "batch_window": 3
-  },
-  {
    "key": "llamacpponajailbrokenps5runanyggc5fe03dd",
    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
    "rating": "A",
@@ -6898,6 +6885,19 @@
    "breaking": true,
    "event_id": "e:s16",
    "batch_window": 6
+  },
+  {
+   "key": "机构沙特阿拉伯10月前15日原油出口量大涨",
+   "title": "机构：沙特阿拉伯10月前15日原油出口量大涨",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从油价涨跌切入，讲对普通车主出行成本、对燃油车企/新能源板块的连锁影响",
+   "hook_reason": "沙特原油出口暴涨直接牵动国内油价涨跌，车主和投资者都关心",
+   "url": "https://finance.sina.cn/7x24/2026-10-17/detail-inivnrax8207765.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:机构沙特阿拉伯10月前15日原油出口量大涨",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -7407,7 +7407,8 @@
   "女子在自己手机上登录前男友账号以1314等金额转走近二十万法院判决全部返还如何从法律角度解读",
   "房子会二八分化硅谷之城未来涨价任泽平的微博视频",
   "太厉害了这个我们真没有为特斯拉点赞",
-  "也算坦荡李斌太厉害了这个我们真没有为特斯拉点赞"
+  "也算坦荡李斌太厉害了这个我们真没有为特斯拉点赞",
+  "股道热肠也zhaijingyong88转发微博"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -7853,7 +7854,8 @@
   "e:女子在自己手机上登录前男友账号以1314等金额转走近二十万法院判决全部返还如何从": "女子在自己手机上登录前男友账号以「1314」等金额转走近二十万，法院判决全部返还，如何从法律角度解读？",
   "e:房子会二八分化硅谷之城未来涨价任泽平的微博视频": "房子会二八分化，硅谷之城未来涨价！ 任泽平的微博视频",
   "e:太厉害了这个我们真没有为特斯拉点赞": "太厉害了！这个我们真没有 为特斯拉点赞👍",
-  "e:也算坦荡李斌太厉害了这个我们真没有为特斯拉点赞": "也算坦荡 // @李斌 :太厉害了！这个我们真没有 为特斯拉点赞👍"
+  "e:也算坦荡李斌太厉害了这个我们真没有为特斯拉点赞": "也算坦荡 // @李斌 :太厉害了！这个我们真没有 为特斯拉点赞👍",
+  "e:股道热肠也zhaijingyong88转发微博": "// @股道热肠也 :// @zhaijingyong88 :转发微博"
  },
  "a_seen": {
   "彩电第一股确定退市": {
@@ -7957,8 +7959,8 @@
    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
    "rating": "A",
    "score": 75.25,
-   "angle": "标题：AI干不了90%的工作？一份重磅研究给出答案。角度：从",
-   "hook_reason": "90%工作不在AI能力内——打脸AI万能论，引发打工人和老板双重关注",
+   "angle": "AI能力边界研究揭示实际应用差距，可切入'AI能做什么/不能做什么'的实用主义讨论",
+   "hook_reason": "AI狂热背后的清醒剂：90%工作时间AI根本帮不上忙",
    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "track": "科技",
    "breaking": false,
@@ -8119,8 +8121,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:s16"
+  },
+  "机构沙特阿拉伯10月前15日原油出口量大涨": {
+   "key": "机构沙特阿拉伯10月前15日原油出口量大涨",
+   "title": "机构：沙特阿拉伯10月前15日原油出口量大涨",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从油价涨跌切入，讲对普通车主出行成本、对燃油车企/新能源板块的连锁影响",
+   "hook_reason": "沙特原油出口暴涨直接牵动国内油价涨跌，车主和投资者都关心",
+   "url": "https://finance.sina.cn/7x24/2026-10-17/detail-inivnrax8207765.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:机构沙特阿拉伯10月前15日原油出口量大涨"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
