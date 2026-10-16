@@ -6534,6 +6534,19 @@
    "breaking": true,
    "event_id": "e:网贷正在毁掉年轻人网贷本为满足资金周转而生但过度授信隐性高息消费主义陷阱让网贷异",
    "batch_window": 16
+  },
+  {
+   "key": "日本误报99级地震",
+   "title": "日本误报9.9级地震",
+   "rating": "A",
+   "score": 89.99,
+   "angle": "从日本地震预警系统历史误报切入，剖析'狼来了'效应与公众安全感博弈",
+   "hook_reason": "9.9级地震误报引发全民恐慌，官方乌龙引爆信任危机",
+   "url": "https://search.bilibili.com/all?keyword=日本误报9.9级地震",
+   "track": "其他",
+   "breaking": true,
+   "event_id": "e:日本误报99级地震",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -8037,8 +8050,8 @@
    "title": "男子花44万闪婚 婚后一个月妻子消失",
    "rating": "A",
    "score": 81.9,
-   "angle": "从婚恋诈骗切入，探讨闪婚风险与女性信用问题，引发大众对婚姻信任危机讨论",
-   "hook_reason": "44万闪婚+妻子消失，婚恋诈骗冲击感极强",
+   "angle": "从婚姻骗局角度切入，深挖天价彩礼背后的情感与金钱博弈",
+   "hook_reason": "44万彩礼闪婚+妻子消失，直击婚恋焦虑与女性话题痛点",
    "url": "https://www.toutiao.com/trending/7696793144366268443/",
    "track": "其他",
    "breaking": true,
@@ -8072,9 +8085,9 @@
    "key": "99级地震是什么概念",
    "title": "9.9级地震是什么概念",
    "rating": "A",
-   "score": 87.45,
-   "angle": "9.9级地震=人类有史以来最强？用已知震级对比解读，1-2h内动作",
-   "hook_reason": "9.9级地震从未记录，读者想知道意味着什么级别的灾难",
+   "score": 92.5,
+   "angle": "深度解读9.9级地震概念，结合真实案例与防灾指南",
+   "hook_reason": "突发地震话题引全民关注，关乎每个人安全",
    "url": "https://s.weibo.com/weibo?q=9.9级地震是什么概念",
    "track": "其他",
    "breaking": true,
@@ -8091,6 +8104,18 @@
    "track": "其他",
    "breaking": true,
    "event_id": "e:网贷正在毁掉年轻人网贷本为满足资金周转而生但过度授信隐性高息消费主义陷阱让网贷异"
+  },
+  "日本误报99级地震": {
+   "key": "日本误报99级地震",
+   "title": "日本误报9.9级地震",
+   "rating": "A",
+   "score": 89.99,
+   "angle": "从日本地震预警系统历史误报切入，剖析'狼来了'效应与公众安全感博弈",
+   "hook_reason": "9.9级地震误报引发全民恐慌，官方乌龙引爆信任危机",
+   "url": "https://search.bilibili.com/all?keyword=日本误报9.9级地震",
+   "track": "其他",
+   "breaking": true,
+   "event_id": "e:日本误报99级地震"
   }
  },
  "breaking_count": 10,
