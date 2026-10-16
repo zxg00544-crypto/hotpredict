@@ -6315,19 +6315,6 @@
    "batch_window": 11
   },
   {
-   "key": "美媒中国造出了美国人喜欢的车",
-   "title": "美媒：中国造出了美国人喜欢的车",
-   "rating": "A",
-   "score": 91.5,
-   "angle": "从中国制造到中国智造，美国市场态度转变背后的产业逻辑",
-   "hook_reason": "民族情绪+产业逆袭+中美对比，三重刺激",
-   "url": "https://www.toutiao.com/trending/7696926689994162217/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:美媒中国造出了美国人喜欢的车",
-   "batch_window": 12
-  },
-  {
    "key": "特斯拉新款roadster正式亮相能实现离地升空空中翻滚如何评价你看好它的市场前景吗",
    "title": "特斯拉新款 Roadster 正式亮相，能实现离地升空、空中翻滚，如何评价？你看好它的市场前景吗？",
    "rating": "A",
@@ -6586,6 +6573,110 @@
    "breaking": true,
    "event_id": "e:mimo能搭出怎样的交互式3d场景近期artificialanalysisaa新",
    "batch_window": 17
+  },
+  {
+   "key": "中方中国核力量与美俄不在一个量级",
+   "title": "中方：中国核力量与美俄不在一个量级",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从大国博弈切入，解读中方表态的战略意图与核威慑信号",
+   "hook_reason": "大国博弈突发表态，国民情绪高度关注国防实力对比",
+   "url": "https://www.toutiao.com/trending/7697036912935354378/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:中方中国核力量与美俄不在一个量级",
+   "batch_window": 18
+  },
+  {
+   "key": "房子会二八分化硅谷之城未来涨价任泽平的微博视频",
+   "title": "房子会二八分化，硅谷之城未来涨价！ 任泽平的微博视频",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "任泽平预言房市80后分化，硅谷之城房价将涨，刚需族如何破局",
+   "hook_reason": "任泽平预测房市分化，80后刚需面临房价上涨冲击",
+   "url": "https://weibo.com/5884573948/RmWKKb2B0",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:房子会二八分化硅谷之城未来涨价任泽平的微博视频",
+   "batch_window": 18
+  },
+  {
+   "key": "非常酷的另外一种形态飞行汽车能否落地还要看飞行安全飞行参数例如续航等具体指标但是所有",
+   "title": "非常酷的另外一种形态飞行汽车👍 能否落地还要看飞行安全，飞行参数（例如续航）等具体指标。但是所有",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "以'你离买到飞行汽车还有多远？'切入，盘点eVTOL量产时间表与安全争议，制造稀缺期待感",
+   "hook_reason": "飞行汽车新形态爆火，读者好奇何时开卖、多少钱能买",
+   "url": "https://weibo.com/2455476364/RmWGuDq2S",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:非常酷的另外一种形态飞行汽车能否落地还要看飞行安全飞行参数例如续航等具体指标但是",
+   "batch_window": 18
+  },
+  {
+   "key": "theinsidertradingyoureallowedtodo",
+   "title": "The insider trading you're allowed to do",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "探讨灰色地带的合规内幕交易策略及法律风险",
+   "hook_reason": "内幕交易合法边界引发争议，投资者好奇心强",
+   "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:theinsidertradingyoureallowedtodo",
+   "batch_window": 18
+  },
+  {
+   "key": "黄仁勋开始卖锁了英伟达这步棋意味着什么ai创造营热搜ai创作激励大赛红衣大叔周",
+   "title": "黄仁勋开始卖锁了！英伟达这步棋意味着什么？ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "从芯片到安全锁——黄仁勋的第三增长曲线，AI时代硬件商的护城河保卫战。核心看点：①这不是卖锁，是NVIDIA给AI算力加上的安全门；②对比AMD、Intel同期动作，NVIDIA护城河从计算延伸到安全；③投资者视角：新业务能否复制GPU的成功逻辑？写稿结构建议：突发快讯→背景解读（为何突然转安全）→行业对标→投资/用户影响→结尾抛问互动。",
+   "hook_reason": "英伟达创始人跨界卖安全锁，AI巨头新战略引发行业震动",
+   "url": "https://weibo.com/1708942053/RmX0zd2sX",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋开始卖锁了英伟达这步棋意味着什么ai创造营热搜ai创作激励大赛红衣大叔周",
+   "batch_window": 18
+  },
+  {
+   "key": "waymo宣布进军加拿大多伦多计划2028年启动自动驾驶网约车服务",
+   "title": "Waymo宣布进军加拿大多伦多，计划2028年启动自动驾驶网约车服务",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从Waymo国际化扩张切入，盘点全球自动驾驶赛道中美企业格局对比及中国车企出海挑战",
+   "hook_reason": "美国首家自动驾驶出海加拿大，中美科技竞争叙事新维度",
+   "url": "https://finance.sina.cn/7x24/2026-10-16/detail-inivmiin1674293.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:waymo宣布进军加拿大多伦多计划2028年启动自动驾驶网约车服务",
+   "batch_window": 18
+  },
+  {
+   "key": "openai向数学界捐赠500万美元",
+   "title": "OpenAI向数学界捐赠500万美元",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "OpenAI从应用层反向押注基础数学，揭示AI下一阶段突破的关键基础设施",
+   "hook_reason": "AI霸主OpenAI转投基础数学，暗示AGI突破的新方向",
+   "url": "https://search.bilibili.com/all?keyword=OpenAI向数学界捐赠500万美元",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai向数学界捐赠500万美元",
+   "batch_window": 18
+  },
+  {
+   "key": "趣店董事长罗敏补税79亿",
+   "title": "趣店董事长罗敏补税7.9亿",
+   "rating": "A",
+   "score": 50.83,
+   "angle": "从税法专业角度拆解7.9亿背后可能的税务架构，延伸解读企业家合规边界与税务筹划的灰色地带，引发读者对'富人如何合法少缴税'的深度追问",
+   "hook_reason": "7.9亿补税数字极具冲击，富豪纳税话题天然带争议性",
+   "url": "https://www.toutiao.com/trending/7696968594094817843/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:趣店董事长罗敏补税79亿",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -7072,7 +7163,8 @@
   "以色列总统发言28国中13国代表离席",
   "冯远征苦恼招不到一米六几的女演员",
   "怎么看特斯拉真造了一辆飞行汽车",
-  "男子花44万闪婚婚后一个月妻子消失"
+  "男子花44万闪婚婚后一个月妻子消失",
+  "美媒中国造出了美国人喜欢的车"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -7495,7 +7587,8 @@
   "e:以色列总统发言28国中13国代表离席": "以色列总统发言 28国中13国代表离席",
   "e:冯远征苦恼招不到一米六几的女演员": "冯远征苦恼招不到一米六几的女演员",
   "e:怎么看特斯拉真造了一辆飞行汽车": "怎么看特斯拉真造了一辆“飞行汽车”",
-  "e:男子花44万闪婚婚后一个月妻子消失": "男子花44万闪婚 婚后一个月妻子消失"
+  "e:男子花44万闪婚婚后一个月妻子消失": "男子花44万闪婚 婚后一个月妻子消失",
+  "e:美媒中国造出了美国人喜欢的车": "美媒：中国造出了美国人喜欢的车"
  },
  "a_seen": {
   "马斯克为何关注中国内存": {
@@ -8217,8 +8310,104 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:mimo能搭出怎样的交互式3d场景近期artificialanalysisaa新"
+  },
+  "中方中国核力量与美俄不在一个量级": {
+   "key": "中方中国核力量与美俄不在一个量级",
+   "title": "中方：中国核力量与美俄不在一个量级",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从大国博弈切入，解读中方表态的战略意图与核威慑信号",
+   "hook_reason": "大国博弈突发表态，国民情绪高度关注国防实力对比",
+   "url": "https://www.toutiao.com/trending/7697036912935354378/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:中方中国核力量与美俄不在一个量级"
+  },
+  "房子会二八分化硅谷之城未来涨价任泽平的微博视频": {
+   "key": "房子会二八分化硅谷之城未来涨价任泽平的微博视频",
+   "title": "房子会二八分化，硅谷之城未来涨价！ 任泽平的微博视频",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "任泽平预言房市80后分化，硅谷之城房价将涨，刚需族如何破局",
+   "hook_reason": "任泽平预测房市分化，80后刚需面临房价上涨冲击",
+   "url": "https://weibo.com/5884573948/RmWKKb2B0",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:房子会二八分化硅谷之城未来涨价任泽平的微博视频"
+  },
+  "非常酷的另外一种形态飞行汽车能否落地还要看飞行安全飞行参数例如续航等具体指标但是所有": {
+   "key": "非常酷的另外一种形态飞行汽车能否落地还要看飞行安全飞行参数例如续航等具体指标但是所有",
+   "title": "非常酷的另外一种形态飞行汽车👍 能否落地还要看飞行安全，飞行参数（例如续航）等具体指标。但是所有",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "以'你离买到飞行汽车还有多远？'切入，盘点eVTOL量产时间表与安全争议，制造稀缺期待感",
+   "hook_reason": "飞行汽车新形态爆火，读者好奇何时开卖、多少钱能买",
+   "url": "https://weibo.com/2455476364/RmWGuDq2S",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:非常酷的另外一种形态飞行汽车能否落地还要看飞行安全飞行参数例如续航等具体指标但是"
+  },
+  "theinsidertradingyoureallowedtodo": {
+   "key": "theinsidertradingyoureallowedtodo",
+   "title": "The insider trading you're allowed to do",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "探讨灰色地带的合规内幕交易策略及法律风险",
+   "hook_reason": "内幕交易合法边界引发争议，投资者好奇心强",
+   "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:theinsidertradingyoureallowedtodo"
+  },
+  "黄仁勋开始卖锁了英伟达这步棋意味着什么ai创造营热搜ai创作激励大赛红衣大叔周": {
+   "key": "黄仁勋开始卖锁了英伟达这步棋意味着什么ai创造营热搜ai创作激励大赛红衣大叔周",
+   "title": "黄仁勋开始卖锁了！英伟达这步棋意味着什么？ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "从芯片到安全锁——黄仁勋的第三增长曲线，AI时代硬件商的护城河保卫战。核心看点：①这不是卖锁，是NVIDIA给AI算力加上的安全门；②对比AMD、Intel同期动作，NVIDIA护城河从计算延伸到安全；③投资者视角：新业务能否复制GPU的成功逻辑？写稿结构建议：突发快讯→背景解读（为何突然转安全）→行业对标→投资/用户影响→结尾抛问互动。",
+   "hook_reason": "英伟达创始人跨界卖安全锁，AI巨头新战略引发行业震动",
+   "url": "https://weibo.com/1708942053/RmX0zd2sX",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋开始卖锁了英伟达这步棋意味着什么ai创造营热搜ai创作激励大赛红衣大叔周"
+  },
+  "waymo宣布进军加拿大多伦多计划2028年启动自动驾驶网约车服务": {
+   "key": "waymo宣布进军加拿大多伦多计划2028年启动自动驾驶网约车服务",
+   "title": "Waymo宣布进军加拿大多伦多，计划2028年启动自动驾驶网约车服务",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从Waymo国际化扩张切入，盘点全球自动驾驶赛道中美企业格局对比及中国车企出海挑战",
+   "hook_reason": "美国首家自动驾驶出海加拿大，中美科技竞争叙事新维度",
+   "url": "https://finance.sina.cn/7x24/2026-10-16/detail-inivmiin1674293.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:waymo宣布进军加拿大多伦多计划2028年启动自动驾驶网约车服务"
+  },
+  "openai向数学界捐赠500万美元": {
+   "key": "openai向数学界捐赠500万美元",
+   "title": "OpenAI向数学界捐赠500万美元",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "OpenAI从应用层反向押注基础数学，揭示AI下一阶段突破的关键基础设施",
+   "hook_reason": "AI霸主OpenAI转投基础数学，暗示AGI突破的新方向",
+   "url": "https://search.bilibili.com/all?keyword=OpenAI向数学界捐赠500万美元",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai向数学界捐赠500万美元"
+  },
+  "趣店董事长罗敏补税79亿": {
+   "key": "趣店董事长罗敏补税79亿",
+   "title": "趣店董事长罗敏补税7.9亿",
+   "rating": "A",
+   "score": 50.83,
+   "angle": "从税法专业角度拆解7.9亿背后可能的税务架构，延伸解读企业家合规边界与税务筹划的灰色地带，引发读者对'富人如何合法少缴税'的深度追问",
+   "hook_reason": "7.9亿补税数字极具冲击，富豪纳税话题天然带争议性",
+   "url": "https://www.toutiao.com/trending/7696968594094817843/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:趣店董事长罗敏补税79亿"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
