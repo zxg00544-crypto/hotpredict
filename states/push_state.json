@@ -6237,19 +6237,6 @@
    "batch_window": 9
   },
   {
-   "key": "appleroutedagraphitepipethroughta4bb6c0d",
-   "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "从折叠屏散热痛点切入，解读苹果石墨管道设计的创新与行业意义",
-   "hook_reason": "苹果折叠屏散热黑科技曝光，石墨管道设计令人意外",
-   "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:appleroutedagraphitepipethroughtheiphone",
-   "batch_window": 9
-  },
-  {
    "key": "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345万母亲道歉并承诺会尽快解决",
    "title": "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345 万，母亲道歉并承诺会尽快解决？",
    "rating": "A",
@@ -6765,7 +6752,8 @@
   "24元救命药飙涨到1200元",
   "精神病院为何扎堆更名",
   "胖东来施工现场干净得像ai",
-  "四五十元一个的面包没人买了"
+  "四五十元一个的面包没人买了",
+  "appleroutedagraphitepipethroughta4bb6c0d"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -7180,7 +7168,8 @@
   "e:24元救命药飙涨到1200元": "24元救命药飙涨到1200元",
   "e:精神病院为何扎堆更名": "精神病院为何扎堆更名",
   "e:胖东来施工现场干净得像ai": "胖东来施工现场 干净得像AI",
-  "e:四五十元一个的面包没人买了": "四五十元一个的面包没人买了"
+  "e:四五十元一个的面包没人买了": "四五十元一个的面包没人买了",
+  "e:appleroutedagraphitepipethroughtheiphone": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat"
  },
  "a_seen": {
   "马斯克为何关注中国内存": {
@@ -7391,11 +7380,11 @@
    "key": "车行老板油车比新能源车更保值",
    "title": "车行老板：油车比新能源车更保值",
    "rating": "A",
-   "score": 92.5,
-   "angle": "从车主资产焦虑切入，深度拆解新能源车vs油车真实保值数据，引发理性讨论",
-   "hook_reason": "新能源车保值率真相，千万车主资产焦虑引共鸣",
+   "score": 89.0,
+   "angle": "以车行老板视角拆解油电保值差，结合真实案例引发买车人共鸣与讨论",
+   "hook_reason": "油车vs电车保值率争议，车主群体焦虑感强，评论区易引爆",
    "url": "https://www.toutiao.com/trending/7696567519415107627/",
-   "track": "社会热点",
+   "track": "财经",
    "breaking": true,
    "event_id": "e:车行老板油车比新能源车更保值"
   },
@@ -7475,9 +7464,9 @@
    "key": "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345万母亲道歉并承诺会尽快解决",
    "title": "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345 万，母亲道歉并承诺会尽快解决？",
    "rating": "A",
-   "score": 80.5,
-   "angle": "从「未成年人被资本包装出道后家庭债务爆雷」切入，写舆论对童星家庭的道德审判与行业黑箱——是谁把孩子推上去的？",
-   "hook_reason": "13岁偶像童工+父母失信，阶层反差与舆论审判双重抓人",
+   "score": 79.5,
+   "angle": "从娱乐业未成年人保护切入，揭示偶像产业背后的灰色链条",
+   "hook_reason": "13岁童星出道爆雷，父母欠薪345万被执行，反差强烈",
    "url": "https://www.zhihu.com/question/2094093905973044678",
    "track": "社会热点",
    "breaking": true,
@@ -7509,5 +7498,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
