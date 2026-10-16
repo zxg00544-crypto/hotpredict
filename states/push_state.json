@@ -5860,19 +5860,6 @@
    "batch_window": 17
   },
   {
-   "key": "13岁男孩身高195cm全网求长高食谱",
-   "title": "13岁男孩身高195cm 全网求长高食谱",
-   "rating": "A",
-   "score": 81.35,
-   "angle": "聚焦13岁男孩195cm引发的全社会关注，探讨青春期发育焦虑、营养科普与网络热议背后的家长心理",
-   "hook_reason": "13岁195cm罕见案例，家长群体高度关注育儿成长话题",
-   "url": "https://www.toutiao.com/trending/7696319809822703666/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:13岁男孩身高195cm全网求长高食谱",
-   "batch_window": 17
-  },
-  {
    "key": "wantedtodownloadanisoendedupwrit8a465a6c",
    "title": "Wanted to download an ISO, ended up writing a kernel exploit",
    "rating": "A",
@@ -6274,6 +6261,71 @@
    "breaking": true,
    "event_id": "e:特斯拉roadster全球发布会",
    "batch_window": 9
+  },
+  {
+   "key": "businessaccountswillconsenttomet92b93b28",
+   "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从网站所有者视角切入，解析Meta爬虫新政对内容生态的冲击",
+   "hook_reason": "Meta政策突变，你的网站内容正成为AI的免费饲料",
+   "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:businessaccountswillconsenttometascrapin",
+   "batch_window": 11
+  },
+  {
+   "key": "teslaroadster",
+   "title": "Tesla Roadster",
+   "rating": "A",
+   "score": 75.05,
+   "angle": "解读Roadster参数或发布动态，切入电动超跑技术革新与马斯克风格，吸引科技爱好者围观",
+   "hook_reason": "特斯拉Roadster突然刷新高热度，马斯克又引爆话题，科技圈必看",
+   "url": "https://www.tesla.com/roadster",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:teslaroadster",
+   "batch_window": 11
+  },
+  {
+   "key": "教师耻辱合影事件调查结果公布",
+   "title": "教师“耻辱”合影事件调查结果公布",
+   "rating": "A",
+   "score": 53.17,
+   "angle": "深挖调查结果背后的制度漏洞，审视教师群体职业道德边界与学校监管缺位",
+   "hook_reason": "教育圈震动！教师耻辱合影最终调查出炉，背后真相令人震惊",
+   "url": "https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E2%80%9C%E8%80%BB%E8%BE%B1%E2%80%9D%E5%90%88%E5%BD%B1%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:教师耻辱合影事件调查结果公布",
+   "batch_window": 11
+  },
+  {
+   "key": "低分教师与耻辱合影县长被调离",
+   "title": "低分教师与耻辱合影 县长被调离",
+   "rating": "A",
+   "score": 55.22,
+   "angle": "从官场问责与教育公平切入，剖析制度漏洞与舆论监督机制",
+   "hook_reason": "官员被调离+教育羞辱，直击公权力与民生痛点",
+   "url": "https://www.toutiao.com/trending/7696050351899754539/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:低分教师与耻辱合影县长被调离",
+   "batch_window": 11
+  },
+  {
+   "key": "四川学生分低教师拍照事件调查结果",
+   "title": "四川学生分低教师拍照事件调查结果",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从调查结果切入，揭示基层教师行为失范与监管缺失，引导家长关注孩子心理健康与维权路径",
+   "hook_reason": "教育不公+教师权力滥用，家长群体必看",
+   "url": "https://search.bilibili.com/all?keyword=四川学生分低教师拍照事件调查结果",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:四川学生分低教师拍照事件调查结果",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -6753,7 +6805,8 @@
   "精神病院为何扎堆更名",
   "胖东来施工现场干净得像ai",
   "四五十元一个的面包没人买了",
-  "appleroutedagraphitepipethroughta4bb6c0d"
+  "appleroutedagraphitepipethroughta4bb6c0d",
+  "13岁男孩身高195cm全网求长高食谱"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -7169,7 +7222,8 @@
   "e:精神病院为何扎堆更名": "精神病院为何扎堆更名",
   "e:胖东来施工现场干净得像ai": "胖东来施工现场 干净得像AI",
   "e:四五十元一个的面包没人买了": "四五十元一个的面包没人买了",
-  "e:appleroutedagraphitepipethroughtheiphone": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat"
+  "e:appleroutedagraphitepipethroughtheiphone": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+  "e:13岁男孩身高195cm全网求长高食谱": "13岁男孩身高195cm 全网求长高食谱"
  },
  "a_seen": {
   "马斯克为何关注中国内存": {
@@ -7495,8 +7549,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:特斯拉roadster全球发布会"
+  },
+  "businessaccountswillconsenttomet92b93b28": {
+   "key": "businessaccountswillconsenttomet92b93b28",
+   "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从网站所有者视角切入，解析Meta爬虫新政对内容生态的冲击",
+   "hook_reason": "Meta政策突变，你的网站内容正成为AI的免费饲料",
+   "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:businessaccountswillconsenttometascrapin"
+  },
+  "teslaroadster": {
+   "key": "teslaroadster",
+   "title": "Tesla Roadster",
+   "rating": "A",
+   "score": 75.05,
+   "angle": "解读Roadster参数或发布动态，切入电动超跑技术革新与马斯克风格，吸引科技爱好者围观",
+   "hook_reason": "特斯拉Roadster突然刷新高热度，马斯克又引爆话题，科技圈必看",
+   "url": "https://www.tesla.com/roadster",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:teslaroadster"
+  },
+  "教师耻辱合影事件调查结果公布": {
+   "key": "教师耻辱合影事件调查结果公布",
+   "title": "教师“耻辱”合影事件调查结果公布",
+   "rating": "A",
+   "score": 53.17,
+   "angle": "深挖调查结果背后的制度漏洞，审视教师群体职业道德边界与学校监管缺位",
+   "hook_reason": "教育圈震动！教师耻辱合影最终调查出炉，背后真相令人震惊",
+   "url": "https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E2%80%9C%E8%80%BB%E8%BE%B1%E2%80%9D%E5%90%88%E5%BD%B1%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:教师耻辱合影事件调查结果公布"
+  },
+  "低分教师与耻辱合影县长被调离": {
+   "key": "低分教师与耻辱合影县长被调离",
+   "title": "低分教师与耻辱合影 县长被调离",
+   "rating": "A",
+   "score": 55.22,
+   "angle": "从官场问责与教育公平切入，剖析制度漏洞与舆论监督机制",
+   "hook_reason": "官员被调离+教育羞辱，直击公权力与民生痛点",
+   "url": "https://www.toutiao.com/trending/7696050351899754539/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:低分教师与耻辱合影县长被调离"
+  },
+  "四川学生分低教师拍照事件调查结果": {
+   "key": "四川学生分低教师拍照事件调查结果",
+   "title": "四川学生分低教师拍照事件调查结果",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从调查结果切入，揭示基层教师行为失范与监管缺失，引导家长关注孩子心理健康与维权路径",
+   "hook_reason": "教育不公+教师权力滥用，家长群体必看",
+   "url": "https://search.bilibili.com/all?keyword=四川学生分低教师拍照事件调查结果",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:四川学生分低教师拍照事件调查结果"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
