@@ -7329,17 +7329,30 @@
    "batch_window": 22
   },
   {
-   "key": "多地试点直升高中",
-   "title": "多地试点直升高中",
+   "key": "solarsurpassesnuclearpowerglobalfc2a2632",
+   "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
    "rating": "A",
-   "score": 92.0,
-   "angle": "从家长视角切入，分析直升政策如何改变升学路径，底层家庭机会成本剧变",
-   "hook_reason": "中考分流改革引爆家长焦虑，教育资源公平成全民焦点",
-   "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E8%AF%95%E7%82%B9%E7%9B%B4%E5%8D%87%E9%AB%98%E4%B8%AD&sa=fyb_news&rsv_dl=fyb_news",
+   "score": 80.0,
+   "angle": "从'第一次'切入——人类用几十年把太阳变成主力电源，意味着什么？",
+   "hook_reason": "太阳能首次全球超越核能，改写能源格局的里程碑事件",
+   "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
    "track": "社会热点",
    "breaking": true,
-   "event_id": "e:多地试点直升高中",
-   "batch_window": 22
+   "event_id": "e:solarsurpassesnuclearpowergloballyforfir",
+   "batch_window": 23
+  },
+  {
+   "key": "美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接",
+   "title": "美股，全线大跌！黄仁勋谈AI大跌：“这一切都会过去” 网页链接 网页链接",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "黄仁勋'这一切都会过去'是托市还是清醒？拆解AI泡沫论 vs 长期主义博弈",
+   "hook_reason": "美股崩盘+AI大佬发声，投资者急需定心丸或反向解读",
+   "url": "https://weibo.com/1249424622/Rn8vZo9sr",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -7865,7 +7878,8 @@
   "95后小伙做共享儿女300元1小时",
   "特斯拉新车内部测试画面曝光",
   "熬夜的代价远超你想象诺奖发现熬夜正在悄悄改变你的外貌体重和大脑2017年诺贝尔生理学",
-  "泽连斯基希望明年欧洲提供750亿欧元经费否则欧洲将面临2000万难民冲击"
+  "泽连斯基希望明年欧洲提供750亿欧元经费否则欧洲将面临2000万难民冲击",
+  "多地试点直升高中"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8327,7 +8341,8 @@
   "e:95后小伙做共享儿女300元1小时": "95后小伙做“共享儿女”300元1小时",
   "e:特斯拉新车内部测试画面曝光": "特斯拉新车内部测试画面曝光",
   "e:熬夜的代价远超你想象诺奖发现熬夜正在悄悄改变你的外貌体重和大脑2017年诺贝尔生": "熬夜的代价，远超你想象：诺奖发现 熬夜，正在悄悄改变你的外貌、体重和大脑。2017年诺贝尔生理学",
-  "e:泽连斯基希望明年欧洲提供750亿欧元经费否则欧洲将面临2000万难民冲击": "泽连斯基希望明年欧洲提供750亿欧元经费，否则欧洲将面临2000万难民冲击。"
+  "e:泽连斯基希望明年欧洲提供750亿欧元经费否则欧洲将面临2000万难民冲击": "泽连斯基希望明年欧洲提供750亿欧元经费，否则欧洲将面临2000万难民冲击。",
+  "e:多地试点直升高中": "多地试点直升高中"
  },
  "a_seen": {
   "彩电第一股确定退市": {
@@ -9205,8 +9220,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:多地试点直升高中"
+  },
+  "solarsurpassesnuclearpowerglobalfc2a2632": {
+   "key": "solarsurpassesnuclearpowerglobalfc2a2632",
+   "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "从'第一次'切入——人类用几十年把太阳变成主力电源，意味着什么？",
+   "hook_reason": "太阳能首次全球超越核能，改写能源格局的里程碑事件",
+   "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:solarsurpassesnuclearpowergloballyforfir"
+  },
+  "美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接": {
+   "key": "美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接",
+   "title": "美股，全线大跌！黄仁勋谈AI大跌：“这一切都会过去” 网页链接 网页链接",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "黄仁勋'这一切都会过去'是托市还是清醒？拆解AI泡沫论 vs 长期主义博弈",
+   "hook_reason": "美股崩盘+AI大佬发声，投资者急需定心丸或反向解读",
+   "url": "https://weibo.com/1249424622/Rn8vZo9sr",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接"
+  },
+  "伊朗锡里克地区传出爆炸声": {
+   "key": "伊朗锡里克地区传出爆炸声",
+   "title": "伊朗锡里克地区传出爆炸声。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "伊朗爆炸→中东局势升级→油价暴涨预警，普通人钱包如何避险",
+   "hook_reason": "中东突发爆炸，油价/黄金/股市或将瞬间波动",
+   "url": "https://finance.sina.cn/7x24/2026-10-17/detail-inivqcef8090164.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗伊斯兰革命卫队司令随时准备对敌人予以毁灭性回击"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
