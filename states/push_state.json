@@ -6952,19 +6952,6 @@
    "batch_window": 10
   },
   {
-   "key": "政策拐点已至对未来市场的看法股市财经政策趋势任泽平的微博视频",
-   "title": "政策拐点已至，对未来市场的看法 #股市# #财经# #政策# #趋势# 任泽平的微博视频",
-   "rating": "A",
-   "score": 84.95,
-   "angle": "拆解任泽平拐点论的三大依据，对比历史节点判断当前是启动还是尾声",
-   "hook_reason": "头部经济专家断言政策拐点，投资者必看",
-   "url": "https://weibo.com/5884573948/Rn3qL3K4K",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:政策拐点已至对未来市场的看法股市财经政策趋势任泽平的微博视频",
-   "batch_window": 11
-  },
-  {
    "key": "roadster发布后特斯拉spacex仍在大跌马斯克身家四天缩水5286亿元如何解读",
    "title": "Roadster 发布后，特斯拉、SpaceX 仍在大跌，马斯克身家四天缩水5286亿元，如何解读？",
    "rating": "A",
@@ -7028,6 +7015,45 @@
    "breaking": true,
    "event_id": "e:特斯拉飞车秀的力学现实与适航困局",
    "batch_window": 12
+  },
+  {
+   "key": "ultramarine1flash",
+   "title": "Ultramarine 1 Flash",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从hn首发视角切入，解读Ultramarine 1 Flash的技术突破与市场定位",
+   "hook_reason": "Hacker News 新上榜爆款，1小时破百热度，Flash级加速发布",
+   "url": "https://www.paperinstruments.com/ultramarine",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ultramarine1flash",
+   "batch_window": 13
+  },
+  {
+   "key": "大陆交换生因一张照片遭民进党驱逐",
+   "title": "大陆交换生因一张照片遭民进党驱逐",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从青年交流视角切入，探讨政治干预对学术自由的冲击",
+   "hook_reason": "两岸敏感话题+突发驱逐事件，身份共鸣强",
+   "url": "https://www.toutiao.com/trending/7696908708991352841/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:大陆交换生因一张照片遭民进党驱逐",
+   "batch_window": 13
+  },
+  {
+   "key": "riscv重磅峰会将举办产业空间有望超2000亿元多只概念股砸出深坑",
+   "title": "RISC-V重磅峰会将举办，产业空间有望超2000亿元，多只概念股砸出“深坑”",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "RISC-V国产替代2000亿赛道，谁在收割谁被套？概念股深坑背后的投资逻辑拆解",
+   "hook_reason": "芯片产业风口+概念股暴雷，投资者关系极强",
+   "url": "https://finance.sina.cn/7x24/2026-10-17/detail-inivpfyr8130707.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:riscv重磅峰会将举办产业空间有望超2000亿元多只概念股砸出深坑",
+   "batch_window": 13
   }
  ],
  "pushed": [
@@ -7543,7 +7569,8 @@
   "高市早苗向靖国神社献祭品",
   "驻菲大使菲方该庆幸中国热爱和平",
   "92的在岗班主任不愿意继续干了",
-  "白宫新发言人上任五天被炒"
+  "白宫新发言人上任五天被炒",
+  "政策拐点已至对未来市场的看法股市财经政策趋势任泽平的微博视频"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -7995,7 +8022,8 @@
   "e:高市早苗向靖国神社献祭品": "高市早苗向靖国神社献祭品",
   "e:驻菲大使菲方该庆幸中国热爱和平": "驻菲大使：菲方该庆幸中国热爱和平",
   "e:92的在岗班主任不愿意继续干了": "92%的在岗班主任不愿意继续干了",
-  "e:白宫新发言人上任五天被炒": "白宫新发言人上任五天被炒"
+  "e:白宫新发言人上任五天被炒": "白宫新发言人上任五天被炒",
+  "e:政策拐点已至对未来市场的看法股市财经政策趋势任泽平的微博视频": "政策拐点已至，对未来市场的看法 #股市# #财经# #政策# #趋势# 任泽平的微博视频"
  },
  "a_seen": {
   "彩电第一股确定退市": {
@@ -8410,11 +8438,11 @@
    "key": "两个完全不同的财富世界正在ai时代出现ai创造营热搜ai创作激励大赛红衣大叔周",
    "title": "两个完全不同的财富世界，正在AI时代出现。 #ai创造营# #热搜AI创作激励大赛# 红衣大叔周",
    "rating": "A",
-   "score": 49.9,
-   "angle": "围绕周鸿祎观点拆解AI时代财富两极化现象，给出普通人的突围路径",
-   "hook_reason": "AI时代财富分化冲击普通人焦虑，红衣大叔点名引爆阶层话题",
+   "score": 84.9,
+   "angle": "从周鸿祎观点切入，深挖AI时代财富分化的双轨逻辑与普通人应对策略",
+   "hook_reason": "红衣大叔周鸿祎点破AI时代贫富分化，直击普通人焦虑",
    "url": "https://weibo.com/1708942053/Rn4dsDfS9",
-   "track": "财经",
+   "track": "社会热点",
    "breaking": true,
    "event_id": "e:两个完全不同的财富世界正在ai时代出现ai创造营热搜ai创作激励大赛红衣大叔周"
   },
@@ -8434,9 +8462,9 @@
    "key": "拿员工血汗钱给女儿铺星路",
    "title": "拿员工血汗钱给女儿铺星路",
    "rating": "A",
-   "score": 53.17,
-   "angle": "深挖公司账目与父女关系，对比员工加班 vs 女儿走星路，激发普通打工人共鸣与愤怒",
-   "hook_reason": "阶级对立情绪浓，高管拿员工钱养女儿成明星，天然冲突",
+   "score": 51.57,
+   "angle": "从劳动者视角切入，探讨「血汗钱」与「星路」的阶层对立，引发评论区站队",
+   "hook_reason": "特权阶层压榨普通人，打工人的愤怒共鸣",
    "url": "https://www.baidu.com/s?wd=%E6%8B%BF%E5%91%98%E5%B7%A5%E8%A1%80%E6%B1%97%E9%92%B1%E7%BB%99%E5%A5%B3%E5%84%BF%E9%93%BA%E6%98%9F%E8%B7%AF&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
@@ -8453,8 +8481,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:特斯拉飞车秀的力学现实与适航困局"
+  },
+  "ultramarine1flash": {
+   "key": "ultramarine1flash",
+   "title": "Ultramarine 1 Flash",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从hn首发视角切入，解读Ultramarine 1 Flash的技术突破与市场定位",
+   "hook_reason": "Hacker News 新上榜爆款，1小时破百热度，Flash级加速发布",
+   "url": "https://www.paperinstruments.com/ultramarine",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ultramarine1flash"
+  },
+  "大陆交换生因一张照片遭民进党驱逐": {
+   "key": "大陆交换生因一张照片遭民进党驱逐",
+   "title": "大陆交换生因一张照片遭民进党驱逐",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从青年交流视角切入，探讨政治干预对学术自由的冲击",
+   "hook_reason": "两岸敏感话题+突发驱逐事件，身份共鸣强",
+   "url": "https://www.toutiao.com/trending/7696908708991352841/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:大陆交换生因一张照片遭民进党驱逐"
+  },
+  "riscv重磅峰会将举办产业空间有望超2000亿元多只概念股砸出深坑": {
+   "key": "riscv重磅峰会将举办产业空间有望超2000亿元多只概念股砸出深坑",
+   "title": "RISC-V重磅峰会将举办，产业空间有望超2000亿元，多只概念股砸出“深坑”",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "RISC-V国产替代2000亿赛道，谁在收割谁被套？概念股深坑背后的投资逻辑拆解",
+   "hook_reason": "芯片产业风口+概念股暴雷，投资者关系极强",
+   "url": "https://finance.sina.cn/7x24/2026-10-17/detail-inivpfyr8130707.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:riscv重磅峰会将举办产业空间有望超2000亿元多只概念股砸出深坑"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 12
+ "a_pushed_window": 13
 }
