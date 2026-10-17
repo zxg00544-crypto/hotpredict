@@ -7418,6 +7418,58 @@
    "breaking": false,
    "event_id": "e:ai宛如高速夜行没刹车的f1赛车",
    "batch_window": 5
+  },
+  {
+   "key": "chromeandedgeareremovingxsltwhat0cb9e421",
+   "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+   "rating": "A",
+   "score": 70.37,
+   "angle": "深挖受影响开发者/企业数量，对比迁移成本，给出应急指南",
+   "hook_reason": "Chrome/Edge同步移除XSLT，无数老项目或瞬间崩溃",
+   "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:chromeandedgeareremovingxsltwhatbreaksan",
+   "batch_window": 5
+  },
+  {
+   "key": "特斯拉飞行汽车被质疑是噱头",
+   "title": "特斯拉飞行汽车被质疑是噱头",
+   "rating": "A",
+   "score": 20.35,
+   "angle": "马斯克又画饼？特斯拉飞行汽车究竟是技术突破还是资本叙事，拆解争议背后的真相",
+   "hook_reason": "马斯克+飞行汽车+噱头质疑，冲突拉满，科技圈必看",
+   "url": "https://s.weibo.com/weibo?q=特斯拉飞行汽车被质疑是噱头",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特斯拉飞行汽车被质疑是噱头",
+   "batch_window": 5
+  },
+  {
+   "key": "中国草原跑出算力黑马",
+   "title": "中国草原跑出算力黑马",
+   "rating": "A",
+   "score": 88.9,
+   "angle": "从草原算力切入，解读东数西算新进展，分析非传统选址背后的产业逻辑",
+   "hook_reason": "草原变身算力中心，地域反差引发好奇",
+   "url": "https://www.toutiao.com/trending/7697152119618600979/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:中国草原跑出算力黑马",
+   "batch_window": 5
+  },
+  {
+   "key": "抢折叠iphone信用卡被盗用",
+   "title": "抢折叠iPhone信用卡被盗用",
+   "rating": "A",
+   "score": 87.0,
+   "angle": "科技产品安全隐忧：折叠屏热潮背后的支付风险与维权困境",
+   "hook_reason": "折叠iPhone安全漏洞+财产受损，用户恐慌共鸣强",
+   "url": "https://www.baidu.com/s?wd=%E6%8A%A2%E6%8A%98%E5%8F%A0iPhone%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%A2%AB%E7%9B%97%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:抢折叠iphone信用卡被盗用",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -8669,6 +8721,54 @@
    "track": "大咖发言",
    "breaking": false,
    "event_id": "e:ai宛如高速夜行没刹车的f1赛车"
+  },
+  "chromeandedgeareremovingxsltwhat0cb9e421": {
+   "key": "chromeandedgeareremovingxsltwhat0cb9e421",
+   "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+   "rating": "A",
+   "score": 70.37,
+   "angle": "深挖受影响开发者/企业数量，对比迁移成本，给出应急指南",
+   "hook_reason": "Chrome/Edge同步移除XSLT，无数老项目或瞬间崩溃",
+   "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:chromeandedgeareremovingxsltwhatbreaksan"
+  },
+  "特斯拉飞行汽车被质疑是噱头": {
+   "key": "特斯拉飞行汽车被质疑是噱头",
+   "title": "特斯拉飞行汽车被质疑是噱头",
+   "rating": "A",
+   "score": 20.35,
+   "angle": "马斯克又画饼？特斯拉飞行汽车究竟是技术突破还是资本叙事，拆解争议背后的真相",
+   "hook_reason": "马斯克+飞行汽车+噱头质疑，冲突拉满，科技圈必看",
+   "url": "https://s.weibo.com/weibo?q=特斯拉飞行汽车被质疑是噱头",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特斯拉飞行汽车被质疑是噱头"
+  },
+  "中国草原跑出算力黑马": {
+   "key": "中国草原跑出算力黑马",
+   "title": "中国草原跑出算力黑马",
+   "rating": "A",
+   "score": 88.9,
+   "angle": "从草原算力切入，解读东数西算新进展，分析非传统选址背后的产业逻辑",
+   "hook_reason": "草原变身算力中心，地域反差引发好奇",
+   "url": "https://www.toutiao.com/trending/7697152119618600979/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:中国草原跑出算力黑马"
+  },
+  "抢折叠iphone信用卡被盗用": {
+   "key": "抢折叠iphone信用卡被盗用",
+   "title": "抢折叠iPhone信用卡被盗用",
+   "rating": "A",
+   "score": 87.0,
+   "angle": "科技产品安全隐忧：折叠屏热潮背后的支付风险与维权困境",
+   "hook_reason": "折叠iPhone安全漏洞+财产受损，用户恐慌共鸣强",
+   "url": "https://www.baidu.com/s?wd=%E6%8A%A2%E6%8A%98%E5%8F%A0iPhone%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%A2%AB%E7%9B%97%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:抢折叠iphone信用卡被盗用"
   }
  },
  "breaking_count": 10,
