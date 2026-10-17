@@ -7457,6 +7457,19 @@
    "breaking": true,
    "event_id": "e:imnotgoingtohavebloodonmyhands",
    "batch_window": 7
+  },
+  {
+   "key": "对冲基金正在加速撤离ai交易",
+   "title": "对冲基金正在加速撤离AI交易",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "解读对冲基金撤离AI交易的背后逻辑，关联AI泡沫争议与资金轮动信号",
+   "hook_reason": "对冲基金大撤退AI，资金风向变，你的仓位安全吗？",
+   "url": "https://finance.sina.cn/7x24/2026-10-18/detail-inivqyiv7877197.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:对冲基金正在加速撤离ai交易",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -8772,6 +8785,18 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:imnotgoingtohavebloodonmyhands"
+  },
+  "对冲基金正在加速撤离ai交易": {
+   "key": "对冲基金正在加速撤离ai交易",
+   "title": "对冲基金正在加速撤离AI交易",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "解读对冲基金撤离AI交易的背后逻辑，关联AI泡沫争议与资金轮动信号",
+   "hook_reason": "对冲基金大撤退AI，资金风向变，你的仓位安全吗？",
+   "url": "https://finance.sina.cn/7x24/2026-10-18/detail-inivqyiv7877197.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:对冲基金正在加速撤离ai交易"
   }
  },
  "breaking_count": 10,
