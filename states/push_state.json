@@ -7407,19 +7407,6 @@
    "batch_window": 5
   },
   {
-   "key": "ai宛如高速夜行没刹车的f1赛车",
-   "title": "“AI宛如高速夜行、没刹车的F1赛车”",
-   "rating": "A",
-   "score": 87.7,
-   "angle": "借赛车比喻深挖 AI 安全治理困境，解读大咖预警背后的产业隐忧与政策动向",
-   "hook_reason": "AI 被比作失控 F1 赛车，危险比喻引发大众对技术失控的焦虑与好奇",
-   "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E5%AE%9B%E5%A6%82%E9%AB%98%E9%80%9F%E5%A4%9C%E8%A1%8C%E3%80%81%E6%B2%A1%E5%88%B9%E8%BD%A6%E7%9A%84F1%E8%B5%9B%E8%BD%A6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "大咖发言",
-   "breaking": false,
-   "event_id": "e:ai宛如高速夜行没刹车的f1赛车",
-   "batch_window": 5
-  },
-  {
    "key": "chromeandedgeareremovingxsltwhat0cb9e421",
    "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
    "rating": "A",
@@ -7457,6 +7444,19 @@
    "breaking": false,
    "event_id": "e:抢折叠iphone信用卡被盗用",
    "batch_window": 5
+  },
+  {
+   "key": "imnotgoingtohavebloodonmyhands",
+   "title": "\"I'm Not Going to Have Blood on My Hands\"",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从ESPN制作人辞职事件切入，探讨体育博彩泛滥对社会伦理的冲击",
+   "hook_reason": "制作人辞职怒怼博彩公司，\"手上沾血\"引爆伦理争议",
+   "url": "https://www.cjr.org/the-interview/nicole-noren-espn-producer-quit-protest-sports-betting-gambling-addiction-draftkings-im-not-going-to-have-blood-on-my-hands.php",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:imnotgoingtohavebloodonmyhands",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -8000,7 +8000,8 @@
   "股灾经常有回头看指数依然是向上的关键是能不能熬过去看纳指100这40年历史大大小小的年",
   "班主任休产假遭家长投诉质问一定要生孩子吗教师称举报信数量激增如何看待近几年兴起的校园投诉潮",
   "多家银行上调存款利率五年期定存高至21怎样看待这一变化还会持续上调吗",
-  "中国草原跑出算力黑马"
+  "中国草原跑出算力黑马",
+  "ai宛如高速夜行没刹车的f1赛车"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8480,7 +8481,8 @@
   "e:股灾经常有回头看指数依然是向上的关键是能不能熬过去看纳指100这40年历史大大小": "股灾经常有。回头看指数依然是向上的，关键是能不能熬过去。 看纳指100这40年历史，大大小小的年",
   "e:班主任休产假遭家长投诉质问一定要生孩子吗教师称举报信数量激增如何看待近几年兴起的": "班主任休产假遭家长投诉质问「一定要生孩子吗」，教师称举报信数量激增，如何看待近几年兴起的校园投诉潮？",
   "e:多家银行上调存款利率五年期定存高至21怎样看待这一变化还会持续上调吗": "多家银行上调存款利率，五年期定存高至 2.1%，怎样看待这一变化？还会持续上调吗？",
-  "e:中国草原跑出算力黑马": "中国草原跑出算力黑马"
+  "e:中国草原跑出算力黑马": "中国草原跑出算力黑马",
+  "e:ai宛如高速夜行没刹车的f1赛车": "“AI宛如高速夜行、没刹车的F1赛车”"
  },
  "a_seen": {
   "美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接": {
@@ -8758,8 +8760,20 @@
    "track": "科技",
    "breaking": false,
    "event_id": "e:抢折叠iphone信用卡被盗用"
+  },
+  "imnotgoingtohavebloodonmyhands": {
+   "key": "imnotgoingtohavebloodonmyhands",
+   "title": "\"I'm Not Going to Have Blood on My Hands\"",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从ESPN制作人辞职事件切入，探讨体育博彩泛滥对社会伦理的冲击",
+   "hook_reason": "制作人辞职怒怼博彩公司，\"手上沾血\"引爆伦理争议",
+   "url": "https://www.cjr.org/the-interview/nicole-noren-espn-producer-quit-protest-sports-betting-gambling-addiction-draftkings-im-not-going-to-have-blood-on-my-hands.php",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:imnotgoingtohavebloodonmyhands"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
