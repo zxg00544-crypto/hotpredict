@@ -7353,6 +7353,19 @@
    "breaking": true,
    "event_id": "e:美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接",
    "batch_window": 23
+  },
+  {
+   "key": "makingchickentransparentusingdoritodust",
+   "title": "Making Chicken Transparent Using Dorito Dust",
+   "rating": "A",
+   "score": 69.81,
+   "angle": "从多力多滋粉末折射率原理切入，探讨食品科学中的光学应用边界，兼具趣味性和科普价值",
+   "hook_reason": "零食粉末让鸡肉变透明？这个离谱实验脑洞太大了",
+   "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:makingchickentransparentusingdoritodust",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -9225,11 +9238,11 @@
    "key": "solarsurpassesnuclearpowerglobalfc2a2632",
    "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
    "rating": "A",
-   "score": 80.0,
-   "angle": "从'第一次'切入——人类用几十年把太阳变成主力电源，意味着什么？",
-   "hook_reason": "太阳能首次全球超越核能，改写能源格局的里程碑事件",
+   "score": 75.85,
+   "angle": "从太阳能发电量首超核能切入，写全球能源格局洗牌、碳中和加速、以及光伏产业链的投资/创业机会",
+   "hook_reason": "太阳能首次超越核能！能源格局历史性拐点",
    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-   "track": "社会热点",
+   "track": "科技",
    "breaking": true,
    "event_id": "e:solarsurpassesnuclearpowergloballyforfir"
   },
@@ -9237,13 +9250,13 @@
    "key": "美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接",
    "title": "美股，全线大跌！黄仁勋谈AI大跌：“这一切都会过去” 网页链接 网页链接",
    "rating": "A",
-   "score": 49.9,
-   "angle": "黄仁勋'这一切都会过去'是托市还是清醒？拆解AI泡沫论 vs 长期主义博弈",
-   "hook_reason": "美股崩盘+AI大佬发声，投资者急需定心丸或反向解读",
+   "score": 84.9,
+   "angle": "黄仁勋'这一切都会过去'背后的AI寒冬信号，三大科技巨头市值蒸发万亿的真相",
+   "hook_reason": "英伟达CEO黄仁勋亲口回应AI泡沫论，情绪浓度极高",
    "url": "https://weibo.com/1249424622/Rn8vZo9sr",
-   "track": "财经",
+   "track": "大咖发言",
    "breaking": true,
-   "event_id": "e:美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接"
+   "event_id": "e:美股科技题材全线下挫纳指跌近2"
   },
   "伊朗锡里克地区传出爆炸声": {
    "key": "伊朗锡里克地区传出爆炸声",
@@ -9256,6 +9269,18 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:伊朗伊斯兰革命卫队司令随时准备对敌人予以毁灭性回击"
+  },
+  "makingchickentransparentusingdoritodust": {
+   "key": "makingchickentransparentusingdoritodust",
+   "title": "Making Chicken Transparent Using Dorito Dust",
+   "rating": "A",
+   "score": 69.81,
+   "angle": "从多力多滋粉末折射率原理切入，探讨食品科学中的光学应用边界，兼具趣味性和科普价值",
+   "hook_reason": "零食粉末让鸡肉变透明？这个离谱实验脑洞太大了",
+   "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:makingchickentransparentusingdoritodust"
   }
  },
  "breaking_count": 10,
