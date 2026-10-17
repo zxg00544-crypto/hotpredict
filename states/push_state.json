@@ -1,7 +1,7 @@
 {
  "date": "2026-10-17",
  "daily_done": false,
- "alert_date": "",
+ "alert_date": "2026-10-17",
  "a_pending": [
   {
    "key": "曾预警金融危机的whitney称美国经济有暗伤ai投资热恐是纸牌屋",
@@ -6627,19 +6627,6 @@
    "batch_window": 20
   },
   {
-   "key": "iphoneduo今晚开卖您会下单吗请投票网页链接",
-   "title": "iPhone Duo 今晚开卖。您会下单吗？请投票 网页链接",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "双屏iPhone首销实测：值不值得换？从外观、性能、价格三维度拆解",
-   "hook_reason": "苹果新形态手机开卖，粉丝围观纠结",
-   "url": "https://weibo.com/7799274131/RmXAAseOF",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:iphoneduo今晚开卖您会下单吗请投票网页链接",
-   "batch_window": 20
-  },
-  {
    "key": "习近平在内蒙古乌兰察布考察",
    "title": "习近平在内蒙古乌兰察布考察",
    "rating": "A",
@@ -7054,6 +7041,58 @@
    "breaking": true,
    "event_id": "e:riscv重磅峰会将举办产业空间有望超2000亿元多只概念股砸出深坑",
    "batch_window": 13
+  },
+  {
+   "key": "自愿放弃社保无效",
+   "title": "自愿放弃社保无效",
+   "rating": "A",
+   "score": 57.64,
+   "angle": "从司法解释入手，揭示企业强制员工签放弃社保协议的违法本质，提供劳动者维权实操指南",
+   "hook_reason": "事关每个打工人的钱袋子，企业用工合规雷区",
+   "url": "https://www.baidu.com/s?wd=%E8%87%AA%E6%84%BF%E6%94%BE%E5%BC%83%E7%A4%BE%E4%BF%9D%E6%97%A0%E6%95%88&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:自愿放弃社保无效",
+   "batch_window": 14
+  },
+  {
+   "key": "毕导科普up主会被ai取代吗",
+   "title": "毕导 科普UP主会被AI取代吗",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从毕导视角剖析AI工具与人类创意的边界，科普UP主不可替代的核心价值在哪",
+   "hook_reason": "AI取代人类创作者？毕导自问引发全民焦虑，UP主集体躺枪",
+   "url": "https://search.bilibili.com/all?keyword=毕导 科普UP主会被AI取代吗",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:毕导科普up主会被ai取代吗",
+   "batch_window": 14
+  },
+  {
+   "key": "被问是否是替罪羊泽连斯基沉默不语",
+   "title": "被问是否是替罪羊，泽连斯基沉默不语",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从泽连斯基沉默切入，深挖其处境与立场变化，国际人物发言解读",
+   "hook_reason": "泽连斯基被问",
+   "url": "https://finance.sina.cn/7x24/2026-10-17/detail-inivpfyq1409650.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:被问是否是替罪羊泽连斯基沉默不语",
+   "batch_window": 14
+  },
+  {
+   "key": "黄奇帆被查中纪委官网重磅发文",
+   "title": "黄奇帆被查 中纪委官网重磅发文",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从黄奇帆履历切入，分析其对中国经济政策的影响及后续连锁反应",
+   "hook_reason": "经济重臣落马，中纪委重磅发声，财经圈地震级消息",
+   "url": "https://www.toutiao.com/trending/7697485333599882806/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:黄奇帆被查中纪委官网重磅发文",
+   "batch_window": 14
   }
  ],
  "pushed": [
@@ -7570,7 +7609,8 @@
   "驻菲大使菲方该庆幸中国热爱和平",
   "92的在岗班主任不愿意继续干了",
   "白宫新发言人上任五天被炒",
-  "政策拐点已至对未来市场的看法股市财经政策趋势任泽平的微博视频"
+  "政策拐点已至对未来市场的看法股市财经政策趋势任泽平的微博视频",
+  "iphoneduo今晚开卖您会下单吗请投票网页链接"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8023,7 +8063,8 @@
   "e:驻菲大使菲方该庆幸中国热爱和平": "驻菲大使：菲方该庆幸中国热爱和平",
   "e:92的在岗班主任不愿意继续干了": "92%的在岗班主任不愿意继续干了",
   "e:白宫新发言人上任五天被炒": "白宫新发言人上任五天被炒",
-  "e:政策拐点已至对未来市场的看法股市财经政策趋势任泽平的微博视频": "政策拐点已至，对未来市场的看法 #股市# #财经# #政策# #趋势# 任泽平的微博视频"
+  "e:政策拐点已至对未来市场的看法股市财经政策趋势任泽平的微博视频": "政策拐点已至，对未来市场的看法 #股市# #财经# #政策# #趋势# 任泽平的微博视频",
+  "e:iphoneduo今晚开卖您会下单吗请投票网页链接": "iPhone Duo 今晚开卖。您会下单吗？请投票 网页链接"
  },
  "a_seen": {
   "彩电第一股确定退市": {
@@ -8517,8 +8558,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:riscv重磅峰会将举办产业空间有望超2000亿元多只概念股砸出深坑"
+  },
+  "自愿放弃社保无效": {
+   "key": "自愿放弃社保无效",
+   "title": "自愿放弃社保无效",
+   "rating": "A",
+   "score": 57.64,
+   "angle": "从司法解释入手，揭示企业强制员工签放弃社保协议的违法本质，提供劳动者维权实操指南",
+   "hook_reason": "事关每个打工人的钱袋子，企业用工合规雷区",
+   "url": "https://www.baidu.com/s?wd=%E8%87%AA%E6%84%BF%E6%94%BE%E5%BC%83%E7%A4%BE%E4%BF%9D%E6%97%A0%E6%95%88&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:自愿放弃社保无效"
+  },
+  "毕导科普up主会被ai取代吗": {
+   "key": "毕导科普up主会被ai取代吗",
+   "title": "毕导 科普UP主会被AI取代吗",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从毕导视角剖析AI工具与人类创意的边界，科普UP主不可替代的核心价值在哪",
+   "hook_reason": "AI取代人类创作者？毕导自问引发全民焦虑，UP主集体躺枪",
+   "url": "https://search.bilibili.com/all?keyword=毕导 科普UP主会被AI取代吗",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:毕导科普up主会被ai取代吗"
+  },
+  "被问是否是替罪羊泽连斯基沉默不语": {
+   "key": "被问是否是替罪羊泽连斯基沉默不语",
+   "title": "被问是否是替罪羊，泽连斯基沉默不语",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从泽连斯基沉默切入，深挖其处境与立场变化，国际人物发言解读",
+   "hook_reason": "泽连斯基被问",
+   "url": "https://finance.sina.cn/7x24/2026-10-17/detail-inivpfyq1409650.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:被问是否是替罪羊泽连斯基沉默不语"
+  },
+  "黄奇帆被查中纪委官网重磅发文": {
+   "key": "黄奇帆被查中纪委官网重磅发文",
+   "title": "黄奇帆被查 中纪委官网重磅发文",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从黄奇帆履历切入，分析其对中国经济政策的影响及后续连锁反应",
+   "hook_reason": "经济重臣落马，中纪委重磅发声，财经圈地震级消息",
+   "url": "https://www.toutiao.com/trending/7697485333599882806/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:黄奇帆被查中纪委官网重磅发文"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 13
+ "a_pushed_window": 14
 }
