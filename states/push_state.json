@@ -6924,6 +6924,19 @@
    "breaking": true,
    "event_id": "e:openaicodex产品负责人我们为所有专业用户大幅改进了gpt6p",
    "batch_window": 8
+  },
+  {
+   "key": "孙颖莎和11岁河北省冠军担任火炬手",
+   "title": "孙颖莎和11岁河北省冠军担任火炬手",
+   "rating": "A",
+   "score": 53.16,
+   "angle": "聚焦00后体育新星亮相奥运舞台，对比11岁冠军与奥运冠军的年龄反差，切入青少年体育培养话题",
+   "hook_reason": "奥运火炬手名单曝光+童星同框，国民认知度高易引发共鸣",
+   "url": "https://www.toutiao.com/trending/7696347600661938218/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:孙颖莎和11岁河北省冠军担任火炬手",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -8211,6 +8224,18 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:openaicodex产品负责人我们为所有专业用户大幅改进了gpt6p"
+  },
+  "孙颖莎和11岁河北省冠军担任火炬手": {
+   "key": "孙颖莎和11岁河北省冠军担任火炬手",
+   "title": "孙颖莎和11岁河北省冠军担任火炬手",
+   "rating": "A",
+   "score": 53.16,
+   "angle": "聚焦00后体育新星亮相奥运舞台，对比11岁冠军与奥运冠军的年龄反差，切入青少年体育培养话题",
+   "hook_reason": "奥运火炬手名单曝光+童星同框，国民认知度高易引发共鸣",
+   "url": "https://www.toutiao.com/trending/7696347600661938218/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:孙颖莎和11岁河北省冠军担任火炬手"
   }
  },
  "breaking_count": 10,
