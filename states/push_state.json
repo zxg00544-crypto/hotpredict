@@ -7160,19 +7160,6 @@
    "batch_window": 16
   },
   {
-   "key": "老板吐槽免费一次后被要求一直免费",
-   "title": "老板吐槽免费一次后被要求一直免费",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "打工人视角吐槽'免费陷阱'，引发职场共鸣与消费争议讨论",
-   "hook_reason": "老板维权vs顾客薅羊毛，打工人共鸣强烈",
-   "url": "https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E5%90%90%E6%A7%BD%E5%85%8D%E8%B4%B9%E4%B8%80%E6%AC%A1%E5%90%8E%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B8%80%E7%9B%B4%E5%85%8D%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:老板吐槽免费一次后被要求一直免费",
-   "batch_window": 17
-  },
-  {
    "key": "国家出手养老账单要变了",
    "title": "国家出手 养老账单要变了",
    "rating": "A",
@@ -7210,6 +7197,71 @@
    "breaking": true,
    "event_id": "e:货轮起火沉没大量iphone漂浮海面",
    "batch_window": 17
+  },
+  {
+   "key": "多家银行上调存款利率五年期定存高至21怎样看待这一变化还会持续上调吗",
+   "title": "多家银行上调存款利率，五年期定存高至 2.1%，怎样看待这一变化？还会持续上调吗？",
+   "rating": "A",
+   "score": 83.5,
+   "angle": "从普通人理财视角切入，解析利率上调背后的经济信号，给出存款配置实操建议",
+   "hook_reason": "存款利率上调直接牵动每位储户钱袋子，实用信息+宏观解读双重刚需",
+   "url": "https://www.zhihu.com/question/2094509189456295461",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:多家银行上调存款利率五年期定存高至21怎样看待这一变化还会持续上调吗",
+   "batch_window": 18
+  },
+  {
+   "key": "95后小伙做共享儿女300元1小时",
+   "title": "95后小伙做“共享儿女”300元1小时",
+   "rating": "A",
+   "score": 91.0,
+   "angle": "95后小伙做",
+   "hook_reason": "共享儿女300元/小时，年轻人靠",
+   "url": "https://www.baidu.com/s?wd=95%E5%90%8E%E5%B0%8F%E4%BC%99%E5%81%9A%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D300%E5%85%831%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:95后小伙做共享儿女300元1小时",
+   "batch_window": 18
+  },
+  {
+   "key": "班主任休产假遭家长投诉质问一定要生孩子吗教师称举报信数量激增如何看待近几年兴起的校园投诉潮",
+   "title": "班主任休产假遭家长投诉质问「一定要生孩子吗」，教师称举报信数量激增，如何看待近几年兴起的校园投诉潮？",
+   "rating": "A",
+   "score": 84.0,
+   "angle": "从'校园投诉潮'切入，剖析家长过度维权与教师权益困境，关联女性生育就业双重压力",
+   "hook_reason": "家长质问教师休产假是否必要，直击生育焦虑与职场性别矛盾",
+   "url": "https://www.zhihu.com/question/2094730049790465149",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:班主任休产假遭家长投诉质问一定要生孩子吗教师称举报信数量激增如何看待近几年兴起的",
+   "batch_window": 18
+  },
+  {
+   "key": "deepseekdeepseekv41flash1017",
+   "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "DeepSeek v4.1参数/性能解析，对比竞品差距，分析对开发者和产业的影响",
+   "hook_reason": "DeepSeek突然发布v4.1，中国AI模型再次领跑，全球开发者关注",
+   "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepseekdeepseekv41flash1017",
+   "batch_window": 18
+  },
+  {
+   "key": "ai刚刚制出不老药一场科学革命正在发生ai创造营热搜ai创作激励大赛红衣大",
+   "title": "AI刚刚制出“不老药”？一场科学革命正在发生！ #ai创造营# #热搜AI创作激励大赛# 红衣大",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "以AI制药突破切入，拆解不老药背后的科学逻辑，追问技术何时真正落地",
+   "hook_reason": "不老药+AI双重爆点，击中全民对长寿与科技突破的双重幻想",
+   "url": "https://weibo.com/1708942053/Rn6zAsJ0K",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai刚刚制出不老药一场科学革命正在发生ai创造营热搜ai创作激励大赛红衣大",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -7730,7 +7782,8 @@
   "iphoneduo今晚开卖您会下单吗请投票网页链接",
   "caozenghui转发微博",
   "推荐观看这个两个多小时的关于ai未来的深度对话微博有自动字幕显示2026年10月12日j",
-  "男子为女友母亲养老送终获500万遗产"
+  "男子为女友母亲养老送终获500万遗产",
+  "老板吐槽免费一次后被要求一直免费"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8187,7 +8240,8 @@
   "e:iphoneduo今晚开卖您会下单吗请投票网页链接": "iPhone Duo 今晚开卖。您会下单吗？请投票 网页链接",
   "e:caozenghui转发微博": "// @caozenghui :转发微博",
   "e:推荐观看这个两个多小时的关于ai未来的深度对话微博有自动字幕显示2026年10月": "推荐观看这个两个多小时的关于AI未来的深度对话（微博有自动字幕显示） 2026年10月12日，J",
-  "e:男子为女友母亲养老送终获500万遗产": "男子为女友母亲养老送终获500万遗产"
+  "e:男子为女友母亲养老送终获500万遗产": "男子为女友母亲养老送终获500万遗产",
+  "e:老板吐槽免费一次后被要求一直免费": "老板吐槽免费一次后被要求一直免费"
  },
  "a_seen": {
   "彩电第一股确定退市": {
@@ -8873,8 +8927,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:货轮起火沉没大量iphone漂浮海面"
+  },
+  "多家银行上调存款利率五年期定存高至21怎样看待这一变化还会持续上调吗": {
+   "key": "多家银行上调存款利率五年期定存高至21怎样看待这一变化还会持续上调吗",
+   "title": "多家银行上调存款利率，五年期定存高至 2.1%，怎样看待这一变化？还会持续上调吗？",
+   "rating": "A",
+   "score": 83.5,
+   "angle": "从普通人理财视角切入，解析利率上调背后的经济信号，给出存款配置实操建议",
+   "hook_reason": "存款利率上调直接牵动每位储户钱袋子，实用信息+宏观解读双重刚需",
+   "url": "https://www.zhihu.com/question/2094509189456295461",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:多家银行上调存款利率五年期定存高至21怎样看待这一变化还会持续上调吗"
+  },
+  "95后小伙做共享儿女300元1小时": {
+   "key": "95后小伙做共享儿女300元1小时",
+   "title": "95后小伙做“共享儿女”300元1小时",
+   "rating": "A",
+   "score": 91.0,
+   "angle": "95后小伙做",
+   "hook_reason": "共享儿女300元/小时，年轻人靠",
+   "url": "https://www.baidu.com/s?wd=95%E5%90%8E%E5%B0%8F%E4%BC%99%E5%81%9A%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D300%E5%85%831%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:95后小伙做共享儿女300元1小时"
+  },
+  "班主任休产假遭家长投诉质问一定要生孩子吗教师称举报信数量激增如何看待近几年兴起的校园投诉潮": {
+   "key": "班主任休产假遭家长投诉质问一定要生孩子吗教师称举报信数量激增如何看待近几年兴起的校园投诉潮",
+   "title": "班主任休产假遭家长投诉质问「一定要生孩子吗」，教师称举报信数量激增，如何看待近几年兴起的校园投诉潮？",
+   "rating": "A",
+   "score": 84.0,
+   "angle": "从'校园投诉潮'切入，剖析家长过度维权与教师权益困境，关联女性生育就业双重压力",
+   "hook_reason": "家长质问教师休产假是否必要，直击生育焦虑与职场性别矛盾",
+   "url": "https://www.zhihu.com/question/2094730049790465149",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:班主任休产假遭家长投诉质问一定要生孩子吗教师称举报信数量激增如何看待近几年兴起的"
+  },
+  "deepseekdeepseekv41flash1017": {
+   "key": "deepseekdeepseekv41flash1017",
+   "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "DeepSeek v4.1参数/性能解析，对比竞品差距，分析对开发者和产业的影响",
+   "hook_reason": "DeepSeek突然发布v4.1，中国AI模型再次领跑，全球开发者关注",
+   "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepseekdeepseekv41flash1017"
+  },
+  "ai刚刚制出不老药一场科学革命正在发生ai创造营热搜ai创作激励大赛红衣大": {
+   "key": "ai刚刚制出不老药一场科学革命正在发生ai创造营热搜ai创作激励大赛红衣大",
+   "title": "AI刚刚制出“不老药”？一场科学革命正在发生！ #ai创造营# #热搜AI创作激励大赛# 红衣大",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "以AI制药突破切入，拆解不老药背后的科学逻辑，追问技术何时真正落地",
+   "hook_reason": "不老药+AI双重爆点，击中全民对长寿与科技突破的双重幻想",
+   "url": "https://weibo.com/1708942053/Rn6zAsJ0K",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai刚刚制出不老药一场科学革命正在发生ai创造营热搜ai创作激励大赛红衣大"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
