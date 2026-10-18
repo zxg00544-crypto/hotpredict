@@ -7602,19 +7602,6 @@
    "batch_window": 14
   },
   {
-   "key": "成都大学生2000元左右生活费是主流",
-   "title": "成都大学生：2000元左右生活费是主流",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从生活费数据切入，探讨当代大学生真实消费水平与家庭支撑的差异",
-   "hook_reason": "2000元成大学生标配，代际消费观念碰撞引共鸣",
-   "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%EF%BC%9A2000%E5%85%83%E5%B7%A6%E5%8F%B3%E7%94%9F%E6%B4%BB%E8%B4%B9%E6%98%AF%E4%B8%BB%E6%B5%81&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:成都大学生2000元左右生活费是主流",
-   "batch_window": 15
-  },
-  {
    "key": "法国发生近年来最严重暴力骚乱约1200人被捕超150名警察受伤情况如何为何此时矛盾进一步激化",
    "title": "法国发生近年来最严重暴力骚乱，约1200人被捕、超150名警察受伤，情况如何？为何此时矛盾进一步激化？",
    "rating": "A",
@@ -7652,6 +7639,45 @@
    "breaking": true,
    "event_id": "e:swisse抗糖丸被检出铅超标官方客服相关批次未进入中国销售",
    "batch_window": 16
+  },
+  {
+   "key": "中国留学生课堂身披旭日旗校方调查",
+   "title": "中国留学生课堂身披旭日旗 校方调查",
+   "rating": "A",
+   "score": 81.94,
+   "angle": "聚焦留学生群体行为边界与校方监管责任，引发全民讨论",
+   "hook_reason": "留学生披日军旗帜引爆民族情绪，冲突强、围观欲爆棚",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%AF%BE%E5%A0%82%E8%BA%AB%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97+%E6%A0%A1%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国留学生课堂身披旭日旗校方调查",
+   "batch_window": 17
+  },
+  {
+   "key": "转载回看科幻作家克拉克1964年的惊人预言碳基生命的进化已走到尽头人类的结局是否早已注定",
+   "title": "转载：回看科幻作家克拉克1964年的惊人预言！碳基生命的进化已走到尽头，人类的结局是否早已注定?",
+   "rating": "A",
+   "score": 84.9,
+   "angle": "从克拉克1964年预言切入，串联AI、基因编辑等当代科技突破，探讨预言应验与否及人类主动权",
+   "hook_reason": "克拉克预言引爆人类命运思考，科幻照进现实的震撼感",
+   "url": "https://weibo.com/1249424622/Rnff7aXwg",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:转载回看科幻作家克拉克1964年的惊人预言碳基生命的进化已走到尽头人类的结局是否",
+   "batch_window": 17
+  },
+  {
+   "key": "网传deepseekv41flash1017指纹测出gpt6astra这是怎么回事",
+   "title": "网传 DeepSeek V4.1 Flash 1017指纹测出 GPT-6 Astra，这是怎么回事？",
+   "rating": "A",
+   "score": 43.7,
+   "angle": "技术评测视角：DeepSeek能否'认出'GPT-6？背后是中美AI实力对比",
+   "hook_reason": "DeepSeek vs GPT-6AI对决，指纹测试结果出炉",
+   "url": "https://www.zhihu.com/question/2094959269275878409",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:网传deepseekv41flash1017指纹测出gpt6astra这是怎么回",
+   "batch_window": 17
   }
  ],
  "pushed": [
@@ -8205,7 +8231,8 @@
   "员工仅1人的空壳公司中标3000万项目",
   "爸妈带娃看世界4年没走出河南",
   "邻居和民警托举头部被卡防盗网女童",
-  "房产证写谁名房子就是谁的吗"
+  "房产证写谁名房子就是谁的吗",
+  "成都大学生2000元左右生活费是主流"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8695,7 +8722,8 @@
   "e:员工仅1人的空壳公司中标3000万项目": "员工仅1人的空壳公司中标3000万项目",
   "e:爸妈带娃看世界4年没走出河南": "爸妈带娃看世界 4年没走出河南",
   "e:邻居和民警托举头部被卡防盗网女童": "邻居和民警托举头部被卡防盗网女童",
-  "e:房产证写谁名房子就是谁的吗": "房产证写谁名房子就是谁的吗"
+  "e:房产证写谁名房子就是谁的吗": "房产证写谁名房子就是谁的吗",
+  "e:成都大学生2000元左右生活费是主流": "成都大学生：2000元左右生活费是主流"
  },
  "a_seen": {
   "美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接": {
@@ -9285,8 +9313,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:swisse抗糖丸被检出铅超标官方客服相关批次未进入中国销售"
+  },
+  "中国留学生课堂身披旭日旗校方调查": {
+   "key": "中国留学生课堂身披旭日旗校方调查",
+   "title": "中国留学生课堂身披旭日旗 校方调查",
+   "rating": "A",
+   "score": 81.94,
+   "angle": "聚焦留学生群体行为边界与校方监管责任，引发全民讨论",
+   "hook_reason": "留学生披日军旗帜引爆民族情绪，冲突强、围观欲爆棚",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%AF%BE%E5%A0%82%E8%BA%AB%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97+%E6%A0%A1%E6%96%B9%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国留学生课堂身披旭日旗校方调查"
+  },
+  "转载回看科幻作家克拉克1964年的惊人预言碳基生命的进化已走到尽头人类的结局是否早已注定": {
+   "key": "转载回看科幻作家克拉克1964年的惊人预言碳基生命的进化已走到尽头人类的结局是否早已注定",
+   "title": "转载：回看科幻作家克拉克1964年的惊人预言！碳基生命的进化已走到尽头，人类的结局是否早已注定?",
+   "rating": "A",
+   "score": 84.9,
+   "angle": "从克拉克1964年预言切入，串联AI、基因编辑等当代科技突破，探讨预言应验与否及人类主动权",
+   "hook_reason": "克拉克预言引爆人类命运思考，科幻照进现实的震撼感",
+   "url": "https://weibo.com/1249424622/Rnff7aXwg",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:转载回看科幻作家克拉克1964年的惊人预言碳基生命的进化已走到尽头人类的结局是否"
+  },
+  "网传deepseekv41flash1017指纹测出gpt6astra这是怎么回事": {
+   "key": "网传deepseekv41flash1017指纹测出gpt6astra这是怎么回事",
+   "title": "网传 DeepSeek V4.1 Flash 1017指纹测出 GPT-6 Astra，这是怎么回事？",
+   "rating": "A",
+   "score": 43.7,
+   "angle": "技术评测视角：DeepSeek能否'认出'GPT-6？背后是中美AI实力对比",
+   "hook_reason": "DeepSeek vs GPT-6AI对决，指纹测试结果出炉",
+   "url": "https://www.zhihu.com/question/2094959269275878409",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:网传deepseekv41flash1017指纹测出gpt6astra这是怎么回"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 16
+ "a_pushed_window": 17
 }
