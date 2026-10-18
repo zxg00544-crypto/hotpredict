@@ -7691,6 +7691,19 @@
    "breaking": true,
    "event_id": "e:imonawarfootingterrytaoandthecrisisinmat",
    "batch_window": 6
+  },
+  {
+   "key": "hybridreasoningagentsllmagentsth1925c1d0",
+   "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从技术突破角度切入，解析混合推理Agent如何重新定义LLM智能边界",
+   "hook_reason": "AI推理新范式登顶HN，技术圈热议LLM如何在潜在空间思考",
+   "url": "https://arxiv.org/abs/2610.18861",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:hybridreasoningagentsllmagentsthatthinki",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -8858,6 +8871,18 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:imonawarfootingterrytaoandthecrisisinmat"
+  },
+  "hybridreasoningagentsllmagentsth1925c1d0": {
+   "key": "hybridreasoningagentsllmagentsth1925c1d0",
+   "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从技术突破角度切入，解析混合推理Agent如何重新定义LLM智能边界",
+   "hook_reason": "AI推理新范式登顶HN，技术圈热议LLM如何在潜在空间思考",
+   "url": "https://arxiv.org/abs/2610.18861",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:hybridreasoningagentsllmagentsthatthinki"
   }
  },
  "breaking_count": 10,
