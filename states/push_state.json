@@ -7602,19 +7602,6 @@
    "batch_window": 14
   },
   {
-   "key": "房产证写谁名房子就是谁的吗",
-   "title": "房产证写谁名房子就是谁的吗",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "破除'房产证名字=产权'认知误区，结合真实案例解析婚姻/出资/赠与等场景下的产权归属",
-   "hook_reason": "涉及千万家庭财产，极易引发共鸣和焦虑，答案出人意料",
-   "url": "https://www.toutiao.com/trending/7697819678269472795/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:房产证写谁名房子就是谁的吗",
-   "batch_window": 15
-  },
-  {
    "key": "成都大学生2000元左右生活费是主流",
    "title": "成都大学生：2000元左右生活费是主流",
    "rating": "A",
@@ -7639,6 +7626,32 @@
    "breaking": true,
    "event_id": "e:法国发生近年来最严重暴力骚乱约1200人被捕超150名警察受伤情况如何为何此时矛",
    "batch_window": 15
+  },
+  {
+   "key": "deepseeksearchandfetch075per10003d638f39",
+   "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "DeepSeek定价策略解析：0.75美元/千次如何重塑AI搜索竞争格局，对比OpenAI/Gemini价格优势",
+   "hook_reason": "DeepSeek价格屠刀，每千次调用仅0.75美元，直接冲击AI搜索市场",
+   "url": "https://api-docs.deepseek.com/guides/search/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepseeksearchandfetch075per1000successf",
+   "batch_window": 16
+  },
+  {
+   "key": "swisse抗糖丸被检出铅超标官方客服相关批次未进入中国销售",
+   "title": "Swisse抗糖丸被检出铅超标，官方客服：相关批次未进入中国销售",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "Swisse铅超标事件全解析：批次是否流入国内？消费者如何维权？保健品安全底线在哪里？",
+   "hook_reason": "品牌保健品被检出铅超标，官方否认进入中国市场，消费者安全焦虑拉满",
+   "url": "https://finance.sina.cn/7x24/2026-10-18/detail-inivrrfp7857997.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:swisse抗糖丸被检出铅超标官方客服相关批次未进入中国销售",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -8191,7 +8204,8 @@
   "丹麦男子卖中国包子日赚超5万元",
   "员工仅1人的空壳公司中标3000万项目",
   "爸妈带娃看世界4年没走出河南",
-  "邻居和民警托举头部被卡防盗网女童"
+  "邻居和民警托举头部被卡防盗网女童",
+  "房产证写谁名房子就是谁的吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8680,7 +8694,8 @@
   "e:丹麦男子卖中国包子日赚超5万元": "丹麦男子卖中国包子日赚超5万元",
   "e:员工仅1人的空壳公司中标3000万项目": "员工仅1人的空壳公司中标3000万项目",
   "e:爸妈带娃看世界4年没走出河南": "爸妈带娃看世界 4年没走出河南",
-  "e:邻居和民警托举头部被卡防盗网女童": "邻居和民警托举头部被卡防盗网女童"
+  "e:邻居和民警托举头部被卡防盗网女童": "邻居和民警托举头部被卡防盗网女童",
+  "e:房产证写谁名房子就是谁的吗": "房产证写谁名房子就是谁的吗"
  },
  "a_seen": {
   "美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接": {
@@ -9246,8 +9261,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:法国发生近年来最严重暴力骚乱约1200人被捕超150名警察受伤情况如何为何此时矛"
+  },
+  "deepseeksearchandfetch075per10003d638f39": {
+   "key": "deepseeksearchandfetch075per10003d638f39",
+   "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "DeepSeek定价策略解析：0.75美元/千次如何重塑AI搜索竞争格局，对比OpenAI/Gemini价格优势",
+   "hook_reason": "DeepSeek价格屠刀，每千次调用仅0.75美元，直接冲击AI搜索市场",
+   "url": "https://api-docs.deepseek.com/guides/search/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepseeksearchandfetch075per1000successf"
+  },
+  "swisse抗糖丸被检出铅超标官方客服相关批次未进入中国销售": {
+   "key": "swisse抗糖丸被检出铅超标官方客服相关批次未进入中国销售",
+   "title": "Swisse抗糖丸被检出铅超标，官方客服：相关批次未进入中国销售",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "Swisse铅超标事件全解析：批次是否流入国内？消费者如何维权？保健品安全底线在哪里？",
+   "hook_reason": "品牌保健品被检出铅超标，官方否认进入中国市场，消费者安全焦虑拉满",
+   "url": "https://finance.sina.cn/7x24/2026-10-18/detail-inivrrfp7857997.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:swisse抗糖丸被检出铅超标官方客服相关批次未进入中国销售"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 15
+ "a_pushed_window": 16
 }
