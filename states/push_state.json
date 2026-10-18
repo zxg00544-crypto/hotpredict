@@ -7717,32 +7717,6 @@
    "breaking": true,
    "event_id": "e:男子称入狱20多天网贷记录多了十几万",
    "batch_window": 23
-  },
-  {
-   "key": "macos1582breaksopengl",
-   "title": "macOS 15.8.2 Breaks OpenGL",
-   "rating": "A",
-   "score": 77.0,
-   "angle": "聚焦开发者群体，解析OpenGL问题影响范围及官方回应进度",
-   "hook_reason": "苹果系统更新导致OpenGL崩溃，开发者紧急避坑",
-   "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:macos1582breaksopengl",
-   "batch_window": 1
-  },
-  {
-   "key": "伊朗议会主席团一名成员周日呼吁德黑兰改变其核政策转向试验和研发原子弹",
-   "title": "伊朗议会主席团一名成员周日呼吁德黑兰改变其核政策，转向试验和研发原子弹。",
-   "rating": "A",
-   "score": 46.9,
-   "angle": "从伊朗议会高官突然表态切入，分析核政策转向背后的地缘博弈与全球影响",
-   "hook_reason": "伊朗公开呼吁研发核弹，中东局势突变，全球关注",
-   "url": "https://finance.sina.cn/7x24/2026-10-19/detail-inivsnma0968223.d.html",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:伊朗议会主席团一名成员周日呼吁德黑兰改变其核政策转向试验和研发原子弹",
-   "batch_window": 1
   }
  ],
  "pushed": [
@@ -8850,42 +8824,6 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:海关总署发布风险警示swisse部分产品被检出铅超标"
-  },
-  "戴尔高管警告明年根据戴尔目前所见内存芯片情况会变得更糟今日头条网页链接": {
-   "key": "戴尔高管警告明年根据戴尔目前所见内存芯片情况会变得更糟今日头条网页链接",
-   "title": "戴尔高管警告：“明年，根据戴尔目前所见，内存芯片情况会变得更糟。” - 今日头条 网页链接",
-   "rating": "A",
-   "score": 84.9,
-   "angle": "从消费者视角切入，解读内存芯片供需危机如何传导至终端产品价格，叠加历史缺货周期复盘",
-   "hook_reason": "芯片短缺再升级？戴尔高管预警内存价格继续涨，你的手机/电脑要更贵了",
-   "url": "https://weibo.com/1249424622/Rni5frwbA",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:戴尔高管警告明年根据戴尔目前所见内存芯片情况会变得更糟今日头条网页链接"
-  },
-  "macos1582breaksopengl": {
-   "key": "macos1582breaksopengl",
-   "title": "macOS 15.8.2 Breaks OpenGL",
-   "rating": "A",
-   "score": 77.0,
-   "angle": "聚焦开发者群体，解析OpenGL问题影响范围及官方回应进度",
-   "hook_reason": "苹果系统更新导致OpenGL崩溃，开发者紧急避坑",
-   "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:macos1582breaksopengl"
-  },
-  "伊朗议会主席团一名成员周日呼吁德黑兰改变其核政策转向试验和研发原子弹": {
-   "key": "伊朗议会主席团一名成员周日呼吁德黑兰改变其核政策转向试验和研发原子弹",
-   "title": "伊朗议会主席团一名成员周日呼吁德黑兰改变其核政策，转向试验和研发原子弹。",
-   "rating": "A",
-   "score": 46.9,
-   "angle": "从伊朗议会高官突然表态切入，分析核政策转向背后的地缘博弈与全球影响",
-   "hook_reason": "伊朗公开呼吁研发核弹，中东局势突变，全球关注",
-   "url": "https://finance.sina.cn/7x24/2026-10-19/detail-inivsnma0968223.d.html",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:伊朗议会主席团一名成员周日呼吁德黑兰改变其核政策转向试验和研发原子弹"
   }
  },
  "breaking_count": 10,
