@@ -7537,19 +7537,6 @@
    "batch_window": 12
   },
   {
-   "key": "父母欠薪345万捧出的爱豆令人烧心",
-   "title": "父母欠薪345万捧出的爱豆令人烧心",
-   "rating": "A",
-   "score": 90.0,
-   "angle": "从欠薪事件切入，深挖追星家庭的隐性代价，引发两代人价值观碰撞讨论",
-   "hook_reason": "父母倾尽所有追星却遭欠薪，戳中追星族与父母两代人的情感痛点",
-   "url": "https://www.baidu.com/s?wd=%E7%88%B6%E6%AF%8D%E6%AC%A0%E8%96%AA345%E4%B8%87%E6%8D%A7%E5%87%BA%E7%9A%84%E7%88%B1%E8%B1%86%E4%BB%A4%E4%BA%BA%E7%83%A7%E5%BF%83&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:父母欠薪345万捧出的爱豆令人烧心",
-   "batch_window": 14
-  },
-  {
    "key": "肯德基为何把百事可乐换成可口可乐",
    "title": "肯德基为何把百事可乐换成可口可乐",
    "rating": "A",
@@ -7678,6 +7665,19 @@
    "breaking": true,
    "event_id": "e:网传deepseekv41flash1017指纹测出gpt6astra这是怎么回",
    "batch_window": 17
+  },
+  {
+   "key": "openai的rsi飞轮已经开始转了ai创造营热搜ai创作激励大赛红衣大叔周鸿",
+   "title": "OpenAI的RSI飞轮，已经开始转了！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周鸿",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "周鸿祎视角解读RSI飞轮商业 implications，对比国内AI大厂应对策略",
+   "hook_reason": "周鸿祎评OpenAI新动作，科技圈大佬对决引关注",
+   "url": "https://weibo.com/1708942053/Rng059Scb",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai的rsi飞轮已经开始转了ai创造营热搜ai创作激励大赛红衣大叔周鸿",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -8232,7 +8232,8 @@
   "爸妈带娃看世界4年没走出河南",
   "邻居和民警托举头部被卡防盗网女童",
   "房产证写谁名房子就是谁的吗",
-  "成都大学生2000元左右生活费是主流"
+  "成都大学生2000元左右生活费是主流",
+  "父母欠薪345万捧出的爱豆令人烧心"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8723,7 +8724,8 @@
   "e:爸妈带娃看世界4年没走出河南": "爸妈带娃看世界 4年没走出河南",
   "e:邻居和民警托举头部被卡防盗网女童": "邻居和民警托举头部被卡防盗网女童",
   "e:房产证写谁名房子就是谁的吗": "房产证写谁名房子就是谁的吗",
-  "e:成都大学生2000元左右生活费是主流": "成都大学生：2000元左右生活费是主流"
+  "e:成都大学生2000元左右生活费是主流": "成都大学生：2000元左右生活费是主流",
+  "e:父母欠薪345万捧出的爱豆令人烧心": "父母欠薪345万捧出的爱豆令人烧心"
  },
  "a_seen": {
   "美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接": {
@@ -9349,8 +9351,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:网传deepseekv41flash1017指纹测出gpt6astra这是怎么回"
+  },
+  "openai的rsi飞轮已经开始转了ai创造营热搜ai创作激励大赛红衣大叔周鸿": {
+   "key": "openai的rsi飞轮已经开始转了ai创造营热搜ai创作激励大赛红衣大叔周鸿",
+   "title": "OpenAI的RSI飞轮，已经开始转了！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周鸿",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "周鸿祎视角解读RSI飞轮商业 implications，对比国内AI大厂应对策略",
+   "hook_reason": "周鸿祎评OpenAI新动作，科技圈大佬对决引关注",
+   "url": "https://weibo.com/1708942053/Rng059Scb",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai的rsi飞轮已经开始转了ai创造营热搜ai创作激励大赛红衣大叔周鸿"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
