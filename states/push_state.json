@@ -7732,17 +7732,43 @@
    "batch_window": 21
   },
   {
-   "key": "张雪机车德比斯年度亚军",
-   "title": "张雪机车德比斯 年度亚军",
+   "key": "reprapmicron",
+   "title": "RepRapMicron",
    "rating": "A",
-   "score": 87.65,
-   "angle": "从张雪身份切入，结合当前就业环境，解读网络舆论与公众情绪的共鸣点",
-   "hook_reason": "北大网红再上热搜，就业话题自带流量，身份冲突引发讨论欲",
-   "url": "https://s.weibo.com/weibo?q=张雪机车德比斯年度亚军",
-   "track": "社会热点",
+   "score": 75.95,
+   "angle": "RepRapMicron开源3D打印机突破引发技术革命，解读其对制造业和创客生态的影响",
+   "hook_reason": "3D打印技术突破登顶HN，极客圈热议",
+   "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+   "track": "科技",
    "breaking": true,
-   "event_id": "e:张雪机车德比斯年度亚军",
-   "batch_window": 22
+   "event_id": "e:reprapmicron",
+   "batch_window": 23
+  },
+  {
+   "key": "哈佛谷歌惊人研究gpt6astra已解决98世界物理难题网页链接网页链接",
+   "title": "哈佛谷歌惊人研究：GPT-6 Astra已解决98%世界物理难题！ 网页链接 网页链接",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "拆解GPT-6技术突破点，对比GPT-4/5能力跃迁，探讨AI解决基础科学难题的临界时刻",
+   "hook_reason": "GPT-6首曝+哈佛谷歌联手，AI解决物理难题颠覆认知",
+   "url": "https://weibo.com/1249424622/RnhFN9QnB",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:哈佛谷歌惊人研究gpt6astra已解决98世界物理难题网页链接网页链接",
+   "batch_window": 23
+  },
+  {
+   "key": "男子称入狱20多天网贷记录多了十几万",
+   "title": "男子称入狱20多天网贷记录多了十几万",
+   "rating": "A",
+   "score": 52.55,
+   "angle": "深挖网贷平台风控漏洞，提醒用户关注信用报告异常",
+   "hook_reason": "入狱20天多出十几万网贷，谁干的？",
+   "url": "https://www.toutiao.com/trending/7697934008088346660/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:男子称入狱20多天网贷记录多了十几万",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -8302,7 +8328,8 @@
   "肯德基为何把百事可乐换成可口可乐",
   "法国发生近年来最严重暴力骚乱约1200人被捕超150名警察受伤情况如何为何此时矛盾进一步激化",
   "建议售价1980的眼镜片批发价30",
-  "转载回看科幻作家克拉克1964年的惊人预言碳基生命的进化已走到尽头人类的结局是否早已注定"
+  "转载回看科幻作家克拉克1964年的惊人预言碳基生命的进化已走到尽头人类的结局是否早已注定",
+  "张雪机车德比斯年度亚军"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8798,7 +8825,8 @@
   "e:肯德基为何把百事可乐换成可口可乐": "肯德基为何把百事可乐换成可口可乐",
   "e:法国发生近年来最严重暴力骚乱约1200人被捕超150名警察受伤情况如何为何此时矛": "法国发生近年来最严重暴力骚乱，约1200人被捕、超150名警察受伤，情况如何？为何此时矛盾进一步激化？",
   "e:建议售价1980的眼镜片批发价30": "建议售价1980的眼镜片批发价30",
-  "e:转载回看科幻作家克拉克1964年的惊人预言碳基生命的进化已走到尽头人类的结局是否": "转载：回看科幻作家克拉克1964年的惊人预言！碳基生命的进化已走到尽头，人类的结局是否早已注定?"
+  "e:转载回看科幻作家克拉克1964年的惊人预言碳基生命的进化已走到尽头人类的结局是否": "转载：回看科幻作家克拉克1964年的惊人预言！碳基生命的进化已走到尽头，人类的结局是否早已注定?",
+  "e:张雪机车德比斯年度亚军": "张雪机车德比斯 年度亚军"
  },
  "a_seen": {
   "美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接": {
@@ -9544,8 +9572,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:张雪机车德比斯年度亚军"
+  },
+  "reprapmicron": {
+   "key": "reprapmicron",
+   "title": "RepRapMicron",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "RepRapMicron开源3D打印机突破引发技术革命，解读其对制造业和创客生态的影响",
+   "hook_reason": "3D打印技术突破登顶HN，极客圈热议",
+   "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:reprapmicron"
+  },
+  "哈佛谷歌惊人研究gpt6astra已解决98世界物理难题网页链接网页链接": {
+   "key": "哈佛谷歌惊人研究gpt6astra已解决98世界物理难题网页链接网页链接",
+   "title": "哈佛谷歌惊人研究：GPT-6 Astra已解决98%世界物理难题！ 网页链接 网页链接",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "拆解GPT-6技术突破点，对比GPT-4/5能力跃迁，探讨AI解决基础科学难题的临界时刻",
+   "hook_reason": "GPT-6首曝+哈佛谷歌联手，AI解决物理难题颠覆认知",
+   "url": "https://weibo.com/1249424622/RnhFN9QnB",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:哈佛谷歌惊人研究gpt6astra已解决98世界物理难题网页链接网页链接"
+  },
+  "男子称入狱20多天网贷记录多了十几万": {
+   "key": "男子称入狱20多天网贷记录多了十几万",
+   "title": "男子称入狱20多天网贷记录多了十几万",
+   "rating": "A",
+   "score": 52.55,
+   "angle": "深挖网贷平台风控漏洞，提醒用户关注信用报告异常",
+   "hook_reason": "入狱20天多出十几万网贷，谁干的？",
+   "url": "https://www.toutiao.com/trending/7697934008088346660/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:男子称入狱20多天网贷记录多了十几万"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
