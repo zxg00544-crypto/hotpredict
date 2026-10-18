@@ -3130,19 +3130,6 @@
    "batch_window": 5
   },
   {
-   "key": "thelightbulbcomputer",
-   "title": "The Lightbulb Computer",
-   "rating": "A",
-   "score": 81.0,
-   "angle": "从HN爆发现象切入，解析Lightbulb Computer的硬件创新点与开发者生态野心",
-   "hook_reason": "HN突发，1小时破圈，100%增速，灯泡形态计算设备引发好奇",
-   "url": "https://lightbulbcomputer.com/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:thelightbulbcomputer",
-   "batch_window": 5
-  },
-  {
    "key": "如何看待5090将停产",
    "title": "如何看待5090将停产？",
    "rating": "A",
@@ -7730,6 +7717,32 @@
    "breaking": true,
    "event_id": "e:男子称入狱20多天网贷记录多了十几万",
    "batch_window": 23
+  },
+  {
+   "key": "macos1582breaksopengl",
+   "title": "macOS 15.8.2 Breaks OpenGL",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "聚焦开发者群体，解析OpenGL问题影响范围及官方回应进度",
+   "hook_reason": "苹果系统更新导致OpenGL崩溃，开发者紧急避坑",
+   "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:macos1582breaksopengl",
+   "batch_window": 1
+  },
+  {
+   "key": "伊朗议会主席团一名成员周日呼吁德黑兰改变其核政策转向试验和研发原子弹",
+   "title": "伊朗议会主席团一名成员周日呼吁德黑兰改变其核政策，转向试验和研发原子弹。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从伊朗议会高官突然表态切入，分析核政策转向背后的地缘博弈与全球影响",
+   "hook_reason": "伊朗公开呼吁研发核弹，中东局势突变，全球关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-19/detail-inivsnma0968223.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:伊朗议会主席团一名成员周日呼吁德黑兰改变其核政策转向试验和研发原子弹",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -8301,7 +8314,8 @@
   "九国联军真能锁住台海大门吗",
   "也门政府军方媒体称数枚导弹射向马里卜地区",
   "美国驻欧盟大使普兹德警告称如果布鲁塞尔继续推进限制非欧盟公司频谱接入的计划将",
-  "中国留学生课堂身披旭日旗校方调查"
+  "中国留学生课堂身披旭日旗校方调查",
+  "thelightbulbcomputer"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8809,7 +8823,8 @@
   "e:九国联军真能锁住台海大门吗": "“九国联军”真能锁住台海大门吗",
   "e:也门政府军方媒体称数枚导弹射向马里卜地区": "也门政府军方媒体称，数枚导弹射向马里卜地区。",
   "e:美国驻欧盟大使普兹德警告称如果布鲁塞尔继续推进限制非欧盟公司频谱接入的计划将": "美国驻欧盟大使普兹德警告称，如果布鲁塞尔继续推进限制非欧盟公司频谱接入的计划，将",
-  "e:中国留学生课堂身披旭日旗校方调查": "中国留学生课堂身披旭日旗 校方调查"
+  "e:中国留学生课堂身披旭日旗校方调查": "中国留学生课堂身披旭日旗 校方调查",
+  "e:thelightbulbcomputer": "The Lightbulb Computer"
  },
  "a_seen": {
   "央视曝光药企围猎老年人": {
@@ -8835,8 +8850,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:海关总署发布风险警示swisse部分产品被检出铅超标"
+  },
+  "戴尔高管警告明年根据戴尔目前所见内存芯片情况会变得更糟今日头条网页链接": {
+   "key": "戴尔高管警告明年根据戴尔目前所见内存芯片情况会变得更糟今日头条网页链接",
+   "title": "戴尔高管警告：“明年，根据戴尔目前所见，内存芯片情况会变得更糟。” - 今日头条 网页链接",
+   "rating": "A",
+   "score": 84.9,
+   "angle": "从消费者视角切入，解读内存芯片供需危机如何传导至终端产品价格，叠加历史缺货周期复盘",
+   "hook_reason": "芯片短缺再升级？戴尔高管预警内存价格继续涨，你的手机/电脑要更贵了",
+   "url": "https://weibo.com/1249424622/Rni5frwbA",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:戴尔高管警告明年根据戴尔目前所见内存芯片情况会变得更糟今日头条网页链接"
+  },
+  "macos1582breaksopengl": {
+   "key": "macos1582breaksopengl",
+   "title": "macOS 15.8.2 Breaks OpenGL",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "聚焦开发者群体，解析OpenGL问题影响范围及官方回应进度",
+   "hook_reason": "苹果系统更新导致OpenGL崩溃，开发者紧急避坑",
+   "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:macos1582breaksopengl"
+  },
+  "伊朗议会主席团一名成员周日呼吁德黑兰改变其核政策转向试验和研发原子弹": {
+   "key": "伊朗议会主席团一名成员周日呼吁德黑兰改变其核政策转向试验和研发原子弹",
+   "title": "伊朗议会主席团一名成员周日呼吁德黑兰改变其核政策，转向试验和研发原子弹。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从伊朗议会高官突然表态切入，分析核政策转向背后的地缘博弈与全球影响",
+   "hook_reason": "伊朗公开呼吁研发核弹，中东局势突变，全球关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-19/detail-inivsnma0968223.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:伊朗议会主席团一名成员周日呼吁德黑兰改变其核政策转向试验和研发原子弹"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 0
+ "a_pushed_window": 1
 }
