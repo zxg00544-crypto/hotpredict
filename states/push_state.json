@@ -7225,19 +7225,6 @@
    "batch_window": 1
   },
   {
-   "key": "furifontajapanesefontthatshowsfurigana",
-   "title": "Furifont, a Japanese font that shows furigana",
-   "rating": "A",
-   "score": 81.0,
-   "angle": "挖掘Antfu个人品牌+开源创新路线，切入开发者生态与中文技术社区传播价值",
-   "hook_reason": "知名开发者Antfu新作登顶HN，日文字体创新引爆中文圈技术讨论",
-   "url": "https://furifont.antfu.me/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:furifontajapanesefontthatshowsfurigana",
-   "batch_window": 2
-  },
-  {
    "key": "美国方面提出允许俄罗斯向欧洲出售更多天然气的设想该设想将成为与乌克兰和平协议的",
    "title": "美国方面提出允许俄罗斯向欧洲出售更多天然气的设想，该设想将成为与乌克兰和平协议的",
    "rating": "A",
@@ -7704,6 +7691,19 @@
    "breaking": true,
    "event_id": "e:伊朗革命卫队任何针对伊朗能源基础设施的袭击都将使被占领土永久化为焦土",
    "batch_window": 5
+  },
+  {
+   "key": "imonawarfootingterrytaoandthecrisisinmath",
+   "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "借陶哲轩权威发声，切入AI是否能替代数学研究的争议，带动科技/人文双重讨论",
+   "hook_reason": "数学界顶神称AI时代要进入战时状态，冲击认知边界",
+   "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:imonawarfootingterrytaoandthecrisisinmat",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -8280,7 +8280,8 @@
   "媒体曝付费可进中国天眼核心区中科院已成立调查组这会对科研观测造成哪些危害暴露出哪些管理问题",
   "官方通报儿童近视防控镜片冒牌贴牌",
   "a股市值一哥再度易主",
-  "roadster发布后特斯拉spacex仍在大跌马斯克身家四天缩水5286亿元如何解读"
+  "roadster发布后特斯拉spacex仍在大跌马斯克身家四天缩水5286亿元如何解读",
+  "furifontajapanesefontthatshowsfurigana"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8793,7 +8794,8 @@
   "e:媒体曝付费可进中国天眼核心区中科院已成立调查组这会对科研观测造成哪些危害暴露出哪": "媒体曝付费可进「中国天眼」核心区，中科院已成立调查组，这会对科研观测造成哪些危害？暴露出哪些管理问题？",
   "e:官方通报儿童近视防控镜片冒牌贴牌": "官方通报儿童近视防控镜片冒牌贴牌",
   "e:a股市值一哥再度易主": "A股“市值一哥”再度易主",
-  "e:roadster发布后特斯拉spacex仍在大跌马斯克身家四天缩水5286亿元如": "Roadster 发布后，特斯拉、SpaceX 仍在大跌，马斯克身家四天缩水5286亿元，如何解读？"
+  "e:roadster发布后特斯拉spacex仍在大跌马斯克身家四天缩水5286亿元如": "Roadster 发布后，特斯拉、SpaceX 仍在大跌，马斯克身家四天缩水5286亿元，如何解读？",
+  "e:furifontajapanesefontthatshowsfurigana": "Furifont, a Japanese font that shows furigana"
  },
  "a_seen": {
   "央视曝光药企围猎老年人": {
@@ -8855,8 +8857,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:伊朗革命卫队任何针对伊朗能源基础设施的袭击都将使被占领土永久化为焦土"
+  },
+  "imonawarfootingterrytaoandthecrisisinmath": {
+   "key": "imonawarfootingterrytaoandthecrisisinmath",
+   "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "借陶哲轩权威发声，切入AI是否能替代数学研究的争议，带动科技/人文双重讨论",
+   "hook_reason": "数学界顶神称AI时代要进入战时状态，冲击认知边界",
+   "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:imonawarfootingterrytaoandthecrisisinmat"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
