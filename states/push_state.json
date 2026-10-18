@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-10-18",
  "a_pending": [
   {
@@ -7680,19 +7680,6 @@
    "batch_window": 19
   },
   {
-   "key": "建议售价1980的眼镜片批发价30",
-   "title": "建议售价1980的眼镜片批发价30",
-   "rating": "A",
-   "score": 98.0,
-   "angle": "揭秘眼镜行业暴利链条，从定价策略到消费者维权",
-   "hook_reason": "1980元眼镜成本仅30元，66倍暴利直击消费者痛点",
-   "url": "https://s.weibo.com/weibo?q=建议售价1980的眼镜片批发价30",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:建议售价1980的眼镜片批发价30",
-   "batch_window": 20
-  },
-  {
    "key": "不用ai特效的中国功夫什么样",
    "title": "不用AI特效的中国功夫什么样",
    "rating": "A",
@@ -7704,6 +7691,58 @@
    "breaking": true,
    "event_id": "e:不用ai特效的中国功夫什么样",
    "batch_window": 20
+  },
+  {
+   "key": "legalexpertswarnmetasnewtermsstid7e3e52b",
+   "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "聚焦法律专家警告与Meta政策博弈，呈现AI数据争夺前沿立场",
+   "hook_reason": "法律专家发声质疑Meta条款，AI数据战升级",
+   "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:legalexpertswarnmetasnewtermsstillgrantb",
+   "batch_window": 21
+  },
+  {
+   "key": "美国能源部长赖特特朗普暂停对俄制裁是创新之举",
+   "title": "美国能源部长赖特：特朗普暂停对俄制裁是创新之举。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从特朗普团队能源政策转向切入，解读对俄制裁松动背后的战略意图",
+   "hook_reason": "特朗普对俄制裁突变，能源部长高调背书",
+   "url": "https://finance.sina.cn/7x24/2026-10-18/detail-inivshcf7711631.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:美国能源部长赖特特朗普暂停对俄制裁是创新之举",
+   "batch_window": 21
+  },
+  {
+   "key": "建议售价1980元的眼镜片批发价30元",
+   "title": "建议售价1980元的眼镜片批发价30元",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "拆解眼镜行业暴利链条，从配镜套路到定价逻辑，引发消费者共鸣与讨论",
+   "hook_reason": "暴利黑幕曝光！千元眼镜成本仅30元，谁在割你韭菜",
+   "url": "https://www.toutiao.com/trending/7697595174012403753/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:建议售价1980元的眼镜片批发价30元",
+   "batch_window": 21
+  },
+  {
+   "key": "女子疑因没剪好头发情绪失控打砸酒铺",
+   "title": "女子疑因没剪好头发情绪失控打砸酒铺",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从女性消费情绪管理切入，探讨公共场所失控行为的边界与代价",
+   "hook_reason": "女性情绪失控打砸引发共鸣与争议",
+   "url": "https://www.toutiao.com/trending/7697891508204224566/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子疑因没剪好头发情绪失控打砸酒铺",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -8261,7 +8300,8 @@
   "成都大学生2000元左右生活费是主流",
   "父母欠薪345万捧出的爱豆令人烧心",
   "肯德基为何把百事可乐换成可口可乐",
-  "法国发生近年来最严重暴力骚乱约1200人被捕超150名警察受伤情况如何为何此时矛盾进一步激化"
+  "法国发生近年来最严重暴力骚乱约1200人被捕超150名警察受伤情况如何为何此时矛盾进一步激化",
+  "建议售价1980的眼镜片批发价30"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8755,7 +8795,8 @@
   "e:成都大学生2000元左右生活费是主流": "成都大学生：2000元左右生活费是主流",
   "e:父母欠薪345万捧出的爱豆令人烧心": "父母欠薪345万捧出的爱豆令人烧心",
   "e:肯德基为何把百事可乐换成可口可乐": "肯德基为何把百事可乐换成可口可乐",
-  "e:法国发生近年来最严重暴力骚乱约1200人被捕超150名警察受伤情况如何为何此时矛": "法国发生近年来最严重暴力骚乱，约1200人被捕、超150名警察受伤，情况如何？为何此时矛盾进一步激化？"
+  "e:法国发生近年来最严重暴力骚乱约1200人被捕超150名警察受伤情况如何为何此时矛": "法国发生近年来最严重暴力骚乱，约1200人被捕、超150名警察受伤，情况如何？为何此时矛盾进一步激化？",
+  "e:建议售价1980的眼镜片批发价30": "建议售价1980的眼镜片批发价30"
  },
  "a_seen": {
   "美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接": {
@@ -9441,8 +9482,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:不用ai特效的中国功夫什么样"
+  },
+  "legalexpertswarnmetasnewtermsstid7e3e52b": {
+   "key": "legalexpertswarnmetasnewtermsstid7e3e52b",
+   "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "聚焦法律专家警告与Meta政策博弈，呈现AI数据争夺前沿立场",
+   "hook_reason": "法律专家发声质疑Meta条款，AI数据战升级",
+   "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:legalexpertswarnmetasnewtermsstillgrantb"
+  },
+  "美国能源部长赖特特朗普暂停对俄制裁是创新之举": {
+   "key": "美国能源部长赖特特朗普暂停对俄制裁是创新之举",
+   "title": "美国能源部长赖特：特朗普暂停对俄制裁是创新之举。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从特朗普团队能源政策转向切入，解读对俄制裁松动背后的战略意图",
+   "hook_reason": "特朗普对俄制裁突变，能源部长高调背书",
+   "url": "https://finance.sina.cn/7x24/2026-10-18/detail-inivshcf7711631.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:美国能源部长赖特特朗普暂停对俄制裁是创新之举"
+  },
+  "建议售价1980元的眼镜片批发价30元": {
+   "key": "建议售价1980元的眼镜片批发价30元",
+   "title": "建议售价1980元的眼镜片批发价30元",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "拆解眼镜行业暴利链条，从配镜套路到定价逻辑，引发消费者共鸣与讨论",
+   "hook_reason": "暴利黑幕曝光！千元眼镜成本仅30元，谁在割你韭菜",
+   "url": "https://www.toutiao.com/trending/7697595174012403753/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:建议售价1980元的眼镜片批发价30元"
+  },
+  "女子疑因没剪好头发情绪失控打砸酒铺": {
+   "key": "女子疑因没剪好头发情绪失控打砸酒铺",
+   "title": "女子疑因没剪好头发情绪失控打砸酒铺",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从女性消费情绪管理切入，探讨公共场所失控行为的边界与代价",
+   "hook_reason": "女性情绪失控打砸引发共鸣与争议",
+   "url": "https://www.toutiao.com/trending/7697891508204224566/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子疑因没剪好头发情绪失控打砸酒铺"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
