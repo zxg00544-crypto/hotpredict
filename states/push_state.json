@@ -2467,19 +2467,6 @@
    "batch_window": 4
   },
   {
-   "key": "投资魔女李蓓为何看空a股科技股",
-   "title": "“投资魔女”李蓓为何看空A股科技股",
-   "rating": "A",
-   "score": 80.7,
-   "angle": "拆解李蓓看空逻辑，结合A股科技板块近期走势，解读对普通投资者的信号",
-   "hook_reason": "知名投资人看空科技股，读者好奇原因及后续影响",
-   "url": "https://www.toutiao.com/trending/7694651841828621865/",
-   "track": "财经",
-   "breaking": false,
-   "event_id": "e:投资魔女李蓓为何看空a股科技股",
-   "batch_window": 4
-  },
-  {
    "key": "普京俄愿向美国及全球市场供应石油和石油产品",
    "title": "普京：俄愿向美国及全球市场供应石油和石油产品",
    "rating": "A",
@@ -8281,7 +8268,8 @@
   "官方通报儿童近视防控镜片冒牌贴牌",
   "a股市值一哥再度易主",
   "roadster发布后特斯拉spacex仍在大跌马斯克身家四天缩水5286亿元如何解读",
-  "furifontajapanesefontthatshowsfurigana"
+  "furifontajapanesefontthatshowsfurigana",
+  "投资魔女李蓓为何看空a股科技股"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8795,7 +8783,8 @@
   "e:官方通报儿童近视防控镜片冒牌贴牌": "官方通报儿童近视防控镜片冒牌贴牌",
   "e:a股市值一哥再度易主": "A股“市值一哥”再度易主",
   "e:roadster发布后特斯拉spacex仍在大跌马斯克身家四天缩水5286亿元如": "Roadster 发布后，特斯拉、SpaceX 仍在大跌，马斯克身家四天缩水5286亿元，如何解读？",
-  "e:furifontajapanesefontthatshowsfurigana": "Furifont, a Japanese font that shows furigana"
+  "e:furifontajapanesefontthatshowsfurigana": "Furifont, a Japanese font that shows furigana",
+  "e:投资魔女李蓓为何看空a股科技股": "“投资魔女”李蓓为何看空A股科技股"
  },
  "a_seen": {
   "央视曝光药企围猎老年人": {
@@ -8872,5 +8861,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
