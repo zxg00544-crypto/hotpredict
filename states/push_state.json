@@ -7615,19 +7615,6 @@
    "batch_window": 17
   },
   {
-   "key": "转载回看科幻作家克拉克1964年的惊人预言碳基生命的进化已走到尽头人类的结局是否早已注定",
-   "title": "转载：回看科幻作家克拉克1964年的惊人预言！碳基生命的进化已走到尽头，人类的结局是否早已注定?",
-   "rating": "A",
-   "score": 84.9,
-   "angle": "从克拉克1964年预言切入，串联AI、基因编辑等当代科技突破，探讨预言应验与否及人类主动权",
-   "hook_reason": "克拉克预言引爆人类命运思考，科幻照进现实的震撼感",
-   "url": "https://weibo.com/1249424622/Rnff7aXwg",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:转载回看科幻作家克拉克1964年的惊人预言碳基生命的进化已走到尽头人类的结局是否",
-   "batch_window": 17
-  },
-  {
    "key": "网传deepseekv41flash1017指纹测出gpt6astra这是怎么回事",
    "title": "网传 DeepSeek V4.1 Flash 1017指纹测出 GPT-6 Astra，这是怎么回事？",
    "rating": "A",
@@ -7743,6 +7730,19 @@
    "breaking": true,
    "event_id": "e:女子疑因没剪好头发情绪失控打砸酒铺",
    "batch_window": 21
+  },
+  {
+   "key": "ai微电影星河外卖员规则诡域",
+   "title": "AI微电影星河外卖员规则诡域",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "从AI微电影《星河外卖员》切入，分析AIGC如何重塑影视创作门槛与内容生态",
+   "hook_reason": "AI生成微电影爆红，展现AIGC内容创作新可能",
+   "url": "https://search.bilibili.com/all?keyword=AI微电影星河外卖员规则诡域",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai微电影星河外卖员规则诡域",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -8301,7 +8301,8 @@
   "父母欠薪345万捧出的爱豆令人烧心",
   "肯德基为何把百事可乐换成可口可乐",
   "法国发生近年来最严重暴力骚乱约1200人被捕超150名警察受伤情况如何为何此时矛盾进一步激化",
-  "建议售价1980的眼镜片批发价30"
+  "建议售价1980的眼镜片批发价30",
+  "转载回看科幻作家克拉克1964年的惊人预言碳基生命的进化已走到尽头人类的结局是否早已注定"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8796,7 +8797,8 @@
   "e:父母欠薪345万捧出的爱豆令人烧心": "父母欠薪345万捧出的爱豆令人烧心",
   "e:肯德基为何把百事可乐换成可口可乐": "肯德基为何把百事可乐换成可口可乐",
   "e:法国发生近年来最严重暴力骚乱约1200人被捕超150名警察受伤情况如何为何此时矛": "法国发生近年来最严重暴力骚乱，约1200人被捕、超150名警察受伤，情况如何？为何此时矛盾进一步激化？",
-  "e:建议售价1980的眼镜片批发价30": "建议售价1980的眼镜片批发价30"
+  "e:建议售价1980的眼镜片批发价30": "建议售价1980的眼镜片批发价30",
+  "e:转载回看科幻作家克拉克1964年的惊人预言碳基生命的进化已走到尽头人类的结局是否": "转载：回看科幻作家克拉克1964年的惊人预言！碳基生命的进化已走到尽头，人类的结局是否早已注定?"
  },
  "a_seen": {
   "美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接": {
@@ -9487,11 +9489,11 @@
    "key": "legalexpertswarnmetasnewtermsstid7e3e52b",
    "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
    "rating": "A",
-   "score": 77.5,
-   "angle": "聚焦法律专家警告与Meta政策博弈，呈现AI数据争夺前沿立场",
-   "hook_reason": "法律专家发声质疑Meta条款，AI数据战升级",
+   "score": 75.9,
+   "angle": "Meta数据权限收紧背后，AI创业的'弹药库'危机与合规博弈",
+   "hook_reason": "Meta新规被专家警告，AI公司数据安全或受冲击",
    "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-   "track": "大咖发言",
+   "track": "科技",
    "breaking": true,
    "event_id": "e:legalexpertswarnmetasnewtermsstillgrantb"
   },
@@ -9530,8 +9532,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:女子疑因没剪好头发情绪失控打砸酒铺"
+  },
+  "ai微电影星河外卖员规则诡域": {
+   "key": "ai微电影星河外卖员规则诡域",
+   "title": "AI微电影星河外卖员规则诡域",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "从AI微电影《星河外卖员》切入，分析AIGC如何重塑影视创作门槛与内容生态",
+   "hook_reason": "AI生成微电影爆红，展现AIGC内容创作新可能",
+   "url": "https://search.bilibili.com/all?keyword=AI微电影星河外卖员规则诡域",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai微电影星河外卖员规则诡域"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
