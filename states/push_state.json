@@ -6731,19 +6731,6 @@
    "batch_window": 4
   },
   {
-   "key": "ai偶像怀孕把全网都耍了",
-   "title": "AI偶像怀孕 把全网都“耍了”",
-   "rating": "A",
-   "score": 81.25,
-   "angle": "从AI技术边界切入，探讨虚拟偶像情感拟人化是否越界，以及公众对AI伦理的敏感度",
-   "hook_reason": "AI偶像怀孕颠覆认知，大众对虚拟与现实边界充满好奇",
-   "url": "https://www.baidu.com/s?wd=AI%E5%81%B6%E5%83%8F%E6%80%80%E5%AD%95+%E6%8A%8A%E5%85%A8%E7%BD%91%E9%83%BD%E2%80%9C%E8%80%8D%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "科技",
-   "breaking": false,
-   "event_id": "e:ai偶像怀孕把全网都耍了",
-   "batch_window": 4
-  },
-  {
    "key": "特朗普谈及伊朗战事这是一场军事演习明白吗",
    "title": "特朗普谈及伊朗战事：这是一场军事演习，明白吗？",
    "rating": "A",
@@ -7444,6 +7431,71 @@
    "breaking": true,
    "event_id": "e:泽连斯基警告欧盟战败后果",
    "batch_window": 10
+  },
+  {
+   "key": "丹麦男子卖中国包子日赚超5万元",
+   "title": "丹麦男子卖中国包子日赚超5万元",
+   "rating": "A",
+   "score": 85.8,
+   "angle": "丹麦包子哥的创业路径：从0到日赚5万的轻资产跨境生意模型，附实操拆解",
+   "hook_reason": "外国人在欧洲靠中式小吃的创业故事，逆袭爽感+跨界反差",
+   "url": "https://s.weibo.com/weibo?q=丹麦男子卖中国包子日赚超5万元",
+   "track": "创业",
+   "breaking": true,
+   "event_id": "e:丹麦男子卖中国包子日赚超5万元",
+   "batch_window": 11
+  },
+  {
+   "key": "zuckerbergsmetatakesdownnokingsib7148f66",
+   "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从平台权力边界切入，科技巨头如何决定什么声音能传播",
+   "hook_reason": "扎克伯格亲自下场删号，科技大佬与抗议者正面刚",
+   "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:zuckerbergsmetatakesdownnokingsinstagram",
+   "batch_window": 11
+  },
+  {
+   "key": "小米18fold首款小米手机搭载玄戒o3旗舰处理器推荐大家去体验下",
+   "title": "#小米18Fold# 首款小米手机搭载玄戒O3旗舰处理器，推荐大家去体验下",
+   "rating": "A",
+   "score": 49.95,
+   "angle": "玄戒O3芯首战高端机，小米能否靠自研芯片撕开国产安卓芯片天花板",
+   "hook_reason": "小米首款自研旗舰芯亮相，米粉与果粉双重狂欢节点",
+   "url": "https://weibo.com/1892653244/Rndex3tUV",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米18fold首款小米手机搭载玄戒o3旗舰处理器推荐大家去体验下",
+   "batch_window": 11
+  },
+  {
+   "key": "本周我国硬核成果密集上新",
+   "title": "本周我国硬核成果密集上新",
+   "rating": "A",
+   "score": 52.85,
+   "angle": "盘点本周我国硬核科技突破清单，解读技术突围背后的战略意义与产业链机会",
+   "hook_reason": "硬核成果密集上新，民族自豪感强，读者期待具体有哪些突破",
+   "url": "https://www.toutiao.com/article/7697760325911593481",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:本周我国硬核成果密集上新",
+   "batch_window": 11
+  },
+  {
+   "key": "涉嫌严重职务违法广西壮族自治区政协原副主席黄日波被查",
+   "title": "涉嫌严重职务违法 广西壮族自治区政协原副主席黄日波被查",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从反腐常态化角度解读，聚焦官员监管机制与廉政建设成效",
+   "hook_reason": "省部级官员落马，反腐持续发力，公众关注权力监督与制度完善",
+   "url": "https://finance.sina.cn/7x24/2026-10-18/detail-inivrert7893483.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:涉嫌严重职务违法广西壮族自治区政协原副主席黄日波被查",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -7991,7 +8043,8 @@
   "ai宛如高速夜行没刹车的f1赛车",
   "抢折叠iphone信用卡被盗用",
   "银行又开始抢长期存款了",
-  "阳朔对全县桂花各环节拉网式排查"
+  "阳朔对全县桂花各环节拉网式排查",
+  "ai偶像怀孕把全网都耍了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8475,7 +8528,8 @@
   "e:ai宛如高速夜行没刹车的f1赛车": "“AI宛如高速夜行、没刹车的F1赛车”",
   "e:抢折叠iphone信用卡被盗用": "抢折叠iPhone信用卡被盗用",
   "e:银行又开始抢长期存款了": "银行又开始抢长期存款了",
-  "e:阳朔对全县桂花各环节拉网式排查": "阳朔：对全县桂花各环节拉网式排查"
+  "e:阳朔对全县桂花各环节拉网式排查": "阳朔：对全县桂花各环节拉网式排查",
+  "e:ai偶像怀孕把全网都耍了": "AI偶像怀孕 把全网都“耍了”"
  },
  "a_seen": {
   "美股全线大跌黄仁勋谈ai大跌这一切都会过去网页链接网页链接": {
@@ -8801,8 +8855,68 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:泽连斯基警告欧盟战败后果"
+  },
+  "丹麦男子卖中国包子日赚超5万元": {
+   "key": "丹麦男子卖中国包子日赚超5万元",
+   "title": "丹麦男子卖中国包子日赚超5万元",
+   "rating": "A",
+   "score": 85.8,
+   "angle": "丹麦包子哥的创业路径：从0到日赚5万的轻资产跨境生意模型，附实操拆解",
+   "hook_reason": "外国人在欧洲靠中式小吃的创业故事，逆袭爽感+跨界反差",
+   "url": "https://s.weibo.com/weibo?q=丹麦男子卖中国包子日赚超5万元",
+   "track": "创业",
+   "breaking": true,
+   "event_id": "e:丹麦男子卖中国包子日赚超5万元"
+  },
+  "zuckerbergsmetatakesdownnokingsib7148f66": {
+   "key": "zuckerbergsmetatakesdownnokingsib7148f66",
+   "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从平台权力边界切入，科技巨头如何决定什么声音能传播",
+   "hook_reason": "扎克伯格亲自下场删号，科技大佬与抗议者正面刚",
+   "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:zuckerbergsmetatakesdownnokingsinstagram"
+  },
+  "小米18fold首款小米手机搭载玄戒o3旗舰处理器推荐大家去体验下": {
+   "key": "小米18fold首款小米手机搭载玄戒o3旗舰处理器推荐大家去体验下",
+   "title": "#小米18Fold# 首款小米手机搭载玄戒O3旗舰处理器，推荐大家去体验下",
+   "rating": "A",
+   "score": 49.95,
+   "angle": "玄戒O3芯首战高端机，小米能否靠自研芯片撕开国产安卓芯片天花板",
+   "hook_reason": "小米首款自研旗舰芯亮相，米粉与果粉双重狂欢节点",
+   "url": "https://weibo.com/1892653244/Rndex3tUV",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米18fold首款小米手机搭载玄戒o3旗舰处理器推荐大家去体验下"
+  },
+  "本周我国硬核成果密集上新": {
+   "key": "本周我国硬核成果密集上新",
+   "title": "本周我国硬核成果密集上新",
+   "rating": "A",
+   "score": 52.85,
+   "angle": "盘点本周我国硬核科技突破清单，解读技术突围背后的战略意义与产业链机会",
+   "hook_reason": "硬核成果密集上新，民族自豪感强，读者期待具体有哪些突破",
+   "url": "https://www.toutiao.com/article/7697760325911593481",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:本周我国硬核成果密集上新"
+  },
+  "涉嫌严重职务违法广西壮族自治区政协原副主席黄日波被查": {
+   "key": "涉嫌严重职务违法广西壮族自治区政协原副主席黄日波被查",
+   "title": "涉嫌严重职务违法 广西壮族自治区政协原副主席黄日波被查",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从反腐常态化角度解读，聚焦官员监管机制与廉政建设成效",
+   "hook_reason": "省部级官员落马，反腐持续发力，公众关注权力监督与制度完善",
+   "url": "https://finance.sina.cn/7x24/2026-10-18/detail-inivrert7893483.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:涉嫌严重职务违法广西壮族自治区政协原副主席黄日波被查"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
