@@ -7758,19 +7758,6 @@
    "batch_window": 11
   },
   {
-   "key": "白鹿曼谷见面会宣布取消",
-   "title": "白鹿曼谷见面会宣布取消",
-   "rating": "A",
-   "score": 93.5,
-   "angle": "深挖取消背后原因（健康/行程/经济），兼顾粉丝情感与舆论走向",
-   "hook_reason": "粉丝关注+取消原因悬念，情绪浓烈易引发讨论",
-   "url": "https://s.weibo.com/weibo?q=白鹿曼谷见面会宣布取消",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:白鹿曼谷见面会宣布取消",
-   "batch_window": 12
-  },
-  {
    "key": "汇源集团不再生产汇源果汁",
    "title": "汇源集团：不再生产“汇源”果汁",
    "rating": "A",
@@ -7795,6 +7782,58 @@
    "breaking": true,
    "event_id": "e:梁文锋和deepseek为什么配得上国运级三个字",
    "batch_window": 12
+  },
+  {
+   "key": "欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红",
+   "title": "欧洲都能造出最先进的光刻机，为何造不出前沿大模型？ #ai创造营# #热搜AI创作激励大赛# 红",
+   "rating": "A",
+   "score": 84.9,
+   "angle": "从欧洲光刻机vs AI大模型反差切入，分析中国在AI赛道弯道超车的窗口期与生态短板",
+   "hook_reason": "民族情绪+科技焦虑双重刺激，反问句引发强烈好奇心",
+   "url": "https://weibo.com/1708942053/Rnn4totO1",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红",
+   "batch_window": 13
+  },
+  {
+   "key": "had大升级带来更平稳更顺畅更从容的城市辅助驾驶体验",
+   "title": "HAD大升级，带来更平稳、更顺畅、更从容的城市辅助驾驶体验。",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "华为智驾再下一城，城市NOA进入体验比拼深水区",
+   "hook_reason": "华为智驾大升级登顶热搜，车主群体高度关注",
+   "url": "https://weibo.com/1749127163/Rnn3eidFb",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:had大升级带来更平稳更顺畅更从容的城市辅助驾驶体验",
+   "batch_window": 13
+  },
+  {
+   "key": "superliteafasteralternatietosuperpowers",
+   "title": "Superlite: A Faster Alternatie to Superpowers",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "Superlite为何更快？技术栈拆解+Agent赛道格局重塑分析",
+   "hook_reason": "AI Agent赛道新玩家登顶HN，对标OpenAI Superpowers",
+   "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:superliteafasteralternatietosuperpowers",
+   "batch_window": 13
+  },
+  {
+   "key": "2014年就投了spacex的亿万富翁警告ai是我们这辈子最大的泡沫而且还没吹完致富只有这",
+   "title": "2014年就投了SpaceX的亿万富翁警告：AI是我们这辈子最大的泡沫，而且还没吹完！致富只有这",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "从早期投资者视角切入，对比SpaceX成功案例与AI现状，解读泡沫警告背后的投资逻辑",
+   "hook_reason": "亿万富翁警告AI泡沫还没吹完，读者好奇谁在抄底谁在逃顶",
+   "url": "https://weibo.com/1249424622/RnnpP57E6",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:2014年就投了spacex的亿万富翁警告ai是我们这辈子最大的泡沫而且还没吹完",
+   "batch_window": 13
   }
  ],
  "pushed": [
@@ -8378,7 +8417,8 @@
   "巴黎斯坦",
   "唐国强无提词朗诵出师表",
   "李山泉博客正巧这车从头顶飞过不知道向下喷射的气流热不热会不会把头发烧着",
-  "k100高刷配双芯打造游戏新基线骁龙8至尊版旗舰芯高通一代神u标准版首次搭"
+  "k100高刷配双芯打造游戏新基线骁龙8至尊版旗舰芯高通一代神u标准版首次搭",
+  "白鹿曼谷见面会宣布取消"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8898,7 +8938,8 @@
   "e:巴黎斯坦": "巴黎斯坦。",
   "e:唐国强无提词朗诵出师表": "唐国强无提词朗诵《出师表》",
   "e:李山泉博客正巧这车从头顶飞过不知道向下喷射的气流热不热会不会把头发烧着": "// @李山泉博客 :正巧这车从头顶飞过，不知道向下喷射的气流热不热？会不会把头发烧着？",
-  "e:k100高刷配双芯打造游戏新基线骁龙8至尊版旗舰芯高通一代神u标准版首次搭": "K100 高刷配双芯，打造游戏新基线！ 骁龙 8 至尊版旗舰芯，高通“一代神 U” 标准版首次搭"
+  "e:k100高刷配双芯打造游戏新基线骁龙8至尊版旗舰芯高通一代神u标准版首次搭": "K100 高刷配双芯，打造游戏新基线！ 骁龙 8 至尊版旗舰芯，高通“一代神 U” 标准版首次搭",
+  "e:白鹿曼谷见面会宣布取消": "白鹿曼谷见面会宣布取消"
  },
  "a_seen": {
   "央视曝光药企围猎老年人": {
@@ -9121,11 +9162,11 @@
    "key": "汇源集团不再生产汇源果汁",
    "title": "汇源集团：不再生产“汇源”果汁",
    "rating": "A",
-   "score": 87.95,
-   "angle": "从汇源从巅峰到停产的完整兴衰史切入，结合资本市场操作失误、管理层决策、民族品牌困境三重维度，解读一个时代符号如何陨落，给创业者和消费品行业敲响警钟。",
-   "hook_reason": "国民果汁没了？老牌情怀品牌退市，背后是资本败局还是时代悲剧？",
+   "score": 98.0,
+   "angle": "从情怀切入：汇源承载了几代人的童年味道，停产消息引发集体回忆杀，探讨国产品牌的兴衰之路",
+   "hook_reason": "国民品牌宣布停产，一代人的童年记忆落幕，情绪共鸣极强",
    "url": "https://s.weibo.com/weibo?q=汇源集团不再生产汇源果汁",
-   "track": "财经",
+   "track": "社会热点",
    "breaking": true,
    "event_id": "e:汇源集团不再生产汇源果汁"
   },
@@ -9140,8 +9181,80 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:梁文锋和deepseek为什么配得上国运级三个字"
+  },
+  "欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红": {
+   "key": "欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红",
+   "title": "欧洲都能造出最先进的光刻机，为何造不出前沿大模型？ #ai创造营# #热搜AI创作激励大赛# 红",
+   "rating": "A",
+   "score": 84.9,
+   "angle": "从欧洲光刻机vs AI大模型反差切入，分析中国在AI赛道弯道超车的窗口期与生态短板",
+   "hook_reason": "民族情绪+科技焦虑双重刺激，反问句引发强烈好奇心",
+   "url": "https://weibo.com/1708942053/Rnn4totO1",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红"
+  },
+  "高市早苗3天内2次拜鬼": {
+   "key": "高市早苗3天内2次拜鬼",
+   "title": "高市早苗3天内2次拜鬼",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从历史记忆与民族情感切入，剖析日本右翼政客行为对亚洲关系的负面影响",
+   "hook_reason": "靖国神社引发民族情绪，中日关系敏感话题，读者必然关注",
+   "url": "https://www.toutiao.com/trending/7697845658950258217/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:高市早苗向靖国神社献祭品"
+  },
+  "had大升级带来更平稳更顺畅更从容的城市辅助驾驶体验": {
+   "key": "had大升级带来更平稳更顺畅更从容的城市辅助驾驶体验",
+   "title": "HAD大升级，带来更平稳、更顺畅、更从容的城市辅助驾驶体验。",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "华为智驾再下一城，城市NOA进入体验比拼深水区",
+   "hook_reason": "华为智驾大升级登顶热搜，车主群体高度关注",
+   "url": "https://weibo.com/1749127163/Rnn3eidFb",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:had大升级带来更平稳更顺畅更从容的城市辅助驾驶体验"
+  },
+  "k100出厂搭载小米澎湃os4负载精算系统资源匹配更精准内存预载提前供给应用所需内存": {
+   "key": "k100出厂搭载小米澎湃os4负载精算系统资源匹配更精准内存预载提前供给应用所需内存",
+   "title": "K100 出厂搭载小米澎湃OS 4 负载精算，系统资源匹配更精准 内存预载，提前供给应用所需内存",
+   "rating": "A",
+   "score": 84.14,
+   "angle": "从OS底层优化切入，拆解小米如何在安卓碎片化难题上实现'内存预载+负载精算'的技术壁垒",
+   "hook_reason": "小米K100+澎湃OS4首发，安卓底层技术突破引发果粉/花粉围观",
+   "url": "https://weibo.com/1892653244/RnmSh4NpV",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:再次推荐k100promax"
+  },
+  "superliteafasteralternatietosuperpowers": {
+   "key": "superliteafasteralternatietosuperpowers",
+   "title": "Superlite: A Faster Alternatie to Superpowers",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "Superlite为何更快？技术栈拆解+Agent赛道格局重塑分析",
+   "hook_reason": "AI Agent赛道新玩家登顶HN，对标OpenAI Superpowers",
+   "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:superliteafasteralternatietosuperpowers"
+  },
+  "2014年就投了spacex的亿万富翁警告ai是我们这辈子最大的泡沫而且还没吹完致富只有这": {
+   "key": "2014年就投了spacex的亿万富翁警告ai是我们这辈子最大的泡沫而且还没吹完致富只有这",
+   "title": "2014年就投了SpaceX的亿万富翁警告：AI是我们这辈子最大的泡沫，而且还没吹完！致富只有这",
+   "rating": "A",
+   "score": 49.9,
+   "angle": "从早期投资者视角切入，对比SpaceX成功案例与AI现状，解读泡沫警告背后的投资逻辑",
+   "hook_reason": "亿万富翁警告AI泡沫还没吹完，读者好奇谁在抄底谁在逃顶",
+   "url": "https://weibo.com/1249424622/RnnpP57E6",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:2014年就投了spacex的亿万富翁警告ai是我们这辈子最大的泡沫而且还没吹完"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 12
+ "a_pushed_window": 13
 }
