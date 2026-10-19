@@ -7758,19 +7758,6 @@
    "batch_window": 11
   },
   {
-   "key": "欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红",
-   "title": "欧洲都能造出最先进的光刻机，为何造不出前沿大模型？ #ai创造营# #热搜AI创作激励大赛# 红",
-   "rating": "A",
-   "score": 84.9,
-   "angle": "从欧洲光刻机vs AI大模型反差切入，分析中国在AI赛道弯道超车的窗口期与生态短板",
-   "hook_reason": "民族情绪+科技焦虑双重刺激，反问句引发强烈好奇心",
-   "url": "https://weibo.com/1708942053/Rnn4totO1",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红",
-   "batch_window": 13
-  },
-  {
    "key": "had大升级带来更平稳更顺畅更从容的城市辅助驾驶体验",
    "title": "HAD大升级，带来更平稳、更顺畅、更从容的城市辅助驾驶体验。",
    "rating": "A",
@@ -8094,6 +8081,32 @@
    "breaking": true,
    "event_id": "e:英伟达称消费级gpu短缺已失控",
    "batch_window": 1
+  },
+  {
+   "key": "minimaxm31flash",
+   "title": "MiniMax M3.1 Flash",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从M3.1 Flash的技术突破切入，分析国内AI大模型竞争格局及MiniMax追赶OpenAI的进展",
+   "hook_reason": "MiniMax发布新一代模型M3.1 Flash，AI模型军备竞赛持续升温，技术突破点引关注",
+   "url": "https://www.minimax.io/blog/minimax-m31f",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:minimaxm31flash",
+   "batch_window": 2
+  },
+  {
+   "key": "timestralmistralstimeseriesfoundationmodels",
+   "title": "Timestral: Mistral's time-series foundation models",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "从Mistral法国AI巨头新动态切入，解读基础模型在时序预测赛道的布局与竞争格局",
+   "hook_reason": "Mistral发布AI新模型，登顶Hacker News，引发科技圈关注",
+   "url": "https://mistral.ai/news/timestral/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:timestralmistralstimeseriesfoundationmod",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -8700,7 +8713,8 @@
   "南太行徒步失联的33岁女子已找到",
   "10月19日国家统计局发布数据显示初步核算今年前三季度国内生产总值1071071亿元按不",
   "ontologydrivenobservabilitybuild200f3587",
-  "你手里的房子是卖还是留8月28日以来国家出台救市措施现房销售和房贷贴息当下你手里的房子是"
+  "你手里的房子是卖还是留8月28日以来国家出台救市措施现房销售和房贷贴息当下你手里的房子是",
+  "欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -9243,7 +9257,8 @@
   "e:南太行徒步失联的33岁女子已找到": "南太行徒步失联的33岁女子已找到",
   "e:10月19日国家统计局发布数据显示初步核算今年前三季度国内生产总值1071071": "10月19日，国家统计局发布数据显示，初步核算，今年前三季度国内生产总值1071071亿元，按不",
   "e:ontologydrivenobservabilitybuildinganend": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
-  "e:你手里的房子是卖还是留8月28日以来国家出台救市措施现房销售和房贷贴息当下你手里": "你手里的房子是卖还是留？ 8月28日以来国家出台救市措施、现房销售和房贷贴息，当下你手里的房子是"
+  "e:你手里的房子是卖还是留8月28日以来国家出台救市措施现房销售和房贷贴息当下你手里": "你手里的房子是卖还是留？ 8月28日以来国家出台救市措施、现房销售和房贷贴息，当下你手里的房子是",
+  "e:欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红": "欧洲都能造出最先进的光刻机，为何造不出前沿大模型？ #ai创造营# #热搜AI创作激励大赛# 红"
  },
  "a_seen": {
   "马斯克宣布明年给美国每名儿童送1股spacex股票这相当于多少钱他的目的是什么": {
@@ -9329,8 +9344,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:英伟达称消费级gpu短缺已失控"
+  },
+  "minimaxm31flash": {
+   "key": "minimaxm31flash",
+   "title": "MiniMax M3.1 Flash",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从M3.1 Flash的技术突破切入，分析国内AI大模型竞争格局及MiniMax追赶OpenAI的进展",
+   "hook_reason": "MiniMax发布新一代模型M3.1 Flash，AI模型军备竞赛持续升温，技术突破点引关注",
+   "url": "https://www.minimax.io/blog/minimax-m31f",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:minimaxm31flash"
+  },
+  "timestralmistralstimeseriesfoundationmodels": {
+   "key": "timestralmistralstimeseriesfoundationmodels",
+   "title": "Timestral: Mistral's time-series foundation models",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "从Mistral法国AI巨头新动态切入，解读基础模型在时序预测赛道的布局与竞争格局",
+   "hook_reason": "Mistral发布AI新模型，登顶Hacker News，引发科技圈关注",
+   "url": "https://mistral.ai/news/timestral/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:timestralmistralstimeseriesfoundationmod"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
