@@ -7758,19 +7758,6 @@
    "batch_window": 11
   },
   {
-   "key": "had大升级带来更平稳更顺畅更从容的城市辅助驾驶体验",
-   "title": "HAD大升级，带来更平稳、更顺畅、更从容的城市辅助驾驶体验。",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "华为智驾再下一城，城市NOA进入体验比拼深水区",
-   "hook_reason": "华为智驾大升级登顶热搜，车主群体高度关注",
-   "url": "https://weibo.com/1749127163/Rnn3eidFb",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:had大升级带来更平稳更顺畅更从容的城市辅助驾驶体验",
-   "batch_window": 13
-  },
-  {
    "key": "superliteafasteralternatietosuperpowers",
    "title": "Superlite: A Faster Alternatie to Superpowers",
    "rating": "A",
@@ -8756,7 +8743,8 @@
   "欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红",
   "2020年我们决定自研芯片三电增程器这些核心环节我们一步步做了起来同时我们也不",
   "杀生鱼丸代班redmi实测万级续航不关机不下播srmomo赖神gus联手玩机实测",
-  "ai病毒开始繁殖后代甚至学会给下一代留遗书ai创造营热搜ai创作激励大赛红衣大"
+  "ai病毒开始繁殖后代甚至学会给下一代留遗书ai创造营热搜ai创作激励大赛红衣大",
+  "had大升级带来更平稳更顺畅更从容的城市辅助驾驶体验"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -9303,7 +9291,8 @@
   "e:欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红": "欧洲都能造出最先进的光刻机，为何造不出前沿大模型？ #ai创造营# #热搜AI创作激励大赛# 红",
   "e:2020年我们决定自研芯片三电增程器这些核心环节我们一步步做了起来同时我们也不": "2020年，我们决定自研。 芯片、三电、增程器，这些核心环节，我们一步步做了起来。同时，我们也不",
   "e:杀生鱼丸代班redmi实测万级续航不关机不下播srmomo赖神gus联手玩机实测": "杀生鱼丸代班 REDMI 实测万级续航，不关机不下播 SR.Momo、赖神、Gus 联手玩机实测",
-  "e:ai病毒开始繁殖后代甚至学会给下一代留遗书ai创造营热搜ai创作激励大赛红衣大": "AI病毒开始繁殖后代，甚至学会给下一代留遗书？ #ai创造营# #热搜AI创作激励大赛# 红衣大"
+  "e:ai病毒开始繁殖后代甚至学会给下一代留遗书ai创造营热搜ai创作激励大赛红衣大": "AI病毒开始繁殖后代，甚至学会给下一代留遗书？ #ai创造营# #热搜AI创作激励大赛# 红衣大",
+  "e:had大升级带来更平稳更顺畅更从容的城市辅助驾驶体验": "HAD大升级，带来更平稳、更顺畅、更从容的城市辅助驾驶体验。"
  },
  "a_seen": {
   "马斯克宣布明年给美国每名儿童送1股spacex股票这相当于多少钱他的目的是什么": {
@@ -9466,9 +9455,9 @@
    "key": "theobscuretrustloomingoveranthropicsipo",
    "title": "The obscure trust looming over Anthropic's IPO",
    "rating": "A",
-   "score": 75.25,
-   "angle": "深挖Trust结构对Anthropic控制权与IPO估值的影响，类比OpenAI治理争议，解读AI公司'暗箱'风险",
-   "hook_reason": "Anthropic IPO前夕曝信托暗角，AI巨头合规黑盒引市场警惕",
+   "score": 74.6,
+   "angle": "从公司治理漏洞切入，追问AI安全研究是否被资本稀释",
+   "hook_reason": "AI独角兽IPO前的信任危机，颠覆公众对Anthropic的'安全优先'人设",
    "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
    "track": "科技",
    "breaking": false,
@@ -9478,9 +9467,9 @@
    "key": "askhnhowtodealwithshippingaiwrit341dbb52",
    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
    "rating": "A",
-   "score": 78.0,
-   "angle": "从'不敢用AI写代码'切入，写开发者最担心的场景",
-   "hook_reason": "开发者对AI代码质量的集体焦虑，高共鸣",
+   "score": 75.25,
+   "angle": "深入AI生成代码在生产环境的伦理与实践困境",
+   "hook_reason": "开发者用AI写的代码无法调试维护，技术圈真实痛点",
    "url": "https://news.ycombinator.com/item?id=50151036",
    "track": "科技",
    "breaking": false,
@@ -9488,5 +9477,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
