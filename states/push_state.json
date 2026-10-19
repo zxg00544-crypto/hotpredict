@@ -5873,19 +5873,6 @@
    "batch_window": 20
   },
   {
-   "key": "如何评价deepseek停摆5小时后按最近七日api消耗向用户发放补偿赠金",
-   "title": "如何评价DeepSeek停摆5小时后，按最近七日api消耗向用户发放补偿赠金？",
-   "rating": "A",
-   "score": 80.68,
-   "angle": "从宕机事件切入，讨论国产AI大模型的服务稳定性挑战与危机公关能力，引发开发者/用户共鸣。",
-   "hook_reason": "国产AI龙头服务宕机5小时，官方直接发钱补偿，这波操作你打几分？",
-   "url": "https://www.zhihu.com/question/2094116217489450760",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:如何评价deepseek停摆5小时后按最近七日api消耗向用户发放补偿赠金",
-   "batch_window": 22
-  },
-  {
    "key": "israelifirmsdigitaladsenablingin0a51b330",
    "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
    "rating": "A",
@@ -7704,6 +7691,19 @@
    "breaking": true,
    "event_id": "e:hybridreasoningagentsllmagentsthatthinki",
    "batch_window": 7
+  },
+  {
+   "key": "巴黎斯坦",
+   "title": "巴黎斯坦。",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "解析'巴黎斯坦'起源、走红路径及背后的青年亚文化现象，采访网友看法",
+   "hook_reason": "新造网络热词登顶热搜，网友热议，吃瓜群众好奇心拉满",
+   "url": "https://weibo.com/7799274131/RnkO4upun",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:巴黎斯坦",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -8282,7 +8282,8 @@
   "a股市值一哥再度易主",
   "roadster发布后特斯拉spacex仍在大跌马斯克身家四天缩水5286亿元如何解读",
   "furifontajapanesefontthatshowsfurigana",
-  "投资魔女李蓓为何看空a股科技股"
+  "投资魔女李蓓为何看空a股科技股",
+  "如何评价deepseek停摆5小时后按最近七日api消耗向用户发放补偿赠金"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8797,7 +8798,8 @@
   "e:a股市值一哥再度易主": "A股“市值一哥”再度易主",
   "e:roadster发布后特斯拉spacex仍在大跌马斯克身家四天缩水5286亿元如": "Roadster 发布后，特斯拉、SpaceX 仍在大跌，马斯克身家四天缩水5286亿元，如何解读？",
   "e:furifontajapanesefontthatshowsfurigana": "Furifont, a Japanese font that shows furigana",
-  "e:投资魔女李蓓为何看空a股科技股": "“投资魔女”李蓓为何看空A股科技股"
+  "e:投资魔女李蓓为何看空a股科技股": "“投资魔女”李蓓为何看空A股科技股",
+  "e:如何评价deepseek停摆5小时后按最近七日api消耗向用户发放补偿赠金": "如何评价DeepSeek停摆5小时后，按最近七日api消耗向用户发放补偿赠金？"
  },
  "a_seen": {
   "央视曝光药企围猎老年人": {
@@ -8883,8 +8885,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:hybridreasoningagentsllmagentsthatthinki"
+  },
+  "巴黎斯坦": {
+   "key": "巴黎斯坦",
+   "title": "巴黎斯坦。",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "解析'巴黎斯坦'起源、走红路径及背后的青年亚文化现象，采访网友看法",
+   "hook_reason": "新造网络热词登顶热搜，网友热议，吃瓜群众好奇心拉满",
+   "url": "https://weibo.com/7799274131/RnkO4upun",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:巴黎斯坦"
+  },
+  "中国留学生披旭日旗引众怒细节曝光": {
+   "key": "中国留学生披旭日旗引众怒细节曝光",
+   "title": "中国留学生披旭日旗引众怒 细节曝光",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从留学生海外行为边界与国民情绪撕裂切入，探讨身份认同与公共空间的张力",
+   "hook_reason": "留学生海外辱华引民族情绪爆发，身份认同冲突直击痛点",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E5%BC%95%E4%BC%97%E6%80%92+%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国留学生课堂身披旭日旗校方调查"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
