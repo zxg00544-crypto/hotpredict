@@ -8120,6 +8120,19 @@
    "breaking": true,
    "event_id": "e:伊朗伊斯兰革命卫队发言人霍尔木兹海峡海底铺设有7条主干光缆全球互联网与商",
    "batch_window": 3
+  },
+  {
+   "key": "cernandmistralsignastatementofinb038a6c2",
+   "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+   "rating": "A",
+   "score": 47.7,
+   "angle": "从AI如何赋能科学研究的视角切入，分析Mistral大模型在粒子物理数据分析中的潜力，科技+学术双重背书",
+   "hook_reason": "CERN联手法国AI公司Mistral，用AI加速前沿物理研究，科学×AI跨界重磅合作",
+   "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:cernandmistralsignastatementofintenttoes",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -9364,9 +9377,9 @@
    "key": "minimaxm31flash",
    "title": "MiniMax M3.1 Flash",
    "rating": "A",
-   "score": 76.5,
-   "angle": "聚焦M3.1 Flash性能突破与国产AI模型竞争格局，对比GPT-4o等竞品",
-   "hook_reason": "MiniMax新品登顶HackerNews，国产AI模型再突破",
+   "score": 75.95,
+   "angle": "MiniMax M3.1 Flash登顶HN，国产大模型竞速白热化，对标国内外主流模型深度测评",
+   "hook_reason": "国产AI模型突然登顶，1小时内刷屏Hacker News",
    "url": "https://www.minimax.io/blog/minimax-m31f",
    "track": "科技",
    "breaking": true,
@@ -9388,9 +9401,9 @@
    "key": "androidappsrunningnativeonmacos",
    "title": "Android apps running native on macOS",
    "rating": "A",
-   "score": 78.5,
-   "angle": "开发者福音还是生态妥协？M平台App原生运行技术解析",
-   "hook_reason": "苹果用户能在Mac直接跑Android app，跨平台技术突破",
+   "score": 75.85,
+   "angle": "从开发者视角解读技术突破，分析对跨平台生态的影响",
+   "hook_reason": "安卓应用直接跑在Mac上，打破生态壁垒",
    "url": "https://github.com/kksimp/Mac.apk",
    "track": "科技",
    "breaking": true,
@@ -9407,6 +9420,18 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:伊朗伊斯兰革命卫队发言人霍尔木兹海峡海底铺设有7条主干光缆全球互联网与商"
+  },
+  "cernandmistralsignastatementofinb038a6c2": {
+   "key": "cernandmistralsignastatementofinb038a6c2",
+   "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+   "rating": "A",
+   "score": 47.7,
+   "angle": "从AI如何赋能科学研究的视角切入，分析Mistral大模型在粒子物理数据分析中的潜力，科技+学术双重背书",
+   "hook_reason": "CERN联手法国AI公司Mistral，用AI加速前沿物理研究，科学×AI跨界重磅合作",
+   "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:cernandmistralsignastatementofintenttoes"
   }
  },
  "breaking_count": 10,
