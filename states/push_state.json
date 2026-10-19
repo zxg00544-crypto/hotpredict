@@ -8146,6 +8146,32 @@
    "breaking": true,
    "event_id": "e:puttinglinuxonmyrtxsparklaptopbecauseido",
    "batch_window": 7
+  },
+  {
+   "key": "董明珠称格力技工学校禁止谈恋爱",
+   "title": "董明珠称格力技工学校禁止谈恋爱",
+   "rating": "A",
+   "score": 76.75,
+   "angle": "以董明珠言论切入，探讨企业权力与员工私人边界的冲突，引发打工人共鸣",
+   "hook_reason": "大佬金句引爆年轻人共鸣，企业管理边界引争议",
+   "url": "https://s.weibo.com/weibo?q=董明珠称格力技工学校禁止谈恋爱",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:董明珠称格力技工学校禁止谈恋爱",
+   "batch_window": 7
+  },
+  {
+   "key": "早小米18pro系列",
+   "title": "早！ #小米18Pro系列#",
+   "rating": "A",
+   "score": 49.95,
+   "angle": "聚焦小米18Pro系列定价策略，对比竞品分析性价比定位",
+   "hook_reason": "小米新机突发预热，数码圈最关心的价格与配置悬念",
+   "url": "https://weibo.com/1892653244/RnuAPq2YP",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:早小米18pro系列",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -9513,6 +9539,42 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:puttinglinuxonmyrtxsparklaptopbecauseido"
+  },
+  "董明珠称格力技工学校禁止谈恋爱": {
+   "key": "董明珠称格力技工学校禁止谈恋爱",
+   "title": "董明珠称格力技工学校禁止谈恋爱",
+   "rating": "A",
+   "score": 76.75,
+   "angle": "以董明珠言论切入，探讨企业权力与员工私人边界的冲突，引发打工人共鸣",
+   "hook_reason": "大佬金句引爆年轻人共鸣，企业管理边界引争议",
+   "url": "https://s.weibo.com/weibo?q=董明珠称格力技工学校禁止谈恋爱",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:董明珠称格力技工学校禁止谈恋爱"
+  },
+  "早小米18pro系列": {
+   "key": "早小米18pro系列",
+   "title": "早！ #小米18Pro系列#",
+   "rating": "A",
+   "score": 49.95,
+   "angle": "聚焦小米18Pro系列定价策略，对比竞品分析性价比定位",
+   "hook_reason": "小米新机突发预热，数码圈最关心的价格与配置悬念",
+   "url": "https://weibo.com/1892653244/RnuAPq2YP",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:早小米18pro系列"
+  },
+  "媒体身披旭日旗中国留学生已被遣返": {
+   "key": "媒体身披旭日旗中国留学生已被遣返",
+   "title": "媒体：身披旭日旗中国留学生已被遣返",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从个体行为到舆论风暴：留学生出境如何成为社会情绪出口",
+   "hook_reason": "留学生+军国主义符号+遣返三重爆点，瞬间点燃全民民族情绪",
+   "url": "https://www.toutiao.com/trending/7698513898248359487/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国留学生课堂身披旭日旗校方调查"
   }
  },
  "breaking_count": 10,
