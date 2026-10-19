@@ -7849,19 +7849,6 @@
    "batch_window": 14
   },
   {
-   "key": "你手里的房子是卖还是留8月28日以来国家出台救市措施现房销售和房贷贴息当下你手里的房子是",
-   "title": "你手里的房子是卖还是留？ 8月28日以来国家出台救市措施、现房销售和房贷贴息，当下你手里的房子是",
-   "rating": "A",
-   "score": 84.95,
-   "angle": "救市政策落地对普通业主的实际影响，卖还是留——算笔账",
-   "hook_reason": "全国购房群体资产攸关，政策+卖房抉择，全民共鸣",
-   "url": "https://weibo.com/5884573948/RnnSicnwp",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:你手里的房子是卖还是留8月28日以来国家出台救市措施现房销售和房贷贴息当下你手里",
-   "batch_window": 15
-  },
-  {
    "key": "曝披旭日旗留学生曾表达支持台独",
    "title": "曝披旭日旗留学生曾表达支持“台独”",
    "rating": "A",
@@ -8068,6 +8055,45 @@
    "breaking": true,
    "event_id": "e:美国总统特朗普与第一夫人梅拉尼娅特朗普在玫瑰园活动中签署行政令",
    "batch_window": 23
+  },
+  {
+   "key": "谷歌自2026年10月21日起阿联酋地区的加密货币交易所钱包差价合约及外",
+   "title": "谷歌：自2026年10月21日起，阿联酋地区的加密货币交易所、钱包、差价合约及外",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从谷歌这一举措切入，分析国际科技巨头对加密监管态度的转变及对中国用户的启示",
+   "hook_reason": "谷歌突然限制阿联酋加密业务，平台VS监管强冲突",
+   "url": "https://finance.sina.cn/7x24/2026-10-20/detail-inivuvry0910994.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:谷歌自2026年10月21日起阿联酋地区的加密货币交易所钱包差价合约及外",
+   "batch_window": 1
+  },
+  {
+   "key": "cernandmistraljoinforcestoaccelerateaiforscience",
+   "title": "CERN and Mistral join forces to accelerate AI for science",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "CERN×Mistral合作背后，AI正从'工具'变为'科研基础设施'，科学发现将被重新定义",
+   "hook_reason": "欧洲顶级科研机构牵手法国AI公司，AI重塑基础科研范式",
+   "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:cernandmistraljoinforcestoaccelerateaifo",
+   "batch_window": 1
+  },
+  {
+   "key": "英伟达称消费级gpu短缺已失控",
+   "title": "英伟达称消费级GPU短缺已失控",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "消费级GPU为何突然断货？深挖AI算力挤占民用市场背后的产业链博弈",
+   "hook_reason": "NVIDIA官方确认GPU断货失控，直击游戏玩家和AI从业者痛点",
+   "url": "https://search.bilibili.com/all?keyword=英伟达称消费级GPU短缺已失控",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达称消费级gpu短缺已失控",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -8672,7 +8698,9 @@
   "万事达卡推出风险情报工具保障稳定币支付安全",
   "苹果宣布将于10月28日在洛杉矶举办proandtell专场活动",
   "南太行徒步失联的33岁女子已找到",
-  "10月19日国家统计局发布数据显示初步核算今年前三季度国内生产总值1071071亿元按不"
+  "10月19日国家统计局发布数据显示初步核算今年前三季度国内生产总值1071071亿元按不",
+  "ontologydrivenobservabilitybuild200f3587",
+  "你手里的房子是卖还是留8月28日以来国家出台救市措施现房销售和房贷贴息当下你手里的房子是"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -9213,7 +9241,9 @@
   "e:万事达卡推出风险情报工具保障稳定币支付安全": "万事达卡推出风险情报工具，保障稳定币支付安全。",
   "e:苹果宣布将于10月28日在洛杉矶举办proandtell专场活动": "苹果宣布将于10月28日在洛杉矶举办“Pro and Tell”专场活动。",
   "e:南太行徒步失联的33岁女子已找到": "南太行徒步失联的33岁女子已找到",
-  "e:10月19日国家统计局发布数据显示初步核算今年前三季度国内生产总值1071071": "10月19日，国家统计局发布数据显示，初步核算，今年前三季度国内生产总值1071071亿元，按不"
+  "e:10月19日国家统计局发布数据显示初步核算今年前三季度国内生产总值1071071": "10月19日，国家统计局发布数据显示，初步核算，今年前三季度国内生产总值1071071亿元，按不",
+  "e:ontologydrivenobservabilitybuildinganend": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
+  "e:你手里的房子是卖还是留8月28日以来国家出台救市措施现房销售和房贷贴息当下你手里": "你手里的房子是卖还是留？ 8月28日以来国家出台救市措施、现房销售和房贷贴息，当下你手里的房子是"
  },
  "a_seen": {
   "马斯克宣布明年给美国每名儿童送1股spacex股票这相当于多少钱他的目的是什么": {
@@ -9245,8 +9275,8 @@
    "title": "披旭日旗的中国留学生已被遣返开除",
    "rating": "A",
    "score": 46.9,
-   "angle": "从留学生海外行为规范与国家形象角度切入，分析事件背后的文化冲突与舆论分化",
-   "hook_reason": "民族情绪+留学生争议双重爆点，极易引发站队讨论",
+   "angle": "留学生海外言行边界与历史认知问题，从个案延伸到群体反思",
+   "hook_reason": "民族情绪+留学生群体，双重身份代入感强，极易引发转发讨论",
    "url": "https://www.baidu.com/s?wd=%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E9%81%A3%E8%BF%94%E5%BC%80%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
@@ -9263,8 +9293,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:苹果宣布将于10月28日在洛杉矶举办proandtell专场活动"
+  },
+  "谷歌自2026年10月21日起阿联酋地区的加密货币交易所钱包差价合约及外": {
+   "key": "谷歌自2026年10月21日起阿联酋地区的加密货币交易所钱包差价合约及外",
+   "title": "谷歌：自2026年10月21日起，阿联酋地区的加密货币交易所、钱包、差价合约及外",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从谷歌这一举措切入，分析国际科技巨头对加密监管态度的转变及对中国用户的启示",
+   "hook_reason": "谷歌突然限制阿联酋加密业务，平台VS监管强冲突",
+   "url": "https://finance.sina.cn/7x24/2026-10-20/detail-inivuvry0910994.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:谷歌自2026年10月21日起阿联酋地区的加密货币交易所钱包差价合约及外"
+  },
+  "cernandmistraljoinforcestoaccelerateaiforscience": {
+   "key": "cernandmistraljoinforcestoaccelerateaiforscience",
+   "title": "CERN and Mistral join forces to accelerate AI for science",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "CERN×Mistral合作背后，AI正从'工具'变为'科研基础设施'，科学发现将被重新定义",
+   "hook_reason": "欧洲顶级科研机构牵手法国AI公司，AI重塑基础科研范式",
+   "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:cernandmistraljoinforcestoaccelerateaifo"
+  },
+  "英伟达称消费级gpu短缺已失控": {
+   "key": "英伟达称消费级gpu短缺已失控",
+   "title": "英伟达称消费级GPU短缺已失控",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "消费级GPU为何突然断货？深挖AI算力挤占民用市场背后的产业链博弈",
+   "hook_reason": "NVIDIA官方确认GPU断货失控，直击游戏玩家和AI从业者痛点",
+   "url": "https://search.bilibili.com/all?keyword=英伟达称消费级GPU短缺已失控",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达称消费级gpu短缺已失控"
   }
  },
- "breaking_count": 9,
- "a_pushed_window": 0
+ "breaking_count": 10,
+ "a_pushed_window": 1
 }
