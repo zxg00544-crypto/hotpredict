@@ -3195,19 +3195,6 @@
    "batch_window": 6
   },
   {
-   "key": "唐国强无提词朗诵出师表",
-   "title": "唐国强无提词朗诵《出师表》",
-   "rating": "A",
-   "score": 80.55,
-   "angle": "从唐国强经典形象切入，探讨当代明星如何传承传统文化，引发民族情感共鸣",
-   "hook_reason": "老戏骨无提词朗诵经典，文化自信话题引发情感共鸣",
-   "url": "https://www.toutiao.com/trending/7693727830303588379/",
-   "track": "社会热点",
-   "breaking": false,
-   "event_id": "e:唐国强无提词朗诵出师表",
-   "batch_window": 6
-  },
-  {
    "key": "nixwrotehalfofmydebugger",
    "title": "Nix wrote half of my debugger",
    "rating": "A",
@@ -7730,6 +7717,32 @@
    "breaking": true,
    "event_id": "e:k100定档10月27日晚7点双芯魔王标准版首次搭载游戏独显万级续航挑战同档最强",
    "batch_window": 9
+  },
+  {
+   "key": "李山泉博客正巧这车从头顶飞过不知道向下喷射的气流热不热会不会把头发烧着",
+   "title": "// @李山泉博客 :正巧这车从头顶飞过，不知道向下喷射的气流热不热？会不会把头发烧着？",
+   "rating": "A",
+   "score": 84.8,
+   "angle": "从李山泉的调侃切入，盘点飞行汽车技术进展与商业化瓶颈，探讨'头顶气流会不会烧头发'背后的航空级安全标准缺失",
+   "hook_reason": "飞行汽车热议+大咖幽默调侃，情绪共鸣强",
+   "url": "https://weibo.com/1249424622/RnlIaaqrN",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:李山泉博客正巧这车从头顶飞过不知道向下喷射的气流热不热会不会把头发烧着",
+   "batch_window": 10
+  },
+  {
+   "key": "williamgibsonandthetrademarkingofcyberspace",
+   "title": "William Gibson and the trademarking of cyberspace",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "科技鼻祖与商业化的讽刺碰撞——cyberspace被商业化收编，赛博朋克精神的终结？",
+   "hook_reason": "科幻教父为cyberspace申请商标，跨界撞墙",
+   "url": "https://colo.to/cyberspace.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:williamgibsonandthetrademarkingofcybersp",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -8310,7 +8323,8 @@
   "furifontajapanesefontthatshowsfurigana",
   "投资魔女李蓓为何看空a股科技股",
   "如何评价deepseek停摆5小时后按最近七日api消耗向用户发放补偿赠金",
-  "巴黎斯坦"
+  "巴黎斯坦",
+  "唐国强无提词朗诵出师表"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8827,7 +8841,8 @@
   "e:furifontajapanesefontthatshowsfurigana": "Furifont, a Japanese font that shows furigana",
   "e:投资魔女李蓓为何看空a股科技股": "“投资魔女”李蓓为何看空A股科技股",
   "e:如何评价deepseek停摆5小时后按最近七日api消耗向用户发放补偿赠金": "如何评价DeepSeek停摆5小时后，按最近七日api消耗向用户发放补偿赠金？",
-  "e:巴黎斯坦": "巴黎斯坦。"
+  "e:巴黎斯坦": "巴黎斯坦。",
+  "e:唐国强无提词朗诵出师表": "唐国强无提词朗诵《出师表》"
  },
  "a_seen": {
   "央视曝光药企围猎老年人": {
@@ -8973,8 +8988,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:k100定档10月27日晚7点双芯魔王标准版首次搭载游戏独显万级续航挑战同档最强"
+  },
+  "李山泉博客正巧这车从头顶飞过不知道向下喷射的气流热不热会不会把头发烧着": {
+   "key": "李山泉博客正巧这车从头顶飞过不知道向下喷射的气流热不热会不会把头发烧着",
+   "title": "// @李山泉博客 :正巧这车从头顶飞过，不知道向下喷射的气流热不热？会不会把头发烧着？",
+   "rating": "A",
+   "score": 84.8,
+   "angle": "从李山泉的调侃切入，盘点飞行汽车技术进展与商业化瓶颈，探讨'头顶气流会不会烧头发'背后的航空级安全标准缺失",
+   "hook_reason": "飞行汽车热议+大咖幽默调侃，情绪共鸣强",
+   "url": "https://weibo.com/1249424622/RnlIaaqrN",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:李山泉博客正巧这车从头顶飞过不知道向下喷射的气流热不热会不会把头发烧着"
+  },
+  "williamgibsonandthetrademarkingofcyberspace": {
+   "key": "williamgibsonandthetrademarkingofcyberspace",
+   "title": "William Gibson and the trademarking of cyberspace",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "科技鼻祖与商业化的讽刺碰撞——cyberspace被商业化收编，赛博朋克精神的终结？",
+   "hook_reason": "科幻教父为cyberspace申请商标，跨界撞墙",
+   "url": "https://colo.to/cyberspace.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:williamgibsonandthetrademarkingofcybersp"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
