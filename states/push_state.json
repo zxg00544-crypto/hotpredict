@@ -7797,19 +7797,6 @@
    "batch_window": 13
   },
   {
-   "key": "2020年我们决定自研芯片三电增程器这些核心环节我们一步步做了起来同时我们也不",
-   "title": "2020年，我们决定自研。 芯片、三电、增程器，这些核心环节，我们一步步做了起来。同时，我们也不",
-   "rating": "A",
-   "score": 84.9,
-   "angle": "从'卡脖子'到'自主造'：一家车企十年磨一剑的核心技术突围战，背后是国产新能源产业链的全面崛起",
-   "hook_reason": "国产自研芯片+三电技术登顶热搜，民族科技情绪拉满",
-   "url": "https://weibo.com/1243861097/RnngXjf74",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:2020年我们决定自研芯片三电增程器这些核心环节我们一步步做了起来同时我们也不",
-   "batch_window": 14
-  },
-  {
    "key": "一杯红豆沙拉长时间回望一次次暴跌都只是漫长上行途中的插曲但这份事后看起来轻松",
    "title": "// @一杯红豆沙 :拉长时间回望，一次次暴跌，都只是漫长上行途中的插曲。但这份“事后看起来轻松",
    "rating": "A",
@@ -8107,6 +8094,32 @@
    "breaking": true,
    "event_id": "e:timestralmistralstimeseriesfoundationmod",
    "batch_window": 2
+  },
+  {
+   "key": "androidappsrunningnativeonmacos",
+   "title": "Android apps running native on macOS",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "开发者福音还是生态妥协？M平台App原生运行技术解析",
+   "hook_reason": "苹果用户能在Mac直接跑Android app，跨平台技术突破",
+   "url": "https://github.com/kksimp/Mac.apk",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:androidappsrunningnativeonmacos",
+   "batch_window": 3
+  },
+  {
+   "key": "伊朗伊斯兰革命卫队发言人霍尔木兹海峡海底铺设有7条主干光缆全球互联网与商",
+   "title": "伊朗伊斯兰革命卫队发言人：霍尔木兹海峡海底铺设有 7 条主干光缆，全球互联网与商",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从全球互联网基础设施脆弱性切入，解读海底光缆的地缘战略价值及中国相关布局",
+   "hook_reason": "伊朗突然披露全球互联网命脉位置，地缘+科技双重悬念",
+   "url": "https://zhibo.sina.com.cn/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:伊朗伊斯兰革命卫队发言人霍尔木兹海峡海底铺设有7条主干光缆全球互联网与商",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -8714,7 +8727,8 @@
   "10月19日国家统计局发布数据显示初步核算今年前三季度国内生产总值1071071亿元按不",
   "ontologydrivenobservabilitybuild200f3587",
   "你手里的房子是卖还是留8月28日以来国家出台救市措施现房销售和房贷贴息当下你手里的房子是",
-  "欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红"
+  "欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红",
+  "2020年我们决定自研芯片三电增程器这些核心环节我们一步步做了起来同时我们也不"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -9258,7 +9272,8 @@
   "e:10月19日国家统计局发布数据显示初步核算今年前三季度国内生产总值1071071": "10月19日，国家统计局发布数据显示，初步核算，今年前三季度国内生产总值1071071亿元，按不",
   "e:ontologydrivenobservabilitybuildinganend": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
   "e:你手里的房子是卖还是留8月28日以来国家出台救市措施现房销售和房贷贴息当下你手里": "你手里的房子是卖还是留？ 8月28日以来国家出台救市措施、现房销售和房贷贴息，当下你手里的房子是",
-  "e:欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红": "欧洲都能造出最先进的光刻机，为何造不出前沿大模型？ #ai创造营# #热搜AI创作激励大赛# 红"
+  "e:欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红": "欧洲都能造出最先进的光刻机，为何造不出前沿大模型？ #ai创造营# #热搜AI创作激励大赛# 红",
+  "e:2020年我们决定自研芯片三电增程器这些核心环节我们一步步做了起来同时我们也不": "2020年，我们决定自研。 芯片、三电、增程器，这些核心环节，我们一步步做了起来。同时，我们也不"
  },
  "a_seen": {
   "马斯克宣布明年给美国每名儿童送1股spacex股票这相当于多少钱他的目的是什么": {
@@ -9349,9 +9364,9 @@
    "key": "minimaxm31flash",
    "title": "MiniMax M3.1 Flash",
    "rating": "A",
-   "score": 40.9,
-   "angle": "从M3.1 Flash的技术突破切入，分析国内AI大模型竞争格局及MiniMax追赶OpenAI的进展",
-   "hook_reason": "MiniMax发布新一代模型M3.1 Flash，AI模型军备竞赛持续升温，技术突破点引关注",
+   "score": 76.5,
+   "angle": "聚焦M3.1 Flash性能突破与国产AI模型竞争格局，对比GPT-4o等竞品",
+   "hook_reason": "MiniMax新品登顶HackerNews，国产AI模型再突破",
    "url": "https://www.minimax.io/blog/minimax-m31f",
    "track": "科技",
    "breaking": true,
@@ -9361,15 +9376,39 @@
    "key": "timestralmistralstimeseriesfoundationmodels",
    "title": "Timestral: Mistral's time-series foundation models",
    "rating": "A",
-   "score": 40.75,
-   "angle": "从Mistral法国AI巨头新动态切入，解读基础模型在时序预测赛道的布局与竞争格局",
-   "hook_reason": "Mistral发布AI新模型，登顶Hacker News，引发科技圈关注",
+   "score": 46.95,
+   "angle": "Mistral从NLP到时序模型的战略延伸，AI平台化竞争进入新维度",
+   "hook_reason": "AI巨头Mistral跨界时间序列，大模型战场再扩一格",
    "url": "https://mistral.ai/news/timestral/",
-   "track": "大咖发言",
+   "track": "科技",
    "breaking": true,
    "event_id": "e:timestralmistralstimeseriesfoundationmod"
+  },
+  "androidappsrunningnativeonmacos": {
+   "key": "androidappsrunningnativeonmacos",
+   "title": "Android apps running native on macOS",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "开发者福音还是生态妥协？M平台App原生运行技术解析",
+   "hook_reason": "苹果用户能在Mac直接跑Android app，跨平台技术突破",
+   "url": "https://github.com/kksimp/Mac.apk",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:androidappsrunningnativeonmacos"
+  },
+  "伊朗伊斯兰革命卫队发言人霍尔木兹海峡海底铺设有7条主干光缆全球互联网与商": {
+   "key": "伊朗伊斯兰革命卫队发言人霍尔木兹海峡海底铺设有7条主干光缆全球互联网与商",
+   "title": "伊朗伊斯兰革命卫队发言人：霍尔木兹海峡海底铺设有 7 条主干光缆，全球互联网与商",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从全球互联网基础设施脆弱性切入，解读海底光缆的地缘战略价值及中国相关布局",
+   "hook_reason": "伊朗突然披露全球互联网命脉位置，地缘+科技双重悬念",
+   "url": "https://zhibo.sina.com.cn/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:伊朗伊斯兰革命卫队发言人霍尔木兹海峡海底铺设有7条主干光缆全球互联网与商"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
