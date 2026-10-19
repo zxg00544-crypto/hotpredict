@@ -7784,19 +7784,6 @@
    "batch_window": 13
   },
   {
-   "key": "一杯红豆沙拉长时间回望一次次暴跌都只是漫长上行途中的插曲但这份事后看起来轻松",
-   "title": "// @一杯红豆沙 :拉长时间回望，一次次暴跌，都只是漫长上行途中的插曲。但这份“事后看起来轻松",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "借暴跌热点切入投资心态复盘，关联近期市场波动事件，引出长期主义价值投资观点",
-   "hook_reason": "暴跌后的大V心理按摩，击中股民痛点，引发共鸣转发",
-   "url": "https://weibo.com/1249424622/Rnnm83FaC",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:一杯红豆沙拉长时间回望一次次暴跌都只是漫长上行途中的插曲但这份事后看起来轻松",
-   "batch_window": 14
-  },
-  {
    "key": "江北柯林斯刚刚读完但总的时间的玫瑰里面但总0708年当初的预测很多都已成",
    "title": "// @江北柯林斯 :刚刚读完但总的《时间的玫瑰》，里面但总 07，08 年当初的预测很多都已成",
    "rating": "A",
@@ -8133,6 +8120,32 @@
    "breaking": false,
    "event_id": "e:askhnhowtodealwithshippingaiwrittencodey",
    "batch_window": 5
+  },
+  {
+   "key": "openbsd80releasewillhaveinteldrme21849c7",
+   "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从'拒绝非自由软件'到务实合作，OpenBSD 8.0驱动整合背后的哲学妥协与生态博弈",
+   "hook_reason": "OpenBSD首次集成Linux显卡驱动，开源圈震动的战略转向",
+   "url": "https://bsd.network/@brynet/117407035545900963",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openbsd80releasewillhaveinteldrmradeondr",
+   "batch_window": 7
+  },
+  {
+   "key": "puttinglinuxonmyrtxsparklaptopbeb541a0b7",
+   "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "从'不想绑微软账号'切入，写Linux在消费级GPU设备上的折腾实践，引发技术圈情绪共鸣",
+   "hook_reason": "普通人用开源对抗微软生态，打脸大厂绑定，技术极客共鸣强",
+   "url": "https://josie.lol/blog/linux-rtx-spark",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:puttinglinuxonmyrtxsparklaptopbecauseido",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -8744,7 +8757,8 @@
   "2020年我们决定自研芯片三电增程器这些核心环节我们一步步做了起来同时我们也不",
   "杀生鱼丸代班redmi实测万级续航不关机不下播srmomo赖神gus联手玩机实测",
   "ai病毒开始繁殖后代甚至学会给下一代留遗书ai创造营热搜ai创作激励大赛红衣大",
-  "had大升级带来更平稳更顺畅更从容的城市辅助驾驶体验"
+  "had大升级带来更平稳更顺畅更从容的城市辅助驾驶体验",
+  "一杯红豆沙拉长时间回望一次次暴跌都只是漫长上行途中的插曲但这份事后看起来轻松"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -9292,7 +9306,8 @@
   "e:2020年我们决定自研芯片三电增程器这些核心环节我们一步步做了起来同时我们也不": "2020年，我们决定自研。 芯片、三电、增程器，这些核心环节，我们一步步做了起来。同时，我们也不",
   "e:杀生鱼丸代班redmi实测万级续航不关机不下播srmomo赖神gus联手玩机实测": "杀生鱼丸代班 REDMI 实测万级续航，不关机不下播 SR.Momo、赖神、Gus 联手玩机实测",
   "e:ai病毒开始繁殖后代甚至学会给下一代留遗书ai创造营热搜ai创作激励大赛红衣大": "AI病毒开始繁殖后代，甚至学会给下一代留遗书？ #ai创造营# #热搜AI创作激励大赛# 红衣大",
-  "e:had大升级带来更平稳更顺畅更从容的城市辅助驾驶体验": "HAD大升级，带来更平稳、更顺畅、更从容的城市辅助驾驶体验。"
+  "e:had大升级带来更平稳更顺畅更从容的城市辅助驾驶体验": "HAD大升级，带来更平稳、更顺畅、更从容的城市辅助驾驶体验。",
+  "e:一杯红豆沙拉长时间回望一次次暴跌都只是漫长上行途中的插曲但这份事后看起来轻松": "// @一杯红豆沙 :拉长时间回望，一次次暴跌，都只是漫长上行途中的插曲。但这份“事后看起来轻松"
  },
  "a_seen": {
   "马斯克宣布明年给美国每名儿童送1股spacex股票这相当于多少钱他的目的是什么": {
@@ -9468,14 +9483,38 @@
    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
    "rating": "A",
    "score": 75.25,
-   "angle": "深入AI生成代码在生产环境的伦理与实践困境",
-   "hook_reason": "开发者用AI写的代码无法调试维护，技术圈真实痛点",
+   "angle": "从工程师视角切入，探讨AI代码黑箱信任危机与落地风险，引发技术圈共鸣",
+   "hook_reason": "AI代码失控恐慌，开发者集体焦虑引爆热议",
    "url": "https://news.ycombinator.com/item?id=50151036",
    "track": "科技",
    "breaking": false,
    "event_id": "e:askhnhowtodealwithshippingaiwrittencodey"
+  },
+  "openbsd80releasewillhaveinteldrme21849c7": {
+   "key": "openbsd80releasewillhaveinteldrme21849c7",
+   "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从'拒绝非自由软件'到务实合作，OpenBSD 8.0驱动整合背后的哲学妥协与生态博弈",
+   "hook_reason": "OpenBSD首次集成Linux显卡驱动，开源圈震动的战略转向",
+   "url": "https://bsd.network/@brynet/117407035545900963",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openbsd80releasewillhaveinteldrmradeondr"
+  },
+  "puttinglinuxonmyrtxsparklaptopbeb541a0b7": {
+   "key": "puttinglinuxonmyrtxsparklaptopbeb541a0b7",
+   "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "从'不想绑微软账号'切入，写Linux在消费级GPU设备上的折腾实践，引发技术圈情绪共鸣",
+   "hook_reason": "普通人用开源对抗微软生态，打脸大厂绑定，技术极客共鸣强",
+   "url": "https://josie.lol/blog/linux-rtx-spark",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:puttinglinuxonmyrtxsparklaptopbecauseido"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
