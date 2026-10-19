@@ -7693,17 +7693,30 @@
    "batch_window": 7
   },
   {
-   "key": "巴黎斯坦",
-   "title": "巴黎斯坦。",
+   "key": "没退休就意外离世交的社保怎么办",
+   "title": "没退休就意外离世交的社保怎么办",
    "rating": "A",
-   "score": 84.85,
-   "angle": "解析'巴黎斯坦'起源、走红路径及背后的青年亚文化现象，采访网友看法",
-   "hook_reason": "新造网络热词登顶热搜，网友热议，吃瓜群众好奇心拉满",
-   "url": "https://weibo.com/7799274131/RnkO4upun",
+   "score": 75.7,
+   "angle": "社保继承政策科普+常见坑点梳理，配官方渠道指引",
+   "hook_reason": "生死大事+真金白银，戳中每个人的社保焦虑",
+   "url": "https://www.toutiao.com/trending/7697347017676439593/",
    "track": "社会热点",
    "breaking": true,
-   "event_id": "e:巴黎斯坦",
-   "batch_window": 8
+   "event_id": "e:没退休就意外离世交的社保怎么办",
+   "batch_window": 9
+  },
+  {
+   "key": "被曝光后江苏丹阳连夜通报",
+   "title": "被曝光后 江苏丹阳连夜通报",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦'连夜通报'背后的舆情发酵与政府应急机制，探讨公信力修复的时效边界",
+   "hook_reason": "曝光后连夜通报=公信力回应，公众关切政府透明度与问责速度",
+   "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%9B%9D%E5%85%89%E5%90%8E+%E6%B1%9F%E8%8B%8F%E4%B8%B9%E9%98%B3%E8%BF%9E%E5%A4%9C%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:被曝光后江苏丹阳连夜通报",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -8283,7 +8296,8 @@
   "roadster发布后特斯拉spacex仍在大跌马斯克身家四天缩水5286亿元如何解读",
   "furifontajapanesefontthatshowsfurigana",
   "投资魔女李蓓为何看空a股科技股",
-  "如何评价deepseek停摆5小时后按最近七日api消耗向用户发放补偿赠金"
+  "如何评价deepseek停摆5小时后按最近七日api消耗向用户发放补偿赠金",
+  "巴黎斯坦"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -8799,7 +8813,8 @@
   "e:roadster发布后特斯拉spacex仍在大跌马斯克身家四天缩水5286亿元如": "Roadster 发布后，特斯拉、SpaceX 仍在大跌，马斯克身家四天缩水5286亿元，如何解读？",
   "e:furifontajapanesefontthatshowsfurigana": "Furifont, a Japanese font that shows furigana",
   "e:投资魔女李蓓为何看空a股科技股": "“投资魔女”李蓓为何看空A股科技股",
-  "e:如何评价deepseek停摆5小时后按最近七日api消耗向用户发放补偿赠金": "如何评价DeepSeek停摆5小时后，按最近七日api消耗向用户发放补偿赠金？"
+  "e:如何评价deepseek停摆5小时后按最近七日api消耗向用户发放补偿赠金": "如何评价DeepSeek停摆5小时后，按最近七日api消耗向用户发放补偿赠金？",
+  "e:巴黎斯坦": "巴黎斯坦。"
  },
  "a_seen": {
   "央视曝光药企围猎老年人": {
@@ -8902,15 +8917,39 @@
    "key": "中国留学生披旭日旗引众怒细节曝光",
    "title": "中国留学生披旭日旗引众怒 细节曝光",
    "rating": "A",
-   "score": 46.75,
-   "angle": "从留学生海外行为边界与国民情绪撕裂切入，探讨身份认同与公共空间的张力",
-   "hook_reason": "留学生海外辱华引民族情绪爆发，身份认同冲突直击痛点",
+   "score": 51.11,
+   "angle": "从留学生群体公共行为边界切入，关联民族情绪与个体责任的讨论",
+   "hook_reason": "民族情绪引爆点，留学生争议行为细节待曝光",
    "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E5%BC%95%E4%BC%97%E6%80%92+%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:中国留学生课堂身披旭日旗校方调查"
+  },
+  "没退休就意外离世交的社保怎么办": {
+   "key": "没退休就意外离世交的社保怎么办",
+   "title": "没退休就意外离世交的社保怎么办",
+   "rating": "A",
+   "score": 75.7,
+   "angle": "社保继承政策科普+常见坑点梳理，配官方渠道指引",
+   "hook_reason": "生死大事+真金白银，戳中每个人的社保焦虑",
+   "url": "https://www.toutiao.com/trending/7697347017676439593/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:没退休就意外离世交的社保怎么办"
+  },
+  "被曝光后江苏丹阳连夜通报": {
+   "key": "被曝光后江苏丹阳连夜通报",
+   "title": "被曝光后 江苏丹阳连夜通报",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦'连夜通报'背后的舆情发酵与政府应急机制，探讨公信力修复的时效边界",
+   "hook_reason": "曝光后连夜通报=公信力回应，公众关切政府透明度与问责速度",
+   "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%9B%9D%E5%85%89%E5%90%8E+%E6%B1%9F%E8%8B%8F%E4%B8%B9%E9%98%B3%E8%BF%9E%E5%A4%9C%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:被曝光后江苏丹阳连夜通报"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
