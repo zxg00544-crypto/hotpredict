@@ -7875,19 +7875,6 @@
    "batch_window": 15
   },
   {
-   "key": "把房子降到150万好卖多了",
-   "title": "把房子降到150万 好卖多了",
-   "rating": "A",
-   "score": 87.31,
-   "angle": "从百万级降价看开发商清库存 desperation，刚需族入场时机与资产缩水双重焦虑",
-   "hook_reason": "降价清盘冲击千万级刚需，读者关心自身资产与买房成本",
-   "url": "https://www.baidu.com/s?wd=%E6%8A%8A%E6%88%BF%E5%AD%90%E9%99%8D%E5%88%B0150%E4%B8%87+%E5%A5%BD%E5%8D%96%E5%A4%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:把房子降到150万好卖多了",
-   "batch_window": 16
-  },
-  {
    "key": "曝披旭日旗留学生曾表达支持台独",
    "title": "曝披旭日旗留学生曾表达支持“台独”",
    "rating": "A",
@@ -7899,6 +7886,58 @@
    "breaking": true,
    "event_id": "e:曝披旭日旗留学生曾表达支持台独",
    "batch_window": 16
+  },
+  {
+   "key": "山姆回应被指品质暴跌",
+   "title": "山姆回应被指品质暴跌",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "从消费者信任危机切入，分析山姆如何重建品质口碑，以及超市行业的信任机制",
+   "hook_reason": "山姆品质暴跌引争议，消费者集体发声，企业紧急回应",
+   "url": "https://s.weibo.com/weibo?q=山姆回应被指品质暴跌",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:山姆回应被指品质暴跌",
+   "batch_window": 17
+  },
+  {
+   "key": "杀生鱼丸代班redmi实测万级续航不关机不下播srmomo赖神gus联手玩机实测",
+   "title": "杀生鱼丸代班 REDMI 实测万级续航，不关机不下播 SR.Momo、赖神、Gus 联手玩机实测",
+   "rating": "A",
+   "score": 84.9,
+   "angle": "从'不关机不下播'的极限续航挑战切入，解读红米新品电池技术突破与营销策略",
+   "hook_reason": "红米万级续航实测+头部主播不关机直播，悬念拉满",
+   "url": "https://weibo.com/1892653244/RnoDRBdlQ",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:杀生鱼丸代班redmi实测万级续航不关机不下播srmomo赖神gus联手玩机实测",
+   "batch_window": 17
+  },
+  {
+   "key": "deepseek对传统搜索的冲击有多大",
+   "title": "Deepseek对传统搜索的冲击有多大？",
+   "rating": "A",
+   "score": 78.55,
+   "angle": "从用户视角拆解Deepseek搜索能力，对比百度/谷歌，分析格局重构机会与风险",
+   "hook_reason": "Deepseek冲击百度等巨头，用户好奇AI如何颠覆传统搜索格局",
+   "url": "https://www.zhihu.com/question/13453602540",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepseek对传统搜索的冲击有多大",
+   "batch_window": 17
+  },
+  {
+   "key": "小米18pro系列系列搭载pro历史上最强的影像系统尤其是双2亿像素双大底并搭载传奇一",
+   "title": "#小米18Pro系列# 系列搭载Pro历史上最强的影像系统，尤其是双2亿像素双大底，并搭载传奇一",
+   "rating": "A",
+   "score": 49.95,
+   "angle": "从双2亿像素双大底切入，对比iPhone/S25 Ultra，解读小米影像军备竞赛的底层逻辑",
+   "hook_reason": "小米Pro史上最强影像官宣，双2亿像素引发手机摄影党围观",
+   "url": "https://weibo.com/1892653244/RnoXT97bz",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米18pro系列系列搭载pro历史上最强的影像系统尤其是双2亿像素双大底并搭载",
+   "batch_window": 17
   }
  ],
  "pushed": [
@@ -8486,7 +8525,8 @@
   "白鹿曼谷见面会宣布取消",
   "汇源集团不再生产汇源果汁",
   "梁文锋和deepseek为什么配得上国运级三个字",
-  "马克龙法国人怎么能这样对待法国"
+  "马克龙法国人怎么能这样对待法国",
+  "把房子降到150万好卖多了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -9010,7 +9050,8 @@
   "e:白鹿曼谷见面会宣布取消": "白鹿曼谷见面会宣布取消",
   "e:汇源集团不再生产汇源果汁": "汇源集团：不再生产“汇源”果汁",
   "e:梁文锋和deepseek为什么配得上国运级三个字": "梁文锋和DeepSeek，为什么配得上\"国运级\"三个字？",
-  "e:马克龙法国人怎么能这样对待法国": "马克龙：法国人怎么能这样对待法国"
+  "e:马克龙法国人怎么能这样对待法国": "马克龙：法国人怎么能这样对待法国",
+  "e:把房子降到150万好卖多了": "把房子降到150万 好卖多了"
  },
  "a_seen": {
   "央视曝光药企围猎老年人": {
@@ -9420,8 +9461,68 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:曝披旭日旗留学生曾表达支持台独"
+  },
+  "山姆回应被指品质暴跌": {
+   "key": "山姆回应被指品质暴跌",
+   "title": "山姆回应被指品质暴跌",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "从消费者信任危机切入，分析山姆如何重建品质口碑，以及超市行业的信任机制",
+   "hook_reason": "山姆品质暴跌引争议，消费者集体发声，企业紧急回应",
+   "url": "https://s.weibo.com/weibo?q=山姆回应被指品质暴跌",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:山姆回应被指品质暴跌"
+  },
+  "身披旭日旗中国留学生或被开除遣返": {
+   "key": "身披旭日旗中国留学生或被开除遣返",
+   "title": "身披旭日旗中国留学生或被开除遣返",
+   "rating": "A",
+   "score": 87.31,
+   "angle": "从事件切入，探讨留学生在海外的身份边界感与舆论宽容度",
+   "hook_reason": "民族情绪+留学生身份双重敏感，冲击爱国立场与个人自由的边界讨论",
+   "url": "https://www.baidu.com/s?wd=%E8%BA%AB%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E6%88%96%E8%A2%AB%E5%BC%80%E9%99%A4%E9%81%A3%E8%BF%94&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国留学生课堂身披旭日旗校方调查"
+  },
+  "杀生鱼丸代班redmi实测万级续航不关机不下播srmomo赖神gus联手玩机实测": {
+   "key": "杀生鱼丸代班redmi实测万级续航不关机不下播srmomo赖神gus联手玩机实测",
+   "title": "杀生鱼丸代班 REDMI 实测万级续航，不关机不下播 SR.Momo、赖神、Gus 联手玩机实测",
+   "rating": "A",
+   "score": 84.9,
+   "angle": "从'不关机不下播'的极限续航挑战切入，解读红米新品电池技术突破与营销策略",
+   "hook_reason": "红米万级续航实测+头部主播不关机直播，悬念拉满",
+   "url": "https://weibo.com/1892653244/RnoDRBdlQ",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:杀生鱼丸代班redmi实测万级续航不关机不下播srmomo赖神gus联手玩机实测"
+  },
+  "deepseek对传统搜索的冲击有多大": {
+   "key": "deepseek对传统搜索的冲击有多大",
+   "title": "Deepseek对传统搜索的冲击有多大？",
+   "rating": "A",
+   "score": 78.55,
+   "angle": "从用户视角拆解Deepseek搜索能力，对比百度/谷歌，分析格局重构机会与风险",
+   "hook_reason": "Deepseek冲击百度等巨头，用户好奇AI如何颠覆传统搜索格局",
+   "url": "https://www.zhihu.com/question/13453602540",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepseek对传统搜索的冲击有多大"
+  },
+  "小米18pro系列系列搭载pro历史上最强的影像系统尤其是双2亿像素双大底并搭载传奇一": {
+   "key": "小米18pro系列系列搭载pro历史上最强的影像系统尤其是双2亿像素双大底并搭载传奇一",
+   "title": "#小米18Pro系列# 系列搭载Pro历史上最强的影像系统，尤其是双2亿像素双大底，并搭载传奇一",
+   "rating": "A",
+   "score": 49.95,
+   "angle": "从双2亿像素双大底切入，对比iPhone/S25 Ultra，解读小米影像军备竞赛的底层逻辑",
+   "hook_reason": "小米Pro史上最强影像官宣，双2亿像素引发手机摄影党围观",
+   "url": "https://weibo.com/1892653244/RnoXT97bz",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米18pro系列系列搭载pro历史上最强的影像系统尤其是双2亿像素双大底并搭载"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 16
+ "a_pushed_window": 17
 }
