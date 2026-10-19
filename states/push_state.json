@@ -7836,19 +7836,6 @@
    "batch_window": 16
   },
   {
-   "key": "杀生鱼丸代班redmi实测万级续航不关机不下播srmomo赖神gus联手玩机实测",
-   "title": "杀生鱼丸代班 REDMI 实测万级续航，不关机不下播 SR.Momo、赖神、Gus 联手玩机实测",
-   "rating": "A",
-   "score": 84.9,
-   "angle": "从'不关机不下播'的极限续航挑战切入，解读红米新品电池技术突破与营销策略",
-   "hook_reason": "红米万级续航实测+头部主播不关机直播，悬念拉满",
-   "url": "https://weibo.com/1892653244/RnoDRBdlQ",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:杀生鱼丸代班redmi实测万级续航不关机不下播srmomo赖神gus联手玩机实测",
-   "batch_window": 17
-  },
-  {
    "key": "deepseek对传统搜索的冲击有多大",
    "title": "Deepseek对传统搜索的冲击有多大？",
    "rating": "A",
@@ -8133,6 +8120,19 @@
    "breaking": true,
    "event_id": "e:cernandmistralsignastatementofintenttoes",
    "batch_window": 3
+  },
+  {
+   "key": "ibuiltadronewithonlyonemotorvideo",
+   "title": "I built a drone with only one motor [video]",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "硬核DIY视角：一人一电机挑战物理极限，HN登顶+1h爆发",
+   "hook_reason": "单电机无人机反直觉设计，极客圈爆炸传播",
+   "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ibuiltadronewithonlyonemotorvideo",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -8741,7 +8741,8 @@
   "ontologydrivenobservabilitybuild200f3587",
   "你手里的房子是卖还是留8月28日以来国家出台救市措施现房销售和房贷贴息当下你手里的房子是",
   "欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红",
-  "2020年我们决定自研芯片三电增程器这些核心环节我们一步步做了起来同时我们也不"
+  "2020年我们决定自研芯片三电增程器这些核心环节我们一步步做了起来同时我们也不",
+  "杀生鱼丸代班redmi实测万级续航不关机不下播srmomo赖神gus联手玩机实测"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -9286,7 +9287,8 @@
   "e:ontologydrivenobservabilitybuildinganend": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
   "e:你手里的房子是卖还是留8月28日以来国家出台救市措施现房销售和房贷贴息当下你手里": "你手里的房子是卖还是留？ 8月28日以来国家出台救市措施、现房销售和房贷贴息，当下你手里的房子是",
   "e:欧洲都能造出最先进的光刻机为何造不出前沿大模型ai创造营热搜ai创作激励大赛红": "欧洲都能造出最先进的光刻机，为何造不出前沿大模型？ #ai创造营# #热搜AI创作激励大赛# 红",
-  "e:2020年我们决定自研芯片三电增程器这些核心环节我们一步步做了起来同时我们也不": "2020年，我们决定自研。 芯片、三电、增程器，这些核心环节，我们一步步做了起来。同时，我们也不"
+  "e:2020年我们决定自研芯片三电增程器这些核心环节我们一步步做了起来同时我们也不": "2020年，我们决定自研。 芯片、三电、增程器，这些核心环节，我们一步步做了起来。同时，我们也不",
+  "e:杀生鱼丸代班redmi实测万级续航不关机不下播srmomo赖神gus联手玩机实测": "杀生鱼丸代班 REDMI 实测万级续航，不关机不下播 SR.Momo、赖神、Gus 联手玩机实测"
  },
  "a_seen": {
   "马斯克宣布明年给美国每名儿童送1股spacex股票这相当于多少钱他的目的是什么": {
@@ -9378,8 +9380,8 @@
    "title": "MiniMax M3.1 Flash",
    "rating": "A",
    "score": 75.95,
-   "angle": "MiniMax M3.1 Flash登顶HN，国产大模型竞速白热化，对标国内外主流模型深度测评",
-   "hook_reason": "国产AI模型突然登顶，1小时内刷屏Hacker News",
+   "angle": "聚焦MiniMax如何在开源模型围攻下快速迭代，解读国产AI第二梯队的突围路径",
+   "hook_reason": "MiniMax登HN榜首，国产AI模型迭代速度超预期",
    "url": "https://www.minimax.io/blog/minimax-m31f",
    "track": "科技",
    "breaking": true,
@@ -9401,9 +9403,9 @@
    "key": "androidappsrunningnativeonmacos",
    "title": "Android apps running native on macOS",
    "rating": "A",
-   "score": 75.85,
-   "angle": "从开发者视角解读技术突破，分析对跨平台生态的影响",
-   "hook_reason": "安卓应用直接跑在Mac上，打破生态壁垒",
+   "score": 75.8,
+   "angle": "从技术可行性与生态冲击切入，分析跨平台原生运行的意义与潜在问题",
+   "hook_reason": "Android应用原生跑Mac上，打破生态壁垒引发开发者关注",
    "url": "https://github.com/kksimp/Mac.apk",
    "track": "科技",
    "breaking": true,
@@ -9432,8 +9434,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:cernandmistralsignastatementofintenttoes"
+  },
+  "ibuiltadronewithonlyonemotorvideo": {
+   "key": "ibuiltadronewithonlyonemotorvideo",
+   "title": "I built a drone with only one motor [video]",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "硬核DIY视角：一人一电机挑战物理极限，HN登顶+1h爆发",
+   "hook_reason": "单电机无人机反直觉设计，极客圈爆炸传播",
+   "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ibuiltadronewithonlyonemotorvideo"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
