@@ -8356,19 +8356,6 @@
    "batch_window": 13
   },
   {
-   "key": "特朗普中方在乌问题上立场很公允",
-   "title": "特朗普：中方在乌问题上立场很公允",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "特朗普历史性评价中国立场",
-   "hook_reason": "特朗普罕见肯定中方立场，打破西方叙事，触动民族情绪与地缘关切",
-   "url": "https://www.toutiao.com/trending/7697897058136604715/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:特朗普中方在乌问题上立场很公允",
-   "batch_window": 15
-  },
-  {
    "key": "showhndeathplanswitchaselfhostedc8fcd887",
    "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
    "rating": "A",
@@ -8419,6 +8406,45 @@
    "breaking": true,
    "event_id": "e:美国一战斗舰冲闯中国南沙海域",
    "batch_window": 15
+  },
+  {
+   "key": "董明珠称橘子1块5太贵不准卖",
+   "title": "董明珠称橘子1块5太贵不准卖",
+   "rating": "A",
+   "score": 81.97,
+   "angle": "从企业家言论争议切入，探讨其对消费市场的干预边界及舆论反噬",
+   "hook_reason": "企业家点评日常商品价格引争议，自带名人效应+价格敏感话题",
+   "url": "https://s.weibo.com/weibo?q=董明珠称橘子1块5太贵不准卖",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:董明珠称橘子1块5太贵不准卖",
+   "batch_window": 16
+  },
+  {
+   "key": "吃个饭的工夫自己就被直播了",
+   "title": "吃个饭的工夫 自己就被直播了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从普通上班族视角切入，探讨公共空间直播设备普及下的隐私边界与法律灰色地带",
+   "hook_reason": "打工人共鸣：日常吃饭都被直播，隐私到底在哪？",
+   "url": "https://www.baidu.com/s?wd=%E5%90%83%E4%B8%AA%E9%A5%AD%E7%9A%84%E5%B7%A5%E5%A4%AB+%E8%87%AA%E5%B7%B1%E5%B0%B1%E8%A2%AB%E7%9B%B4%E6%92%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:吃个饭的工夫自己就被直播了",
+   "batch_window": 16
+  },
+  {
+   "key": "脑瘫女孩回应被说配不上帅气男友",
+   "title": "脑瘫女孩回应被说配不上帅气男友",
+   "rating": "A",
+   "score": 85.85,
+   "angle": "从'配不配得上'的社会偏见切入，探讨残障群体的情感权利与婚恋观",
+   "hook_reason": "残障女孩爱情引争议，打破外貌与身体条件的社会偏见",
+   "url": "https://s.weibo.com/weibo?q=脑瘫女孩回应被说配不上帅气男友",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:脑瘫女孩回应被说配不上帅气男友",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -9039,7 +9065,8 @@
   "钟南山90岁了",
   "我妈是1971年出生的她是中专学历请问在那个年代中专学历相当于什么水平",
   "黄金直线下挫国际油价走低",
-  "结婚买黄金的人少了"
+  "结婚买黄金的人少了",
+  "特朗普中方在乌问题上立场很公允"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -9596,7 +9623,8 @@
   "e:钟南山90岁了": "钟南山90岁了",
   "e:我妈是1971年出生的她是中专学历请问在那个年代中专学历相当于什么水平": "我妈是1971年出生的，她是中专学历，请问在那个年代中专学历相当于什么水平？",
   "e:黄金直线下挫国际油价走低": "黄金直线下挫 国际油价走低",
-  "e:结婚买黄金的人少了": "结婚买黄金的人少了"
+  "e:结婚买黄金的人少了": "结婚买黄金的人少了",
+  "e:特朗普中方在乌问题上立场很公允": "特朗普：中方在乌问题上立场很公允"
  },
  "a_seen": {
   "马斯克宣布明年给美国每名儿童送1股spacex股票这相当于多少钱他的目的是什么": {
@@ -10162,8 +10190,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:美国一战斗舰冲闯中国南沙海域"
+  },
+  "董明珠称橘子1块5太贵不准卖": {
+   "key": "董明珠称橘子1块5太贵不准卖",
+   "title": "董明珠称橘子1块5太贵不准卖",
+   "rating": "A",
+   "score": 81.97,
+   "angle": "从企业家言论争议切入，探讨其对消费市场的干预边界及舆论反噬",
+   "hook_reason": "企业家点评日常商品价格引争议，自带名人效应+价格敏感话题",
+   "url": "https://s.weibo.com/weibo?q=董明珠称橘子1块5太贵不准卖",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:董明珠称橘子1块5太贵不准卖"
+  },
+  "吃个饭的工夫自己就被直播了": {
+   "key": "吃个饭的工夫自己就被直播了",
+   "title": "吃个饭的工夫 自己就被直播了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从普通上班族视角切入，探讨公共空间直播设备普及下的隐私边界与法律灰色地带",
+   "hook_reason": "打工人共鸣：日常吃饭都被直播，隐私到底在哪？",
+   "url": "https://www.baidu.com/s?wd=%E5%90%83%E4%B8%AA%E9%A5%AD%E7%9A%84%E5%B7%A5%E5%A4%AB+%E8%87%AA%E5%B7%B1%E5%B0%B1%E8%A2%AB%E7%9B%B4%E6%92%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:吃个饭的工夫自己就被直播了"
+  },
+  "脑瘫女孩回应被说配不上帅气男友": {
+   "key": "脑瘫女孩回应被说配不上帅气男友",
+   "title": "脑瘫女孩回应被说配不上帅气男友",
+   "rating": "A",
+   "score": 85.85,
+   "angle": "从'配不配得上'的社会偏见切入，探讨残障群体的情感权利与婚恋观",
+   "hook_reason": "残障女孩爱情引争议，打破外貌与身体条件的社会偏见",
+   "url": "https://s.weibo.com/weibo?q=脑瘫女孩回应被说配不上帅气男友",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:脑瘫女孩回应被说配不上帅气男友"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 15
+ "a_pushed_window": 16
 }
