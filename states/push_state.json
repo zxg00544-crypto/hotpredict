@@ -8499,19 +8499,6 @@
    "batch_window": 20
   },
   {
-   "key": "淘宝崩了",
-   "title": "淘宝崩了",
-   "rating": "A",
-   "score": 98.0,
-   "angle": "淘宝故障引发全民吐槽，拆解用户对电商平台的依赖焦虑与信任危机",
-   "hook_reason": "淘宝崩了影响亿万用户，刚需场景突发，情绪共鸣强",
-   "url": "https://s.weibo.com/weibo?q=淘宝崩了",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:淘宝崩了",
-   "batch_window": 22
-  },
-  {
    "key": "前三季度中国经济成绩单来了",
    "title": "前三季度中国经济“成绩单”来了",
    "rating": "A",
@@ -8523,6 +8510,58 @@
    "breaking": true,
    "event_id": "e:前三季度中国经济成绩单来了",
    "batch_window": 22
+  },
+  {
+   "key": "k100可以妥妥妥妥用一天了纵横天下沙巴克彻底没有续航焦虑啦",
+   "title": "#K100# 可以妥妥妥妥用一天了 // @纵横天下沙巴克 :彻底没有续航焦虑啦",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "从续航痛点切入，引发用户情感共鸣",
+   "hook_reason": "续航焦虑终于被解决，用户痛点直击人心",
+   "url": "https://weibo.com/1892653244/RnAj1a74c",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:k100可以妥妥妥妥用一天了纵横天下沙巴克彻底没有续航焦虑啦",
+   "batch_window": 23
+  },
+  {
+   "key": "如何看待2026年10月20日下午疑似国内所有mc相关下载被封禁",
+   "title": "如何看待2026年10月20日下午疑似国内所有mc相关下载被封禁？",
+   "rating": "A",
+   "score": 78.95,
+   "angle": "从游戏下架切入，解读国内内容合规趋势对中小开发者的影响",
+   "hook_reason": "MC玩家百万级，封禁触发集体情绪，疑为监管升级信号",
+   "url": "https://www.zhihu.com/question/2095905104423662975",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何看待2026年10月20日下午疑似国内所有mc相关下载被封禁",
+   "batch_window": 23
+  },
+  {
+   "key": "publishfakestatsgetcitedinllms",
+   "title": "Publish fake stats, get cited in LLMs",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "揭秘利用LLM训练数据漏洞的'引用操纵'战术，科技伦理+暗网玩法",
+   "hook_reason": "给AI喂假数据就能蹭引用？黑色营销术曝光",
+   "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:publishfakestatsgetcitedinllms",
+   "batch_window": 23
+  },
+  {
+   "key": "俞小平被开除党籍中国人保表态",
+   "title": "俞小平被开除党籍 中国人保表态",
+   "rating": "A",
+   "score": 65.36,
+   "angle": "从金融反腐视角切入，剖析人保系统整顿信号及对保险行业的连锁影响",
+   "hook_reason": "政治反腐+国企震动，国民关注度极高",
+   "url": "https://www.baidu.com/s?wd=%E4%BF%9E%E5%B0%8F%E5%B9%B3%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BF%9D%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:俞小平被开除党籍中国人保表态",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -9150,7 +9189,8 @@
   "女子被流浪狗咬伤后几分钟狗死亡",
   "脑瘫女孩回应被说配不上帅气男友",
   "工信部禁止车辆行驶时用零重力座椅",
-  "如何看待deepseek开源的大规模云服务推理框架deepinfer"
+  "如何看待deepseek开源的大规模云服务推理框架deepinfer",
+  "淘宝崩了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -9714,7 +9754,8 @@
   "e:女子被流浪狗咬伤后几分钟狗死亡": "女子被流浪狗咬伤后几分钟狗死亡",
   "e:脑瘫女孩回应被说配不上帅气男友": "脑瘫女孩回应被说配不上帅气男友",
   "e:工信部禁止车辆行驶时用零重力座椅": "工信部：禁止车辆行驶时用零重力座椅",
-  "e:如何看待deepseek开源的大规模云服务推理框架deepinfer": "如何看待DeepSeek开源的大规模云服务推理框架 DeepInfer ？"
+  "e:如何看待deepseek开源的大规模云服务推理框架deepinfer": "如何看待DeepSeek开源的大规模云服务推理框架 DeepInfer ？",
+  "e:淘宝崩了": "淘宝崩了"
  },
  "a_seen": {
   "马斯克宣布明年给美国每名儿童送1股spacex股票这相当于多少钱他的目的是什么": {
@@ -10460,8 +10501,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:前三季度中国经济成绩单来了"
+  },
+  "k100可以妥妥妥妥用一天了纵横天下沙巴克彻底没有续航焦虑啦": {
+   "key": "k100可以妥妥妥妥用一天了纵横天下沙巴克彻底没有续航焦虑啦",
+   "title": "#K100# 可以妥妥妥妥用一天了 // @纵横天下沙巴克 :彻底没有续航焦虑啦",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "从续航痛点切入，引发用户情感共鸣",
+   "hook_reason": "续航焦虑终于被解决，用户痛点直击人心",
+   "url": "https://weibo.com/1892653244/RnAj1a74c",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:k100可以妥妥妥妥用一天了纵横天下沙巴克彻底没有续航焦虑啦"
+  },
+  "如何看待2026年10月20日下午疑似国内所有mc相关下载被封禁": {
+   "key": "如何看待2026年10月20日下午疑似国内所有mc相关下载被封禁",
+   "title": "如何看待2026年10月20日下午疑似国内所有mc相关下载被封禁？",
+   "rating": "A",
+   "score": 78.95,
+   "angle": "从游戏下架切入，解读国内内容合规趋势对中小开发者的影响",
+   "hook_reason": "MC玩家百万级，封禁触发集体情绪，疑为监管升级信号",
+   "url": "https://www.zhihu.com/question/2095905104423662975",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何看待2026年10月20日下午疑似国内所有mc相关下载被封禁"
+  },
+  "publishfakestatsgetcitedinllms": {
+   "key": "publishfakestatsgetcitedinllms",
+   "title": "Publish fake stats, get cited in LLMs",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "揭秘利用LLM训练数据漏洞的'引用操纵'战术，科技伦理+暗网玩法",
+   "hook_reason": "给AI喂假数据就能蹭引用？黑色营销术曝光",
+   "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:publishfakestatsgetcitedinllms"
+  },
+  "俞小平被开除党籍中国人保表态": {
+   "key": "俞小平被开除党籍中国人保表态",
+   "title": "俞小平被开除党籍 中国人保表态",
+   "rating": "A",
+   "score": 65.36,
+   "angle": "从金融反腐视角切入，剖析人保系统整顿信号及对保险行业的连锁影响",
+   "hook_reason": "政治反腐+国企震动，国民关注度极高",
+   "url": "https://www.baidu.com/s?wd=%E4%BF%9E%E5%B0%8F%E5%B9%B3%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BF%9D%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:俞小平被开除党籍中国人保表态"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
