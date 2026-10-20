@@ -8460,19 +8460,6 @@
    "batch_window": 17
   },
   {
-   "key": "女子被流浪狗咬伤后几分钟狗死亡",
-   "title": "女子被流浪狗咬伤后几分钟狗死亡",
-   "rating": "A",
-   "score": 86.66,
-   "angle": "从'狗为何迅速死亡'切入，串联流浪狗管理漏洞、公共安全争议、人性围观现象三重爆点",
-   "hook_reason": "狗咬人后几分钟狗死亡，悬疑感拉满，人性与公共安全问题碰撞",
-   "url": "https://s.weibo.com/weibo?q=女子被流浪狗咬伤后几分钟狗死亡",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:女子被流浪狗咬伤后几分钟狗死亡",
-   "batch_window": 18
-  },
-  {
    "key": "deepseekjustopensourceditsinferenceengine",
    "title": "DeepSeek just open-sourced its inference engine",
    "rating": "A",
@@ -8497,6 +8484,19 @@
    "breaking": true,
    "event_id": "e:前段时间博主带锤看车周二瓶对小米澎程n70pro做了一次全车拆解从热成型钢车身铝",
    "batch_window": 18
+  },
+  {
+   "key": "钟南山心梗后仍每周运动3次",
+   "title": "钟南山心梗后仍每周运动3次",
+   "rating": "A",
+   "score": 81.9,
+   "angle": "从钟南山个人健康故事切入，提炼可复制的运动习惯，嫁接大众健康焦虑，制造'大佬也在扛'的共情",
+   "hook_reason": "国民院士+健康悬念，读者想窥探大佬养生秘笈",
+   "url": "https://s.weibo.com/weibo?q=钟南山心梗后仍每周运动3次",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:钟南山心梗后仍每周运动3次",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -9120,7 +9120,8 @@
   "结婚买黄金的人少了",
   "特朗普中方在乌问题上立场很公允",
   "吃个饭的工夫自己就被直播了",
-  "儿子逼父母还债被父亲打伤父亲免罚"
+  "儿子逼父母还债被父亲打伤父亲免罚",
+  "女子被流浪狗咬伤后几分钟狗死亡"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -9680,7 +9681,8 @@
   "e:结婚买黄金的人少了": "结婚买黄金的人少了",
   "e:特朗普中方在乌问题上立场很公允": "特朗普：中方在乌问题上立场很公允",
   "e:吃个饭的工夫自己就被直播了": "吃个饭的工夫 自己就被直播了",
-  "e:儿子逼父母还债被父亲打伤父亲免罚": "儿子逼父母还债被父亲打伤 父亲免罚"
+  "e:儿子逼父母还债被父亲打伤父亲免罚": "儿子逼父母还债被父亲打伤 父亲免罚",
+  "e:女子被流浪狗咬伤后几分钟狗死亡": "女子被流浪狗咬伤后几分钟狗死亡"
  },
  "a_seen": {
   "马斯克宣布明年给美国每名儿童送1股spacex股票这相当于多少钱他的目的是什么": {
@@ -10335,9 +10337,9 @@
    "key": "deepseekjustopensourceditsinferenceengine",
    "title": "DeepSeek just open-sourced its inference engine",
    "rating": "A",
-   "score": 77.5,
-   "angle": "从开发者视角解读开源对AI创业与国产算力替代的利好",
-   "hook_reason": "DeepSeek开源推理引擎，降低AI开发门槛，冲击英伟达生态",
+   "score": 76.5,
+   "angle": "从推理引擎开源切入，分析DeepSeek如何打破算力垄断，降低AI应用门槛，对中国AI产业格局的影响",
+   "hook_reason": "DeepSeek开源推理引擎，国产AI再次震撼，直接挑战OpenAI生态",
    "url": "https://github.com/deepseek-ai/DeepInfer",
    "track": "科技",
    "breaking": true,
@@ -10354,8 +10356,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:前段时间博主带锤看车周二瓶对小米澎程n70pro做了一次全车拆解从热成型钢车身铝"
+  },
+  "钟南山心梗后仍每周运动3次": {
+   "key": "钟南山心梗后仍每周运动3次",
+   "title": "钟南山心梗后仍每周运动3次",
+   "rating": "A",
+   "score": 81.9,
+   "angle": "从钟南山个人健康故事切入，提炼可复制的运动习惯，嫁接大众健康焦虑，制造'大佬也在扛'的共情",
+   "hook_reason": "国民院士+健康悬念，读者想窥探大佬养生秘笈",
+   "url": "https://s.weibo.com/weibo?q=钟南山心梗后仍每周运动3次",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:钟南山心梗后仍每周运动3次"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
