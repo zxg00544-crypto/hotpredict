@@ -8551,16 +8551,16 @@
    "batch_window": 6
   },
   {
-   "key": "超微盈喜公告一扫ai疑云就连竞争对手也跟着上涨",
-   "title": "超微盈喜公告一扫AI疑云 就连竞争对手也跟着上涨",
+   "key": "马斯克spacex和特斯拉旗下的terafab计划于2028年实现芯片量产",
+   "title": "马斯克：SpaceX和特斯拉旗下的Terafab计划于2028年实现芯片量产",
    "rating": "A",
-   "score": 46.85,
-   "angle": "AMD财报如何打破市场AI怀疑论，以及半导体产业链的连锁反应解读",
-   "hook_reason": "AMD盈利超预期反转AI质疑，整个产业链股票跟涨",
-   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivxrpa4735950.d.html",
-   "track": "财经",
+   "score": 46.9,
+   "angle": "从科技突围角度切入，分析特斯拉造芯背后的供应链焦虑与商业野心",
+   "hook_reason": "马斯克再放大招，特斯拉要造芯了，2028量产引发关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivxrpa4766903.d.html",
+   "track": "科技",
    "breaking": true,
-   "event_id": "e:超微盈喜公告一扫ai疑云就连竞争对手也跟着上涨",
+   "event_id": "e:马斯克spacex和特斯拉旗下的terafab计划于2028年实现芯片量产",
    "batch_window": 7
   }
  ],
@@ -9930,11 +9930,11 @@
    "key": "马斯克警告人类将被ai一击拿下",
    "title": "马斯克警告人类将被AI“一击拿下”",
    "rating": "A",
-   "score": 61.17,
-   "angle": "马斯克最新AI警告解析，人类将如何应对这场'一击'危机",
-   "hook_reason": "顶级大咖+AI终极警告，焦虑情绪拉满",
+   "score": 58.05,
+   "angle": "从AI安全视角切入，深度解读马斯克警告背后的技术逻辑与行业应对",
+   "hook_reason": "大咖对AI致命威胁警告，引发公众安全焦虑",
    "url": "https://www.toutiao.com/trending/7698722112940281386/",
-   "track": "大咖发言",
+   "track": "科技",
    "breaking": false,
    "event_id": "e:马斯克警告人类将被ai一击拿下"
   },
@@ -9950,17 +9950,29 @@
    "breaking": false,
    "event_id": "e:华为带火阔直板安卓手机集体跟进"
   },
-  "超微盈喜公告一扫ai疑云就连竞争对手也跟着上涨": {
-   "key": "超微盈喜公告一扫ai疑云就连竞争对手也跟着上涨",
-   "title": "超微盈喜公告一扫AI疑云 就连竞争对手也跟着上涨",
+  "马斯克spacex和特斯拉旗下的terafab计划于2028年实现芯片量产": {
+   "key": "马斯克spacex和特斯拉旗下的terafab计划于2028年实现芯片量产",
+   "title": "马斯克：SpaceX和特斯拉旗下的Terafab计划于2028年实现芯片量产",
    "rating": "A",
-   "score": 46.85,
-   "angle": "AMD财报如何打破市场AI怀疑论，以及半导体产业链的连锁反应解读",
-   "hook_reason": "AMD盈利超预期反转AI质疑，整个产业链股票跟涨",
-   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivxrpa4735950.d.html",
-   "track": "财经",
+   "score": 46.9,
+   "angle": "从科技突围角度切入，分析特斯拉造芯背后的供应链焦虑与商业野心",
+   "hook_reason": "马斯克再放大招，特斯拉要造芯了，2028量产引发关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivxrpa4766903.d.html",
+   "track": "科技",
    "breaking": true,
-   "event_id": "e:超微盈喜公告一扫ai疑云就连竞争对手也跟着上涨"
+   "event_id": "e:马斯克spacex和特斯拉旗下的terafab计划于2028年实现芯片量产"
+  },
+  "马斯克表示spacex和特斯拉的terafab目标是在2028年实现芯片量产": {
+   "key": "马斯克表示spacex和特斯拉的terafab目标是在2028年实现芯片量产",
+   "title": "马斯克表示，SpaceX和特斯拉的Terafab目标是在2028年实现芯片量产。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "特斯拉宣布自研芯片量产计划，直击全球半导体供应链重构，分析对英伟达/台积电的影响",
+   "hook_reason": "马斯克跨界造芯片，挑战台积电？2028年量产目标引发科技圈震动",
+   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivxrpa4764724.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克spacex和特斯拉旗下的terafab计划于2028年实现芯片量产"
   }
  },
  "breaking_count": 10,
