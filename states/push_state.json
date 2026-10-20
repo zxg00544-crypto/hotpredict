@@ -8200,19 +8200,6 @@
    "batch_window": 10
   },
   {
-   "key": "木头姐最新特斯拉目标价2031年4400美元网页链接网页链接",
-   "title": "木头姐最新特斯拉目标价：2031年4400美元！ 网页链接 网页链接",
-   "rating": "A",
-   "score": 84.9,
-   "angle": "从大咖言论切入，分析其逻辑与争议点，对比现实与预期差距，引导读者讨论",
-   "hook_reason": "木头姐喊出4400美元目标价，争议性拉满，投资者必看",
-   "url": "https://weibo.com/1249424622/RnvdP6Wfb",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:木头姐最新特斯拉目标价2031年4400美元网页链接网页链接",
-   "batch_window": 10
-  },
-  {
    "key": "如何看待c罗遭葡萄牙足协处罚停赛30天罚款255欧仍可入选下期大名单你觉得处罚力度轻吗",
    "title": "如何看待C罗遭葡萄牙足协处罚停赛30天、罚款255欧，仍可入选下期大名单？你觉得处罚力度轻吗？",
    "rating": "A",
@@ -8510,6 +8497,32 @@
    "breaking": true,
    "event_id": "e:日美利剑演习是否为介入台海做准备",
    "batch_window": 1
+  },
+  {
+   "key": "googleopensourcestorchtpuanative046b6e57",
+   "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "Google开放TPU接入PyTorch，打破AI框架垄断格局，开发者可选择性迁移，AWS Trainium面临竞争压力",
+   "hook_reason": "Google开源PyTorch原生TPU后端，开发者生态大地震",
+   "url": "https://github.com/google-pytorch/torch_tpu",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:googleopensourcestorchtpuanativepytorchb",
+   "batch_window": 2
+  },
+  {
+   "key": "英国央行委员格林要实现cpi目标需要更多薪资通胀放缓的证据",
+   "title": "英国央行委员格林：要实现CPI目标，需要更多薪资通胀放缓的证据。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "英国央行委员格林放话：薪资通胀不回落，降息就没戏。你的工资涨了多少才算够？",
+   "hook_reason": "央行官员放话暗示降息门槛，普通人最关心自己的工资够不够。",
+   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivxewx7670137.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英国央行委员格林要实现cpi目标需要更多薪资通胀放缓的证据",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -9150,7 +9163,8 @@
   "风过太平洋跳出德苏争霸的历史轮回中美关系德苏工业争霸卢克文的微博视频",
   "lpl四队承包s16瑞士轮前四场",
   "facebooknowchargingtopostmorethan2linksamonth",
-  "市场基本见底结构性行情将展开近期市场剧烈波动悲观情绪蔓延但趋势大于波动我认为此刻更需"
+  "市场基本见底结构性行情将展开近期市场剧烈波动悲观情绪蔓延但趋势大于波动我认为此刻更需",
+  "木头姐最新特斯拉目标价2031年4400美元网页链接网页链接"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -9727,7 +9741,8 @@
   "e:风过太平洋跳出德苏争霸的历史轮回中美关系德苏工业争霸卢克文的微博视频": "风过太平洋：跳出德苏争霸的历史轮回 #中美关系# #德苏# #工业# #争霸# 卢克文的微博视频",
   "e:lpl四队承包s16瑞士轮前四场": "LPL四队承包S16瑞士轮前四场",
   "e:facebooknowchargingtopostmorethan2linksa": "Facebook now charging to post more than 2 links a month",
-  "e:市场基本见底结构性行情将展开近期市场剧烈波动悲观情绪蔓延但趋势大于波动我认为此刻": "市场基本见底，结构性行情将展开 近期市场剧烈波动，悲观情绪蔓延，但趋势大于波动，我认为，此刻更需"
+  "e:市场基本见底结构性行情将展开近期市场剧烈波动悲观情绪蔓延但趋势大于波动我认为此刻": "市场基本见底，结构性行情将展开 近期市场剧烈波动，悲观情绪蔓延，但趋势大于波动，我认为，此刻更需",
+  "e:木头姐最新特斯拉目标价2031年4400美元网页链接网页链接": "木头姐最新特斯拉目标价：2031年4400美元！ 网页链接 网页链接"
  },
  "a_seen": {
   "中东酋长要把国产飞行汽车飞回家": {
@@ -9771,14 +9786,38 @@
    "title": "日美利剑演习是否为介入台海做准备",
    "rating": "A",
    "score": 46.95,
-   "angle": "从军事外交角度解读日美意图，对比历史演习模式，分析对台海格局的实际影响",
-   "hook_reason": "台海局势突发，日美军演直指中国核心利益，读者焦虑感强",
+   "angle": "从军事威慑角度切入，分析日美利剑演习对台海局势的潜在影响及各方反应",
+   "hook_reason": "台海局势敏感，日美军演直接关联，读者高度关注",
    "url": "https://www.toutiao.com/trending/7698319902914904603/",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:日美利剑演习是否为介入台海做准备"
+  },
+  "googleopensourcestorchtpuanative046b6e57": {
+   "key": "googleopensourcestorchtpuanative046b6e57",
+   "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "Google开放TPU接入PyTorch，打破AI框架垄断格局，开发者可选择性迁移，AWS Trainium面临竞争压力",
+   "hook_reason": "Google开源PyTorch原生TPU后端，开发者生态大地震",
+   "url": "https://github.com/google-pytorch/torch_tpu",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:googleopensourcestorchtpuanativepytorchb"
+  },
+  "英国央行委员格林要实现cpi目标需要更多薪资通胀放缓的证据": {
+   "key": "英国央行委员格林要实现cpi目标需要更多薪资通胀放缓的证据",
+   "title": "英国央行委员格林：要实现CPI目标，需要更多薪资通胀放缓的证据。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "英国央行委员格林放话：薪资通胀不回落，降息就没戏。你的工资涨了多少才算够？",
+   "hook_reason": "央行官员放话暗示降息门槛，普通人最关心自己的工资够不够。",
+   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivxewx7670137.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英国央行委员格林要实现cpi目标需要更多薪资通胀放缓的证据"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
