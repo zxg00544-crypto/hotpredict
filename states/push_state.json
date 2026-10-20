@@ -8278,19 +8278,6 @@
    "batch_window": 12
   },
   {
-   "key": "中国ai有笔帐必须算清楚ai创造营热搜ai创作激励大赛红衣大叔周鸿祎的微博视频",
-   "title": "中国AI，有笔帐必须算清楚！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周鸿祎的微博视频",
-   "rating": "A",
-   "score": 84.9,
-   "angle": "周鸿祎首次公开算AI投入产出账，戳破'卷参数不卷落地'的行业虚假繁荣",
-   "hook_reason": "周鸿祎炮轰AI泡沫账本，大厂沉默企业家发声引爆科技圈讨论",
-   "url": "https://weibo.com/1708942053/Rnwr73yMS",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:中国ai有笔帐必须算清楚ai创造营热搜ai创作激励大赛红衣大叔周鸿祎的微博视频",
-   "batch_window": 13
-  },
-  {
    "key": "小米新车要下饺子8款新车商标曝光",
    "title": "小米新车要下饺子 8款新车商标曝光",
    "rating": "A",
@@ -8523,6 +8510,19 @@
    "breaking": true,
    "event_id": "e:英国央行委员格林要实现cpi目标需要更多薪资通胀放缓的证据",
    "batch_window": 2
+  },
+  {
+   "key": "googlecloudoutageaffectsalmostal6eb06a7a",
+   "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+   "rating": "A",
+   "score": 40.0,
+   "angle": "从云服务商可靠性切入，盘点欧洲银行对Google Cloud的依赖及潜在风控盲区",
+   "hook_reason": "谷歌云宕机致欧洲银行停摆，直击金融人痛点",
+   "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:googlecloudoutageaffectsalmostallbanking",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -9164,7 +9164,8 @@
   "lpl四队承包s16瑞士轮前四场",
   "facebooknowchargingtopostmorethan2linksamonth",
   "市场基本见底结构性行情将展开近期市场剧烈波动悲观情绪蔓延但趋势大于波动我认为此刻更需",
-  "木头姐最新特斯拉目标价2031年4400美元网页链接网页链接"
+  "木头姐最新特斯拉目标价2031年4400美元网页链接网页链接",
+  "中国ai有笔帐必须算清楚ai创造营热搜ai创作激励大赛红衣大叔周鸿祎的微博视频"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -9742,7 +9743,8 @@
   "e:lpl四队承包s16瑞士轮前四场": "LPL四队承包S16瑞士轮前四场",
   "e:facebooknowchargingtopostmorethan2linksa": "Facebook now charging to post more than 2 links a month",
   "e:市场基本见底结构性行情将展开近期市场剧烈波动悲观情绪蔓延但趋势大于波动我认为此刻": "市场基本见底，结构性行情将展开 近期市场剧烈波动，悲观情绪蔓延，但趋势大于波动，我认为，此刻更需",
-  "e:木头姐最新特斯拉目标价2031年4400美元网页链接网页链接": "木头姐最新特斯拉目标价：2031年4400美元！ 网页链接 网页链接"
+  "e:木头姐最新特斯拉目标价2031年4400美元网页链接网页链接": "木头姐最新特斯拉目标价：2031年4400美元！ 网页链接 网页链接",
+  "e:中国ai有笔帐必须算清楚ai创造营热搜ai创作激励大赛红衣大叔周鸿祎的微博视频": "中国AI，有笔帐必须算清楚！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周鸿祎的微博视频"
  },
  "a_seen": {
   "中东酋长要把国产飞行汽车飞回家": {
@@ -9816,8 +9818,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:英国央行委员格林要实现cpi目标需要更多薪资通胀放缓的证据"
+  },
+  "deepinferhighperformanceinferencc3339d1c": {
+   "key": "deepinferhighperformanceinferencc3339d1c",
+   "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "DeepSeek发布自研推理框架DeepInfer，性能对标国内外主流方案，国内AI基建能力再获认可",
+   "hook_reason": "DeepSeek自研高性能推理框架登顶HN，国内AI基建里程碑",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何看待deepseek开源的大规模云服务推理框架deepinfer"
+  },
+  "googlecloudoutageaffectsalmostal6eb06a7a": {
+   "key": "googlecloudoutageaffectsalmostal6eb06a7a",
+   "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+   "rating": "A",
+   "score": 40.0,
+   "angle": "从云服务商可靠性切入，盘点欧洲银行对Google Cloud的依赖及潜在风控盲区",
+   "hook_reason": "谷歌云宕机致欧洲银行停摆，直击金融人痛点",
+   "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:googlecloudoutageaffectsalmostallbanking"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
