@@ -8512,16 +8512,29 @@
    "batch_window": 2
   },
   {
-   "key": "googlecloudoutageaffectsalmostal6eb06a7a",
-   "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+   "key": "谷歌claudeopus55和claudesonnet55现已在g",
+   "title": "谷歌：Claude Opus 5.5和Claude Sonnet 5.5现已在G",
    "rating": "A",
-   "score": 40.0,
-   "angle": "从云服务商可靠性切入，盘点欧洲银行对Google Cloud的依赖及潜在风控盲区",
-   "hook_reason": "谷歌云宕机致欧洲银行停摆，直击金融人痛点",
-   "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-   "track": "财经",
+   "score": 46.95,
+   "angle": "AI大模型竞争：Claude 5.5 vs 谷歌Gemini，谁代表下一代？",
+   "hook_reason": "Claude 5.5震撼发布，谷歌如何应对？AI军备竞赛升级",
+   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivxeww0950091.d.html",
+   "track": "科技",
    "breaking": true,
-   "event_id": "e:googlecloudoutageaffectsalmostallbanking",
+   "event_id": "e:谷歌claudeopus55和claudesonnet55现已在g",
+   "batch_window": 3
+  },
+  {
+   "key": "deepinferhighperformanceinferencc3339d1c",
+   "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+   "rating": "A",
+   "score": 41.29,
+   "angle": "从官方推理框架切入，分析DeepSeek生态完整性与技术护城河",
+   "hook_reason": "DeepSeek官方推出高性能推理框架，开发者生态重磅消息",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepinferhighperformanceinferenceframewo",
    "batch_window": 3
   }
  ],
@@ -9819,29 +9832,29 @@
    "breaking": true,
    "event_id": "e:英国央行委员格林要实现cpi目标需要更多薪资通胀放缓的证据"
   },
+  "谷歌claudeopus55和claudesonnet55现已在g": {
+   "key": "谷歌claudeopus55和claudesonnet55现已在g",
+   "title": "谷歌：Claude Opus 5.5和Claude Sonnet 5.5现已在G",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "AI大模型竞争：Claude 5.5 vs 谷歌Gemini，谁代表下一代？",
+   "hook_reason": "Claude 5.5震撼发布，谷歌如何应对？AI军备竞赛升级",
+   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivxeww0950091.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:谷歌claudeopus55和claudesonnet55现已在g"
+  },
   "deepinferhighperformanceinferencc3339d1c": {
    "key": "deepinferhighperformanceinferencc3339d1c",
    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
    "rating": "A",
-   "score": 40.9,
-   "angle": "DeepSeek发布自研推理框架DeepInfer，性能对标国内外主流方案，国内AI基建能力再获认可",
-   "hook_reason": "DeepSeek自研高性能推理框架登顶HN，国内AI基建里程碑",
+   "score": 41.29,
+   "angle": "从官方推理框架切入，分析DeepSeek生态完整性与技术护城河",
+   "hook_reason": "DeepSeek官方推出高性能推理框架，开发者生态重磅消息",
    "url": "https://github.com/deepseek-ai/DeepInfer",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:如何看待deepseek开源的大规模云服务推理框架deepinfer"
-  },
-  "googlecloudoutageaffectsalmostal6eb06a7a": {
-   "key": "googlecloudoutageaffectsalmostal6eb06a7a",
-   "title": "Google Cloud outage affects almost all banking and other operations in Europe",
-   "rating": "A",
-   "score": 40.0,
-   "angle": "从云服务商可靠性切入，盘点欧洲银行对Google Cloud的依赖及潜在风控盲区",
-   "hook_reason": "谷歌云宕机致欧洲银行停摆，直击金融人痛点",
-   "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:googlecloudoutageaffectsalmostallbanking"
+   "event_id": "e:deepinferhighperformanceinferenceframewo"
   }
  },
  "breaking_count": 10,
