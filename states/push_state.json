@@ -7914,19 +7914,6 @@
    "batch_window": 21
   },
   {
-   "key": "陈立武现身东京谈了什么附10大观点网页链接网页链接",
-   "title": "陈立武现身东京，谈了什么？（附10大观点） 网页链接 网页链接",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "从陈立武东京演讲拆解AI芯片版图变局，串联英特尔旧部与新东家战略",
-   "hook_reason": "英特尔前CFO跨界掌舵Cadence，东京发声10大观点引爆芯片圈",
-   "url": "https://weibo.com/1249424622/RnqBMtyqF",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:陈立武现身东京谈了什么附10大观点网页链接网页链接",
-   "batch_window": 22
-  },
-  {
    "key": "卢浮宫游客冲抗议者竖中指",
    "title": "卢浮宫游客冲抗议者竖中指",
    "rating": "A",
@@ -8536,6 +8523,19 @@
    "breaking": true,
    "event_id": "e:deepinferhighperformanceinferenceframewo",
    "batch_window": 3
+  },
+  {
+   "key": "spacex第三季度超级智能si板块资本开支16444亿美元",
+   "title": "SpaceX：第三季度超级智能（SI）板块资本开支 164.44 亿美元。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从SpaceX超级智能板块巨额资本开支切入，解读AI军备竞赛进入太空维度，科技巨头跨界重资产投入信号",
+   "hook_reason": "SpaceX烧164亿美金押AI，马斯克再搞大事",
+   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivxmeu0846319.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:spacex截至9月30日starlink个人用户订阅量达到1360万",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -9178,7 +9178,8 @@
   "facebooknowchargingtopostmorethan2linksamonth",
   "市场基本见底结构性行情将展开近期市场剧烈波动悲观情绪蔓延但趋势大于波动我认为此刻更需",
   "木头姐最新特斯拉目标价2031年4400美元网页链接网页链接",
-  "中国ai有笔帐必须算清楚ai创造营热搜ai创作激励大赛红衣大叔周鸿祎的微博视频"
+  "中国ai有笔帐必须算清楚ai创造营热搜ai创作激励大赛红衣大叔周鸿祎的微博视频",
+  "陈立武现身东京谈了什么附10大观点网页链接网页链接"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -9757,7 +9758,8 @@
   "e:facebooknowchargingtopostmorethan2linksa": "Facebook now charging to post more than 2 links a month",
   "e:市场基本见底结构性行情将展开近期市场剧烈波动悲观情绪蔓延但趋势大于波动我认为此刻": "市场基本见底，结构性行情将展开 近期市场剧烈波动，悲观情绪蔓延，但趋势大于波动，我认为，此刻更需",
   "e:木头姐最新特斯拉目标价2031年4400美元网页链接网页链接": "木头姐最新特斯拉目标价：2031年4400美元！ 网页链接 网页链接",
-  "e:中国ai有笔帐必须算清楚ai创造营热搜ai创作激励大赛红衣大叔周鸿祎的微博视频": "中国AI，有笔帐必须算清楚！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周鸿祎的微博视频"
+  "e:中国ai有笔帐必须算清楚ai创造营热搜ai创作激励大赛红衣大叔周鸿祎的微博视频": "中国AI，有笔帐必须算清楚！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周鸿祎的微博视频",
+  "e:陈立武现身东京谈了什么附10大观点网页链接网页链接": "陈立武现身东京，谈了什么？（附10大观点） 网页链接 网页链接"
  },
  "a_seen": {
   "中东酋长要把国产飞行汽车飞回家": {
@@ -9848,15 +9850,27 @@
    "key": "deepinferhighperformanceinferencc3339d1c",
    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
    "rating": "A",
-   "score": 41.29,
-   "angle": "从官方推理框架切入，分析DeepSeek生态完整性与技术护城河",
-   "hook_reason": "DeepSeek官方推出高性能推理框架，开发者生态重磅消息",
+   "score": 42.02,
+   "angle": "DeepSeek发布DeepInfer推理框架，性能如何？对比vLLM等竞品有何优势",
+   "hook_reason": "DeepSeek官方推理框架首发登顶HN，开发者关注度高",
    "url": "https://github.com/deepseek-ai/DeepInfer",
    "track": "科技",
    "breaking": true,
    "event_id": "e:deepinferhighperformanceinferenceframewo"
+  },
+  "spacex第三季度超级智能si板块资本开支16444亿美元": {
+   "key": "spacex第三季度超级智能si板块资本开支16444亿美元",
+   "title": "SpaceX：第三季度超级智能（SI）板块资本开支 164.44 亿美元。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从SpaceX超级智能板块巨额资本开支切入，解读AI军备竞赛进入太空维度，科技巨头跨界重资产投入信号",
+   "hook_reason": "SpaceX烧164亿美金押AI，马斯克再搞大事",
+   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivxmeu0846319.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:spacex截至9月30日starlink个人用户订阅量达到1360万"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
