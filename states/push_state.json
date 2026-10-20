@@ -8148,19 +8148,6 @@
    "batch_window": 7
   },
   {
-   "key": "xiaomivisiongt现已登陆gt7小米visiongt",
-   "title": "Xiaomi Vision GT现已登陆GT7。 #小米VisionGT#",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "从小米汽车破圈游戏领域切入，解读品牌年轻化战略与技术实力输出",
-   "hook_reason": "小米汽车跨界游戏圈，首个登陆GT7的品牌，破圈事件",
-   "url": "https://weibo.com/1749127163/RnuVagSUV",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:xiaomivisiongt现已登陆gt7小米visiongt",
-   "batch_window": 9
-  },
-  {
    "key": "闪迪市值一夜大增近700亿元",
    "title": "闪迪市值一夜大增近700亿元",
    "rating": "A",
@@ -8536,6 +8523,45 @@
    "breaking": true,
    "event_id": "e:spacex截至9月30日starlink个人用户订阅量达到1360万",
    "batch_window": 4
+  },
+  {
+   "key": "spacex首席运营官星链航空终端产量预计在年底前翻番星链企业业务收入与",
+   "title": "SpaceX 首席运营官：星链航空终端产量预计在年底前翻番。 星链企业业务收入与",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从星链产能翻番切入，解读SpaceX从发射运营商向全球通信基础设施提供商的跃迁，兼及中国商业航天赛道的对标思考",
+   "hook_reason": "SpaceX产能翻倍+商业收入爆发，航天商业化的里程碑信号",
+   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivxmfa7996284.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:spacex首席运营官星链航空终端产量预计在年底前翻番星链企业业务收入与",
+   "batch_window": 5
+  },
+  {
+   "key": "马斯克向特朗普账户捐80亿美元的图谋",
+   "title": "马斯克向特朗普账户捐80亿美元的图谋",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "从政治联盟与商业资本博弈角度，拆解这笔捐款背后的权力交换逻辑与马斯克战略意图",
+   "hook_reason": "80亿巨额捐款牵动政商神经，马斯克与特朗普关系走向成焦点",
+   "url": "https://www.toutiao.com/trending/7698722328774970934/",
+   "track": "大咖发言",
+   "breaking": false,
+   "event_id": "e:马斯克向特朗普账户捐80亿美元的图谋",
+   "batch_window": 5
+  },
+  {
+   "key": "马斯克警告人类将被ai一击拿下",
+   "title": "马斯克警告人类将被AI“一击拿下”",
+   "rating": "A",
+   "score": 58.05,
+   "angle": "从AI安全视角切入，深度解读马斯克警告背后的技术逻辑与行业应对",
+   "hook_reason": "大咖对AI致命威胁警告，引发公众安全焦虑",
+   "url": "https://www.toutiao.com/trending/7698722112940281386/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:马斯克警告人类将被ai一击拿下",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -9179,7 +9205,8 @@
   "市场基本见底结构性行情将展开近期市场剧烈波动悲观情绪蔓延但趋势大于波动我认为此刻更需",
   "木头姐最新特斯拉目标价2031年4400美元网页链接网页链接",
   "中国ai有笔帐必须算清楚ai创造营热搜ai创作激励大赛红衣大叔周鸿祎的微博视频",
-  "陈立武现身东京谈了什么附10大观点网页链接网页链接"
+  "陈立武现身东京谈了什么附10大观点网页链接网页链接",
+  "xiaomivisiongt现已登陆gt7小米visiongt"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -9759,7 +9786,8 @@
   "e:市场基本见底结构性行情将展开近期市场剧烈波动悲观情绪蔓延但趋势大于波动我认为此刻": "市场基本见底，结构性行情将展开 近期市场剧烈波动，悲观情绪蔓延，但趋势大于波动，我认为，此刻更需",
   "e:木头姐最新特斯拉目标价2031年4400美元网页链接网页链接": "木头姐最新特斯拉目标价：2031年4400美元！ 网页链接 网页链接",
   "e:中国ai有笔帐必须算清楚ai创造营热搜ai创作激励大赛红衣大叔周鸿祎的微博视频": "中国AI，有笔帐必须算清楚！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周鸿祎的微博视频",
-  "e:陈立武现身东京谈了什么附10大观点网页链接网页链接": "陈立武现身东京，谈了什么？（附10大观点） 网页链接 网页链接"
+  "e:陈立武现身东京谈了什么附10大观点网页链接网页链接": "陈立武现身东京，谈了什么？（附10大观点） 网页链接 网页链接",
+  "e:xiaomivisiongt现已登陆gt7小米visiongt": "Xiaomi Vision GT现已登陆GT7。 #小米VisionGT#"
  },
  "a_seen": {
   "中东酋长要把国产飞行汽车飞回家": {
@@ -9869,8 +9897,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:spacex截至9月30日starlink个人用户订阅量达到1360万"
+  },
+  "spacex首席运营官星链航空终端产量预计在年底前翻番星链企业业务收入与": {
+   "key": "spacex首席运营官星链航空终端产量预计在年底前翻番星链企业业务收入与",
+   "title": "SpaceX 首席运营官：星链航空终端产量预计在年底前翻番。 星链企业业务收入与",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从星链产能翻番切入，解读SpaceX从发射运营商向全球通信基础设施提供商的跃迁，兼及中国商业航天赛道的对标思考",
+   "hook_reason": "SpaceX产能翻倍+商业收入爆发，航天商业化的里程碑信号",
+   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivxmfa7996284.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:spacex首席运营官星链航空终端产量预计在年底前翻番星链企业业务收入与"
+  },
+  "马斯克向特朗普账户捐80亿美元的图谋": {
+   "key": "马斯克向特朗普账户捐80亿美元的图谋",
+   "title": "马斯克向特朗普账户捐80亿美元的图谋",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "从政治联盟与商业资本博弈角度，拆解这笔捐款背后的权力交换逻辑与马斯克战略意图",
+   "hook_reason": "80亿巨额捐款牵动政商神经，马斯克与特朗普关系走向成焦点",
+   "url": "https://www.toutiao.com/trending/7698722328774970934/",
+   "track": "大咖发言",
+   "breaking": false,
+   "event_id": "e:马斯克向特朗普账户捐80亿美元的图谋"
+  },
+  "马斯克警告人类将被ai一击拿下": {
+   "key": "马斯克警告人类将被ai一击拿下",
+   "title": "马斯克警告人类将被AI“一击拿下”",
+   "rating": "A",
+   "score": 58.05,
+   "angle": "从AI安全视角切入，深度解读马斯克警告背后的技术逻辑与行业应对",
+   "hook_reason": "大咖对AI致命威胁警告，引发公众安全焦虑",
+   "url": "https://www.toutiao.com/trending/7698722112940281386/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:马斯克警告人类将被ai一击拿下"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
