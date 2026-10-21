@@ -8876,19 +8876,6 @@
    "batch_window": 15
   },
   {
-   "key": "上门遛娃走红",
-   "title": "“上门遛娃”走红",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "聚焦年轻父母时间焦虑，切入新兴家政服务赛道：上门遛娃如何从需求爆发到信任难题，拆解商业模式与监管空白",
-   "hook_reason": "双职工家庭痛点+新服务形态，引发父母群体强烈共鸣与讨论",
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E9%97%A8%E9%81%9B%E5%A8%83%E2%80%9D%E8%B5%B0%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:上门遛娃走红",
-   "batch_window": 16
-  },
-  {
    "key": "在全场景丝滑安心快速针对各种case包括场景的切换小鹏ngp要做到都可以开分享mo",
    "title": "在全场景丝滑、安心、快速针对各种case，包括场景的切换，小鹏NGP要做到都可以开。分享 #MO",
    "rating": "A",
@@ -8913,6 +8900,45 @@
    "breaking": true,
    "event_id": "e:清新环境公司董事魏远接受纪律审查和监察调查",
    "batch_window": 16
+  },
+  {
+   "key": "董明珠文凭不重要",
+   "title": "董明珠：文凭不重要",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "董明珠自身大专背景逆袭，对比当代学历内卷，引发读者共鸣",
+   "hook_reason": "企业家谈学历，直击职场人痛点与争议",
+   "url": "https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E6%96%87%E5%87%AD%E4%B8%8D%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:董明珠文凭不重要",
+   "batch_window": 17
+  },
+  {
+   "key": "thedecoherencetrap",
+   "title": "The Decoherence Trap",
+   "rating": "A",
+   "score": 84.0,
+   "angle": "量子退相干陷阱：计算革命的第一道天堑",
+   "hook_reason": "量子计算头号难题被黑客新闻登顶，极客圈引爆",
+   "url": "https://maevyn.codes/decoherence",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thedecoherencetrap",
+   "batch_window": 17
+  },
+  {
+   "key": "一问界m9撞击后爆燃品牌初步核实为汽车超速撞击交通灯起火否认电池爆燃智驾撞击哪些信息值得关注",
+   "title": "一问界M9撞击后爆燃，品牌初步核实为汽车超速撞击交通灯起火，否认电池爆燃、智驾撞击，哪些信息值得关注？",
+   "rating": "A",
+   "score": 65.58,
+   "angle": "从事故还原→品牌回应→智驾责任界定，帮用户判断是否该信官方说辞",
+   "hook_reason": "问界M9撞灯起火，华为否认智驾+电池问题，安全争议引关注",
+   "url": "https://www.zhihu.com/question/2096020660657059113",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:一问界m9撞击后爆燃品牌初步核实为汽车超速撞击交通灯起火否认电池爆燃智驾撞击哪些",
+   "batch_window": 17
   }
  ],
  "pushed": [
@@ -9568,7 +9594,8 @@
   "广东人最不爱接电话",
   "陈瑜林子濠结婚",
   "中使馆预警泰方普通游客不会遭绑架",
-  "问界起火"
+  "问界起火",
+  "上门遛娃走红"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10160,7 +10187,8 @@
   "e:广东人最不爱接电话": "广东人“最不爱接电话”",
   "e:陈瑜林子濠结婚": "陈瑜林子濠结婚",
   "e:中使馆预警泰方普通游客不会遭绑架": "中使馆预警 泰方：普通游客不会遭绑架",
-  "e:问界起火": "问界起火"
+  "e:问界起火": "问界起火",
+  "e:上门遛娃走红": "“上门遛娃”走红"
  },
  "a_seen": {
   "中东酋长要把国产飞行汽车飞回家": {
@@ -10798,8 +10826,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:清新环境公司董事魏远接受纪律审查和监察调查"
+  },
+  "董明珠文凭不重要": {
+   "key": "董明珠文凭不重要",
+   "title": "董明珠：文凭不重要",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "董明珠自身大专背景逆袭，对比当代学历内卷，引发读者共鸣",
+   "hook_reason": "企业家谈学历，直击职场人痛点与争议",
+   "url": "https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E6%96%87%E5%87%AD%E4%B8%8D%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:董明珠文凭不重要"
+  },
+  "thedecoherencetrap": {
+   "key": "thedecoherencetrap",
+   "title": "The Decoherence Trap",
+   "rating": "A",
+   "score": 84.0,
+   "angle": "量子退相干陷阱：计算革命的第一道天堑",
+   "hook_reason": "量子计算头号难题被黑客新闻登顶，极客圈引爆",
+   "url": "https://maevyn.codes/decoherence",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thedecoherencetrap"
+  },
+  "一问界m9撞击后爆燃品牌初步核实为汽车超速撞击交通灯起火否认电池爆燃智驾撞击哪些信息值得关注": {
+   "key": "一问界m9撞击后爆燃品牌初步核实为汽车超速撞击交通灯起火否认电池爆燃智驾撞击哪些信息值得关注",
+   "title": "一问界M9撞击后爆燃，品牌初步核实为汽车超速撞击交通灯起火，否认电池爆燃、智驾撞击，哪些信息值得关注？",
+   "rating": "A",
+   "score": 65.58,
+   "angle": "从事故还原→品牌回应→智驾责任界定，帮用户判断是否该信官方说辞",
+   "hook_reason": "问界M9撞灯起火，华为否认智驾+电池问题，安全争议引关注",
+   "url": "https://www.zhihu.com/question/2096020660657059113",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:一问界m9撞击后爆燃品牌初步核实为汽车超速撞击交通灯起火否认电池爆燃智驾撞击哪些"
+  },
+  "问界回应车辆起火": {
+   "key": "问界回应车辆起火",
+   "title": "问界回应车辆起火",
+   "rating": "A",
+   "score": 48.99,
+   "angle": "从事故原因、品牌应对、消费者信任重建三条线切入，关联新能源车安全舆论场",
+   "hook_reason": "新能源车起火是公众高度敏感话题，问界/华为自带流量",
+   "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E5%9B%9E%E5%BA%94%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:一问界m9撞击后爆燃品牌初步核实为汽车超速撞击交通灯起火否认电池爆燃智驾撞击哪些"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 16
+ "a_pushed_window": 17
 }
