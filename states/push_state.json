@@ -8577,19 +8577,6 @@
    "batch_window": 9
   },
   {
-   "key": "世界乱成一锅粥中国安心过日子",
-   "title": "世界乱成一锅粥 中国安心过日子",
-   "rating": "A",
-   "score": 85.45,
-   "angle": "从普通人餐桌、出行、物价视角对比海外乱象，或解读'安心过日子'背后的政策底气与社会治理逻辑",
-   "hook_reason": "国际动荡对比中国安稳，精准击中安全感与民族情绪共鸣",
-   "url": "https://s.weibo.com/weibo?q=世界乱成一锅粥中国安心过日子",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:世界乱成一锅粥中国安心过日子",
-   "batch_window": 10
-  },
-  {
    "key": "樊振东发文抵制偷拍",
    "title": "樊振东发文抵制偷拍",
    "rating": "A",
@@ -8991,6 +8978,58 @@
    "breaking": true,
    "event_id": "e:摩根大通将spacex目标价翻倍至500美元维持增持评级",
    "batch_window": 19
+  },
+  {
+   "key": "14家银行叫停或限制个人异地存款",
+   "title": "14家银行叫停或限制个人异地存款",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从储户视角拆解：异地存款到底被限制了什么，钱往哪放更安全",
+   "hook_reason": "14家银行突然限购存款，直接影响普通人钱包",
+   "url": "https://www.baidu.com/s?wd=14%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%AB%E5%81%9C%E6%88%96%E9%99%90%E5%88%B6%E4%B8%AA%E4%BA%BA%E5%BC%82%E5%9C%B0%E5%AD%98%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:14家银行叫停或限制个人异地存款",
+   "batch_window": 20
+  },
+  {
+   "key": "perturbai与openai合作开发ai推理智能体加速生物医学研究",
+   "title": "PerturbAI与OpenAI合作开发AI推理智能体，加速生物医学研究",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从OpenAI突破封闭策略切入，分析AI推理智能体如何重塑生物医学研究范式",
+   "hook_reason": "OpenAI罕见跨界合作，AI+生物医学双重热点碰撞",
+   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivyxhk8106114.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:perturbai与openai合作开发ai推理智能体加速生物医学研究",
+   "batch_window": 20
+  },
+  {
+   "key": "学者中方应对美舰南海试探手段充裕",
+   "title": "学者：中方应对美舰南海试探手段充裕",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "借学者权威发声切入，解读中国应对底气背后的实力布局与信号释放",
+   "hook_reason": "中美南海对峙升级，学者放狠话，民族情绪拉满",
+   "url": "https://www.toutiao.com/trending/7699036523412327972/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:学者中方应对美舰南海试探手段充裕",
+   "batch_window": 20
+  },
+  {
+   "key": "泽连斯基愿保留75领土控制权达协议",
+   "title": "泽连斯基：愿保留75%领土控制权达协议",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从地缘政治博弈视角解读泽连斯基立场转变的深层原因及对俄乌谈判走向的影响",
+   "hook_reason": "俄乌局势重大转折信号，75%领土控制权引发强烈关注",
+   "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E4%BF%9D%E7%95%9975%25%E9%A2%86%E5%9C%9F%E6%8E%A7%E5%88%B6%E6%9D%83%E8%BE%BE%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:泽连斯基愿保留75领土控制权达协议",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -9649,7 +9688,8 @@
   "问界起火",
   "上门遛娃走红",
   "董明珠文凭不重要",
-  "以后不用躲井盖了国家出手"
+  "以后不用躲井盖了国家出手",
+  "世界乱成一锅粥中国安心过日子"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10244,7 +10284,8 @@
   "e:问界起火": "问界起火",
   "e:上门遛娃走红": "“上门遛娃”走红",
   "e:董明珠文凭不重要": "董明珠：文凭不重要",
-  "e:以后不用躲井盖了国家出手": "以后不用躲井盖了？国家出手"
+  "e:以后不用躲井盖了国家出手": "以后不用躲井盖了？国家出手",
+  "e:世界乱成一锅粥中国安心过日子": "世界乱成一锅粥 中国安心过日子"
  },
  "a_seen": {
   "中东酋长要把国产飞行汽车飞回家": {
@@ -11014,8 +11055,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:摩根大通将spacex目标价翻倍至500美元维持增持评级"
+  },
+  "14家银行叫停或限制个人异地存款": {
+   "key": "14家银行叫停或限制个人异地存款",
+   "title": "14家银行叫停或限制个人异地存款",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从储户视角拆解：异地存款到底被限制了什么，钱往哪放更安全",
+   "hook_reason": "14家银行突然限购存款，直接影响普通人钱包",
+   "url": "https://www.baidu.com/s?wd=14%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%AB%E5%81%9C%E6%88%96%E9%99%90%E5%88%B6%E4%B8%AA%E4%BA%BA%E5%BC%82%E5%9C%B0%E5%AD%98%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:14家银行叫停或限制个人异地存款"
+  },
+  "perturbai与openai合作开发ai推理智能体加速生物医学研究": {
+   "key": "perturbai与openai合作开发ai推理智能体加速生物医学研究",
+   "title": "PerturbAI与OpenAI合作开发AI推理智能体，加速生物医学研究",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从OpenAI突破封闭策略切入，分析AI推理智能体如何重塑生物医学研究范式",
+   "hook_reason": "OpenAI罕见跨界合作，AI+生物医学双重热点碰撞",
+   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivyxhk8106114.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:perturbai与openai合作开发ai推理智能体加速生物医学研究"
+  },
+  "学者中方应对美舰南海试探手段充裕": {
+   "key": "学者中方应对美舰南海试探手段充裕",
+   "title": "学者：中方应对美舰南海试探手段充裕",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "借学者权威发声切入，解读中国应对底气背后的实力布局与信号释放",
+   "hook_reason": "中美南海对峙升级，学者放狠话，民族情绪拉满",
+   "url": "https://www.toutiao.com/trending/7699036523412327972/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:学者中方应对美舰南海试探手段充裕"
+  },
+  "泽连斯基愿保留75领土控制权达协议": {
+   "key": "泽连斯基愿保留75领土控制权达协议",
+   "title": "泽连斯基：愿保留75%领土控制权达协议",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从地缘政治博弈视角解读泽连斯基立场转变的深层原因及对俄乌谈判走向的影响",
+   "hook_reason": "俄乌局势重大转折信号，75%领土控制权引发强烈关注",
+   "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E4%BF%9D%E7%95%9975%25%E9%A2%86%E5%9C%9F%E6%8E%A7%E5%88%B6%E6%9D%83%E8%BE%BE%E5%8D%8F%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:泽连斯基愿保留75领土控制权达协议"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
