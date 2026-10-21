@@ -9136,19 +9136,6 @@
    "batch_window": 2
   },
   {
-   "key": "雷军汽车产业若没有安全其他都是0",
-   "title": "雷军：汽车产业若没有安全其他都是0",
-   "rating": "A",
-   "score": 89.5,
-   "angle": "以雷军金句切入，结合近年汽车安全事故，探讨国产车企安全标准与消费者信任重建",
-   "hook_reason": "雷军谈汽车安全，车主必看的硬核观点",
-   "url": "https://www.toutiao.com/trending/7699072181955002387/",
-   "track": "大咖发言",
-   "breaking": false,
-   "event_id": "e:雷军汽车产业若没有安全其他都是0",
-   "batch_window": 2
-  },
-  {
    "key": "华尔街大佬ai确定已是大泡沫",
    "title": "华尔街大佬：AI确定已是大泡沫",
    "rating": "A",
@@ -9186,6 +9173,45 @@
    "breaking": true,
    "event_id": "e:美国准备下令撤离驻海湾多国使馆部分工作人员",
    "batch_window": 3
+  },
+  {
+   "key": "meta将发行无投票权股票为ai转型投资提供资金",
+   "title": "Meta：将发行无投票权股票，为AI转型投资提供资金。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "拆解Meta发行无投票权股票逻辑：对标谷歌、保护扎克控制权，同时为AI军备竞赛筹钱。可对比科技巨头股权设计趋势，判断是创新还是资本套路。",
+   "hook_reason": "Meta效仿Google发无投票权股，扎克伯格AI转型背后藏什么？",
+   "url": "https://finance.sina.cn/7x24/2026-10-22/detail-inivzqea8087287.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:meta将发行无投票权股票为ai转型投资提供资金",
+   "batch_window": 4
+  },
+  {
+   "key": "特斯拉本季度末乘用车积压订单规模为四年来最大",
+   "title": "特斯拉：本季度末乘用车积压订单规模为四年来最大。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从积压订单解读特斯拉交付能力瓶颈，关联股价走势与新能源车竞争格局变化",
+   "hook_reason": "特斯拉四年最强订单积压，暗示产能瓶颈还是需求暴涨？",
+   "url": "https://finance.sina.cn/7x24/2026-10-22/detail-inivzqee4859923.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:特斯拉本季度末乘用车积压订单规模为四年来最大",
+   "batch_window": 4
+  },
+  {
+   "key": "openaimodelsarecomingtogooglecloud",
+   "title": "OpenAI models are coming to Google Cloud",
+   "rating": "A",
+   "score": 75.2,
+   "angle": "OpenAI模型登陆Google Cloud，标志着AI算力竞争进入'竞合时代'，大厂联盟重塑格局",
+   "hook_reason": "OpenAI与Google两大巨头首次深度合作，AI格局变天了",
+   "url": "https://openai.com/index/openai-models-google-cloud/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:openaimodelsarecomingtogooglecloud",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -9862,7 +9888,8 @@
   "南京警方回应留学生披旭日旗事件",
   "泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看",
   "人形机器人企业纷纷倒下行业持续扩张第一批独角兽却纷纷倒下2026年上半年全球人形机器人卖",
-  "周鸿祎谈美国封杀deepseek"
+  "周鸿祎谈美国封杀deepseek",
+  "雷军汽车产业若没有安全其他都是0"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10475,7 +10502,8 @@
   "e:南京警方回应留学生披旭日旗事件": "南京警方回应留学生披旭日旗事件",
   "e:泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看": "泽连斯基表示，乌克兰愿在保留至少75%领土控制权的基础上达成和平协议，你怎么看？",
   "e:人形机器人企业纷纷倒下行业持续扩张第一批独角兽却纷纷倒下2026年上半年全球人形": "人形机器人企业纷纷倒下 行业持续扩张，第一批独角兽却纷纷倒下。2026年上半年，全球人形机器人卖",
-  "e:周鸿祎谈美国封杀deepseek": "周鸿祎谈美国“封杀”DeepSeek"
+  "e:周鸿祎谈美国封杀deepseek": "周鸿祎谈美国“封杀”DeepSeek",
+  "e:雷军汽车产业若没有安全其他都是0": "雷军：汽车产业若没有安全其他都是0"
  },
  "a_seen": {
   "年轻人盯上养老院里的新职业": {
@@ -10578,9 +10606,9 @@
    "key": "a股又一次冲高回落究竟谁在砸盘",
    "title": "A股又一次冲高回落究竟谁在砸盘",
    "rating": "A",
-   "score": 81.65,
-   "angle": "拆解资金流向与主力动向，解读冲高回落背后的逻辑，给股民一个交代",
-   "hook_reason": "A股过山车式走势引发股民愤怒与好奇，砸盘主力成众矢之的",
+   "score": 81.5,
+   "angle": "深挖砸盘主力身份，解读政策/资金面信号，给出操作参考",
+   "hook_reason": "股民切身利益+悬念式提问，引发好奇与情绪共鸣",
    "url": "https://www.toutiao.com/trending/7699114217592327743/",
    "track": "财经",
    "breaking": false,
@@ -10633,8 +10661,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:美国准备下令撤离驻海湾多国使馆部分工作人员"
+  },
+  "meta将发行无投票权股票为ai转型投资提供资金": {
+   "key": "meta将发行无投票权股票为ai转型投资提供资金",
+   "title": "Meta：将发行无投票权股票，为AI转型投资提供资金。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "拆解Meta发行无投票权股票逻辑：对标谷歌、保护扎克控制权，同时为AI军备竞赛筹钱。可对比科技巨头股权设计趋势，判断是创新还是资本套路。",
+   "hook_reason": "Meta效仿Google发无投票权股，扎克伯格AI转型背后藏什么？",
+   "url": "https://finance.sina.cn/7x24/2026-10-22/detail-inivzqea8087287.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:meta将发行无投票权股票为ai转型投资提供资金"
+  },
+  "特斯拉本季度末乘用车积压订单规模为四年来最大": {
+   "key": "特斯拉本季度末乘用车积压订单规模为四年来最大",
+   "title": "特斯拉：本季度末乘用车积压订单规模为四年来最大。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从积压订单解读特斯拉交付能力瓶颈，关联股价走势与新能源车竞争格局变化",
+   "hook_reason": "特斯拉四年最强订单积压，暗示产能瓶颈还是需求暴涨？",
+   "url": "https://finance.sina.cn/7x24/2026-10-22/detail-inivzqee4859923.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:特斯拉本季度末乘用车积压订单规模为四年来最大"
+  },
+  "mistrallarge4": {
+   "key": "mistrallarge4",
+   "title": "Mistral Large 4",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "深度解读Mistral Large 4的技术突破、性能表现，以及对中国大模型阵营的影响",
+   "hook_reason": "法国AI巨头Mistral发布旗舰大模型，性能对标主流，欧洲AI竞争升级",
+   "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:mistrallarge4"
+  },
+  "openaimodelsarecomingtogooglecloud": {
+   "key": "openaimodelsarecomingtogooglecloud",
+   "title": "OpenAI models are coming to Google Cloud",
+   "rating": "A",
+   "score": 75.2,
+   "angle": "OpenAI模型登陆Google Cloud，标志着AI算力竞争进入'竞合时代'，大厂联盟重塑格局",
+   "hook_reason": "OpenAI与Google两大巨头首次深度合作，AI格局变天了",
+   "url": "https://openai.com/index/openai-models-google-cloud/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:openaimodelsarecomingtogooglecloud"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
