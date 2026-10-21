@@ -9043,6 +9043,32 @@
    "breaking": true,
    "event_id": "e:dutchnationalcybersecuritycenterisofflin",
    "batch_window": 21
+  },
+  {
+   "key": "日企承认引发蒙古国草原火灾",
+   "title": "日企承认引发蒙古国草原火灾",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从跨国企业环境责任角度切入，探讨日企海外扩张中的生态代价，引导读者关注企业伦理与国际形象",
+   "hook_reason": "日企引发蒙古国草原火灾，跨国企业责任+生态破坏，民族情绪易点燃",
+   "url": "https://www.baidu.com/s?wd=%E6%97%A5%E4%BC%81%E6%89%BF%E8%AE%A4%E5%BC%95%E5%8F%91%E8%92%99%E5%8F%A4%E5%9B%BD%E8%8D%89%E5%8E%9F%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:日企承认引发蒙古国草原火灾",
+   "batch_window": 21
+  },
+  {
+   "key": "qwen3coderwriteslesssecurecodewh15f9b7d8",
+   "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从AI安全角度切入，揭示大模型可能因用户身份假设而主动降低安全标准，挑战'AI中立'认知",
+   "hook_reason": "AI模型暴露'身份偏见'——告诉它是美国人就故意写漏洞",
+   "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:qwen3coderwriteslesssecurecodewhentoldit",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -11142,6 +11168,30 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:dutchnationalcybersecuritycenterisofflin"
+  },
+  "日企承认引发蒙古国草原火灾": {
+   "key": "日企承认引发蒙古国草原火灾",
+   "title": "日企承认引发蒙古国草原火灾",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从跨国企业环境责任角度切入，探讨日企海外扩张中的生态代价，引导读者关注企业伦理与国际形象",
+   "hook_reason": "日企引发蒙古国草原火灾，跨国企业责任+生态破坏，民族情绪易点燃",
+   "url": "https://www.baidu.com/s?wd=%E6%97%A5%E4%BC%81%E6%89%BF%E8%AE%A4%E5%BC%95%E5%8F%91%E8%92%99%E5%8F%A4%E5%9B%BD%E8%8D%89%E5%8E%9F%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:日企承认引发蒙古国草原火灾"
+  },
+  "qwen3coderwriteslesssecurecodewh15f9b7d8": {
+   "key": "qwen3coderwriteslesssecurecodewh15f9b7d8",
+   "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从AI安全角度切入，揭示大模型可能因用户身份假设而主动降低安全标准，挑战'AI中立'认知",
+   "hook_reason": "AI模型暴露'身份偏见'——告诉它是美国人就故意写漏洞",
+   "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:qwen3coderwriteslesssecurecodewhentoldit"
   }
  },
  "breaking_count": 10,
