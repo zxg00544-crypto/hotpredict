@@ -9136,19 +9136,6 @@
    "batch_window": 2
   },
   {
-   "key": "华尔街大佬ai确定已是大泡沫",
-   "title": "华尔街大佬：AI确定已是大泡沫",
-   "rating": "A",
-   "score": 89.5,
-   "angle": "借华尔街大佬之口切入，盘点AI泡沫论历年轮回与当下真相，引发读者对行业热度的理性讨论",
-   "hook_reason": "华尔街大佬喊话AI泡沫，科技圈身份共鸣强，争议引爆点击欲",
-   "url": "https://www.toutiao.com/trending/7699032278101397028/",
-   "track": "大咖发言",
-   "breaking": false,
-   "event_id": "e:华尔街大佬ai确定已是大泡沫",
-   "batch_window": 2
-  },
-  {
    "key": "微软2026年9月黑客组织storm0940使用人工智能框架artex对全",
    "title": "微软：2026年9月，黑客组织Storm-0940使用人工智能框架Artex对全",
    "rating": "A",
@@ -9212,6 +9199,32 @@
    "breaking": false,
    "event_id": "e:openaimodelsarecomingtogooglecloud",
    "batch_window": 4
+  },
+  {
+   "key": "whywindows11stillshipswithwindowad262652",
+   "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "从技术债务与兼容性的双刃剑切入，探讨微软为何保留30年老代码及安全隐患",
+   "hook_reason": "Windows 11竟藏着95年代码？技术债还是安全炸弹",
+   "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whywindows11stillshipswithwindows95smemo",
+   "batch_window": 5
+  },
+  {
+   "key": "metahitwith25bpenaltyfordeceivin4453a27d",
+   "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从新墨西哥州司法部出手切入，剖析Meta隐私欺诈真相与监管风暴对硅谷的影响",
+   "hook_reason": "Meta被罚250亿美元，史上最大科技罚单，隐私欺诈被实锤",
+   "url": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:metahitwith25bpenaltyfordeceivingusersab",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -9889,7 +9902,8 @@
   "泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看",
   "人形机器人企业纷纷倒下行业持续扩张第一批独角兽却纷纷倒下2026年上半年全球人形机器人卖",
   "周鸿祎谈美国封杀deepseek",
-  "雷军汽车产业若没有安全其他都是0"
+  "雷军汽车产业若没有安全其他都是0",
+  "华尔街大佬ai确定已是大泡沫"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10503,7 +10517,8 @@
   "e:泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看": "泽连斯基表示，乌克兰愿在保留至少75%领土控制权的基础上达成和平协议，你怎么看？",
   "e:人形机器人企业纷纷倒下行业持续扩张第一批独角兽却纷纷倒下2026年上半年全球人形": "人形机器人企业纷纷倒下 行业持续扩张，第一批独角兽却纷纷倒下。2026年上半年，全球人形机器人卖",
   "e:周鸿祎谈美国封杀deepseek": "周鸿祎谈美国“封杀”DeepSeek",
-  "e:雷军汽车产业若没有安全其他都是0": "雷军：汽车产业若没有安全其他都是0"
+  "e:雷军汽车产业若没有安全其他都是0": "雷军：汽车产业若没有安全其他都是0",
+  "e:华尔街大佬ai确定已是大泡沫": "华尔街大佬：AI确定已是大泡沫"
  },
  "a_seen": {
   "年轻人盯上养老院里的新职业": {
@@ -10690,9 +10705,9 @@
    "key": "mistrallarge4",
    "title": "Mistral Large 4",
    "rating": "A",
-   "score": 40.95,
-   "angle": "深度解读Mistral Large 4的技术突破、性能表现，以及对中国大模型阵营的影响",
-   "hook_reason": "法国AI巨头Mistral发布旗舰大模型，性能对标主流，欧洲AI竞争升级",
+   "score": 75.95,
+   "angle": "从Mistral Large 4登顶榜单切入，对比中美模型格局变化，引发科技从业者身份共鸣",
+   "hook_reason": "欧洲AI公司硬核反超中美巨头，国产模型厂商坐不住了",
    "url": "https://docs.mistral.ai/models/mistral-large-4-0",
    "track": "科技",
    "breaking": true,
@@ -10709,8 +10724,32 @@
    "track": "科技",
    "breaking": false,
    "event_id": "e:openaimodelsarecomingtogooglecloud"
+  },
+  "whywindows11stillshipswithwindowad262652": {
+   "key": "whywindows11stillshipswithwindowad262652",
+   "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "从技术债务与兼容性的双刃剑切入，探讨微软为何保留30年老代码及安全隐患",
+   "hook_reason": "Windows 11竟藏着95年代码？技术债还是安全炸弹",
+   "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whywindows11stillshipswithwindows95smemo"
+  },
+  "metahitwith25bpenaltyfordeceivin4453a27d": {
+   "key": "metahitwith25bpenaltyfordeceivin4453a27d",
+   "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从新墨西哥州司法部出手切入，剖析Meta隐私欺诈真相与监管风暴对硅谷的影响",
+   "hook_reason": "Meta被罚250亿美元，史上最大科技罚单，隐私欺诈被实锤",
+   "url": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:metahitwith25bpenaltyfordeceivingusersab"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
