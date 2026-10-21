@@ -8928,19 +8928,6 @@
    "batch_window": 17
   },
   {
-   "key": "以后不用躲井盖了国家出手",
-   "title": "以后不用躲井盖了？国家出手",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从'井盖伤人'切入，解读国家专项行动背后的民生安全升级",
-   "hook_reason": "井盖安全涉及每家每户，国家出手直击民生痛点，读者好奇心强",
-   "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%90%8E%E4%B8%8D%E7%94%A8%E8%BA%B2%E4%BA%95%E7%9B%96%E4%BA%86%EF%BC%9F%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:以后不用躲井盖了国家出手",
-   "batch_window": 18
-  },
-  {
    "key": "国内黄金克价跌破890元",
    "title": "国内黄金克价跌破890元",
    "rating": "A",
@@ -8965,6 +8952,45 @@
    "breaking": true,
    "event_id": "e:特朗普称美援乌数千亿却一无所获",
    "batch_window": 18
+  },
+  {
+   "key": "警方回应问界汽车碰撞起火",
+   "title": "警方回应“问界汽车碰撞起火”",
+   "rating": "A",
+   "score": 82.82,
+   "angle": "从车主安全焦虑切入：碰撞后为何起火？问界电池安全该怎么看？",
+   "hook_reason": "🔥电车自燃恐慌+官方回应，车主和潜在买家必看",
+   "url": "https://www.toutiao.com/trending/7699015199226875419/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:警方回应问界汽车碰撞起火",
+   "batch_window": 19
+  },
+  {
+   "key": "the15cgoaloftheparisagreementisnolongerviable",
+   "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从UNEP报告切入，解读1.5℃目标",
+   "hook_reason": "1.5℃目标告破，人类气候底线首次失守",
+   "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:the15cgoaloftheparisagreementisnolongerv",
+   "batch_window": 19
+  },
+  {
+   "key": "摩根大通将spacex目标价翻倍至500美元维持增持评级",
+   "title": "摩根大通将SpaceX目标价翻倍至500美元，维持增持评级",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从投行视角解读SpaceX估值逻辑，分析火星殖民商业化进程",
+   "hook_reason": "摩根大通上调SpaceX估值，火星殖民前景被机构看好",
+   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivysyn8178262.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:摩根大通将spacex目标价翻倍至500美元维持增持评级",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -9622,7 +9648,8 @@
   "中使馆预警泰方普通游客不会遭绑架",
   "问界起火",
   "上门遛娃走红",
-  "董明珠文凭不重要"
+  "董明珠文凭不重要",
+  "以后不用躲井盖了国家出手"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10216,7 +10243,8 @@
   "e:中使馆预警泰方普通游客不会遭绑架": "中使馆预警 泰方：普通游客不会遭绑架",
   "e:问界起火": "问界起火",
   "e:上门遛娃走红": "“上门遛娃”走红",
-  "e:董明珠文凭不重要": "董明珠：文凭不重要"
+  "e:董明珠文凭不重要": "董明珠：文凭不重要",
+  "e:以后不用躲井盖了国家出手": "以后不用躲井盖了？国家出手"
  },
  "a_seen": {
   "中东酋长要把国产飞行汽车飞回家": {
@@ -10907,9 +10935,9 @@
    "key": "以后不用躲井盖了国家出手",
    "title": "以后不用躲井盖了？国家出手",
    "rating": "A",
-   "score": 92.0,
-   "angle": "从'井盖伤人'切入，解读国家专项行动背后的民生安全升级",
-   "hook_reason": "井盖安全涉及每家每户，国家出手直击民生痛点，读者好奇心强",
+   "score": 81.9,
+   "angle": "从政策+技术双视角切入，解读智能井盖如何根治'夺命井盖'难题，守护市民安全",
+   "hook_reason": "关乎每个人出行安全，国家出手整治，引发公众共鸣",
    "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%90%8E%E4%B8%8D%E7%94%A8%E8%BA%B2%E4%BA%95%E7%9B%96%E4%BA%86%EF%BC%9F%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
@@ -10938,8 +10966,56 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:特朗普称美援乌数千亿却一无所获"
+  },
+  "警方回应问界汽车碰撞起火": {
+   "key": "警方回应问界汽车碰撞起火",
+   "title": "警方回应“问界汽车碰撞起火”",
+   "rating": "A",
+   "score": 82.82,
+   "angle": "从车主安全焦虑切入：碰撞后为何起火？问界电池安全该怎么看？",
+   "hook_reason": "🔥电车自燃恐慌+官方回应，车主和潜在买家必看",
+   "url": "https://www.toutiao.com/trending/7699015199226875419/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:警方回应问界汽车碰撞起火"
+  },
+  "eightbitsoftrustemudhrascakeyscr4cdfdd52": {
+   "key": "eightbitsoftrustemudhrascakeyscr4cdfdd52",
+   "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从毫秒级破钥事件切入，揭示数字证书体系信任链条的脆弱性，以及对Web生态的连锁冲击",
+   "hook_reason": "CA密钥毫秒级被破解，数字信任基础设施崩塌速度远超想象",
+   "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:emudhraintermediatecacompromise"
+  },
+  "the15cgoaloftheparisagreementisnolongerviable": {
+   "key": "the15cgoaloftheparisagreementisnolongerviable",
+   "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从UNEP报告切入，解读1.5℃目标",
+   "hook_reason": "1.5℃目标告破，人类气候底线首次失守",
+   "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:the15cgoaloftheparisagreementisnolongerv"
+  },
+  "摩根大通将spacex目标价翻倍至500美元维持增持评级": {
+   "key": "摩根大通将spacex目标价翻倍至500美元维持增持评级",
+   "title": "摩根大通将SpaceX目标价翻倍至500美元，维持增持评级",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从投行视角解读SpaceX估值逻辑，分析火星殖民商业化进程",
+   "hook_reason": "摩根大通上调SpaceX估值，火星殖民前景被机构看好",
+   "url": "https://finance.sina.cn/7x24/2026-10-21/detail-inivysyn8178262.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:摩根大通将spacex目标价翻倍至500美元维持增持评级"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
