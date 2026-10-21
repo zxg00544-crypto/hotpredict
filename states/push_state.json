@@ -8837,19 +8837,6 @@
    "batch_window": 15
   },
   {
-   "key": "在全场景丝滑安心快速针对各种case包括场景的切换小鹏ngp要做到都可以开分享mo",
-   "title": "在全场景丝滑、安心、快速针对各种case，包括场景的切换，小鹏NGP要做到都可以开。分享 #MO",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "从'都能开'的技术野心切入，看小鹏智能驾驶如何重塑新能源车竞争格局",
-   "hook_reason": "小鹏释放智能驾驶全场景落地信号，科技圈/车主必点",
-   "url": "https://weibo.com/2455476364/RnHgAthAt",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:在全场景丝滑安心快速针对各种case包括场景的切换小鹏ngp要做到都可以开分享m",
-   "batch_window": 16
-  },
-  {
    "key": "清新环境公司董事魏远接受纪律审查和监察调查",
    "title": "清新环境：公司董事魏远接受纪律审查和监察调查",
    "rating": "A",
@@ -9238,6 +9225,19 @@
    "breaking": true,
    "event_id": "e:meta向扎克伯格发行新股以免财富税迫使其出售投票权股份",
    "batch_window": 6
+  },
+  {
+   "key": "metaorderedtopay25bpenaltyinnewm5faddef5",
+   "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "Meta天价罚单折射科技巨头数据垄断代价，全球监管风向转向",
+   "hook_reason": "250亿美元天价罚单，Cambridge Analytica往事重提，用户隐私集体焦虑",
+   "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:metaorderedtopay25bpenaltyinnewmexicocam",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -9917,7 +9917,8 @@
   "周鸿祎谈美国封杀deepseek",
   "雷军汽车产业若没有安全其他都是0",
   "华尔街大佬ai确定已是大泡沫",
-  "晨跑两公里两百个俯卧撑卷腹哑铃开合跳正心正念坚持做长期正确的事坚持每年看一百家公司"
+  "晨跑两公里两百个俯卧撑卷腹哑铃开合跳正心正念坚持做长期正确的事坚持每年看一百家公司",
+  "在全场景丝滑安心快速针对各种case包括场景的切换小鹏ngp要做到都可以开分享mo"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10533,7 +10534,8 @@
   "e:周鸿祎谈美国封杀deepseek": "周鸿祎谈美国“封杀”DeepSeek",
   "e:雷军汽车产业若没有安全其他都是0": "雷军：汽车产业若没有安全其他都是0",
   "e:华尔街大佬ai确定已是大泡沫": "华尔街大佬：AI确定已是大泡沫",
-  "e:晨跑两公里两百个俯卧撑卷腹哑铃开合跳正心正念坚持做长期正确的事坚持每年看一百家公": "晨跑两公里，两百个俯卧撑，卷腹，哑铃，开合跳，正心正念，坚持做长期正确的事，坚持每年看一百家公司"
+  "e:晨跑两公里两百个俯卧撑卷腹哑铃开合跳正心正念坚持做长期正确的事坚持每年看一百家公": "晨跑两公里，两百个俯卧撑，卷腹，哑铃，开合跳，正心正念，坚持做长期正确的事，坚持每年看一百家公司",
+  "e:在全场景丝滑安心快速针对各种case包括场景的切换小鹏ngp要做到都可以开分享m": "在全场景丝滑、安心、快速针对各种case，包括场景的切换，小鹏NGP要做到都可以开。分享 #MO"
  },
  "a_seen": {
   "年轻人盯上养老院里的新职业": {
@@ -10787,8 +10789,20 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:meta向扎克伯格发行新股以免财富税迫使其出售投票权股份"
+  },
+  "metaorderedtopay25bpenaltyinnewm5faddef5": {
+   "key": "metaorderedtopay25bpenaltyinnewm5faddef5",
+   "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "Meta天价罚单折射科技巨头数据垄断代价，全球监管风向转向",
+   "hook_reason": "250亿美元天价罚单，Cambridge Analytica往事重提，用户隐私集体焦虑",
+   "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:metaorderedtopay25bpenaltyinnewmexicocam"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
