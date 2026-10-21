@@ -8616,19 +8616,6 @@
    "batch_window": 11
   },
   {
-   "key": "晨跑两公里两百个俯卧撑卷腹哑铃开合跳正心正念坚持做长期正确的事坚持每年看一百家公司",
-   "title": "晨跑两公里，两百个俯卧撑，卷腹，哑铃，开合跳，正心正念，坚持做长期正确的事，坚持每年看一百家公司",
-   "rating": "A",
-   "score": 84.95,
-   "angle": "从'长期主义'切入，自律如何转化为投资视野，坚持看百家公司背后的方法论",
-   "hook_reason": "大佬自律日常+投资秘诀，读者想看成功人士真实生活",
-   "url": "https://weibo.com/5884573948/RnFnnaDFD",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:晨跑两公里两百个俯卧撑卷腹哑铃开合跳正心正念坚持做长期正确的事坚持每年看一百家公",
-   "batch_window": 12
-  },
-  {
    "key": "网友高铁偶遇自称114岁老人能熟练使用智能手机年龄真实性如何横跨民国到ai时代的人生会是怎样的",
    "title": "网友高铁偶遇自称114岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到AI时代的人生会是怎样的？",
    "rating": "A",
@@ -9225,6 +9212,32 @@
    "breaking": true,
    "event_id": "e:metahitwith25bpenaltyfordeceivingusersab",
    "batch_window": 5
+  },
+  {
+   "key": "特斯拉高管表示正在为全自动驾驶fsd构建自有地图",
+   "title": "特斯拉高管表示正在为全自动驾驶（FSD）构建自有地图。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "特斯拉从高精地图依赖转向端到端+自建地图路线，FSD中国落地加速，自动驾驶战局重写",
+   "hook_reason": "特斯拉自建地图对抗Waymo，自动驾驶格局生变",
+   "url": "https://finance.sina.cn/7x24/2026-10-22/detail-inivzumy8049571.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特斯拉高管表示正在为全自动驾驶fsd构建自有地图",
+   "batch_window": 6
+  },
+  {
+   "key": "meta向扎克伯格发行新股以免财富税迫使其出售投票权股份",
+   "title": "Meta向扎克伯格发行新股 以免财富税迫使其出售投票权股份",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从扎克伯格财富税操作切入，解读科技巨头如何用资本手段规避制度约束，探讨财富税政策的漏洞与争议",
+   "hook_reason": "硅谷首富首次动用财富税武器，财技碾压规则引热议",
+   "url": "https://finance.sina.cn/7x24/2026-10-22/detail-inivzumy8055570.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:meta向扎克伯格发行新股以免财富税迫使其出售投票权股份",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -9903,7 +9916,8 @@
   "人形机器人企业纷纷倒下行业持续扩张第一批独角兽却纷纷倒下2026年上半年全球人形机器人卖",
   "周鸿祎谈美国封杀deepseek",
   "雷军汽车产业若没有安全其他都是0",
-  "华尔街大佬ai确定已是大泡沫"
+  "华尔街大佬ai确定已是大泡沫",
+  "晨跑两公里两百个俯卧撑卷腹哑铃开合跳正心正念坚持做长期正确的事坚持每年看一百家公司"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10518,7 +10532,8 @@
   "e:人形机器人企业纷纷倒下行业持续扩张第一批独角兽却纷纷倒下2026年上半年全球人形": "人形机器人企业纷纷倒下 行业持续扩张，第一批独角兽却纷纷倒下。2026年上半年，全球人形机器人卖",
   "e:周鸿祎谈美国封杀deepseek": "周鸿祎谈美国“封杀”DeepSeek",
   "e:雷军汽车产业若没有安全其他都是0": "雷军：汽车产业若没有安全其他都是0",
-  "e:华尔街大佬ai确定已是大泡沫": "华尔街大佬：AI确定已是大泡沫"
+  "e:华尔街大佬ai确定已是大泡沫": "华尔街大佬：AI确定已是大泡沫",
+  "e:晨跑两公里两百个俯卧撑卷腹哑铃开合跳正心正念坚持做长期正确的事坚持每年看一百家公": "晨跑两公里，两百个俯卧撑，卷腹，哑铃，开合跳，正心正念，坚持做长期正确的事，坚持每年看一百家公司"
  },
  "a_seen": {
   "年轻人盯上养老院里的新职业": {
@@ -10717,9 +10732,9 @@
    "key": "openaimodelsarecomingtogooglecloud",
    "title": "OpenAI models are coming to Google Cloud",
    "rating": "A",
-   "score": 75.2,
-   "angle": "OpenAI模型登陆Google Cloud，标志着AI算力竞争进入'竞合时代'，大厂联盟重塑格局",
-   "hook_reason": "OpenAI与Google两大巨头首次深度合作，AI格局变天了",
+   "score": 77.5,
+   "angle": "OpenAI走出'围墙花园'的第一步：Google Cloud接入意味着AI民主化加速，中小开发者迎来红利窗口",
+   "hook_reason": "OpenAI首次开放主流模型到竞品云平台，AI格局巨变",
    "url": "https://openai.com/index/openai-models-google-cloud/",
    "track": "科技",
    "breaking": false,
@@ -10748,8 +10763,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:metahitwith25bpenaltyfordeceivingusersab"
+  },
+  "特斯拉高管表示正在为全自动驾驶fsd构建自有地图": {
+   "key": "特斯拉高管表示正在为全自动驾驶fsd构建自有地图",
+   "title": "特斯拉高管表示正在为全自动驾驶（FSD）构建自有地图。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "特斯拉从高精地图依赖转向端到端+自建地图路线，FSD中国落地加速，自动驾驶战局重写",
+   "hook_reason": "特斯拉自建地图对抗Waymo，自动驾驶格局生变",
+   "url": "https://finance.sina.cn/7x24/2026-10-22/detail-inivzumy8049571.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特斯拉高管表示正在为全自动驾驶fsd构建自有地图"
+  },
+  "meta向扎克伯格发行新股以免财富税迫使其出售投票权股份": {
+   "key": "meta向扎克伯格发行新股以免财富税迫使其出售投票权股份",
+   "title": "Meta向扎克伯格发行新股 以免财富税迫使其出售投票权股份",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从扎克伯格财富税操作切入，解读科技巨头如何用资本手段规避制度约束，探讨财富税政策的漏洞与争议",
+   "hook_reason": "硅谷首富首次动用财富税武器，财技碾压规则引热议",
+   "url": "https://finance.sina.cn/7x24/2026-10-22/detail-inivzumy8055570.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:meta向扎克伯格发行新股以免财富税迫使其出售投票权股份"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
