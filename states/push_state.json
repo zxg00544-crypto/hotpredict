@@ -9058,19 +9058,6 @@
    "batch_window": 21
   },
   {
-   "key": "泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看",
-   "title": "泽连斯基表示，乌克兰愿在保留至少75%领土控制权的基础上达成和平协议，你怎么看？",
-   "rating": "A",
-   "score": 86.0,
-   "angle": "从泽连斯基最新表态切入，解析75%领土含义、战场态势与和谈前景，解读对普通人的地缘影响",
-   "hook_reason": "俄乌停战曙光？75%领土底线背后是战争走向重大转折",
-   "url": "https://www.zhihu.com/question/2096328160241633097",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看",
-   "batch_window": 22
-  },
-  {
    "key": "php2shellaiuncoverscriticalrceinphp",
    "title": "PHP2Shell: AI uncovers critical RCE in PHP",
    "rating": "A",
@@ -9108,6 +9095,32 @@
    "breaking": true,
    "event_id": "e:警方回应留学生在国外身披旭日旗",
    "batch_window": 23
+  },
+  {
+   "key": "女子称被自家12斤猫踹进手术室",
+   "title": "女子称被自家12斤猫踹进手术室",
+   "rating": "A",
+   "score": 75.7,
+   "angle": "宠物安全盲区：大型猫的危险性被低估，铲屎官需警惕日常互动风险",
+   "hook_reason": "12斤猫踹人进手术室，铲屎官安全焦虑+猎奇心理双重驱动",
+   "url": "https://www.toutiao.com/trending/7699035140236017715/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子称被自家12斤猫踹进手术室",
+   "batch_window": 1
+  },
+  {
+   "key": "张益唐的数学难题被ai化为习题",
+   "title": "张益唐的数学难题被AI化为习题",
+   "rating": "A",
+   "score": 44.73,
+   "angle": "AI数学突破：从证明到自动生成习题，人类数学家地位受挑战？",
+   "hook_reason": "AI让数学泰斗难题变习题，震撼技术边界",
+   "url": "https://search.bilibili.com/all?keyword=张益唐的数学难题被AI化为习题",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:张益唐的数学难题被ai化为习题",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -9781,7 +9794,8 @@
   "俄罗斯统计局截至10月19日当周俄罗斯周度消费者通胀率为005前一周为",
   "王虹再获大奖",
   "法国总统坚决杜绝骚乱重演",
-  "南京警方回应留学生披旭日旗事件"
+  "南京警方回应留学生披旭日旗事件",
+  "泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10391,7 +10405,8 @@
   "e:俄罗斯统计局截至10月19日当周俄罗斯周度消费者通胀率为005前一周为": "俄罗斯统计局：截至10月19日当周，俄罗斯周度消费者通胀率为0.05%，前一周为",
   "e:王虹再获大奖": "王虹再获大奖",
   "e:法国总统坚决杜绝骚乱重演": "法国总统：坚决杜绝骚乱重演",
-  "e:南京警方回应留学生披旭日旗事件": "南京警方回应留学生披旭日旗事件"
+  "e:南京警方回应留学生披旭日旗事件": "南京警方回应留学生披旭日旗事件",
+  "e:泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看": "泽连斯基表示，乌克兰愿在保留至少75%领土控制权的基础上达成和平协议，你怎么看？"
  },
  "a_seen": {
   "年轻人盯上养老院里的新职业": {
@@ -10429,8 +10444,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:thenokingstakedowniswhyyoushouldntrentyo"
+  },
+  "印度ca机构emudhra私钥存严重缺陷遭各大厂商阻断将带来哪些影响": {
+   "key": "印度ca机构emudhra私钥存严重缺陷遭各大厂商阻断将带来哪些影响",
+   "title": "印度 CA 机构 eMudhra 私钥存严重缺陷遭各大厂商阻断，将带来哪些影响？",
+   "rating": "A",
+   "score": 80.5,
+   "angle": "聚焦CA信任链崩塌对全球网络安全的影响，盘点受牵连企业和用户该如何自查",
+   "hook_reason": "印度CA私钥泄露波及全球SSL认证，大厂集体阻断，数据安全再敲响警钟",
+   "url": "https://www.zhihu.com/question/2096267545154172328",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:emudhraintermediatecacompromise"
+  },
+  "女子称被自家12斤猫踹进手术室": {
+   "key": "女子称被自家12斤猫踹进手术室",
+   "title": "女子称被自家12斤猫踹进手术室",
+   "rating": "A",
+   "score": 75.7,
+   "angle": "宠物安全盲区：大型猫的危险性被低估，铲屎官需警惕日常互动风险",
+   "hook_reason": "12斤猫踹人进手术室，铲屎官安全焦虑+猎奇心理双重驱动",
+   "url": "https://www.toutiao.com/trending/7699035140236017715/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子称被自家12斤猫踹进手术室"
+  },
+  "张益唐的数学难题被ai化为习题": {
+   "key": "张益唐的数学难题被ai化为习题",
+   "title": "张益唐的数学难题被AI化为习题",
+   "rating": "A",
+   "score": 44.73,
+   "angle": "AI数学突破：从证明到自动生成习题，人类数学家地位受挑战？",
+   "hook_reason": "AI让数学泰斗难题变习题，震撼技术边界",
+   "url": "https://search.bilibili.com/all?keyword=张益唐的数学难题被AI化为习题",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:张益唐的数学难题被ai化为习题"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 0
+ "a_pushed_window": 1
 }
