@@ -9147,6 +9147,32 @@
    "breaking": false,
    "event_id": "e:a股又一次冲高回落究竟谁在砸盘",
    "batch_window": 2
+  },
+  {
+   "key": "雷军汽车产业若没有安全其他都是0",
+   "title": "雷军：汽车产业若没有安全其他都是0",
+   "rating": "A",
+   "score": 89.5,
+   "angle": "以雷军金句切入，结合近年汽车安全事故，探讨国产车企安全标准与消费者信任重建",
+   "hook_reason": "雷军谈汽车安全，车主必看的硬核观点",
+   "url": "https://www.toutiao.com/trending/7699072181955002387/",
+   "track": "大咖发言",
+   "breaking": false,
+   "event_id": "e:雷军汽车产业若没有安全其他都是0",
+   "batch_window": 2
+  },
+  {
+   "key": "华尔街大佬ai确定已是大泡沫",
+   "title": "华尔街大佬：AI确定已是大泡沫",
+   "rating": "A",
+   "score": 89.5,
+   "angle": "借华尔街大佬之口切入，盘点AI泡沫论历年轮回与当下真相，引发读者对行业热度的理性讨论",
+   "hook_reason": "华尔街大佬喊话AI泡沫，科技圈身份共鸣强，争议引爆点击欲",
+   "url": "https://www.toutiao.com/trending/7699032278101397028/",
+   "track": "大咖发言",
+   "breaking": false,
+   "event_id": "e:华尔街大佬ai确定已是大泡沫",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -10537,13 +10563,37 @@
    "key": "a股又一次冲高回落究竟谁在砸盘",
    "title": "A股又一次冲高回落究竟谁在砸盘",
    "rating": "A",
-   "score": 81.5,
-   "angle": "追踪资金流向与主力动向，解析砸盘真凶及后续走势预判",
-   "hook_reason": "A股冲高回落+砸盘悬念直击股民痛点",
+   "score": 86.5,
+   "angle": "拆解砸盘资金流向，对比历史冲高回落案例，给出散户应对策略",
+   "hook_reason": "A股急跌谁砸盘？散户血泪追问机构底牌",
    "url": "https://www.toutiao.com/trending/7699114217592327743/",
    "track": "财经",
    "breaking": false,
    "event_id": "e:a股又一次冲高回落究竟谁在砸盘"
+  },
+  "雷军汽车产业若没有安全其他都是0": {
+   "key": "雷军汽车产业若没有安全其他都是0",
+   "title": "雷军：汽车产业若没有安全其他都是0",
+   "rating": "A",
+   "score": 89.5,
+   "angle": "以雷军金句切入，结合近年汽车安全事故，探讨国产车企安全标准与消费者信任重建",
+   "hook_reason": "雷军谈汽车安全，车主必看的硬核观点",
+   "url": "https://www.toutiao.com/trending/7699072181955002387/",
+   "track": "大咖发言",
+   "breaking": false,
+   "event_id": "e:雷军汽车产业若没有安全其他都是0"
+  },
+  "华尔街大佬ai确定已是大泡沫": {
+   "key": "华尔街大佬ai确定已是大泡沫",
+   "title": "华尔街大佬：AI确定已是大泡沫",
+   "rating": "A",
+   "score": 89.5,
+   "angle": "借华尔街大佬之口切入，盘点AI泡沫论历年轮回与当下真相，引发读者对行业热度的理性讨论",
+   "hook_reason": "华尔街大佬喊话AI泡沫，科技圈身份共鸣强，争议引爆点击欲",
+   "url": "https://www.toutiao.com/trending/7699032278101397028/",
+   "track": "大咖发言",
+   "breaking": false,
+   "event_id": "e:华尔街大佬ai确定已是大泡沫"
   }
  },
  "breaking_count": 10,
