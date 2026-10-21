@@ -9045,19 +9045,6 @@
    "batch_window": 21
   },
   {
-   "key": "日企承认引发蒙古国草原火灾",
-   "title": "日企承认引发蒙古国草原火灾",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从跨国企业环境责任角度切入，探讨日企海外扩张中的生态代价，引导读者关注企业伦理与国际形象",
-   "hook_reason": "日企引发蒙古国草原火灾，跨国企业责任+生态破坏，民族情绪易点燃",
-   "url": "https://www.baidu.com/s?wd=%E6%97%A5%E4%BC%81%E6%89%BF%E8%AE%A4%E5%BC%95%E5%8F%91%E8%92%99%E5%8F%A4%E5%9B%BD%E8%8D%89%E5%8E%9F%E7%81%AB%E7%81%BE&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:日企承认引发蒙古国草原火灾",
-   "batch_window": 21
-  },
-  {
    "key": "qwen3coderwriteslesssecurecodewh15f9b7d8",
    "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
    "rating": "A",
@@ -9069,6 +9056,32 @@
    "breaking": true,
    "event_id": "e:qwen3coderwriteslesssecurecodewhentoldit",
    "batch_window": 21
+  },
+  {
+   "key": "钟睒睒押注医美",
+   "title": "钟睒睒押注医美",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从钟睒睒商业决策逻辑切入，分析农夫山泉系资本向医美赛道迁移的战略意图，配数据佐证行业增速",
+   "hook_reason": "首富钟睒睒跨界医美，商业版图再扩张，读者想看大佬下一步棋",
+   "url": "https://www.baidu.com/s?wd=%E9%92%9F%E7%9D%92%E7%9D%92%E6%8A%BC%E6%B3%A8%E5%8C%BB%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:钟睒睒押注医美",
+   "batch_window": 22
+  },
+  {
+   "key": "泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看",
+   "title": "泽连斯基表示，乌克兰愿在保留至少75%领土控制权的基础上达成和平协议，你怎么看？",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "从泽连斯基最新表态切入，解析75%领土含义、战场态势与和谈前景，解读对普通人的地缘影响",
+   "hook_reason": "俄乌停战曙光？75%领土底线背后是战争走向重大转折",
+   "url": "https://www.zhihu.com/question/2096328160241633097",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -9729,7 +9742,8 @@
   "董明珠文凭不重要",
   "以后不用躲井盖了国家出手",
   "世界乱成一锅粥中国安心过日子",
-  "14家银行叫停或限制个人异地存款"
+  "14家银行叫停或限制个人异地存款",
+  "日企承认引发蒙古国草原火灾"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10326,7 +10340,8 @@
   "e:董明珠文凭不重要": "董明珠：文凭不重要",
   "e:以后不用躲井盖了国家出手": "以后不用躲井盖了？国家出手",
   "e:世界乱成一锅粥中国安心过日子": "世界乱成一锅粥 中国安心过日子",
-  "e:14家银行叫停或限制个人异地存款": "14家银行叫停或限制个人异地存款"
+  "e:14家银行叫停或限制个人异地存款": "14家银行叫停或限制个人异地存款",
+  "e:日企承认引发蒙古国草原火灾": "日企承认引发蒙古国草原火灾"
  },
  "a_seen": {
   "中东酋长要把国产飞行汽车飞回家": {
@@ -11185,15 +11200,63 @@
    "key": "qwen3coderwriteslesssecurecodewh15f9b7d8",
    "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
    "rating": "A",
-   "score": 76.5,
-   "angle": "从AI安全角度切入，揭示大模型可能因用户身份假设而主动降低安全标准，挑战'AI中立'认知",
-   "hook_reason": "AI模型暴露'身份偏见'——告诉它是美国人就故意写漏洞",
+   "score": 75.8,
+   "angle": "AI安全研究新发现：Qwen3-Coder存在对齐漏洞，可被persona诱导降低代码安全性，引发国产大模型治理讨论",
+   "hook_reason": "国产大模型被曝可被诱导输出不安全代码，AI安全漏洞引关注",
    "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
    "track": "科技",
    "breaking": true,
    "event_id": "e:qwen3coderwriteslesssecurecodewhentoldit"
+  },
+  "钟睒睒押注医美": {
+   "key": "钟睒睒押注医美",
+   "title": "钟睒睒押注医美",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从钟睒睒商业决策逻辑切入，分析农夫山泉系资本向医美赛道迁移的战略意图，配数据佐证行业增速",
+   "hook_reason": "首富钟睒睒跨界医美，商业版图再扩张，读者想看大佬下一步棋",
+   "url": "https://www.baidu.com/s?wd=%E9%92%9F%E7%9D%92%E7%9D%92%E6%8A%BC%E6%B3%A8%E5%8C%BB%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:钟睒睒押注医美"
+  },
+  "马斯克预言钱将变得毫无意义未来衡量价值的将是物质质量功率或能量他这一猜测有什么依据吗": {
+   "key": "马斯克预言钱将变得毫无意义未来衡量价值的将是物质质量功率或能量他这一猜测有什么依据吗",
+   "title": "马斯克预言钱将变得毫无意义，未来衡量价值的将是物质质量、功率或能量，他这一猜测有什么依据吗？",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "从马斯克物理学背景切入，解析'能源本位'概念是否可行，链接当下币圈/金价波动",
+   "hook_reason": "马斯克预言钱将变废纸，用能量衡量价值，颠覆所有人认知",
+   "url": "https://www.zhihu.com/question/2096267894740838135",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克称未来金钱可能不再重要"
+  },
+  "泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看": {
+   "key": "泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看",
+   "title": "泽连斯基表示，乌克兰愿在保留至少75%领土控制权的基础上达成和平协议，你怎么看？",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "从泽连斯基最新表态切入，解析75%领土含义、战场态势与和谈前景，解读对普通人的地缘影响",
+   "hook_reason": "俄乌停战曙光？75%领土底线背后是战争走向重大转折",
+   "url": "https://www.zhihu.com/question/2096328160241633097",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看"
+  },
+  "泽连斯基愿保留75领土以达和平": {
+   "key": "泽连斯基愿保留75领土以达和平",
+   "title": "泽连斯基：愿保留75%领土以达和平",
+   "rating": "A",
+   "score": 53.17,
+   "angle": "解读泽连斯基让步75%领土背后果断求和的地缘博弈，分析对中俄欧格局冲击",
+   "hook_reason": "泽连斯基重大立场转变，俄乌战局生变",
+   "url": "https://www.toutiao.com/trending/7699090821399711295/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
