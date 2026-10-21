@@ -8603,19 +8603,6 @@
    "batch_window": 10
   },
   {
-   "key": "中使馆预警泰方普通游客不会遭绑架",
-   "title": "中使馆预警 泰方：普通游客不会遭绑架",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "使馆官方通报+泰国回应对比，辟谣背后的信息差与安全感重建",
-   "hook_reason": "外交预警+安全恐慌，出行读者切身相关",
-   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BD%BF%E9%A6%86%E9%A2%84%E8%AD%A6+%E6%B3%B0%E6%96%B9%EF%BC%9A%E6%99%AE%E9%80%9A%E6%B8%B8%E5%AE%A2%E4%B8%8D%E4%BC%9A%E9%81%AD%E7%BB%91%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:中使馆预警泰方普通游客不会遭绑架",
-   "batch_window": 11
-  },
-  {
    "key": "宁德时代a股成交额达200亿元现跌1056",
    "title": "宁德时代A股成交额达200亿元，现跌10.56%。",
    "rating": "A",
@@ -8835,6 +8822,32 @@
    "breaking": true,
    "event_id": "e:国际油价昨夜上演大逆转",
    "batch_window": 14
+  },
+  {
+   "key": "问界起火",
+   "title": "问界起火",
+   "rating": "A",
+   "score": 87.41,
+   "angle": "华为/赛力斯联手造车品牌首次重大安全事故，技术可信度与消费者安全双重危机，A/B档：科技博主实测回应+财经视角品牌市值",
+   "hook_reason": "⚡新能源起火/科技大厂造车/安全与信任双重冲击",
+   "url": "https://s.weibo.com/weibo?q=问界起火",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:问界起火",
+   "batch_window": 15
+  },
+  {
+   "key": "小天才就不能安安心心做块表吗",
+   "title": "“小天才”就不能安安心心做块表吗",
+   "rating": "A",
+   "score": 80.26,
+   "angle": "从小天才手表'加功能'争议切入，聊家长对儿童智能设备的态度：是工具还是负担",
+   "hook_reason": "家长群体的共同焦虑：孩子戴智能手表，到底该有什么功能",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%A4%A9%E6%89%8D%E2%80%9D%E5%B0%B1%E4%B8%8D%E8%83%BD%E5%AE%89%E5%AE%89%E5%BF%83%E5%BF%83%E5%81%9A%E5%9D%97%E8%A1%A8%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:小天才就不能安安心心做块表吗",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -9488,7 +9501,8 @@
   "满足这些条件微信聊天记录才能当证据",
   "法国乱成一锅粥还有人叫嚣对华强硬",
   "广东人最不爱接电话",
-  "陈瑜林子濠结婚"
+  "陈瑜林子濠结婚",
+  "中使馆预警泰方普通游客不会遭绑架"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10078,7 +10092,8 @@
   "e:满足这些条件微信聊天记录才能当证据": "满足这些条件微信聊天记录才能当证据",
   "e:法国乱成一锅粥还有人叫嚣对华强硬": "法国乱成一锅粥 还有人叫嚣对华强硬",
   "e:广东人最不爱接电话": "广东人“最不爱接电话”",
-  "e:陈瑜林子濠结婚": "陈瑜林子濠结婚"
+  "e:陈瑜林子濠结婚": "陈瑜林子濠结婚",
+  "e:中使馆预警泰方普通游客不会遭绑架": "中使馆预警 泰方：普通游客不会遭绑架"
  },
  "a_seen": {
   "中东酋长要把国产飞行汽车飞回家": {
@@ -10554,8 +10569,8 @@
    "title": "“中国AI禁令”拟出台 震动全球",
    "rating": "A",
    "score": 46.9,
-   "angle": "从禁令对国内AI企业、算力产业链、应用层的冲击切入，预判企业应对与转型路径",
-   "hook_reason": "政策突变震动全球，AI从业者命运或改写",
+   "angle": "从政策影响、产业连锁反应、中美AI博弈三方切入，拆解禁令传闻真实性及实质影响",
+   "hook_reason": "AI政策突发，震动全球，直接冲击科技从业者和投资者神经",
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BDAI%E7%A6%81%E4%BB%A4%E2%80%9D%E6%8B%9F%E5%87%BA%E5%8F%B0+%E9%9C%87%E5%8A%A8%E5%85%A8%E7%90%83&sa=fyb_news&rsv_dl=fyb_news",
    "track": "科技",
    "breaking": true,
@@ -10596,8 +10611,44 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:国际油价昨夜上演大逆转"
+  },
+  "问界起火": {
+   "key": "问界起火",
+   "title": "问界起火",
+   "rating": "A",
+   "score": 87.41,
+   "angle": "华为/赛力斯联手造车品牌首次重大安全事故，技术可信度与消费者安全双重危机，A/B档：科技博主实测回应+财经视角品牌市值",
+   "hook_reason": "⚡新能源起火/科技大厂造车/安全与信任双重冲击",
+   "url": "https://s.weibo.com/weibo?q=问界起火",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:问界起火"
+  },
+  "k100出厂搭载小米澎湃os4小米旗舰同款生命感美学体验更流畅由xiaomimim": {
+   "key": "k100出厂搭载小米澎湃os4小米旗舰同款生命感美学体验更流畅由xiaomimim",
+   "title": "K100 出厂搭载小米澎湃OS4！ 小米旗舰同款生命感美学，体验更流畅 由 Xiaomi MiM",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "小米OS升级策略背后的生态野心与用户体验优化路径",
+   "hook_reason": "米粉和科技爱好者会立刻关注小米最新OS发布",
+   "url": "https://weibo.com/1892653244/RnGI9BQuD",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:k100高刷配双芯打造游戏新基线骁龙8至尊版旗舰芯高通一代神u标准版首次搭"
+  },
+  "小天才就不能安安心心做块表吗": {
+   "key": "小天才就不能安安心心做块表吗",
+   "title": "“小天才”就不能安安心心做块表吗",
+   "rating": "A",
+   "score": 80.26,
+   "angle": "从小天才手表'加功能'争议切入，聊家长对儿童智能设备的态度：是工具还是负担",
+   "hook_reason": "家长群体的共同焦虑：孩子戴智能手表，到底该有什么功能",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E5%A4%A9%E6%89%8D%E2%80%9D%E5%B0%B1%E4%B8%8D%E8%83%BD%E5%AE%89%E5%AE%89%E5%BF%83%E5%BF%83%E5%81%9A%E5%9D%97%E8%A1%A8%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:小天才就不能安安心心做块表吗"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 14
+ "a_pushed_window": 15
 }
