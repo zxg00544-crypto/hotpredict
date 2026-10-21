@@ -8902,19 +8902,6 @@
    "batch_window": 16
   },
   {
-   "key": "董明珠文凭不重要",
-   "title": "董明珠：文凭不重要",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "董明珠自身大专背景逆袭，对比当代学历内卷，引发读者共鸣",
-   "hook_reason": "企业家谈学历，直击职场人痛点与争议",
-   "url": "https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E6%96%87%E5%87%AD%E4%B8%8D%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:董明珠文凭不重要",
-   "batch_window": 17
-  },
-  {
    "key": "thedecoherencetrap",
    "title": "The Decoherence Trap",
    "rating": "A",
@@ -8939,6 +8926,45 @@
    "breaking": true,
    "event_id": "e:一问界m9撞击后爆燃品牌初步核实为汽车超速撞击交通灯起火否认电池爆燃智驾撞击哪些",
    "batch_window": 17
+  },
+  {
+   "key": "以后不用躲井盖了国家出手",
+   "title": "以后不用躲井盖了？国家出手",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从'井盖伤人'切入，解读国家专项行动背后的民生安全升级",
+   "hook_reason": "井盖安全涉及每家每户，国家出手直击民生痛点，读者好奇心强",
+   "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%90%8E%E4%B8%8D%E7%94%A8%E8%BA%B2%E4%BA%95%E7%9B%96%E4%BA%86%EF%BC%9F%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:以后不用躲井盖了国家出手",
+   "batch_window": 18
+  },
+  {
+   "key": "国内黄金克价跌破890元",
+   "title": "国内黄金克价跌破890元",
+   "rating": "A",
+   "score": 57.45,
+   "angle": "从普通消费者和投资者双视角切入，解读跌破原因及后续走势",
+   "hook_reason": "跌破890元直击钱包，全民关心的财富话题",
+   "url": "https://www.toutiao.com/trending/7698558313675358251/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:国内黄金克价跌破890元",
+   "batch_window": 18
+  },
+  {
+   "key": "特朗普称美援乌数千亿却一无所获",
+   "title": "特朗普称美援乌数千亿却一无所获",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从'美国金主亏本逻辑'切入，拆解特朗普'美国优先' vs 实际损失的财务账，引发读者对国际援助性价比的共鸣",
+   "hook_reason": "特朗普亲口承认援乌数千亿白给，地缘博弈+金钱账本双重爆点",
+   "url": "https://www.toutiao.com/trending/7698961639017546278/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普称美援乌数千亿却一无所获",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -9595,7 +9621,8 @@
   "陈瑜林子濠结婚",
   "中使馆预警泰方普通游客不会遭绑架",
   "问界起火",
-  "上门遛娃走红"
+  "上门遛娃走红",
+  "董明珠文凭不重要"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10188,7 +10215,8 @@
   "e:陈瑜林子濠结婚": "陈瑜林子濠结婚",
   "e:中使馆预警泰方普通游客不会遭绑架": "中使馆预警 泰方：普通游客不会遭绑架",
   "e:问界起火": "问界起火",
-  "e:上门遛娃走红": "“上门遛娃”走红"
+  "e:上门遛娃走红": "“上门遛娃”走红",
+  "e:董明珠文凭不重要": "董明珠：文凭不重要"
  },
  "a_seen": {
   "中东酋长要把国产飞行汽车飞回家": {
@@ -10874,8 +10902,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:一问界m9撞击后爆燃品牌初步核实为汽车超速撞击交通灯起火否认电池爆燃智驾撞击哪些"
+  },
+  "以后不用躲井盖了国家出手": {
+   "key": "以后不用躲井盖了国家出手",
+   "title": "以后不用躲井盖了？国家出手",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从'井盖伤人'切入，解读国家专项行动背后的民生安全升级",
+   "hook_reason": "井盖安全涉及每家每户，国家出手直击民生痛点，读者好奇心强",
+   "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%90%8E%E4%B8%8D%E7%94%A8%E8%BA%B2%E4%BA%95%E7%9B%96%E4%BA%86%EF%BC%9F%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:以后不用躲井盖了国家出手"
+  },
+  "国内黄金克价跌破890元": {
+   "key": "国内黄金克价跌破890元",
+   "title": "国内黄金克价跌破890元",
+   "rating": "A",
+   "score": 57.45,
+   "angle": "从普通消费者和投资者双视角切入，解读跌破原因及后续走势",
+   "hook_reason": "跌破890元直击钱包，全民关心的财富话题",
+   "url": "https://www.toutiao.com/trending/7698558313675358251/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:国内黄金克价跌破890元"
+  },
+  "特朗普称美援乌数千亿却一无所获": {
+   "key": "特朗普称美援乌数千亿却一无所获",
+   "title": "特朗普称美援乌数千亿却一无所获",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从'美国金主亏本逻辑'切入，拆解特朗普'美国优先' vs 实际损失的财务账，引发读者对国际援助性价比的共鸣",
+   "hook_reason": "特朗普亲口承认援乌数千亿白给，地缘博弈+金钱账本双重爆点",
+   "url": "https://www.toutiao.com/trending/7698961639017546278/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普称美援乌数千亿却一无所获"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
