@@ -9058,19 +9058,6 @@
    "batch_window": 21
   },
   {
-   "key": "钟睒睒押注医美",
-   "title": "钟睒睒押注医美",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从钟睒睒商业决策逻辑切入，分析农夫山泉系资本向医美赛道迁移的战略意图，配数据佐证行业增速",
-   "hook_reason": "首富钟睒睒跨界医美，商业版图再扩张，读者想看大佬下一步棋",
-   "url": "https://www.baidu.com/s?wd=%E9%92%9F%E7%9D%92%E7%9D%92%E6%8A%BC%E6%B3%A8%E5%8C%BB%E7%BE%8E&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:钟睒睒押注医美",
-   "batch_window": 22
-  },
-  {
    "key": "泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看",
    "title": "泽连斯基表示，乌克兰愿在保留至少75%领土控制权的基础上达成和平协议，你怎么看？",
    "rating": "A",
@@ -9082,6 +9069,58 @@
    "breaking": true,
    "event_id": "e:泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看",
    "batch_window": 22
+  },
+  {
+   "key": "南京警方回应留学生披旭日旗事件",
+   "title": "南京警方回应留学生披旭日旗事件",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "聚焦事件引发的民族情绪与社会反思，探讨留学生行为边界与国民身份认同",
+   "hook_reason": "民族情绪+留学生话题，极易引发共鸣讨论",
+   "url": "https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:南京警方回应留学生披旭日旗事件",
+   "batch_window": 23
+  },
+  {
+   "key": "php2shellaiuncoverscriticalrceinphp",
+   "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "从AI辅助安全检测切入，分析PHP生态脆弱性及企业应对策略",
+   "hook_reason": "AI自动发现PHP高危漏洞，开发者安全防线再遭考验",
+   "url": "https://www.wiz.io/blog/php2shell-php-rce",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:php2shellaiuncoverscriticalrceinphp",
+   "batch_window": 23
+  },
+  {
+   "key": "唐驳虎中国老板已准备放弃越南了",
+   "title": "唐驳虎：中国老板已准备放弃越南了",
+   "rating": "A",
+   "score": 68.75,
+   "angle": "从越南制造业成本上升切入，分析中国企业家产业转移的新趋势与决策逻辑",
+   "hook_reason": "中国制造出海转向悬念，老板们最关心的投资动向",
+   "url": "https://www.toutiao.com/trending/7699071560463683126/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:唐驳虎中国老板已准备放弃越南了",
+   "batch_window": 23
+  },
+  {
+   "key": "警方回应留学生在国外身披旭日旗",
+   "title": "警方回应“留学生在国外身披旭日旗”",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从警方回应切入，探讨留学生行为边界与舆论尺度，引发身份认同讨论",
+   "hook_reason": "民族情绪+官方回应，争议性强，读者必点",
+   "url": "https://www.toutiao.com/trending/7699114472975109670/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:警方回应留学生在国外身披旭日旗",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -9743,7 +9782,8 @@
   "以后不用躲井盖了国家出手",
   "世界乱成一锅粥中国安心过日子",
   "14家银行叫停或限制个人异地存款",
-  "日企承认引发蒙古国草原火灾"
+  "日企承认引发蒙古国草原火灾",
+  "钟睒睒押注医美"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10341,7 +10381,8 @@
   "e:以后不用躲井盖了国家出手": "以后不用躲井盖了？国家出手",
   "e:世界乱成一锅粥中国安心过日子": "世界乱成一锅粥 中国安心过日子",
   "e:14家银行叫停或限制个人异地存款": "14家银行叫停或限制个人异地存款",
-  "e:日企承认引发蒙古国草原火灾": "日企承认引发蒙古国草原火灾"
+  "e:日企承认引发蒙古国草原火灾": "日企承认引发蒙古国草原火灾",
+  "e:钟睒睒押注医美": "钟睒睒押注医美"
  },
  "a_seen": {
   "中东酋长要把国产飞行汽车飞回家": {
@@ -11255,8 +11296,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:泽连斯基表示乌克兰愿在保留至少75领土控制权的基础上达成和平协议你怎么看"
+  },
+  "南京警方回应留学生披旭日旗事件": {
+   "key": "南京警方回应留学生披旭日旗事件",
+   "title": "南京警方回应留学生披旭日旗事件",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "聚焦事件引发的民族情绪与社会反思，探讨留学生行为边界与国民身份认同",
+   "hook_reason": "民族情绪+留学生话题，极易引发共鸣讨论",
+   "url": "https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:南京警方回应留学生披旭日旗事件"
+  },
+  "php2shellaiuncoverscriticalrceinphp": {
+   "key": "php2shellaiuncoverscriticalrceinphp",
+   "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "从AI辅助安全检测切入，分析PHP生态脆弱性及企业应对策略",
+   "hook_reason": "AI自动发现PHP高危漏洞，开发者安全防线再遭考验",
+   "url": "https://www.wiz.io/blog/php2shell-php-rce",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:php2shellaiuncoverscriticalrceinphp"
+  },
+  "唐驳虎中国老板已准备放弃越南了": {
+   "key": "唐驳虎中国老板已准备放弃越南了",
+   "title": "唐驳虎：中国老板已准备放弃越南了",
+   "rating": "A",
+   "score": 68.75,
+   "angle": "从越南制造业成本上升切入，分析中国企业家产业转移的新趋势与决策逻辑",
+   "hook_reason": "中国制造出海转向悬念，老板们最关心的投资动向",
+   "url": "https://www.toutiao.com/trending/7699071560463683126/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:唐驳虎中国老板已准备放弃越南了"
+  },
+  "警方回应留学生在国外身披旭日旗": {
+   "key": "警方回应留学生在国外身披旭日旗",
+   "title": "警方回应“留学生在国外身披旭日旗”",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从警方回应切入，探讨留学生行为边界与舆论尺度，引发身份认同讨论",
+   "hook_reason": "民族情绪+官方回应，争议性强，读者必点",
+   "url": "https://www.toutiao.com/trending/7699114472975109670/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:警方回应留学生在国外身披旭日旗"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
