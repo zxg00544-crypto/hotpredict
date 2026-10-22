@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-10-22",
  "a_pending": [
   {
@@ -9227,19 +9227,6 @@
    "batch_window": 9
   },
   {
-   "key": "如何评价bioware于10月22日宣布关闭为何一个诞生过博德之门等游戏的公司最终走向如此下场",
-   "title": "如何评价BioWare于10月22日宣布关闭，为何一个诞生过博德之门等游戏的公司最终走向如此下场？",
-   "rating": "A",
-   "score": 83.0,
-   "angle": "从博德之门3爆火到母公司被关，看游戏大厂泡沫破裂背后的产能困境",
-   "hook_reason": "传奇游戏公司BioWare关闭，博德之门玩家破防",
-   "url": "https://www.zhihu.com/question/2096410582849163598",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:如何评价bioware于10月22日宣布关闭为何一个诞生过博德之门等游戏的公司最",
-   "batch_window": 10
-  },
-  {
    "key": "普京称首艘油轮将向美国运4万吨柴油",
    "title": "普京称首艘油轮将向美国运4万吨柴油",
    "rating": "A",
@@ -9654,6 +9641,45 @@
    "breaking": true,
    "event_id": "e:谭乔回应二仙桥大爷又被拦下",
    "batch_window": 20
+  },
+  {
+   "key": "jailbreakingtheswitch2",
+   "title": "Jailbreaking the Switch 2",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "首发24h内被破，任天堂安全神话终结，玩家能干什么",
+   "hook_reason": "Switch 2刚发布就遭越狱，任天堂护甲秒破",
+   "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:jailbreakingtheswitch2",
+   "batch_window": 21
+  },
+  {
+   "key": "留美在读女博士答辩失利向实验室同门咖啡机投毒丙烯酰胺如何看待这一事件",
+   "title": "留美在读女博士答辩失利，向实验室同门咖啡机投毒「丙烯酰胺」，如何看待这一事件？",
+   "rating": "A",
+   "score": 43.95,
+   "angle": "聚焦学术高压生态，剖析学历光环下心理危机与人性失控的深层根源",
+   "hook_reason": "留美女博士答辩失利竟向同门咖啡投毒，极端行为引爆留学圈恐惧",
+   "url": "https://www.zhihu.com/question/2096228188099540232",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:留美在读女博士答辩失利向实验室同门咖啡机投毒丙烯酰胺如何看待这一事件",
+   "batch_window": 21
+  },
+  {
+   "key": "全球70网站都危险了",
+   "title": "全球70%网站都危险了",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "揭示漏洞成因+防护方案，强调普通用户与企业该如何自我保护",
+   "hook_reason": "全球70%网站中招，人人上网都有风险",
+   "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%8370%25%E7%BD%91%E7%AB%99%E9%83%BD%E5%8D%B1%E9%99%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:全球70网站都危险了",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -10347,7 +10373,8 @@
   "汇源集团严正声明不再生产汇源果汁",
   "全球手机销量暴跌",
   "北京市委常委夏林茂被查",
-  "加完微信只回了一个字账号就被封"
+  "加完微信只回了一个字账号就被封",
+  "如何评价bioware于10月22日宣布关闭为何一个诞生过博德之门等游戏的公司最终走向如此下场"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10977,7 +11004,8 @@
   "e:汇源集团严正声明不再生产汇源果汁": "汇源集团严正声明：不再生产汇源果汁",
   "e:全球手机销量暴跌": "全球手机销量暴跌",
   "e:北京市委常委夏林茂被查": "北京市委常委夏林茂被查",
-  "e:加完微信只回了一个字账号就被封": "加完微信只回了一个字账号就被封"
+  "e:加完微信只回了一个字账号就被封": "加完微信只回了一个字账号就被封",
+  "e:如何评价bioware于10月22日宣布关闭为何一个诞生过博德之门等游戏的公司最": "如何评价BioWare于10月22日宣布关闭，为何一个诞生过博德之门等游戏的公司最终走向如此下场？"
  },
  "a_seen": {
   "年轻人盯上养老院里的新职业": {
@@ -11819,8 +11847,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:谭乔回应二仙桥大爷又被拦下"
+  },
+  "jailbreakingtheswitch2": {
+   "key": "jailbreakingtheswitch2",
+   "title": "Jailbreaking the Switch 2",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "首发24h内被破，任天堂安全神话终结，玩家能干什么",
+   "hook_reason": "Switch 2刚发布就遭越狱，任天堂护甲秒破",
+   "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:jailbreakingtheswitch2"
+  },
+  "留美在读女博士答辩失利向实验室同门咖啡机投毒丙烯酰胺如何看待这一事件": {
+   "key": "留美在读女博士答辩失利向实验室同门咖啡机投毒丙烯酰胺如何看待这一事件",
+   "title": "留美在读女博士答辩失利，向实验室同门咖啡机投毒「丙烯酰胺」，如何看待这一事件？",
+   "rating": "A",
+   "score": 43.95,
+   "angle": "聚焦学术高压生态，剖析学历光环下心理危机与人性失控的深层根源",
+   "hook_reason": "留美女博士答辩失利竟向同门咖啡投毒，极端行为引爆留学圈恐惧",
+   "url": "https://www.zhihu.com/question/2096228188099540232",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:留美在读女博士答辩失利向实验室同门咖啡机投毒丙烯酰胺如何看待这一事件"
+  },
+  "全球70网站都危险了": {
+   "key": "全球70网站都危险了",
+   "title": "全球70%网站都危险了",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "揭示漏洞成因+防护方案，强调普通用户与企业该如何自我保护",
+   "hook_reason": "全球70%网站中招，人人上网都有风险",
+   "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%8370%25%E7%BD%91%E7%AB%99%E9%83%BD%E5%8D%B1%E9%99%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:全球70网站都危险了"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
