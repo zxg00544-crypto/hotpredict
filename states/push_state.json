@@ -8798,19 +8798,6 @@
    "batch_window": 18
   },
   {
-   "key": "警方回应问界汽车碰撞起火",
-   "title": "警方回应“问界汽车碰撞起火”",
-   "rating": "A",
-   "score": 82.82,
-   "angle": "从车主安全焦虑切入：碰撞后为何起火？问界电池安全该怎么看？",
-   "hook_reason": "🔥电车自燃恐慌+官方回应，车主和潜在买家必看",
-   "url": "https://www.toutiao.com/trending/7699015199226875419/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:警方回应问界汽车碰撞起火",
-   "batch_window": 19
-  },
-  {
    "key": "the15cgoaloftheparisagreementisnolongerviable",
    "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
    "rating": "A",
@@ -9706,6 +9693,45 @@
    "breaking": true,
    "event_id": "e:李雪健配合ai声音登长征文艺晚会",
    "batch_window": 21
+  },
+  {
+   "key": "一张快递单能扒出多少秘密",
+   "title": "一张快递单能扒出多少秘密",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从普通人视角切入，拆解快递单信息泄露链条，关联近期曝光的隐私滥用案例，给出自保清单",
+   "hook_reason": "人人收快递，隐私命门被掀开，读者有代入感和危机感",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%BC%A0%E5%BF%AB%E9%80%92%E5%8D%95%E8%83%BD%E6%89%92%E5%87%BA%E5%A4%9A%E5%B0%91%E7%A7%98%E5%AF%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:一张快递单能扒出多少秘密",
+   "batch_window": 22
+  },
+  {
+   "key": "时速400公里的高铁真要来了吗",
+   "title": "时速400公里的高铁真要来了吗",
+   "rating": "A",
+   "score": 84.0,
+   "angle": "技术突破视角：400公里高铁如何重塑国人出行格局与中国智造全球竞争力",
+   "hook_reason": "时速400公里高铁颠覆出行认知，国民自豪感+技术悬念双重引爆",
+   "url": "https://www.toutiao.com/trending/7699455738569051667/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:时速400公里的高铁真要来了吗",
+   "batch_window": 22
+  },
+  {
+   "key": "womanfacessixyearsinprisonoverca9475f1bd",
+   "title": "Woman faces six years in prison over Cash App account she never opened",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "聚焦普通人被系统误伤的司法漏洞，Cash App等平台身份验证缺失导致极端后果",
+   "hook_reason": "普通人因从未注册的支付账户面临6年监禁，司法+平台双重漏洞直击安全感",
+   "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:womanfacessixyearsinprisonovercashappacc",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -10400,7 +10426,8 @@
   "全球手机销量暴跌",
   "北京市委常委夏林茂被查",
   "加完微信只回了一个字账号就被封",
-  "如何评价bioware于10月22日宣布关闭为何一个诞生过博德之门等游戏的公司最终走向如此下场"
+  "如何评价bioware于10月22日宣布关闭为何一个诞生过博德之门等游戏的公司最终走向如此下场",
+  "警方回应问界汽车碰撞起火"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11031,7 +11058,8 @@
   "e:全球手机销量暴跌": "全球手机销量暴跌",
   "e:北京市委常委夏林茂被查": "北京市委常委夏林茂被查",
   "e:加完微信只回了一个字账号就被封": "加完微信只回了一个字账号就被封",
-  "e:如何评价bioware于10月22日宣布关闭为何一个诞生过博德之门等游戏的公司最": "如何评价BioWare于10月22日宣布关闭，为何一个诞生过博德之门等游戏的公司最终走向如此下场？"
+  "e:如何评价bioware于10月22日宣布关闭为何一个诞生过博德之门等游戏的公司最": "如何评价BioWare于10月22日宣布关闭，为何一个诞生过博德之门等游戏的公司最终走向如此下场？",
+  "e:警方回应问界汽车碰撞起火": "警方回应“问界汽车碰撞起火”"
  },
  "a_seen": {
   "年轻人盯上养老院里的新职业": {
@@ -11890,9 +11918,9 @@
    "key": "留美在读女博士答辩失利向实验室同门咖啡机投毒丙烯酰胺如何看待这一事件",
    "title": "留美在读女博士答辩失利，向实验室同门咖啡机投毒「丙烯酰胺」，如何看待这一事件？",
    "rating": "A",
-   "score": 44.84,
-   "angle": "从学术压力、留学生心理健康、高学历人群异化角度切入，追问\"为什么是博士\"",
-   "hook_reason": "高学历投毒案冲击认知底线，留学光环与极端行为的撕裂感强烈",
+   "score": 45.08,
+   "angle": "聚焦'高分低德'背后的学术压力与人性失控，撕开精英光环下的阴影",
+   "hook_reason": "高学历女博士因答辩失利投毒，学界震惊的极端犯罪案例",
    "url": "https://www.zhihu.com/question/2096228188099540232",
    "track": "社会热点",
    "breaking": true,
@@ -11926,15 +11954,51 @@
    "key": "李雪健配合ai声音登长征文艺晚会",
    "title": "李雪健配合AI声音登长征文艺晚会",
    "rating": "A",
-   "score": 48.52,
-   "angle": "从李雪健AI配音事件切入，探讨技术替代与艺术伦理的边界",
-   "hook_reason": "老艺术家李雪健AI代嗓，科技伦理冲突引全民争议",
+   "score": 46.02,
+   "angle": "从李雪健AI声音争议切入，探讨技术边界与人文价值的冲突",
+   "hook_reason": "老艺术家被AI替代？科技伦理引爆全民讨论",
    "url": "https://search.bilibili.com/all?keyword=李雪健配合AI声音登长征文艺晚会",
    "track": "社会热点",
    "breaking": true,
-   "event_id": "e:李雪健配合ai声音登长征文艺晚会"
+   "event_id": "e:长征颂歌晚会"
+  },
+  "一张快递单能扒出多少秘密": {
+   "key": "一张快递单能扒出多少秘密",
+   "title": "一张快递单能扒出多少秘密",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从普通人视角切入，拆解快递单信息泄露链条，关联近期曝光的隐私滥用案例，给出自保清单",
+   "hook_reason": "人人收快递，隐私命门被掀开，读者有代入感和危机感",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%BC%A0%E5%BF%AB%E9%80%92%E5%8D%95%E8%83%BD%E6%89%92%E5%87%BA%E5%A4%9A%E5%B0%91%E7%A7%98%E5%AF%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:一张快递单能扒出多少秘密"
+  },
+  "时速400公里的高铁真要来了吗": {
+   "key": "时速400公里的高铁真要来了吗",
+   "title": "时速400公里的高铁真要来了吗",
+   "rating": "A",
+   "score": 84.0,
+   "angle": "技术突破视角：400公里高铁如何重塑国人出行格局与中国智造全球竞争力",
+   "hook_reason": "时速400公里高铁颠覆出行认知，国民自豪感+技术悬念双重引爆",
+   "url": "https://www.toutiao.com/trending/7699455738569051667/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:时速400公里的高铁真要来了吗"
+  },
+  "womanfacessixyearsinprisonoverca9475f1bd": {
+   "key": "womanfacessixyearsinprisonoverca9475f1bd",
+   "title": "Woman faces six years in prison over Cash App account she never opened",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "聚焦普通人被系统误伤的司法漏洞，Cash App等平台身份验证缺失导致极端后果",
+   "hook_reason": "普通人因从未注册的支付账户面临6年监禁，司法+平台双重漏洞直击安全感",
+   "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:womanfacessixyearsinprisonovercashappacc"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
