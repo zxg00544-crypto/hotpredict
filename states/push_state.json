@@ -9812,17 +9812,43 @@
    "batch_window": 3
   },
   {
-   "key": "芯片人才百万年薪一将难求",
-   "title": "芯片人才百万年薪一将难求",
+   "key": "费城半导体指数下跌67创6月以来最大跌幅",
+   "title": "费城半导体指数下跌6.7%，创6月以来最大跌幅。",
    "rating": "A",
-   "score": 90.0,
-   "angle": "从芯片人才稀缺切入，解读国产半导体产业链自主化进程中的核心瓶颈",
-   "hook_reason": "百万年薪抢芯片人才，折射国产替代背后的人才荒",
-   "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E4%BA%BA%E6%89%8D%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E4%B8%80%E5%B0%86%E9%9A%BE%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news",
+   "score": 46.75,
+   "angle": "聚焦费城半导体指数暴跌背后的原因，分析对AI芯片、英伟达等科技股连锁影响，解读市场情绪与资金动向",
+   "hook_reason": "半导体指数6月来最大跌幅，投资者恐慌，科技股风向标告急",
+   "url": "https://finance.sina.cn/7x24/2026-10-23/detail-iniwcxma4857335.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:费城半导体指数下跌67创6月以来最大跌幅",
+   "batch_window": 4
+  },
+  {
+   "key": "whatsgettingpwnedrightnow",
+   "title": "What’s getting pwned right now",
+   "rating": "A",
+   "score": 40.2,
+   "angle": "盘点HN热帖中实时被入侵的系统类型，揭示普通开发者的安全盲区",
+   "hook_reason": "实时看到多少系统正被攻破，触发读者安全焦虑",
+   "url": "https://pwn.watch/",
    "track": "科技",
+   "breaking": true,
+   "event_id": "e:whatsgettingpwnedrightnow",
+   "batch_window": 4
+  },
+  {
+   "key": "高反去世男子家人辟谣想找免费直升机",
+   "title": "高反去世男子家人辟谣想找免费直升机",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从免费直升机之争切入，探讨高原旅游救援成本分摊机制与公共资源边界",
+   "hook_reason": "高原救援生死争议+公益成本博弈，情绪张力拉满",
+   "url": "https://www.toutiao.com/trending/7698623645711138852/",
+   "track": "社会热点",
    "breaking": false,
-   "event_id": "e:芯片人才百万年薪一将难求",
-   "batch_window": 3
+   "event_id": "e:高反去世男子家人辟谣想找免费直升机",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -10533,7 +10559,8 @@
   "欧莱雅首席执行官减肥药使用增加将提振护肤品业务",
   "时速400公里的高铁真要来了吗",
   "辛芷蕾凭日掛中天获威尼斯影后却未入围金鸡奖如何看待这一结果",
-  "美股芯片光通信股深夜跳水"
+  "美股芯片光通信股深夜跳水",
+  "芯片人才百万年薪一将难求"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11180,7 +11207,8 @@
   "e:欧莱雅首席执行官减肥药使用增加将提振护肤品业务": "欧莱雅首席执行官：减肥药使用增加将提振护肤品业务。",
   "e:时速400公里的高铁真要来了吗": "时速400公里的高铁真要来了吗",
   "e:辛芷蕾凭日掛中天获威尼斯影后却未入围金鸡奖如何看待这一结果": "辛芷蕾凭《日掛中天》获威尼斯影后却未入围金鸡奖，如何看待这一结果？",
-  "e:美股芯片光通信股深夜跳水": "美股芯片、光通信股深夜跳水"
+  "e:美股芯片光通信股深夜跳水": "美股芯片、光通信股深夜跳水",
+  "e:芯片人才百万年薪一将难求": "芯片人才百万年薪一将难求"
  },
  "a_seen": {
   "人形机器人板块集体涨停释放何信号": {
@@ -11355,9 +11383,9 @@
    "key": "美股芯片光通信股深夜跳水",
    "title": "美股芯片、光通信股深夜跳水",
    "rating": "A",
-   "score": 86.0,
-   "angle": "美股芯片光通信暴跌映射A股，拆解对国内半导体板块短期冲击与抄底机会",
-   "hook_reason": "美股深夜暴跌，股民夜不能寐，谁在砸盘？",
+   "score": 81.05,
+   "angle": "解析跳水原因+对A股半导体/光模块板块的潜在影响预判",
+   "hook_reason": "美股科技股深夜异动，A股投资者高度关注是否传导",
    "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news",
    "track": "财经",
    "breaking": false,
@@ -11434,8 +11462,44 @@
    "track": "科技",
    "breaking": false,
    "event_id": "e:芯片人才百万年薪一将难求"
+  },
+  "费城半导体指数下跌67创6月以来最大跌幅": {
+   "key": "费城半导体指数下跌67创6月以来最大跌幅",
+   "title": "费城半导体指数下跌6.7%，创6月以来最大跌幅。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "聚焦费城半导体指数暴跌背后的原因，分析对AI芯片、英伟达等科技股连锁影响，解读市场情绪与资金动向",
+   "hook_reason": "半导体指数6月来最大跌幅，投资者恐慌，科技股风向标告急",
+   "url": "https://finance.sina.cn/7x24/2026-10-23/detail-iniwcxma4857335.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:费城半导体指数下跌67创6月以来最大跌幅"
+  },
+  "whatsgettingpwnedrightnow": {
+   "key": "whatsgettingpwnedrightnow",
+   "title": "What’s getting pwned right now",
+   "rating": "A",
+   "score": 40.2,
+   "angle": "盘点HN热帖中实时被入侵的系统类型，揭示普通开发者的安全盲区",
+   "hook_reason": "实时看到多少系统正被攻破，触发读者安全焦虑",
+   "url": "https://pwn.watch/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whatsgettingpwnedrightnow"
+  },
+  "高反去世男子家人辟谣想找免费直升机": {
+   "key": "高反去世男子家人辟谣想找免费直升机",
+   "title": "高反去世男子家人辟谣想找免费直升机",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从免费直升机之争切入，探讨高原旅游救援成本分摊机制与公共资源边界",
+   "hook_reason": "高原救援生死争议+公益成本博弈，情绪张力拉满",
+   "url": "https://www.toutiao.com/trending/7698623645711138852/",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:高反去世男子家人辟谣想找免费直升机"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
