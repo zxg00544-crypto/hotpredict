@@ -9888,6 +9888,32 @@
    "breaking": false,
    "event_id": "e:openshellasafeprivateruntimeforfleetsofa",
    "batch_window": 6
+  },
+  {
+   "key": "曝deepseek拟筹得约1000亿元融资",
+   "title": "曝DeepSeek拟筹得约1000亿元融资",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从技术突破、融资用途、对国产AI格局影响三维度切入，对比OpenAI估值变化，引发科技圈深度讨论",
+   "hook_reason": "国产AI龙头百亿融资引爆关注，改写行业格局",
+   "url": "https://www.toutiao.com/trending/7699466374275403307/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:曝deepseek拟筹得约1000亿元融资",
+   "batch_window": 6
+  },
+  {
+   "key": "aiandtheenclosureofthescientificcommons",
+   "title": "AI and the Enclosure of the Scientific Commons",
+   "rating": "A",
+   "score": 75.65,
+   "angle": "从arxiv论文切入，剖析AI企业如何垄断科研数据与工具，探讨科学共同体如何反制技术霸权",
+   "hook_reason": "AI圈占科学知识，研究者是否沦为'训练数据劳工'？",
+   "url": "https://arxiv.org/abs/2610.27251",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:aiandtheenclosureofthescientificcommons",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -11498,9 +11524,9 @@
    "key": "芯片人才百万年薪一将难求",
    "title": "芯片人才百万年薪一将难求",
    "rating": "A",
-   "score": 81.3,
-   "angle": "从百万年薪现象切入，拆解芯片人才缺口背后的产业竞争格局与就业市场风向",
-   "hook_reason": "百万年薪冲击就业焦虑，芯片人才争夺战悬念强",
+   "score": 81.2,
+   "angle": "从芯片人才缺口切入，剖析国产替代加速下高端人才稀缺的深层原因及破局路径",
+   "hook_reason": "百万年薪抢芯片人才，供需失衡背后是国产替代的紧迫感",
    "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E4%BA%BA%E6%89%8D%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E4%B8%80%E5%B0%86%E9%9A%BE%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news",
    "track": "科技",
    "breaking": false,
@@ -11601,6 +11627,30 @@
    "track": "科技",
    "breaking": false,
    "event_id": "e:openshellasafeprivateruntimeforfleetsofa"
+  },
+  "曝deepseek拟筹得约1000亿元融资": {
+   "key": "曝deepseek拟筹得约1000亿元融资",
+   "title": "曝DeepSeek拟筹得约1000亿元融资",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从技术突破、融资用途、对国产AI格局影响三维度切入，对比OpenAI估值变化，引发科技圈深度讨论",
+   "hook_reason": "国产AI龙头百亿融资引爆关注，改写行业格局",
+   "url": "https://www.toutiao.com/trending/7699466374275403307/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:曝deepseek拟筹得约1000亿元融资"
+  },
+  "aiandtheenclosureofthescientificcommons": {
+   "key": "aiandtheenclosureofthescientificcommons",
+   "title": "AI and the Enclosure of the Scientific Commons",
+   "rating": "A",
+   "score": 75.65,
+   "angle": "从arxiv论文切入，剖析AI企业如何垄断科研数据与工具，探讨科学共同体如何反制技术霸权",
+   "hook_reason": "AI圈占科学知识，研究者是否沦为'训练数据劳工'？",
+   "url": "https://arxiv.org/abs/2610.27251",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:aiandtheenclosureofthescientificcommons"
   }
  },
  "breaking_count": 10,
