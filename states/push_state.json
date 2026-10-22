@@ -7784,19 +7784,6 @@
    "batch_window": 13
   },
   {
-   "key": "江北柯林斯刚刚读完但总的时间的玫瑰里面但总0708年当初的预测很多都已成",
-   "title": "// @江北柯林斯 :刚刚读完但总的《时间的玫瑰》，里面但总 07，08 年当初的预测很多都已成",
-   "rating": "A",
-   "score": 84.8,
-   "angle": "盘点但总2007-2008年关键预测及后续兑现路径，结合当下市场研判投资机会",
-   "hook_reason": "大佬过往预测接连兑现，金融圈自带话题度与身份代入感",
-   "url": "https://weibo.com/1249424622/Rnnl3etH7",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:江北柯林斯刚刚读完但总的时间的玫瑰里面但总0708年当初的预测很多都已成",
-   "batch_window": 14
-  },
-  {
    "key": "曝披旭日旗留学生曾表达支持台独",
    "title": "曝披旭日旗留学生曾表达支持“台独”",
    "rating": "A",
@@ -9238,6 +9225,45 @@
    "breaking": false,
    "event_id": "e:metaorderedtopay25bpenaltyinnewmexicocam",
    "batch_window": 7
+  },
+  {
+   "key": "railwaysecuritydisclosure",
+   "title": "Railway Security Disclosure",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "Railway作为新兴云平台披露安全事件，对开发者生态信任链与云基础设施安全现状的深度解读",
+   "hook_reason": "云服务商爆发安全事件，开发者社区高度关注",
+   "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:railwaysecuritydisclosure",
+   "batch_window": 8
+  },
+  {
+   "key": "泽连斯基做出重大让步释放什么信号",
+   "title": "泽连斯基做出重大让步释放什么信号",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从能源进口、地缘政治对中国影响切入，分析让步背后的战略博弈",
+   "hook_reason": "俄乌冲突重大转折，关乎中国能源安全与国际格局",
+   "url": "https://www.toutiao.com/trending/7699170841732320822/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:泽连斯基做出重大让步释放什么信号",
+   "batch_window": 8
+  },
+  {
+   "key": "中国体操女队终结美国7连冠",
+   "title": "中国体操女队终结美国7连冠",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从体育突破切入大国竞争叙事，聚焦逆转背后的体制优势与新生代力量",
+   "hook_reason": "中国体操女队逆袭打破美国7连冠垄断，民族情绪拉满",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E9%98%9F%E7%BB%88%E7%BB%93%E7%BE%8E%E5%9B%BD7%E8%BF%9E%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国体操女队终结美国7连冠",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -9918,7 +9944,8 @@
   "雷军汽车产业若没有安全其他都是0",
   "华尔街大佬ai确定已是大泡沫",
   "晨跑两公里两百个俯卧撑卷腹哑铃开合跳正心正念坚持做长期正确的事坚持每年看一百家公司",
-  "在全场景丝滑安心快速针对各种case包括场景的切换小鹏ngp要做到都可以开分享mo"
+  "在全场景丝滑安心快速针对各种case包括场景的切换小鹏ngp要做到都可以开分享mo",
+  "江北柯林斯刚刚读完但总的时间的玫瑰里面但总0708年当初的预测很多都已成"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10535,7 +10562,8 @@
   "e:雷军汽车产业若没有安全其他都是0": "雷军：汽车产业若没有安全其他都是0",
   "e:华尔街大佬ai确定已是大泡沫": "华尔街大佬：AI确定已是大泡沫",
   "e:晨跑两公里两百个俯卧撑卷腹哑铃开合跳正心正念坚持做长期正确的事坚持每年看一百家公": "晨跑两公里，两百个俯卧撑，卷腹，哑铃，开合跳，正心正念，坚持做长期正确的事，坚持每年看一百家公司",
-  "e:在全场景丝滑安心快速针对各种case包括场景的切换小鹏ngp要做到都可以开分享m": "在全场景丝滑、安心、快速针对各种case，包括场景的切换，小鹏NGP要做到都可以开。分享 #MO"
+  "e:在全场景丝滑安心快速针对各种case包括场景的切换小鹏ngp要做到都可以开分享m": "在全场景丝滑、安心、快速针对各种case，包括场景的切换，小鹏NGP要做到都可以开。分享 #MO",
+  "e:江北柯林斯刚刚读完但总的时间的玫瑰里面但总0708年当初的预测很多都已成": "// @江北柯林斯 :刚刚读完但总的《时间的玫瑰》，里面但总 07，08 年当初的预测很多都已成"
  },
  "a_seen": {
   "年轻人盯上养老院里的新职业": {
@@ -10801,8 +10829,44 @@
    "track": "科技",
    "breaking": false,
    "event_id": "e:metaorderedtopay25bpenaltyinnewmexicocam"
+  },
+  "railwaysecuritydisclosure": {
+   "key": "railwaysecuritydisclosure",
+   "title": "Railway Security Disclosure",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "Railway作为新兴云平台披露安全事件，对开发者生态信任链与云基础设施安全现状的深度解读",
+   "hook_reason": "云服务商爆发安全事件，开发者社区高度关注",
+   "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:railwaysecuritydisclosure"
+  },
+  "泽连斯基做出重大让步释放什么信号": {
+   "key": "泽连斯基做出重大让步释放什么信号",
+   "title": "泽连斯基做出重大让步释放什么信号",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从能源进口、地缘政治对中国影响切入，分析让步背后的战略博弈",
+   "hook_reason": "俄乌冲突重大转折，关乎中国能源安全与国际格局",
+   "url": "https://www.toutiao.com/trending/7699170841732320822/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:泽连斯基做出重大让步释放什么信号"
+  },
+  "中国体操女队终结美国7连冠": {
+   "key": "中国体操女队终结美国7连冠",
+   "title": "中国体操女队终结美国7连冠",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从体育突破切入大国竞争叙事，聚焦逆转背后的体制优势与新生代力量",
+   "hook_reason": "中国体操女队逆袭打破美国7连冠垄断，民族情绪拉满",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E9%98%9F%E7%BB%88%E7%BB%93%E7%BE%8E%E5%9B%BD7%E8%BF%9E%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国体操女队终结美国7连冠"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
