@@ -9890,19 +9890,6 @@
    "batch_window": 6
   },
   {
-   "key": "曝deepseek拟筹得约1000亿元融资",
-   "title": "曝DeepSeek拟筹得约1000亿元融资",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "从技术突破、融资用途、对国产AI格局影响三维度切入，对比OpenAI估值变化，引发科技圈深度讨论",
-   "hook_reason": "国产AI龙头百亿融资引爆关注，改写行业格局",
-   "url": "https://www.toutiao.com/trending/7699466374275403307/",
-   "track": "科技",
-   "breaking": false,
-   "event_id": "e:曝deepseek拟筹得约1000亿元融资",
-   "batch_window": 6
-  },
-  {
    "key": "aiandtheenclosureofthescientificcommons",
    "title": "AI and the Enclosure of the Scientific Commons",
    "rating": "A",
@@ -9914,6 +9901,19 @@
    "breaking": false,
    "event_id": "e:aiandtheenclosureofthescientificcommons",
    "batch_window": 6
+  },
+  {
+   "key": "aianalysisofctscansfinds429ofpat19de7155",
+   "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+   "rating": "A",
+   "score": 74.6,
+   "angle": "AI技术揭示隐藏健康风险，42.9%无症状人群存在冠状动脉炎症，颠覆'没症状=健康'认知",
+   "hook_reason": "AI体检发现近半数人心脏有隐患，人人自危的健康冲击",
+   "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:aianalysisofctscansfinds429ofpatientshav",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -10627,7 +10627,8 @@
   "美股芯片光通信股深夜跳水",
   "芯片人才百万年薪一将难求",
   "高反去世男子家人辟谣想找免费直升机",
-  "基金经理又到集体反思时刻了吗"
+  "基金经理又到集体反思时刻了吗",
+  "曝deepseek拟筹得约1000亿元融资"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11277,7 +11278,8 @@
   "e:美股芯片光通信股深夜跳水": "美股芯片、光通信股深夜跳水",
   "e:芯片人才百万年薪一将难求": "芯片人才百万年薪一将难求",
   "e:高反去世男子家人辟谣想找免费直升机": "高反去世男子家人辟谣想找免费直升机",
-  "e:基金经理又到集体反思时刻了吗": "基金经理又到“集体反思时刻”了吗"
+  "e:基金经理又到集体反思时刻了吗": "基金经理又到“集体反思时刻”了吗",
+  "e:曝deepseek拟筹得约1000亿元融资": "曝DeepSeek拟筹得约1000亿元融资"
  },
  "a_seen": {
   "人形机器人板块集体涨停释放何信号": {
@@ -11524,9 +11526,9 @@
    "key": "芯片人才百万年薪一将难求",
    "title": "芯片人才百万年薪一将难求",
    "rating": "A",
-   "score": 81.2,
-   "angle": "从芯片人才缺口切入，剖析国产替代加速下高端人才稀缺的深层原因及破局路径",
-   "hook_reason": "百万年薪抢芯片人才，供需失衡背后是国产替代的紧迫感",
+   "score": 80.55,
+   "angle": "从芯片产业竞争切入，揭示人才争夺战背后的战略博弈与薪资泡沫隐忧",
+   "hook_reason": "百万年薪直击打工人焦虑，科技人才争夺引发全民关注",
    "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E4%BA%BA%E6%89%8D%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E4%B8%80%E5%B0%86%E9%9A%BE%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news",
    "track": "科技",
    "breaking": false,
@@ -11644,15 +11646,27 @@
    "key": "aiandtheenclosureofthescientificcommons",
    "title": "AI and the Enclosure of the Scientific Commons",
    "rating": "A",
-   "score": 75.65,
-   "angle": "从arxiv论文切入，剖析AI企业如何垄断科研数据与工具，探讨科学共同体如何反制技术霸权",
-   "hook_reason": "AI圈占科学知识，研究者是否沦为'训练数据劳工'？",
+   "score": 75.6,
+   "angle": "从arXiv论文切入，解析AI巨头如何通过数据、算力垄断'圈占'科学公地，对开放科研生态的冲击与反思",
+   "hook_reason": "AI正在圈占科学公地？arXiv论文在HN引爆热议，直指科技巨头垄断科研",
    "url": "https://arxiv.org/abs/2610.27251",
    "track": "科技",
    "breaking": false,
    "event_id": "e:aiandtheenclosureofthescientificcommons"
+  },
+  "aianalysisofctscansfinds429ofpat19de7155": {
+   "key": "aianalysisofctscansfinds429ofpat19de7155",
+   "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+   "rating": "A",
+   "score": 74.6,
+   "angle": "AI技术揭示隐藏健康风险，42.9%无症状人群存在冠状动脉炎症，颠覆'没症状=健康'认知",
+   "hook_reason": "AI体检发现近半数人心脏有隐患，人人自危的健康冲击",
+   "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:aianalysisofctscansfinds429ofpatientshav"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
