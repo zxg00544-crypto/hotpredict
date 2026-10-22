@@ -9537,6 +9537,45 @@
    "breaking": true,
    "event_id": "e:创业板失守2600点",
    "batch_window": 15
+  },
+  {
+   "key": "openaicli",
+   "title": "OpenAI CLI",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "OpenAI将AI能力'终端化'，开发者效率革命降临，命令行时代的AI入口争夺战",
+   "hook_reason": "OpenAI官方推出CLI，开发者可直接终端调用GPT，技术民主化信号强烈",
+   "url": "https://github.com/openai/openai-cli",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openaicli",
+   "batch_window": 15
+  },
+  {
+   "key": "曝某明星长期借不到高定自费购买礼服后引该品牌pr暴怒可能会是谁为啥自费购买也会引起高奢品牌不满",
+   "title": "曝某明星长期借不到高定，自费购买礼服后引该品牌PR暴怒，可能会是谁？为啥自费购买也会引起高奢品牌不满？",
+   "rating": "A",
+   "score": 72.74,
+   "angle": "揭秘高定租赁行业的隐形规则：为什么明星宁愿自费也不愿'白嫖'，品牌方真正在意什么",
+   "hook_reason": "明星×高奢品牌翻车，自费买还惹怒PR？背后潜规则引爆吃瓜欲",
+   "url": "https://www.zhihu.com/question/2096378566657012341",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:曝某明星长期借不到高定自费购买礼服后引该品牌pr暴怒可能会是谁为啥自费购买也会引",
+   "batch_window": 15
+  },
+  {
+   "key": "为什么我国的中学生大部分都不会做引体向上",
+   "title": "为什么我国的中学生大部分都不会做引体向上？",
+   "rating": "A",
+   "score": 51.27,
+   "angle": "切入应试教育挤压体育课的结构性矛盾，用数据+案例引发家长共鸣",
+   "hook_reason": "中学生体质堪忧引爆家长焦虑，教育痛点自带全民讨论属性",
+   "url": "https://www.zhihu.com/question/661972031",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:为什么我国的中学生大部分都不会做引体向上",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -11457,9 +11496,9 @@
    "key": "日本关键稀土钇储备将耗尽求助美国敦促中方放宽管制稀土将耗尽一事将对日方产生多大影响",
    "title": "日本关键稀土钇储备将耗尽，求助美国敦促中方放宽管制，稀土将耗尽一事将对日方产生多大影响？",
    "rating": "A",
-   "score": 72.87,
-   "angle": "从地缘博弈切入，拆解稀土管制如何卡住日本半导体和军工产业链的脖子",
-   "hook_reason": "中日稀土博弈升级，日本求美国施压中国，民众切身利益相关",
+   "score": 68.07,
+   "angle": "从稀土管制大国博弈视角切入，解读日本'求助美国逼中方'背后的产业链焦虑与战略被动",
+   "hook_reason": "中日资源博弈+突发危机，民族情绪+利益相关双驱动",
    "url": "https://www.zhihu.com/question/2096043493517013110",
    "track": "社会热点",
    "breaking": true,
@@ -11500,6 +11539,42 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:创业板失守2600点"
+  },
+  "openaicli": {
+   "key": "openaicli",
+   "title": "OpenAI CLI",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "OpenAI将AI能力'终端化'，开发者效率革命降临，命令行时代的AI入口争夺战",
+   "hook_reason": "OpenAI官方推出CLI，开发者可直接终端调用GPT，技术民主化信号强烈",
+   "url": "https://github.com/openai/openai-cli",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openaicli"
+  },
+  "曝某明星长期借不到高定自费购买礼服后引该品牌pr暴怒可能会是谁为啥自费购买也会引起高奢品牌不满": {
+   "key": "曝某明星长期借不到高定自费购买礼服后引该品牌pr暴怒可能会是谁为啥自费购买也会引起高奢品牌不满",
+   "title": "曝某明星长期借不到高定，自费购买礼服后引该品牌PR暴怒，可能会是谁？为啥自费购买也会引起高奢品牌不满？",
+   "rating": "A",
+   "score": 72.74,
+   "angle": "揭秘高定租赁行业的隐形规则：为什么明星宁愿自费也不愿'白嫖'，品牌方真正在意什么",
+   "hook_reason": "明星×高奢品牌翻车，自费买还惹怒PR？背后潜规则引爆吃瓜欲",
+   "url": "https://www.zhihu.com/question/2096378566657012341",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:曝某明星长期借不到高定自费购买礼服后引该品牌pr暴怒可能会是谁为啥自费购买也会引"
+  },
+  "为什么我国的中学生大部分都不会做引体向上": {
+   "key": "为什么我国的中学生大部分都不会做引体向上",
+   "title": "为什么我国的中学生大部分都不会做引体向上？",
+   "rating": "A",
+   "score": 51.27,
+   "angle": "切入应试教育挤压体育课的结构性矛盾，用数据+案例引发家长共鸣",
+   "hook_reason": "中学生体质堪忧引爆家长焦虑，教育痛点自带全民讨论属性",
+   "url": "https://www.zhihu.com/question/661972031",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:为什么我国的中学生大部分都不会做引体向上"
   }
  },
  "breaking_count": 10,
