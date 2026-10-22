@@ -9799,19 +9799,6 @@
    "batch_window": 2
   },
   {
-   "key": "基金经理又到集体反思时刻了吗",
-   "title": "基金经理又到“集体反思时刻”了吗",
-   "rating": "A",
-   "score": 87.15,
-   "angle": "从'集体反思'现象切入，分析基金净值波动与投资者情绪的周期性共振，给出实操建议",
-   "hook_reason": "基民关心钱袋子，反思背后是亏损焦虑与信任危机",
-   "url": "https://www.toutiao.com/trending/7699058419906396186/",
-   "track": "财经",
-   "breaking": false,
-   "event_id": "e:基金经理又到集体反思时刻了吗",
-   "batch_window": 3
-  },
-  {
    "key": "费城半导体指数下跌67创6月以来最大跌幅",
    "title": "费城半导体指数下跌6.7%，创6月以来最大跌幅。",
    "rating": "A",
@@ -9862,6 +9849,45 @@
    "breaking": false,
    "event_id": "e:情侣伙同程序员抢票获利近600万",
    "batch_window": 5
+  },
+  {
+   "key": "美联储10月维持利率不变的概率为928",
+   "title": "美联储10月维持利率不变的概率为92.8%",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "美联储按兵不动对A股/港股/大宗商品市场的短期影响及配置建议",
+   "hook_reason": "美联储利率决定直接影响全球资金流向，投资者高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-23/detail-iniwecsw8040090.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储10月维持利率不变的概率为928",
+   "batch_window": 6
+  },
+  {
+   "key": "印度男子谋杀39岁中国女子被终身监禁交往期间谎称是模特和演员实则是工地临时工哪些细节值得关注",
+   "title": "印度男子谋杀39岁中国女子被终身监禁，交往期间谎称是模特和演员，实则是工地临时工，哪些细节值得关注？",
+   "rating": "A",
+   "score": 64.97,
+   "angle": "从中国女性海外安全视角切入，揭露跨国交友陷阱，提供避坑指南",
+   "hook_reason": "中国女性海外遇害+杀妻骗婚双重冲击，情绪浓度极高",
+   "url": "https://www.zhihu.com/question/2096354020902420874",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:印度男子谋杀39岁中国女子被终身监禁交往期间谎称是模特和演员实则是工地临时工哪些",
+   "batch_window": 6
+  },
+  {
+   "key": "openshellasafeprivateruntimeforfe15c4094",
+   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+   "rating": "A",
+   "score": 69.55,
+   "angle": "从NVIDIA入局AI Agent基础设施切入，分析大厂如何卡位下一代AI应用层竞争",
+   "hook_reason": "NVIDIA开源AI代理运行时，大厂入局agent赛道引关注",
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:openshellasafeprivateruntimeforfleetsofa",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -10574,7 +10600,8 @@
   "辛芷蕾凭日掛中天获威尼斯影后却未入围金鸡奖如何看待这一结果",
   "美股芯片光通信股深夜跳水",
   "芯片人才百万年薪一将难求",
-  "高反去世男子家人辟谣想找免费直升机"
+  "高反去世男子家人辟谣想找免费直升机",
+  "基金经理又到集体反思时刻了吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11223,7 +11250,8 @@
   "e:辛芷蕾凭日掛中天获威尼斯影后却未入围金鸡奖如何看待这一结果": "辛芷蕾凭《日掛中天》获威尼斯影后却未入围金鸡奖，如何看待这一结果？",
   "e:美股芯片光通信股深夜跳水": "美股芯片、光通信股深夜跳水",
   "e:芯片人才百万年薪一将难求": "芯片人才百万年薪一将难求",
-  "e:高反去世男子家人辟谣想找免费直升机": "高反去世男子家人辟谣想找免费直升机"
+  "e:高反去世男子家人辟谣想找免费直升机": "高反去世男子家人辟谣想找免费直升机",
+  "e:基金经理又到集体反思时刻了吗": "基金经理又到“集体反思时刻”了吗"
  },
  "a_seen": {
   "人形机器人板块集体涨停释放何信号": {
@@ -11470,11 +11498,11 @@
    "key": "芯片人才百万年薪一将难求",
    "title": "芯片人才百万年薪一将难求",
    "rating": "A",
-   "score": 81.45,
-   "angle": "芯片人才供需缺口透视，百万年薪背后的行业洗牌与个人突围路径",
-   "hook_reason": "百万年薪引求职者围观，芯片抢人大战戳中职场焦虑",
+   "score": 81.3,
+   "angle": "从百万年薪现象切入，拆解芯片人才缺口背后的产业竞争格局与就业市场风向",
+   "hook_reason": "百万年薪冲击就业焦虑，芯片人才争夺战悬念强",
    "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E4%BA%BA%E6%89%8D%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E4%B8%80%E5%B0%86%E9%9A%BE%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "财经",
+   "track": "科技",
    "breaking": false,
    "event_id": "e:芯片人才百万年薪一将难求"
   },
@@ -11518,9 +11546,9 @@
    "key": "everyaimodelhasthesamecontroversialtakeonhumans",
    "title": "Every AI model has the same \"controversial\" take on humans",
    "rating": "A",
-   "score": 77.0,
-   "angle": "AI对人类认知的争议性观点趋同，反映训练数据偏差，引发科技圈身份焦虑与反思",
-   "hook_reason": "AI模型竟对人类有统一负面评价？揭秘训练数据的隐秘偏见",
+   "score": 78.5,
+   "angle": "探讨AI模型对人类普遍存在的争议性看法，揭示技术伦理盲区",
+   "hook_reason": "AI竟对人有一致负面看法？引发好奇与反思",
    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "track": "科技",
    "breaking": false,
@@ -11537,8 +11565,44 @@
    "track": "社会热点",
    "breaking": false,
    "event_id": "e:情侣伙同程序员抢票获利近600万"
+  },
+  "美联储10月维持利率不变的概率为928": {
+   "key": "美联储10月维持利率不变的概率为928",
+   "title": "美联储10月维持利率不变的概率为92.8%",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "美联储按兵不动对A股/港股/大宗商品市场的短期影响及配置建议",
+   "hook_reason": "美联储利率决定直接影响全球资金流向，投资者高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-23/detail-iniwecsw8040090.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储10月维持利率不变的概率为928"
+  },
+  "印度男子谋杀39岁中国女子被终身监禁交往期间谎称是模特和演员实则是工地临时工哪些细节值得关注": {
+   "key": "印度男子谋杀39岁中国女子被终身监禁交往期间谎称是模特和演员实则是工地临时工哪些细节值得关注",
+   "title": "印度男子谋杀39岁中国女子被终身监禁，交往期间谎称是模特和演员，实则是工地临时工，哪些细节值得关注？",
+   "rating": "A",
+   "score": 64.97,
+   "angle": "从中国女性海外安全视角切入，揭露跨国交友陷阱，提供避坑指南",
+   "hook_reason": "中国女性海外遇害+杀妻骗婚双重冲击，情绪浓度极高",
+   "url": "https://www.zhihu.com/question/2096354020902420874",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:印度男子谋杀39岁中国女子被终身监禁交往期间谎称是模特和演员实则是工地临时工哪些"
+  },
+  "openshellasafeprivateruntimeforfe15c4094": {
+   "key": "openshellasafeprivateruntimeforfe15c4094",
+   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+   "rating": "A",
+   "score": 69.55,
+   "angle": "从NVIDIA入局AI Agent基础设施切入，分析大厂如何卡位下一代AI应用层竞争",
+   "hook_reason": "NVIDIA开源AI代理运行时，大厂入局agent赛道引关注",
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:openshellasafeprivateruntimeforfleetsofa"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
