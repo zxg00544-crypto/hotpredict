@@ -9591,19 +9591,6 @@
    "batch_window": 18
   },
   {
-   "key": "加完微信只回了一个字账号就被封",
-   "title": "加完微信只回了一个字账号就被封",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从微信封号规则切入，探讨平台治理边界与用户权益平衡",
-   "hook_reason": "普通人用微信被封号，人人自危",
-   "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E5%AE%8C%E5%BE%AE%E4%BF%A1%E5%8F%AA%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E5%AD%97%E8%B4%A6%E5%8F%B7%E5%B0%B1%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:加完微信只回了一个字账号就被封",
-   "batch_window": 19
-  },
-  {
    "key": "创业板指跌超4失守2600点如何看待当前a股市场行情",
    "title": "创业板指跌超4%，失守2600点，如何看待当前A股市场行情？",
    "rating": "A",
@@ -9641,6 +9628,32 @@
    "breaking": true,
    "event_id": "e:大火逼近中国日本道歉岂能只道一半",
    "batch_window": 19
+  },
+  {
+   "key": "人民日报评星巴克消费入座",
+   "title": "人民日报评星巴克“消费入座”",
+   "rating": "A",
+   "score": 59.62,
+   "angle": "从消费者权益与商业规则的冲突切入，借人民日报立场讨论消费公平边界",
+   "hook_reason": "人民日报点评星巴克消费规则，官方发声vs消费公平，全民参与热议",
+   "url": "https://www.toutiao.com/trending/7699423398862016041/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:人民日报评星巴克消费入座",
+   "batch_window": 20
+  },
+  {
+   "key": "谭乔回应二仙桥大爷又被拦下",
+   "title": "谭乔回应二仙桥大爷又被拦下",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从谭乔回应被拦事件切入，探讨经典IP的当代生命力与城市文化符号的传播价值",
+   "hook_reason": "二仙桥大爷经典IP再起波澜，千万网友围观",
+   "url": "https://search.bilibili.com/all?keyword=谭乔回应二仙桥大爷又被拦下",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:谭乔回应二仙桥大爷又被拦下",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -10333,7 +10346,8 @@
   "演员白鹿名下公司均已注销",
   "汇源集团严正声明不再生产汇源果汁",
   "全球手机销量暴跌",
-  "北京市委常委夏林茂被查"
+  "北京市委常委夏林茂被查",
+  "加完微信只回了一个字账号就被封"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10962,7 +10976,8 @@
   "e:演员白鹿名下公司均已注销": "演员白鹿名下公司均已注销",
   "e:汇源集团严正声明不再生产汇源果汁": "汇源集团严正声明：不再生产汇源果汁",
   "e:全球手机销量暴跌": "全球手机销量暴跌",
-  "e:北京市委常委夏林茂被查": "北京市委常委夏林茂被查"
+  "e:北京市委常委夏林茂被查": "北京市委常委夏林茂被查",
+  "e:加完微信只回了一个字账号就被封": "加完微信只回了一个字账号就被封"
  },
  "a_seen": {
   "年轻人盯上养老院里的新职业": {
@@ -11725,9 +11740,9 @@
    "key": "加完微信只回了一个字账号就被封",
    "title": "加完微信只回了一个字账号就被封",
    "rating": "A",
-   "score": 92.0,
-   "angle": "从微信封号规则切入，探讨平台治理边界与用户权益平衡",
-   "hook_reason": "普通人用微信被封号，人人自危",
+   "score": 81.75,
+   "angle": "深挖微信封号黑箱规则，揭示普通用户'微小行为→重度处罚'的生存焦虑，附避坑指南",
+   "hook_reason": "微信用户全覆盖的焦虑点，数字生存恐惧共鸣极强",
    "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E5%AE%8C%E5%BE%AE%E4%BF%A1%E5%8F%AA%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E5%AD%97%E8%B4%A6%E5%8F%B7%E5%B0%B1%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
@@ -11761,10 +11776,10 @@
    "key": "大火逼近中国日本道歉岂能只道一半",
    "title": "大火逼近中国 日本道歉岂能只道一半",
    "rating": "A",
-   "score": 60.0,
-   "angle": "从日本道歉缺失切入，深挖中日关系微妙变化与中方应对立场，唤醒民族情绪共鸣",
-   "hook_reason": "中日关系再添变数，日本半截道歉引民族情绪，读者必看中方回应",
-   "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%81%AB%E9%80%BC%E8%BF%91%E4%B8%AD%E5%9B%BD+%E6%97%A5%E6%9C%AC%E9%81%93%E6%AD%89%E5%B2%82%E8%83%BD%E5%8F%AA%E9%81%93%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news",
+   "score": 76.23,
+   "angle": "从火灾跨国影响切入，审视日本在核安全议题上的透明度与国际责任履行情况",
+   "hook_reason": "跨国危机+民族情绪，激发读者对周边安全的关切与讨论欲",
+   "url": "https://www.toutiao.com/trending/7698626535502364698/",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:大火逼近中国日本道歉岂能只道一半"
@@ -11780,8 +11795,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:北京市委常委夏林茂被查"
+  },
+  "人民日报评星巴克消费入座": {
+   "key": "人民日报评星巴克消费入座",
+   "title": "人民日报评星巴克“消费入座”",
+   "rating": "A",
+   "score": 59.62,
+   "angle": "从消费者权益与商业规则的冲突切入，借人民日报立场讨论消费公平边界",
+   "hook_reason": "人民日报点评星巴克消费规则，官方发声vs消费公平，全民参与热议",
+   "url": "https://www.toutiao.com/trending/7699423398862016041/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:人民日报评星巴克消费入座"
+  },
+  "谭乔回应二仙桥大爷又被拦下": {
+   "key": "谭乔回应二仙桥大爷又被拦下",
+   "title": "谭乔回应二仙桥大爷又被拦下",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从谭乔回应被拦事件切入，探讨经典IP的当代生命力与城市文化符号的传播价值",
+   "hook_reason": "二仙桥大爷经典IP再起波澜，千万网友围观",
+   "url": "https://search.bilibili.com/all?keyword=谭乔回应二仙桥大爷又被拦下",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:谭乔回应二仙桥大爷又被拦下"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
