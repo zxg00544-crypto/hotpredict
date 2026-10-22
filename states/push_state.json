@@ -9695,19 +9695,6 @@
    "batch_window": 21
   },
   {
-   "key": "时速400公里的高铁真要来了吗",
-   "title": "时速400公里的高铁真要来了吗",
-   "rating": "A",
-   "score": 84.0,
-   "angle": "技术突破视角：400公里高铁如何重塑国人出行格局与中国智造全球竞争力",
-   "hook_reason": "时速400公里高铁颠覆出行认知，国民自豪感+技术悬念双重引爆",
-   "url": "https://www.toutiao.com/trending/7699455738569051667/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:时速400公里的高铁真要来了吗",
-   "batch_window": 22
-  },
-  {
    "key": "womanfacessixyearsinprisonoverca9475f1bd",
    "title": "Woman faces six years in prison over Cash App account she never opened",
    "rating": "A",
@@ -9719,6 +9706,32 @@
    "breaking": true,
    "event_id": "e:womanfacessixyearsinprisonovercashappacc",
    "batch_window": 22
+  },
+  {
+   "key": "交易员不再完全押注美联储在年底前加息",
+   "title": "交易员不再完全押注美联储在年底前加息。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从'交易员不再押注加息'切入，解读全球流动性拐点与A股/港股/黄金的连锁反应",
+   "hook_reason": "美联储加息预期逆转，直接影响全球资产定价",
+   "url": "https://finance.sina.cn/7x24/2026-10-23/detail-iniwctce4907845.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:交易员不再完全押注美联储在年底前加息",
+   "batch_window": 1
+  },
+  {
+   "key": "arcissunsetting",
+   "title": "Arc Is Sunsetting",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从产品经理视角拆解Arc为何倒下，给用户和创业者的3个教训",
+   "hook_reason": "知名浏览器Arc宣布停服，科技圈突发震动",
+   "url": "https://arc.net/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:arcissunsetting",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -10422,7 +10435,12 @@
   "openaichatgpt在优步的部署将使优步全球员工中超过3万人能够使用ch",
   "现货白银失守55美元盎司日内跌509",
   "西藏那曲巴青县发生70级地震",
-  "胡塞武装称袭击沙特国防部"
+  "胡塞武装称袭击沙特国防部",
+  "智能戒指制造商oura在推迟ipo后订阅用户突破600万",
+  "国乒男团3比0韩国亚锦赛4连冠",
+  "市场消息美国卫生与公众服务部高级顾问卡莉米斯已辞职",
+  "欧莱雅首席执行官减肥药使用增加将提振护肤品业务",
+  "时速400公里的高铁真要来了吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11062,7 +11080,12 @@
   "e:openaichatgpt在优步的部署将使优步全球员工中超过3万人能够使用ch": "OpenAI：ChatGPT在优步的部署将使优步全球员工中超过3万人能够使用Ch",
   "e:现货白银失守55美元盎司日内跌509": "现货白银失守55美元/盎司，日内跌5.09%。",
   "e:西藏那曲巴青县发生70级地震": "西藏那曲巴青县发生7.0级地震",
-  "e:胡塞武装称袭击沙特国防部": "胡塞武装称袭击沙特国防部"
+  "e:胡塞武装称袭击沙特国防部": "胡塞武装称袭击沙特国防部",
+  "e:智能戒指制造商oura在推迟ipo后订阅用户突破600万": "智能戒指制造商Oura在推迟IPO后订阅用户突破600万。",
+  "e:国乒男团3比0韩国亚锦赛4连冠": "国乒男团3比0韩国 亚锦赛4连冠",
+  "e:市场消息美国卫生与公众服务部高级顾问卡莉米斯已辞职": "市场消息：美国卫生与公众服务部高级顾问卡莉·米斯已辞职。",
+  "e:欧莱雅首席执行官减肥药使用增加将提振护肤品业务": "欧莱雅首席执行官：减肥药使用增加将提振护肤品业务。",
+  "e:时速400公里的高铁真要来了吗": "时速400公里的高铁真要来了吗"
  },
  "a_seen": {
   "人形机器人板块集体涨停释放何信号": {
@@ -11148,8 +11171,68 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:乒乓亚锦赛女团决赛中国队23不敌日本获女团亚军如何评价本场比赛"
+  },
+  "西藏那曲市巴青县发生70级地震当地目前具体情况如何你那边有震感吗": {
+   "key": "西藏那曲市巴青县发生70级地震当地目前具体情况如何你那边有震感吗",
+   "title": "西藏那曲市巴青县发生 7.0 级地震，当地目前具体情况如何？你那边有震感吗？",
+   "rating": "A",
+   "score": 56.7,
+   "angle": "地震实时进展+西藏基础设施韧性评估，切入'生命通道'叙事",
+   "hook_reason": "7.0级强震突发西藏，牵动全民安全感与救援关注",
+   "url": "https://www.zhihu.com/question/2096734873637445705",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西藏那曲巴青县发生70级地震"
+  },
+  "市场消息美国卫生与公众服务部高级顾问卡莉米斯已辞职": {
+   "key": "市场消息美国卫生与公众服务部高级顾问卡莉米斯已辞职",
+   "title": "市场消息：美国卫生与公众服务部高级顾问卡莉·米斯已辞职。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "卡莉·米斯为何此时离开HHS？背后特朗普政府路线分歧？解读高官离职信号",
+   "hook_reason": "美国HHS高级顾问突发辞职，白宫人事地震",
+   "url": "https://finance.sina.cn/7x24/2026-10-23/detail-iniwctca8138759.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:市场消息美国卫生与公众服务部高级顾问卡莉米斯已辞职"
+  },
+  "交易员不再完全押注美联储在年底前加息": {
+   "key": "交易员不再完全押注美联储在年底前加息",
+   "title": "交易员不再完全押注美联储在年底前加息。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从'交易员不再押注加息'切入，解读全球流动性拐点与A股/港股/黄金的连锁反应",
+   "hook_reason": "美联储加息预期逆转，直接影响全球资产定价",
+   "url": "https://finance.sina.cn/7x24/2026-10-23/detail-iniwctce4907845.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:交易员不再完全押注美联储在年底前加息"
+  },
+  "arcissunsetting": {
+   "key": "arcissunsetting",
+   "title": "Arc Is Sunsetting",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从产品经理视角拆解Arc为何倒下，给用户和创业者的3个教训",
+   "hook_reason": "知名浏览器Arc宣布停服，科技圈突发震动",
+   "url": "https://arc.net/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:arcissunsetting"
+  },
+  "英伟达rtx显卡涨幅扩大": {
+   "key": "英伟达rtx显卡涨幅扩大",
+   "title": "英伟达RTX显卡涨幅扩大",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "从消费者痛点切入，深挖涨价原因及对游戏/创作者群体的实际影响",
+   "hook_reason": "玩家和硬件发烧友最关心的涨价消息，直接影响钱包",
+   "url": "https://search.bilibili.com/all?keyword=英伟达RTX显卡涨幅扩大",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达市值9天蒸发约4万亿元全球ai股集体遭抛售ai泡沫是不是要破了"
   }
  },
- "breaking_count": 6,
- "a_pushed_window": 0
+ "breaking_count": 10,
+ "a_pushed_window": 1
 }
