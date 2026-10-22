@@ -9565,19 +9565,6 @@
    "batch_window": 17
   },
   {
-   "key": "北京市委常委夏林茂被查",
-   "title": "北京市委常委夏林茂被查",
-   "rating": "A",
-   "score": 84.62,
-   "angle": "从反腐高压态势切入，分析高官落马背后的制度逻辑与政治信号，而非猎奇细节",
-   "hook_reason": "北京市委常委级别官员落马，反腐大案引爆舆论",
-   "url": "https://www.toutiao.com/trending/7699402537438363689/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:北京市委常委夏林茂被查",
-   "batch_window": 18
-  },
-  {
    "key": "deepseek才是真正的openai",
    "title": "“DeepSeek才是真正的OpenAI”",
    "rating": "A",
@@ -9602,6 +9589,58 @@
    "breaking": true,
    "event_id": "e:cve2026111943compromisedintermediatecert",
    "batch_window": 18
+  },
+  {
+   "key": "加完微信只回了一个字账号就被封",
+   "title": "加完微信只回了一个字账号就被封",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从微信封号规则切入，探讨平台治理边界与用户权益平衡",
+   "hook_reason": "普通人用微信被封号，人人自危",
+   "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E5%AE%8C%E5%BE%AE%E4%BF%A1%E5%8F%AA%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E5%AD%97%E8%B4%A6%E5%8F%B7%E5%B0%B1%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:加完微信只回了一个字账号就被封",
+   "batch_window": 19
+  },
+  {
+   "key": "创业板指跌超4失守2600点如何看待当前a股市场行情",
+   "title": "创业板指跌超4%，失守2600点，如何看待当前A股市场行情？",
+   "rating": "A",
+   "score": 43.8,
+   "angle": "恐慌情绪下的投资机会：哪些板块逆势抗跌，抄底时机是否成熟？",
+   "hook_reason": "股民恐慌关注，暴跌后如何抄底还是止损？",
+   "url": "https://www.zhihu.com/question/2096541141911000221",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:创业板指跌超4失守2600点如何看待当前a股市场行情",
+   "batch_window": 19
+  },
+  {
+   "key": "演唱会黄牛一个月获利100万",
+   "title": "演唱会黄牛一个月获利100万",
+   "rating": "A",
+   "score": 62.72,
+   "angle": "以黄牛暴利为切口，深挖演唱会票务灰色产业链，呼应购票难民生痛点",
+   "hook_reason": "月入百万暴利揭秘，戳中购票难痛点，情绪共鸣强",
+   "url": "https://www.toutiao.com/trending/7699364505523929609/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:演唱会黄牛一个月获利100万",
+   "batch_window": 19
+  },
+  {
+   "key": "大火逼近中国日本道歉岂能只道一半",
+   "title": "大火逼近中国 日本道歉岂能只道一半",
+   "rating": "A",
+   "score": 60.0,
+   "angle": "从日本道歉缺失切入，深挖中日关系微妙变化与中方应对立场，唤醒民族情绪共鸣",
+   "hook_reason": "中日关系再添变数，日本半截道歉引民族情绪，读者必看中方回应",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%81%AB%E9%80%BC%E8%BF%91%E4%B8%AD%E5%9B%BD+%E6%97%A5%E6%9C%AC%E9%81%93%E6%AD%89%E5%B2%82%E8%83%BD%E5%8F%AA%E9%81%93%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:大火逼近中国日本道歉岂能只道一半",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -10293,7 +10332,8 @@
   "孟羽童晒与董明珠合照",
   "演员白鹿名下公司均已注销",
   "汇源集团严正声明不再生产汇源果汁",
-  "全球手机销量暴跌"
+  "全球手机销量暴跌",
+  "北京市委常委夏林茂被查"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10921,7 +10961,8 @@
   "e:孟羽童晒与董明珠合照": "孟羽童晒与董明珠合照",
   "e:演员白鹿名下公司均已注销": "演员白鹿名下公司均已注销",
   "e:汇源集团严正声明不再生产汇源果汁": "汇源集团严正声明：不再生产汇源果汁",
-  "e:全球手机销量暴跌": "全球手机销量暴跌"
+  "e:全球手机销量暴跌": "全球手机销量暴跌",
+  "e:北京市委常委夏林茂被查": "北京市委常委夏林茂被查"
  },
  "a_seen": {
   "年轻人盯上养老院里的新职业": {
@@ -11648,9 +11689,9 @@
    "key": "北京市委常委夏林茂被查",
    "title": "北京市委常委夏林茂被查",
    "rating": "A",
-   "score": 84.62,
-   "angle": "从反腐高压态势切入，分析高官落马背后的制度逻辑与政治信号，而非猎奇细节",
-   "hook_reason": "北京市委常委级别官员落马，反腐大案引爆舆论",
+   "score": 77.42,
+   "angle": "北京市委常委被查，反腐持续高压态势，可结合近期反腐案例深度解读",
+   "hook_reason": "省部级干部反腐，公众对权力监督高度关注",
    "url": "https://www.toutiao.com/trending/7699402537438363689/",
    "track": "社会热点",
    "breaking": true,
@@ -11679,8 +11720,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:cve2026111943compromisedintermediatecert"
+  },
+  "加完微信只回了一个字账号就被封": {
+   "key": "加完微信只回了一个字账号就被封",
+   "title": "加完微信只回了一个字账号就被封",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从微信封号规则切入，探讨平台治理边界与用户权益平衡",
+   "hook_reason": "普通人用微信被封号，人人自危",
+   "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E5%AE%8C%E5%BE%AE%E4%BF%A1%E5%8F%AA%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E5%AD%97%E8%B4%A6%E5%8F%B7%E5%B0%B1%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:加完微信只回了一个字账号就被封"
+  },
+  "创业板指跌超4失守2600点如何看待当前a股市场行情": {
+   "key": "创业板指跌超4失守2600点如何看待当前a股市场行情",
+   "title": "创业板指跌超4%，失守2600点，如何看待当前A股市场行情？",
+   "rating": "A",
+   "score": 43.8,
+   "angle": "恐慌情绪下的投资机会：哪些板块逆势抗跌，抄底时机是否成熟？",
+   "hook_reason": "股民恐慌关注，暴跌后如何抄底还是止损？",
+   "url": "https://www.zhihu.com/question/2096541141911000221",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:创业板指跌超4失守2600点如何看待当前a股市场行情"
+  },
+  "演唱会黄牛一个月获利100万": {
+   "key": "演唱会黄牛一个月获利100万",
+   "title": "演唱会黄牛一个月获利100万",
+   "rating": "A",
+   "score": 62.72,
+   "angle": "以黄牛暴利为切口，深挖演唱会票务灰色产业链，呼应购票难民生痛点",
+   "hook_reason": "月入百万暴利揭秘，戳中购票难痛点，情绪共鸣强",
+   "url": "https://www.toutiao.com/trending/7699364505523929609/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:演唱会黄牛一个月获利100万"
+  },
+  "大火逼近中国日本道歉岂能只道一半": {
+   "key": "大火逼近中国日本道歉岂能只道一半",
+   "title": "大火逼近中国 日本道歉岂能只道一半",
+   "rating": "A",
+   "score": 60.0,
+   "angle": "从日本道歉缺失切入，深挖中日关系微妙变化与中方应对立场，唤醒民族情绪共鸣",
+   "hook_reason": "中日关系再添变数，日本半截道歉引民族情绪，读者必看中方回应",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%81%AB%E9%80%BC%E8%BF%91%E4%B8%AD%E5%9B%BD+%E6%97%A5%E6%9C%AC%E9%81%93%E6%AD%89%E5%B2%82%E8%83%BD%E5%8F%AA%E9%81%93%E4%B8%80%E5%8D%8A&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:大火逼近中国日本道歉岂能只道一半"
+  },
+  "北京市副市长夏林茂被查": {
+   "key": "北京市副市长夏林茂被查",
+   "title": "北京市副市长夏林茂被查",
+   "rating": "A",
+   "score": 51.11,
+   "angle": "从反腐最新进展切入，结合北京政坛背景与近期同类案件，做深度解读而非单纯转述",
+   "hook_reason": "北京副市长突发被查，反腐大动作，官方身份+时效登顶，读者好奇心强",
+   "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E5%A4%8F%E6%9E%97%E8%8C%82%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:北京市委常委夏林茂被查"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
