@@ -8642,19 +8642,6 @@
    "batch_window": 13
   },
   {
-   "key": "全球手机销量暴跌",
-   "title": "全球手机销量暴跌",
-   "rating": "A",
-   "score": 83.38,
-   "angle": "从全球销量数据切入，拆解暴跌背后的消费降级真相与品牌格局洗牌",
-   "hook_reason": "手机是刚需，暴跌牵动亿万人钱包和换机决策",
-   "url": "https://s.weibo.com/weibo?q=全球手机销量暴跌",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:全球手机销量暴跌",
-   "batch_window": 14
-  },
-  {
    "key": "中国ai禁令拟出台震动全球",
    "title": "“中国AI禁令”拟出台 震动全球",
    "rating": "A",
@@ -9576,6 +9563,45 @@
    "breaking": true,
    "event_id": "e:怎么看解放军4艘大型登陆舰实弹演练",
    "batch_window": 17
+  },
+  {
+   "key": "北京市委常委夏林茂被查",
+   "title": "北京市委常委夏林茂被查",
+   "rating": "A",
+   "score": 84.62,
+   "angle": "从反腐高压态势切入，分析高官落马背后的制度逻辑与政治信号，而非猎奇细节",
+   "hook_reason": "北京市委常委级别官员落马，反腐大案引爆舆论",
+   "url": "https://www.toutiao.com/trending/7699402537438363689/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:北京市委常委夏林茂被查",
+   "batch_window": 18
+  },
+  {
+   "key": "deepseek才是真正的openai",
+   "title": "“DeepSeek才是真正的OpenAI”",
+   "rating": "A",
+   "score": 65.0,
+   "angle": "从DeepSeek技术突破切入，分析中国AI如何重新定义全球竞争格局",
+   "hook_reason": "中美AI巨头对比，引发民族情绪与科技焦虑",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9CDeepSeek%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84OpenAI%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepseek才是真正的openai",
+   "batch_window": 18
+  },
+  {
+   "key": "cve2026111943compromisedintermedb3dc1cb2",
+   "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "标题：'你的网银密码白给了'——证书机构被黑背后的信任危机",
+   "hook_reason": "核心证书机构被攻破，所有HTTPS网站安全性存疑，读者会担心自己的账号资金安全",
+   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:cve2026111943compromisedintermediatecert",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -10266,7 +10292,8 @@
   "人民日报评老师被家长无理举报",
   "孟羽童晒与董明珠合照",
   "演员白鹿名下公司均已注销",
-  "汇源集团严正声明不再生产汇源果汁"
+  "汇源集团严正声明不再生产汇源果汁",
+  "全球手机销量暴跌"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10893,7 +10920,8 @@
   "e:人民日报评老师被家长无理举报": "人民日报评老师被家长无理举报",
   "e:孟羽童晒与董明珠合照": "孟羽童晒与董明珠合照",
   "e:演员白鹿名下公司均已注销": "演员白鹿名下公司均已注销",
-  "e:汇源集团严正声明不再生产汇源果汁": "汇源集团严正声明：不再生产汇源果汁"
+  "e:汇源集团严正声明不再生产汇源果汁": "汇源集团严正声明：不再生产汇源果汁",
+  "e:全球手机销量暴跌": "全球手机销量暴跌"
  },
  "a_seen": {
   "年轻人盯上养老院里的新职业": {
@@ -11615,8 +11643,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:怎么看解放军4艘大型登陆舰实弹演练"
+  },
+  "北京市委常委夏林茂被查": {
+   "key": "北京市委常委夏林茂被查",
+   "title": "北京市委常委夏林茂被查",
+   "rating": "A",
+   "score": 84.62,
+   "angle": "从反腐高压态势切入，分析高官落马背后的制度逻辑与政治信号，而非猎奇细节",
+   "hook_reason": "北京市委常委级别官员落马，反腐大案引爆舆论",
+   "url": "https://www.toutiao.com/trending/7699402537438363689/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:北京市委常委夏林茂被查"
+  },
+  "deepseek才是真正的openai": {
+   "key": "deepseek才是真正的openai",
+   "title": "“DeepSeek才是真正的OpenAI”",
+   "rating": "A",
+   "score": 65.0,
+   "angle": "从DeepSeek技术突破切入，分析中国AI如何重新定义全球竞争格局",
+   "hook_reason": "中美AI巨头对比，引发民族情绪与科技焦虑",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9CDeepSeek%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84OpenAI%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepseek才是真正的openai"
+  },
+  "cve2026111943compromisedintermedb3dc1cb2": {
+   "key": "cve2026111943compromisedintermedb3dc1cb2",
+   "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "标题：'你的网银密码白给了'——证书机构被黑背后的信任危机",
+   "hook_reason": "核心证书机构被攻破，所有HTTPS网站安全性存疑，读者会担心自己的账号资金安全",
+   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:cve2026111943compromisedintermediatecert"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
