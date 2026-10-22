@@ -9435,19 +9435,6 @@
    "batch_window": 13
   },
   {
-   "key": "孟羽童晒与董明珠合照",
-   "title": "孟羽童晒与董明珠合照",
-   "rating": "A",
-   "score": 90.0,
-   "angle": "从合照解读董明珠对孟羽童态度转变，切入企业家用人观与职场关系话题",
-   "hook_reason": "董明珠+孟羽童话题人物自带流量，合照释放信号引发职场关系解读欲",
-   "url": "https://www.toutiao.com/trending/7699092614008504361/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:孟羽童晒与董明珠合照",
-   "batch_window": 14
-  },
-  {
    "key": "女子地铁站内看书5个小时被扣15元怎么看待地铁超时收费其中读书空间等消费场景的设置合理吗",
    "title": "女子地铁站内看书 5 个小时被扣 15 元，怎么看待地铁超时收费？其中读书空间等消费场景的设置合理吗？",
    "rating": "A",
@@ -9472,6 +9459,84 @@
    "breaking": true,
    "event_id": "e:特斯拉2030年目标年产500万辆",
    "batch_window": 14
+  },
+  {
+   "key": "演员白鹿名下公司均已注销",
+   "title": "演员白鹿名下公司均已注销",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "流量巨星业务大重组：影视宣发黄金期+大剧待播档，为何此时注销全部公司？背后是避税质疑、跑路前兆，还是为某部大戏清障？深挖这位顶流女主最新动作",
+   "hook_reason": "流量女王突然注销全部公司，影视宣发期+大剧待播，背后必有重大布局/避税/跑路疑云",
+   "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%99%BD%E9%B9%BF%E5%90%8D%E4%B8%8B%E5%85%AC%E5%8F%B8%E5%9D%87%E5%B7%B2%E6%B3%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:演员白鹿名下公司均已注销",
+   "batch_window": 15
+  },
+  {
+   "key": "worldtuiitraineda360mmodeltopretendtobeaterminal",
+   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "AI微型化趋势：一个小模型如何欺骗终端协议栈？开发者用趣味实验展示AI边界探索，折射社区对'够用就行'的极致追求。",
+   "hook_reason": "3亿参数模型模拟终端，AI开发者脑洞大开",
+   "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:worldtuiitraineda360mmodeltopretendtobea",
+   "batch_window": 15
+  },
+  {
+   "key": "日本关键稀土钇储备将耗尽求助美国敦促中方放宽管制稀土将耗尽一事将对日方产生多大影响",
+   "title": "日本关键稀土钇储备将耗尽，求助美国敦促中方放宽管制，稀土将耗尽一事将对日方产生多大影响？",
+   "rating": "A",
+   "score": 72.87,
+   "angle": "从地缘博弈切入，拆解稀土管制如何卡住日本半导体和军工产业链的脖子",
+   "hook_reason": "中日稀土博弈升级，日本求美国施压中国，民众切身利益相关",
+   "url": "https://www.zhihu.com/question/2096043493517013110",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:日本关键稀土钇储备将耗尽求助美国敦促中方放宽管制稀土将耗尽一事将对日方产生多大影",
+   "batch_window": 15
+  },
+  {
+   "key": "黄仁勋谈及neoclouds相当有信心能够找到解决方案",
+   "title": "黄仁勋谈及Neoclouds：相当有信心能够找到解决方案。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从黄仁勋表态切入，解读NVIDIA在Neoclouds方向的技术布局与行业竞争态势",
+   "hook_reason": "黄仁勋亲口回应Neoclouds难题，NVIDIA AI战略核心",
+   "url": "https://finance.sina.cn/7x24/2026-10-22/detail-iniwarrq8140532.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋谈及neoclouds相当有信心能够找到解决方案",
+   "batch_window": 15
+  },
+  {
+   "key": "巴克莱将裁员5000人称ai提效",
+   "title": "巴克莱将裁员5000人，称“AI提效”",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从金融巨头的AI裁员切入，透视科技对传统岗位的冲击与职场人的生存焦虑",
+   "hook_reason": "AI竟成裁员理由？巴克莱5000人饭碗引发职场恐慌",
+   "url": "https://finance.sina.cn/7x24/2026-10-22/detail-iniwarrq8139340.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:巴克莱将裁员5000人称ai提效",
+   "batch_window": 15
+  },
+  {
+   "key": "创业板失守2600点",
+   "title": "创业板失守2600点",
+   "rating": "A",
+   "score": 51.26,
+   "angle": "从2600点心理关口切入，拆解今日下跌主因（外资流出/成长股估值压力），预判短期支撑与反弹窗口，给普通投资者操作建议。",
+   "hook_reason": "2600点整数关口失守，散户情绪临界，市场博弈加剧",
+   "url": "https://www.toutiao.com/trending/7699356893084388927/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:创业板失守2600点",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -10159,7 +10224,8 @@
   "樊振东发文抵制偷拍",
   "小米新车要下饺子8款新车商标曝光",
   "thedecoherencetrap",
-  "人民日报评老师被家长无理举报"
+  "人民日报评老师被家长无理举报",
+  "孟羽童晒与董明珠合照"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10783,7 +10849,8 @@
   "e:樊振东发文抵制偷拍": "樊振东发文抵制偷拍",
   "e:小米新车要下饺子8款新车商标曝光": "小米新车要下饺子 8款新车商标曝光",
   "e:thedecoherencetrap": "The Decoherence Trap",
-  "e:人民日报评老师被家长无理举报": "人民日报评老师被家长无理举报"
+  "e:人民日报评老师被家长无理举报": "人民日报评老师被家长无理举报",
+  "e:孟羽童晒与董明珠合照": "孟羽童晒与董明珠合照"
  },
  "a_seen": {
   "年轻人盯上养老院里的新职业": {
@@ -11361,8 +11428,80 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:特斯拉2030年目标年产500万辆"
+  },
+  "演员白鹿名下公司均已注销": {
+   "key": "演员白鹿名下公司均已注销",
+   "title": "演员白鹿名下公司均已注销",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "流量巨星业务大重组：影视宣发黄金期+大剧待播档，为何此时注销全部公司？背后是避税质疑、跑路前兆，还是为某部大戏清障？深挖这位顶流女主最新动作",
+   "hook_reason": "流量女王突然注销全部公司，影视宣发期+大剧待播，背后必有重大布局/避税/跑路疑云",
+   "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%99%BD%E9%B9%BF%E5%90%8D%E4%B8%8B%E5%85%AC%E5%8F%B8%E5%9D%87%E5%B7%B2%E6%B3%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:演员白鹿名下公司均已注销"
+  },
+  "worldtuiitraineda360mmodeltopretendtobeaterminal": {
+   "key": "worldtuiitraineda360mmodeltopretendtobeaterminal",
+   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "AI微型化趋势：一个小模型如何欺骗终端协议栈？开发者用趣味实验展示AI边界探索，折射社区对'够用就行'的极致追求。",
+   "hook_reason": "3亿参数模型模拟终端，AI开发者脑洞大开",
+   "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:worldtuiitraineda360mmodeltopretendtobea"
+  },
+  "日本关键稀土钇储备将耗尽求助美国敦促中方放宽管制稀土将耗尽一事将对日方产生多大影响": {
+   "key": "日本关键稀土钇储备将耗尽求助美国敦促中方放宽管制稀土将耗尽一事将对日方产生多大影响",
+   "title": "日本关键稀土钇储备将耗尽，求助美国敦促中方放宽管制，稀土将耗尽一事将对日方产生多大影响？",
+   "rating": "A",
+   "score": 72.87,
+   "angle": "从地缘博弈切入，拆解稀土管制如何卡住日本半导体和军工产业链的脖子",
+   "hook_reason": "中日稀土博弈升级，日本求美国施压中国，民众切身利益相关",
+   "url": "https://www.zhihu.com/question/2096043493517013110",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:日本关键稀土钇储备将耗尽求助美国敦促中方放宽管制稀土将耗尽一事将对日方产生多大影"
+  },
+  "黄仁勋谈及neoclouds相当有信心能够找到解决方案": {
+   "key": "黄仁勋谈及neoclouds相当有信心能够找到解决方案",
+   "title": "黄仁勋谈及Neoclouds：相当有信心能够找到解决方案。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从黄仁勋表态切入，解读NVIDIA在Neoclouds方向的技术布局与行业竞争态势",
+   "hook_reason": "黄仁勋亲口回应Neoclouds难题，NVIDIA AI战略核心",
+   "url": "https://finance.sina.cn/7x24/2026-10-22/detail-iniwarrq8140532.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋谈及neoclouds相当有信心能够找到解决方案"
+  },
+  "巴克莱将裁员5000人称ai提效": {
+   "key": "巴克莱将裁员5000人称ai提效",
+   "title": "巴克莱将裁员5000人，称“AI提效”",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从金融巨头的AI裁员切入，透视科技对传统岗位的冲击与职场人的生存焦虑",
+   "hook_reason": "AI竟成裁员理由？巴克莱5000人饭碗引发职场恐慌",
+   "url": "https://finance.sina.cn/7x24/2026-10-22/detail-iniwarrq8139340.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:巴克莱将裁员5000人称ai提效"
+  },
+  "创业板失守2600点": {
+   "key": "创业板失守2600点",
+   "title": "创业板失守2600点",
+   "rating": "A",
+   "score": 51.26,
+   "angle": "从2600点心理关口切入，拆解今日下跌主因（外资流出/成长股估值压力），预判短期支撑与反弹窗口，给普通投资者操作建议。",
+   "hook_reason": "2600点整数关口失守，散户情绪临界，市场博弈加剧",
+   "url": "https://www.toutiao.com/trending/7699356893084388927/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:创业板失守2600点"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 14
+ "a_pushed_window": 15
 }
