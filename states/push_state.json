@@ -9188,19 +9188,6 @@
    "batch_window": 9
   },
   {
-   "key": "辛芷蕾凭日掛中天获威尼斯影后却未入围金鸡奖如何看待这一结果",
-   "title": "辛芷蕾凭《日掛中天》获威尼斯影后却未入围金鸡奖，如何看待这一结果？",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "从金鸡奖入围名单缺失辛芷蕾切入，讨论国产电影评价体系的审美取向与话语权",
-   "hook_reason": "国际影后 vs 国内零入围，反差拉满引争议",
-   "url": "https://www.zhihu.com/question/2095497362407960648",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:辛芷蕾凭日掛中天获威尼斯影后却未入围金鸡奖如何看待这一结果",
-   "batch_window": 9
-  },
-  {
    "key": "传字节阿里腾讯花350亿美元订购英伟达工作站gpu大厂为何转向采购该显卡",
    "title": "传字节阿里腾讯花 350 亿美元订购英伟达工作站 GPU，大厂为何转向采购该显卡？",
    "rating": "A",
@@ -9732,6 +9719,58 @@
    "breaking": true,
    "event_id": "e:arcissunsetting",
    "batch_window": 1
+  },
+  {
+   "key": "showhnrunfullios165firmwareonandroiddevices",
+   "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从技术实现、行业冲击、用户选择三重角度拆解，引发安卓/iOS粉丝站队讨论",
+   "hook_reason": "安卓跑iOS系统？技术突破还是噱头？",
+   "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:showhnrunfullios165firmwareonandroiddevi",
+   "batch_window": 2
+  },
+  {
+   "key": "市场消息美国和乌克兰官员称在特朗普与马斯克通话后不久星链系统于周四恢复了较",
+   "title": "市场消息：美国和乌克兰官员称，在特朗普与马斯克通话后不久，星链系统于周四恢复了较",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从星链恢复时机切入，质疑特朗普与马斯克通话是否直接干预了军事通信服务，牵扯政商利益关系",
+   "hook_reason": "特朗普马斯克通话后星链秒恢复，疑似政治交易？",
+   "url": "https://finance.sina.cn/7x24/2026-10-23/detail-iniwctce4943137.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:市场消息美国和乌克兰官员称在特朗普与马斯克通话后不久星链系统于周四恢复了较",
+   "batch_window": 2
+  },
+  {
+   "key": "美股芯片光通信股深夜跳水",
+   "title": "美股芯片、光通信股深夜跳水",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "美股芯片光通信暴跌映射A股，拆解对国内半导体板块短期冲击与抄底机会",
+   "hook_reason": "美股深夜暴跌，股民夜不能寐，谁在砸盘？",
+   "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:美股芯片光通信股深夜跳水",
+   "batch_window": 2
+  },
+  {
+   "key": "马斯克的技术霸权正架空美军事霸权吗",
+   "title": "马斯克的技术霸权正架空美军事霸权吗",
+   "rating": "A",
+   "score": 80.45,
+   "angle": "SpaceX星链如何重构地缘政治，科技霸权正在取代传统军事霸权",
+   "hook_reason": "马斯克用技术颠覆军事霸权，颠覆认知冲击大",
+   "url": "https://www.toutiao.com/trending/7699480733047603227/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:马斯克的技术霸权正架空美军事霸权吗",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -10440,7 +10479,8 @@
   "国乒男团3比0韩国亚锦赛4连冠",
   "市场消息美国卫生与公众服务部高级顾问卡莉米斯已辞职",
   "欧莱雅首席执行官减肥药使用增加将提振护肤品业务",
-  "时速400公里的高铁真要来了吗"
+  "时速400公里的高铁真要来了吗",
+  "辛芷蕾凭日掛中天获威尼斯影后却未入围金鸡奖如何看待这一结果"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11085,7 +11125,8 @@
   "e:国乒男团3比0韩国亚锦赛4连冠": "国乒男团3比0韩国 亚锦赛4连冠",
   "e:市场消息美国卫生与公众服务部高级顾问卡莉米斯已辞职": "市场消息：美国卫生与公众服务部高级顾问卡莉·米斯已辞职。",
   "e:欧莱雅首席执行官减肥药使用增加将提振护肤品业务": "欧莱雅首席执行官：减肥药使用增加将提振护肤品业务。",
-  "e:时速400公里的高铁真要来了吗": "时速400公里的高铁真要来了吗"
+  "e:时速400公里的高铁真要来了吗": "时速400公里的高铁真要来了吗",
+  "e:辛芷蕾凭日掛中天获威尼斯影后却未入围金鸡奖如何看待这一结果": "辛芷蕾凭《日掛中天》获威尼斯影后却未入围金鸡奖，如何看待这一结果？"
  },
  "a_seen": {
   "人形机器人板块集体涨停释放何信号": {
@@ -11231,8 +11272,56 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:英伟达市值9天蒸发约4万亿元全球ai股集体遭抛售ai泡沫是不是要破了"
+  },
+  "showhnrunfullios165firmwareonandroiddevices": {
+   "key": "showhnrunfullios165firmwareonandroiddevices",
+   "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从技术实现、行业冲击、用户选择三重角度拆解，引发安卓/iOS粉丝站队讨论",
+   "hook_reason": "安卓跑iOS系统？技术突破还是噱头？",
+   "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:showhnrunfullios165firmwareonandroiddevi"
+  },
+  "市场消息美国和乌克兰官员称在特朗普与马斯克通话后不久星链系统于周四恢复了较": {
+   "key": "市场消息美国和乌克兰官员称在特朗普与马斯克通话后不久星链系统于周四恢复了较",
+   "title": "市场消息：美国和乌克兰官员称，在特朗普与马斯克通话后不久，星链系统于周四恢复了较",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从星链恢复时机切入，质疑特朗普与马斯克通话是否直接干预了军事通信服务，牵扯政商利益关系",
+   "hook_reason": "特朗普马斯克通话后星链秒恢复，疑似政治交易？",
+   "url": "https://finance.sina.cn/7x24/2026-10-23/detail-iniwctce4943137.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:市场消息美国和乌克兰官员称在特朗普与马斯克通话后不久星链系统于周四恢复了较"
+  },
+  "美股芯片光通信股深夜跳水": {
+   "key": "美股芯片光通信股深夜跳水",
+   "title": "美股芯片、光通信股深夜跳水",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "美股芯片光通信暴跌映射A股，拆解对国内半导体板块短期冲击与抄底机会",
+   "hook_reason": "美股深夜暴跌，股民夜不能寐，谁在砸盘？",
+   "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:美股芯片光通信股深夜跳水"
+  },
+  "马斯克的技术霸权正架空美军事霸权吗": {
+   "key": "马斯克的技术霸权正架空美军事霸权吗",
+   "title": "马斯克的技术霸权正架空美军事霸权吗",
+   "rating": "A",
+   "score": 80.45,
+   "angle": "SpaceX星链如何重构地缘政治，科技霸权正在取代传统军事霸权",
+   "hook_reason": "马斯克用技术颠覆军事霸权，颠覆认知冲击大",
+   "url": "https://www.toutiao.com/trending/7699480733047603227/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:马斯克的技术霸权正架空美军事霸权吗"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
