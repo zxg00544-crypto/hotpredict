@@ -8200,19 +8200,6 @@
    "batch_window": 12
   },
   {
-   "key": "小米新车要下饺子8款新车商标曝光",
-   "title": "小米新车要下饺子 8款新车商标曝光",
-   "rating": "A",
-   "score": 84.0,
-   "angle": "从小米汽车\"下饺子\"式布局切入，拆解雷军造车战略下一步棋及行业影响",
-   "hook_reason": "小米8款新车商标曝光，雷军造车再放大招？",
-   "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%96%B0%E8%BD%A6%E8%A6%81%E4%B8%8B%E9%A5%BA%E5%AD%90+8%E6%AC%BE%E6%96%B0%E8%BD%A6%E5%95%86%E6%A0%87%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:小米新车要下饺子8款新车商标曝光",
-   "batch_window": 13
-  },
-  {
    "key": "山东淄博市副市长沙向东被查",
    "title": "山东淄博市副市长沙向东被查",
    "rating": "A",
@@ -9394,6 +9381,58 @@
    "breaking": true,
    "event_id": "e:国家数据集团成立有何意义",
    "batch_window": 11
+  },
+  {
+   "key": "腾讯股价跌破400港元创新低市值较高点缩水近四成问题出在哪市场对腾讯的估值逻辑发生哪些转变",
+   "title": "腾讯股价跌破 400 港元创新低，市值较高点缩水近四成，问题出在哪？市场对腾讯的估值逻辑发生哪些转变？",
+   "rating": "A",
+   "score": 45.5,
+   "angle": "从估值逻辑转变切入，解析腾讯为何不再被市场迷信",
+   "hook_reason": "腾讯市值蒸发四成，持仓者恐慌求答案",
+   "url": "https://www.zhihu.com/question/2096284238119228758",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:腾讯股价跌破400港元创新低市值较高点缩水近四成问题出在哪市场对腾讯的估值逻辑发",
+   "batch_window": 12
+  },
+  {
+   "key": "沪指跌11续创2025年8月以来新低",
+   "title": "沪指跌1.1%续创2025年8月以来新低",
+   "rating": "A",
+   "score": 57.18,
+   "angle": "从市场恐慌情绪切入，分析下跌原因及对普通投资者的应对策略",
+   "hook_reason": "沪指连创新低，股民资产缩水，恐慌情绪蔓延",
+   "url": "https://www.toutiao.com/trending/7699313547720789558/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:沪指跌11续创2025年8月以来新低",
+   "batch_window": 12
+  },
+  {
+   "key": "anthropic发布主动式agent",
+   "title": "Anthropic发布主动式Agent",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "拆解主动式Agent技术突破，对比OpenAI同类产品，分析对AI应用层的冲击",
+   "hook_reason": "Anthropic重磅发布主动式Agent，AI圈顶级玩家再出大招",
+   "url": "https://search.bilibili.com/all?keyword=Anthropic发布主动式Agent",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic发布主动式agent",
+   "batch_window": 12
+  },
+  {
+   "key": "女子称地铁站内看5小时书被扣15元",
+   "title": "女子称地铁站内看5小时书被扣15元",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深挖地铁管理规则合理性，连接通勤族痛点，引发'我的地铁我做主'情绪共鸣",
+   "hook_reason": "地铁读书被罚款，挑战大众对公共空间规则的认知底线",
+   "url": "https://www.toutiao.com/trending/7699102435960291379/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子称地铁站内看5小时书被扣15元",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -10078,7 +10117,8 @@
   "江北柯林斯刚刚读完但总的时间的玫瑰里面但总0708年当初的预测很多都已成",
   "谷歌ceo最新访谈外界都说谷歌放弃了最强模型他只回了三个字quot非常错quo",
   "潘功胜关于当前市场关注若干问题的思考2026金融街论坛年会演讲全文网页链接网页链接",
-  "樊振东发文抵制偷拍"
+  "樊振东发文抵制偷拍",
+  "小米新车要下饺子8款新车商标曝光"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10699,7 +10739,8 @@
   "e:江北柯林斯刚刚读完但总的时间的玫瑰里面但总0708年当初的预测很多都已成": "// @江北柯林斯 :刚刚读完但总的《时间的玫瑰》，里面但总 07，08 年当初的预测很多都已成",
   "e:谷歌ceo最新访谈外界都说谷歌放弃了最强模型他只回了三个字quot非常错quo": "谷歌 CEO 最新访谈：外界都说谷歌放弃了最强模型，他只回了三个字——&quot;非常错&quo",
   "e:吴清在2026金融街论坛年会上的主题演讲全文网页链接网页链接": "潘功胜：关于当前市场关注若干问题的思考（2026金融街论坛年会演讲全文） 网页链接 网页链接",
-  "e:樊振东发文抵制偷拍": "樊振东发文抵制偷拍"
+  "e:樊振东发文抵制偷拍": "樊振东发文抵制偷拍",
+  "e:小米新车要下饺子8款新车商标曝光": "小米新车要下饺子 8款新车商标曝光"
  },
  "a_seen": {
   "年轻人盯上养老院里的新职业": {
@@ -11169,8 +11210,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:国家数据集团成立有何意义"
+  },
+  "腾讯股价跌破400港元创新低市值较高点缩水近四成问题出在哪市场对腾讯的估值逻辑发生哪些转变": {
+   "key": "腾讯股价跌破400港元创新低市值较高点缩水近四成问题出在哪市场对腾讯的估值逻辑发生哪些转变",
+   "title": "腾讯股价跌破 400 港元创新低，市值较高点缩水近四成，问题出在哪？市场对腾讯的估值逻辑发生哪些转变？",
+   "rating": "A",
+   "score": 45.5,
+   "angle": "从估值逻辑转变切入，解析腾讯为何不再被市场迷信",
+   "hook_reason": "腾讯市值蒸发四成，持仓者恐慌求答案",
+   "url": "https://www.zhihu.com/question/2096284238119228758",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:腾讯股价跌破400港元创新低市值较高点缩水近四成问题出在哪市场对腾讯的估值逻辑发"
+  },
+  "沪指跌11续创2025年8月以来新低": {
+   "key": "沪指跌11续创2025年8月以来新低",
+   "title": "沪指跌1.1%续创2025年8月以来新低",
+   "rating": "A",
+   "score": 57.18,
+   "angle": "从市场恐慌情绪切入，分析下跌原因及对普通投资者的应对策略",
+   "hook_reason": "沪指连创新低，股民资产缩水，恐慌情绪蔓延",
+   "url": "https://www.toutiao.com/trending/7699313547720789558/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:沪指跌11续创2025年8月以来新低"
+  },
+  "anthropic发布主动式agent": {
+   "key": "anthropic发布主动式agent",
+   "title": "Anthropic发布主动式Agent",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "拆解主动式Agent技术突破，对比OpenAI同类产品，分析对AI应用层的冲击",
+   "hook_reason": "Anthropic重磅发布主动式Agent，AI圈顶级玩家再出大招",
+   "url": "https://search.bilibili.com/all?keyword=Anthropic发布主动式Agent",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic发布主动式agent"
+  },
+  "女子称地铁站内看5小时书被扣15元": {
+   "key": "女子称地铁站内看5小时书被扣15元",
+   "title": "女子称地铁站内看5小时书被扣15元",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深挖地铁管理规则合理性，连接通勤族痛点，引发'我的地铁我做主'情绪共鸣",
+   "hook_reason": "地铁读书被罚款，挑战大众对公共空间规则的认知底线",
+   "url": "https://www.toutiao.com/trending/7699102435960291379/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子称地铁站内看5小时书被扣15元"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
