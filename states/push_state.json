@@ -9771,6 +9771,45 @@
    "breaking": false,
    "event_id": "e:马斯克的技术霸权正架空美军事霸权吗",
    "batch_window": 2
+  },
+  {
+   "key": "nvidiaopenshell",
+   "title": "Nvidia OpenShell",
+   "rating": "A",
+   "score": 79.0,
+   "angle": "AI巨头首次开源底层工具，开发者生态布局信号",
+   "hook_reason": "NVIDIA首次开源",
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nvidiaopenshell",
+   "batch_window": 2
+  },
+  {
+   "key": "googlecleared300hectaresoffinnishforest",
+   "title": "Google cleared 300 hectares of Finnish forest",
+   "rating": "A",
+   "score": 75.45,
+   "angle": "科技巨头基建狂魔背后：300公顷森林消失，绿色承诺还能信吗？",
+   "hook_reason": "Google砍芬兰森林建数据中心，环保vs科技冲突拉满",
+   "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:googlecleared300hectaresoffinnishforest",
+   "batch_window": 2
+  },
+  {
+   "key": "特朗普要求马斯克解除对乌星链限速",
+   "title": "特朗普要求马斯克解除对乌星链限速",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读特朗普为何此时要求马斯克松绑星链，透视美俄乌三角关系的权力博弈",
+   "hook_reason": "特朗普马斯克强强互动，权力与资本的碰撞引爆全民围观",
+   "url": "https://finance.sina.cn/7x24/2026-10-23/detail-iniwctca8184182.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普要求马斯克解除对乌星链限速",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -11277,9 +11316,9 @@
    "key": "showhnrunfullios165firmwareonandroiddevices",
    "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
    "rating": "A",
-   "score": 76.5,
-   "angle": "从技术实现、行业冲击、用户选择三重角度拆解，引发安卓/iOS粉丝站队讨论",
-   "hook_reason": "安卓跑iOS系统？技术突破还是噱头？",
+   "score": 75.8,
+   "angle": "从技术突破角度看iOS/Android阵营博弈，解析项目原理与可行性边界",
+   "hook_reason": "安卓跑iOS？黑科技打破平台壁垒，果粉与安卓党必围观",
    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
    "track": "科技",
    "breaking": true,
@@ -11320,6 +11359,42 @@
    "track": "科技",
    "breaking": false,
    "event_id": "e:马斯克的技术霸权正架空美军事霸权吗"
+  },
+  "nvidiaopenshell": {
+   "key": "nvidiaopenshell",
+   "title": "Nvidia OpenShell",
+   "rating": "A",
+   "score": 79.0,
+   "angle": "AI巨头首次开源底层工具，开发者生态布局信号",
+   "hook_reason": "NVIDIA首次开源",
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nvidiaopenshell"
+  },
+  "googlecleared300hectaresoffinnishforest": {
+   "key": "googlecleared300hectaresoffinnishforest",
+   "title": "Google cleared 300 hectares of Finnish forest",
+   "rating": "A",
+   "score": 75.45,
+   "angle": "科技巨头基建狂魔背后：300公顷森林消失，绿色承诺还能信吗？",
+   "hook_reason": "Google砍芬兰森林建数据中心，环保vs科技冲突拉满",
+   "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:googlecleared300hectaresoffinnishforest"
+  },
+  "特朗普要求马斯克解除对乌星链限速": {
+   "key": "特朗普要求马斯克解除对乌星链限速",
+   "title": "特朗普要求马斯克解除对乌星链限速",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读特朗普为何此时要求马斯克松绑星链，透视美俄乌三角关系的权力博弈",
+   "hook_reason": "特朗普马斯克强强互动，权力与资本的碰撞引爆全民围观",
+   "url": "https://finance.sina.cn/7x24/2026-10-23/detail-iniwctca8184182.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普要求马斯克解除对乌星链限速"
   }
  },
  "breaking_count": 10,
