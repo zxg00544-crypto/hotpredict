@@ -9461,19 +9461,6 @@
    "batch_window": 14
   },
   {
-   "key": "演员白鹿名下公司均已注销",
-   "title": "演员白鹿名下公司均已注销",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "流量巨星业务大重组：影视宣发黄金期+大剧待播档，为何此时注销全部公司？背后是避税质疑、跑路前兆，还是为某部大戏清障？深挖这位顶流女主最新动作",
-   "hook_reason": "流量女王突然注销全部公司，影视宣发期+大剧待播，背后必有重大布局/避税/跑路疑云",
-   "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%99%BD%E9%B9%BF%E5%90%8D%E4%B8%8B%E5%85%AC%E5%8F%B8%E5%9D%87%E5%B7%B2%E6%B3%A8%E9%94%80&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:演员白鹿名下公司均已注销",
-   "batch_window": 15
-  },
-  {
    "key": "worldtuiitraineda360mmodeltopretendtobeaterminal",
    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
    "rating": "A",
@@ -9576,6 +9563,19 @@
    "breaking": true,
    "event_id": "e:为什么我国的中学生大部分都不会做引体向上",
    "batch_window": 15
+  },
+  {
+   "key": "原湖南湘投控股集团董事长邓军民等4人被提起公诉",
+   "title": "原湖南湘投控股集团董事长邓军民等4人被提起公诉",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深挖湘投集团国资背景、邓军民履历及同类国企反腐案例，形成系列报道",
+   "hook_reason": "国企一把手落马，反腐风暴持续，公众对官商勾结话题高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-22/detail-iniwavxn8098501.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:原湖南湘投控股集团董事长邓军民等4人被提起公诉",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -10264,7 +10264,8 @@
   "小米新车要下饺子8款新车商标曝光",
   "thedecoherencetrap",
   "人民日报评老师被家长无理举报",
-  "孟羽童晒与董明珠合照"
+  "孟羽童晒与董明珠合照",
+  "演员白鹿名下公司均已注销"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -10889,7 +10890,8 @@
   "e:小米新车要下饺子8款新车商标曝光": "小米新车要下饺子 8款新车商标曝光",
   "e:thedecoherencetrap": "The Decoherence Trap",
   "e:人民日报评老师被家长无理举报": "人民日报评老师被家长无理举报",
-  "e:孟羽童晒与董明珠合照": "孟羽童晒与董明珠合照"
+  "e:孟羽童晒与董明珠合照": "孟羽童晒与董明珠合照",
+  "e:演员白鹿名下公司均已注销": "演员白鹿名下公司均已注销"
  },
  "a_seen": {
   "年轻人盯上养老院里的新职业": {
@@ -11575,8 +11577,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:为什么我国的中学生大部分都不会做引体向上"
+  },
+  "原湖南湘投控股集团董事长邓军民等4人被提起公诉": {
+   "key": "原湖南湘投控股集团董事长邓军民等4人被提起公诉",
+   "title": "原湖南湘投控股集团董事长邓军民等4人被提起公诉",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深挖湘投集团国资背景、邓军民履历及同类国企反腐案例，形成系列报道",
+   "hook_reason": "国企一把手落马，反腐风暴持续，公众对官商勾结话题高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-22/detail-iniwavxn8098501.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:原湖南湘投控股集团董事长邓军民等4人被提起公诉"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 15
+ "a_pushed_window": 16
 }
