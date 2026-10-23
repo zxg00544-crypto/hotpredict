@@ -5223,19 +5223,6 @@
    "batch_window": 21
   },
   {
-   "key": "微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位吗",
-   "title": "微信上线绿泡泡短剧，腾讯此前多次进军短剧市场都效果平平，这次能成功吗？能撼动红果的地位吗？",
-   "rating": "A",
-   "score": 80.5,
-   "angle": "从腾讯短剧战略失败史切入，分析'绿泡泡'差异化打法及能否颠覆红果格局",
-   "hook_reason": "腾讯短剧屡次失利后再次出招，这次能否逆袭红果引发关注",
-   "url": "https://www.zhihu.com/question/2093689082383524747",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位",
-   "batch_window": 21
-  },
-  {
    "key": "装修公司投身ai漫剧市值暴涨16亿",
    "title": "装修公司投身AI漫剧 市值暴涨16亿",
    "rating": "A",
@@ -10148,6 +10135,32 @@
    "breaking": true,
    "event_id": "e:英国首相伯纳姆与美国总统特朗普会谈时强调乌克兰应当能够完整使用星链starl",
    "batch_window": 2
+  },
+  {
+   "key": "applemusic404notfound",
+   "title": "Apple Music 404 Not Found",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从Apple Music宕机切入，讨论大厂服务稳定性与用户体验信任危机",
+   "hook_reason": "苹果服务宕机引发全网吐槽，技术故障vs用户情绪的天然冲突点",
+   "url": "https://music.apple.com/this-url-doesnt-exist",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:applemusic404notfound",
+   "batch_window": 3
+  },
+  {
+   "key": "微软与动视暴雪25亿美元集体诉讼和解协议获批",
+   "title": "微软与动视暴雪2.5亿美元集体诉讼和解协议获批。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从微软收购动视暴雪的收尾视角切入，分析2.5亿和解背后的玩家维权与资本博弈",
+   "hook_reason": "微软收购动视后最大和解，2.5亿赔偿玩家/投资者谁受益",
+   "url": "https://finance.sina.cn/7x24/2026-10-24/detail-iniwhaiy8269735.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:微软与动视暴雪25亿美元集体诉讼和解协议获批",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -10891,7 +10904,8 @@
   "如何评价2026年10月米哈游原神72版本前瞻直播坏灭肇始之时",
   "分析师sk海力士放弃solidigm美国ipo计划或利好美光科技和闪迪",
   "普京不排除与特朗普赴华会晤可能性",
-  "eyeofsauronlongrangehiddenspycameradetection"
+  "eyeofsauronlongrangehiddenspycameradetection",
+  "微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11571,7 +11585,8 @@
   "e:如何评价2026年10月米哈游原神72版本前瞻直播坏灭肇始之时": "如何评价2026年10月米哈游《原神》7.2版本前瞻直播【坏灭肇始之时】？",
   "e:分析师sk海力士放弃solidigm美国ipo计划或利好美光科技和闪迪": "分析师：SK海力士放弃Solidigm美国IPO计划，或利好美光科技和闪迪",
   "e:普京不排除与特朗普赴华会晤可能性": "普京：不排除与特朗普赴华会晤可能性",
-  "e:eyeofsauronlongrangehiddenspycameradetec": "Eye of Sauron: Long-Range Hidden Spy Camera Detection"
+  "e:eyeofsauronlongrangehiddenspycameradetec": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+  "e:微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位": "微信上线绿泡泡短剧，腾讯此前多次进军短剧市场都效果平平，这次能成功吗？能撼动红果的地位吗？"
  },
  "a_seen": {
   "俄国防部俄方控制的奥列什基将于10月27日停火": {
@@ -11645,8 +11660,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:英国首相伯纳姆与美国总统特朗普会谈时强调乌克兰应当能够完整使用星链starl"
+  },
+  "applemusic404notfound": {
+   "key": "applemusic404notfound",
+   "title": "Apple Music 404 Not Found",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从Apple Music宕机切入，讨论大厂服务稳定性与用户体验信任危机",
+   "hook_reason": "苹果服务宕机引发全网吐槽，技术故障vs用户情绪的天然冲突点",
+   "url": "https://music.apple.com/this-url-doesnt-exist",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:applemusic404notfound"
+  },
+  "微软与动视暴雪25亿美元集体诉讼和解协议获批": {
+   "key": "微软与动视暴雪25亿美元集体诉讼和解协议获批",
+   "title": "微软与动视暴雪2.5亿美元集体诉讼和解协议获批。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从微软收购动视暴雪的收尾视角切入，分析2.5亿和解背后的玩家维权与资本博弈",
+   "hook_reason": "微软收购动视后最大和解，2.5亿赔偿玩家/投资者谁受益",
+   "url": "https://finance.sina.cn/7x24/2026-10-24/detail-iniwhaiy8269735.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:微软与动视暴雪25亿美元集体诉讼和解协议获批"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
