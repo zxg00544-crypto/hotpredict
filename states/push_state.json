@@ -7017,19 +7017,6 @@
    "batch_window": 18
   },
   {
-   "key": "如何评价deepseekv41flash1017",
-   "title": "如何评价DeepSeek V4.1 Flash 1017?",
-   "rating": "A",
-   "score": 80.5,
-   "angle": "DeepSeek V4.1 Flash 1017技术突破点解析，对比中美AI代差与商业落地价值",
-   "hook_reason": "国产AI新品登顶知乎热一，1小时破千万热度",
-   "url": "https://www.zhihu.com/question/2094773240036061683",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:如何评价deepseekv41flash1017",
-   "batch_window": 19
-  },
-  {
    "key": "2026微博v影响力大会奖项揭晓",
    "title": "2026微博V影响力大会奖项揭晓",
    "rating": "A",
@@ -10148,6 +10135,19 @@
    "breaking": false,
    "event_id": "e:a股市场底部探明了吗",
    "batch_window": 4
+  },
+  {
+   "key": "dessathemostauthenticfullduplexsddc4f7c1",
+   "title": "Dessa: the most authentic full-duplex speech model ever built",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从全双工语音交互的技术突破切入，对比现有语音模型，分析其对AI对话场景的重塑",
+   "hook_reason": "Block发布全新全双工语音模型Dessa，AI语音技术再突破",
+   "url": "https://block.xyz/dessa",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:dessathemostauthenticfullduplexspeechmod",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -10894,7 +10894,8 @@
   "eyeofsauronlongrangehiddenspycameradetection",
   "微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位吗",
   "四部门公布纸尿裤甲酰胺问题调查结果所有抽检均未检出甲酰胺还有哪些信息值得关注",
-  "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345万母亲道歉并承诺会尽快解决"
+  "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345万母亲道歉并承诺会尽快解决",
+  "如何评价deepseekv41flash1017"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11577,7 +11578,8 @@
   "e:eyeofsauronlongrangehiddenspycameradetec": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
   "e:微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位": "微信上线绿泡泡短剧，腾讯此前多次进军短剧市场都效果平平，这次能成功吗？能撼动红果的地位吗？",
   "e:四部门公布纸尿裤甲酰胺问题调查结果所有抽检均未检出甲酰胺还有哪些信息值得关注": "四部门公布纸尿裤甲酰胺问题调查结果，所有抽检均未检出甲酰胺，还有哪些信息值得关注？",
-  "e:如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345万母亲道歉并承诺": "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345 万，母亲道歉并承诺会尽快解决？"
+  "e:如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345万母亲道歉并承诺": "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345 万，母亲道歉并承诺会尽快解决？",
+  "e:如何评价deepseekv41flash1017": "如何评价DeepSeek V4.1 Flash 1017?"
  },
  "a_seen": {
   "俄国防部俄方控制的奥列什基将于10月27日停火": {
@@ -11687,8 +11689,20 @@
    "track": "财经",
    "breaking": false,
    "event_id": "e:a股市场底部探明了吗"
+  },
+  "dessathemostauthenticfullduplexsddc4f7c1": {
+   "key": "dessathemostauthenticfullduplexsddc4f7c1",
+   "title": "Dessa: the most authentic full-duplex speech model ever built",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从全双工语音交互的技术突破切入，对比现有语音模型，分析其对AI对话场景的重塑",
+   "hook_reason": "Block发布全新全双工语音模型Dessa，AI语音技术再突破",
+   "url": "https://block.xyz/dessa",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:dessathemostauthenticfullduplexspeechmod"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
