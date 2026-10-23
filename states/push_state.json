@@ -10046,19 +10046,6 @@
    "batch_window": 12
   },
   {
-   "key": "专家黄金白银崩了",
-   "title": "专家：黄金白银崩了",
-   "rating": "A",
-   "score": 81.8,
-   "angle": "解析黄金白银崩盘的三大原因，普通投资者如何应对",
-   "hook_reason": "金价暴跌关乎普通人钱包，恐慌情绪+权威解读双重吸引",
-   "url": "https://www.toutiao.com/trending/7699700464547270207/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:专家黄金白银崩了",
-   "batch_window": 14
-  },
-  {
    "key": "西藏地震现场地面的裂缝比手宽",
    "title": "西藏地震现场地面的裂缝比手宽",
    "rating": "A",
@@ -10122,6 +10109,58 @@
    "breaking": true,
    "event_id": "e:thesameairequestemits85timesmoreco2intex",
    "batch_window": 15
+  },
+  {
+   "key": "西藏地震已致16死76伤",
+   "title": "西藏地震已致16死76伤",
+   "rating": "A",
+   "score": 87.95,
+   "angle": "从救灾进展、援藏力量、抗震预案三维度切入，突出国家响应速度与高原救援难度对比",
+   "hook_reason": "突发重大灾情，16死76伤牵动全国神经",
+   "url": "https://search.bilibili.com/all?keyword=西藏地震已致16死76伤",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西藏地震已致16死76伤",
+   "batch_window": 16
+  },
+  {
+   "key": "中共中央政治局召开会议",
+   "title": "中共中央政治局召开会议",
+   "rating": "A",
+   "score": 55.93,
+   "angle": "从公报关键词切入，拆解对地产、消费、科技板块的超预期政策信号及资金流向预判",
+   "hook_reason": "最高层定调，资本市场和产业走向即将变盘，每个投资者需关注",
+   "url": "https://www.toutiao.com/article/7699727667100222015",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:中共中央政治局召开会议",
+   "batch_window": 16
+  },
+  {
+   "key": "西藏地震已造成16人遇难76人受伤",
+   "title": "西藏地震已造成16人遇难76人受伤",
+   "rating": "A",
+   "score": 51.26,
+   "angle": "聚焦高原地震救援难点与灾后安置，突出生命至上与救援力量",
+   "hook_reason": "突发地震伤亡数据公布，引发全民关切高原救援",
+   "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E5%B7%B2%E9%80%A0%E6%88%9016%E4%BA%BA%E9%81%87%E9%9A%BE76%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西藏地震已造成16人遇难76人受伤",
+   "batch_window": 16
+  },
+  {
+   "key": "藏在镜头背后的长征故事",
+   "title": "藏在镜头背后的长征故事",
+   "rating": "A",
+   "score": 47.3,
+   "angle": "从B站创作者视角切入，揭秘《长征》纪录片镜头外被遗忘的真实故事与拍摄细节",
+   "hook_reason": "镜头背后揭秘长征纪录片拍摄内幕，满足用户对历史幕后的好奇",
+   "url": "https://search.bilibili.com/all?keyword=藏在镜头背后的长征故事",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:藏在镜头背后的长征故事",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -10844,7 +10883,8 @@
   "9岁孩子开门杀致路人死亡司机获刑",
   "ai发现人类网络潜伏多年的暗门",
   "九旬老人在公共楼道睡了近一年",
-  "钟南山心梗后仍每周运动3次"
+  "钟南山心梗后仍每周运动3次",
+  "专家黄金白银崩了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11503,7 +11543,8 @@
   "e:9岁孩子开门杀致路人死亡司机获刑": "9岁孩子开门杀致路人死亡 司机获刑",
   "e:ai发现人类网络潜伏多年的暗门": "AI发现人类网络潜伏多年的“暗门”",
   "e:九旬老人在公共楼道睡了近一年": "九旬老人在公共楼道睡了近一年",
-  "e:钟南山心梗后仍每周运动3次": "钟南山心梗后仍每周运动3次"
+  "e:钟南山心梗后仍每周运动3次": "钟南山心梗后仍每周运动3次",
+  "e:专家黄金白银崩了": "专家：黄金白银崩了"
  },
  "a_seen": {
   "人形机器人板块集体涨停释放何信号": {
@@ -12254,9 +12295,9 @@
    "key": "php严重漏洞被ai模型发现全球多国政府和企业紧急关闭网站意味着什么将带来哪些影响",
    "title": "PHP 严重漏洞被 AI 模型发现，全球多国政府和企业紧急关闭网站，意味着什么？将带来哪些影响？",
    "rating": "A",
-   "score": 43.7,
-   "angle": "AI在网络安全领域的突破性应用，程序员群体危机感，PHP生态未来走向",
-   "hook_reason": "AI取代人类发现PHP致命漏洞，全球网站瘫痪",
+   "score": 79.5,
+   "angle": "从技术视角解读AI如何改写安全漏洞发现范式，对开发者生态的冲击",
+   "hook_reason": "AI首次发现PHP致命漏洞，多国政府网站紧急瘫痪",
    "url": "https://www.zhihu.com/question/2096865789156356222",
    "track": "科技",
    "breaking": true,
@@ -12297,8 +12338,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:西藏那曲巴青县发生70级地震"
+  },
+  "西藏地震已致16死76伤": {
+   "key": "西藏地震已致16死76伤",
+   "title": "西藏地震已致16死76伤",
+   "rating": "A",
+   "score": 87.95,
+   "angle": "从救灾进展、援藏力量、抗震预案三维度切入，突出国家响应速度与高原救援难度对比",
+   "hook_reason": "突发重大灾情，16死76伤牵动全国神经",
+   "url": "https://search.bilibili.com/all?keyword=西藏地震已致16死76伤",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西藏地震已致16死76伤"
+  },
+  "中共中央政治局召开会议": {
+   "key": "中共中央政治局召开会议",
+   "title": "中共中央政治局召开会议",
+   "rating": "A",
+   "score": 55.93,
+   "angle": "从公报关键词切入，拆解对地产、消费、科技板块的超预期政策信号及资金流向预判",
+   "hook_reason": "最高层定调，资本市场和产业走向即将变盘，每个投资者需关注",
+   "url": "https://www.toutiao.com/article/7699727667100222015",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:中共中央政治局召开会议"
+  },
+  "西藏地震已造成16人遇难76人受伤": {
+   "key": "西藏地震已造成16人遇难76人受伤",
+   "title": "西藏地震已造成16人遇难76人受伤",
+   "rating": "A",
+   "score": 51.26,
+   "angle": "聚焦高原地震救援难点与灾后安置，突出生命至上与救援力量",
+   "hook_reason": "突发地震伤亡数据公布，引发全民关切高原救援",
+   "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E5%B7%B2%E9%80%A0%E6%88%9016%E4%BA%BA%E9%81%87%E9%9A%BE76%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西藏地震已造成16人遇难76人受伤"
+  },
+  "藏在镜头背后的长征故事": {
+   "key": "藏在镜头背后的长征故事",
+   "title": "藏在镜头背后的长征故事",
+   "rating": "A",
+   "score": 47.3,
+   "angle": "从B站创作者视角切入，揭秘《长征》纪录片镜头外被遗忘的真实故事与拍摄细节",
+   "hook_reason": "镜头背后揭秘长征纪录片拍摄内幕，满足用户对历史幕后的好奇",
+   "url": "https://search.bilibili.com/all?keyword=藏在镜头背后的长征故事",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:藏在镜头背后的长征故事"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 15
+ "a_pushed_window": 16
 }
