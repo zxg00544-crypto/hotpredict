@@ -10033,19 +10033,6 @@
    "batch_window": 11
   },
   {
-   "key": "九旬老人在公共楼道睡了近一年",
-   "title": "九旬老人在公共楼道睡了近一年",
-   "rating": "A",
-   "score": 91.0,
-   "angle": "从个体困境切入，追问物业、社区、民政部门为何长期失位，呼吁制度补漏",
-   "hook_reason": "九旬老人睡楼道一年，引发对养老与社区治理的强烈共情与愤怒",
-   "url": "https://www.baidu.com/s?wd=%E4%B9%9D%E6%97%AC%E8%80%81%E4%BA%BA%E5%9C%A8%E5%85%AC%E5%85%B1%E6%A5%BC%E9%81%93%E7%9D%A1%E4%BA%86%E8%BF%91%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:九旬老人在公共楼道睡了近一年",
-   "batch_window": 12
-  },
-  {
    "key": "如何看待令人心动的offer8李子祺在节目里诊断用盲猜称专博不临床10篇sci被指为水刊凑数",
    "title": "如何看待《令人心动的offer8》李子祺在节目里诊断用盲猜，称专博不临床，10篇SCI被指为水刊凑数？",
    "rating": "A",
@@ -10070,6 +10057,32 @@
    "breaking": true,
    "event_id": "e:娃哈哈集团董事长被曝辞职",
    "batch_window": 12
+  },
+  {
+   "key": "专家黄金白银崩了",
+   "title": "专家：黄金白银崩了",
+   "rating": "A",
+   "score": 81.8,
+   "angle": "解析黄金白银崩盘的三大原因，普通投资者如何应对",
+   "hook_reason": "金价暴跌关乎普通人钱包，恐慌情绪+权威解读双重吸引",
+   "url": "https://www.toutiao.com/trending/7699700464547270207/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:专家黄金白银崩了",
+   "batch_window": 14
+  },
+  {
+   "key": "西藏地震现场地面的裂缝比手宽",
+   "title": "西藏地震现场地面的裂缝比手宽",
+   "rating": "A",
+   "score": 53.27,
+   "angle": "现场实拍+地震裂缝成因科普，结合避险知识，时效性强",
+   "hook_reason": "地震现场视觉冲击强，裂缝比手宽易引发传播与恐惧共鸣",
+   "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%E5%9C%B0%E9%9D%A2%E7%9A%84%E8%A3%82%E7%BC%9D%E6%AF%94%E6%89%8B%E5%AE%BD&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西藏地震现场地面的裂缝比手宽",
+   "batch_window": 14
   }
  ],
  "pushed": [
@@ -10790,7 +10803,8 @@
   "董明珠称橘子1块5太贵不准卖",
   "直击iphoneduo开售现场",
   "9岁孩子开门杀致路人死亡司机获刑",
-  "ai发现人类网络潜伏多年的暗门"
+  "ai发现人类网络潜伏多年的暗门",
+  "九旬老人在公共楼道睡了近一年"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11447,7 +11461,8 @@
   "e:董明珠称橘子1块5太贵不准卖": "董明珠称橘子1块5太贵不准卖",
   "e:直击iphoneduo开售现场": "直击iPhone Duo开售现场",
   "e:9岁孩子开门杀致路人死亡司机获刑": "9岁孩子开门杀致路人死亡 司机获刑",
-  "e:ai发现人类网络潜伏多年的暗门": "AI发现人类网络潜伏多年的“暗门”"
+  "e:ai发现人类网络潜伏多年的暗门": "AI发现人类网络潜伏多年的“暗门”",
+  "e:九旬老人在公共楼道睡了近一年": "九旬老人在公共楼道睡了近一年"
  },
  "a_seen": {
   "人形机器人板块集体涨停释放何信号": {
@@ -12126,13 +12141,13 @@
    "key": "专家黄金白银崩了",
    "title": "专家：黄金白银崩了",
    "rating": "A",
-   "score": 92.0,
-   "angle": "从暴跌原因、历史规律、投资建议三角度解读，回应散户焦虑",
-   "hook_reason": "专家断言贵金属崩盘，牵动无数投资者神经",
+   "score": 81.8,
+   "angle": "解析黄金白银崩盘的三大原因，普通投资者如何应对",
+   "hook_reason": "金价暴跌关乎普通人钱包，恐慌情绪+权威解读双重吸引",
    "url": "https://www.toutiao.com/trending/7699700464547270207/",
    "track": "财经",
    "breaking": true,
-   "event_id": "e:黄金白银断崖式大跌"
+   "event_id": "e:专家黄金白银崩了"
   },
   "西藏地震地面裂缝比手宽": {
    "key": "西藏地震地面裂缝比手宽",
@@ -12169,8 +12184,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:西藏那曲巴青县发生70级地震"
+  },
+  "西藏地震现场地面的裂缝比手宽": {
+   "key": "西藏地震现场地面的裂缝比手宽",
+   "title": "西藏地震现场地面的裂缝比手宽",
+   "rating": "A",
+   "score": 53.27,
+   "angle": "现场实拍+地震裂缝成因科普，结合避险知识，时效性强",
+   "hook_reason": "地震现场视觉冲击强，裂缝比手宽易引发传播与恐惧共鸣",
+   "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%E5%9C%B0%E9%9D%A2%E7%9A%84%E8%A3%82%E7%BC%9D%E6%AF%94%E6%89%8B%E5%AE%BD&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西藏地震现场地面的裂缝比手宽"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 13
+ "a_pushed_window": 14
 }
