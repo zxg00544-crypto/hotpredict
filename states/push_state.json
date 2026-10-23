@@ -9565,19 +9565,6 @@
    "batch_window": 2
   },
   {
-   "key": "马斯克的技术霸权正架空美军事霸权吗",
-   "title": "马斯克的技术霸权正架空美军事霸权吗",
-   "rating": "A",
-   "score": 80.45,
-   "angle": "SpaceX星链如何重构地缘政治，科技霸权正在取代传统军事霸权",
-   "hook_reason": "马斯克用技术颠覆军事霸权，颠覆认知冲击大",
-   "url": "https://www.toutiao.com/trending/7699480733047603227/",
-   "track": "科技",
-   "breaking": false,
-   "event_id": "e:马斯克的技术霸权正架空美军事霸权吗",
-   "batch_window": 2
-  },
-  {
    "key": "nvidiaopenshell",
    "title": "Nvidia OpenShell",
    "rating": "A",
@@ -10161,6 +10148,32 @@
    "breaking": true,
    "event_id": "e:巴克莱对伊朗冲突迅速结束的希望逐渐消退这使得本已紧张的实物石油市场更加紧迫",
    "batch_window": 6
+  },
+  {
+   "key": "除了头版内容今天人民日报涉及财经的主要内容还包括1国办印发意见适应",
+   "title": "除了头版内容，今天《人民日报》涉及财经的主要内容还包括： 1、国办印发意见 适应",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "解读国办意见对投资、消费、行业的具体影响，给出实操建议",
+   "hook_reason": "国办重磅政策落地，直接关系普通人钱袋子",
+   "url": "https://finance.sina.cn/7x24/2026-10-24/detail-iniwhnxu8185540.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:除了头版内容今天人民日报涉及财经的主要内容还包括1国办印发意见适应",
+   "batch_window": 7
+  },
+  {
+   "key": "nowgooglesaysitmightuseyourgmail09526d6b",
+   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从隐私侵犯角度切入，分析Google个人智能战略背后的商业化逻辑与用户权益博弈",
+   "hook_reason": "Google竟要用你的邮件和照片打广告，隐私底线在哪？",
+   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:nowgooglesaysitmightuseyourgmailandgoogl",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -10908,7 +10921,8 @@
   "微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位吗",
   "四部门公布纸尿裤甲酰胺问题调查结果所有抽检均未检出甲酰胺还有哪些信息值得关注",
   "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345万母亲道歉并承诺会尽快解决",
-  "如何评价deepseekv41flash1017"
+  "如何评价deepseekv41flash1017",
+  "马斯克的技术霸权正架空美军事霸权吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11592,7 +11606,8 @@
   "e:微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位": "微信上线绿泡泡短剧，腾讯此前多次进军短剧市场都效果平平，这次能成功吗？能撼动红果的地位吗？",
   "e:四部门公布纸尿裤甲酰胺问题调查结果所有抽检均未检出甲酰胺还有哪些信息值得关注": "四部门公布纸尿裤甲酰胺问题调查结果，所有抽检均未检出甲酰胺，还有哪些信息值得关注？",
   "e:如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345万母亲道歉并承诺": "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345 万，母亲道歉并承诺会尽快解决？",
-  "e:如何评价deepseekv41flash1017": "如何评价DeepSeek V4.1 Flash 1017?"
+  "e:如何评价deepseekv41flash1017": "如何评价DeepSeek V4.1 Flash 1017?",
+  "e:马斯克的技术霸权正架空美军事霸权吗": "马斯克的技术霸权正架空美军事霸权吗"
  },
  "a_seen": {
   "俄国防部俄方控制的奥列什基将于10月27日停火": {
@@ -11726,8 +11741,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:巴克莱对伊朗冲突迅速结束的希望逐渐消退这使得本已紧张的实物石油市场更加紧迫"
+  },
+  "除了头版内容今天人民日报涉及财经的主要内容还包括1国办印发意见适应": {
+   "key": "除了头版内容今天人民日报涉及财经的主要内容还包括1国办印发意见适应",
+   "title": "除了头版内容，今天《人民日报》涉及财经的主要内容还包括： 1、国办印发意见 适应",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "解读国办意见对投资、消费、行业的具体影响，给出实操建议",
+   "hook_reason": "国办重磅政策落地，直接关系普通人钱袋子",
+   "url": "https://finance.sina.cn/7x24/2026-10-24/detail-iniwhnxu8185540.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:除了头版内容今天人民日报涉及财经的主要内容还包括1国办印发意见适应"
+  },
+  "nowgooglesaysitmightuseyourgmail09526d6b": {
+   "key": "nowgooglesaysitmightuseyourgmail09526d6b",
+   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从隐私侵犯角度切入，分析Google个人智能战略背后的商业化逻辑与用户权益博弈",
+   "hook_reason": "Google竟要用你的邮件和照片打广告，隐私底线在哪？",
+   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:nowgooglesaysitmightuseyourgmailandgoogl"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
