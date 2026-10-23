@@ -10109,6 +10109,19 @@
    "breaking": true,
    "event_id": "e:航拍西藏强震受灾核心区域",
    "batch_window": 15
+  },
+  {
+   "key": "thesameairequestemits85timesmore78e1b286",
+   "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从德克萨斯vs瑞典电力结构差异切入，解读AI算力选址的碳成本博弈",
+   "hook_reason": "AI碳排放地域差异8.5倍引爆环保争议",
+   "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thesameairequestemits85timesmoreco2intex",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -12242,8 +12255,8 @@
    "title": "PHP 严重漏洞被 AI 模型发现，全球多国政府和企业紧急关闭网站，意味着什么？将带来哪些影响？",
    "rating": "A",
    "score": 43.7,
-   "angle": "从AI能力突破切入，结合企业IT安全痛点与政府数字化风险，引发科技圈对AI辅助安全领域的关注与讨论",
-   "hook_reason": "AI揪出PHP百年漏洞致政府网站关停，谁该负责？",
+   "angle": "AI在网络安全领域的突破性应用，程序员群体危机感，PHP生态未来走向",
+   "hook_reason": "AI取代人类发现PHP致命漏洞，全球网站瘫痪",
    "url": "https://www.zhihu.com/question/2096865789156356222",
    "track": "科技",
    "breaking": true,
@@ -12253,13 +12266,37 @@
    "key": "航拍西藏强震受灾核心区域",
    "title": "航拍西藏强震受灾核心区域",
    "rating": "A",
-   "score": 55.67,
-   "angle": "以航拍第一视角切入，呈现灾区真实面貌与救援进展，唤起社会对西藏灾区关注与支持",
-   "hook_reason": "灾难现场航拍直击人心，强烈共情+视觉震撼",
+   "score": 53.47,
+   "angle": "航拍视角直击灾情现场，突出救援进展与灾区现状，激发读者共情与转发",
+   "hook_reason": "航拍震后西藏，画面震撼引发全民共情与关注",
    "url": "https://www.toutiao.com/trending/7699727099828915755/",
    "track": "社会热点",
    "breaking": true,
-   "event_id": "e:航拍西藏强震受灾核心区域"
+   "event_id": "e:西藏那曲巴青县发生70级地震"
+  },
+  "thesameairequestemits85timesmore78e1b286": {
+   "key": "thesameairequestemits85timesmore78e1b286",
+   "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从德克萨斯vs瑞典电力结构差异切入，解读AI算力选址的碳成本博弈",
+   "hook_reason": "AI碳排放地域差异8.5倍引爆环保争议",
+   "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thesameairequestemits85timesmoreco2intex"
+  },
+  "西藏70级地震新闻发布会": {
+   "key": "西藏70级地震新闻发布会",
+   "title": "西藏7.0级地震新闻发布会",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "以发布会核心信息切入：震级、伤亡、救援进展、公众应对指南，突出权威性与时效紧迫感",
+   "hook_reason": "7.0级强震突发+官方发布会，关乎全民安全的权威信息窗口",
+   "url": "https://webcast-open.douyin.com/open/media_live/282773369501",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西藏那曲巴青县发生70级地震"
   }
  },
  "breaking_count": 10,
