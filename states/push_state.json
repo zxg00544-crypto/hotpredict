@@ -9838,19 +9838,6 @@
    "batch_window": 5
   },
   {
-   "key": "情侣伙同程序员抢票获利近600万",
-   "title": "情侣伙同程序员抢票获利近600万",
-   "rating": "A",
-   "score": 86.4,
-   "angle": "从程序员视角拆解抢票技术漏洞，对比普通人的购票焦虑，讨论法律代价与技术伦理",
-   "hook_reason": "情侣黑产抢票卷走600万，普通人抢不到票 vs 技术作弊月入几十万",
-   "url": "https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E4%BC%99%E5%90%8C%E7%A8%8B%E5%BA%8F%E5%91%98%E6%8A%A2%E7%A5%A8%E8%8E%B7%E5%88%A9%E8%BF%91600%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": false,
-   "event_id": "e:情侣伙同程序员抢票获利近600万",
-   "batch_window": 5
-  },
-  {
    "key": "美联储10月维持利率不变的概率为928",
    "title": "美联储10月维持利率不变的概率为92.8%",
    "rating": "A",
@@ -9914,6 +9901,71 @@
    "breaking": false,
    "event_id": "e:aianalysisofctscansfinds429ofpatientshav",
    "batch_window": 7
+  },
+  {
+   "key": "jaredkushnerhackedphonerevealsse0f8a9d16",
+   "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+   "rating": "A",
+   "score": 75.1,
+   "angle": "从政治人物秘密交易切入，拆解美国权力与资本的隐秘链条，突出",
+   "hook_reason": "白宫核心人物手机被黑，秘密谈判+百万交易曝光，政治丑闻+金钱博弈双重爆点",
+   "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:jaredkushnerhackedphonerevealssecretnego",
+   "batch_window": 8
+  },
+  {
+   "key": "震区酒店前台整个房子抖起来了",
+   "title": "震区酒店前台：整个房子抖起来了",
+   "rating": "A",
+   "score": 52.65,
+   "angle": "以酒店前台视角切入，聚焦震区建筑安全与应急设施，引发公众对居住安全的讨论",
+   "hook_reason": "震区亲历者第一视角描述地震瞬间，真实感强易引发共鸣",
+   "url": "https://www.toutiao.com/trending/7699628063956405811/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:震区酒店前台整个房子抖起来了",
+   "batch_window": 8
+  },
+  {
+   "key": "日经225指数跌破62000点为7月31日以来首次",
+   "title": "日经225指数跌破 62000点，为7月31日以来首次。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "聚焦日元汇率联动、外资流向及A股影响，提供短期避险策略建议",
+   "hook_reason": "日经暴跌至近3个月新低，投资者恐慌情绪蔓延",
+   "url": "https://finance.sina.cn/7x24/2026-10-23/detail-iniweiyu8021733.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:日经225指数跌破62000点为7月31日以来首次",
+   "batch_window": 8
+  },
+  {
+   "key": "西藏70级强震已致16死46伤",
+   "title": "西藏7.0级强震已致16死46伤",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "地震救援与西藏高原救援基础设施挑战，灾区群众安全保障",
+   "hook_reason": "7.0级强震16死46伤，灾情突发，公众安全感冲击",
+   "url": "https://www.toutiao.com/trending/7699628400520121906/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西藏70级强震已致16死46伤",
+   "batch_window": 8
+  },
+  {
+   "key": "西藏那曲70级地震已造成16死46伤",
+   "title": "西藏那曲7.0级地震已造成16死46伤",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "跟进震后救援进展、灾区安置与基础设施受损情况，关注官方权威信息",
+   "hook_reason": "7.0级强震致16死46伤，灾区救援紧迫",
+   "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B27.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%B7%B2%E9%80%A0%E6%88%9016%E6%AD%BB46%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西藏那曲70级地震已造成16死46伤",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -10628,7 +10680,8 @@
   "芯片人才百万年薪一将难求",
   "高反去世男子家人辟谣想找免费直升机",
   "基金经理又到集体反思时刻了吗",
-  "曝deepseek拟筹得约1000亿元融资"
+  "曝deepseek拟筹得约1000亿元融资",
+  "情侣伙同程序员抢票获利近600万"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11279,7 +11332,8 @@
   "e:芯片人才百万年薪一将难求": "芯片人才百万年薪一将难求",
   "e:高反去世男子家人辟谣想找免费直升机": "高反去世男子家人辟谣想找免费直升机",
   "e:基金经理又到集体反思时刻了吗": "基金经理又到“集体反思时刻”了吗",
-  "e:曝deepseek拟筹得约1000亿元融资": "曝DeepSeek拟筹得约1000亿元融资"
+  "e:曝deepseek拟筹得约1000亿元融资": "曝DeepSeek拟筹得约1000亿元融资",
+  "e:情侣伙同程序员抢票获利近600万": "情侣伙同程序员抢票获利近600万"
  },
  "a_seen": {
   "人形机器人板块集体涨停释放何信号": {
@@ -11665,8 +11719,80 @@
    "track": "社会热点",
    "breaking": false,
    "event_id": "e:aianalysisofctscansfinds429ofpatientshav"
+  },
+  "西藏那曲市巴青县发生70级地震已致16人遇难46人受伤当地目前具体情况如何你那边有震感吗": {
+   "key": "西藏那曲市巴青县发生70级地震已致16人遇难46人受伤当地目前具体情况如何你那边有震感吗",
+   "title": "西藏那曲市巴青县发生7.0级地震，已致 16 人遇难46人受伤，当地目前具体情况如何？你那边有震感吗？",
+   "rating": "A",
+   "score": 80.5,
+   "angle": "从遇难数字切入，聚焦灾区实时救援动态与政府响应，穿插震感分布引发读者共鸣",
+   "hook_reason": "7.0级强震突发，伤亡数据触目惊心，全民关注救援进展",
+   "url": "https://www.zhihu.com/question/2096734873637445705",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西藏那曲巴青县发生70级地震"
+  },
+  "jaredkushnerhackedphonerevealsse0f8a9d16": {
+   "key": "jaredkushnerhackedphonerevealsse0f8a9d16",
+   "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+   "rating": "A",
+   "score": 75.1,
+   "angle": "从政治人物秘密交易切入，拆解美国权力与资本的隐秘链条，突出",
+   "hook_reason": "白宫核心人物手机被黑，秘密谈判+百万交易曝光，政治丑闻+金钱博弈双重爆点",
+   "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:jaredkushnerhackedphonerevealssecretnego"
+  },
+  "震区酒店前台整个房子抖起来了": {
+   "key": "震区酒店前台整个房子抖起来了",
+   "title": "震区酒店前台：整个房子抖起来了",
+   "rating": "A",
+   "score": 52.65,
+   "angle": "以酒店前台视角切入，聚焦震区建筑安全与应急设施，引发公众对居住安全的讨论",
+   "hook_reason": "震区亲历者第一视角描述地震瞬间，真实感强易引发共鸣",
+   "url": "https://www.toutiao.com/trending/7699628063956405811/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:震区酒店前台整个房子抖起来了"
+  },
+  "日经225指数跌破62000点为7月31日以来首次": {
+   "key": "日经225指数跌破62000点为7月31日以来首次",
+   "title": "日经225指数跌破 62000点，为7月31日以来首次。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "聚焦日元汇率联动、外资流向及A股影响，提供短期避险策略建议",
+   "hook_reason": "日经暴跌至近3个月新低，投资者恐慌情绪蔓延",
+   "url": "https://finance.sina.cn/7x24/2026-10-23/detail-iniweiyu8021733.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:日经225指数跌破62000点为7月31日以来首次"
+  },
+  "西藏70级强震已致16死46伤": {
+   "key": "西藏70级强震已致16死46伤",
+   "title": "西藏7.0级强震已致16死46伤",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "地震救援与西藏高原救援基础设施挑战，灾区群众安全保障",
+   "hook_reason": "7.0级强震16死46伤，灾情突发，公众安全感冲击",
+   "url": "https://www.toutiao.com/trending/7699628400520121906/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西藏70级强震已致16死46伤"
+  },
+  "西藏那曲70级地震已造成16死46伤": {
+   "key": "西藏那曲70级地震已造成16死46伤",
+   "title": "西藏那曲7.0级地震已造成16死46伤",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "跟进震后救援进展、灾区安置与基础设施受损情况，关注官方权威信息",
+   "hook_reason": "7.0级强震致16死46伤，灾区救援紧迫",
+   "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B27.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%B7%B2%E9%80%A0%E6%88%9016%E6%AD%BB46%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西藏那曲70级地震已造成16死46伤"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
