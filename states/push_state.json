@@ -8395,19 +8395,6 @@
    "batch_window": 5
   },
   {
-   "key": "马斯克向特朗普账户捐80亿美元的图谋",
-   "title": "马斯克向特朗普账户捐80亿美元的图谋",
-   "rating": "A",
-   "score": 81.5,
-   "angle": "从政治联盟与商业资本博弈角度，拆解这笔捐款背后的权力交换逻辑与马斯克战略意图",
-   "hook_reason": "80亿巨额捐款牵动政商神经，马斯克与特朗普关系走向成焦点",
-   "url": "https://www.toutiao.com/trending/7698722328774970934/",
-   "track": "大咖发言",
-   "breaking": false,
-   "event_id": "e:马斯克向特朗普账户捐80亿美元的图谋",
-   "batch_window": 5
-  },
-  {
    "key": "马斯克警告人类将被ai一击拿下",
    "title": "马斯克警告人类将被AI“一击拿下”",
    "rating": "A",
@@ -10148,6 +10135,19 @@
    "breaking": true,
    "event_id": "e:安洁科技相关业务领域低空飞行领域公司并未有量产项目目前还在前期开发中",
    "batch_window": 17
+  },
+  {
+   "key": "a股惊天逆转发生了什么",
+   "title": "A股惊天逆转 发生了什么",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从资金流向、政策面或情绪面切入，解读A股异动背后的真实原因",
+   "hook_reason": "A股大逆转牵动千万股民神经，散户急于知道发生了什么",
+   "url": "https://www.toutiao.com/trending/7699783321202462217/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股惊天逆转发生了什么",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -10873,7 +10873,8 @@
   "钟南山心梗后仍每周运动3次",
   "专家黄金白银崩了",
   "西藏地震已致16死76伤",
-  "googleopensourcestorchtpuanative046b6e57"
+  "googleopensourcestorchtpuanative046b6e57",
+  "马斯克向特朗普账户捐80亿美元的图谋"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11535,7 +11536,8 @@
   "e:钟南山心梗后仍每周运动3次": "钟南山心梗后仍每周运动3次",
   "e:专家黄金白银崩了": "专家：黄金白银崩了",
   "e:西藏地震已致16死76伤": "西藏地震已致16死76伤",
-  "e:googleopensourcestorchtpuanativepytorchb": "Google open-sources TorchTPU, a native PyTorch back end for TPUs"
+  "e:googleopensourcestorchtpuanativepytorchb": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+  "e:马斯克向特朗普账户捐80亿美元的图谋": "马斯克向特朗普账户捐80亿美元的图谋"
  },
  "a_seen": {
   "人形机器人板块集体涨停释放何信号": {
@@ -12389,8 +12391,20 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:安洁科技相关业务领域低空飞行领域公司并未有量产项目目前还在前期开发中"
+  },
+  "a股惊天逆转发生了什么": {
+   "key": "a股惊天逆转发生了什么",
+   "title": "A股惊天逆转 发生了什么",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从资金流向、政策面或情绪面切入，解读A股异动背后的真实原因",
+   "hook_reason": "A股大逆转牵动千万股民神经，散户急于知道发生了什么",
+   "url": "https://www.toutiao.com/trending/7699783321202462217/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股惊天逆转发生了什么"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
