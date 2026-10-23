@@ -8915,19 +8915,6 @@
    "batch_window": 2
   },
   {
-   "key": "a股又一次冲高回落究竟谁在砸盘",
-   "title": "A股又一次冲高回落究竟谁在砸盘",
-   "rating": "A",
-   "score": 81.5,
-   "angle": "追踪资金流向与主力动向，解析砸盘真凶及后续走势预判",
-   "hook_reason": "A股冲高回落+砸盘悬念直击股民痛点",
-   "url": "https://www.toutiao.com/trending/7699114217592327743/",
-   "track": "财经",
-   "breaking": false,
-   "event_id": "e:a股又一次冲高回落究竟谁在砸盘",
-   "batch_window": 2
-  },
-  {
    "key": "微软2026年9月黑客组织storm0940使用人工智能框架artex对全",
    "title": "微软：2026年9月，黑客组织Storm-0940使用人工智能框架Artex对全",
    "rating": "A",
@@ -10148,6 +10135,32 @@
    "breaking": true,
    "event_id": "e:a股惊天逆转发生了什么",
    "batch_window": 19
+  },
+  {
+   "key": "许家印被曝曾花13亿港元买艺术品",
+   "title": "许家印被曝曾花13亿港元买艺术品",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从恒大破产重组视角切入，剖析许家印个人资产配置与企业债权人利益的巨大反差，探讨企业家道德边界与财富伦理争议",
+   "hook_reason": "恒大债务危机背景下，首富豪掷13亿买艺术品，财富流向引发全民质疑",
+   "url": "https://www.toutiao.com/trending/7699755083384881691/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:许家印被曝曾花13亿港元买艺术品",
+   "batch_window": 20
+  },
+  {
+   "key": "研究生毕业不用写论文",
+   "title": "研究生毕业 不用写论文",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "直击教育公平争议：不写论文=水学历？研究生群体发声",
+   "hook_reason": "研究生毕业门槛骤降，学历含金量引担忧",
+   "url": "https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E6%AF%95%E4%B8%9A+%E4%B8%8D%E7%94%A8%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:研究生毕业不用写论文",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -10874,7 +10887,8 @@
   "专家黄金白银崩了",
   "西藏地震已致16死76伤",
   "googleopensourcestorchtpuanative046b6e57",
-  "马斯克向特朗普账户捐80亿美元的图谋"
+  "马斯克向特朗普账户捐80亿美元的图谋",
+  "a股又一次冲高回落究竟谁在砸盘"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11537,7 +11551,8 @@
   "e:专家黄金白银崩了": "专家：黄金白银崩了",
   "e:西藏地震已致16死76伤": "西藏地震已致16死76伤",
   "e:googleopensourcestorchtpuanativepytorchb": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-  "e:马斯克向特朗普账户捐80亿美元的图谋": "马斯克向特朗普账户捐80亿美元的图谋"
+  "e:马斯克向特朗普账户捐80亿美元的图谋": "马斯克向特朗普账户捐80亿美元的图谋",
+  "e:a股又一次冲高回落究竟谁在砸盘": "A股又一次冲高回落究竟谁在砸盘"
  },
  "a_seen": {
   "人形机器人板块集体涨停释放何信号": {
@@ -12403,8 +12418,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:a股惊天逆转发生了什么"
+  },
+  "许家印被曝曾花13亿港元买艺术品": {
+   "key": "许家印被曝曾花13亿港元买艺术品",
+   "title": "许家印被曝曾花13亿港元买艺术品",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从恒大破产重组视角切入，剖析许家印个人资产配置与企业债权人利益的巨大反差，探讨企业家道德边界与财富伦理争议",
+   "hook_reason": "恒大债务危机背景下，首富豪掷13亿买艺术品，财富流向引发全民质疑",
+   "url": "https://www.toutiao.com/trending/7699755083384881691/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:许家印被曝曾花13亿港元买艺术品"
+  },
+  "研究生毕业不用写论文": {
+   "key": "研究生毕业不用写论文",
+   "title": "研究生毕业 不用写论文",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "直击教育公平争议：不写论文=水学历？研究生群体发声",
+   "hook_reason": "研究生毕业门槛骤降，学历含金量引担忧",
+   "url": "https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E7%94%9F%E6%AF%95%E4%B8%9A+%E4%B8%8D%E7%94%A8%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:研究生毕业不用写论文"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
