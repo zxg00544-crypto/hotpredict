@@ -2714,19 +2714,6 @@
    "batch_window": 11
   },
   {
-   "key": "eyeofsauronlongrangehiddenspycameradetection",
-   "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
-   "rating": "A",
-   "score": 80.5,
-   "angle": "从全民隐私焦虑切入，介绍顶级安全会议公布的远程摄像头检测黑科技，兼具科普性与实用价值",
-   "hook_reason": "远程隐形偷拍也能被抓包？隐私党集体沸腾",
-   "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:eyeofsauronlongrangehiddenspycameradetec",
-   "batch_window": 12
-  },
-  {
    "key": "飞机失控机长重伤174人的生死竟被一个小女孩改写救援红衣大叔周鸿祎的微博视频",
    "title": "飞机失控机长重伤！174人的生死竟被一个小女孩改写！ #救援# 红衣大叔周鸿祎的微博视频",
    "rating": "A",
@@ -10135,6 +10122,32 @@
    "breaking": true,
    "event_id": "e:genig",
    "batch_window": 1
+  },
+  {
+   "key": "todaywehackedwhatwedsetouttohacktheiphone",
+   "title": "Today, we hacked what we'd set out to hack: the iPhone",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从技术突破角度解读iPhone安全防线被攻破，科普后对普通用户隐私影响，引发讨论",
+   "hook_reason": "iPhone被破解？ tech圈爆炸性安全突破，苹果粉丝和黑客都炸了",
+   "url": "https://blog.calif.io/p/iphone",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:todaywehackedwhatwedsetouttohacktheiphon",
+   "batch_window": 2
+  },
+  {
+   "key": "50系中端显卡价格上涨",
+   "title": "50系中端显卡价格上涨",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从消费者视角解读涨价原因，分析对游戏玩家及DIY装机群体的实际影响",
+   "hook_reason": "玩家血亏！中端显卡突然涨价，装机党钱包遭重击",
+   "url": "https://search.bilibili.com/all?keyword=50系中端显卡价格上涨",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:50系中端显卡价格上涨",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -10877,7 +10890,8 @@
   "s16瑞士轮第一日首发名单",
   "如何评价2026年10月米哈游原神72版本前瞻直播坏灭肇始之时",
   "分析师sk海力士放弃solidigm美国ipo计划或利好美光科技和闪迪",
-  "普京不排除与特朗普赴华会晤可能性"
+  "普京不排除与特朗普赴华会晤可能性",
+  "eyeofsauronlongrangehiddenspycameradetection"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11556,7 +11570,8 @@
   "e:s16瑞士轮第一日首发名单": "S16瑞士轮第一日首发名单",
   "e:如何评价2026年10月米哈游原神72版本前瞻直播坏灭肇始之时": "如何评价2026年10月米哈游《原神》7.2版本前瞻直播【坏灭肇始之时】？",
   "e:分析师sk海力士放弃solidigm美国ipo计划或利好美光科技和闪迪": "分析师：SK海力士放弃Solidigm美国IPO计划，或利好美光科技和闪迪",
-  "e:普京不排除与特朗普赴华会晤可能性": "普京：不排除与特朗普赴华会晤可能性"
+  "e:普京不排除与特朗普赴华会晤可能性": "普京：不排除与特朗普赴华会晤可能性",
+  "e:eyeofsauronlongrangehiddenspycameradetec": "Eye of Sauron: Long-Range Hidden Spy Camera Detection"
  },
  "a_seen": {
   "俄国防部俄方控制的奥列什基将于10月27日停火": {
@@ -11606,8 +11621,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:genig"
+  },
+  "todaywehackedwhatwedsetouttohacktheiphone": {
+   "key": "todaywehackedwhatwedsetouttohacktheiphone",
+   "title": "Today, we hacked what we'd set out to hack: the iPhone",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从技术突破角度解读iPhone安全防线被攻破，科普后对普通用户隐私影响，引发讨论",
+   "hook_reason": "iPhone被破解？ tech圈爆炸性安全突破，苹果粉丝和黑客都炸了",
+   "url": "https://blog.calif.io/p/iphone",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:todaywehackedwhatwedsetouttohacktheiphon"
+  },
+  "50系中端显卡价格上涨": {
+   "key": "50系中端显卡价格上涨",
+   "title": "50系中端显卡价格上涨",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从消费者视角解读涨价原因，分析对游戏玩家及DIY装机群体的实际影响",
+   "hook_reason": "玩家血亏！中端显卡突然涨价，装机党钱包遭重击",
+   "url": "https://search.bilibili.com/all?keyword=50系中端显卡价格上涨",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:50系中端显卡价格上涨"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
