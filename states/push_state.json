@@ -10148,32 +10148,6 @@
    "breaking": true,
    "event_id": "e:研究生毕业不用写论文",
    "batch_window": 20
-  },
-  {
-   "key": "swedishgovernmentofficestobanchatgptandclaude",
-   "title": "Swedish government offices to ban ChatGPT and Claude",
-   "rating": "A",
-   "score": 77.5,
-   "angle": "聚焦政策风险信号：若成趋势，AI应用厂商将承压；对比中美欧监管差异",
-   "hook_reason": "政府明文禁止AI工具，首例引发全球关注，从业者高度相关",
-   "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:swedishgovernmentofficestobanchatgptandc",
-   "batch_window": 21
-  },
-  {
-   "key": "雷迪博士实验室高管表示已在10个国家获得仿制司美格鲁肽的批准主要来自拉丁美洲",
-   "title": "雷迪博士实验室高管表示，已在10个国家获得仿制司美格鲁肽的批准，主要来自拉丁美洲",
-   "rating": "A",
-   "score": 46.95,
-   "angle": "司美格鲁肽仿制药出海背后：印度药企如何改写全球减肥药供应链",
-   "hook_reason": "减肥药全球格局生变，中国玩家有机会追赶",
-   "url": "https://finance.sina.cn/7x24/2026-10-23/detail-iniwfmnk5117011.d.html",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:雷迪博士实验室高管表示已在10个国家获得仿制司美格鲁肽的批准主要来自拉丁美洲",
-   "batch_window": 21
   }
  ],
  "pushed": [
@@ -12457,42 +12431,6 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:研究生毕业不用写论文"
-  },
-  "swedishgovernmentofficestobanchatgptandclaude": {
-   "key": "swedishgovernmentofficestobanchatgptandclaude",
-   "title": "Swedish government offices to ban ChatGPT and Claude",
-   "rating": "A",
-   "score": 77.5,
-   "angle": "聚焦政策风险信号：若成趋势，AI应用厂商将承压；对比中美欧监管差异",
-   "hook_reason": "政府明文禁止AI工具，首例引发全球关注，从业者高度相关",
-   "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:swedishgovernmentofficestobanchatgptandc"
-  },
-  "西藏强震成因揭晓": {
-   "key": "西藏强震成因揭晓",
-   "title": "西藏强震成因揭晓",
-   "rating": "A",
-   "score": 67.25,
-   "angle": "从地震成因切入，解读地质背景与防灾盲区，引导公众关注高原地区建筑安全与应急响应",
-   "hook_reason": "重大自然灾害+权威解读，读者关注意外伤亡真相与防灾启示",
-   "url": "https://www.toutiao.com/trending/7699809994400599593/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:西藏那曲巴青县发生70级地震"
-  },
-  "雷迪博士实验室高管表示已在10个国家获得仿制司美格鲁肽的批准主要来自拉丁美洲": {
-   "key": "雷迪博士实验室高管表示已在10个国家获得仿制司美格鲁肽的批准主要来自拉丁美洲",
-   "title": "雷迪博士实验室高管表示，已在10个国家获得仿制司美格鲁肽的批准，主要来自拉丁美洲",
-   "rating": "A",
-   "score": 46.95,
-   "angle": "司美格鲁肽仿制药出海背后：印度药企如何改写全球减肥药供应链",
-   "hook_reason": "减肥药全球格局生变，中国玩家有机会追赶",
-   "url": "https://finance.sina.cn/7x24/2026-10-23/detail-iniwfmnk5117011.d.html",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:雷迪博士实验室高管表示已在10个国家获得仿制司美格鲁肽的批准主要来自拉丁美洲"
   }
  },
  "breaking_count": 10,
