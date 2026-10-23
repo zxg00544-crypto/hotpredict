@@ -8122,19 +8122,6 @@
    "batch_window": 9
   },
   {
-   "key": "如何看待c罗遭葡萄牙足协处罚停赛30天罚款255欧仍可入选下期大名单你觉得处罚力度轻吗",
-   "title": "如何看待C罗遭葡萄牙足协处罚停赛30天、罚款255欧，仍可入选下期大名单？你觉得处罚力度轻吗？",
-   "rating": "A",
-   "score": 82.0,
-   "angle": "从处罚力度切入，分析足协为何'高举轻放'，引发球迷站队争论",
-   "hook_reason": "C罗争议处罚引热议，停赛30天罚255欧太轻？",
-   "url": "https://www.zhihu.com/question/2095768080811148954",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:如何看待c罗遭葡萄牙足协处罚停赛30天罚款255欧仍可入选下期大名单你觉得处罚力",
-   "batch_window": 10
-  },
-  {
    "key": "中国留学生俄罗斯课堂披旭日旗后道歉且已被遣返如何评价他在俄罗斯当地及回国后可能面临哪些实质追责",
    "title": "中国留学生俄罗斯课堂披旭日旗后道歉且已被遣返，如何评价？他在俄罗斯当地及回国后可能面临哪些实质追责？",
    "rating": "A",
@@ -9966,6 +9953,45 @@
    "breaking": true,
    "event_id": "e:西藏那曲70级地震已造成16死46伤",
    "batch_window": 8
+  },
+  {
+   "key": "llmsaremakingformalsoftwareverife05ee7a0",
+   "title": "LLMs are making formal software verification feasible at a much larger scale",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "从软件测试瓶颈切入，解析LLM如何突破形式化验证工业落地难题",
+   "hook_reason": "Anthropic研究：LLM让形式化验证规模化成为可能",
+   "url": "https://www.anthropic.com/research/formal-verification",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:llmsaremakingformalsoftwareverificationf",
+   "batch_window": 9
+  },
+  {
+   "key": "为什么我国在黄海要进行持续47天的实弹射击释放了哪些信号",
+   "title": "为什么我国在黄海要进行持续 47 天的实弹射击？释放了哪些信号？",
+   "rating": "A",
+   "score": 69.32,
+   "angle": "从'释放什么信号'切入，拆解台海局势、军事现代化、安全感三层，配图+时间线，1-2小时追首发",
+   "hook_reason": "47天实弹射击登顶知乎热一，军事动作背后是台海/南海信号，情绪+解读刚需强",
+   "url": "https://www.zhihu.com/question/2096358861804511510",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:为什么我国在黄海要进行持续47天的实弹射击释放了哪些信号",
+   "batch_window": 9
+  },
+  {
+   "key": "香港餐饮业出现倒闭潮部分餐厅甩锅深圳抢客你怎么看待",
+   "title": "香港餐饮业出现倒闭潮，部分餐厅甩锅深圳抢客，你怎么看待？",
+   "rating": "A",
+   "score": 66.64,
+   "angle": "拆解餐饮倒闭背后香港经济困境，回应'甩锅深圳'舆论战，引导理性讨论深港关系",
+   "hook_reason": "香港甩锅深圳引两地情绪对峙，民生+地缘双重共鸣点",
+   "url": "https://www.zhihu.com/question/2089335688500192096",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:香港餐饮业出现倒闭潮部分餐厅甩锅深圳抢客你怎么看待",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -10681,7 +10707,8 @@
   "高反去世男子家人辟谣想找免费直升机",
   "基金经理又到集体反思时刻了吗",
   "曝deepseek拟筹得约1000亿元融资",
-  "情侣伙同程序员抢票获利近600万"
+  "情侣伙同程序员抢票获利近600万",
+  "如何看待c罗遭葡萄牙足协处罚停赛30天罚款255欧仍可入选下期大名单你觉得处罚力度轻吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11333,7 +11360,8 @@
   "e:高反去世男子家人辟谣想找免费直升机": "高反去世男子家人辟谣想找免费直升机",
   "e:基金经理又到集体反思时刻了吗": "基金经理又到“集体反思时刻”了吗",
   "e:曝deepseek拟筹得约1000亿元融资": "曝DeepSeek拟筹得约1000亿元融资",
-  "e:情侣伙同程序员抢票获利近600万": "情侣伙同程序员抢票获利近600万"
+  "e:情侣伙同程序员抢票获利近600万": "情侣伙同程序员抢票获利近600万",
+  "e:如何看待c罗遭葡萄牙足协处罚停赛30天罚款255欧仍可入选下期大名单你觉得处罚力": "如何看待C罗遭葡萄牙足协处罚停赛30天、罚款255欧，仍可入选下期大名单？你觉得处罚力度轻吗？"
  },
  "a_seen": {
   "人形机器人板块集体涨停释放何信号": {
@@ -11791,8 +11819,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:西藏那曲70级地震已造成16死46伤"
+  },
+  "西藏地震亲历者说像几百头牦牛奔跑": {
+   "key": "西藏地震亲历者说像几百头牦牛奔跑",
+   "title": "西藏地震亲历者说像几百头牦牛奔跑",
+   "rating": "A",
+   "score": 91.0,
+   "angle": "从'像几百头牦牛奔跑'切入，用目击者原话还原地震临场感，配震区现场图，带救援进展和西藏民生视角",
+   "hook_reason": "震中+目击者比喻(牦牛奔腾)自带画面感，1h内登顶，情绪浓度极高",
+   "url": "https://www.toutiao.com/trending/7699644362942320154/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西藏那曲巴青县发生70级地震"
+  },
+  "llmsaremakingformalsoftwareverife05ee7a0": {
+   "key": "llmsaremakingformalsoftwareverife05ee7a0",
+   "title": "LLMs are making formal software verification feasible at a much larger scale",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "从软件测试瓶颈切入，解析LLM如何突破形式化验证工业落地难题",
+   "hook_reason": "Anthropic研究：LLM让形式化验证规模化成为可能",
+   "url": "https://www.anthropic.com/research/formal-verification",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:llmsaremakingformalsoftwareverificationf"
+  },
+  "为什么我国在黄海要进行持续47天的实弹射击释放了哪些信号": {
+   "key": "为什么我国在黄海要进行持续47天的实弹射击释放了哪些信号",
+   "title": "为什么我国在黄海要进行持续 47 天的实弹射击？释放了哪些信号？",
+   "rating": "A",
+   "score": 69.32,
+   "angle": "从'释放什么信号'切入，拆解台海局势、军事现代化、安全感三层，配图+时间线，1-2小时追首发",
+   "hook_reason": "47天实弹射击登顶知乎热一，军事动作背后是台海/南海信号，情绪+解读刚需强",
+   "url": "https://www.zhihu.com/question/2096358861804511510",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:为什么我国在黄海要进行持续47天的实弹射击释放了哪些信号"
+  },
+  "香港餐饮业出现倒闭潮部分餐厅甩锅深圳抢客你怎么看待": {
+   "key": "香港餐饮业出现倒闭潮部分餐厅甩锅深圳抢客你怎么看待",
+   "title": "香港餐饮业出现倒闭潮，部分餐厅甩锅深圳抢客，你怎么看待？",
+   "rating": "A",
+   "score": 66.64,
+   "angle": "拆解餐饮倒闭背后香港经济困境，回应'甩锅深圳'舆论战，引导理性讨论深港关系",
+   "hook_reason": "香港甩锅深圳引两地情绪对峙，民生+地缘双重共鸣点",
+   "url": "https://www.zhihu.com/question/2089335688500192096",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:香港餐饮业出现倒闭潮部分餐厅甩锅深圳抢客你怎么看待"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
