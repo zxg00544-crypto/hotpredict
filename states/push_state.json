@@ -8148,19 +8148,6 @@
    "batch_window": 10
   },
   {
-   "key": "小米su7yu7118版已升级没had功能全面进化带来更平稳更顺畅更从容的城市辅",
-   "title": "小米SU7/YU7 1.18版已升级没？ HAD功能全面进化，带来更平稳、更顺畅、更从容的城市辅",
-   "rating": "A",
-   "score": 81.28,
-   "angle": "小米SU7/YU7 HAD升级，智能驾驶技术领先国内造车新势力，技术路线之争升级",
-   "hook_reason": "小米智能驾驶技术突破，用户关注度极高",
-   "url": "https://weibo.com/1749127163/RnvtP0yYp",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:小米su7yu7118版已升级没had功能全面进化带来更平稳更顺畅更从容的城市辅",
-   "batch_window": 11
-  },
-  {
    "key": "台退将解放军南海实弹射击一举两得",
    "title": "台退将：解放军南海实弹射击一举两得",
    "rating": "A",
@@ -10876,7 +10863,8 @@
   "googleopensourcestorchtpuanative046b6e57",
   "马斯克向特朗普账户捐80亿美元的图谋",
   "a股又一次冲高回落究竟谁在砸盘",
-  "许家印被曝曾花13亿港元买艺术品"
+  "许家印被曝曾花13亿港元买艺术品",
+  "小米su7yu7118版已升级没had功能全面进化带来更平稳更顺畅更从容的城市辅"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11541,7 +11529,8 @@
   "e:googleopensourcestorchtpuanativepytorchb": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
   "e:马斯克向特朗普账户捐80亿美元的图谋": "马斯克向特朗普账户捐80亿美元的图谋",
   "e:a股又一次冲高回落究竟谁在砸盘": "A股又一次冲高回落究竟谁在砸盘",
-  "e:许家印被曝曾花13亿港元买艺术品": "许家印被曝曾花13亿港元买艺术品"
+  "e:许家印被曝曾花13亿港元买艺术品": "许家印被曝曾花13亿港元买艺术品",
+  "e:小米su7yu7118版已升级没had功能全面进化带来更平稳更顺畅更从容的城市辅": "小米SU7/YU7 1.18版已升级没？ HAD功能全面进化，带来更平稳、更顺畅、更从容的城市辅"
  },
  "a_seen": {
   "人形机器人板块集体涨停释放何信号": {
@@ -12431,8 +12420,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:研究生毕业不用写论文"
+  },
+  "deepseek据悉完成千亿元融资腾讯与宁德时代为何重金押注": {
+   "key": "deepseek据悉完成千亿元融资腾讯与宁德时代为何重金押注",
+   "title": "DeepSeek 据悉完成千亿元融资，腾讯与宁德时代为何重金押注？",
+   "rating": "A",
+   "score": 57.35,
+   "angle": "从腾讯/宁德时代投资逻辑切入，拆解国产AI赛道的资本战场与未来格局",
+   "hook_reason": "DeepSeek千亿融资引爆国产AI版图，巨头重金押注背后的战略博弈",
+   "url": "https://www.zhihu.com/question/2096564979164095426",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:曝deepseek拟筹得约1000亿元融资"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
