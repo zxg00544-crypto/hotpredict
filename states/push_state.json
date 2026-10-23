@@ -5756,19 +5756,6 @@
    "batch_window": 17
   },
   {
-   "key": "四部门公布纸尿裤甲酰胺问题调查结果所有抽检均未检出甲酰胺还有哪些信息值得关注",
-   "title": "四部门公布纸尿裤甲酰胺问题调查结果，所有抽检均未检出甲酰胺，还有哪些信息值得关注？",
-   "rating": "A",
-   "score": 80.5,
-   "angle": "解读四部门调查结论，对比甲酰胺安全标准，回应家长对纸尿裤安全的担忧",
-   "hook_reason": "官方澄清vs此前担忧，家长最关心的婴幼儿安全问题",
-   "url": "https://www.zhihu.com/question/2094096740613710016",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:四部门公布纸尿裤甲酰胺问题调查结果所有抽检均未检出甲酰胺还有哪些信息值得关注",
-   "batch_window": 17
-  },
-  {
    "key": "wantedtodownloadanisoendedupwrit8a465a6c",
    "title": "Wanted to download an ISO, ended up writing a kernel exploit",
    "rating": "A",
@@ -10161,6 +10148,19 @@
    "breaking": true,
    "event_id": "e:微软与动视暴雪25亿美元集体诉讼和解协议获批",
    "batch_window": 3
+  },
+  {
+   "key": "a股市场底部探明了吗",
+   "title": "A股市场底部探明了吗",
+   "rating": "A",
+   "score": 67.89,
+   "angle": "从市场情绪与资金动向切入，解读底部信号真伪",
+   "hook_reason": "A股底部之争引发全民关注",
+   "url": "https://www.toutiao.com/trending/7699845934754041395/",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:a股市场底部探明了吗",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -10905,7 +10905,8 @@
   "分析师sk海力士放弃solidigm美国ipo计划或利好美光科技和闪迪",
   "普京不排除与特朗普赴华会晤可能性",
   "eyeofsauronlongrangehiddenspycameradetection",
-  "微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位吗"
+  "微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位吗",
+  "四部门公布纸尿裤甲酰胺问题调查结果所有抽检均未检出甲酰胺还有哪些信息值得关注"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11586,7 +11587,8 @@
   "e:分析师sk海力士放弃solidigm美国ipo计划或利好美光科技和闪迪": "分析师：SK海力士放弃Solidigm美国IPO计划，或利好美光科技和闪迪",
   "e:普京不排除与特朗普赴华会晤可能性": "普京：不排除与特朗普赴华会晤可能性",
   "e:eyeofsauronlongrangehiddenspycameradetec": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
-  "e:微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位": "微信上线绿泡泡短剧，腾讯此前多次进军短剧市场都效果平平，这次能成功吗？能撼动红果的地位吗？"
+  "e:微信上线绿泡泡短剧腾讯此前多次进军短剧市场都效果平平这次能成功吗能撼动红果的地位": "微信上线绿泡泡短剧，腾讯此前多次进军短剧市场都效果平平，这次能成功吗？能撼动红果的地位吗？",
+  "e:四部门公布纸尿裤甲酰胺问题调查结果所有抽检均未检出甲酰胺还有哪些信息值得关注": "四部门公布纸尿裤甲酰胺问题调查结果，所有抽检均未检出甲酰胺，还有哪些信息值得关注？"
  },
  "a_seen": {
   "俄国防部俄方控制的奥列什基将于10月27日停火": {
@@ -11684,8 +11686,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:微软与动视暴雪25亿美元集体诉讼和解协议获批"
+  },
+  "a股市场底部探明了吗": {
+   "key": "a股市场底部探明了吗",
+   "title": "A股市场底部探明了吗",
+   "rating": "A",
+   "score": 67.89,
+   "angle": "从市场情绪与资金动向切入，解读底部信号真伪",
+   "hook_reason": "A股底部之争引发全民关注",
+   "url": "https://www.toutiao.com/trending/7699845934754041395/",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:a股市场底部探明了吗"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
