@@ -9357,19 +9357,6 @@
    "batch_window": 2
   },
   {
-   "key": "nvidiaopenshell",
-   "title": "Nvidia OpenShell",
-   "rating": "A",
-   "score": 79.0,
-   "angle": "AI巨头首次开源底层工具，开发者生态布局信号",
-   "hook_reason": "NVIDIA首次开源",
-   "url": "https://github.com/NVIDIA/OpenShell",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:nvidiaopenshell",
-   "batch_window": 2
-  },
-  {
    "key": "googlecleared300hectaresoffinnishforest",
    "title": "Google cleared 300 hectares of Finnish forest",
    "rating": "A",
@@ -10486,6 +10473,19 @@
    "breaking": true,
    "event_id": "e:stealmybitcoin",
    "batch_window": 6
+  },
+  {
+   "key": "特朗普就限制联邦学生贷款利率的立法这是我一定会认真考虑的事项",
+   "title": "特朗普：（就限制联邦学生贷款利率的立法）这是我一定会认真考虑的事项。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从特朗普新政出发，拆解美国学生贷款利率可能调整的影响，关联中国留学生群体及教育行业产业链",
+   "hook_reason": "特朗普突然表态美国学生贷款政策，直接影响千万留学生家庭",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwkrxa3342405.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普就限制联邦学生贷款利率的立法这是我一定会认真考虑的事项",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -11267,7 +11267,8 @@
   "用个ai还被说豆包是低认知人群的标签这个话本身就有点低认知因为低认知恰恰有一个特点",
   "刘丁硕疑暗讽张继科蹭热度低价课扰乱市场张继科回怼段位不够上不了台面你咋看他两有啥纠葛吗",
   "梅艳芳连灵位上的籍贯信息都是假的",
-  "attackofthevibecodedphotoshopclones"
+  "attackofthevibecodedphotoshopclones",
+  "nvidiaopenshell"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11985,7 +11986,8 @@
   "e:用个ai还被说豆包是低认知人群的标签这个话本身就有点低认知因为低认知恰恰有一个特": "用个ai还被说。“豆包是低认知人群的标签”，这个话本身就有点低认知。 因为低认知恰恰有一个特点，",
   "e:刘丁硕疑暗讽张继科蹭热度低价课扰乱市场张继科回怼段位不够上不了台面你咋看他两有啥": "刘丁硕疑暗讽张继科蹭热度、低价课扰乱市场，张继科回怼「段位不够、上不了台面」，你咋看？他两有啥纠葛吗？",
   "e:梅艳芳连灵位上的籍贯信息都是假的": "梅艳芳连灵位上的籍贯信息都是假的",
-  "e:attackofthevibecodedphotoshopclones": "Attack of the Vibe Coded Photoshop Clones"
+  "e:attackofthevibecodedphotoshopclones": "Attack of the Vibe Coded Photoshop Clones",
+  "e:nvidiaopenshell": "Nvidia OpenShell"
  },
  "a_seen": {
   "新郎新娘回应毛不易婚礼发言": {
@@ -12119,8 +12121,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:stealmybitcoin"
+  },
+  "特朗普就限制联邦学生贷款利率的立法这是我一定会认真考虑的事项": {
+   "key": "特朗普就限制联邦学生贷款利率的立法这是我一定会认真考虑的事项",
+   "title": "特朗普：（就限制联邦学生贷款利率的立法）这是我一定会认真考虑的事项。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从特朗普新政出发，拆解美国学生贷款利率可能调整的影响，关联中国留学生群体及教育行业产业链",
+   "hook_reason": "特朗普突然表态美国学生贷款政策，直接影响千万留学生家庭",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwkrxa3342405.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普就限制联邦学生贷款利率的立法这是我一定会认真考虑的事项"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
