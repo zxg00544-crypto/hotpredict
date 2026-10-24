@@ -10499,6 +10499,19 @@
    "breaking": true,
    "event_id": "e:苏州出台商品住房销售实施意见新出让土地项目优先现房销售",
    "batch_window": 21
+  },
+  {
+   "key": "elonmuskjustgaveeuropeareasontor38ccb05d",
+   "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+   "rating": "A",
+   "score": 57.6,
+   "angle": "从Musk言论切入，分析欧洲技术独立化趋势及对中美欧科技格局的连锁影响",
+   "hook_reason": "Musk一句话引爆欧美科技博弈，欧洲或加速脱离美国技术",
+   "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:elonmuskjustgaveeuropeareasontoreplaceam",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -12624,6 +12637,18 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:苏州出台商品住房销售实施意见新出让土地项目优先现房销售"
+  },
+  "elonmuskjustgaveeuropeareasontor38ccb05d": {
+   "key": "elonmuskjustgaveeuropeareasontor38ccb05d",
+   "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+   "rating": "A",
+   "score": 57.6,
+   "angle": "从Musk言论切入，分析欧洲技术独立化趋势及对中美欧科技格局的连锁影响",
+   "hook_reason": "Musk一句话引爆欧美科技博弈，欧洲或加速脱离美国技术",
+   "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:elonmuskjustgaveeuropeareasontoreplaceam"
   }
  },
  "breaking_count": 10,
