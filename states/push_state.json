@@ -10460,6 +10460,19 @@
    "breaking": true,
    "event_id": "e:字节ai应用再整合小云雀并入即梦",
    "batch_window": 18
+  },
+  {
+   "key": "thinkrailfromjetbrains",
+   "title": "ThinkRail from JetBrains",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "JetBrains携35年开发者生态入局AI编程，Cop护城河能否守住？",
+   "hook_reason": "JetBrains突发推AI编程工具，巨头直接对标GitHub Copilot",
+   "url": "https://thinkrail.ai/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thinkrailfromjetbrains",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -12450,9 +12463,9 @@
    "key": "第一批拿到iphoneduo的人心态有点崩",
    "title": "第一批拿到iPhone Duo的人心态有点崩",
    "rating": "A",
-   "score": 46.95,
-   "angle": "从首批用户真实体验切入，剖析iPhone Duo是否存在严重缺陷或设计争议，引发科技圈讨论",
-   "hook_reason": "苹果新品翻车，首批用户心态崩了，吃瓜必看",
+   "score": 54.45,
+   "angle": "从首批iPhone Duo用户真实体验切入，挖掘产品问题与果粉期待的落差，引发科技圈讨论",
+   "hook_reason": "首批用户心态崩，苹果新品翻车引围观",
    "url": "https://www.toutiao.com/trending/7700143053515787812/",
    "track": "科技",
    "breaking": true,
@@ -12493,6 +12506,18 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:字节ai应用再整合小云雀并入即梦"
+  },
+  "thinkrailfromjetbrains": {
+   "key": "thinkrailfromjetbrains",
+   "title": "ThinkRail from JetBrains",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "JetBrains携35年开发者生态入局AI编程，Cop护城河能否守住？",
+   "hook_reason": "JetBrains突发推AI编程工具，巨头直接对标GitHub Copilot",
+   "url": "https://thinkrail.ai/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thinkrailfromjetbrains"
   }
  },
  "breaking_count": 10,
