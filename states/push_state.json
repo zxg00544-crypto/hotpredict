@@ -10473,6 +10473,32 @@
    "breaking": true,
    "event_id": "e:losg2",
    "batch_window": 4
+  },
+  {
+   "key": "特朗普称与马斯克谈过乌克兰局势",
+   "title": "特朗普称与马斯克谈过乌克兰局势",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从大咖互动切入，挖掘特朗普与马斯克关系走向及对中美科技/外交的潜在影响",
+   "hook_reason": "特朗普×马斯克同框，两人关系与国际局势双重悬念",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwkmre3445545.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普称与马斯克谈过乌克兰局势",
+   "batch_window": 4
+  },
+  {
+   "key": "特朗普让我们忍受了民主党四年腐败的武器化政治手段再经历一遍非常不公平我",
+   "title": "特朗普：让我们忍受了（民主党）四年腐败的武器化政治手段，再经历一遍非常不公平，我",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "聚焦特朗普最新炮轰民主党的核心指控，结合2024选情分析其政治策略与后续影响",
+   "hook_reason": "特朗普再爆猛料：指控民主党腐败政治武器化，谁将反制？",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwkmre3444698.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普让我们忍受了民主党四年腐败的武器化政治手段再经历一遍非常不公平我",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -12066,6 +12092,30 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:losg2"
+  },
+  "特朗普称与马斯克谈过乌克兰局势": {
+   "key": "特朗普称与马斯克谈过乌克兰局势",
+   "title": "特朗普称与马斯克谈过乌克兰局势",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从大咖互动切入，挖掘特朗普与马斯克关系走向及对中美科技/外交的潜在影响",
+   "hook_reason": "特朗普×马斯克同框，两人关系与国际局势双重悬念",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwkmre3445545.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普称与马斯克谈过乌克兰局势"
+  },
+  "特朗普让我们忍受了民主党四年腐败的武器化政治手段再经历一遍非常不公平我": {
+   "key": "特朗普让我们忍受了民主党四年腐败的武器化政治手段再经历一遍非常不公平我",
+   "title": "特朗普：让我们忍受了（民主党）四年腐败的武器化政治手段，再经历一遍非常不公平，我",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "聚焦特朗普最新炮轰民主党的核心指控，结合2024选情分析其政治策略与后续影响",
+   "hook_reason": "特朗普再爆猛料：指控民主党腐败政治武器化，谁将反制？",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwkmre3444698.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普让我们忍受了民主党四年腐败的武器化政治手段再经历一遍非常不公平我"
   }
  },
  "breaking_count": 10,
