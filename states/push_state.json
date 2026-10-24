@@ -4547,19 +4547,6 @@
    "batch_window": 22
   },
   {
-   "key": "高志凯台海若爆发战争没开战就结束",
-   "title": "高志凯：台海若爆发战争没开战就结束",
-   "rating": "A",
-   "score": 79.5,
-   "angle": "解读高志凯'未战先终'判断的战略逻辑与信号释放",
-   "hook_reason": "台海战争惊人预测，高志凯重磅表态引爆地缘关注度",
-   "url": "https://www.toutiao.com/trending/7696116438790438955/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:高志凯台海若爆发战争没开战就结束",
-   "batch_window": 23
-  },
-  {
    "key": "马斯克巨额捐款能否帮共和党守住国会",
    "title": "马斯克巨额捐款能否帮共和党守住国会",
    "rating": "A",
@@ -11249,7 +11236,8 @@
   "乌克兰无人机生产商称基辅军方袭击了俄罗斯鄂木斯克的石化厂和ozon仓库",
   "也门胡塞武装称对沙特机场和石油设施等目标发动袭击",
   "沙特民防部门胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后碎片坠落",
-  "recursiveselfimprovementthroughcf7637a63"
+  "recursiveselfimprovementthroughcf7637a63",
+  "高志凯台海若爆发战争没开战就结束"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11962,7 +11950,8 @@
   "e:乌克兰无人机生产商称基辅军方袭击了俄罗斯鄂木斯克的石化厂和ozon仓库": "乌克兰无人机生产商称，基辅军方袭击了俄罗斯鄂木斯克的石化厂和Ozon仓库。",
   "e:也门胡塞武装称对沙特机场和石油设施等目标发动袭击": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击",
   "e:沙特民防部门胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后碎片坠落": "沙特民防部门：胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后，碎片坠落。",
-  "e:recursiveselfimprovementthroughcollectiv": "Recursive self-improvement through collective intelligence"
+  "e:recursiveselfimprovementthroughcollectiv": "Recursive self-improvement through collective intelligence",
+  "e:高志凯台海若爆发战争没开战就结束": "高志凯：台海若爆发战争没开战就结束"
  },
  "a_seen": {
   "新郎新娘回应毛不易婚礼发言": {
@@ -11981,11 +11970,11 @@
    "key": "黄仁勋称内存近期不会供应过剩",
    "title": "黄仁勋称内存近期不会供应过剩",
    "rating": "A",
-   "score": 40.95,
-   "angle": "黄仁勋为何此时断言内存不过剩？AI需求 vs 产能博弈的底层逻辑",
-   "hook_reason": "黄仁勋亲口研判内存走势，直接关系AI产业链和硬件玩家钱包",
+   "score": 40.9,
+   "angle": "从黄仁勋这句内存不供过于求的表态切入，拆解NVIDIA产业链话语权与当下AI芯片供需暗战，读者关心的是：AI军备竞赛下半场，谁在控制命脉？",
+   "hook_reason": "NVIDIA掌门人断言内存不 surplus，芯片市场博弈升级",
    "url": "https://search.bilibili.com/all?keyword=黄仁勋称内存近期不会供应过剩",
-   "track": "科技",
+   "track": "大咖发言",
    "breaking": true,
    "event_id": "e:黄仁勋称内存近期不会供应过剩"
   },
@@ -12027,5 +12016,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
