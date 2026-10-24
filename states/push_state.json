@@ -6211,19 +6211,6 @@
    "batch_window": 16
   },
   {
-   "key": "用个ai还被说豆包是低认知人群的标签这个话本身就有点低认知因为低认知恰恰有一个特点",
-   "title": "用个ai还被说。“豆包是低认知人群的标签”，这个话本身就有点低认知。 因为低认知恰恰有一个特点，",
-   "rating": "A",
-   "score": 79.32,
-   "angle": "从'豆包用户=低认知'的标签化现象切入，剖析AI时代的认知优越感与群体傲慢",
-   "hook_reason": "AI鄙视链引爆身份争论，豆包用户被贴标签反讽低认知",
-   "url": "https://weibo.com/3632055312/RmNZgwnfb",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:用个ai还被说豆包是低认知人群的标签这个话本身就有点低认知因为低认知恰恰有一个特",
-   "batch_window": 17
-  },
-  {
    "key": "newyorkcitysiconichorsedrawncarr11798e4f",
    "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
    "rating": "A",
@@ -10460,6 +10447,32 @@
    "breaking": true,
    "event_id": "e:elonmuskjustgaveeuropeareasontoreplaceam",
    "batch_window": 22
+  },
+  {
+   "key": "消息人士称伊朗已告知巴基斯坦其愿意恢复与华盛顿的谈判并重新开放霍尔木兹海峡",
+   "title": "消息人士称，伊朗已告知巴基斯坦，其愿意恢复与华盛顿的谈判并重新开放霍尔木兹海峡，",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从霍尔木兹海峡重开切入，分析对全球油价、能源安全及亚太经济的即时影响",
+   "hook_reason": "中东局势突变，霍尔木兹海峡重开牵动全球能源神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwkmrh0204319.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:消息人士称伊朗已告知巴基斯坦其愿意恢复与华盛顿的谈判并重新开放霍尔木兹海峡",
+   "batch_window": 3
+  },
+  {
+   "key": "dream1",
+   "title": "Dream-1",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从Dream-1的技术亮点切入，对比现有主流模型，分析其对AI行业格局的影响",
+   "hook_reason": "Dream Labs发布Dream-1，AI新模型登顶HN，极客圈关注",
+   "url": "https://dreamlabs.ai/research/dream-1/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:dream1",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -11237,7 +11250,8 @@
   "也门胡塞武装称对沙特机场和石油设施等目标发动袭击",
   "沙特民防部门胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后碎片坠落",
   "recursiveselfimprovementthroughcf7637a63",
-  "高志凯台海若爆发战争没开战就结束"
+  "高志凯台海若爆发战争没开战就结束",
+  "用个ai还被说豆包是低认知人群的标签这个话本身就有点低认知因为低认知恰恰有一个特点"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11951,7 +11965,8 @@
   "e:也门胡塞武装称对沙特机场和石油设施等目标发动袭击": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击",
   "e:沙特民防部门胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后碎片坠落": "沙特民防部门：胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后，碎片坠落。",
   "e:recursiveselfimprovementthroughcollectiv": "Recursive self-improvement through collective intelligence",
-  "e:高志凯台海若爆发战争没开战就结束": "高志凯：台海若爆发战争没开战就结束"
+  "e:高志凯台海若爆发战争没开战就结束": "高志凯：台海若爆发战争没开战就结束",
+  "e:用个ai还被说豆包是低认知人群的标签这个话本身就有点低认知因为低认知恰恰有一个特": "用个ai还被说。“豆包是低认知人群的标签”，这个话本身就有点低认知。 因为低认知恰恰有一个特点，"
  },
  "a_seen": {
   "新郎新娘回应毛不易婚礼发言": {
@@ -12013,8 +12028,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:沙特民防部门胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后碎片坠落"
+  },
+  "消息人士称伊朗已告知巴基斯坦其愿意恢复与华盛顿的谈判并重新开放霍尔木兹海峡": {
+   "key": "消息人士称伊朗已告知巴基斯坦其愿意恢复与华盛顿的谈判并重新开放霍尔木兹海峡",
+   "title": "消息人士称，伊朗已告知巴基斯坦，其愿意恢复与华盛顿的谈判并重新开放霍尔木兹海峡，",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从霍尔木兹海峡重开切入，分析对全球油价、能源安全及亚太经济的即时影响",
+   "hook_reason": "中东局势突变，霍尔木兹海峡重开牵动全球能源神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwkmrh0204319.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:消息人士称伊朗已告知巴基斯坦其愿意恢复与华盛顿的谈判并重新开放霍尔木兹海峡"
+  },
+  "dream1": {
+   "key": "dream1",
+   "title": "Dream-1",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从Dream-1的技术亮点切入，对比现有主流模型，分析其对AI行业格局的影响",
+   "hook_reason": "Dream Labs发布Dream-1，AI新模型登顶HN，极客圈关注",
+   "url": "https://dreamlabs.ai/research/dream-1/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:dream1"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
