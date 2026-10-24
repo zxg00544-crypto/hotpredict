@@ -3598,19 +3598,6 @@
    "batch_window": 6
   },
   {
-   "key": "recursiveselfimprovementthroughcf7637a63",
-   "title": "Recursive self-improvement through collective intelligence",
-   "rating": "A",
-   "score": 79.5,
-   "angle": "Sakana发布集体智能递归自我改进框架，AI可自主迭代升级，突破人类训练瓶颈",
-   "hook_reason": "AI自动进化突破，Sakana引发范式革命，技术圈热议",
-   "url": "https://pub.sakana.ai/mass/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:recursiveselfimprovementthroughcollectiv",
-   "batch_window": 8
-  },
-  {
    "key": "周一早小米18pro系列",
    "title": "周一早！ #小米18Pro系列#",
    "rating": "A",
@@ -11258,7 +11245,11 @@
   "泽连斯基不会为结束冲突放弃更多领土",
   "也门胡塞武装称他们袭击了沙特阿美在延布的一处设施",
   "freedns",
-  "solarsurpassesnuclearpowerglobalfc2a2632"
+  "solarsurpassesnuclearpowerglobalfc2a2632",
+  "乌克兰无人机生产商称基辅军方袭击了俄罗斯鄂木斯克的石化厂和ozon仓库",
+  "也门胡塞武装称对沙特机场和石油设施等目标发动袭击",
+  "沙特民防部门胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后碎片坠落",
+  "recursiveselfimprovementthroughcf7637a63"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11967,7 +11958,11 @@
   "e:泽连斯基不会为结束冲突放弃更多领土": "泽连斯基：不会为结束冲突放弃更多领土",
   "e:也门胡塞武装称他们袭击了沙特阿美在延布的一处设施": "也门胡塞武装称他们袭击了沙特阿美在延布的一处设施。",
   "e:freedns": "FreeDNS",
-  "e:solarsurpassesnuclearpowergloballyforfir": "Solar surpasses nuclear power globally for first time – pv magazine Global"
+  "e:solarsurpassesnuclearpowergloballyforfir": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+  "e:乌克兰无人机生产商称基辅军方袭击了俄罗斯鄂木斯克的石化厂和ozon仓库": "乌克兰无人机生产商称，基辅军方袭击了俄罗斯鄂木斯克的石化厂和Ozon仓库。",
+  "e:也门胡塞武装称对沙特机场和石油设施等目标发动袭击": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击",
+  "e:沙特民防部门胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后碎片坠落": "沙特民防部门：胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后，碎片坠落。",
+  "e:recursiveselfimprovementthroughcollectiv": "Recursive self-improvement through collective intelligence"
  },
  "a_seen": {
   "新郎新娘回应毛不易婚礼发言": {
@@ -12017,8 +12012,20 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:也门胡塞武装称他们袭击了沙特阿美在延布的一处设施"
+  },
+  "沙特民防部门胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后碎片坠落": {
+   "key": "沙特民防部门胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后碎片坠落",
+   "title": "沙特民防部门：胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后，碎片坠落。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "解读胡塞武装袭击动机、沙特防御能力及地区局势走向",
+   "hook_reason": "导弹袭击伊斯兰圣地，碎片坠落引发全球关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwkfik0307290.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:沙特民防部门胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后碎片坠落"
   }
  },
- "breaking_count": 7,
- "a_pushed_window": 0
+ "breaking_count": 10,
+ "a_pushed_window": 1
 }
