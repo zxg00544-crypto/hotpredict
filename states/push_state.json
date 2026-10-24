@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-10-24",
  "a_pending": [
   {
@@ -10462,19 +10462,6 @@
    "batch_window": 19
   },
   {
-   "key": "胡彦斌自曝一个半月消耗52亿token",
-   "title": "胡彦斌自曝一个半月消耗52亿token",
-   "rating": "A",
-   "score": 87.5,
-   "angle": "借胡彦斌案例切入：AI token成本如何从专业玩家下沉到娱乐圈/大众，背后的算力与商业模式变化",
-   "hook_reason": "明星自曝AI使用量，揭开普通人/创作者接入AI的隐形成本",
-   "url": "https://www.baidu.com/s?wd=%E8%83%A1%E5%BD%A6%E6%96%8C%E8%87%AA%E6%9B%9D%E4%B8%80%E4%B8%AA%E5%8D%8A%E6%9C%88%E6%B6%88%E8%80%9752%E4%BA%BFtoken&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:胡彦斌自曝一个半月消耗52亿token",
-   "batch_window": 20
-  },
-  {
    "key": "urkl机器人格斗16强入围赛",
    "title": "URKL机器人格斗16强入围赛",
    "rating": "A",
@@ -10499,6 +10486,32 @@
    "breaking": true,
    "event_id": "e:据俄罗斯能源部消息克里米亚赫尔松地区扎波罗热地区以及顿涅茨克人民共和国",
    "batch_window": 20
+  },
+  {
+   "key": "idontunderstandquantumphysics2018",
+   "title": "I Don't Understand Quantum Physics (2018)",
+   "rating": "A",
+   "score": 64.28,
+   "angle": "从2018年经典科普文近期翻红切入，分析科技内容长尾传播规律",
+   "hook_reason": "量子物理科普常青话题，大众好奇门槛低",
+   "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:idontunderstandquantumphysics2018",
+   "batch_window": 21
+  },
+  {
+   "key": "苏州出台商品住房销售实施意见新出让土地项目优先现房销售",
+   "title": "苏州出台商品住房销售实施意见：新出让土地项目优先现房销售",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深挖现房销售新政背后的房地产商业模式转型逻辑，预判对刚需群体和房企现金流的双重冲击",
+   "hook_reason": "苏州楼市突发新政，现房销售模式改变千万购房者命运",
+   "url": "https://finance.sina.cn/7x24/2026-10-24/detail-iniwiute7871043.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:苏州出台商品住房销售实施意见新出让土地项目优先现房销售",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -11260,7 +11273,8 @@
   "小天才就不能安安心心做块表吗",
   "11of23coreopensourceprojectsrunon1or2people",
   "秦兵马俑上发现女性指纹",
-  "四部门发文严管汽车研发测试整治速成车并设定一年三万公里指标将对车企竞争和造车周期带来哪些改变"
+  "四部门发文严管汽车研发测试整治速成车并设定一年三万公里指标将对车企竞争和造车周期带来哪些改变",
+  "胡彦斌自曝一个半月消耗52亿token"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11958,7 +11972,8 @@
   "e:小天才就不能安安心心做块表吗": "“小天才”就不能安安心心做块表吗",
   "e:11of23coreopensourceprojectsrunon1or2peo": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
   "e:秦兵马俑上发现女性指纹": "秦兵马俑上发现女性指纹",
-  "e:转2026年10月11日周日读报一切美好从开始1工信部等四部门10日就加强汽车产": "四部门发文严管汽车研发测试整治「速成车」，并设定一年三万公里指标，将对车企竞争和造车周期带来哪些改变？"
+  "e:转2026年10月11日周日读报一切美好从开始1工信部等四部门10日就加强汽车产": "四部门发文严管汽车研发测试整治「速成车」，并设定一年三万公里指标，将对车企竞争和造车周期带来哪些改变？",
+  "e:胡彦斌自曝一个半月消耗52亿token": "胡彦斌自曝一个半月消耗52亿token"
  },
  "a_seen": {
   "俄国防部俄方控制的奥列什基将于10月27日停火": {
@@ -12596,8 +12611,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:据俄罗斯能源部消息克里米亚赫尔松地区扎波罗热地区以及顿涅茨克人民共和国"
+  },
+  "idontunderstandquantumphysics2018": {
+   "key": "idontunderstandquantumphysics2018",
+   "title": "I Don't Understand Quantum Physics (2018)",
+   "rating": "A",
+   "score": 64.28,
+   "angle": "从2018年经典科普文近期翻红切入，分析科技内容长尾传播规律",
+   "hook_reason": "量子物理科普常青话题，大众好奇门槛低",
+   "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:idontunderstandquantumphysics2018"
+  },
+  "苏州出台商品住房销售实施意见新出让土地项目优先现房销售": {
+   "key": "苏州出台商品住房销售实施意见新出让土地项目优先现房销售",
+   "title": "苏州出台商品住房销售实施意见：新出让土地项目优先现房销售",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深挖现房销售新政背后的房地产商业模式转型逻辑，预判对刚需群体和房企现金流的双重冲击",
+   "hook_reason": "苏州楼市突发新政，现房销售模式改变千万购房者命运",
+   "url": "https://finance.sina.cn/7x24/2026-10-24/detail-iniwiute7871043.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:苏州出台商品住房销售实施意见新出让土地项目优先现房销售"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
