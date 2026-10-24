@@ -6744,19 +6744,6 @@
    "batch_window": 14
   },
   {
-   "key": "刘丁硕疑暗讽张继科蹭热度低价课扰乱市场张继科回怼段位不够上不了台面你咋看他两有啥纠葛吗",
-   "title": "刘丁硕疑暗讽张继科蹭热度、低价课扰乱市场，张继科回怼「段位不够、上不了台面」，你咋看？他两有啥纠葛吗？",
-   "rating": "A",
-   "score": 79.24,
-   "angle": "从刘丁硕vs张继科争议切入，分析体育明星跨界卖课的定价权之争与行业潜规则",
-   "hook_reason": "体育顶流公开互撕，前国手带货乱象引热议",
-   "url": "https://www.zhihu.com/question/2094756940668565354",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:刘丁硕疑暗讽张继科蹭热度低价课扰乱市场张继科回怼段位不够上不了台面你咋看他两有啥",
-   "batch_window": 14
-  },
-  {
    "key": "女子生下龙凤胎起诉已婚董事长望其承担养育责任男方质疑其通过人工试管受孕有哪些疑点待厘清",
    "title": "女子生下龙凤胎起诉已婚董事长望其承担养育责任，男方质疑其通过人工试管受孕，有哪些疑点待厘清？",
    "rating": "A",
@@ -10473,6 +10460,19 @@
    "breaking": true,
    "event_id": "e:dream1",
    "batch_window": 3
+  },
+  {
+   "key": "thegooseprogramminglanguage",
+   "title": "The Goose Programming Language",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "Goose语言主打什么差异化？开发者为何买单？解读底层设计思路与可能冲击的编程语言格局。",
+   "hook_reason": "新编程语言登陆HN榜首，开发者圈炸锅，能否挑战主流？",
+   "url": "https://aardappel.github.io/goose/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:losg2",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -11251,7 +11251,8 @@
   "沙特民防部门胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后碎片坠落",
   "recursiveselfimprovementthroughcf7637a63",
   "高志凯台海若爆发战争没开战就结束",
-  "用个ai还被说豆包是低认知人群的标签这个话本身就有点低认知因为低认知恰恰有一个特点"
+  "用个ai还被说豆包是低认知人群的标签这个话本身就有点低认知因为低认知恰恰有一个特点",
+  "刘丁硕疑暗讽张继科蹭热度低价课扰乱市场张继科回怼段位不够上不了台面你咋看他两有啥纠葛吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11966,7 +11967,8 @@
   "e:沙特民防部门胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后碎片坠落": "沙特民防部门：胡塞武装向麦加和麦地那地区发射的弹道导弹被拦截后，碎片坠落。",
   "e:recursiveselfimprovementthroughcollectiv": "Recursive self-improvement through collective intelligence",
   "e:高志凯台海若爆发战争没开战就结束": "高志凯：台海若爆发战争没开战就结束",
-  "e:用个ai还被说豆包是低认知人群的标签这个话本身就有点低认知因为低认知恰恰有一个特": "用个ai还被说。“豆包是低认知人群的标签”，这个话本身就有点低认知。 因为低认知恰恰有一个特点，"
+  "e:用个ai还被说豆包是低认知人群的标签这个话本身就有点低认知因为低认知恰恰有一个特": "用个ai还被说。“豆包是低认知人群的标签”，这个话本身就有点低认知。 因为低认知恰恰有一个特点，",
+  "e:刘丁硕疑暗讽张继科蹭热度低价课扰乱市场张继科回怼段位不够上不了台面你咋看他两有啥": "刘丁硕疑暗讽张继科蹭热度、低价课扰乱市场，张继科回怼「段位不够、上不了台面」，你咋看？他两有啥纠葛吗？"
  },
  "a_seen": {
   "新郎新娘回应毛不易婚礼发言": {
@@ -12045,15 +12047,27 @@
    "key": "dream1",
    "title": "Dream-1",
    "rating": "A",
-   "score": 40.9,
-   "angle": "从Dream-1的技术亮点切入，对比现有主流模型，分析其对AI行业格局的影响",
-   "hook_reason": "Dream Labs发布Dream-1，AI新模型登顶HN，极客圈关注",
+   "score": 75.8,
+   "angle": "解析Dream-1技术突破与行业颠覆潜力，解读AI赛道新格局",
+   "hook_reason": "AI模型Dream-1横空出世，热度83引爆HN社区",
    "url": "https://dreamlabs.ai/research/dream-1/",
    "track": "科技",
    "breaking": true,
    "event_id": "e:dream1"
+  },
+  "thegooseprogramminglanguage": {
+   "key": "thegooseprogramminglanguage",
+   "title": "The Goose Programming Language",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "Goose语言主打什么差异化？开发者为何买单？解读底层设计思路与可能冲击的编程语言格局。",
+   "hook_reason": "新编程语言登陆HN榜首，开发者圈炸锅，能否挑战主流？",
+   "url": "https://aardappel.github.io/goose/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:losg2"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
