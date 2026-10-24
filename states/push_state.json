@@ -10200,6 +10200,32 @@
    "breaking": true,
    "event_id": "e:西藏70级地震救援最新进展",
    "batch_window": 8
+  },
+  {
+   "key": "订单排到2031年重量级国货爆单",
+   "title": "“订单排到2031年” 重量级国货爆单",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "国货崛起引爆消费热潮，从爆单看本土品牌竞争力逆袭",
+   "hook_reason": "国货爆单排到2031年，民族自豪感+惊人数据双驱动",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B02031%E5%B9%B4%E2%80%9D+%E9%87%8D%E9%87%8F%E7%BA%A7%E5%9B%BD%E8%B4%A7%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:订单排到2031年重量级国货爆单",
+   "batch_window": 8
+  },
+  {
+   "key": "kimik31pro正式发布如何评价该新模型有哪些值得关注的亮点",
+   "title": "Kimi K3.1 Pro 正式发布，如何评价该新模型？有哪些值得关注的亮点？",
+   "rating": "A",
+   "score": 64.21,
+   "angle": "从国产大模型竞争格局切入，分析Kimi K3.1 Pro性能突破对用户选择及行业格局的影响",
+   "hook_reason": "国产AI又出王炸，Kimi K3.1 Pro性能暴涨，业内如何评价？",
+   "url": "https://www.zhihu.com/question/2096972346951198516",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:kimik31pro正式发布如何评价该新模型有哪些值得关注的亮点",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -11811,8 +11837,8 @@
    "title": "普京问乌克兰真准备战至最后一人吗",
    "rating": "A",
    "score": 46.9,
-   "angle": "聚焦普京发言释放的战略信号，解读俄乌战场最新态势",
-   "hook_reason": "普京最新放狠话，俄乌战争走向悬念拉满",
+   "angle": "普京最新表态战略意图解读，俄乌冲突走向研判",
+   "hook_reason": "普京直接向乌克兰发问，战争走向悬念引关注",
    "url": "https://www.toutiao.com/trending/7699084264075182134/",
    "track": "大咖发言",
    "breaking": true,
@@ -11829,6 +11855,30 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:西藏70级地震救援最新进展"
+  },
+  "订单排到2031年重量级国货爆单": {
+   "key": "订单排到2031年重量级国货爆单",
+   "title": "“订单排到2031年” 重量级国货爆单",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "国货崛起引爆消费热潮，从爆单看本土品牌竞争力逆袭",
+   "hook_reason": "国货爆单排到2031年，民族自豪感+惊人数据双驱动",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B02031%E5%B9%B4%E2%80%9D+%E9%87%8D%E9%87%8F%E7%BA%A7%E5%9B%BD%E8%B4%A7%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:订单排到2031年重量级国货爆单"
+  },
+  "kimik31pro正式发布如何评价该新模型有哪些值得关注的亮点": {
+   "key": "kimik31pro正式发布如何评价该新模型有哪些值得关注的亮点",
+   "title": "Kimi K3.1 Pro 正式发布，如何评价该新模型？有哪些值得关注的亮点？",
+   "rating": "A",
+   "score": 64.21,
+   "angle": "从国产大模型竞争格局切入，分析Kimi K3.1 Pro性能突破对用户选择及行业格局的影响",
+   "hook_reason": "国产AI又出王炸，Kimi K3.1 Pro性能暴涨，业内如何评价？",
+   "url": "https://www.zhihu.com/question/2096972346951198516",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:kimik31pro正式发布如何评价该新模型有哪些值得关注的亮点"
   }
  },
  "breaking_count": 10,
