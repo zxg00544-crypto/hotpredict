@@ -3767,19 +3767,6 @@
    "batch_window": 15
   },
   {
-   "key": "attackofthevibecodedphotoshopclones",
-   "title": "Attack of the Vibe Coded Photoshop Clones",
-   "rating": "A",
-   "score": 79.0,
-   "angle": "AI绘图工具崛起正在颠覆传统设计软件生态，vibe coding让非专业用户也能产出photoshop级作品，探讨设计师群体的职业焦虑与行业重塑",
-   "hook_reason": "AI一键替代Photoshop？设计师饭碗被vibe coding砸了",
-   "url": "https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:attackofthevibecodedphotoshopclones",
-   "batch_window": 15
-  },
-  {
    "key": "郑钦文右肩受伤退出2026年武汉网球公开赛她的伤势有多严重对后续比赛影响有多大",
    "title": "郑钦文右肩受伤，退出 2026 年武汉网球公开赛，她的伤势有多严重？对后续比赛影响有多大？",
    "rating": "A",
@@ -10486,6 +10473,19 @@
    "breaking": true,
    "event_id": "e:特朗普让我们忍受了民主党四年腐败的武器化政治手段再经历一遍非常不公平我",
    "batch_window": 4
+  },
+  {
+   "key": "stealmybitcoin",
+   "title": "Steal My Bitcoin",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从加密货币安全困境切入，以幽默自嘲的方式探讨钱包被盗风险、私钥保管痛点，引发币圈读者共鸣与转发欲望",
+   "hook_reason": "标题本身极具讽刺感与情绪张力，",
+   "url": "https://stealmybitcoin.com/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:stealmybitcoin",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -11266,7 +11266,8 @@
   "高志凯台海若爆发战争没开战就结束",
   "用个ai还被说豆包是低认知人群的标签这个话本身就有点低认知因为低认知恰恰有一个特点",
   "刘丁硕疑暗讽张继科蹭热度低价课扰乱市场张继科回怼段位不够上不了台面你咋看他两有啥纠葛吗",
-  "梅艳芳连灵位上的籍贯信息都是假的"
+  "梅艳芳连灵位上的籍贯信息都是假的",
+  "attackofthevibecodedphotoshopclones"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11983,7 +11984,8 @@
   "e:高志凯台海若爆发战争没开战就结束": "高志凯：台海若爆发战争没开战就结束",
   "e:用个ai还被说豆包是低认知人群的标签这个话本身就有点低认知因为低认知恰恰有一个特": "用个ai还被说。“豆包是低认知人群的标签”，这个话本身就有点低认知。 因为低认知恰恰有一个特点，",
   "e:刘丁硕疑暗讽张继科蹭热度低价课扰乱市场张继科回怼段位不够上不了台面你咋看他两有啥": "刘丁硕疑暗讽张继科蹭热度、低价课扰乱市场，张继科回怼「段位不够、上不了台面」，你咋看？他两有啥纠葛吗？",
-  "e:梅艳芳连灵位上的籍贯信息都是假的": "梅艳芳连灵位上的籍贯信息都是假的"
+  "e:梅艳芳连灵位上的籍贯信息都是假的": "梅艳芳连灵位上的籍贯信息都是假的",
+  "e:attackofthevibecodedphotoshopclones": "Attack of the Vibe Coded Photoshop Clones"
  },
  "a_seen": {
   "新郎新娘回应毛不易婚礼发言": {
@@ -12105,8 +12107,20 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:特朗普让我们忍受了民主党四年腐败的武器化政治手段再经历一遍非常不公平我"
+  },
+  "stealmybitcoin": {
+   "key": "stealmybitcoin",
+   "title": "Steal My Bitcoin",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从加密货币安全困境切入，以幽默自嘲的方式探讨钱包被盗风险、私钥保管痛点，引发币圈读者共鸣与转发欲望",
+   "hook_reason": "标题本身极具讽刺感与情绪张力，",
+   "url": "https://stealmybitcoin.com/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:stealmybitcoin"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
