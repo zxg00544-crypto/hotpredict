@@ -10473,19 +10473,6 @@
    "breaking": true,
    "event_id": "e:stealmybitcoin",
    "batch_window": 6
-  },
-  {
-   "key": "特朗普就限制联邦学生贷款利率的立法这是我一定会认真考虑的事项",
-   "title": "特朗普：（就限制联邦学生贷款利率的立法）这是我一定会认真考虑的事项。",
-   "rating": "A",
-   "score": 46.9,
-   "angle": "从特朗普新政出发，拆解美国学生贷款利率可能调整的影响，关联中国留学生群体及教育行业产业链",
-   "hook_reason": "特朗普突然表态美国学生贷款政策，直接影响千万留学生家庭",
-   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwkrxa3342405.d.html",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:特朗普就限制联邦学生贷款利率的立法这是我一定会认真考虑的事项",
-   "batch_window": 7
   }
  ],
  "pushed": [
@@ -12121,18 +12108,6 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:stealmybitcoin"
-  },
-  "特朗普就限制联邦学生贷款利率的立法这是我一定会认真考虑的事项": {
-   "key": "特朗普就限制联邦学生贷款利率的立法这是我一定会认真考虑的事项",
-   "title": "特朗普：（就限制联邦学生贷款利率的立法）这是我一定会认真考虑的事项。",
-   "rating": "A",
-   "score": 46.9,
-   "angle": "从特朗普新政出发，拆解美国学生贷款利率可能调整的影响，关联中国留学生群体及教育行业产业链",
-   "hook_reason": "特朗普突然表态美国学生贷款政策，直接影响千万留学生家庭",
-   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwkrxa3342405.d.html",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:特朗普就限制联邦学生贷款利率的立法这是我一定会认真考虑的事项"
   }
  },
  "breaking_count": 10,
