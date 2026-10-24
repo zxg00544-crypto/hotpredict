@@ -5730,19 +5730,6 @@
    "batch_window": 20
   },
   {
-   "key": "israelifirmsdigitaladsenablingin0a51b330",
-   "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
-   "rating": "A",
-   "score": 80.0,
-   "angle": "以色列NSO集团等军警黑客产业链揭秘，广告SDK成新型武器",
-   "hook_reason": "零点击间谍软件通过广告传播，技术颠覆认知",
-   "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:israelifirmsdigitaladsenablinginstallati",
-   "batch_window": 22
-  },
-  {
    "key": "1岁宝宝吃下被邻居投毒的鸡蛋后进icu邻居自首称想毒黄鼠狼你怎么看邻居该担什么法律责任",
    "title": "1 岁宝宝吃下被邻居投毒的鸡蛋后进 ICU，邻居自首称「想毒黄鼠狼」，你怎么看？邻居该担什么法律责任？",
    "rating": "A",
@@ -11275,7 +11262,8 @@
   "秦兵马俑上发现女性指纹",
   "四部门发文严管汽车研发测试整治速成车并设定一年三万公里指标将对车企竞争和造车周期带来哪些改变",
   "胡彦斌自曝一个半月消耗52亿token",
-  "whoisplantingbackdoorsinledgercryptowallets"
+  "whoisplantingbackdoorsinledgercryptowallets",
+  "israelifirmsdigitaladsenablingin0a51b330"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11975,7 +11963,8 @@
   "e:秦兵马俑上发现女性指纹": "秦兵马俑上发现女性指纹",
   "e:转2026年10月11日周日读报一切美好从开始1工信部等四部门10日就加强汽车产": "四部门发文严管汽车研发测试整治「速成车」，并设定一年三万公里指标，将对车企竞争和造车周期带来哪些改变？",
   "e:胡彦斌自曝一个半月消耗52亿token": "胡彦斌自曝一个半月消耗52亿token",
-  "e:whoisplantingbackdoorsinledgercryptowall": "Who Is Planting Backdoors in Ledger Crypto Wallets?"
+  "e:whoisplantingbackdoorsinledgercryptowall": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+  "e:israelifirmsdigitaladsenablinginstallati": "Israeli firm's digital ads enabling installation of 'zero-click' spyware"
  },
  "a_seen": {
   "俄国防部俄方控制的奥列什基将于10月27日停火": {
@@ -12642,15 +12631,15 @@
    "key": "elonmuskjustgaveeuropeareasontor38ccb05d",
    "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
    "rating": "A",
-   "score": 57.6,
-   "angle": "从Musk言论切入，分析欧洲技术独立化趋势及对中美欧科技格局的连锁影响",
-   "hook_reason": "Musk一句话引爆欧美科技博弈，欧洲或加速脱离美国技术",
+   "score": 69.21,
+   "angle": "马斯克言论如何成为欧洲加速技术自主化的导火索，拆解背后产业链震动与投资决策变化",
+   "hook_reason": "马斯克一句话点燃美欧科技脱钩，全球读者都想知道这意味着什么",
    "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
-   "track": "科技",
+   "track": "大咖发言",
    "breaking": true,
    "event_id": "e:elonmuskjustgaveeuropeareasontoreplaceam"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
