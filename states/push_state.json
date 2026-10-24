@@ -10202,19 +10202,6 @@
    "batch_window": 8
   },
   {
-   "key": "订单排到2031年重量级国货爆单",
-   "title": "“订单排到2031年” 重量级国货爆单",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "国货崛起引爆消费热潮，从爆单看本土品牌竞争力逆袭",
-   "hook_reason": "国货爆单排到2031年，民族自豪感+惊人数据双驱动",
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B02031%E5%B9%B4%E2%80%9D+%E9%87%8D%E9%87%8F%E7%BA%A7%E5%9B%BD%E8%B4%A7%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:订单排到2031年重量级国货爆单",
-   "batch_window": 8
-  },
-  {
    "key": "kimik31pro正式发布如何评价该新模型有哪些值得关注的亮点",
    "title": "Kimi K3.1 Pro 正式发布，如何评价该新模型？有哪些值得关注的亮点？",
    "rating": "A",
@@ -10226,6 +10213,45 @@
    "breaking": true,
    "event_id": "e:kimik31pro正式发布如何评价该新模型有哪些值得关注的亮点",
    "batch_window": 8
+  },
+  {
+   "key": "英雄联盟全球总决赛s16瑞士轮首日首战lpl四个01怎么看待这个情况",
+   "title": "英雄联盟全球总决赛S16瑞士轮首日首战LPL四个0-1，怎么看待这个情况？",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "从'为什么'切入，分析LPL赛区战术被完全克制的原因，探讨中国电竞的危机与出路",
+   "hook_reason": "LPL四队全败刷新耻辱纪录，电竞民族情绪爆发",
+   "url": "https://www.zhihu.com/question/2097190763675309990",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:英雄联盟全球总决赛s16瑞士轮首日首战lpl四个01怎么看待这个情况",
+   "batch_window": 9
+  },
+  {
+   "key": "evolvingthreathttp2shellisanrcei4a33a2a6",
+   "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "揭秘http2shell漏洞如何同时威胁Node.js和Python生态，谁该紧急打补丁？",
+   "hook_reason": "开发者必读！Node/Python多语言RCE漏洞爆发",
+   "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:evolvingthreathttp2shellisanrceinnodepyt",
+   "batch_window": 9
+  },
+  {
+   "key": "如何评价英国拟征收看剧税观看youtubenetflix等网络流媒体需每年缴纳180英镑",
+   "title": "如何评价英国拟征收看剧税，观看 YouTube、Netflix 等网络流媒体需每年缴纳 180 英镑？",
+   "rating": "A",
+   "score": 51.78,
+   "angle": "从'看剧也要交税'切入，讨论民生负担、税收边界与国际对比",
+   "hook_reason": "收看剧税？英国人看完还得交钱？引发全民共鸣与争议",
+   "url": "https://www.zhihu.com/question/2096182423621059644",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何评价英国拟征收看剧税观看youtubenetflix等网络流媒体需每年缴纳1",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -10975,7 +11001,8 @@
   "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345万母亲道歉并承诺会尽快解决",
   "如何评价deepseekv41flash1017",
   "马斯克的技术霸权正架空美军事霸权吗",
-  "小米澎程出色的续航背后是什么有一个核心原因是超低的风阻系数作为全尺寸增程suv小米澎程n"
+  "小米澎程出色的续航背后是什么有一个核心原因是超低的风阻系数作为全尺寸增程suv小米澎程n",
+  "订单排到2031年重量级国货爆单"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11661,7 +11688,8 @@
   "e:如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345万母亲道歉并承诺": "如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345 万，母亲道歉并承诺会尽快解决？",
   "e:如何评价deepseekv41flash1017": "如何评价DeepSeek V4.1 Flash 1017?",
   "e:马斯克的技术霸权正架空美军事霸权吗": "马斯克的技术霸权正架空美军事霸权吗",
-  "e:小米澎程出色的续航背后是什么有一个核心原因是超低的风阻系数作为全尺寸增程suv小": "小米澎程出色的续航背后是什么？有一个核心原因是超低的风阻系数。 作为全尺寸增程SUV，小米澎程N"
+  "e:小米澎程出色的续航背后是什么有一个核心原因是超低的风阻系数作为全尺寸增程suv小": "小米澎程出色的续航背后是什么？有一个核心原因是超低的风阻系数。 作为全尺寸增程SUV，小米澎程N",
+  "e:订单排到2031年重量级国货爆单": "“订单排到2031年” 重量级国货爆单"
  },
  "a_seen": {
   "俄国防部俄方控制的奥列什基将于10月27日停火": {
@@ -11860,9 +11888,9 @@
    "key": "订单排到2031年重量级国货爆单",
    "title": "“订单排到2031年” 重量级国货爆单",
    "rating": "A",
-   "score": 92.0,
-   "angle": "国货崛起引爆消费热潮，从爆单看本土品牌竞争力逆袭",
-   "hook_reason": "国货爆单排到2031年，民族自豪感+惊人数据双驱动",
+   "score": 81.85,
+   "angle": "深挖国货背后供应链/品质突破，标题'中国制造让全球排队'破圈写",
+   "hook_reason": "国货订单排到2031年，民族情绪+经济信心双重触发",
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B02031%E5%B9%B4%E2%80%9D+%E9%87%8D%E9%87%8F%E7%BA%A7%E5%9B%BD%E8%B4%A7%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
@@ -11872,15 +11900,51 @@
    "key": "kimik31pro正式发布如何评价该新模型有哪些值得关注的亮点",
    "title": "Kimi K3.1 Pro 正式发布，如何评价该新模型？有哪些值得关注的亮点？",
    "rating": "A",
-   "score": 64.21,
-   "angle": "从国产大模型竞争格局切入，分析Kimi K3.1 Pro性能突破对用户选择及行业格局的影响",
-   "hook_reason": "国产AI又出王炸，Kimi K3.1 Pro性能暴涨，业内如何评价？",
+   "score": 78.31,
+   "angle": "深度解析Kimi K3.1 Pro核心突破，对比国内外主流模型，预判国产大模型竞争格局变化",
+   "hook_reason": "国产AI模型Kimi发布新版本，性能对标国际顶尖水平",
    "url": "https://www.zhihu.com/question/2096972346951198516",
    "track": "科技",
    "breaking": true,
    "event_id": "e:kimik31pro正式发布如何评价该新模型有哪些值得关注的亮点"
+  },
+  "英雄联盟全球总决赛s16瑞士轮首日首战lpl四个01怎么看待这个情况": {
+   "key": "英雄联盟全球总决赛s16瑞士轮首日首战lpl四个01怎么看待这个情况",
+   "title": "英雄联盟全球总决赛S16瑞士轮首日首战LPL四个0-1，怎么看待这个情况？",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "从'为什么'切入，分析LPL赛区战术被完全克制的原因，探讨中国电竞的危机与出路",
+   "hook_reason": "LPL四队全败刷新耻辱纪录，电竞民族情绪爆发",
+   "url": "https://www.zhihu.com/question/2097190763675309990",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:英雄联盟全球总决赛s16瑞士轮首日首战lpl四个01怎么看待这个情况"
+  },
+  "evolvingthreathttp2shellisanrcei4a33a2a6": {
+   "key": "evolvingthreathttp2shellisanrcei4a33a2a6",
+   "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "揭秘http2shell漏洞如何同时威胁Node.js和Python生态，谁该紧急打补丁？",
+   "hook_reason": "开发者必读！Node/Python多语言RCE漏洞爆发",
+   "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:evolvingthreathttp2shellisanrceinnodepyt"
+  },
+  "如何评价英国拟征收看剧税观看youtubenetflix等网络流媒体需每年缴纳180英镑": {
+   "key": "如何评价英国拟征收看剧税观看youtubenetflix等网络流媒体需每年缴纳180英镑",
+   "title": "如何评价英国拟征收看剧税，观看 YouTube、Netflix 等网络流媒体需每年缴纳 180 英镑？",
+   "rating": "A",
+   "score": 51.78,
+   "angle": "从'看剧也要交税'切入，讨论民生负担、税收边界与国际对比",
+   "hook_reason": "收看剧税？英国人看完还得交钱？引发全民共鸣与争议",
+   "url": "https://www.zhihu.com/question/2096182423621059644",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何评价英国拟征收看剧税观看youtubenetflix等网络流媒体需每年缴纳1"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
