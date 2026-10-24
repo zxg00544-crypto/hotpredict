@@ -10436,19 +10436,6 @@
    "batch_window": 17
   },
   {
-   "key": "秦兵马俑上发现女性指纹",
-   "title": "秦兵马俑上发现女性指纹",
-   "rating": "A",
-   "score": 87.85,
-   "angle": "从考古新发现切入，探讨秦代女性工匠的历史地位与现代女性力量的共鸣",
-   "hook_reason": "2000年前女工匠指纹留存，历史与当下的震撼连接",
-   "url": "https://www.toutiao.com/trending/7699307668275560489/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:秦兵马俑上发现女性指纹",
-   "batch_window": 18
-  },
-  {
    "key": "字节ai应用再整合小云雀并入即梦",
    "title": "字节AI应用再整合：小云雀并入即梦",
    "rating": "A",
@@ -10473,6 +10460,19 @@
    "breaking": true,
    "event_id": "e:thinkrailfromjetbrains",
    "batch_window": 18
+  },
+  {
+   "key": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
+   "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从地缘政治视角解读此次会晤，分析中朝俄三角关系对东北亚格局的影响",
+   "hook_reason": "中朝高层罕见同框，东北亚局势引发全球关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-24/detail-iniwiqmh7935883.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:金正恩访问丹东王沪宁陪同",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -11232,7 +11232,8 @@
   "河北电商据称把成本压到极致发1万单倒赔130利润来自卖纸壳是真的吗河北电商是怎样一个存在",
   "老年人摔倒后身体断崖式衰退真相",
   "小天才就不能安安心心做块表吗",
-  "11of23coreopensourceprojectsrunon1or2people"
+  "11of23coreopensourceprojectsrunon1or2people",
+  "秦兵马俑上发现女性指纹"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11928,7 +11929,8 @@
   "e:河北电商据称把成本压到极致发1万单倒赔130利润来自卖纸壳是真的吗河北电商是怎样": "河北电商据称把成本压到极致，发1万单倒赔130，利润来自「卖纸壳」，是真的吗？河北电商是怎样一个存在？",
   "e:老年人摔倒后身体断崖式衰退真相": "老年人摔倒后身体断崖式衰退真相",
   "e:小天才就不能安安心心做块表吗": "“小天才”就不能安安心心做块表吗",
-  "e:11of23coreopensourceprojectsrunon1or2peo": "11 of 23 Core Open Source Projects Run on 1 or 2 People"
+  "e:11of23coreopensourceprojectsrunon1or2peo": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+  "e:秦兵马俑上发现女性指纹": "秦兵马俑上发现女性指纹"
  },
  "a_seen": {
   "俄国防部俄方控制的奥列什基将于10月27日停火": {
@@ -12518,8 +12520,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:thinkrailfromjetbrains"
+  },
+  "王沪宁陪同朝鲜最高领导人金正恩访问丹东": {
+   "key": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
+   "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从地缘政治视角解读此次会晤，分析中朝俄三角关系对东北亚格局的影响",
+   "hook_reason": "中朝高层罕见同框，东北亚局势引发全球关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-24/detail-iniwiqmh7935883.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:金正恩访问丹东王沪宁陪同"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
