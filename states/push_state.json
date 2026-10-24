@@ -2597,19 +2597,6 @@
    "batch_window": 8
   },
   {
-   "key": "爆发中国资产大涨",
-   "title": "爆发！中国资产大涨",
-   "rating": "A",
-   "score": 80.26,
-   "angle": "从政策驱动、外资动向、散户机会三维度解读本轮行情逻辑与持续性",
-   "hook_reason": "中国资产暴涨牵动全民财富神经，市场情绪高涨",
-   "url": "https://www.baidu.com/s?wd=%E7%88%86%E5%8F%91%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%B5%84%E4%BA%A7%E5%A4%A7%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:爆发中国资产大涨",
-   "batch_window": 8
-  },
-  {
    "key": "japansmostfamoustunabuyersayshet72637057",
    "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
    "rating": "A",
@@ -10291,6 +10278,32 @@
    "breaking": true,
    "event_id": "e:西藏巴青县地震前后遥感图发布",
    "batch_window": 11
+  },
+  {
+   "key": "首部龙标ai电影正式上映",
+   "title": "首部龙标AI电影正式上映",
+   "rating": "A",
+   "score": 65.36,
+   "angle": "官方首肯AI电影，从'技术可行'到'内容合法'，影视与AI行业格局将被重塑",
+   "hook_reason": "AI电影获官方龙标首破圈，从业者+大众双重围观，里程碑事件",
+   "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8%E9%BE%99%E6%A0%87AI%E7%94%B5%E5%BD%B1%E6%AD%A3%E5%BC%8F%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:首部龙标ai电影正式上映",
+   "batch_window": 12
+  },
+  {
+   "key": "任泽平微信公众号违规被禁止关注",
+   "title": "任泽平微信公众号违规被禁止关注",
+   "rating": "A",
+   "score": 52.6,
+   "angle": "从任泽平被禁看财经自媒体监管收紧趋势，对'名嘴经济'的警示信号",
+   "hook_reason": "知名财经大V公众号被禁，监管亮剑谁在害怕？",
+   "url": "https://www.toutiao.com/trending/7698950270172250150/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:任泽平微信公众号违规被禁止关注",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -11043,7 +11056,8 @@
   "小米澎程出色的续航背后是什么有一个核心原因是超低的风阻系数作为全尺寸增程suv小米澎程n",
   "订单排到2031年重量级国货爆单",
   "英雄联盟全球总决赛s16瑞士轮首日首战lpl四个01怎么看待这个情况",
-  "祝贺中国成功发射一箭六星"
+  "祝贺中国成功发射一箭六星",
+  "爆发中国资产大涨"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11732,7 +11746,8 @@
   "e:小米澎程出色的续航背后是什么有一个核心原因是超低的风阻系数作为全尺寸增程suv小": "小米澎程出色的续航背后是什么？有一个核心原因是超低的风阻系数。 作为全尺寸增程SUV，小米澎程N",
   "e:订单排到2031年重量级国货爆单": "“订单排到2031年” 重量级国货爆单",
   "e:英雄联盟全球总决赛s16瑞士轮首日首战lpl四个01怎么看待这个情况": "英雄联盟全球总决赛S16瑞士轮首日首战LPL四个0-1，怎么看待这个情况？",
-  "e:祝贺中国成功发射一箭六星": "祝贺！中国成功发射一箭六星"
+  "e:祝贺中国成功发射一箭六星": "祝贺！中国成功发射一箭六星",
+  "e:爆发中国资产大涨": "爆发！中国资产大涨"
  },
  "a_seen": {
   "俄国防部俄方控制的奥列什基将于10月27日停火": {
@@ -12058,8 +12073,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:西藏巴青县地震前后遥感图发布"
+  },
+  "首部龙标ai电影正式上映": {
+   "key": "首部龙标ai电影正式上映",
+   "title": "首部龙标AI电影正式上映",
+   "rating": "A",
+   "score": 65.36,
+   "angle": "官方首肯AI电影，从'技术可行'到'内容合法'，影视与AI行业格局将被重塑",
+   "hook_reason": "AI电影获官方龙标首破圈，从业者+大众双重围观，里程碑事件",
+   "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8%E9%BE%99%E6%A0%87AI%E7%94%B5%E5%BD%B1%E6%AD%A3%E5%BC%8F%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:首部龙标ai电影正式上映"
+  },
+  "ai泡沫担忧如何影响美股": {
+   "key": "ai泡沫担忧如何影响美股",
+   "title": "AI泡沫担忧如何影响美股",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "拆解AI泡沫恐慌如何传导至美股，给投资者操作启示",
+   "hook_reason": "AI泡沫破预警与美股震荡，投资者焦虑",
+   "url": "https://search.bilibili.com/all?keyword=AI泡沫担忧如何影响美股",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英伟达市值9天蒸发约4万亿元全球ai股集体遭抛售ai泡沫是不是要破了"
+  },
+  "任泽平微信公众号违规被禁止关注": {
+   "key": "任泽平微信公众号违规被禁止关注",
+   "title": "任泽平微信公众号违规被禁止关注",
+   "rating": "A",
+   "score": 52.6,
+   "angle": "从任泽平被禁看财经自媒体监管收紧趋势，对'名嘴经济'的警示信号",
+   "hook_reason": "知名财经大V公众号被禁，监管亮剑谁在害怕？",
+   "url": "https://www.toutiao.com/trending/7698950270172250150/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:任泽平微信公众号违规被禁止关注"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
