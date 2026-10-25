@@ -10863,6 +10863,32 @@
    "breaking": false,
    "event_id": "e:丈母娘也开始抢ai人了",
    "batch_window": 5
+  },
+  {
+   "key": "gheistcampaignplantssecretdumpin88524d9f",
+   "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从开发者安全视角切入，剖析GitHub Actions workflow注入攻击链，给出token防护实操建议",
+   "hook_reason": "GitHub token被盗用于自动化泄露密钥，开发者安全感骤降",
+   "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gheistcampaignplantssecretdumpingworkflo",
+   "batch_window": 5
+  },
+  {
+   "key": "euniceisalmosthere",
+   "title": "Eunice is almost here",
+   "rating": "A",
+   "score": 71.05,
+   "angle": "深度解析Eunice是什么、为什么火、对行业意味着什么",
+   "hook_reason": "突发热点+增长86%，HackerNews热议，读者好奇",
+   "url": "https://armincat.com/articles/eunice-is-almost-here",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:euniceisalmosthere",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -12610,6 +12636,30 @@
    "track": "社会热点",
    "breaking": false,
    "event_id": "e:丈母娘也开始抢ai人了"
+  },
+  "gheistcampaignplantssecretdumpin88524d9f": {
+   "key": "gheistcampaignplantssecretdumpin88524d9f",
+   "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从开发者安全视角切入，剖析GitHub Actions workflow注入攻击链，给出token防护实操建议",
+   "hook_reason": "GitHub token被盗用于自动化泄露密钥，开发者安全感骤降",
+   "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gheistcampaignplantssecretdumpingworkflo"
+  },
+  "euniceisalmosthere": {
+   "key": "euniceisalmosthere",
+   "title": "Eunice is almost here",
+   "rating": "A",
+   "score": 71.05,
+   "angle": "深度解析Eunice是什么、为什么火、对行业意味着什么",
+   "hook_reason": "突发热点+增长86%，HackerNews热议，读者好奇",
+   "url": "https://armincat.com/articles/eunice-is-almost-here",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:euniceisalmosthere"
   }
  },
  "breaking_count": 10,
