@@ -10746,6 +10746,45 @@
    "breaking": true,
    "event_id": "e:卫星互联网低轨28组卫星成功发射",
    "batch_window": 22
+  },
+  {
+   "key": "也门胡塞武装称袭击沙特机场与能源设施",
+   "title": "也门胡塞武装称袭击沙特机场与能源设施",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "聚焦沙特能源设施遇袭对国际油价的冲击，解读中东地缘风险重燃下的投资避险逻辑",
+   "hook_reason": "胡塞武装突袭沙特能源设施，全球石油供应链面临冲击，油价可能暴涨",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwnkhi9578813.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:也门胡塞武装称袭击沙特机场与能源设施",
+   "batch_window": 0
+  },
+  {
+   "key": "broccoli2shellbrotlidecoderrcein4ddf342f",
+   "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
+   "rating": "A",
+   "score": 41.63,
+   "angle": "科普Brotli漏洞原理+排查指南，面向开发者及运维群体的实用安全预警",
+   "hook_reason": "全栈开发者集体中招：主流语言加密库爆高危RCE，你的线上服务中招了吗？",
+   "url": "https://broccoli2shell.com/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:broccoli2shellbrotlidecoderrceinnodejspy",
+   "batch_window": 0
+  },
+  {
+   "key": "英伟达老显卡算力被破解了吗",
+   "title": "英伟达老显卡算力被破解了吗",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从技术原理、法律风险、AI创业成本三角度切入，解读老显卡破解真相",
+   "hook_reason": "老显卡破解算力？省钱玩家vs大厂，技术黑盒被揭开",
+   "url": "https://search.bilibili.com/all?keyword=英伟达老显卡算力被破解了吗",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达老显卡算力被破解了吗",
+   "batch_window": 0
   }
  ],
  "pushed": [
@@ -12315,6 +12354,42 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:特朗普我认为乌克兰和俄罗斯都想达成协议"
+  },
+  "也门胡塞武装称袭击沙特机场与能源设施": {
+   "key": "也门胡塞武装称袭击沙特机场与能源设施",
+   "title": "也门胡塞武装称袭击沙特机场与能源设施",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "聚焦沙特能源设施遇袭对国际油价的冲击，解读中东地缘风险重燃下的投资避险逻辑",
+   "hook_reason": "胡塞武装突袭沙特能源设施，全球石油供应链面临冲击，油价可能暴涨",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwnkhi9578813.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:也门胡塞武装称袭击沙特机场与能源设施"
+  },
+  "broccoli2shellbrotlidecoderrcein4ddf342f": {
+   "key": "broccoli2shellbrotlidecoderrcein4ddf342f",
+   "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
+   "rating": "A",
+   "score": 41.63,
+   "angle": "科普Brotli漏洞原理+排查指南，面向开发者及运维群体的实用安全预警",
+   "hook_reason": "全栈开发者集体中招：主流语言加密库爆高危RCE，你的线上服务中招了吗？",
+   "url": "https://broccoli2shell.com/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:broccoli2shellbrotlidecoderrceinnodejspy"
+  },
+  "英伟达老显卡算力被破解了吗": {
+   "key": "英伟达老显卡算力被破解了吗",
+   "title": "英伟达老显卡算力被破解了吗",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从技术原理、法律风险、AI创业成本三角度切入，解读老显卡破解真相",
+   "hook_reason": "老显卡破解算力？省钱玩家vs大厂，技术黑盒被揭开",
+   "url": "https://search.bilibili.com/all?keyword=英伟达老显卡算力被破解了吗",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达老显卡算力被破解了吗"
   }
  },
  "breaking_count": 10,
