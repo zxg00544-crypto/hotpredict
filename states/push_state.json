@@ -4391,19 +4391,6 @@
    "batch_window": 19
   },
   {
-   "key": "cftcstaffweretoldtoretractanalysf6b05680",
-   "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
-   "rating": "A",
-   "score": 78.5,
-   "angle": "从CFTC监管独立性危机切入，深挖政治势力干预石油交易审查的内幕与潜在市场影响",
-   "hook_reason": "监管独立性遭政治干预，伊朗石油调查被强行撤回",
-   "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:cftcstaffweretoldtoretractanalysisofsusp",
-   "batch_window": 20
-  },
-  {
    "key": "11yearoldunsoundnessbugsfoundinrustborrowchecker",
    "title": "11 year old unsoundness bugs found in Rust borrow checker",
    "rating": "A",
@@ -10837,6 +10824,45 @@
    "breaking": true,
    "event_id": "e:特朗普如果民主党取得选举胜利他们将会放开限制大量圣战分子涌入美国暴力与恐",
    "batch_window": 4
+  },
+  {
+   "key": "马斯克spacex不会收购任何新云厂商",
+   "title": "马斯克：SpaceX不会收购任何新云厂商。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从表态解读SpaceX战略重心与商业版图边界",
+   "hook_reason": "马斯克亲口辟谣云收购，背后商业意图引猜测",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwnuwa2617031.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克spacex不会收购任何新云厂商",
+   "batch_window": 5
+  },
+  {
+   "key": "特朗普5000美元红利将在选举后不久发放",
+   "title": "特朗普：5000美元红利将在选举后不久发放。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从特朗普竞选承诺切入，解析5000美元红利背后的政治算盘与政策可行性",
+   "hook_reason": "特朗普抛出5000美元红利承诺，金钱+名人双重刺激",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwnuwa2614165.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普5000美元红利将在选举后不久发放",
+   "batch_window": 5
+  },
+  {
+   "key": "丈母娘也开始抢ai人了",
+   "title": "丈母娘也开始抢AI人了",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从丈母娘抢AI人切入，探讨AI技术如何渗透婚恋市场，折射代际观念碰撞与年轻人情感困境",
+   "hook_reason": "丈母娘都来抢AI伴侣，年轻人的婚恋焦虑被科技放大",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%88%E6%AF%8D%E5%A8%98%E4%B9%9F%E5%BC%80%E5%A7%8B%E6%8A%A2AI%E4%BA%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:丈母娘也开始抢ai人了",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -11650,7 +11676,8 @@
   "k100定档10月27日晚7点双芯魔王标准版首次搭载游戏独显万级续航挑战同档最强",
   "deepseek对传统搜索的冲击有多大",
   "recentaimodelsstruggledtomatchah3f7eb127",
-  "generativeaiscandalhascometooneob836d96a"
+  "generativeaiscandalhascometooneob836d96a",
+  "cftcstaffweretoldtoretractanalysf6b05680"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12400,7 +12427,8 @@
   "e:k100定档10月27日晚7点双芯魔王标准版首次搭载游戏独显万级续航挑战同档最强": "K100 定档 10月27日晚 7 点 双芯魔王，标准版首次搭载游戏独显 万级续航，挑战同档最强",
   "e:deepseek对传统搜索的冲击有多大": "Deepseek对传统搜索的冲击有多大？",
   "e:recentaimodelsstruggledtomatchahumanalgo": "Recent AI models struggled to match a human algorithmic innovation",
-  "e:generativeaiscandalhascometooneofnikonsc": "Generative AI scandal has come to one of Nikon's competitions"
+  "e:generativeaiscandalhascometooneofnikonsc": "Generative AI scandal has come to one of Nikon's competitions",
+  "e:cftcstaffweretoldtoretractanalysisofsusp": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades"
  },
  "a_seen": {
   "特朗普我认为乌克兰和俄罗斯都想达成协议": {
@@ -12546,8 +12574,44 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:特朗普如果民主党取得选举胜利他们将会放开限制大量圣战分子涌入美国暴力与恐"
+  },
+  "马斯克spacex不会收购任何新云厂商": {
+   "key": "马斯克spacex不会收购任何新云厂商",
+   "title": "马斯克：SpaceX不会收购任何新云厂商。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从表态解读SpaceX战略重心与商业版图边界",
+   "hook_reason": "马斯克亲口辟谣云收购，背后商业意图引猜测",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwnuwa2617031.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克spacex不会收购任何新云厂商"
+  },
+  "特朗普5000美元红利将在选举后不久发放": {
+   "key": "特朗普5000美元红利将在选举后不久发放",
+   "title": "特朗普：5000美元红利将在选举后不久发放。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从特朗普竞选承诺切入，解析5000美元红利背后的政治算盘与政策可行性",
+   "hook_reason": "特朗普抛出5000美元红利承诺，金钱+名人双重刺激",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwnuwa2614165.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普5000美元红利将在选举后不久发放"
+  },
+  "丈母娘也开始抢ai人了": {
+   "key": "丈母娘也开始抢ai人了",
+   "title": "丈母娘也开始抢AI人了",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从丈母娘抢AI人切入，探讨AI技术如何渗透婚恋市场，折射代际观念碰撞与年轻人情感困境",
+   "hook_reason": "丈母娘都来抢AI伴侣，年轻人的婚恋焦虑被科技放大",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%88%E6%AF%8D%E5%A8%98%E4%B9%9F%E5%BC%80%E5%A7%8B%E6%8A%A2AI%E4%BA%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:丈母娘也开始抢ai人了"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
