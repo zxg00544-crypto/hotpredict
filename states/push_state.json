@@ -10852,19 +10852,6 @@
    "batch_window": 5
   },
   {
-   "key": "丈母娘也开始抢ai人了",
-   "title": "丈母娘也开始抢AI人了",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "从丈母娘抢AI人切入，探讨AI技术如何渗透婚恋市场，折射代际观念碰撞与年轻人情感困境",
-   "hook_reason": "丈母娘都来抢AI伴侣，年轻人的婚恋焦虑被科技放大",
-   "url": "https://www.baidu.com/s?wd=%E4%B8%88%E6%AF%8D%E5%A8%98%E4%B9%9F%E5%BC%80%E5%A7%8B%E6%8A%A2AI%E4%BA%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": false,
-   "event_id": "e:丈母娘也开始抢ai人了",
-   "batch_window": 5
-  },
-  {
    "key": "gheistcampaignplantssecretdumpin88524d9f",
    "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
    "rating": "A",
@@ -10889,6 +10876,58 @@
    "breaking": true,
    "event_id": "e:euniceisalmosthere",
    "batch_window": 5
+  },
+  {
+   "key": "serbiasvucicconcedeselectiondefee34b0b6e",
+   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "从塞尔维亚大选看青年力量如何撼动欧洲传统政治格局",
+   "hook_reason": "学生运动推翻强人政治，欧洲变局信号",
+   "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:serbiasvucicconcedeselectiondefeatinhist",
+   "batch_window": 6
+  },
+  {
+   "key": "overgrownwhenplantsinvadeyourabandonedtabs",
+   "title": "Overgrown, when plants invade your abandoned tabs",
+   "rating": "A",
+   "score": 79.0,
+   "angle": "从 HN 爆款 Chrome 扩展切入，讲创意产品如何解决现代人信息过载痛点，引发科技圈讨论",
+   "hook_reason": "你的浏览器标签页长满植物？这款神插件治愈了10万人的-tab焦虑",
+   "url": "https://charliegerard.dev/blog/overgrown-extension/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:overgrownwhenplantsinvadeyourabandonedta",
+   "batch_window": 6
+  },
+  {
+   "key": "原油从六个月高点小幅回落交易员评估伊朗风险",
+   "title": "原油从六个月高点小幅回落，交易员评估伊朗风险",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从原油价格异动切入，分析伊朗地缘风险如何传导至国内燃油、化工产业链成本端",
+   "hook_reason": "原油六个月新高后回落，伊朗风险牵动全球投资者神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwnuwc9409238.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:原油从六个月高点小幅回落交易员评估伊朗风险",
+   "batch_window": 6
+  },
+  {
+   "key": "aiuseleadsucberkeleymathprofessob171dcd3",
+   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+   "rating": "A",
+   "score": 74.95,
+   "angle": "从UC伯克利数学教授观点切入，探讨AI时代教育评价体系的危机与重构",
+   "hook_reason": "顶级大学教授因AI放弃批改作业，戳中教育焦虑",
+   "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:aiuseleadsucberkeleymathprofessortoseeno",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -11703,7 +11742,8 @@
   "deepseek对传统搜索的冲击有多大",
   "recentaimodelsstruggledtomatchah3f7eb127",
   "generativeaiscandalhascometooneob836d96a",
-  "cftcstaffweretoldtoretractanalysf6b05680"
+  "cftcstaffweretoldtoretractanalysf6b05680",
+  "丈母娘也开始抢ai人了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12454,7 +12494,8 @@
   "e:deepseek对传统搜索的冲击有多大": "Deepseek对传统搜索的冲击有多大？",
   "e:recentaimodelsstruggledtomatchahumanalgo": "Recent AI models struggled to match a human algorithmic innovation",
   "e:generativeaiscandalhascometooneofnikonsc": "Generative AI scandal has come to one of Nikon's competitions",
-  "e:cftcstaffweretoldtoretractanalysisofsusp": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades"
+  "e:cftcstaffweretoldtoretractanalysisofsusp": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+  "e:丈母娘也开始抢ai人了": "丈母娘也开始抢AI人了"
  },
  "a_seen": {
   "特朗普我认为乌克兰和俄罗斯都想达成协议": {
@@ -12660,8 +12701,56 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:euniceisalmosthere"
+  },
+  "serbiasvucicconcedeselectiondefee34b0b6e": {
+   "key": "serbiasvucicconcedeselectiondefee34b0b6e",
+   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "从塞尔维亚大选看青年力量如何撼动欧洲传统政治格局",
+   "hook_reason": "学生运动推翻强人政治，欧洲变局信号",
+   "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:serbiasvucicconcedeselectiondefeatinhist"
+  },
+  "overgrownwhenplantsinvadeyourabandonedtabs": {
+   "key": "overgrownwhenplantsinvadeyourabandonedtabs",
+   "title": "Overgrown, when plants invade your abandoned tabs",
+   "rating": "A",
+   "score": 79.0,
+   "angle": "从 HN 爆款 Chrome 扩展切入，讲创意产品如何解决现代人信息过载痛点，引发科技圈讨论",
+   "hook_reason": "你的浏览器标签页长满植物？这款神插件治愈了10万人的-tab焦虑",
+   "url": "https://charliegerard.dev/blog/overgrown-extension/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:overgrownwhenplantsinvadeyourabandonedta"
+  },
+  "原油从六个月高点小幅回落交易员评估伊朗风险": {
+   "key": "原油从六个月高点小幅回落交易员评估伊朗风险",
+   "title": "原油从六个月高点小幅回落，交易员评估伊朗风险",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从原油价格异动切入，分析伊朗地缘风险如何传导至国内燃油、化工产业链成本端",
+   "hook_reason": "原油六个月新高后回落，伊朗风险牵动全球投资者神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwnuwc9409238.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:原油从六个月高点小幅回落交易员评估伊朗风险"
+  },
+  "aiuseleadsucberkeleymathprofessob171dcd3": {
+   "key": "aiuseleadsucberkeleymathprofessob171dcd3",
+   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+   "rating": "A",
+   "score": 74.95,
+   "angle": "从UC伯克利数学教授观点切入，探讨AI时代教育评价体系的危机与重构",
+   "hook_reason": "顶级大学教授因AI放弃批改作业，戳中教育焦虑",
+   "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:aiuseleadsucberkeleymathprofessortoseeno"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
