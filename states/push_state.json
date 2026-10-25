@@ -3013,19 +3013,6 @@
    "batch_window": 4
   },
   {
-   "key": "recentaimodelsstruggledtomatchah3f7eb127",
-   "title": "Recent AI models struggled to match a human algorithmic innovation",
-   "rating": "A",
-   "score": 78.5,
-   "angle": "从算法创新角度切入，对比AI与人类创造力边界，引发科技圈深度讨论",
-   "hook_reason": "AI神话再破！人类算法竟碾压顶级模型，引发技术焦虑与自豪",
-   "url": "https://epoch.ai/publications/innovationeval",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:recentaimodelsstruggledtomatchahumanalgo",
-   "batch_window": 5
-  },
-  {
    "key": "如何看待5090将停产",
    "title": "如何看待5090将停产？",
    "rating": "A",
@@ -10824,6 +10811,32 @@
    "breaking": true,
    "event_id": "e:一名美国官员表示美国对伊朗实施打击已经不是是否会发生的问题而是何时发生",
    "batch_window": 2
+  },
+  {
+   "key": "oregonpolicearechargingalocalnewddc40efe",
+   "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+   "rating": "A",
+   "score": 55.26,
+   "angle": "从政府透明度与执法问责切入，对比天价收费与单一警察档案的荒谬性",
+   "hook_reason": "警方花250万阻挠曝光一名警察记录，荒诞收费触怒公众",
+   "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:oregonpolicearechargingalocalnewsoutlet2",
+   "batch_window": 3
+  },
+  {
+   "key": "泽连斯基称11月将举行美俄乌三方会谈",
+   "title": "泽连斯基称11月将举行美俄乌三方会谈。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从'11月三方会谈'切入，拆解泽连斯基话术背后的美俄博弈底牌与乌克兰筹码",
+   "hook_reason": "俄乌和谈突破，地缘格局骤变，每个人命运都受影响",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwnqqe2723002.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:泽连斯基称11月将举行美俄乌三方会谈",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -11635,7 +11648,8 @@
   "乌军使用风暴阴影导弹打击俄电子元器件厂",
   "offer8嘉宾称专博期间不上临床被质疑福医大称其已完成18个月临床轮转如何看待此事",
   "k100定档10月27日晚7点双芯魔王标准版首次搭载游戏独显万级续航挑战同档最强",
-  "deepseek对传统搜索的冲击有多大"
+  "deepseek对传统搜索的冲击有多大",
+  "recentaimodelsstruggledtomatchah3f7eb127"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12383,7 +12397,8 @@
   "e:乌军使用风暴阴影导弹打击俄电子元器件厂": "乌军使用风暴阴影导弹打击俄电子元器件厂",
   "e:offer8嘉宾称专博期间不上临床被质疑福医大称其已完成18个月临床轮转如何看待": "《offer 8》嘉宾称「专博期间不上临床」被质疑，福医大称其已完成18个月临床轮转，如何看待此事？",
   "e:k100定档10月27日晚7点双芯魔王标准版首次搭载游戏独显万级续航挑战同档最强": "K100 定档 10月27日晚 7 点 双芯魔王，标准版首次搭载游戏独显 万级续航，挑战同档最强",
-  "e:deepseek对传统搜索的冲击有多大": "Deepseek对传统搜索的冲击有多大？"
+  "e:deepseek对传统搜索的冲击有多大": "Deepseek对传统搜索的冲击有多大？",
+  "e:recentaimodelsstruggledtomatchahumanalgo": "Recent AI models struggled to match a human algorithmic innovation"
  },
  "a_seen": {
   "特朗普我认为乌克兰和俄罗斯都想达成协议": {
@@ -12463,8 +12478,8 @@
    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
    "rating": "A",
    "score": 75.85,
-   "angle": "从AI医疗落地切入，老模型逆袭背后的效率与成本逻辑，对科技从业者有借鉴价值",
-   "hook_reason": "10岁老模型碾压最新AI诊断癌症，反常识冲击强",
+   "angle": "AI模型反卷：十年前架构击败最前沿大模型，医学诊断反超AI热点。",
+   "hook_reason": "10岁老模型打败前沿LLM，医学诊断反超AI热点。",
    "url": "https://lynchlab.net/llm-skin-cancer",
    "track": "科技",
    "breaking": true,
@@ -12493,8 +12508,32 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:一名美国官员表示美国对伊朗实施打击已经不是是否会发生的问题而是何时发生"
+  },
+  "oregonpolicearechargingalocalnewddc40efe": {
+   "key": "oregonpolicearechargingalocalnewddc40efe",
+   "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+   "rating": "A",
+   "score": 55.26,
+   "angle": "从政府透明度与执法问责切入，对比天价收费与单一警察档案的荒谬性",
+   "hook_reason": "警方花250万阻挠曝光一名警察记录，荒诞收费触怒公众",
+   "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:oregonpolicearechargingalocalnewsoutlet2"
+  },
+  "泽连斯基称11月将举行美俄乌三方会谈": {
+   "key": "泽连斯基称11月将举行美俄乌三方会谈",
+   "title": "泽连斯基称11月将举行美俄乌三方会谈。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从'11月三方会谈'切入，拆解泽连斯基话术背后的美俄博弈底牌与乌克兰筹码",
+   "hook_reason": "俄乌和谈突破，地缘格局骤变，每个人命运都受影响",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwnqqe2723002.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:泽连斯基称11月将举行美俄乌三方会谈"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
