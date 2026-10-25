@@ -10527,19 +10527,6 @@
    "batch_window": 9
   },
   {
-   "key": "国考83个职位无人报名",
-   "title": "国考83个职位无人报名",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "深挖冷职位背后的行业变迁与年轻人择业观转变，折射就业结构性矛盾",
-   "hook_reason": "国考热与无人问津的反差，直击年轻人就业焦虑与体制内执念",
-   "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%80%8383%E4%B8%AA%E8%81%8C%E4%BD%8D%E6%97%A0%E4%BA%BA%E6%8A%A5%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:国考83个职位无人报名",
-   "batch_window": 10
-  },
-  {
    "key": "人民日报评人们不愿接陌生电话",
    "title": "人民日报评“人们不愿接陌生电话”",
    "rating": "A",
@@ -10564,6 +10551,58 @@
    "breaking": true,
    "event_id": "e:金价大跌催热水贝黄金市场消费",
    "batch_window": 10
+  },
+  {
+   "key": "新规落地后韩国散户首次转为月度净买入杠杆etf押注芯片股反弹",
+   "title": "新规落地后 韩国散户首次转为月度净买入杠杆ETF押注芯片股反弹",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "拆解韩国新规对散户杠杆行为的催化逻辑，对标A股散户跟风可能性与风险",
+   "hook_reason": "韩国散户首次抄底芯片，杠杆ETF净买入背后是政策松绑还是情绪亢奋？",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwmanx9982414.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:新规落地后韩国散户首次转为月度净买入杠杆etf押注芯片股反弹",
+   "batch_window": 11
+  },
+  {
+   "key": "openai降价抢单成效显著多家anthropic客户编码业务转投openai",
+   "title": "OpenAI降价抢单成效显著 多家Anthropic客户编码业务转投OpenAI",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "OpenAI降价抢客背后的AI商业化竞争逻辑，对开发者和企业的影响评估",
+   "hook_reason": "AI双雄价格战，客户用脚投票引发行业震荡",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwmanw3201305.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai降价抢单成效显著多家anthropic客户编码业务转投openai",
+   "batch_window": 11
+  },
+  {
+   "key": "高盛人民币将迎来55时代",
+   "title": "高盛：人民币将迎来5.5时代",
+   "rating": "A",
+   "score": 53.38,
+   "angle": "从普通人视角解读5.5时代对换汇、海淘、理财的影响",
+   "hook_reason": "高盛预警人民币强势升值，涉及每个人的钱包和投资",
+   "url": "https://www.toutiao.com/trending/7699576136581513252/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:高盛人民币将迎来55时代",
+   "batch_window": 11
+  },
+  {
+   "key": "喝大水睡大觉练薄肌",
+   "title": "“喝大水、睡大觉、练薄肌”",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "揭秘'薄肌'审美兴起背后的社交媒体推手与年轻人生存状态",
+   "hook_reason": "年轻人反卷养生新潮流，薄肌审美引爆健康焦虑讨论",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%96%9D%E5%A4%A7%E6%B0%B4%E3%80%81%E7%9D%A1%E5%A4%A7%E8%A7%89%E3%80%81%E7%BB%83%E8%96%84%E8%82%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:喝大水睡大觉练薄肌",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -11349,7 +11388,8 @@
   "nvidiaopenshell",
   "711便利店关闭印度全部门店背后的原因是什么",
   "如何看待85万新能源车成电子孤儿修不了卖不掉连保险也拒绝担保",
-  "太空视角俯瞰台湾每条街道清晰可见"
+  "太空视角俯瞰台湾每条街道清晰可见",
+  "国考83个职位无人报名"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12071,7 +12111,8 @@
   "e:nvidiaopenshell": "Nvidia OpenShell",
   "e:711便利店关闭印度全部门店背后的原因是什么": "711 便利店关闭印度全部门店，背后的原因是什么？",
   "e:如何看待85万新能源车成电子孤儿修不了卖不掉连保险也拒绝担保": "如何看待 85 万新能源车成「电子孤儿」，修不了、卖不掉，连保险也拒绝担保？",
-  "e:太空视角俯瞰台湾每条街道清晰可见": "太空视角俯瞰台湾 每条街道清晰可见"
+  "e:太空视角俯瞰台湾每条街道清晰可见": "太空视角俯瞰台湾 每条街道清晰可见",
+  "e:国考83个职位无人报名": "国考83个职位无人报名"
  },
  "a_seen": {
   "新郎新娘回应毛不易婚礼发言": {
@@ -12325,8 +12366,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:金价大跌催热水贝黄金市场消费"
+  },
+  "新规落地后韩国散户首次转为月度净买入杠杆etf押注芯片股反弹": {
+   "key": "新规落地后韩国散户首次转为月度净买入杠杆etf押注芯片股反弹",
+   "title": "新规落地后 韩国散户首次转为月度净买入杠杆ETF押注芯片股反弹",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "拆解韩国新规对散户杠杆行为的催化逻辑，对标A股散户跟风可能性与风险",
+   "hook_reason": "韩国散户首次抄底芯片，杠杆ETF净买入背后是政策松绑还是情绪亢奋？",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwmanx9982414.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:新规落地后韩国散户首次转为月度净买入杠杆etf押注芯片股反弹"
+  },
+  "openai降价抢单成效显著多家anthropic客户编码业务转投openai": {
+   "key": "openai降价抢单成效显著多家anthropic客户编码业务转投openai",
+   "title": "OpenAI降价抢单成效显著 多家Anthropic客户编码业务转投OpenAI",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "OpenAI降价抢客背后的AI商业化竞争逻辑，对开发者和企业的影响评估",
+   "hook_reason": "AI双雄价格战，客户用脚投票引发行业震荡",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwmanw3201305.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai降价抢单成效显著多家anthropic客户编码业务转投openai"
+  },
+  "高盛人民币将迎来55时代": {
+   "key": "高盛人民币将迎来55时代",
+   "title": "高盛：人民币将迎来5.5时代",
+   "rating": "A",
+   "score": 53.38,
+   "angle": "从普通人视角解读5.5时代对换汇、海淘、理财的影响",
+   "hook_reason": "高盛预警人民币强势升值，涉及每个人的钱包和投资",
+   "url": "https://www.toutiao.com/trending/7699576136581513252/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:高盛人民币将迎来55时代"
+  },
+  "喝大水睡大觉练薄肌": {
+   "key": "喝大水睡大觉练薄肌",
+   "title": "“喝大水、睡大觉、练薄肌”",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "揭秘'薄肌'审美兴起背后的社交媒体推手与年轻人生存状态",
+   "hook_reason": "年轻人反卷养生新潮流，薄肌审美引爆健康焦虑讨论",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%96%9D%E5%A4%A7%E6%B0%B4%E3%80%81%E7%9D%A1%E5%A4%A7%E8%A7%89%E3%80%81%E7%BB%83%E8%96%84%E8%82%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:喝大水睡大觉练薄肌"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
