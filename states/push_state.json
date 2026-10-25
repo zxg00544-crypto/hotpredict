@@ -7433,19 +7433,6 @@
    "batch_window": 16
   },
   {
-   "key": "deepseek对传统搜索的冲击有多大",
-   "title": "Deepseek对传统搜索的冲击有多大？",
-   "rating": "A",
-   "score": 78.55,
-   "angle": "从用户视角拆解Deepseek搜索能力，对比百度/谷歌，分析格局重构机会与风险",
-   "hook_reason": "Deepseek冲击百度等巨头，用户好奇AI如何颠覆传统搜索格局",
-   "url": "https://www.zhihu.com/question/13453602540",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:deepseek对传统搜索的冲击有多大",
-   "batch_window": 17
-  },
-  {
    "key": "小米18pro系列系列搭载pro历史上最强的影像系统尤其是双2亿像素双大底并搭载传奇一",
    "title": "#小米18Pro系列# 系列搭载Pro历史上最强的影像系统，尤其是双2亿像素双大底，并搭载传奇一",
    "rating": "A",
@@ -10798,6 +10785,19 @@
    "breaking": true,
    "event_id": "e:特朗普福克斯新闻花太多时间邀请共和党的对手上节目",
    "batch_window": 1
+  },
+  {
+   "key": "a10yearoldcnnoutperformsfrontiere7255a7c",
+   "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从技术迭代角度切入，讨论专业领域深耕vs通用模型的胜负逻辑",
+   "hook_reason": "10岁老模型击败最前沿AI，颠覆",
+   "url": "https://lynchlab.net/llm-skin-cancer",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:a10yearoldcnnoutperformsfrontierllmsfors",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -11608,7 +11608,8 @@
   "特朗普就委内瑞拉反对派领导人马查多回国一事表示我不知道这件事希望她平安",
   "乌军使用风暴阴影导弹打击俄电子元器件厂",
   "offer8嘉宾称专博期间不上临床被质疑福医大称其已完成18个月临床轮转如何看待此事",
-  "k100定档10月27日晚7点双芯魔王标准版首次搭载游戏独显万级续航挑战同档最强"
+  "k100定档10月27日晚7点双芯魔王标准版首次搭载游戏独显万级续航挑战同档最强",
+  "deepseek对传统搜索的冲击有多大"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12355,7 +12356,8 @@
   "e:特朗普就委内瑞拉反对派领导人马查多回国一事表示我不知道这件事希望她平安": "特朗普就委内瑞拉反对派领导人马查多回国一事表示：我不知道这件事，希望她平安。",
   "e:乌军使用风暴阴影导弹打击俄电子元器件厂": "乌军使用风暴阴影导弹打击俄电子元器件厂",
   "e:offer8嘉宾称专博期间不上临床被质疑福医大称其已完成18个月临床轮转如何看待": "《offer 8》嘉宾称「专博期间不上临床」被质疑，福医大称其已完成18个月临床轮转，如何看待此事？",
-  "e:k100定档10月27日晚7点双芯魔王标准版首次搭载游戏独显万级续航挑战同档最强": "K100 定档 10月27日晚 7 点 双芯魔王，标准版首次搭载游戏独显 万级续航，挑战同档最强"
+  "e:k100定档10月27日晚7点双芯魔王标准版首次搭载游戏独显万级续航挑战同档最强": "K100 定档 10月27日晚 7 点 双芯魔王，标准版首次搭载游戏独显 万级续航，挑战同档最强",
+  "e:deepseek对传统搜索的冲击有多大": "Deepseek对传统搜索的冲击有多大？"
  },
  "a_seen": {
   "特朗普我认为乌克兰和俄罗斯都想达成协议": {
@@ -12429,8 +12431,20 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:特朗普福克斯新闻花太多时间邀请共和党的对手上节目"
+  },
+  "a10yearoldcnnoutperformsfrontiere7255a7c": {
+   "key": "a10yearoldcnnoutperformsfrontiere7255a7c",
+   "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从技术迭代角度切入，讨论专业领域深耕vs通用模型的胜负逻辑",
+   "hook_reason": "10岁老模型击败最前沿AI，颠覆",
+   "url": "https://lynchlab.net/llm-skin-cancer",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:a10yearoldcnnoutperformsfrontierllmsfors"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
