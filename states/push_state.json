@@ -10878,19 +10878,6 @@
    "batch_window": 5
   },
   {
-   "key": "serbiasvucicconcedeselectiondefee34b0b6e",
-   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-   "rating": "A",
-   "score": 86.0,
-   "angle": "从塞尔维亚大选看青年力量如何撼动欧洲传统政治格局",
-   "hook_reason": "学生运动推翻强人政治，欧洲变局信号",
-   "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:serbiasvucicconcedeselectiondefeatinhist",
-   "batch_window": 6
-  },
-  {
    "key": "overgrownwhenplantsinvadeyourabandonedtabs",
    "title": "Overgrown, when plants invade your abandoned tabs",
    "rating": "A",
@@ -10928,6 +10915,32 @@
    "breaking": false,
    "event_id": "e:aiuseleadsucberkeleymathprofessortoseeno",
    "batch_window": 6
+  },
+  {
+   "key": "thestateofcontextengineering",
+   "title": "The State of Context Engineering",
+   "rating": "A",
+   "score": 79.0,
+   "angle": "解读Context Engineering为何成为2026年AI应用层关键瓶颈与突破点",
+   "hook_reason": "AI上下文工程新范式引爆HN，开发者必看前沿趋势",
+   "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thestateofcontextengineering",
+   "batch_window": 7
+  },
+  {
+   "key": "openaiandanthropiccuttheirllmpri0107fc46",
+   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "rating": "A",
+   "score": 83.5,
+   "angle": "拆解OpenAI/Anthropic降价背后的算力成本下降逻辑及中小厂商生存压力",
+   "hook_reason": "AI巨头开打价格战，80%降价意味着什么？",
+   "url": "https://minimaxir.com/2026/10/cheap-llms/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:openaiandanthropiccuttheirllmpricesbyupt",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -11743,7 +11756,8 @@
   "recentaimodelsstruggledtomatchah3f7eb127",
   "generativeaiscandalhascometooneob836d96a",
   "cftcstaffweretoldtoretractanalysf6b05680",
-  "丈母娘也开始抢ai人了"
+  "丈母娘也开始抢ai人了",
+  "serbiasvucicconcedeselectiondefee34b0b6e"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12495,7 +12509,8 @@
   "e:recentaimodelsstruggledtomatchahumanalgo": "Recent AI models struggled to match a human algorithmic innovation",
   "e:generativeaiscandalhascometooneofnikonsc": "Generative AI scandal has come to one of Nikon's competitions",
   "e:cftcstaffweretoldtoretractanalysisofsusp": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
-  "e:丈母娘也开始抢ai人了": "丈母娘也开始抢AI人了"
+  "e:丈母娘也开始抢ai人了": "丈母娘也开始抢AI人了",
+  "e:serbiasvucicconcedeselectiondefeatinhist": "Serbia's Vucic concedes election defeat in historic win for student movement"
  },
  "a_seen": {
   "特朗普我认为乌克兰和俄罗斯都想达成协议": {
@@ -12718,9 +12733,9 @@
    "key": "overgrownwhenplantsinvadeyourabandonedtabs",
    "title": "Overgrown, when plants invade your abandoned tabs",
    "rating": "A",
-   "score": 79.0,
-   "angle": "从 HN 爆款 Chrome 扩展切入，讲创意产品如何解决现代人信息过载痛点，引发科技圈讨论",
-   "hook_reason": "你的浏览器标签页长满植物？这款神插件治愈了10万人的-tab焦虑",
+   "score": 77.0,
+   "angle": "从产品视角解读Chrome扩展如何用创意解决用户痛点，切入SaaS微创新赛道",
+   "hook_reason": "Chrome标签页长植物？100%增速爆款初显",
    "url": "https://charliegerard.dev/blog/overgrown-extension/",
    "track": "科技",
    "breaking": true,
@@ -12742,15 +12757,39 @@
    "key": "aiuseleadsucberkeleymathprofessob171dcd3",
    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
    "rating": "A",
-   "score": 74.95,
-   "angle": "从UC伯克利数学教授观点切入，探讨AI时代教育评价体系的危机与重构",
-   "hook_reason": "顶级大学教授因AI放弃批改作业，戳中教育焦虑",
+   "score": 74.8,
+   "angle": "从伯克利教授视角切入，探讨AI时代教育评价体系的颠覆性变革",
+   "hook_reason": "AI让名校教授崩溃：作业不用改了？",
    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-   "track": "社会热点",
+   "track": "科技",
    "breaking": false,
    "event_id": "e:aiuseleadsucberkeleymathprofessortoseeno"
+  },
+  "thestateofcontextengineering": {
+   "key": "thestateofcontextengineering",
+   "title": "The State of Context Engineering",
+   "rating": "A",
+   "score": 79.0,
+   "angle": "解读Context Engineering为何成为2026年AI应用层关键瓶颈与突破点",
+   "hook_reason": "AI上下文工程新范式引爆HN，开发者必看前沿趋势",
+   "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thestateofcontextengineering"
+  },
+  "openaiandanthropiccuttheirllmpri0107fc46": {
+   "key": "openaiandanthropiccuttheirllmpri0107fc46",
+   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "rating": "A",
+   "score": 83.5,
+   "angle": "拆解OpenAI/Anthropic降价背后的算力成本下降逻辑及中小厂商生存压力",
+   "hook_reason": "AI巨头开打价格战，80%降价意味着什么？",
+   "url": "https://minimaxir.com/2026/10/cheap-llms/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:openaiandanthropiccuttheirllmpricesbyupt"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
