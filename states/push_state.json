@@ -2142,19 +2142,6 @@
    "batch_window": 9
   },
   {
-   "key": "711便利店关闭印度全部门店背后的原因是什么",
-   "title": "711 便利店关闭印度全部门店，背后的原因是什么？",
-   "rating": "A",
-   "score": 78.95,
-   "angle": "分析711印度业务溃败的商业模式原因及对在华外企的战略警示",
-   "hook_reason": "外资巨头突然撤出印度，711关闭全部门店引发商界高度关注",
-   "url": "https://www.zhihu.com/question/2091466972869257136",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:711便利店关闭印度全部门店背后的原因是什么",
-   "batch_window": 10
-  },
-  {
    "key": "如何评价openai撤回3篇手稿为什么前沿模型会犯这种错误",
    "title": "如何评价OpenAI撤回3篇手稿？为什么前沿模型会犯这种错误？",
    "rating": "A",
@@ -10473,6 +10460,71 @@
    "breaking": true,
    "event_id": "e:stealmybitcoin",
    "batch_window": 6
+  },
+  {
+   "key": "如何看待85万新能源车成电子孤儿修不了卖不掉连保险也拒绝担保",
+   "title": "如何看待 85 万新能源车成「电子孤儿」，修不了、卖不掉，连保险也拒绝担保？",
+   "rating": "A",
+   "score": 85.0,
+   "angle": "从高价新能源车售后困局切入，揭示行业野蛮生长下的消费者隐痛",
+   "hook_reason": "85万豪车变电子垃圾，消费者维权困境引发共鸣",
+   "url": "https://www.zhihu.com/question/2096137202719892660",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何看待85万新能源车成电子孤儿修不了卖不掉连保险也拒绝担保",
+   "batch_window": 8
+  },
+  {
+   "key": "weshouldbemoreambitiouswiththesoftwarewebuild",
+   "title": "We should be more ambitious with the software we build",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从Dan Luu反思切入，探讨AI时代软件为何趋于保守，以及谁该重燃雄心",
+   "hook_reason": "AI时代软件雄心缺失的危机感，戳中开发者集体焦虑",
+   "url": "https://danluu.com/ambitious/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:weshouldbemoreambitiouswiththesoftwarewe",
+   "batch_window": 8
+  },
+  {
+   "key": "americahaslost200kofjobsinmediaf28a1b50c",
+   "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从AI对影视传媒行业就业冲击切入，用数据+个案呈现技术革命下的普通人困境",
+   "hook_reason": "AI替代创意工作者20万岗位，触动了全民就业焦虑",
+   "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:americahaslost200kofjobsinmediafilmandth",
+   "batch_window": 8
+  },
+  {
+   "key": "showhnstealmybitcoin",
+   "title": "Show HN: Steal My Bitcoin",
+   "rating": "A",
+   "score": 51.8,
+   "angle": "Show HN项目公然挑战黑客\"偷比特币\"，测试安全意识与技术能力",
+   "hook_reason": "标题挑衅引发好奇，比特币安全话题自带流量",
+   "url": "https://stealmybitcoin.com/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:showhnstealmybitcoin",
+   "batch_window": 8
+  },
+  {
+   "key": "特朗普请转告众议院议长詹姆斯迈克尔约翰逊民主党刚刚放弃该议员席位她的真",
+   "title": "特朗普：请转告众议院议长詹姆斯・迈克尔・约翰逊，民主党刚刚放弃该议员席位。她的真",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读特朗普此番表态背后的政治信号，结合美国中期选举格局分析其策略布局",
+   "hook_reason": "特朗普最新发声引爆美国政治博弈，读者想第一时间了解他对民主党施压的深度意图",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwkwey3241104.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普请转告众议院议长詹姆斯迈克尔约翰逊民主党刚刚放弃该议员席位她的真",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -11255,7 +11307,8 @@
   "刘丁硕疑暗讽张继科蹭热度低价课扰乱市场张继科回怼段位不够上不了台面你咋看他两有啥纠葛吗",
   "梅艳芳连灵位上的籍贯信息都是假的",
   "attackofthevibecodedphotoshopclones",
-  "nvidiaopenshell"
+  "nvidiaopenshell",
+  "711便利店关闭印度全部门店背后的原因是什么"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -11974,7 +12027,8 @@
   "e:刘丁硕疑暗讽张继科蹭热度低价课扰乱市场张继科回怼段位不够上不了台面你咋看他两有啥": "刘丁硕疑暗讽张继科蹭热度、低价课扰乱市场，张继科回怼「段位不够、上不了台面」，你咋看？他两有啥纠葛吗？",
   "e:梅艳芳连灵位上的籍贯信息都是假的": "梅艳芳连灵位上的籍贯信息都是假的",
   "e:attackofthevibecodedphotoshopclones": "Attack of the Vibe Coded Photoshop Clones",
-  "e:nvidiaopenshell": "Nvidia OpenShell"
+  "e:nvidiaopenshell": "Nvidia OpenShell",
+  "e:711便利店关闭印度全部门店背后的原因是什么": "711 便利店关闭印度全部门店，背后的原因是什么？"
  },
  "a_seen": {
   "新郎新娘回应毛不易婚礼发言": {
@@ -12108,8 +12162,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:stealmybitcoin"
+  },
+  "如何看待85万新能源车成电子孤儿修不了卖不掉连保险也拒绝担保": {
+   "key": "如何看待85万新能源车成电子孤儿修不了卖不掉连保险也拒绝担保",
+   "title": "如何看待 85 万新能源车成「电子孤儿」，修不了、卖不掉，连保险也拒绝担保？",
+   "rating": "A",
+   "score": 85.0,
+   "angle": "从高价新能源车售后困局切入，揭示行业野蛮生长下的消费者隐痛",
+   "hook_reason": "85万豪车变电子垃圾，消费者维权困境引发共鸣",
+   "url": "https://www.zhihu.com/question/2096137202719892660",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何看待85万新能源车成电子孤儿修不了卖不掉连保险也拒绝担保"
+  },
+  "weshouldbemoreambitiouswiththesoftwarewebuild": {
+   "key": "weshouldbemoreambitiouswiththesoftwarewebuild",
+   "title": "We should be more ambitious with the software we build",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从Dan Luu反思切入，探讨AI时代软件为何趋于保守，以及谁该重燃雄心",
+   "hook_reason": "AI时代软件雄心缺失的危机感，戳中开发者集体焦虑",
+   "url": "https://danluu.com/ambitious/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:weshouldbemoreambitiouswiththesoftwarewe"
+  },
+  "americahaslost200kofjobsinmediaf28a1b50c": {
+   "key": "americahaslost200kofjobsinmediaf28a1b50c",
+   "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从AI对影视传媒行业就业冲击切入，用数据+个案呈现技术革命下的普通人困境",
+   "hook_reason": "AI替代创意工作者20万岗位，触动了全民就业焦虑",
+   "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:americahaslost200kofjobsinmediafilmandth"
+  },
+  "showhnstealmybitcoin": {
+   "key": "showhnstealmybitcoin",
+   "title": "Show HN: Steal My Bitcoin",
+   "rating": "A",
+   "score": 51.8,
+   "angle": "Show HN项目公然挑战黑客\"偷比特币\"，测试安全意识与技术能力",
+   "hook_reason": "标题挑衅引发好奇，比特币安全话题自带流量",
+   "url": "https://stealmybitcoin.com/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:showhnstealmybitcoin"
+  },
+  "特朗普请转告众议院议长詹姆斯迈克尔约翰逊民主党刚刚放弃该议员席位她的真": {
+   "key": "特朗普请转告众议院议长詹姆斯迈克尔约翰逊民主党刚刚放弃该议员席位她的真",
+   "title": "特朗普：请转告众议院议长詹姆斯・迈克尔・约翰逊，民主党刚刚放弃该议员席位。她的真",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读特朗普此番表态背后的政治信号，结合美国中期选举格局分析其策略布局",
+   "hook_reason": "特朗普最新发声引爆美国政治博弈，读者想第一时间了解他对民主党施压的深度意图",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwkwey3241104.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普请转告众议院议长詹姆斯迈克尔约翰逊民主党刚刚放弃该议员席位她的真"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
