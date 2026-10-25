@@ -10462,19 +10462,6 @@
    "batch_window": 6
   },
   {
-   "key": "如何看待85万新能源车成电子孤儿修不了卖不掉连保险也拒绝担保",
-   "title": "如何看待 85 万新能源车成「电子孤儿」，修不了、卖不掉，连保险也拒绝担保？",
-   "rating": "A",
-   "score": 85.0,
-   "angle": "从高价新能源车售后困局切入，揭示行业野蛮生长下的消费者隐痛",
-   "hook_reason": "85万豪车变电子垃圾，消费者维权困境引发共鸣",
-   "url": "https://www.zhihu.com/question/2096137202719892660",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:如何看待85万新能源车成电子孤儿修不了卖不掉连保险也拒绝担保",
-   "batch_window": 8
-  },
-  {
    "key": "weshouldbemoreambitiouswiththesoftwarewebuild",
    "title": "We should be more ambitious with the software we build",
    "rating": "A",
@@ -10525,6 +10512,32 @@
    "breaking": true,
    "event_id": "e:特朗普请转告众议院议长詹姆斯迈克尔约翰逊民主党刚刚放弃该议员席位她的真",
    "batch_window": 8
+  },
+  {
+   "key": "太空视角俯瞰台湾每条街道清晰可见",
+   "title": "太空视角俯瞰台湾 每条街道清晰可见",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从太空遥感技术突破切入，解读成像能力背后的军工科技实力",
+   "hook_reason": "技术突破+民族情感双重刺激，点击欲望极强",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%AA%E7%A9%BA%E8%A7%86%E8%A7%92%E4%BF%AF%E7%9E%B0%E5%8F%B0%E6%B9%BE+%E6%AF%8F%E6%9D%A1%E8%A1%97%E9%81%93%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:太空视角俯瞰台湾每条街道清晰可见",
+   "batch_window": 9
+  },
+  {
+   "key": "美初创公司宣称已实现汞变稳定黄金但成果尚未得到独立验证技术原理是啥技术可行性与商业价值如何",
+   "title": "美初创公司宣称已实现「汞变稳定黄金」，但成果尚未得到独立验证，技术原理是啥？技术可行性与商业价值如何？",
+   "rating": "A",
+   "score": 68.46,
+   "angle": "从核物理原理切入，分析汞同位素稳定化技术路径、商业价值及独立验证进展",
+   "hook_reason": "宣称汞变黄金的炼金术复现，颠覆认知与科学常识",
+   "url": "https://www.zhihu.com/question/2097101591828607209",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:美初创公司宣称已实现汞变稳定黄金但成果尚未得到独立验证技术原理是啥技术可行性与商",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -11308,7 +11321,8 @@
   "梅艳芳连灵位上的籍贯信息都是假的",
   "attackofthevibecodedphotoshopclones",
   "nvidiaopenshell",
-  "711便利店关闭印度全部门店背后的原因是什么"
+  "711便利店关闭印度全部门店背后的原因是什么",
+  "如何看待85万新能源车成电子孤儿修不了卖不掉连保险也拒绝担保"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12028,7 +12042,8 @@
   "e:梅艳芳连灵位上的籍贯信息都是假的": "梅艳芳连灵位上的籍贯信息都是假的",
   "e:attackofthevibecodedphotoshopclones": "Attack of the Vibe Coded Photoshop Clones",
   "e:nvidiaopenshell": "Nvidia OpenShell",
-  "e:711便利店关闭印度全部门店背后的原因是什么": "711 便利店关闭印度全部门店，背后的原因是什么？"
+  "e:711便利店关闭印度全部门店背后的原因是什么": "711 便利店关闭印度全部门店，背后的原因是什么？",
+  "e:如何看待85万新能源车成电子孤儿修不了卖不掉连保险也拒绝担保": "如何看待 85 万新能源车成「电子孤儿」，修不了、卖不掉，连保险也拒绝担保？"
  },
  "a_seen": {
   "新郎新娘回应毛不易婚礼发言": {
@@ -12167,9 +12182,9 @@
    "key": "如何看待85万新能源车成电子孤儿修不了卖不掉连保险也拒绝担保",
    "title": "如何看待 85 万新能源车成「电子孤儿」，修不了、卖不掉，连保险也拒绝担保？",
    "rating": "A",
-   "score": 85.0,
-   "angle": "从高价新能源车售后困局切入，揭示行业野蛮生长下的消费者隐痛",
-   "hook_reason": "85万豪车变电子垃圾，消费者维权困境引发共鸣",
+   "score": 78.75,
+   "angle": "从高价新能源车维权难切入，探讨厂商售后体系缺失、保险行业定价逻辑，引发中产消费者共鸣",
+   "hook_reason": "85万豪车变电子垃圾，车主维权困境直击高消费人群焦虑",
    "url": "https://www.zhihu.com/question/2096137202719892660",
    "track": "社会热点",
    "breaking": true,
@@ -12191,9 +12206,9 @@
    "key": "americahaslost200kofjobsinmediaf28a1b50c",
    "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
    "rating": "A",
-   "score": 40.9,
-   "angle": "从AI对影视传媒行业就业冲击切入，用数据+个案呈现技术革命下的普通人困境",
-   "hook_reason": "AI替代创意工作者20万岗位，触动了全民就业焦虑",
+   "score": 76.5,
+   "angle": "从'AI是否真的在抢饭碗'切入，拆解创意行业就业数据背后的真相与争议",
+   "hook_reason": "AI取代创意工作者？20万岗位消失引爆就业焦虑",
    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
    "track": "社会热点",
    "breaking": true,
@@ -12203,9 +12218,9 @@
    "key": "showhnstealmybitcoin",
    "title": "Show HN: Steal My Bitcoin",
    "rating": "A",
-   "score": 51.8,
-   "angle": "Show HN项目公然挑战黑客\"偷比特币\"，测试安全意识与技术能力",
-   "hook_reason": "标题挑衅引发好奇，比特币安全话题自带流量",
+   "score": 51.65,
+   "angle": "从技术视角拆解项目原理，解读比特币钱包安全漏洞与防御启示",
+   "hook_reason": "黑客公开演示如何盗取比特币，颠覆安全认知",
    "url": "https://stealmybitcoin.com/",
    "track": "科技",
    "breaking": true,
@@ -12222,8 +12237,32 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:特朗普请转告众议院议长詹姆斯迈克尔约翰逊民主党刚刚放弃该议员席位她的真"
+  },
+  "太空视角俯瞰台湾每条街道清晰可见": {
+   "key": "太空视角俯瞰台湾每条街道清晰可见",
+   "title": "太空视角俯瞰台湾 每条街道清晰可见",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从太空遥感技术突破切入，解读成像能力背后的军工科技实力",
+   "hook_reason": "技术突破+民族情感双重刺激，点击欲望极强",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%AA%E7%A9%BA%E8%A7%86%E8%A7%92%E4%BF%AF%E7%9E%B0%E5%8F%B0%E6%B9%BE+%E6%AF%8F%E6%9D%A1%E8%A1%97%E9%81%93%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A7%81&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:太空视角俯瞰台湾每条街道清晰可见"
+  },
+  "美初创公司宣称已实现汞变稳定黄金但成果尚未得到独立验证技术原理是啥技术可行性与商业价值如何": {
+   "key": "美初创公司宣称已实现汞变稳定黄金但成果尚未得到独立验证技术原理是啥技术可行性与商业价值如何",
+   "title": "美初创公司宣称已实现「汞变稳定黄金」，但成果尚未得到独立验证，技术原理是啥？技术可行性与商业价值如何？",
+   "rating": "A",
+   "score": 68.46,
+   "angle": "从核物理原理切入，分析汞同位素稳定化技术路径、商业价值及独立验证进展",
+   "hook_reason": "宣称汞变黄金的炼金术复现，颠覆认知与科学常识",
+   "url": "https://www.zhihu.com/question/2097101591828607209",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:美初创公司宣称已实现汞变稳定黄金但成果尚未得到独立验证技术原理是啥技术可行性与商"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
