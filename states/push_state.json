@@ -10707,6 +10707,45 @@
    "breaking": true,
    "event_id": "e:亨特在我们追踪的数据中目前尚未看到任何衰退迹象",
    "batch_window": 18
+  },
+  {
+   "key": "metaignoresbraziliancourtorderto081a9412",
+   "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "科技巨头如何成为'数字主权'挑战者？Meta无视他国司法命令，平台权力与国家权力的边界在哪里？",
+   "hook_reason": "Meta硬刚巴西法院，科技巨头vs主权国家的正面冲突，读者关心平台权力边界",
+   "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:metaignoresbraziliancourtordertoendbolso",
+   "batch_window": 19
+  },
+  {
+   "key": "franceaskedispstopreparetemporar0939f85e",
+   "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
+   "rating": "A",
+   "score": 48.33,
+   "angle": "从法国政府要求ISP准备DNS屏蔽社媒切入，探讨数字时代政府权力边界与网民隐私权利的冲突，结合10月24日具体时间点分析其象征意义",
+   "hook_reason": "政府直接屏蔽社交平台，网民数字权利受冲击",
+   "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:franceaskedispstopreparetemporarydnsbloc",
+   "batch_window": 19
+  },
+  {
+   "key": "奥迪首席执行官美国总统邀请我发表声明这是出于对国家的尊重而接受的",
+   "title": "奥迪首席执行官：美国总统邀请我发表声明，这是出于对国家的尊重而接受的。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从奥迪CEO接受美国总统邀请切入，深挖跨国车企在中美博弈中的立场选择与商业风险",
+   "hook_reason": "车企CEO被美国政要邀请发声，跨界政治引站队猜测",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwmxsn2937708.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:奥迪首席执行官美国总统邀请我发表声明这是出于对国家的尊重而接受的",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -12750,6 +12789,42 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:亨特在我们追踪的数据中目前尚未看到任何衰退迹象"
+  },
+  "metaignoresbraziliancourtorderto081a9412": {
+   "key": "metaignoresbraziliancourtorderto081a9412",
+   "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "科技巨头如何成为'数字主权'挑战者？Meta无视他国司法命令，平台权力与国家权力的边界在哪里？",
+   "hook_reason": "Meta硬刚巴西法院，科技巨头vs主权国家的正面冲突，读者关心平台权力边界",
+   "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:metaignoresbraziliancourtordertoendbolso"
+  },
+  "franceaskedispstopreparetemporar0939f85e": {
+   "key": "franceaskedispstopreparetemporar0939f85e",
+   "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
+   "rating": "A",
+   "score": 48.33,
+   "angle": "从法国政府要求ISP准备DNS屏蔽社媒切入，探讨数字时代政府权力边界与网民隐私权利的冲突，结合10月24日具体时间点分析其象征意义",
+   "hook_reason": "政府直接屏蔽社交平台，网民数字权利受冲击",
+   "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:franceaskedispstopreparetemporarydnsbloc"
+  },
+  "奥迪首席执行官美国总统邀请我发表声明这是出于对国家的尊重而接受的": {
+   "key": "奥迪首席执行官美国总统邀请我发表声明这是出于对国家的尊重而接受的",
+   "title": "奥迪首席执行官：美国总统邀请我发表声明，这是出于对国家的尊重而接受的。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从奥迪CEO接受美国总统邀请切入，深挖跨国车企在中美博弈中的立场选择与商业风险",
+   "hook_reason": "车企CEO被美国政要邀请发声，跨界政治引站队猜测",
+   "url": "https://finance.sina.cn/7x24/2026-10-25/detail-iniwmxsn2937708.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:奥迪首席执行官美国总统邀请我发表声明这是出于对国家的尊重而接受的"
   }
  },
  "breaking_count": 10,
