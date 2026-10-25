@@ -10798,6 +10798,32 @@
    "breaking": true,
    "event_id": "e:a10yearoldcnnoutperformsfrontierllmsfors",
    "batch_window": 2
+  },
+  {
+   "key": "irefusetoacceptacensoredinternetjoinmeatfosdem27",
+   "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "FOSDEM大会上开源社区对互联网审查的强硬表态，折射科技自由与监管的持续博弈",
+   "hook_reason": "开源圈大佬公开发言反审查，立场鲜明引共鸣",
+   "url": "https://talkweb.eu/openweb/4558/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:irefusetoacceptacensoredinternetjoinmeat",
+   "batch_window": 2
+  },
+  {
+   "key": "一名美国官员表示美国对伊朗实施打击已经不是是否会发生的问题而是何时发生",
+   "title": "一名美国官员表示，美国对伊朗实施打击已经不是“是否会发生”的问题，而是“何时发生",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从美方官员表态切入，解读中东局势升级信号，关联油价/黄金/地缘博弈",
+   "hook_reason": "美国官员放狠话：对伊朗动手只是时间问题，谁在点刀？",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwnqqf9496204.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:一名美国官员表示美国对伊朗实施打击已经不是是否会发生的问题而是何时发生",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -12436,13 +12462,37 @@
    "key": "a10yearoldcnnoutperformsfrontiere7255a7c",
    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
    "rating": "A",
-   "score": 40.95,
-   "angle": "从技术迭代角度切入，讨论专业领域深耕vs通用模型的胜负逻辑",
-   "hook_reason": "10岁老模型击败最前沿AI，颠覆",
+   "score": 75.85,
+   "angle": "从AI医疗落地切入，老模型逆袭背后的效率与成本逻辑，对科技从业者有借鉴价值",
+   "hook_reason": "10岁老模型碾压最新AI诊断癌症，反常识冲击强",
    "url": "https://lynchlab.net/llm-skin-cancer",
    "track": "科技",
    "breaking": true,
    "event_id": "e:a10yearoldcnnoutperformsfrontierllmsfors"
+  },
+  "irefusetoacceptacensoredinternetjoinmeatfosdem27": {
+   "key": "irefusetoacceptacensoredinternetjoinmeatfosdem27",
+   "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "FOSDEM大会上开源社区对互联网审查的强硬表态，折射科技自由与监管的持续博弈",
+   "hook_reason": "开源圈大佬公开发言反审查，立场鲜明引共鸣",
+   "url": "https://talkweb.eu/openweb/4558/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:irefusetoacceptacensoredinternetjoinmeat"
+  },
+  "一名美国官员表示美国对伊朗实施打击已经不是是否会发生的问题而是何时发生": {
+   "key": "一名美国官员表示美国对伊朗实施打击已经不是是否会发生的问题而是何时发生",
+   "title": "一名美国官员表示，美国对伊朗实施打击已经不是“是否会发生”的问题，而是“何时发生",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从美方官员表态切入，解读中东局势升级信号，关联油价/黄金/地缘博弈",
+   "hook_reason": "美国官员放狠话：对伊朗动手只是时间问题，谁在点刀？",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwnqqf9496204.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:一名美国官员表示美国对伊朗实施打击已经不是是否会发生的问题而是何时发生"
   }
  },
  "breaking_count": 10,
