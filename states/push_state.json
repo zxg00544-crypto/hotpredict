@@ -10642,6 +10642,45 @@
    "breaking": true,
    "event_id": "e:小米第一代员工住宅今日开盘",
    "batch_window": 13
+  },
+  {
+   "key": "fiveqwen3827bmodelsmatchfable5usinggvs5hharness",
+   "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "解析Qwen3.8-27B在GVS5H上逼近Fable 5的技术路径与产业意义",
+   "hook_reason": "国产AI模型性能突破，逼近顶级水平引关注",
+   "url": "https://github.com/slee-persis/GVS5H",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:fiveqwen3827bmodelsmatchfable5usinggvs5h",
+   "batch_window": 13
+  },
+  {
+   "key": "上海90岁老人在公共楼道住近一年三名女儿因赡养问题互相推诿该怎样破局如何从法律角度解读",
+   "title": "上海 90 岁老人在公共楼道住近一年，三名女儿因赡养问题互相推诿，该怎样破局？如何从法律角度解读？",
+   "rating": "A",
+   "score": 56.31,
+   "angle": "法律赡养义务+老龄化社会困境，切入家庭伦理与制度保障双视角",
+   "hook_reason": "90岁老人被女儿推诿住楼道，触痛全民养老焦虑",
+   "url": "https://www.zhihu.com/question/2096903756369458155",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:上海90岁老人在公共楼道住近一年三名女儿因赡养问题互相推诿该怎样破局如何从法律角",
+   "batch_window": 13
+  },
+  {
+   "key": "ai大肥鱼自主运营b站",
+   "title": "AI大肥鱼自主运营B站",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "AI从工具进化为'运营者'，探讨人机关系边界与平台AI治理空白",
+   "hook_reason": "AI自己运营B站，颠覆人机角色，用户好奇心拉满",
+   "url": "https://search.bilibili.com/all?keyword=AI大肥鱼自主运营B站",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai大肥鱼自主运营b站",
+   "batch_window": 13
   }
  ],
  "pushed": [
@@ -12474,11 +12513,11 @@
    "key": "陶哲轩称ai的数学成果称把解题当基准测试犹如抛出有毒废料如何看待这一评价",
    "title": "陶哲轩称 AI 的数学成果称把解题当基准测试，犹如抛出「有毒废料」，如何看待这一评价？",
    "rating": "A",
-   "score": 43.6,
-   "angle": "从陶哲轩批判切入，深挖AI'伪数学'乱象：benchmark炒作 vs 真实贡献",
-   "hook_reason": "顶级数学家公开炮轰AI，观点颠覆主流认知",
+   "score": 50.25,
+   "angle": "借陶哲轩权威背书，解读AI数学能力边界，戳破商业炒作泡沫",
+   "hook_reason": "菲尔兹奖得主直批AI，金句引爆科技圈舆论战",
    "url": "https://www.zhihu.com/question/2096913276739367170",
-   "track": "科技",
+   "track": "大咖发言",
    "breaking": true,
    "event_id": "e:陶哲轩称ai的数学成果称把解题当基准测试犹如抛出有毒废料如何看待这一评价"
   },
@@ -12517,6 +12556,54 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:小米第一代员工住宅今日开盘"
+  },
+  "fiveqwen3827bmodelsmatchfable5usinggvs5hharness": {
+   "key": "fiveqwen3827bmodelsmatchfable5usinggvs5hharness",
+   "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "解析Qwen3.8-27B在GVS5H上逼近Fable 5的技术路径与产业意义",
+   "hook_reason": "国产AI模型性能突破，逼近顶级水平引关注",
+   "url": "https://github.com/slee-persis/GVS5H",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:fiveqwen3827bmodelsmatchfable5usinggvs5h"
+  },
+  "上海90岁老人在公共楼道住近一年三名女儿因赡养问题互相推诿该怎样破局如何从法律角度解读": {
+   "key": "上海90岁老人在公共楼道住近一年三名女儿因赡养问题互相推诿该怎样破局如何从法律角度解读",
+   "title": "上海 90 岁老人在公共楼道住近一年，三名女儿因赡养问题互相推诿，该怎样破局？如何从法律角度解读？",
+   "rating": "A",
+   "score": 56.31,
+   "angle": "法律赡养义务+老龄化社会困境，切入家庭伦理与制度保障双视角",
+   "hook_reason": "90岁老人被女儿推诿住楼道，触痛全民养老焦虑",
+   "url": "https://www.zhihu.com/question/2096903756369458155",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:上海90岁老人在公共楼道住近一年三名女儿因赡养问题互相推诿该怎样破局如何从法律角"
+  },
+  "ai大肥鱼自主运营b站": {
+   "key": "ai大肥鱼自主运营b站",
+   "title": "AI大肥鱼自主运营B站",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "AI从工具进化为'运营者'，探讨人机关系边界与平台AI治理空白",
+   "hook_reason": "AI自己运营B站，颠覆人机角色，用户好奇心拉满",
+   "url": "https://search.bilibili.com/all?keyword=AI大肥鱼自主运营B站",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai大肥鱼自主运营b站"
+  },
+  "张雪机车刷新水上漂吉尼斯世界纪录": {
+   "key": "张雪机车刷新水上漂吉尼斯世界纪录",
+   "title": "张雪机车刷新水上漂吉尼斯世界纪录",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "聚焦平凡人的极限挑战，用",
+   "hook_reason": "水上漂机车突破吉尼斯纪录，视觉冲击强+励志逆袭",
+   "url": "https://www.toutiao.com/trending/7700435988002295305/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:张雪机车德比斯年度亚军"
   }
  },
  "breaking_count": 10,
