@@ -11047,19 +11047,6 @@
    "batch_window": 12
   },
   {
-   "key": "全球养老体系面临大考",
-   "title": "全球养老体系面临大考",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从普通人的养老焦虑切入，结合全球老龄化数据与政策困境，解读'养老危机'离我们有多近",
-   "hook_reason": "养老焦虑触达全民，全球视角+突发热度易引发共鸣转发",
-   "url": "https://www.toutiao.com/trending/7699747285814919222/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:全球养老体系面临大考",
-   "batch_window": 14
-  },
-  {
    "key": "二十届五中全会在北京开始举行",
    "title": "二十届五中全会在北京开始举行",
    "rating": "A",
@@ -11071,6 +11058,45 @@
    "breaking": true,
    "event_id": "e:二十届五中全会在北京开始举行",
    "batch_window": 14
+  },
+  {
+   "key": "cognitivemercantilismaipanicresec1e9a244",
+   "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "以Cognitive Mercantilism为切口，拆解AI监管叙事与历史资本恐慌的深层映射",
+   "hook_reason": "用早期资本主义恐惧类比AI恐慌，认知反差强，引发科技从业者共鸣",
+   "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:cognitivemercantilismaipanicresemblesfea",
+   "batch_window": 15
+  },
+  {
+   "key": "机构a股有望持续1个月上涨",
+   "title": "机构：A股有望持续1个月上涨",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "拆解机构看涨逻辑，提示散户注意一月周期的操作节奏与风险边界",
+   "hook_reason": "机构看多A股一个月，股民最关心涨跌逻辑",
+   "url": "https://www.toutiao.com/trending/7700262061935509546/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:机构a股有望持续1个月上涨",
+   "batch_window": 15
+  },
+  {
+   "key": "iphoneduo专属系统上线",
+   "title": "iPhone Duo专属系统上线",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从苹果创新突破切入，聚焦双屏形态带来的使用场景变革，对比折叠屏差异化竞争力",
+   "hook_reason": "苹果首款双屏手机概念首发，果粉必点",
+   "url": "https://www.toutiao.com/trending/7700520082807734313/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:iphoneduo专属系统上线",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -11894,7 +11920,8 @@
   "国乒获奖组委会错放日本国旗",
   "去不去养老院老人子女谁说了算",
   "新能源汽车的八年大考来了",
-  "寿司郎被曝菜品传送带上有老鼠当事人称门店未立刻闭店停止接客门店会受到处罚吗第一时间该如何处理"
+  "寿司郎被曝菜品传送带上有老鼠当事人称门店未立刻闭店停止接客门店会受到处罚吗第一时间该如何处理",
+  "全球养老体系面临大考"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12654,7 +12681,8 @@
   "e:国乒获奖组委会错放日本国旗": "国乒获奖组委会错放日本国旗",
   "e:去不去养老院老人子女谁说了算": "去不去养老院 老人子女谁说了算",
   "e:新能源汽车的八年大考来了": "新能源汽车的“八年大考”来了",
-  "e:寿司郎被曝菜品传送带上有老鼠当事人称门店未立刻闭店停止接客门店会受到处罚吗第一时": "寿司郎被曝菜品传送带上有老鼠，当事人称门店未立刻闭店停止接客，门店会受到处罚吗？第一时间该如何处理？"
+  "e:寿司郎被曝菜品传送带上有老鼠当事人称门店未立刻闭店停止接客门店会受到处罚吗第一时": "寿司郎被曝菜品传送带上有老鼠，当事人称门店未立刻闭店停止接客，门店会受到处罚吗？第一时间该如何处理？",
+  "e:全球养老体系面临大考": "全球养老体系面临大考"
  },
  "a_seen": {
   "特朗普我认为乌克兰和俄罗斯都想达成协议": {
@@ -13148,8 +13176,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:二十届五中全会在北京开始举行"
+  },
+  "cognitivemercantilismaipanicresec1e9a244": {
+   "key": "cognitivemercantilismaipanicresec1e9a244",
+   "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "以Cognitive Mercantilism为切口，拆解AI监管叙事与历史资本恐慌的深层映射",
+   "hook_reason": "用早期资本主义恐惧类比AI恐慌，认知反差强，引发科技从业者共鸣",
+   "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:cognitivemercantilismaipanicresemblesfea"
+  },
+  "机构a股有望持续1个月上涨": {
+   "key": "机构a股有望持续1个月上涨",
+   "title": "机构：A股有望持续1个月上涨",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "拆解机构看涨逻辑，提示散户注意一月周期的操作节奏与风险边界",
+   "hook_reason": "机构看多A股一个月，股民最关心涨跌逻辑",
+   "url": "https://www.toutiao.com/trending/7700262061935509546/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:机构a股有望持续1个月上涨"
+  },
+  "iphoneduo专属系统上线": {
+   "key": "iphoneduo专属系统上线",
+   "title": "iPhone Duo专属系统上线",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从苹果创新突破切入，聚焦双屏形态带来的使用场景变革，对比折叠屏差异化竞争力",
+   "hook_reason": "苹果首款双屏手机概念首发，果粉必点",
+   "url": "https://www.toutiao.com/trending/7700520082807734313/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:iphoneduo专属系统上线"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 14
+ "a_pushed_window": 15
 }
