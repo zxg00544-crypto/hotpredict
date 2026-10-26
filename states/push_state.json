@@ -11281,17 +11281,30 @@
    "batch_window": 6
   },
   {
-   "key": "女子求职遇视频面试要求格式化手机",
-   "title": "女子求职遇视频面试要求格式化手机",
+   "key": "630亿美元anthropic再获华尔街算力融资支持",
+   "title": "630亿美元！Anthropic再获华尔街算力融资支持",
    "rating": "A",
-   "score": 89.5,
-   "angle": "从劳动者隐私权角度切入，反思企业招聘中的越界行为与法律边界",
-   "hook_reason": "求职者隐私被侵犯，打工人身份共鸣强烈",
-   "url": "https://www.toutiao.com/trending/7700357026878144538/",
-   "track": "社会热点",
-   "breaking": false,
-   "event_id": "e:女子求职遇视频面试要求格式化手机",
-   "batch_window": 6
+   "score": 46.95,
+   "angle": "华尔街资本如何深度押注AI算力竞赛，Anthropic估值背后谁在布局",
+   "hook_reason": "630亿美金砸向AI算力，华尔街与科技巨头联手掀更大波澜",
+   "url": "https://finance.sina.cn/7x24/2026-10-27/detail-iniwreaz8956010.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:630亿美元anthropic再获华尔街算力融资支持",
+   "batch_window": 7
+  },
+  {
+   "key": "crossrequestkvcacheexposureinthee4b56adf",
+   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "从GLM-5.3 Workers AI的KV cache漏洞切入，解读AI基础设施安全盲区及修复进展",
+   "hook_reason": "AI大模型曝重大安全漏洞，跨请求可窃取敏感数据",
+   "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:crossrequestkvcacheexposureintheglm53wor",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -12141,7 +12154,8 @@
   "2026微博v影响力大会奖项揭晓",
   "台退将解放军南海实弹射击一举两得",
   "郑钦文右肩受伤退出2026年武汉网球公开赛她的伤势有多严重对后续比赛影响有多大",
-  "ai伪人广告正在集体霸凌人类"
+  "ai伪人广告正在集体霸凌人类",
+  "女子求职遇视频面试要求格式化手机"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12927,7 +12941,8 @@
   "e:2026微博v影响力大会奖项揭晓": "2026微博V影响力大会奖项揭晓",
   "e:台退将解放军南海实弹射击一举两得": "台退将：解放军南海实弹射击一举两得",
   "e:郑钦文右肩受伤退出2026年武汉网球公开赛她的伤势有多严重对后续比赛影响有多大": "郑钦文右肩受伤，退出 2026 年武汉网球公开赛，她的伤势有多严重？对后续比赛影响有多大？",
-  "e:ai伪人广告正在集体霸凌人类": "AI伪人广告正在集体“霸凌”人类"
+  "e:ai伪人广告正在集体霸凌人类": "AI伪人广告正在集体“霸凌”人类",
+  "e:女子求职遇视频面试要求格式化手机": "女子求职遇视频面试要求格式化手机"
  },
  "a_seen": {
   "女子驾车过高架车顶被风筝线割破": {
@@ -13066,9 +13081,9 @@
    "key": "gpt61terra",
    "title": "GPT-6.1 Terra",
    "rating": "A",
-   "score": 75.65,
-   "angle": "拆解GPT-6.1 Terra核心能力升级与行业影响，切入用户对AI实用性的期待",
-   "hook_reason": "OpenAI新旗舰发布，用户高度关注AI突破",
+   "score": 75.45,
+   "angle": "GPT-6.1 Terra技术突破解读，OpenAI在AI竞赛中的最新布局与行业影响",
+   "hook_reason": "OpenAI官方发布GPT-6.1，AI竞赛再下一城",
    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
    "track": "科技",
    "breaking": false,
@@ -13169,8 +13184,32 @@
    "track": "社会热点",
    "breaking": false,
    "event_id": "e:女子求职遇视频面试要求格式化手机"
+  },
+  "630亿美元anthropic再获华尔街算力融资支持": {
+   "key": "630亿美元anthropic再获华尔街算力融资支持",
+   "title": "630亿美元！Anthropic再获华尔街算力融资支持",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "华尔街资本如何深度押注AI算力竞赛，Anthropic估值背后谁在布局",
+   "hook_reason": "630亿美金砸向AI算力，华尔街与科技巨头联手掀更大波澜",
+   "url": "https://finance.sina.cn/7x24/2026-10-27/detail-iniwreaz8956010.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:630亿美元anthropic再获华尔街算力融资支持"
+  },
+  "crossrequestkvcacheexposureinthee4b56adf": {
+   "key": "crossrequestkvcacheexposureinthee4b56adf",
+   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "从GLM-5.3 Workers AI的KV cache漏洞切入，解读AI基础设施安全盲区及修复进展",
+   "hook_reason": "AI大模型曝重大安全漏洞，跨请求可窃取敏感数据",
+   "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:crossrequestkvcacheexposureintheglm53wor"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
