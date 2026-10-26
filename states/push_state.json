@@ -3728,19 +3728,6 @@
    "batch_window": 15
   },
   {
-   "key": "郑钦文右肩受伤退出2026年武汉网球公开赛她的伤势有多严重对后续比赛影响有多大",
-   "title": "郑钦文右肩受伤，退出 2026 年武汉网球公开赛，她的伤势有多严重？对后续比赛影响有多大？",
-   "rating": "A",
-   "score": 78.35,
-   "angle": "郑钦文伤病深度解读，分析康复周期及对中国网球的战略影响",
-   "hook_reason": "奥运冠军意外退赛，国民关注度极高",
-   "url": "https://www.zhihu.com/question/2092939140517950117",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:郑钦文右肩受伤退出2026年武汉网球公开赛她的伤势有多严重对后续比赛影响有多大",
-   "batch_window": 15
-  },
-  {
    "key": "记者暗访高薪充场办电话卡乱象",
    "title": "记者暗访高薪充场办电话卡乱象",
    "rating": "A",
@@ -11266,6 +11253,19 @@
    "breaking": true,
    "event_id": "e:中国地震台网正式测定10月27日04时05分在河北唐山市古冶区北纬3975",
    "batch_window": 4
+  },
+  {
+   "key": "ai伪人广告正在集体霸凌人类",
+   "title": "AI伪人广告正在集体“霸凌”人类",
+   "rating": "A",
+   "score": 81.05,
+   "angle": "从技术滥用与伦理边界切入，探讨AI广告合规治理",
+   "hook_reason": "AI虚拟人被广告滥用引发公众反感，情绪共鸣强",
+   "url": "https://www.baidu.com/s?wd=AI%E4%BC%AA%E4%BA%BA%E5%B9%BF%E5%91%8A%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E2%80%9C%E9%9C%B8%E5%87%8C%E2%80%9D%E4%BA%BA%E7%B1%BB&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:ai伪人广告正在集体霸凌人类",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -12113,7 +12113,8 @@
   "androidappsrunningnativeonmacos",
   "anthropics1",
   "2026微博v影响力大会奖项揭晓",
-  "台退将解放军南海实弹射击一举两得"
+  "台退将解放军南海实弹射击一举两得",
+  "郑钦文右肩受伤退出2026年武汉网球公开赛她的伤势有多严重对后续比赛影响有多大"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12897,7 +12898,8 @@
   "e:androidappsrunningnativeonmacos": "Android apps running native on macOS",
   "e:anthropics1": "Anthropic S-1",
   "e:2026微博v影响力大会奖项揭晓": "2026微博V影响力大会奖项揭晓",
-  "e:台退将解放军南海实弹射击一举两得": "台退将：解放军南海实弹射击一举两得"
+  "e:台退将解放军南海实弹射击一举两得": "台退将：解放军南海实弹射击一举两得",
+  "e:郑钦文右肩受伤退出2026年武汉网球公开赛她的伤势有多严重对后续比赛影响有多大": "郑钦文右肩受伤，退出 2026 年武汉网球公开赛，她的伤势有多严重？对后续比赛影响有多大？"
  },
  "a_seen": {
   "女子驾车过高架车顶被风筝线割破": {
@@ -13036,12 +13038,12 @@
    "key": "gpt61terra",
    "title": "GPT-6.1 Terra",
    "rating": "A",
-   "score": 75.75,
-   "angle": "GPT-6.1 Terra性能突破点分析，对比前代差异及行业影响解读",
-   "hook_reason": "OpenAI突发重磅新品，科技圈顶流消息",
+   "score": 75.7,
+   "angle": "从技术迭代视角解读GPT-6.1能力突破，分析其对AI行业格局的影响",
+   "hook_reason": "OpenAI重磅发布GPT-6.1，AI军备竞赛再升级",
    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
    "track": "科技",
-   "breaking": true,
+   "breaking": false,
    "event_id": "e:gpt61terra"
   },
   "blgkc": {
@@ -13079,8 +13081,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:中国地震台网正式测定10月27日04时05分在河北唐山市古冶区北纬3975"
+  },
+  "ai伪人广告正在集体霸凌人类": {
+   "key": "ai伪人广告正在集体霸凌人类",
+   "title": "AI伪人广告正在集体“霸凌”人类",
+   "rating": "A",
+   "score": 81.05,
+   "angle": "从技术滥用与伦理边界切入，探讨AI广告合规治理",
+   "hook_reason": "AI虚拟人被广告滥用引发公众反感，情绪共鸣强",
+   "url": "https://www.baidu.com/s?wd=AI%E4%BC%AA%E4%BA%BA%E5%B9%BF%E5%91%8A%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E2%80%9C%E9%9C%B8%E5%87%8C%E2%80%9D%E4%BA%BA%E7%B1%BB&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:ai伪人广告正在集体霸凌人类"
+  },
+  "为什么手机越卖越少越卖越贵": {
+   "key": "为什么手机越卖越少越卖越贵",
+   "title": "为什么手机越卖越少越卖越贵",
+   "rating": "A",
+   "score": 80.8,
+   "angle": "从换机周期拉长、高端化策略、供应链成本三维度拆解涨价真相",
+   "hook_reason": "人人都有手机，戳中'买不起'的共鸣和焦虑",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%8B%E6%9C%BA%E8%B6%8A%E5%8D%96%E8%B6%8A%E5%B0%91%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:手机价格在涨掏钱的理由没涨"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
