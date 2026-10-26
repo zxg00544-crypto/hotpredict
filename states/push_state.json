@@ -11177,19 +11177,6 @@
    "batch_window": 21
   },
   {
-   "key": "150万开无烟酒吧倒闭当事人回应",
-   "title": "150万开无烟酒吧倒闭 当事人回应",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从新概念创业翻车切入，拆解无烟酒吧商业模式漏洞，引发普通人对辞职创业的警惕与共鸣",
-   "hook_reason": "创业血亏150万，\"无烟\"概念翻车，普通人看完直呼不敢辞职了",
-   "url": "https://www.baidu.com/s?wd=150%E4%B8%87%E5%BC%80%E6%97%A0%E7%83%9F%E9%85%92%E5%90%A7%E5%80%92%E9%97%AD+%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:150万开无烟酒吧倒闭当事人回应",
-   "batch_window": 22
-  },
-  {
    "key": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
    "title": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
    "rating": "A",
@@ -11214,6 +11201,45 @@
    "breaking": true,
    "event_id": "e:anthropics1",
    "batch_window": 22
+  },
+  {
+   "key": "人造古镇为啥集体哑火了",
+   "title": "人造古镇为啥集体哑火了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从游客体验崩塌切入，盘点烂尾古镇案例，揭示文旅地产资金链危机",
+   "hook_reason": "人造古镇投资泡沫破灭，游客用脚投票，折射文旅经济困局",
+   "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E9%80%A0%E5%8F%A4%E9%95%87%E4%B8%BA%E5%95%A5%E9%9B%86%E4%BD%93%E5%93%91%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:人造古镇为啥集体哑火了",
+   "batch_window": 23
+  },
+  {
+   "key": "fixingtoolcallaccuracyinvllm",
+   "title": "Fixing Tool-Call Accuracy in vLLM",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "vLLM官方修复工具调用准确率的技术复盘，对AI工程化落地的实战参考价值",
+   "hook_reason": "vLLM登顶AI推理框架，工具调用准确率问题直击开发者痛点",
+   "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:fixingtoolcallaccuracyinvllm",
+   "batch_window": 23
+  },
+  {
+   "key": "胖东来5名员工遭顾客打骂获补偿",
+   "title": "胖东来5名员工遭顾客打骂获补偿",
+   "rating": "A",
+   "score": 52.2,
+   "angle": "从胖东来快速赔付、保护员工的处理方式，切入企业对员工尊严的重视，引发打工人共情与转发",
+   "hook_reason": "打工人共鸣+知名企业正面回应，冲突+治愈双重情绪",
+   "url": "https://www.toutiao.com/trending/7700921931574362674/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:胖东来5名员工遭顾客打骂获补偿",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -12045,7 +12071,8 @@
   "overgrownwhenplantsinvadeyourabandonedtabs",
   "thestateofcontextengineering",
   "americaswumaoinsidepolymarketspa9c131995",
-  "deepseeksearchandfetch075per10003d638f39"
+  "deepseeksearchandfetch075per10003d638f39",
+  "150万开无烟酒吧倒闭当事人回应"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12813,7 +12840,8 @@
   "e:overgrownwhenplantsinvadeyourabandonedta": "Overgrown, when plants invade your abandoned tabs",
   "e:thestateofcontextengineering": "The State of Context Engineering",
   "e:americaswumaoinsidepolymarketspaidquoter": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
-  "e:deepseeksearchandfetch075per1000successf": "DeepSeek search and fetch – $0.75 per 1000 successful requests"
+  "e:deepseeksearchandfetch075per1000successf": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+  "e:150万开无烟酒吧倒闭当事人回应": "150万开无烟酒吧倒闭 当事人回应"
  },
  "a_seen": {
   "特朗普我认为乌克兰和俄罗斯都想达成协议": {
@@ -13547,8 +13575,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:anthropics1"
+  },
+  "人造古镇为啥集体哑火了": {
+   "key": "人造古镇为啥集体哑火了",
+   "title": "人造古镇为啥集体哑火了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从游客体验崩塌切入，盘点烂尾古镇案例，揭示文旅地产资金链危机",
+   "hook_reason": "人造古镇投资泡沫破灭，游客用脚投票，折射文旅经济困局",
+   "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E9%80%A0%E5%8F%A4%E9%95%87%E4%B8%BA%E5%95%A5%E9%9B%86%E4%BD%93%E5%93%91%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:人造古镇为啥集体哑火了"
+  },
+  "fixingtoolcallaccuracyinvllm": {
+   "key": "fixingtoolcallaccuracyinvllm",
+   "title": "Fixing Tool-Call Accuracy in vLLM",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "vLLM官方修复工具调用准确率的技术复盘，对AI工程化落地的实战参考价值",
+   "hook_reason": "vLLM登顶AI推理框架，工具调用准确率问题直击开发者痛点",
+   "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:fixingtoolcallaccuracyinvllm"
+  },
+  "胖东来5名员工遭顾客打骂获补偿": {
+   "key": "胖东来5名员工遭顾客打骂获补偿",
+   "title": "胖东来5名员工遭顾客打骂获补偿",
+   "rating": "A",
+   "score": 52.2,
+   "angle": "从胖东来快速赔付、保护员工的处理方式，切入企业对员工尊严的重视，引发打工人共情与转发",
+   "hook_reason": "打工人共鸣+知名企业正面回应，冲突+治愈双重情绪",
+   "url": "https://www.toutiao.com/trending/7700921931574362674/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:胖东来5名员工遭顾客打骂获补偿"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
