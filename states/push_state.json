@@ -10930,29 +10930,29 @@
    "batch_window": 7
   },
   {
+   "key": "住房支持生育还有几张牌",
+   "title": "住房支持生育还有几张牌",
+   "rating": "A",
+   "score": 88.05,
+   "angle": "从年轻人视角拆解：高房价如何吃掉生育意愿，政策牌还能打几张",
+   "hook_reason": "住房+生育双民生痛点，年轻人焦虑共鸣强",
+   "url": "https://www.toutiao.com/trending/7700579158635580982/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:住房支持生育还有几张牌",
+   "batch_window": 8
+  },
+  {
    "key": "国乒获奖组委会错放日本国旗",
    "title": "国乒获奖组委会错放日本国旗",
    "rating": "A",
-   "score": 92.0,
-   "angle": "从",
-   "hook_reason": "国乒颁奖台上日本国旗刺眼出现，民族情绪瞬间引爆",
+   "score": 81.8,
+   "angle": "从国乒夺冠喜悦切入，对比组委会低级失误，引发对赛事专业性与民族情绪的讨论",
+   "hook_reason": "国乒领奖台国旗出错，民族情绪被点燃，谁会不关心？",
    "url": "https://www.toutiao.com/trending/7700465091720445988/",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:国乒获奖组委会错放日本国旗",
-   "batch_window": 8
-  },
-  {
-   "key": "毛不易如何公关才能应对这次的婚礼致辞事件",
-   "title": "毛不易如何公关才能应对这次的「婚礼致辞」事件？",
-   "rating": "A",
-   "score": 43.6,
-   "angle": "以毛不易婚礼致辞争议为切口，深度拆解顶流明星舆论危机公关的得失与可借鉴策略",
-   "hook_reason": "顶流歌手婚礼致辞翻车，公关危机如何化解引发全民吃瓜讨论",
-   "url": "https://www.zhihu.com/question/2097762495922546642",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:毛不易如何公关才能应对这次的婚礼致辞事件",
    "batch_window": 8
   }
  ],
@@ -12804,29 +12804,29 @@
    "breaking": false,
    "event_id": "e:openaiandanthropiccuttheirllmpricesbyupt"
   },
+  "住房支持生育还有几张牌": {
+   "key": "住房支持生育还有几张牌",
+   "title": "住房支持生育还有几张牌",
+   "rating": "A",
+   "score": 88.05,
+   "angle": "从年轻人视角拆解：高房价如何吃掉生育意愿，政策牌还能打几张",
+   "hook_reason": "住房+生育双民生痛点，年轻人焦虑共鸣强",
+   "url": "https://www.toutiao.com/trending/7700579158635580982/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:住房支持生育还有几张牌"
+  },
   "国乒获奖组委会错放日本国旗": {
    "key": "国乒获奖组委会错放日本国旗",
    "title": "国乒获奖组委会错放日本国旗",
    "rating": "A",
-   "score": 92.0,
-   "angle": "从",
-   "hook_reason": "国乒颁奖台上日本国旗刺眼出现，民族情绪瞬间引爆",
+   "score": 81.8,
+   "angle": "从国乒夺冠喜悦切入，对比组委会低级失误，引发对赛事专业性与民族情绪的讨论",
+   "hook_reason": "国乒领奖台国旗出错，民族情绪被点燃，谁会不关心？",
    "url": "https://www.toutiao.com/trending/7700465091720445988/",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:国乒获奖组委会错放日本国旗"
-  },
-  "毛不易如何公关才能应对这次的婚礼致辞事件": {
-   "key": "毛不易如何公关才能应对这次的婚礼致辞事件",
-   "title": "毛不易如何公关才能应对这次的「婚礼致辞」事件？",
-   "rating": "A",
-   "score": 43.6,
-   "angle": "以毛不易婚礼致辞争议为切口，深度拆解顶流明星舆论危机公关的得失与可借鉴策略",
-   "hook_reason": "顶流歌手婚礼致辞翻车，公关危机如何化解引发全民吃瓜讨论",
-   "url": "https://www.zhihu.com/question/2097762495922546642",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:毛不易如何公关才能应对这次的婚礼致辞事件"
   }
  },
  "breaking_count": 10,
