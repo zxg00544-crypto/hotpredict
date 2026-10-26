@@ -10943,19 +10943,6 @@
    "batch_window": 8
   },
   {
-   "key": "武契奇承认败选",
-   "title": "武契奇承认败选",
-   "rating": "A",
-   "score": 100.0,
-   "angle": "从地缘政治与民主实验视角切入，解读武契奇和平交权对塞尔维亚及巴尔干地区政治走向的影响",
-   "hook_reason": "塞尔维亚总统承认败选，欧洲政局突发震动，重大国际政治事件",
-   "url": "https://search.bilibili.com/all?keyword=武契奇承认败选",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:武契奇承认败选",
-   "batch_window": 9
-  },
-  {
    "key": "如何看待周星驰功夫女足在烂番茄开分0分",
    "title": "如何看待周星驰《功夫女足》在烂番茄开分 0 分？",
    "rating": "A",
@@ -10993,6 +10980,32 @@
    "breaking": true,
    "event_id": "e:ai生成视频已经能逃过人脸识别系统",
    "batch_window": 9
+  },
+  {
+   "key": "电动自行车保暖与安全如何两全",
+   "title": "电动自行车保暖与安全如何两全",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从冬季骑行人群的保暖需求出发，结合安全事故案例，探讨行业规范与用户需求平衡",
+   "hook_reason": "冬季民生痛点，电动车用户共鸣强，话题有温度",
+   "url": "https://www.toutiao.com/trending/7700056130378432554/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:电动自行车保暖与安全如何两全",
+   "batch_window": 10
+  },
+  {
+   "key": "港股大模型双雄双双下跌minimaxw00100hk跌超10智",
+   "title": "港股大模型“双雄”双双下跌，MINIMAX-W(00100.HK)跌超10%，智",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "分析MINIMAX等AI公司股价波动背后的商业化焦虑，映射资本对大模型盈利路径的重新评估",
+   "hook_reason": "港股AI龙头暴跌10%，股民和AI从业者高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwpfmx9314579.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:港股大模型双雄双双下跌minimaxw00100hk跌超10智",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -11811,7 +11824,8 @@
   "丈母娘也开始抢ai人了",
   "serbiasvucicconcedeselectiondefee34b0b6e",
   "openaiandanthropiccuttheirllmpri0107fc46",
-  "住房支持生育还有几张牌"
+  "住房支持生育还有几张牌",
+  "武契奇承认败选"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12566,7 +12580,8 @@
   "e:丈母娘也开始抢ai人了": "丈母娘也开始抢AI人了",
   "e:serbiasvucicconcedeselectiondefeatinhist": "Serbia's Vucic concedes election defeat in historic win for student movement",
   "e:openaiandanthropiccuttheirllmpricesbyupt": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-  "e:住房支持生育还有几张牌": "住房支持生育还有几张牌"
+  "e:住房支持生育还有几张牌": "住房支持生育还有几张牌",
+  "e:武契奇承认败选": "武契奇承认败选"
  },
  "a_seen": {
   "特朗普我认为乌克兰和俄罗斯都想达成协议": {
@@ -12916,8 +12931,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:ai生成视频已经能逃过人脸识别系统"
+  },
+  "电动自行车保暖与安全如何两全": {
+   "key": "电动自行车保暖与安全如何两全",
+   "title": "电动自行车保暖与安全如何两全",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从冬季骑行人群的保暖需求出发，结合安全事故案例，探讨行业规范与用户需求平衡",
+   "hook_reason": "冬季民生痛点，电动车用户共鸣强，话题有温度",
+   "url": "https://www.toutiao.com/trending/7700056130378432554/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:电动自行车保暖与安全如何两全"
+  },
+  "港股大模型双雄双双下跌minimaxw00100hk跌超10智": {
+   "key": "港股大模型双雄双双下跌minimaxw00100hk跌超10智",
+   "title": "港股大模型“双雄”双双下跌，MINIMAX-W(00100.HK)跌超10%，智",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "分析MINIMAX等AI公司股价波动背后的商业化焦虑，映射资本对大模型盈利路径的重新评估",
+   "hook_reason": "港股AI龙头暴跌10%，股民和AI从业者高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwpfmx9314579.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:港股大模型双雄双双下跌minimaxw00100hk跌超10智"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
