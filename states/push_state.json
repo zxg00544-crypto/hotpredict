@@ -10930,17 +10930,30 @@
    "batch_window": 7
   },
   {
-   "key": "openaiandanthropiccuttheirllmpri0107fc46",
-   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "key": "国乒获奖组委会错放日本国旗",
+   "title": "国乒获奖组委会错放日本国旗",
    "rating": "A",
-   "score": 83.5,
-   "angle": "拆解OpenAI/Anthropic降价背后的算力成本下降逻辑及中小厂商生存压力",
-   "hook_reason": "AI巨头开打价格战，80%降价意味着什么？",
-   "url": "https://minimaxir.com/2026/10/cheap-llms/",
-   "track": "科技",
-   "breaking": false,
-   "event_id": "e:openaiandanthropiccuttheirllmpricesbyupt",
-   "batch_window": 7
+   "score": 92.0,
+   "angle": "从",
+   "hook_reason": "国乒颁奖台上日本国旗刺眼出现，民族情绪瞬间引爆",
+   "url": "https://www.toutiao.com/trending/7700465091720445988/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:国乒获奖组委会错放日本国旗",
+   "batch_window": 8
+  },
+  {
+   "key": "毛不易如何公关才能应对这次的婚礼致辞事件",
+   "title": "毛不易如何公关才能应对这次的「婚礼致辞」事件？",
+   "rating": "A",
+   "score": 43.6,
+   "angle": "以毛不易婚礼致辞争议为切口，深度拆解顶流明星舆论危机公关的得失与可借鉴策略",
+   "hook_reason": "顶流歌手婚礼致辞翻车，公关危机如何化解引发全民吃瓜讨论",
+   "url": "https://www.zhihu.com/question/2097762495922546642",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:毛不易如何公关才能应对这次的婚礼致辞事件",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -11757,7 +11770,8 @@
   "generativeaiscandalhascometooneob836d96a",
   "cftcstaffweretoldtoretractanalysf6b05680",
   "丈母娘也开始抢ai人了",
-  "serbiasvucicconcedeselectiondefee34b0b6e"
+  "serbiasvucicconcedeselectiondefee34b0b6e",
+  "openaiandanthropiccuttheirllmpri0107fc46"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12510,7 +12524,8 @@
   "e:generativeaiscandalhascometooneofnikonsc": "Generative AI scandal has come to one of Nikon's competitions",
   "e:cftcstaffweretoldtoretractanalysisofsusp": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
   "e:丈母娘也开始抢ai人了": "丈母娘也开始抢AI人了",
-  "e:serbiasvucicconcedeselectiondefeatinhist": "Serbia's Vucic concedes election defeat in historic win for student movement"
+  "e:serbiasvucicconcedeselectiondefeatinhist": "Serbia's Vucic concedes election defeat in historic win for student movement",
+  "e:openaiandanthropiccuttheirllmpricesbyupt": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?"
  },
  "a_seen": {
   "特朗普我认为乌克兰和俄罗斯都想达成协议": {
@@ -12788,8 +12803,32 @@
    "track": "科技",
    "breaking": false,
    "event_id": "e:openaiandanthropiccuttheirllmpricesbyupt"
+  },
+  "国乒获奖组委会错放日本国旗": {
+   "key": "国乒获奖组委会错放日本国旗",
+   "title": "国乒获奖组委会错放日本国旗",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从",
+   "hook_reason": "国乒颁奖台上日本国旗刺眼出现，民族情绪瞬间引爆",
+   "url": "https://www.toutiao.com/trending/7700465091720445988/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:国乒获奖组委会错放日本国旗"
+  },
+  "毛不易如何公关才能应对这次的婚礼致辞事件": {
+   "key": "毛不易如何公关才能应对这次的婚礼致辞事件",
+   "title": "毛不易如何公关才能应对这次的「婚礼致辞」事件？",
+   "rating": "A",
+   "score": 43.6,
+   "angle": "以毛不易婚礼致辞争议为切口，深度拆解顶流明星舆论危机公关的得失与可借鉴策略",
+   "hook_reason": "顶流歌手婚礼致辞翻车，公关危机如何化解引发全民吃瓜讨论",
+   "url": "https://www.zhihu.com/question/2097762495922546642",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:毛不易如何公关才能应对这次的婚礼致辞事件"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
