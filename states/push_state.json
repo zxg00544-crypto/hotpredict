@@ -6705,19 +6705,6 @@
    "batch_window": 18
   },
   {
-   "key": "2026微博v影响力大会奖项揭晓",
-   "title": "2026微博V影响力大会奖项揭晓",
-   "rating": "A",
-   "score": 78.45,
-   "angle": "盘点本届V影响力大会获奖名单，分析新兴创作者崛起与头部账号格局变化",
-   "hook_reason": "微博V影响力榜单揭晓，谁上谁下引发粉丝围观与争议",
-   "url": "https://weibo.com/7762107285/Rn6aGb2mn",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:2026微博v影响力大会奖项揭晓",
-   "batch_window": 19
-  },
-  {
    "key": "全球人形机器人收入前五全是中国企业前8个月深圳机器人出口激增超1200",
    "title": "全球人形机器人收入前五全是中国企业 前8个月深圳机器人出口激增超1200%",
    "rating": "A",
@@ -11240,6 +11227,32 @@
    "breaking": true,
    "event_id": "e:地缘政治紧张令黄金看涨逻辑复杂化",
    "batch_window": 2
+  },
+  {
+   "key": "gpt61terra",
+   "title": "GPT-6.1 Terra",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "解读GPT-6.1 Terra技术突破，对比竞品格局变化，预判AI产业洗牌",
+   "hook_reason": "GPT-6.1 Terra重磅发布，AI圈大地震，用户点击欲强",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gpt61terra",
+   "batch_window": 3
+  },
+  {
+   "key": "blgkc",
+   "title": "BLG KC",
+   "rating": "A",
+   "score": 44.66,
+   "angle": "BLG KC：中国电竞新势力崛起，从俱乐部到文化符号的跃迁",
+   "hook_reason": "国产战队登顶热榜，电竞话题爆发，年轻用户关注度高",
+   "url": "https://search.bilibili.com/all?keyword=BLG KC",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:blgkc",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -12085,7 +12098,8 @@
   "被张雪扔下水县委书记拿到大结果",
   "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
   "androidappsrunningnativeonmacos",
-  "anthropics1"
+  "anthropics1",
+  "2026微博v影响力大会奖项揭晓"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12867,7 +12881,8 @@
   "e:被张雪扔下水县委书记拿到大结果": "被张雪扔下水县委书记拿到大结果",
   "e:不刷牙睡觉vs不刷牙吃早餐哪个更伤身": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
   "e:androidappsrunningnativeonmacos": "Android apps running native on macOS",
-  "e:anthropics1": "Anthropic S-1"
+  "e:anthropics1": "Anthropic S-1",
+  "e:2026微博v影响力大会奖项揭晓": "2026微博V影响力大会奖项揭晓"
  },
  "a_seen": {
   "女子驾车过高架车顶被风筝线割破": {
@@ -13001,8 +13016,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:地缘政治紧张令黄金看涨逻辑复杂化"
+  },
+  "gpt61terra": {
+   "key": "gpt61terra",
+   "title": "GPT-6.1 Terra",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "解读GPT-6.1 Terra技术突破，对比竞品格局变化，预判AI产业洗牌",
+   "hook_reason": "GPT-6.1 Terra重磅发布，AI圈大地震，用户点击欲强",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gpt61terra"
+  },
+  "blgkc": {
+   "key": "blgkc",
+   "title": "BLG KC",
+   "rating": "A",
+   "score": 44.66,
+   "angle": "BLG KC：中国电竞新势力崛起，从俱乐部到文化符号的跃迁",
+   "hook_reason": "国产战队登顶热榜，电竞话题爆发，年轻用户关注度高",
+   "url": "https://search.bilibili.com/all?keyword=BLG KC",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:blgkc"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
