@@ -10930,19 +10930,6 @@
    "batch_window": 7
   },
   {
-   "key": "国乒获奖组委会错放日本国旗",
-   "title": "国乒获奖组委会错放日本国旗",
-   "rating": "A",
-   "score": 81.8,
-   "angle": "从国乒夺冠喜悦切入，对比组委会低级失误，引发对赛事专业性与民族情绪的讨论",
-   "hook_reason": "国乒领奖台国旗出错，民族情绪被点燃，谁会不关心？",
-   "url": "https://www.toutiao.com/trending/7700465091720445988/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:国乒获奖组委会错放日本国旗",
-   "batch_window": 8
-  },
-  {
    "key": "如何看待周星驰功夫女足在烂番茄开分0分",
    "title": "如何看待周星驰《功夫女足》在烂番茄开分 0 分？",
    "rating": "A",
@@ -11006,6 +10993,45 @@
    "breaking": true,
    "event_id": "e:港股大模型双雄双双下跌minimaxw00100hk跌超10智",
    "batch_window": 10
+  },
+  {
+   "key": "去不去养老院老人子女谁说了算",
+   "title": "去不去养老院 老人子女谁说了算",
+   "rating": "A",
+   "score": 95.5,
+   "angle": "从'话语权'切入，探讨老年尊严与子女孝道的边界冲突",
+   "hook_reason": "代际权力博弈，触及每个人都会老的集体焦虑",
+   "url": "https://www.toutiao.com/trending/7700582916480909322/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:去不去养老院老人子女谁说了算",
+   "batch_window": 11
+  },
+  {
+   "key": "新能源汽车的八年大考来了",
+   "title": "新能源汽车的“八年大考”来了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解读",
+   "hook_reason": "新能源汽车行业关键节点，直接影响消费者购车决策和从业者利益",
+   "url": "https://www.toutiao.com/trending/7700598240630161450/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:新能源汽车的八年大考来了",
+   "batch_window": 11
+  },
+  {
+   "key": "小鹏汽车回应车撞报废安全气囊未弹出",
+   "title": "小鹏汽车回应车撞报废安全气囊未弹出",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从消费者安全角度切入：气囊为何不弹？技术故障还是设计缺陷？责任在车企还是路况？",
+   "hook_reason": "气囊不弹出关乎生死，车主群体天然共鸣",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwpmtu2463394.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:小鹏汽车回应车撞报废安全气囊未弹出",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -11825,7 +11851,8 @@
   "serbiasvucicconcedeselectiondefee34b0b6e",
   "openaiandanthropiccuttheirllmpri0107fc46",
   "住房支持生育还有几张牌",
-  "武契奇承认败选"
+  "武契奇承认败选",
+  "国乒获奖组委会错放日本国旗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12581,7 +12608,8 @@
   "e:serbiasvucicconcedeselectiondefeatinhist": "Serbia's Vucic concedes election defeat in historic win for student movement",
   "e:openaiandanthropiccuttheirllmpricesbyupt": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
   "e:住房支持生育还有几张牌": "住房支持生育还有几张牌",
-  "e:武契奇承认败选": "武契奇承认败选"
+  "e:武契奇承认败选": "武契奇承认败选",
+  "e:国乒获奖组委会错放日本国旗": "国乒获奖组委会错放日本国旗"
  },
  "a_seen": {
   "特朗普我认为乌克兰和俄罗斯都想达成协议": {
@@ -12955,8 +12983,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:港股大模型双雄双双下跌minimaxw00100hk跌超10智"
+  },
+  "去不去养老院老人子女谁说了算": {
+   "key": "去不去养老院老人子女谁说了算",
+   "title": "去不去养老院 老人子女谁说了算",
+   "rating": "A",
+   "score": 95.5,
+   "angle": "从'话语权'切入，探讨老年尊严与子女孝道的边界冲突",
+   "hook_reason": "代际权力博弈，触及每个人都会老的集体焦虑",
+   "url": "https://www.toutiao.com/trending/7700582916480909322/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:去不去养老院老人子女谁说了算"
+  },
+  "新能源汽车的八年大考来了": {
+   "key": "新能源汽车的八年大考来了",
+   "title": "新能源汽车的“八年大考”来了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解读",
+   "hook_reason": "新能源汽车行业关键节点，直接影响消费者购车决策和从业者利益",
+   "url": "https://www.toutiao.com/trending/7700598240630161450/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:新能源汽车的八年大考来了"
+  },
+  "固态电池概念震荡回升上海洗霸触及涨停": {
+   "key": "固态电池概念震荡回升上海洗霸触及涨停",
+   "title": "固态电池概念震荡回升 上海洗霸触及涨停",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "固态电池量产倒计时，哪些A股公司最先吃到技术红利？",
+   "hook_reason": "固态电池概念股涨停，新能源技术突破引发市场疯狂",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwpmtu2460558.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:固态电池逆市大涨多股涨停"
+  },
+  "小鹏汽车回应车撞报废安全气囊未弹出": {
+   "key": "小鹏汽车回应车撞报废安全气囊未弹出",
+   "title": "小鹏汽车回应车撞报废安全气囊未弹出",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从消费者安全角度切入：气囊为何不弹？技术故障还是设计缺陷？责任在车企还是路况？",
+   "hook_reason": "气囊不弹出关乎生死，车主群体天然共鸣",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwpmtu2463394.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:小鹏汽车回应车撞报废安全气囊未弹出"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
