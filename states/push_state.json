@@ -7082,19 +7082,6 @@
    "batch_window": 14
   },
   {
-   "key": "deepseeksearchandfetch075per10003d638f39",
-   "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-   "rating": "A",
-   "score": 78.5,
-   "angle": "DeepSeek定价策略解析：0.75美元/千次如何重塑AI搜索竞争格局，对比OpenAI/Gemini价格优势",
-   "hook_reason": "DeepSeek价格屠刀，每千次调用仅0.75美元，直接冲击AI搜索市场",
-   "url": "https://api-docs.deepseek.com/guides/search/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:deepseeksearchandfetch075per1000successf",
-   "batch_window": 16
-  },
-  {
    "key": "swisse抗糖丸被检出铅超标官方客服相关批次未进入中国销售",
    "title": "Swisse抗糖丸被检出铅超标，官方客服：相关批次未进入中国销售",
    "rating": "A",
@@ -11188,6 +11175,45 @@
    "breaking": true,
    "event_id": "e:县委书记被扔下水舆论为何一片叫好",
    "batch_window": 21
+  },
+  {
+   "key": "150万开无烟酒吧倒闭当事人回应",
+   "title": "150万开无烟酒吧倒闭 当事人回应",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从新概念创业翻车切入，拆解无烟酒吧商业模式漏洞，引发普通人对辞职创业的警惕与共鸣",
+   "hook_reason": "创业血亏150万，\"无烟\"概念翻车，普通人看完直呼不敢辞职了",
+   "url": "https://www.baidu.com/s?wd=150%E4%B8%87%E5%BC%80%E6%97%A0%E7%83%9F%E9%85%92%E5%90%A7%E5%80%92%E9%97%AD+%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:150万开无烟酒吧倒闭当事人回应",
+   "batch_window": 22
+  },
+  {
+   "key": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
+   "title": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "生活健康科普角度，用悬念式对比切入，解答日常困惑并给出权威建议",
+   "hook_reason": "人人都有刷牙经历，二选一引发好奇与争议，关乎健康人人关心",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E5%88%B7%E7%89%99%E7%9D%A1%E8%A7%89vs%E4%B8%8D%E5%88%B7%E7%89%99%E5%90%83%E6%97%A9%E9%A4%90%E5%93%AA%E4%B8%AA%E6%9B%B4%E4%BC%A4%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
+   "batch_window": 22
+  },
+  {
+   "key": "anthropics1",
+   "title": "Anthropic S-1",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "A：Anthropic AI公司（Claude母公司）提交S-1拟IPO，估值或$24B，AI赛道标志性事件，增长G=100.0(≥80)热度=367.0(≥70)；新话题热度=367.0(≥70)",
+   "hook_reason": "Anthropic Claude母公司SEC提交S-1（1h前），AI独角兽即将IPO",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropics1",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -12018,7 +12044,8 @@
   "如何看待周星驰功夫女足在烂番茄开分0分",
   "overgrownwhenplantsinvadeyourabandonedtabs",
   "thestateofcontextengineering",
-  "americaswumaoinsidepolymarketspa9c131995"
+  "americaswumaoinsidepolymarketspa9c131995",
+  "deepseeksearchandfetch075per10003d638f39"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12785,7 +12812,8 @@
   "e:如何看待周星驰功夫女足在烂番茄开分0分": "如何看待周星驰《功夫女足》在烂番茄开分 0 分？",
   "e:overgrownwhenplantsinvadeyourabandonedta": "Overgrown, when plants invade your abandoned tabs",
   "e:thestateofcontextengineering": "The State of Context Engineering",
-  "e:americaswumaoinsidepolymarketspaidquoter": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program"
+  "e:americaswumaoinsidepolymarketspaidquoter": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
+  "e:deepseeksearchandfetch075per1000successf": "DeepSeek search and fetch – $0.75 per 1000 successful requests"
  },
  "a_seen": {
   "特朗普我认为乌克兰和俄罗斯都想达成协议": {
@@ -13483,8 +13511,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:县委书记被扔下水舆论为何一片叫好"
+  },
+  "150万开无烟酒吧倒闭当事人回应": {
+   "key": "150万开无烟酒吧倒闭当事人回应",
+   "title": "150万开无烟酒吧倒闭 当事人回应",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从新概念创业翻车切入，拆解无烟酒吧商业模式漏洞，引发普通人对辞职创业的警惕与共鸣",
+   "hook_reason": "创业血亏150万，\"无烟\"概念翻车，普通人看完直呼不敢辞职了",
+   "url": "https://www.baidu.com/s?wd=150%E4%B8%87%E5%BC%80%E6%97%A0%E7%83%9F%E9%85%92%E5%90%A7%E5%80%92%E9%97%AD+%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:150万开无烟酒吧倒闭当事人回应"
+  },
+  "不刷牙睡觉vs不刷牙吃早餐哪个更伤身": {
+   "key": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
+   "title": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "生活健康科普角度，用悬念式对比切入，解答日常困惑并给出权威建议",
+   "hook_reason": "人人都有刷牙经历，二选一引发好奇与争议，关乎健康人人关心",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E5%88%B7%E7%89%99%E7%9D%A1%E8%A7%89vs%E4%B8%8D%E5%88%B7%E7%89%99%E5%90%83%E6%97%A9%E9%A4%90%E5%93%AA%E4%B8%AA%E6%9B%B4%E4%BC%A4%E8%BA%AB&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:不刷牙睡觉vs不刷牙吃早餐哪个更伤身"
+  },
+  "anthropics1": {
+   "key": "anthropics1",
+   "title": "Anthropic S-1",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "A：Anthropic AI公司（Claude母公司）提交S-1拟IPO，估值或$24B，AI赛道标志性事件，增长G=100.0(≥80)热度=367.0(≥70)；新话题热度=367.0(≥70)",
+   "hook_reason": "Anthropic Claude母公司SEC提交S-1（1h前），AI独角兽即将IPO",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropics1"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
