@@ -10930,19 +10930,6 @@
    "batch_window": 7
   },
   {
-   "key": "住房支持生育还有几张牌",
-   "title": "住房支持生育还有几张牌",
-   "rating": "A",
-   "score": 88.05,
-   "angle": "从年轻人视角拆解：高房价如何吃掉生育意愿，政策牌还能打几张",
-   "hook_reason": "住房+生育双民生痛点，年轻人焦虑共鸣强",
-   "url": "https://www.toutiao.com/trending/7700579158635580982/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:住房支持生育还有几张牌",
-   "batch_window": 8
-  },
-  {
    "key": "国乒获奖组委会错放日本国旗",
    "title": "国乒获奖组委会错放日本国旗",
    "rating": "A",
@@ -10954,6 +10941,58 @@
    "breaking": true,
    "event_id": "e:国乒获奖组委会错放日本国旗",
    "batch_window": 8
+  },
+  {
+   "key": "武契奇承认败选",
+   "title": "武契奇承认败选",
+   "rating": "A",
+   "score": 100.0,
+   "angle": "从地缘政治与民主实验视角切入，解读武契奇和平交权对塞尔维亚及巴尔干地区政治走向的影响",
+   "hook_reason": "塞尔维亚总统承认败选，欧洲政局突发震动，重大国际政治事件",
+   "url": "https://search.bilibili.com/all?keyword=武契奇承认败选",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:武契奇承认败选",
+   "batch_window": 9
+  },
+  {
+   "key": "如何看待周星驰功夫女足在烂番茄开分0分",
+   "title": "如何看待周星驰《功夫女足》在烂番茄开分 0 分？",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "以烂番茄0分为切入点，剖析周星驰从'情怀符号'到'被审判对象'的转变，引爆粉丝与专业观众的立场对抗",
+   "hook_reason": "周星驰情怀崩塌vs专业差评，粉丝vs影评人阵营撕裂",
+   "url": "https://www.zhihu.com/question/2097377496731853442",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:如何看待周星驰功夫女足在烂番茄开分0分",
+   "batch_window": 9
+  },
+  {
+   "key": "fzeroxonnintendo3ds",
+   "title": "F-Zero X on Nintendo 3DS",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "任天堂复刻经典IP，怀旧游戏市场的下一个增长点",
+   "hook_reason": "经典IP回归+登顶爆款，情怀玩家必点",
+   "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:fzeroxonnintendo3ds",
+   "batch_window": 9
+  },
+  {
+   "key": "ai生成视频已经能逃过人脸识别系统",
+   "title": "AI生成视频已经能逃过人脸识别系统",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "AI生成视频已能骗过人脸识别系统，安全技术面临严峻考验，AI滥用边界在哪里？",
+   "hook_reason": "AI造假突破人脸识别防线，安全焦虑+技术震惊双驱动",
+   "url": "https://www.toutiao.com/trending/7700611070783881755/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai生成视频已经能逃过人脸识别系统",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -11771,7 +11810,8 @@
   "cftcstaffweretoldtoretractanalysf6b05680",
   "丈母娘也开始抢ai人了",
   "serbiasvucicconcedeselectiondefee34b0b6e",
-  "openaiandanthropiccuttheirllmpri0107fc46"
+  "openaiandanthropiccuttheirllmpri0107fc46",
+  "住房支持生育还有几张牌"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12525,7 +12565,8 @@
   "e:cftcstaffweretoldtoretractanalysisofsusp": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
   "e:丈母娘也开始抢ai人了": "丈母娘也开始抢AI人了",
   "e:serbiasvucicconcedeselectiondefeatinhist": "Serbia's Vucic concedes election defeat in historic win for student movement",
-  "e:openaiandanthropiccuttheirllmpricesbyupt": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?"
+  "e:openaiandanthropiccuttheirllmpricesbyupt": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+  "e:住房支持生育还有几张牌": "住房支持生育还有几张牌"
  },
  "a_seen": {
   "特朗普我认为乌克兰和俄罗斯都想达成协议": {
@@ -12827,8 +12868,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:国乒获奖组委会错放日本国旗"
+  },
+  "武契奇承认败选": {
+   "key": "武契奇承认败选",
+   "title": "武契奇承认败选",
+   "rating": "A",
+   "score": 100.0,
+   "angle": "从地缘政治与民主实验视角切入，解读武契奇和平交权对塞尔维亚及巴尔干地区政治走向的影响",
+   "hook_reason": "塞尔维亚总统承认败选，欧洲政局突发震动，重大国际政治事件",
+   "url": "https://search.bilibili.com/all?keyword=武契奇承认败选",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:武契奇承认败选"
+  },
+  "如何看待周星驰功夫女足在烂番茄开分0分": {
+   "key": "如何看待周星驰功夫女足在烂番茄开分0分",
+   "title": "如何看待周星驰《功夫女足》在烂番茄开分 0 分？",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "以烂番茄0分为切入点，剖析周星驰从'情怀符号'到'被审判对象'的转变，引爆粉丝与专业观众的立场对抗",
+   "hook_reason": "周星驰情怀崩塌vs专业差评，粉丝vs影评人阵营撕裂",
+   "url": "https://www.zhihu.com/question/2097377496731853442",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:如何看待周星驰功夫女足在烂番茄开分0分"
+  },
+  "fzeroxonnintendo3ds": {
+   "key": "fzeroxonnintendo3ds",
+   "title": "F-Zero X on Nintendo 3DS",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "任天堂复刻经典IP，怀旧游戏市场的下一个增长点",
+   "hook_reason": "经典IP回归+登顶爆款，情怀玩家必点",
+   "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:fzeroxonnintendo3ds"
+  },
+  "ai生成视频已经能逃过人脸识别系统": {
+   "key": "ai生成视频已经能逃过人脸识别系统",
+   "title": "AI生成视频已经能逃过人脸识别系统",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "AI生成视频已能骗过人脸识别系统，安全技术面临严峻考验，AI滥用边界在哪里？",
+   "hook_reason": "AI造假突破人脸识别防线，安全焦虑+技术震惊双驱动",
+   "url": "https://www.toutiao.com/trending/7700611070783881755/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai生成视频已经能逃过人脸识别系统"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
