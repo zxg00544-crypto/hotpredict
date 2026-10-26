@@ -7667,19 +7667,6 @@
    "batch_window": 10
   },
   {
-   "key": "台退将解放军南海实弹射击一举两得",
-   "title": "台退将：解放军南海实弹射击一举两得",
-   "rating": "A",
-   "score": 78.45,
-   "angle": "从台退将视角解读解放军南海行动战略意图，剖析两岸军事博弈新格局",
-   "hook_reason": "台退将点评南海实弹射击，涉两岸军事对峙，民族情绪拉满",
-   "url": "https://www.toutiao.com/trending/7698569214688313894/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:台退将解放军南海实弹射击一举两得",
-   "batch_window": 12
-  },
-  {
    "key": "山东淄博市副市长沙向东被查",
    "title": "山东淄博市副市长沙向东被查",
    "rating": "A",
@@ -11253,6 +11240,32 @@
    "breaking": true,
    "event_id": "e:blgkc",
    "batch_window": 3
+  },
+  {
+   "key": "microsoftannouncestypeserverprot513c5430",
+   "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "微软正式扩展LSP推出Type Server Protocol（TSP），从'代码补全'进化到'类型感知'的智能协议，开发者工具链迎来质变。可对比LSP的历史演进，解读TSP如何改变AI编程体验。",
+   "hook_reason": "微软发布Type Server Protocol，LSP的下一代形态，开发者工具链迎来重大升级",
+   "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:microsoftannouncestypeserverprotocolexte",
+   "batch_window": 4
+  },
+  {
+   "key": "中国地震台网正式测定10月27日04时05分在河北唐山市古冶区北纬3975",
+   "title": "中国地震台网正式测定：10月27日04时05分在河北唐山市古冶区（北纬39.75",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从唐山市民真实体验切入，科普地震预警机制与自救指南，传递生命安全意识",
+   "hook_reason": "唐山突发地震，46万人城市紧急响应，牵动千万人神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-27/detail-iniwqxva2224975.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国地震台网正式测定10月27日04时05分在河北唐山市古冶区北纬3975",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -12099,7 +12112,8 @@
   "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
   "androidappsrunningnativeonmacos",
   "anthropics1",
-  "2026微博v影响力大会奖项揭晓"
+  "2026微博v影响力大会奖项揭晓",
+  "台退将解放军南海实弹射击一举两得"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12882,7 +12896,8 @@
   "e:不刷牙睡觉vs不刷牙吃早餐哪个更伤身": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
   "e:androidappsrunningnativeonmacos": "Android apps running native on macOS",
   "e:anthropics1": "Anthropic S-1",
-  "e:2026微博v影响力大会奖项揭晓": "2026微博V影响力大会奖项揭晓"
+  "e:2026微博v影响力大会奖项揭晓": "2026微博V影响力大会奖项揭晓",
+  "e:台退将解放军南海实弹射击一举两得": "台退将：解放军南海实弹射击一举两得"
  },
  "a_seen": {
   "女子驾车过高架车顶被风筝线割破": {
@@ -13021,9 +13036,9 @@
    "key": "gpt61terra",
    "title": "GPT-6.1 Terra",
    "rating": "A",
-   "score": 40.8,
-   "angle": "解读GPT-6.1 Terra技术突破，对比竞品格局变化，预判AI产业洗牌",
-   "hook_reason": "GPT-6.1 Terra重磅发布，AI圈大地震，用户点击欲强",
+   "score": 75.75,
+   "angle": "GPT-6.1 Terra性能突破点分析，对比前代差异及行业影响解读",
+   "hook_reason": "OpenAI突发重磅新品，科技圈顶流消息",
    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
    "track": "科技",
    "breaking": true,
@@ -13040,8 +13055,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:blgkc"
+  },
+  "microsoftannouncestypeserverprot513c5430": {
+   "key": "microsoftannouncestypeserverprot513c5430",
+   "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "微软正式扩展LSP推出Type Server Protocol（TSP），从'代码补全'进化到'类型感知'的智能协议，开发者工具链迎来质变。可对比LSP的历史演进，解读TSP如何改变AI编程体验。",
+   "hook_reason": "微软发布Type Server Protocol，LSP的下一代形态，开发者工具链迎来重大升级",
+   "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:microsoftannouncestypeserverprotocolexte"
+  },
+  "中国地震台网正式测定10月27日04时05分在河北唐山市古冶区北纬3975": {
+   "key": "中国地震台网正式测定10月27日04时05分在河北唐山市古冶区北纬3975",
+   "title": "中国地震台网正式测定：10月27日04时05分在河北唐山市古冶区（北纬39.75",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从唐山市民真实体验切入，科普地震预警机制与自救指南，传递生命安全意识",
+   "hook_reason": "唐山突发地震，46万人城市紧急响应，牵动千万人神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-27/detail-iniwqxva2224975.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国地震台网正式测定10月27日04时05分在河北唐山市古冶区北纬3975"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
