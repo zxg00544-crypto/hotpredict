@@ -10904,19 +10904,6 @@
    "batch_window": 6
   },
   {
-   "key": "thestateofcontextengineering",
-   "title": "The State of Context Engineering",
-   "rating": "A",
-   "score": 79.0,
-   "angle": "解读Context Engineering为何成为2026年AI应用层关键瓶颈与突破点",
-   "hook_reason": "AI上下文工程新范式引爆HN，开发者必看前沿趋势",
-   "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:thestateofcontextengineering",
-   "batch_window": 7
-  },
-  {
    "key": "fzeroxonnintendo3ds",
    "title": "F-Zero X on Nintendo 3DS",
    "rating": "A",
@@ -11136,6 +11123,45 @@
    "breaking": true,
    "event_id": "e:天德钰2026年第三季度净利润114亿元同比增长16713",
    "batch_window": 19
+  },
+  {
+   "key": "市场消息anthropic计划于11月中旬进行ipo具体日期可能为11月19",
+   "title": "市场消息：Anthropic计划于11月中旬进行IPO，具体日期可能为11月19",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "Anthropic IPO对AI行业竞争格局的冲击，OpenAI估值对比，以及对中国AI公司的参照意义",
+   "hook_reason": "AI巨头Anthropic敲钟在即，与OpenAI竞争格局生变",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwqhxm9167808.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:市场消息anthropic计划于11月中旬进行ipo具体日期可能为11月19",
+   "batch_window": 20
+  },
+  {
+   "key": "王兴兴两次认错宇树暴涨1100亿",
+   "title": "王兴兴两次认错 宇树暴涨1100亿",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "宇树王兴兴为何两次认错却换来资本市场狂飙？揭秘创始人真诚叙事如何驱动千亿市值",
+   "hook_reason": "创始人公开认错+公司暴涨1100亿，反差感拉满，谁不想知道为什么？",
+   "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%85%B4%E5%85%B4%E4%B8%A4%E6%AC%A1%E8%AE%A4%E9%94%99+%E5%AE%87%E6%A0%91%E6%9A%B4%E6%B6%A81100%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:王兴兴两次认错宇树暴涨1100亿",
+   "batch_window": 20
+  },
+  {
+   "key": "大v轰6k与舰载机协同暗语意义重大",
+   "title": "大V：轰6K与舰载机协同暗语意义重大",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从大V发言切入，解读轰6K与舰载机协同战术意义，满足国军事科技热点",
+   "hook_reason": "大V揭秘军机协同暗语，军事爱好者必点",
+   "url": "https://www.toutiao.com/trending/7700925766778768915/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:大v轰6k与舰载机协同暗语意义重大",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -11964,7 +11990,8 @@
   "多地幼儿园改为养老院",
   "樊振东巴萨主场看球被投诉是卧底",
   "如何看待周星驰功夫女足在烂番茄开分0分",
-  "overgrownwhenplantsinvadeyourabandonedtabs"
+  "overgrownwhenplantsinvadeyourabandonedtabs",
+  "thestateofcontextengineering"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12729,7 +12756,8 @@
   "e:多地幼儿园改为养老院": "多地幼儿园改为养老院",
   "e:樊振东巴萨主场看球被投诉是卧底": "樊振东巴萨主场看球被投诉是卧底",
   "e:如何看待周星驰功夫女足在烂番茄开分0分": "如何看待周星驰《功夫女足》在烂番茄开分 0 分？",
-  "e:overgrownwhenplantsinvadeyourabandonedta": "Overgrown, when plants invade your abandoned tabs"
+  "e:overgrownwhenplantsinvadeyourabandonedta": "Overgrown, when plants invade your abandoned tabs",
+  "e:thestateofcontextengineering": "The State of Context Engineering"
  },
  "a_seen": {
   "特朗普我认为乌克兰和俄罗斯都想达成协议": {
@@ -13312,9 +13340,9 @@
    "key": "中国卫星看中国台湾的大好河山很正常",
    "title": "中国卫星看中国台湾的大好河山很正常",
    "rating": "A",
-   "score": 49.94,
-   "angle": "从国家卫星技术实力切入，展现对台主权宣示的合法性与底气，科技+政治双重视角解读",
-   "hook_reason": "中台关系敏感叠加卫星新技术，民族情绪与科技曝光双重驱动点击",
+   "score": 49.84,
+   "angle": "从国家主权话语角度切入，解读官方表态背后的政策信号与舆论导向",
+   "hook_reason": "卫星视角看台湾，自带民族情绪与政策信号双重爆点",
    "url": "https://www.toutiao.com/trending/7700879555971792959/",
    "track": "社会热点",
    "breaking": true,
@@ -13336,9 +13364,9 @@
    "key": "樊振东卧底西班牙国家德比被反复质疑盘查因表现不狂热遭巴萨球迷投诉对此你怎么看",
    "title": "樊振东「卧底」西班牙国家德比，被反复质疑盘查，因表现不狂热遭巴萨球迷投诉，对此你怎么看？",
    "rating": "A",
-   "score": 49.17,
-   "angle": "从体育明星跨界观赛的反差故事切入，探讨饭圈文化侵入体育现场的边界与争议",
-   "hook_reason": "乒乓冠军卧底足球赛场被球迷投诉，反差感拉满，自带讨论话题",
+   "score": 80.0,
+   "angle": "从'卧底'叙事切入，探讨体育明星海外形象与公众期待的反差，引发球迷身份认同讨论",
+   "hook_reason": "国乒冠军国外赛场所遭质疑，身份争议引爆民族情绪",
    "url": "https://www.zhihu.com/question/2098047112466227298",
    "track": "社会热点",
    "breaking": true,
@@ -13355,8 +13383,44 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:天德钰2026年第三季度净利润114亿元同比增长16713"
+  },
+  "市场消息anthropic计划于11月中旬进行ipo具体日期可能为11月19": {
+   "key": "市场消息anthropic计划于11月中旬进行ipo具体日期可能为11月19",
+   "title": "市场消息：Anthropic计划于11月中旬进行IPO，具体日期可能为11月19",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "Anthropic IPO对AI行业竞争格局的冲击，OpenAI估值对比，以及对中国AI公司的参照意义",
+   "hook_reason": "AI巨头Anthropic敲钟在即，与OpenAI竞争格局生变",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwqhxm9167808.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:市场消息anthropic计划于11月中旬进行ipo具体日期可能为11月19"
+  },
+  "王兴兴两次认错宇树暴涨1100亿": {
+   "key": "王兴兴两次认错宇树暴涨1100亿",
+   "title": "王兴兴两次认错 宇树暴涨1100亿",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "宇树王兴兴为何两次认错却换来资本市场狂飙？揭秘创始人真诚叙事如何驱动千亿市值",
+   "hook_reason": "创始人公开认错+公司暴涨1100亿，反差感拉满，谁不想知道为什么？",
+   "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%85%B4%E5%85%B4%E4%B8%A4%E6%AC%A1%E8%AE%A4%E9%94%99+%E5%AE%87%E6%A0%91%E6%9A%B4%E6%B6%A81100%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:王兴兴两次认错宇树暴涨1100亿"
+  },
+  "大v轰6k与舰载机协同暗语意义重大": {
+   "key": "大v轰6k与舰载机协同暗语意义重大",
+   "title": "大V：轰6K与舰载机协同暗语意义重大",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从大V发言切入，解读轰6K与舰载机协同战术意义，满足国军事科技热点",
+   "hook_reason": "大V揭秘军机协同暗语，军事爱好者必点",
+   "url": "https://www.toutiao.com/trending/7700925766778768915/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:大v轰6k与舰载机协同暗语意义重大"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
