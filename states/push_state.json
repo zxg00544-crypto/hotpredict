@@ -11164,19 +11164,6 @@
    "batch_window": 21
   },
   {
-   "key": "anthropics1",
-   "title": "Anthropic S-1",
-   "rating": "A",
-   "score": 78.5,
-   "angle": "A：Anthropic AI公司（Claude母公司）提交S-1拟IPO，估值或$24B，AI赛道标志性事件，增长G=100.0(≥80)热度=367.0(≥70)；新话题热度=367.0(≥70)",
-   "hook_reason": "Anthropic Claude母公司SEC提交S-1（1h前），AI独角兽即将IPO",
-   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:anthropics1",
-   "batch_window": 22
-  },
-  {
    "key": "fixingtoolcallaccuracyinvllm",
    "title": "Fixing Tool-Call Accuracy in vLLM",
    "rating": "A",
@@ -11227,6 +11214,32 @@
    "breaking": true,
    "event_id": "e:simdacceleratedcomputervisionona2microco",
    "batch_window": 1
+  },
+  {
+   "key": "openaigpt61terra现已开始推送",
+   "title": "OpenAI：GPT-6.1 Terra现已开始推送。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "拆解GPT-6.1 Terra核心能力升级，对比GPT-5时代差距，预判对开发者生态与行业应用的颠覆性影响",
+   "hook_reason": "OpenAI发布新一代旗舰模型，AI军备竞赛再升级",
+   "url": "https://finance.sina.cn/7x24/2026-10-27/detail-iniwqtpf9107154.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openaigpt61terra现已开始推送",
+   "batch_window": 2
+  },
+  {
+   "key": "地缘政治紧张令黄金看涨逻辑复杂化",
+   "title": "地缘政治紧张令黄金看涨逻辑复杂化",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "地缘冲突推高避险需求，但黄金逻辑复杂化，分析投资者如何调整仓位与策略",
+   "hook_reason": "黄金避险还灵吗？地缘风险下的新投资逻辑",
+   "url": "https://finance.sina.cn/7x24/2026-10-27/detail-iniwqtpf9106390.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:地缘政治紧张令黄金看涨逻辑复杂化",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -12071,7 +12084,8 @@
   "俄乌今天在阿列什基停火",
   "被张雪扔下水县委书记拿到大结果",
   "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
-  "androidappsrunningnativeonmacos"
+  "androidappsrunningnativeonmacos",
+  "anthropics1"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12852,7 +12866,8 @@
   "e:俄乌今天在阿列什基停火": "俄乌今天在阿列什基停火",
   "e:被张雪扔下水县委书记拿到大结果": "被张雪扔下水县委书记拿到大结果",
   "e:不刷牙睡觉vs不刷牙吃早餐哪个更伤身": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
-  "e:androidappsrunningnativeonmacos": "Android apps running native on macOS"
+  "e:androidappsrunningnativeonmacos": "Android apps running native on macOS",
+  "e:anthropics1": "Anthropic S-1"
  },
  "a_seen": {
   "女子驾车过高架车顶被风筝线割破": {
@@ -12962,8 +12977,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:simdacceleratedcomputervisionona2microco"
+  },
+  "openaigpt61terra现已开始推送": {
+   "key": "openaigpt61terra现已开始推送",
+   "title": "OpenAI：GPT-6.1 Terra现已开始推送。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "拆解GPT-6.1 Terra核心能力升级，对比GPT-5时代差距，预判对开发者生态与行业应用的颠覆性影响",
+   "hook_reason": "OpenAI发布新一代旗舰模型，AI军备竞赛再升级",
+   "url": "https://finance.sina.cn/7x24/2026-10-27/detail-iniwqtpf9107154.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openaigpt61terra现已开始推送"
+  },
+  "地缘政治紧张令黄金看涨逻辑复杂化": {
+   "key": "地缘政治紧张令黄金看涨逻辑复杂化",
+   "title": "地缘政治紧张令黄金看涨逻辑复杂化",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "地缘冲突推高避险需求，但黄金逻辑复杂化，分析投资者如何调整仓位与策略",
+   "hook_reason": "黄金避险还灵吗？地缘风险下的新投资逻辑",
+   "url": "https://finance.sina.cn/7x24/2026-10-27/detail-iniwqtpf9106390.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:地缘政治紧张令黄金看涨逻辑复杂化"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
