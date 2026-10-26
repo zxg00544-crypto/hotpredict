@@ -7537,19 +7537,6 @@
    "batch_window": 2
   },
   {
-   "key": "androidappsrunningnativeonmacos",
-   "title": "Android apps running native on macOS",
-   "rating": "A",
-   "score": 78.5,
-   "angle": "开发者福音还是生态妥协？M平台App原生运行技术解析",
-   "hook_reason": "苹果用户能在Mac直接跑Android app，跨平台技术突破",
-   "url": "https://github.com/kksimp/Mac.apk",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:androidappsrunningnativeonmacos",
-   "batch_window": 3
-  },
-  {
    "key": "伊朗伊斯兰革命卫队发言人霍尔木兹海峡海底铺设有7条主干光缆全球互联网与商",
    "title": "伊朗伊斯兰革命卫队发言人：霍尔木兹海峡海底铺设有 7 条主干光缆，全球互联网与商",
    "rating": "A",
@@ -11201,6 +11188,32 @@
    "breaking": true,
    "event_id": "e:fixingtoolcallaccuracyinvllm",
    "batch_window": 23
+  },
+  {
+   "key": "microsoftoffersmassbuyoutsforrou77a5a9e4",
+   "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从AI转型视角切入，分析微软如何通过裁员优化人力结构，映射科技大厂降本增效趋势",
+   "hook_reason": "微软裁1/4员工震动硅谷，打工人集体焦虑",
+   "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:microsoftoffersmassbuyoutsforroughlyaqua",
+   "batch_window": 1
+  },
+  {
+   "key": "cfot1",
+   "title": "CFO T1",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "解读CFO T1含义及背后指向，结合职场财务人视角切入",
+   "hook_reason": "CFO圈突发热点，T1指代引发职场共鸣与好奇",
+   "url": "https://search.bilibili.com/all?keyword=CFO T1",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:cfot1",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -12044,7 +12057,8 @@
   "美国联邦住房金融局局长普尔特抵押贷款市场不允许滥用垄断",
   "俄乌今天在阿列什基停火",
   "被张雪扔下水县委书记拿到大结果",
-  "不刷牙睡觉vs不刷牙吃早餐哪个更伤身"
+  "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
+  "androidappsrunningnativeonmacos"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12824,7 +12838,8 @@
   "e:美国联邦住房金融局局长普尔特抵押贷款市场不允许滥用垄断": "美国联邦住房金融局局长普尔特：抵押贷款市场不允许滥用垄断。",
   "e:俄乌今天在阿列什基停火": "俄乌今天在阿列什基停火",
   "e:被张雪扔下水县委书记拿到大结果": "被张雪扔下水县委书记拿到大结果",
-  "e:不刷牙睡觉vs不刷牙吃早餐哪个更伤身": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身"
+  "e:不刷牙睡觉vs不刷牙吃早餐哪个更伤身": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
+  "e:androidappsrunningnativeonmacos": "Android apps running native on macOS"
  },
  "a_seen": {
   "女子驾车过高架车顶被风筝线割破": {
@@ -12886,8 +12901,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:被张雪扔下水县委书记拿到大结果"
+  },
+  "苹果发布新款ipadmini": {
+   "key": "苹果发布新款ipadmini",
+   "title": "苹果发布新款iPad mini",
+   "rating": "A",
+   "score": 95.5,
+   "angle": "从iPad mini用户视角切入，对比安卓平板，分析苹果在小众但高黏性市场的策略意图",
+   "hook_reason": "果粉期待已久的mini回归，轻薄便携需求是否被满足",
+   "url": "https://search.bilibili.com/all?keyword=苹果发布新款iPad mini",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:苹果发布新款ipadmini"
+  },
+  "microsoftoffersmassbuyoutsforrou77a5a9e4": {
+   "key": "microsoftoffersmassbuyoutsforrou77a5a9e4",
+   "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "从AI转型视角切入，分析微软如何通过裁员优化人力结构，映射科技大厂降本增效趋势",
+   "hook_reason": "微软裁1/4员工震动硅谷，打工人集体焦虑",
+   "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:microsoftoffersmassbuyoutsforroughlyaqua"
+  },
+  "cfot1": {
+   "key": "cfot1",
+   "title": "CFO T1",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "解读CFO T1含义及背后指向，结合职场财务人视角切入",
+   "hook_reason": "CFO圈突发热点，T1指代引发职场共鸣与好奇",
+   "url": "https://search.bilibili.com/all?keyword=CFO T1",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:cfot1"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 0
+ "a_pushed_window": 1
 }
