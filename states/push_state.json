@@ -11253,6 +11253,45 @@
    "breaking": true,
    "event_id": "e:中国地震台网正式测定10月27日04时05分在河北唐山市古冶区北纬3975",
    "batch_window": 4
+  },
+  {
+   "key": "corridorkey20",
+   "title": "CorridorKey 2.0",
+   "rating": "A",
+   "score": 79.0,
+   "angle": "CorridorKey 2.0为何能让Hacker News瞬间沸腾？揭秘新一代开发者工具的破局点",
+   "hook_reason": "HN新晋爆款，开发者工具28分钟登顶，技术圈必追",
+   "url": "https://corridorkey.com/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:corridorkey20",
+   "batch_window": 6
+  },
+  {
+   "key": "workingwithacademiccommunitiesto7777298b",
+   "title": "Working with academic communities to build scientific understanding",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从OpenAI视角拆解AI科研开放策略，探讨大厂与学术界合作模式对AI发展的深远影响",
+   "hook_reason": "OpenAI官宣与学术圈合作，AI前沿动向+行业大佬发声双重吸引力",
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:workingwithacademiccommunitiestobuildsci",
+   "batch_window": 6
+  },
+  {
+   "key": "女子求职遇视频面试要求格式化手机",
+   "title": "女子求职遇视频面试要求格式化手机",
+   "rating": "A",
+   "score": 89.5,
+   "angle": "从劳动者隐私权角度切入，反思企业招聘中的越界行为与法律边界",
+   "hook_reason": "求职者隐私被侵犯，打工人身份共鸣强烈",
+   "url": "https://www.toutiao.com/trending/7700357026878144538/",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:女子求职遇视频面试要求格式化手机",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -13094,6 +13133,42 @@
    "track": "社会热点",
    "breaking": false,
    "event_id": "e:手机价格在涨掏钱的理由没涨"
+  },
+  "corridorkey20": {
+   "key": "corridorkey20",
+   "title": "CorridorKey 2.0",
+   "rating": "A",
+   "score": 79.0,
+   "angle": "CorridorKey 2.0为何能让Hacker News瞬间沸腾？揭秘新一代开发者工具的破局点",
+   "hook_reason": "HN新晋爆款，开发者工具28分钟登顶，技术圈必追",
+   "url": "https://corridorkey.com/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:corridorkey20"
+  },
+  "workingwithacademiccommunitiesto7777298b": {
+   "key": "workingwithacademiccommunitiesto7777298b",
+   "title": "Working with academic communities to build scientific understanding",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从OpenAI视角拆解AI科研开放策略，探讨大厂与学术界合作模式对AI发展的深远影响",
+   "hook_reason": "OpenAI官宣与学术圈合作，AI前沿动向+行业大佬发声双重吸引力",
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:workingwithacademiccommunitiestobuildsci"
+  },
+  "女子求职遇视频面试要求格式化手机": {
+   "key": "女子求职遇视频面试要求格式化手机",
+   "title": "女子求职遇视频面试要求格式化手机",
+   "rating": "A",
+   "score": 89.5,
+   "angle": "从劳动者隐私权角度切入，反思企业招聘中的越界行为与法律边界",
+   "hook_reason": "求职者隐私被侵犯，打工人身份共鸣强烈",
+   "url": "https://www.toutiao.com/trending/7700357026878144538/",
+   "track": "社会热点",
+   "breaking": false,
+   "event_id": "e:女子求职遇视频面试要求格式化手机"
   }
  },
  "breaking_count": 10,
