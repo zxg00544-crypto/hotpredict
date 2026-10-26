@@ -11214,6 +11214,19 @@
    "breaking": true,
    "event_id": "e:cfot1",
    "batch_window": 1
+  },
+  {
+   "key": "simdacceleratedcomputervisionona2microcontroller",
+   "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "从极客角度解读低成本边缘AI的算力突破，探讨技术普惠下的硬件革命",
+   "hook_reason": "2美元芯片实现高端视觉处理，极客圈层话题性极强",
+   "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:simdacceleratedcomputervisionona2microco",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -12918,9 +12931,9 @@
    "key": "microsoftoffersmassbuyoutsforrou77a5a9e4",
    "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
    "rating": "A",
-   "score": 77.0,
-   "angle": "从AI转型视角切入，分析微软如何通过裁员优化人力结构，映射科技大厂降本增效趋势",
-   "hook_reason": "微软裁1/4员工震动硅谷，打工人集体焦虑",
+   "score": 75.3,
+   "angle": "微软大规模裁员背后的AI转型逻辑：技术替代人力，大厂进入新一轮洗牌期",
+   "hook_reason": "微软裁员四分之一员工，大厂风向突变，科技圈地震",
    "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
    "track": "科技",
    "breaking": true,
@@ -12937,6 +12950,18 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:cfot1"
+  },
+  "simdacceleratedcomputervisionona2microcontroller": {
+   "key": "simdacceleratedcomputervisionona2microcontroller",
+   "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "从极客角度解读低成本边缘AI的算力突破，探讨技术普惠下的硬件革命",
+   "hook_reason": "2美元芯片实现高端视觉处理，极客圈层话题性极强",
+   "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:simdacceleratedcomputervisionona2microco"
   }
  },
  "breaking_count": 10,
