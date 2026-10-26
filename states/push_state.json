@@ -10995,19 +10995,6 @@
    "batch_window": 10
   },
   {
-   "key": "去不去养老院老人子女谁说了算",
-   "title": "去不去养老院 老人子女谁说了算",
-   "rating": "A",
-   "score": 95.5,
-   "angle": "从'话语权'切入，探讨老年尊严与子女孝道的边界冲突",
-   "hook_reason": "代际权力博弈，触及每个人都会老的集体焦虑",
-   "url": "https://www.toutiao.com/trending/7700582916480909322/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:去不去养老院老人子女谁说了算",
-   "batch_window": 11
-  },
-  {
    "key": "新能源汽车的八年大考来了",
    "title": "新能源汽车的“八年大考”来了",
    "rating": "A",
@@ -11032,6 +11019,45 @@
    "breaking": true,
    "event_id": "e:小鹏汽车回应车撞报废安全气囊未弹出",
    "batch_window": 11
+  },
+  {
+   "key": "多地幼儿园改为养老院",
+   "title": "多地幼儿园改为养老院",
+   "rating": "A",
+   "score": 82.82,
+   "angle": "从'一老一小'视角切入，折射人口结构剧变下的资源重组，戳中全民养老焦虑与育儿内卷的双重痛点",
+   "hook_reason": "幼儿园变养老院，两代人的命运在同一空间交接",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B9%E4%B8%BA%E5%85%BB%E8%80%81%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:多地幼儿园改为养老院",
+   "batch_window": 12
+  },
+  {
+   "key": "香港证监会首次批准向公众发售的代币化基金进行二级市场交易",
+   "title": "香港证监会首次批准向公众发售的代币化基金进行二级市场交易",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从监管突破切入，解读代币化基金对传统理财的颠覆性及普通投资者参与路径",
+   "hook_reason": "香港首开代币化基金二级市场先河，普通人也能参与链上理财了",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwpmtu2517770.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:香港证监会首次批准向公众发售的代币化基金进行二级市场交易",
+   "batch_window": 12
+  },
+  {
+   "key": "二十届五中全会开始举行",
+   "title": "二十届五中全会开始举行",
+   "rating": "A",
+   "score": 52.95,
+   "angle": "从普通人和投资者的角度解读五中全会释放的关键信号：稳增长/促消费/科技自立的政策优先级，以及最可能受益的行业赛道",
+   "hook_reason": "五中全会释放的經濟政策信号，直接关系股市/行业/个人财富走向，读者急想知道对自己有什么影响",
+   "url": "https://www.toutiao.com/trending/7698680775600128562/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:二十届五中全会开始举行",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -11852,7 +11878,8 @@
   "openaiandanthropiccuttheirllmpri0107fc46",
   "住房支持生育还有几张牌",
   "武契奇承认败选",
-  "国乒获奖组委会错放日本国旗"
+  "国乒获奖组委会错放日本国旗",
+  "去不去养老院老人子女谁说了算"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12609,7 +12636,8 @@
   "e:openaiandanthropiccuttheirllmpricesbyupt": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
   "e:住房支持生育还有几张牌": "住房支持生育还有几张牌",
   "e:武契奇承认败选": "武契奇承认败选",
-  "e:国乒获奖组委会错放日本国旗": "国乒获奖组委会错放日本国旗"
+  "e:国乒获奖组委会错放日本国旗": "国乒获奖组委会错放日本国旗",
+  "e:去不去养老院老人子女谁说了算": "去不去养老院 老人子女谁说了算"
  },
  "a_seen": {
   "特朗普我认为乌克兰和俄罗斯都想达成协议": {
@@ -13031,8 +13059,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:小鹏汽车回应车撞报废安全气囊未弹出"
+  },
+  "多地幼儿园改为养老院": {
+   "key": "多地幼儿园改为养老院",
+   "title": "多地幼儿园改为养老院",
+   "rating": "A",
+   "score": 82.82,
+   "angle": "从'一老一小'视角切入，折射人口结构剧变下的资源重组，戳中全民养老焦虑与育儿内卷的双重痛点",
+   "hook_reason": "幼儿园变养老院，两代人的命运在同一空间交接",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B9%E4%B8%BA%E5%85%BB%E8%80%81%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:多地幼儿园改为养老院"
+  },
+  "香港证监会首次批准向公众发售的代币化基金进行二级市场交易": {
+   "key": "香港证监会首次批准向公众发售的代币化基金进行二级市场交易",
+   "title": "香港证监会首次批准向公众发售的代币化基金进行二级市场交易",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从监管突破切入，解读代币化基金对传统理财的颠覆性及普通投资者参与路径",
+   "hook_reason": "香港首开代币化基金二级市场先河，普通人也能参与链上理财了",
+   "url": "https://finance.sina.cn/7x24/2026-10-26/detail-iniwpmtu2517770.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:香港证监会首次批准向公众发售的代币化基金进行二级市场交易"
+  },
+  "二十届五中全会开始举行": {
+   "key": "二十届五中全会开始举行",
+   "title": "二十届五中全会开始举行",
+   "rating": "A",
+   "score": 52.95,
+   "angle": "从普通人和投资者的角度解读五中全会释放的关键信号：稳增长/促消费/科技自立的政策优先级，以及最可能受益的行业赛道",
+   "hook_reason": "五中全会释放的經濟政策信号，直接关系股市/行业/个人财富走向，读者急想知道对自己有什么影响",
+   "url": "https://www.toutiao.com/trending/7698680775600128562/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:二十届五中全会开始举行"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
