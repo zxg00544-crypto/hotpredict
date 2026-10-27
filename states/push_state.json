@@ -11255,19 +11255,6 @@
    "batch_window": 4
   },
   {
-   "key": "corridorkey20",
-   "title": "CorridorKey 2.0",
-   "rating": "A",
-   "score": 79.0,
-   "angle": "CorridorKey 2.0为何能让Hacker News瞬间沸腾？揭秘新一代开发者工具的破局点",
-   "hook_reason": "HN新晋爆款，开发者工具28分钟登顶，技术圈必追",
-   "url": "https://corridorkey.com/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:corridorkey20",
-   "batch_window": 6
-  },
-  {
    "key": "workingwithacademiccommunitiesto7777298b",
    "title": "Working with academic communities to build scientific understanding",
    "rating": "A",
@@ -11305,6 +11292,58 @@
    "breaking": true,
    "event_id": "e:crossrequestkvcacheexposureintheglm53wor",
    "batch_window": 7
+  },
+  {
+   "key": "theexponentialtimehypothesisisfalsepdf",
+   "title": "The Exponential Time Hypothesis Is False [pdf]",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "从AI视角解读ETH推翻意味着什么——大模型训练复杂度下限被打破，是否预示AGI加速到来？",
+   "hook_reason": "AI巨头推理论突破，推翻计算复杂性领域20年公认定论",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:theexponentialtimehypothesisisfalsepdf",
+   "batch_window": 8
+  },
+  {
+   "key": "张雪校招称年薪10万起买车就半价",
+   "title": "张雪校招称年薪10万起买车就半价",
+   "rating": "A",
+   "score": 60.5,
+   "angle": "拆解校招薪资背后的职场生态，对比各平台真实待遇数据，回应毕业生关切",
+   "hook_reason": "校招薪资+半价车，直击毕业生焦虑与消费欲望",
+   "url": "https://www.toutiao.com/trending/7700895737281871913/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:张雪校招称年薪10万起买车就半价",
+   "batch_window": 8
+  },
+  {
+   "key": "凯恩获金球奖",
+   "title": "凯恩获金球奖",
+   "rating": "A",
+   "score": 54.34,
+   "angle": "从足球巨星突破视角切入，结合金球奖历史争议与德国足球崛起叙事",
+   "hook_reason": "凯恩首夺金球奖，德国足球里程碑，球迷情绪高点",
+   "url": "https://www.toutiao.com/trending/7701113675410591295/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:凯恩获金球奖",
+   "batch_window": 8
+  },
+  {
+   "key": "拒让张雪打广告的县委书记为何出圈",
+   "title": "拒让张雪打广告的县委书记为何出圈",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从县委书记拒广告切入，探讨基层官员与民众关系、舆情敏感度",
+   "hook_reason": "县委书记拒广告引发官民关系讨论，反差感强",
+   "url": "https://www.toutiao.com/trending/7700564243686506539/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:拒让张雪打广告的县委书记为何出圈",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -12155,7 +12194,8 @@
   "台退将解放军南海实弹射击一举两得",
   "郑钦文右肩受伤退出2026年武汉网球公开赛她的伤势有多严重对后续比赛影响有多大",
   "ai伪人广告正在集体霸凌人类",
-  "女子求职遇视频面试要求格式化手机"
+  "女子求职遇视频面试要求格式化手机",
+  "corridorkey20"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12942,7 +12982,8 @@
   "e:台退将解放军南海实弹射击一举两得": "台退将：解放军南海实弹射击一举两得",
   "e:郑钦文右肩受伤退出2026年武汉网球公开赛她的伤势有多严重对后续比赛影响有多大": "郑钦文右肩受伤，退出 2026 年武汉网球公开赛，她的伤势有多严重？对后续比赛影响有多大？",
   "e:ai伪人广告正在集体霸凌人类": "AI伪人广告正在集体“霸凌”人类",
-  "e:女子求职遇视频面试要求格式化手机": "女子求职遇视频面试要求格式化手机"
+  "e:女子求职遇视频面试要求格式化手机": "女子求职遇视频面试要求格式化手机",
+  "e:corridorkey20": "CorridorKey 2.0"
  },
  "a_seen": {
   "女子驾车过高架车顶被风筝线割破": {
@@ -13208,8 +13249,56 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:crossrequestkvcacheexposureintheglm53wor"
+  },
+  "theexponentialtimehypothesisisfalsepdf": {
+   "key": "theexponentialtimehypothesisisfalsepdf",
+   "title": "The Exponential Time Hypothesis Is False [pdf]",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "从AI视角解读ETH推翻意味着什么——大模型训练复杂度下限被打破，是否预示AGI加速到来？",
+   "hook_reason": "AI巨头推理论突破，推翻计算复杂性领域20年公认定论",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:theexponentialtimehypothesisisfalsepdf"
+  },
+  "张雪校招称年薪10万起买车就半价": {
+   "key": "张雪校招称年薪10万起买车就半价",
+   "title": "张雪校招称年薪10万起买车就半价",
+   "rating": "A",
+   "score": 60.5,
+   "angle": "拆解校招薪资背后的职场生态，对比各平台真实待遇数据，回应毕业生关切",
+   "hook_reason": "校招薪资+半价车，直击毕业生焦虑与消费欲望",
+   "url": "https://www.toutiao.com/trending/7700895737281871913/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:张雪校招称年薪10万起买车就半价"
+  },
+  "凯恩获金球奖": {
+   "key": "凯恩获金球奖",
+   "title": "凯恩获金球奖",
+   "rating": "A",
+   "score": 54.34,
+   "angle": "从足球巨星突破视角切入，结合金球奖历史争议与德国足球崛起叙事",
+   "hook_reason": "凯恩首夺金球奖，德国足球里程碑，球迷情绪高点",
+   "url": "https://www.toutiao.com/trending/7701113675410591295/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:凯恩获金球奖"
+  },
+  "拒让张雪打广告的县委书记为何出圈": {
+   "key": "拒让张雪打广告的县委书记为何出圈",
+   "title": "拒让张雪打广告的县委书记为何出圈",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从县委书记拒广告切入，探讨基层官员与民众关系、舆情敏感度",
+   "hook_reason": "县委书记拒广告引发官民关系讨论，反差感强",
+   "url": "https://www.toutiao.com/trending/7700564243686506539/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:拒让张雪打广告的县委书记为何出圈"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
