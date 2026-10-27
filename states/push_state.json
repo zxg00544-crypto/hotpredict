@@ -11294,19 +11294,6 @@
    "batch_window": 7
   },
   {
-   "key": "theexponentialtimehypothesisisfalsepdf",
-   "title": "The Exponential Time Hypothesis Is False [pdf]",
-   "rating": "A",
-   "score": 79.5,
-   "angle": "从AI视角解读ETH推翻意味着什么——大模型训练复杂度下限被打破，是否预示AGI加速到来？",
-   "hook_reason": "AI巨头推理论突破，推翻计算复杂性领域20年公认定论",
-   "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:theexponentialtimehypothesisisfalsepdf",
-   "batch_window": 8
-  },
-  {
    "key": "张雪校招称年薪10万起买车就半价",
    "title": "张雪校招称年薪10万起买车就半价",
    "rating": "A",
@@ -11344,6 +11331,58 @@
    "breaking": true,
    "event_id": "e:拒让张雪打广告的县委书记为何出圈",
    "batch_window": 8
+  },
+  {
+   "key": "73名省部级及以上干部被立案",
+   "title": "73名省部级及以上干部被立案",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从反腐力度与制度建设角度切入，解读为何集中爆发、释放何种信号",
+   "hook_reason": "高层反腐重磅数据，73人涉案规模罕见，冲击力强",
+   "url": "https://www.baidu.com/s?wd=73%E5%90%8D%E7%9C%81%E9%83%A8%E7%BA%A7%E5%8F%8A%E4%BB%A5%E4%B8%8A%E5%B9%B2%E9%83%A8%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:73名省部级及以上干部被立案",
+   "batch_window": 9
+  },
+  {
+   "key": "南北奥迪正式分家四环归一汽audi归上汽背后出于怎样的商业考量将带来哪些影响",
+   "title": "「南北」奥迪正式分家，四环归一汽，AUDI 归上汽，背后出于怎样的商业考量？将带来哪些影响？",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "从消费者购车决策切入，分析两品牌定位差异及对市场格局的影响",
+   "hook_reason": "南北奥迪分家，消费者该选四环还是AUDI？",
+   "url": "https://www.zhihu.com/question/2098099746560631310",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:南北奥迪正式分家四环归一汽audi归上汽背后出于怎样的商业考量将带来哪些影响",
+   "batch_window": 9
+  },
+  {
+   "key": "openai公布三项科学成果",
+   "title": "OpenAI公布三项科学成果",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "OpenAI公布三项科学成果的解读——AI能否成为科学发现的引擎，还是仅止于辅助工具",
+   "hook_reason": "OpenAI首个科学突破公布，AI从工具到科研伙伴的范式转移",
+   "url": "https://search.bilibili.com/all?keyword=OpenAI公布三项科学成果",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai公布三项科学成果",
+   "batch_window": 9
+  },
+  {
+   "key": "徽剑因举报柬埔寨电诈大佬遭买凶遇害",
+   "title": "徽剑因举报柬埔寨电诈大佬遭买凶遇害",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "以一线记者/博主暗访电诈园区遇害为切入点，深挖跨境犯罪链条与举报者保护机制缺失",
+   "hook_reason": "记者举报电诈遭买凶遇害，正义对抗跨境犯罪的极端案例",
+   "url": "https://www.baidu.com/s?wd=%E5%BE%BD%E5%89%91%E5%9B%A0%E4%B8%BE%E6%8A%A5%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E5%A4%A7%E4%BD%AC%E9%81%AD%E4%B9%B0%E5%87%B6%E9%81%87%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:徽剑因举报柬埔寨电诈大佬遭买凶遇害",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -12195,7 +12234,8 @@
   "郑钦文右肩受伤退出2026年武汉网球公开赛她的伤势有多严重对后续比赛影响有多大",
   "ai伪人广告正在集体霸凌人类",
   "女子求职遇视频面试要求格式化手机",
-  "corridorkey20"
+  "corridorkey20",
+  "theexponentialtimehypothesisisfalsepdf"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -12983,7 +13023,8 @@
   "e:郑钦文右肩受伤退出2026年武汉网球公开赛她的伤势有多严重对后续比赛影响有多大": "郑钦文右肩受伤，退出 2026 年武汉网球公开赛，她的伤势有多严重？对后续比赛影响有多大？",
   "e:ai伪人广告正在集体霸凌人类": "AI伪人广告正在集体“霸凌”人类",
   "e:女子求职遇视频面试要求格式化手机": "女子求职遇视频面试要求格式化手机",
-  "e:corridorkey20": "CorridorKey 2.0"
+  "e:corridorkey20": "CorridorKey 2.0",
+  "e:theexponentialtimehypothesisisfalsepdf": "The Exponential Time Hypothesis Is False [pdf]"
  },
  "a_seen": {
   "女子驾车过高架车顶被风筝线割破": {
@@ -13297,8 +13338,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:拒让张雪打广告的县委书记为何出圈"
+  },
+  "73名省部级及以上干部被立案": {
+   "key": "73名省部级及以上干部被立案",
+   "title": "73名省部级及以上干部被立案",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从反腐力度与制度建设角度切入，解读为何集中爆发、释放何种信号",
+   "hook_reason": "高层反腐重磅数据，73人涉案规模罕见，冲击力强",
+   "url": "https://www.baidu.com/s?wd=73%E5%90%8D%E7%9C%81%E9%83%A8%E7%BA%A7%E5%8F%8A%E4%BB%A5%E4%B8%8A%E5%B9%B2%E9%83%A8%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:73名省部级及以上干部被立案"
+  },
+  "南北奥迪正式分家四环归一汽audi归上汽背后出于怎样的商业考量将带来哪些影响": {
+   "key": "南北奥迪正式分家四环归一汽audi归上汽背后出于怎样的商业考量将带来哪些影响",
+   "title": "「南北」奥迪正式分家，四环归一汽，AUDI 归上汽，背后出于怎样的商业考量？将带来哪些影响？",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "从消费者购车决策切入，分析两品牌定位差异及对市场格局的影响",
+   "hook_reason": "南北奥迪分家，消费者该选四环还是AUDI？",
+   "url": "https://www.zhihu.com/question/2098099746560631310",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:南北奥迪正式分家四环归一汽audi归上汽背后出于怎样的商业考量将带来哪些影响"
+  },
+  "openai公布三项科学成果": {
+   "key": "openai公布三项科学成果",
+   "title": "OpenAI公布三项科学成果",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "OpenAI公布三项科学成果的解读——AI能否成为科学发现的引擎，还是仅止于辅助工具",
+   "hook_reason": "OpenAI首个科学突破公布，AI从工具到科研伙伴的范式转移",
+   "url": "https://search.bilibili.com/all?keyword=OpenAI公布三项科学成果",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai公布三项科学成果"
+  },
+  "徽剑因举报柬埔寨电诈大佬遭买凶遇害": {
+   "key": "徽剑因举报柬埔寨电诈大佬遭买凶遇害",
+   "title": "徽剑因举报柬埔寨电诈大佬遭买凶遇害",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "以一线记者/博主暗访电诈园区遇害为切入点，深挖跨境犯罪链条与举报者保护机制缺失",
+   "hook_reason": "记者举报电诈遭买凶遇害，正义对抗跨境犯罪的极端案例",
+   "url": "https://www.baidu.com/s?wd=%E5%BE%BD%E5%89%91%E5%9B%A0%E4%B8%BE%E6%8A%A5%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E5%A4%A7%E4%BD%AC%E9%81%AD%E4%B9%B0%E5%87%B6%E9%81%87%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:徽剑因举报柬埔寨电诈大佬遭买凶遇害"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
