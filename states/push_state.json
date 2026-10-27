@@ -3559,19 +3559,6 @@
    "batch_window": 9
   },
   {
-   "key": "郑钦文成为中网历史上首位本土女单冠军你认为她有机会在职业生涯内超越李娜的历史地位吗",
-   "title": "郑钦文成为中网历史上首位本土女单冠军，你认为她有机会在职业生涯内超越李娜的历史地位吗？",
-   "rating": "A",
-   "score": 77.68,
-   "angle": "从郑钦文夺冠切入，对比李娜时代，探讨中国网球新生代能否复制传奇——民族情绪+历史比较双爆款基因",
-   "hook_reason": "中国网球首位本土大满贯冠军+超越李娜争议，民族情绪拉满",
-   "url": "https://www.zhihu.com/question/2092732351969063873",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:郑钦文成为中网历史上首位本土女单冠军你认为她有机会在职业生涯内超越李娜的历史地位",
-   "batch_window": 10
-  },
-  {
    "key": "手机又涨1000块供货商称内存条像黄金一天一个价",
    "title": "手机又涨1000块 供货商称“内存条像黄金一天一个价”",
    "rating": "A",
@@ -11578,6 +11565,32 @@
    "breaking": true,
    "event_id": "e:苹果触摸屏mac将成为该公司价格最高的笔记本电脑",
    "batch_window": 6
+  },
+  {
+   "key": "国泰海通optimus启动样机试产物理ai有望加速突破",
+   "title": "国泰海通：Optimus启动样机试产 物理AI有望加速突破",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从券商视角切入，剖析Optimus样机试产对国产人形机器人产业链的映射与竞争格局影响",
+   "hook_reason": "特斯拉Optimus机器人进入样机试产阶段，物理AI商业化临近",
+   "url": "https://finance.sina.cn/7x24/2026-10-28/detail-iniwtpke6663445.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:国泰海通optimus启动样机试产物理ai有望加速突破",
+   "batch_window": 7
+  },
+  {
+   "key": "amazonisguttingitsaidivisionafteb951f455",
+   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+   "rating": "A",
+   "score": 74.65,
+   "angle": "亚马逊AI战略溃败启示录：千亿投入打水漂，大厂如何避免AI军备竞赛陷阱？",
+   "hook_reason": "亚马逊豪掷千亿美元做AI却惨败关停，科技巨头这次栽了",
+   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:amazonisguttingitsaidivisionaftersustain",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -12461,7 +12474,8 @@
   "policeareusingaitopulloverdriverd00a0782",
   "小米这样的公司为啥非要执着于做大模型",
   "胡润百富榜每10位上榜者就有1位靠ai",
-  "11人年赚9亿美元hyperliquid改变华尔街31岁华人jeffyan正在用区块链重"
+  "11人年赚9亿美元hyperliquid改变华尔街31岁华人jeffyan正在用区块链重",
+  "郑钦文成为中网历史上首位本土女单冠军你认为她有机会在职业生涯内超越李娜的历史地位吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13281,7 +13295,8 @@
   "e:policeareusingaitopulloverdriversforsusp": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
   "e:小米这样的公司为啥非要执着于做大模型": "小米这样的公司，为啥非要执着于做大模型？",
   "e:胡润百富榜每10位上榜者就有1位靠ai": "胡润百富榜每10位上榜者就有1位靠AI",
-  "e:11人年赚9亿美元hyperliquid改变华尔街31岁华人jeffyan正在用": "11人年赚9亿美元，Hyperliquid改变华尔街 31岁华人Jeff Yan，正在用区块链重"
+  "e:11人年赚9亿美元hyperliquid改变华尔街31岁华人jeffyan正在用": "11人年赚9亿美元，Hyperliquid改变华尔街 31岁华人Jeff Yan，正在用区块链重",
+  "e:郑钦文成为中网历史上首位本土女单冠军你认为她有机会在职业生涯内超越李娜的历史地位": "郑钦文成为中网历史上首位本土女单冠军，你认为她有机会在职业生涯内超越李娜的历史地位吗？"
  },
  "a_seen": {
   "17岁ai研究员被曝获700万年薪邀约": {
@@ -13391,8 +13406,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:苹果触摸屏mac将成为该公司价格最高的笔记本电脑"
+  },
+  "国泰海通optimus启动样机试产物理ai有望加速突破": {
+   "key": "国泰海通optimus启动样机试产物理ai有望加速突破",
+   "title": "国泰海通：Optimus启动样机试产 物理AI有望加速突破",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从券商视角切入，剖析Optimus样机试产对国产人形机器人产业链的映射与竞争格局影响",
+   "hook_reason": "特斯拉Optimus机器人进入样机试产阶段，物理AI商业化临近",
+   "url": "https://finance.sina.cn/7x24/2026-10-28/detail-iniwtpke6663445.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:国泰海通optimus启动样机试产物理ai有望加速突破"
+  },
+  "amazonisguttingitsaidivisionafteb951f455": {
+   "key": "amazonisguttingitsaidivisionafteb951f455",
+   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+   "rating": "A",
+   "score": 74.65,
+   "angle": "亚马逊AI战略溃败启示录：千亿投入打水漂，大厂如何避免AI军备竞赛陷阱？",
+   "hook_reason": "亚马逊豪掷千亿美元做AI却惨败关停，科技巨头这次栽了",
+   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:amazonisguttingitsaidivisionaftersustain"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
