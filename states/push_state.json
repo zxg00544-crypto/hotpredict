@@ -11554,17 +11554,43 @@
    "batch_window": 22
   },
   {
-   "key": "杂牌电动自行车要凉",
-   "title": "杂牌电动自行车要凉",
+   "key": "苹果折叠屏出师不利",
+   "title": "苹果折叠屏“出师不利”",
    "rating": "A",
-   "score": 92.0,
-   "angle": "解读政策背景、影响范围及头部品牌机遇",
-   "hook_reason": "杂牌电动车将被淘汰，直接影响千万用户出行选择",
-   "url": "https://www.baidu.com/s?wd=%E6%9D%82%E7%89%8C%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%A6%81%E5%87%89&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "行业趋势",
+   "score": 79.57,
+   "angle": "从科技产品竞争视角，剖析苹果折叠屏延期背后的技术路线博弈与市场预期落差",
+   "hook_reason": "苹果首次折叠屏遇挫，科技巨头战略争议引关注",
+   "url": "https://www.toutiao.com/trending/7701324668954742299/",
+   "track": "科技",
    "breaking": true,
-   "event_id": "e:杂牌电动自行车要凉",
-   "batch_window": 22
+   "event_id": "e:苹果折叠屏出师不利",
+   "batch_window": 23
+  },
+  {
+   "key": "波音股价跌幅扩大至10此前该公司下调交付目标",
+   "title": "波音股价跌幅扩大至10%，此前该公司下调交付目标。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从波音交付危机切入，深挖航空供应链脆弱性与中美制造商竞争格局变化",
+   "hook_reason": "波音暴跌10%+交付腰斩，航空产业链谁在裸泳？",
+   "url": "https://finance.sina.cn/7x24/2026-10-27/detail-iniwsseq7013422.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:波音股价跌幅扩大至10此前该公司下调交付目标",
+   "batch_window": 23
+  },
+  {
+   "key": "如何评价openai发布重大成果",
+   "title": "如何评价OpenAI发布重大成果",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从OpenAI重大成果出发，分析对AI行业格局、开发者生态及商业应用的颠覆性影响",
+   "hook_reason": "OpenAI重大突破，科技圈地震级事件",
+   "url": "https://search.bilibili.com/all?keyword=如何评价OpenAI发布重大成果",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何评价openai发布重大成果",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -12430,7 +12456,8 @@
   "gemini4argonforrobotics",
   "lfm2524ba2bbuiltforfastondeviceagents",
   "askhnhowtodealwithshippingaiwrit341dbb52",
-  "苹果承认少量iphoneduo内屏异常"
+  "苹果承认少量iphoneduo内屏异常",
+  "杂牌电动自行车要凉"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13232,7 +13259,8 @@
   "e:gemini4argonforrobotics": "Gemini 4 Argon for Robotics",
   "e:lfm2524ba2bbuiltforfastondeviceagents": "LFM2.5-24B-A2B: Built for fast on-device agents",
   "e:askhnhowtodealwithshippingaiwrittencodey": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-  "e:苹果承认少量iphoneduo内屏异常": "苹果承认少量iPhone Duo内屏异常"
+  "e:苹果承认少量iphoneduo内屏异常": "苹果承认少量iPhone Duo内屏异常",
+  "e:杂牌电动自行车要凉": "杂牌电动自行车要凉"
  },
  "a_seen": {
   "女子驾车过高架车顶被风筝线割破": {
@@ -13959,9 +13987,9 @@
    "key": "aipromisedlessworkiveneverworkedmore",
    "title": "AI promised less work. I've never worked more",
    "rating": "A",
-   "score": 76.5,
-   "angle": "从\"AI赋能\"到\"AI负担\"的反转，探讨技术承诺与现实落差的深层矛盾",
-   "hook_reason": "AI承诺减负反让人更忙，直击打工人痛点引发共鸣",
+   "score": 75.85,
+   "angle": "AI时代工作悖论：技术越先进，人反而越疲惫，引发读者对AI实用价值的反思",
+   "hook_reason": "AI承诺减负却让人更忙，戳中千万职场人痛点",
    "url": "https://oioannou.com/blog/ai-promised-less-work/",
    "track": "科技",
    "breaking": true,
@@ -13978,8 +14006,44 @@
    "track": "行业趋势",
    "breaking": true,
    "event_id": "e:杂牌电动自行车要凉"
+  },
+  "苹果折叠屏出师不利": {
+   "key": "苹果折叠屏出师不利",
+   "title": "苹果折叠屏“出师不利”",
+   "rating": "A",
+   "score": 79.57,
+   "angle": "从科技产品竞争视角，剖析苹果折叠屏延期背后的技术路线博弈与市场预期落差",
+   "hook_reason": "苹果首次折叠屏遇挫，科技巨头战略争议引关注",
+   "url": "https://www.toutiao.com/trending/7701324668954742299/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:苹果折叠屏出师不利"
+  },
+  "波音股价跌幅扩大至10此前该公司下调交付目标": {
+   "key": "波音股价跌幅扩大至10此前该公司下调交付目标",
+   "title": "波音股价跌幅扩大至10%，此前该公司下调交付目标。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从波音交付危机切入，深挖航空供应链脆弱性与中美制造商竞争格局变化",
+   "hook_reason": "波音暴跌10%+交付腰斩，航空产业链谁在裸泳？",
+   "url": "https://finance.sina.cn/7x24/2026-10-27/detail-iniwsseq7013422.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:波音股价跌幅扩大至10此前该公司下调交付目标"
+  },
+  "如何评价openai发布重大成果": {
+   "key": "如何评价openai发布重大成果",
+   "title": "如何评价OpenAI发布重大成果",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从OpenAI重大成果出发，分析对AI行业格局、开发者生态及商业应用的颠覆性影响",
+   "hook_reason": "OpenAI重大突破，科技圈地震级事件",
+   "url": "https://search.bilibili.com/all?keyword=如何评价OpenAI发布重大成果",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何评价openai发布重大成果"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
