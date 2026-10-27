@@ -11476,19 +11476,6 @@
    "batch_window": 14
   },
   {
-   "key": "广电要求有线电视开机不得播广告",
-   "title": "广电要求有线电视开机不得播广告",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从'开机广告折磨'切入，政策解读+用户故事+行业影响三重角度",
-   "hook_reason": "亿万用户共鸣痛点：开机广告终于能被关掉了！",
-   "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E7%94%B5%E8%A6%81%E6%B1%82%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E4%B8%8D%E5%BE%97%E6%92%AD%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:广电要求有线电视开机不得播广告",
-   "batch_window": 15
-  },
-  {
    "key": "谁在菲律宾围猎中国人",
    "title": "谁在菲律宾“围猎”中国人",
    "rating": "A",
@@ -11539,6 +11526,45 @@
    "breaking": true,
    "event_id": "e:美国国家公路交通安全管理局丰田汽车工程与制造公司将在美国召回228367辆汽",
    "batch_window": 15
+  },
+  {
+   "key": "themythicalmanmonthintheageofai",
+   "title": "The Mythical Man-Month in the Age of AI",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从Brooks法则切入，探讨AI如何重写软件工程团队效率规则",
+   "hook_reason": "AI颠覆经典理论，程序员群体高度共鸣，冲突感强",
+   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:themythicalmanmonthintheageofai",
+   "batch_window": 16
+  },
+  {
+   "key": "黄仁勋严父dwarkesh入驻b站",
+   "title": "黄仁勋严父Dwarkesh入驻B站",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从黄仁勋严父形象切入，解读创始人家庭与科技帝国关联，结合中美AI竞争背景",
+   "hook_reason": "AI教父父亲入驻B站，中美科技圈亲子互动引好奇",
+   "url": "https://search.bilibili.com/all?keyword=黄仁勋严父Dwarkesh入驻B站",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋严父dwarkesh入驻b站",
+   "batch_window": 16
+  },
+  {
+   "key": "openai声称证明全维度挂谷猜想",
+   "title": "OpenAI声称证明全维度挂谷猜想",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从数学突破切入，解读AI研究范式变革——当大模型开始做纯数学证明，科技史被改写",
+   "hook_reason": "OpenAI跨界证明顶级数学猜想，AI能力边界再被刷新",
+   "url": "https://search.bilibili.com/all?keyword=OpenAI声称证明全维度挂谷猜想",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai声称证明全维度挂谷猜想",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -12397,7 +12423,8 @@
   "江苏多所高校将用数字人民币发工资数字人民币与银行卡发工资有啥区别这一举措会带来哪些改变",
   "k100",
   "为什么中国人都执着于买房而不是租房",
-  "吃中国饭砸中国锅姆巴佩不配"
+  "吃中国饭砸中国锅姆巴佩不配",
+  "广电要求有线电视开机不得播广告"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13192,7 +13219,8 @@
   "e:江苏多所高校将用数字人民币发工资数字人民币与银行卡发工资有啥区别这一举措会带来哪": "江苏多所高校将用数字人民币发工资，数字人民币与银行卡发工资有啥区别？这一举措会带来哪些改变？",
   "e:k100": "K100",
   "e:为什么中国人都执着于买房而不是租房": "为什么中国人都执着于买房而不是租房？",
-  "e:吃中国饭砸中国锅姆巴佩不配": "吃中国饭砸中国锅 姆巴佩不配"
+  "e:吃中国饭砸中国锅姆巴佩不配": "吃中国饭砸中国锅 姆巴佩不配",
+  "e:广电要求有线电视开机不得播广告": "广电要求有线电视开机不得播广告"
  },
  "a_seen": {
   "女子驾车过高架车顶被风筝线割破": {
@@ -13782,8 +13810,44 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:小米首个住宅小区开售"
+  },
+  "themythicalmanmonthintheageofai": {
+   "key": "themythicalmanmonthintheageofai",
+   "title": "The Mythical Man-Month in the Age of AI",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从Brooks法则切入，探讨AI如何重写软件工程团队效率规则",
+   "hook_reason": "AI颠覆经典理论，程序员群体高度共鸣，冲突感强",
+   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:themythicalmanmonthintheageofai"
+  },
+  "黄仁勋严父dwarkesh入驻b站": {
+   "key": "黄仁勋严父dwarkesh入驻b站",
+   "title": "黄仁勋严父Dwarkesh入驻B站",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从黄仁勋严父形象切入，解读创始人家庭与科技帝国关联，结合中美AI竞争背景",
+   "hook_reason": "AI教父父亲入驻B站，中美科技圈亲子互动引好奇",
+   "url": "https://search.bilibili.com/all?keyword=黄仁勋严父Dwarkesh入驻B站",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋严父dwarkesh入驻b站"
+  },
+  "openai声称证明全维度挂谷猜想": {
+   "key": "openai声称证明全维度挂谷猜想",
+   "title": "OpenAI声称证明全维度挂谷猜想",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从数学突破切入，解读AI研究范式变革——当大模型开始做纯数学证明，科技史被改写",
+   "hook_reason": "OpenAI跨界证明顶级数学猜想，AI能力边界再被刷新",
+   "url": "https://search.bilibili.com/all?keyword=OpenAI声称证明全维度挂谷猜想",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai声称证明全维度挂谷猜想"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 15
+ "a_pushed_window": 16
 }
