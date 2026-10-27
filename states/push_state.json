@@ -4144,19 +4144,6 @@
    "batch_window": 8
   },
   {
-   "key": "11人年赚9亿美元hyperliquid改变华尔街31岁华人jeffyan正在用区块链重",
-   "title": "11人年赚9亿美元，Hyperliquid改变华尔街 31岁华人Jeff Yan，正在用区块链重",
-   "rating": "A",
-   "score": 77.9,
-   "angle": "从华裔青年创业者视角切入，拆解Hyperliquid如何用链上交易模式撬动传统华尔街格局",
-   "hook_reason": "31岁华人+9亿美元+颠覆华尔街，三重身份标签叠加引爆好奇心",
-   "url": "https://weibo.com/5884573948/RmqQGCew3",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:11人年赚9亿美元hyperliquid改变华尔街31岁华人jeffyan正在用",
-   "batch_window": 8
-  },
-  {
    "key": "不得不说今年诺贝尔经济学奖太接地气了网页链接网页链接",
    "title": "不得不说，今年诺贝尔经济学奖太接地气了 网页链接 网页链接",
    "rating": "A",
@@ -11578,6 +11565,19 @@
    "breaking": true,
    "event_id": "e:美国国务院高级官员表示国务院将向弗拉维奥博索纳罗及其家人发放签证并允许他们",
    "batch_window": 5
+  },
+  {
+   "key": "苹果触摸屏mac将成为该公司价格最高的笔记本电脑",
+   "title": "苹果触摸屏Mac将成为该公司价格最高的笔记本电脑。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "苹果Mac产品线重大升级，触摸屏技术引入带来交互变革，高端定价策略背后的市场野心解析",
+   "hook_reason": "苹果首次出触摸屏Mac，价格或创新高，果粉和数码党必看",
+   "url": "https://finance.sina.cn/7x24/2026-10-28/detail-iniwtiak3539286.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:苹果触摸屏mac将成为该公司价格最高的笔记本电脑",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -12460,7 +12460,8 @@
   "美国国债已攀升至约41万亿美元规模会带来哪些影响财长称将推出财政整顿计划可能有哪些手段",
   "policeareusingaitopulloverdriverd00a0782",
   "小米这样的公司为啥非要执着于做大模型",
-  "胡润百富榜每10位上榜者就有1位靠ai"
+  "胡润百富榜每10位上榜者就有1位靠ai",
+  "11人年赚9亿美元hyperliquid改变华尔街31岁华人jeffyan正在用区块链重"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13279,7 +13280,8 @@
   "e:美国国债已攀升至约41万亿美元规模会带来哪些影响财长称将推出财政整顿计划可能有哪": "美国国债已攀升至约 41 万亿美元规模，会带来哪些影响？财长称将推出财政整顿计划，可能有哪些手段？",
   "e:policeareusingaitopulloverdriversforsusp": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
   "e:小米这样的公司为啥非要执着于做大模型": "小米这样的公司，为啥非要执着于做大模型？",
-  "e:胡润百富榜每10位上榜者就有1位靠ai": "胡润百富榜每10位上榜者就有1位靠AI"
+  "e:胡润百富榜每10位上榜者就有1位靠ai": "胡润百富榜每10位上榜者就有1位靠AI",
+  "e:11人年赚9亿美元hyperliquid改变华尔街31岁华人jeffyan正在用": "11人年赚9亿美元，Hyperliquid改变华尔街 31岁华人Jeff Yan，正在用区块链重"
  },
  "a_seen": {
   "17岁ai研究员被曝获700万年薪邀约": {
@@ -13377,8 +13379,20 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:美国国务院高级官员表示国务院将向弗拉维奥博索纳罗及其家人发放签证并允许他们"
+  },
+  "苹果触摸屏mac将成为该公司价格最高的笔记本电脑": {
+   "key": "苹果触摸屏mac将成为该公司价格最高的笔记本电脑",
+   "title": "苹果触摸屏Mac将成为该公司价格最高的笔记本电脑。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "苹果Mac产品线重大升级，触摸屏技术引入带来交互变革，高端定价策略背后的市场野心解析",
+   "hook_reason": "苹果首次出触摸屏Mac，价格或创新高，果粉和数码党必看",
+   "url": "https://finance.sina.cn/7x24/2026-10-28/detail-iniwtiak3539286.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:苹果触摸屏mac将成为该公司价格最高的笔记本电脑"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
