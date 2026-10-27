@@ -9968,19 +9968,6 @@
    "batch_window": 18
   },
   {
-   "key": "thinkrailfromjetbrains",
-   "title": "ThinkRail from JetBrains",
-   "rating": "A",
-   "score": 78.0,
-   "angle": "JetBrains携35年开发者生态入局AI编程，Cop护城河能否守住？",
-   "hook_reason": "JetBrains突发推AI编程工具，巨头直接对标GitHub Copilot",
-   "url": "https://thinkrail.ai/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:thinkrailfromjetbrains",
-   "batch_window": 18
-  },
-  {
    "key": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
    "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
    "rating": "A",
@@ -11578,6 +11565,19 @@
    "breaking": true,
    "event_id": "e:如何评价openai发布重大成果",
    "batch_window": 23
+  },
+  {
+   "key": "genie4",
+   "title": "Genie 4",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从AI视频生成竞争格局切入，对比Runway、Pika等，分析Genie 4的技术突破与商业化前景",
+   "hook_reason": "DeepMind推出Genie 4，号称能生成4K世界模拟，AI视频赛道的下一个战场",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:genie4",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -12455,7 +12455,8 @@
   "中国足协第一时间与皇马严正交涉",
   "洛克希德马丁公司将在波兰设立pac3导弹维护设施",
   "以议会选举或决定内塔尼亚胡政治生涯",
-  "苹果折叠屏出师不利"
+  "苹果折叠屏出师不利",
+  "thinkrailfromjetbrains"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13269,7 +13270,8 @@
   "e:中国足协第一时间与皇马严正交涉": "中国足协第一时间与皇马严正交涉",
   "e:洛克希德马丁公司将在波兰设立pac3导弹维护设施": "洛克希德·马丁公司：将在波兰设立PAC-3导弹维护设施。",
   "e:以议会选举或决定内塔尼亚胡政治生涯": "以议会选举或决定内塔尼亚胡政治生涯",
-  "e:苹果折叠屏出师不利": "苹果折叠屏“出师不利”"
+  "e:苹果折叠屏出师不利": "苹果折叠屏“出师不利”",
+  "e:thinkrailfromjetbrains": "ThinkRail from JetBrains"
  },
  "a_seen": {
   "17岁ai研究员被曝获700万年薪邀约": {
@@ -13295,8 +13297,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:php2shellexploitationattemptsandremediat"
+  },
+  "genie4": {
+   "key": "genie4",
+   "title": "Genie 4",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "从AI视频生成竞争格局切入，对比Runway、Pika等，分析Genie 4的技术突破与商业化前景",
+   "hook_reason": "DeepMind推出Genie 4，号称能生成4K世界模拟，AI视频赛道的下一个战场",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:genie4"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 0
+ "a_pushed_window": 1
 }
