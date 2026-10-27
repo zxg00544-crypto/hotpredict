@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-10-27",
  "a_pending": [
   {
@@ -7511,19 +7511,6 @@
    "batch_window": 5
   },
   {
-   "key": "askhnhowtodealwithshippingaiwrit341dbb52",
-   "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-   "rating": "A",
-   "score": 78.0,
-   "angle": "从'不敢用AI写代码'切入，写开发者最担心的场景",
-   "hook_reason": "开发者对AI代码质量的集体焦虑，高共鸣",
-   "url": "https://news.ycombinator.com/item?id=50151036",
-   "track": "科技",
-   "breaking": false,
-   "event_id": "e:askhnhowtodealwithshippingaiwrittencodey",
-   "batch_window": 5
-  },
-  {
    "key": "openbsd80releasewillhaveinteldrme21849c7",
    "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
    "rating": "A",
@@ -11539,6 +11526,32 @@
    "breaking": true,
    "event_id": "e:robloxdownloaded145gbmodelsfromusincludi",
    "batch_window": 20
+  },
+  {
+   "key": "苹果承认少量iphoneduo内屏异常",
+   "title": "苹果承认少量iPhone Duo内屏异常",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从苹果质量把控与售后回应策略切入，分析对iPhone用户购机决策的影响",
+   "hook_reason": "苹果罕见承认新品缺陷，果粉必点看后续",
+   "url": "https://www.toutiao.com/trending/7701307912471186970/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:苹果承认少量iphoneduo内屏异常",
+   "batch_window": 21
+  },
+  {
+   "key": "银行将存2500元错输成25000元储户拒退称离柜概不负责被法院判属退还你怎么看",
+   "title": "银行将存 2500 元错输成 25000 元，储户拒退称「离柜概不负责」，被法院判属退还，你怎么看？",
+   "rating": "A",
+   "score": 50.2,
+   "angle": "从\"离柜概不负责\"条款法律效力切入，结合法院判决剖析银行服务规范与消费者权益边界",
+   "hook_reason": "银行失误 vs 储户道德，离柜概不负责条款还灵吗？",
+   "url": "https://www.zhihu.com/question/2098369407378629230",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:银行将存2500元错输成25000元储户拒退称离柜概不负责被法院判属退还你怎么看",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -12402,7 +12415,8 @@
   "东鹏蒙牛相继宣布终止与姆巴佩全部合作称零容忍伤害民族感情行为具体情况如何将带来哪些影响",
   "2dvehicles",
   "gemini4argonforrobotics",
-  "lfm2524ba2bbuiltforfastondeviceagents"
+  "lfm2524ba2bbuiltforfastondeviceagents",
+  "askhnhowtodealwithshippingaiwrit341dbb52"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13202,7 +13216,8 @@
   "e:东鹏蒙牛相继宣布终止与姆巴佩全部合作称零容忍伤害民族感情行为具体情况如何将带来哪": "东鹏、蒙牛相继宣布终止与姆巴佩全部合作，称零容忍伤害民族感情行为，具体情况如何？将带来哪些影响？",
   "e:2dvehicles": "2D Vehicles",
   "e:gemini4argonforrobotics": "Gemini 4 Argon for Robotics",
-  "e:lfm2524ba2bbuiltforfastondeviceagents": "LFM2.5-24B-A2B: Built for fast on-device agents"
+  "e:lfm2524ba2bbuiltforfastondeviceagents": "LFM2.5-24B-A2B: Built for fast on-device agents",
+  "e:askhnhowtodealwithshippingaiwrittencodey": "Ask HN: How to deal with shipping AI-written code you don't understand?"
  },
  "a_seen": {
   "女子驾车过高架车顶被风筝线割破": {
@@ -13900,8 +13915,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:robloxdownloaded145gbmodelsfromusincludi"
+  },
+  "苹果承认少量iphoneduo内屏异常": {
+   "key": "苹果承认少量iphoneduo内屏异常",
+   "title": "苹果承认少量iPhone Duo内屏异常",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从苹果质量把控与售后回应策略切入，分析对iPhone用户购机决策的影响",
+   "hook_reason": "苹果罕见承认新品缺陷，果粉必点看后续",
+   "url": "https://www.toutiao.com/trending/7701307912471186970/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:苹果承认少量iphoneduo内屏异常"
+  },
+  "银行将存2500元错输成25000元储户拒退称离柜概不负责被法院判属退还你怎么看": {
+   "key": "银行将存2500元错输成25000元储户拒退称离柜概不负责被法院判属退还你怎么看",
+   "title": "银行将存 2500 元错输成 25000 元，储户拒退称「离柜概不负责」，被法院判属退还，你怎么看？",
+   "rating": "A",
+   "score": 50.2,
+   "angle": "从\"离柜概不负责\"条款法律效力切入，结合法院判决剖析银行服务规范与消费者权益边界",
+   "hook_reason": "银行失误 vs 储户道德，离柜概不负责条款还灵吗？",
+   "url": "https://www.zhihu.com/question/2098369407378629230",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:银行将存2500元错输成25000元储户拒退称离柜概不负责被法院判属退还你怎么看"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
