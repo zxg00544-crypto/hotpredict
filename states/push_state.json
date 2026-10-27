@@ -5301,19 +5301,6 @@
    "batch_window": 8
   },
   {
-   "key": "lfm2524ba2bbuiltforfastondeviceagents",
-   "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-   "rating": "A",
-   "score": 78.0,
-   "angle": "24B模型上设备成现实，本地Agent时代或由此加速，解读对芯片/端侧推理产业链的影响",
-   "hook_reason": "端侧跑24B大模型突破算力天花板，开发者必看",
-   "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:lfm2524ba2bbuiltforfastondeviceagents",
-   "batch_window": 9
-  },
-  {
    "key": "如何评价博主北美花生就是我爆料懂车帝曾测试出丰田赛那车型后摆臂断裂但未进行发布",
    "title": "如何评价博主「北美花生就是我」爆料懂车帝曾测试出丰田赛那车型后摆臂断裂，但未进行发布？",
    "rating": "A",
@@ -11539,6 +11526,19 @@
    "breaking": true,
    "event_id": "e:羲禾科技科创板ipo审核状态变更为注册生效",
    "batch_window": 17
+  },
+  {
+   "key": "robloxdownloaded145gbmodelsfromu0d9e9650",
+   "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从AI数据版权切入，探讨平台爬取边界的法律与伦理争议",
+   "hook_reason": "大厂偷下145GB含成人内容模型，AI版权战争爆点",
+   "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:robloxdownloaded145gbmodelsfromusincludi",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -12401,7 +12401,8 @@
   "广电要求有线电视开机不得播广告",
   "东鹏蒙牛相继宣布终止与姆巴佩全部合作称零容忍伤害民族感情行为具体情况如何将带来哪些影响",
   "2dvehicles",
-  "gemini4argonforrobotics"
+  "gemini4argonforrobotics",
+  "lfm2524ba2bbuiltforfastondeviceagents"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13200,7 +13201,8 @@
   "e:广电要求有线电视开机不得播广告": "广电要求有线电视开机不得播广告",
   "e:东鹏蒙牛相继宣布终止与姆巴佩全部合作称零容忍伤害民族感情行为具体情况如何将带来哪": "东鹏、蒙牛相继宣布终止与姆巴佩全部合作，称零容忍伤害民族感情行为，具体情况如何？将带来哪些影响？",
   "e:2dvehicles": "2D Vehicles",
-  "e:gemini4argonforrobotics": "Gemini 4 Argon for Robotics"
+  "e:gemini4argonforrobotics": "Gemini 4 Argon for Robotics",
+  "e:lfm2524ba2bbuiltforfastondeviceagents": "LFM2.5-24B-A2B: Built for fast on-device agents"
  },
  "a_seen": {
   "女子驾车过高架车顶被风筝线割破": {
@@ -13886,8 +13888,20 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:吃中国饭砸中国锅姆巴佩不配"
+  },
+  "robloxdownloaded145gbmodelsfromu0d9e9650": {
+   "key": "robloxdownloaded145gbmodelsfromu0d9e9650",
+   "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从AI数据版权切入，探讨平台爬取边界的法律与伦理争议",
+   "hook_reason": "大厂偷下145GB含成人内容模型，AI版权战争爆点",
+   "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:robloxdownloaded145gbmodelsfromusincludi"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
