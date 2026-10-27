@@ -11333,19 +11333,6 @@
    "batch_window": 8
   },
   {
-   "key": "南北奥迪正式分家四环归一汽audi归上汽背后出于怎样的商业考量将带来哪些影响",
-   "title": "「南北」奥迪正式分家，四环归一汽，AUDI 归上汽，背后出于怎样的商业考量？将带来哪些影响？",
-   "rating": "A",
-   "score": 81.0,
-   "angle": "从消费者购车决策切入，分析两品牌定位差异及对市场格局的影响",
-   "hook_reason": "南北奥迪分家，消费者该选四环还是AUDI？",
-   "url": "https://www.zhihu.com/question/2098099746560631310",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:南北奥迪正式分家四环归一汽audi归上汽背后出于怎样的商业考量将带来哪些影响",
-   "batch_window": 9
-  },
-  {
    "key": "openai公布三项科学成果",
    "title": "OpenAI公布三项科学成果",
    "rating": "A",
@@ -12301,7 +12288,8 @@
   "女子求职遇视频面试要求格式化手机",
   "corridorkey20",
   "theexponentialtimehypothesisisfalsepdf",
-  "73名省部级及以上干部被立案"
+  "73名省部级及以上干部被立案",
+  "南北奥迪正式分家四环归一汽audi归上汽背后出于怎样的商业考量将带来哪些影响"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13091,7 +13079,8 @@
   "e:女子求职遇视频面试要求格式化手机": "女子求职遇视频面试要求格式化手机",
   "e:corridorkey20": "CorridorKey 2.0",
   "e:theexponentialtimehypothesisisfalsepdf": "The Exponential Time Hypothesis Is False [pdf]",
-  "e:73名省部级及以上干部被立案": "73名省部级及以上干部被立案"
+  "e:73名省部级及以上干部被立案": "73名省部级及以上干部被立案",
+  "e:南北奥迪正式分家四环归一汽audi归上汽背后出于怎样的商业考量将带来哪些影响": "「南北」奥迪正式分家，四环归一汽，AUDI 归上汽，背后出于怎样的商业考量？将带来哪些影响？"
  },
  "a_seen": {
   "女子驾车过高架车顶被风筝线割破": {
@@ -13494,11 +13483,11 @@
    "key": "东鹏饮料终止与姆巴佩全部合作",
    "title": "东鹏饮料：终止与姆巴佩全部合作",
    "rating": "A",
-   "score": 52.35,
-   "angle": "从赞助费打水漂切入，剖析品牌明星代言策略风险与财务损失",
-   "hook_reason": "姆巴佩突然终止代言，东鹏百亿赞助打水漂？",
-   "url": "https://www.toutiao.com/trending/7700595802129055787/",
-   "track": "财经",
+   "score": 97.5,
+   "angle": "深挖姆巴佩口碑变化与东鹏公关危机，拆解顶流代言翻车背后的舆论反转逻辑",
+   "hook_reason": "姆巴佩突然终止合作引爆全网，体育顶流+国民饮料双重流量叠加",
+   "url": "https://search.bilibili.com/all?keyword=东鹏饮料终止与姆巴佩全部合作",
+   "track": "社会热点",
    "breaking": true,
    "event_id": "e:东鹏饮料终止与姆巴佩全部合作"
   },
@@ -13528,5 +13517,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
