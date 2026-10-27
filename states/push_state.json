@@ -3780,19 +3780,6 @@
    "batch_window": 19
   },
   {
-   "key": "小米这样的公司为啥非要执着于做大模型",
-   "title": "小米这样的公司，为啥非要执着于做大模型？",
-   "rating": "A",
-   "score": 77.95,
-   "angle": "从雷军战略意图切入，分析小米做大模型背后的商业护城河与竞争焦虑",
-   "hook_reason": "小米为何执念大模型？技术战略还是商业博弈？",
-   "url": "https://www.zhihu.com/question/2091214671135167570",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:小米这样的公司为啥非要执着于做大模型",
-   "batch_window": 20
-  },
-  {
    "key": "deloittefalsifieddocumentstoevad2edd0f48",
    "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
    "rating": "A",
@@ -11578,6 +11565,32 @@
    "breaking": true,
    "event_id": "e:anthropictrainedclaudeonillegallyobtaine",
    "batch_window": 3
+  },
+  {
+   "key": "特朗普谈伊朗我知道油价会上涨我实际上认为涨幅会高出两三倍但我仍然愿意这么做",
+   "title": "特朗普谈伊朗：我知道油价会上涨。我实际上认为涨幅会高出两三倍，但我仍然愿意这么做",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从全球经济视角解读特朗普言论背后美伊博弈格局，以及油价可能带来的通胀压力与投资机会",
+   "hook_reason": "特朗普预言油价暴涨，全球车主和投资者高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-28/detail-iniwtiak3485484.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:特朗普谈伊朗我知道油价会上涨我实际上认为涨幅会高出两三倍但我仍然愿意这么做",
+   "batch_window": 4
+  },
+  {
+   "key": "胡润百富榜每10位上榜者就有1位靠ai",
+   "title": "胡润百富榜每10位上榜者就有1位靠AI",
+   "rating": "A",
+   "score": 85.5,
+   "angle": "从'胡润榜新贵AI浓度'切入：老钱版图被AI改写，普通人的搞钱机会与危机",
+   "hook_reason": "百富榜1/10靠AI引爆财富焦虑与AI替代情绪",
+   "url": "https://www.baidu.com/s?wd=%E8%83%A1%E6%B6%A6%E7%99%BE%E5%AF%8C%E6%A6%9C%E6%AF%8F10%E4%BD%8D%E4%B8%8A%E6%A6%9C%E8%80%85%E5%B0%B1%E6%9C%891%E4%BD%8D%E9%9D%A0AI&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:胡润百富榜每10位上榜者就有1位靠ai",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -12458,7 +12471,8 @@
   "苹果折叠屏出师不利",
   "thinkrailfromjetbrains",
   "美国国债已攀升至约41万亿美元规模会带来哪些影响财长称将推出财政整顿计划可能有哪些手段",
-  "policeareusingaitopulloverdriverd00a0782"
+  "policeareusingaitopulloverdriverd00a0782",
+  "小米这样的公司为啥非要执着于做大模型"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13275,7 +13289,8 @@
   "e:苹果折叠屏出师不利": "苹果折叠屏“出师不利”",
   "e:thinkrailfromjetbrains": "ThinkRail from JetBrains",
   "e:美国国债已攀升至约41万亿美元规模会带来哪些影响财长称将推出财政整顿计划可能有哪": "美国国债已攀升至约 41 万亿美元规模，会带来哪些影响？财长称将推出财政整顿计划，可能有哪些手段？",
-  "e:policeareusingaitopulloverdriversforsusp": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior"
+  "e:policeareusingaitopulloverdriversforsusp": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+  "e:小米这样的公司为啥非要执着于做大模型": "小米这样的公司，为啥非要执着于做大模型？"
  },
  "a_seen": {
   "17岁ai研究员被曝获700万年薪邀约": {
@@ -13337,8 +13352,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:anthropictrainedclaudeonillegallyobtaine"
+  },
+  "特朗普谈伊朗我知道油价会上涨我实际上认为涨幅会高出两三倍但我仍然愿意这么做": {
+   "key": "特朗普谈伊朗我知道油价会上涨我实际上认为涨幅会高出两三倍但我仍然愿意这么做",
+   "title": "特朗普谈伊朗：我知道油价会上涨。我实际上认为涨幅会高出两三倍，但我仍然愿意这么做",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从全球经济视角解读特朗普言论背后美伊博弈格局，以及油价可能带来的通胀压力与投资机会",
+   "hook_reason": "特朗普预言油价暴涨，全球车主和投资者高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-28/detail-iniwtiak3485484.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:特朗普谈伊朗我知道油价会上涨我实际上认为涨幅会高出两三倍但我仍然愿意这么做"
+  },
+  "胡润百富榜每10位上榜者就有1位靠ai": {
+   "key": "胡润百富榜每10位上榜者就有1位靠ai",
+   "title": "胡润百富榜每10位上榜者就有1位靠AI",
+   "rating": "A",
+   "score": 85.5,
+   "angle": "从'胡润榜新贵AI浓度'切入：老钱版图被AI改写，普通人的搞钱机会与危机",
+   "hook_reason": "百富榜1/10靠AI引爆财富焦虑与AI替代情绪",
+   "url": "https://www.baidu.com/s?wd=%E8%83%A1%E6%B6%A6%E7%99%BE%E5%AF%8C%E6%A6%9C%E6%AF%8F10%E4%BD%8D%E4%B8%8A%E6%A6%9C%E8%80%85%E5%B0%B1%E6%9C%891%E4%BD%8D%E9%9D%A0AI&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:胡润百富榜每10位上榜者就有1位靠ai"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
