@@ -2779,19 +2779,6 @@
    "batch_window": 21
   },
   {
-   "key": "美国国债已攀升至约41万亿美元规模会带来哪些影响财长称将推出财政整顿计划可能有哪些手段",
-   "title": "美国国债已攀升至约 41 万亿美元规模，会带来哪些影响？财长称将推出财政整顿计划，可能有哪些手段？",
-   "rating": "A",
-   "score": 77.95,
-   "angle": "从财政整顿手段预判美联储政策走向，结合中国市场联动分析投资机会与风险",
-   "hook_reason": "美国国债飙至41万亿，普通人理财如何避险？",
-   "url": "https://www.zhihu.com/question/2092180406640685682",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:美国国债已攀升至约41万亿美元规模会带来哪些影响财长称将推出财政整顿计划可能有哪",
-   "batch_window": 21
-  },
-  {
    "key": "talorysaselfhostedpersonalaiagen9f1c1f85",
    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
    "rating": "A",
@@ -11578,6 +11565,19 @@
    "breaking": true,
    "event_id": "e:genie4",
    "batch_window": 1
+  },
+  {
+   "key": "policeareusingaitopulloverdriverd00a0782",
+   "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "从'可疑行为被AI判定'切入，探讨技术赋权与公民权利的边界，呼吁公众关注算法透明度",
+   "hook_reason": "AI监控执法引隐私争议，每位司机都是潜在对象，极易引发共鸣和讨论",
+   "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:policeareusingaitopulloverdriversforsusp",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -12456,7 +12456,8 @@
   "洛克希德马丁公司将在波兰设立pac3导弹维护设施",
   "以议会选举或决定内塔尼亚胡政治生涯",
   "苹果折叠屏出师不利",
-  "thinkrailfromjetbrains"
+  "thinkrailfromjetbrains",
+  "美国国债已攀升至约41万亿美元规模会带来哪些影响财长称将推出财政整顿计划可能有哪些手段"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13271,7 +13272,8 @@
   "e:洛克希德马丁公司将在波兰设立pac3导弹维护设施": "洛克希德·马丁公司：将在波兰设立PAC-3导弹维护设施。",
   "e:以议会选举或决定内塔尼亚胡政治生涯": "以议会选举或决定内塔尼亚胡政治生涯",
   "e:苹果折叠屏出师不利": "苹果折叠屏“出师不利”",
-  "e:thinkrailfromjetbrains": "ThinkRail from JetBrains"
+  "e:thinkrailfromjetbrains": "ThinkRail from JetBrains",
+  "e:美国国债已攀升至约41万亿美元规模会带来哪些影响财长称将推出财政整顿计划可能有哪": "美国国债已攀升至约 41 万亿美元规模，会带来哪些影响？财长称将推出财政整顿计划，可能有哪些手段？"
  },
  "a_seen": {
   "17岁ai研究员被曝获700万年薪邀约": {
@@ -13302,15 +13304,27 @@
    "key": "genie4",
    "title": "Genie 4",
    "rating": "A",
-   "score": 40.95,
-   "angle": "从AI视频生成竞争格局切入，对比Runway、Pika等，分析Genie 4的技术突破与商业化前景",
-   "hook_reason": "DeepMind推出Genie 4，号称能生成4K世界模拟，AI视频赛道的下一个战场",
+   "score": 75.95,
+   "angle": "DeepMind Genie 4发布：世界模拟模型迈入新代，AI向'物理理解'再进一步",
+   "hook_reason": "DeepMind发布Genie 4登顶HN，AI世界模拟能力再突破",
    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
    "track": "科技",
    "breaking": true,
    "event_id": "e:genie4"
+  },
+  "policeareusingaitopulloverdriverd00a0782": {
+   "key": "policeareusingaitopulloverdriverd00a0782",
+   "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "从'可疑行为被AI判定'切入，探讨技术赋权与公民权利的边界，呼吁公众关注算法透明度",
+   "hook_reason": "AI监控执法引隐私争议，每位司机都是潜在对象，极易引发共鸣和讨论",
+   "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:policeareusingaitopulloverdriversforsusp"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
