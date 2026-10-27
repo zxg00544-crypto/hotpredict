@@ -11567,17 +11567,17 @@
    "batch_window": 1
   },
   {
-   "key": "policeareusingaitopulloverdriverd00a0782",
-   "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+   "key": "anthropictrainedclaudeonillegall71eb14db",
+   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
    "rating": "A",
-   "score": 82.0,
-   "angle": "从'可疑行为被AI判定'切入，探讨技术赋权与公民权利的边界，呼吁公众关注算法透明度",
-   "hook_reason": "AI监控执法引隐私争议，每位司机都是潜在对象，极易引发共鸣和讨论",
-   "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-   "track": "社会热点",
+   "score": 75.2,
+   "angle": "从AI训练数据来源合规性切入，追问Anthropic是否踩线，引发科技圈版权焦虑",
+   "hook_reason": "AI巨头涉嫌盗版教授著作训练模型，触发版权与伦理双重争议",
+   "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+   "track": "科技",
    "breaking": true,
-   "event_id": "e:policeareusingaitopulloverdriversforsusp",
-   "batch_window": 2
+   "event_id": "e:anthropictrainedclaudeonillegallyobtaine",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -12457,7 +12457,8 @@
   "以议会选举或决定内塔尼亚胡政治生涯",
   "苹果折叠屏出师不利",
   "thinkrailfromjetbrains",
-  "美国国债已攀升至约41万亿美元规模会带来哪些影响财长称将推出财政整顿计划可能有哪些手段"
+  "美国国债已攀升至约41万亿美元规模会带来哪些影响财长称将推出财政整顿计划可能有哪些手段",
+  "policeareusingaitopulloverdriverd00a0782"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13273,7 +13274,8 @@
   "e:以议会选举或决定内塔尼亚胡政治生涯": "以议会选举或决定内塔尼亚胡政治生涯",
   "e:苹果折叠屏出师不利": "苹果折叠屏“出师不利”",
   "e:thinkrailfromjetbrains": "ThinkRail from JetBrains",
-  "e:美国国债已攀升至约41万亿美元规模会带来哪些影响财长称将推出财政整顿计划可能有哪": "美国国债已攀升至约 41 万亿美元规模，会带来哪些影响？财长称将推出财政整顿计划，可能有哪些手段？"
+  "e:美国国债已攀升至约41万亿美元规模会带来哪些影响财长称将推出财政整顿计划可能有哪": "美国国债已攀升至约 41 万亿美元规模，会带来哪些影响？财长称将推出财政整顿计划，可能有哪些手段？",
+  "e:policeareusingaitopulloverdriversforsusp": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior"
  },
  "a_seen": {
   "17岁ai研究员被曝获700万年薪邀约": {
@@ -13316,15 +13318,27 @@
    "key": "policeareusingaitopulloverdriverd00a0782",
    "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
    "rating": "A",
-   "score": 82.0,
-   "angle": "从'可疑行为被AI判定'切入，探讨技术赋权与公民权利的边界，呼吁公众关注算法透明度",
-   "hook_reason": "AI监控执法引隐私争议，每位司机都是潜在对象，极易引发共鸣和讨论",
+   "score": 75.9,
+   "angle": "AI执法边界：技术便利与公民权利的博弈，警惕算法黑箱",
+   "hook_reason": "AI被用来拦车？你的隐私正在被全程监控",
    "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-   "track": "社会热点",
+   "track": "科技",
    "breaking": true,
    "event_id": "e:policeareusingaitopulloverdriversforsusp"
+  },
+  "anthropictrainedclaudeonillegall71eb14db": {
+   "key": "anthropictrainedclaudeonillegall71eb14db",
+   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+   "rating": "A",
+   "score": 75.2,
+   "angle": "从AI训练数据来源合规性切入，追问Anthropic是否踩线，引发科技圈版权焦虑",
+   "hook_reason": "AI巨头涉嫌盗版教授著作训练模型，触发版权与伦理双重争议",
+   "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropictrainedclaudeonillegallyobtaine"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
