@@ -11333,19 +11333,6 @@
    "batch_window": 8
   },
   {
-   "key": "73名省部级及以上干部被立案",
-   "title": "73名省部级及以上干部被立案",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从反腐力度与制度建设角度切入，解读为何集中爆发、释放何种信号",
-   "hook_reason": "高层反腐重磅数据，73人涉案规模罕见，冲击力强",
-   "url": "https://www.baidu.com/s?wd=73%E5%90%8D%E7%9C%81%E9%83%A8%E7%BA%A7%E5%8F%8A%E4%BB%A5%E4%B8%8A%E5%B9%B2%E9%83%A8%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:73名省部级及以上干部被立案",
-   "batch_window": 9
-  },
-  {
    "key": "南北奥迪正式分家四环归一汽audi归上汽背后出于怎样的商业考量将带来哪些影响",
    "title": "「南北」奥迪正式分家，四环归一汽，AUDI 归上汽，背后出于怎样的商业考量？将带来哪些影响？",
    "rating": "A",
@@ -11383,6 +11370,45 @@
    "breaking": true,
    "event_id": "e:徽剑因举报柬埔寨电诈大佬遭买凶遇害",
    "batch_window": 9
+  },
+  {
+   "key": "江苏多所高校将用数字人民币发工资数字人民币与银行卡发工资有啥区别这一举措会带来哪些改变",
+   "title": "江苏多所高校将用数字人民币发工资，数字人民币与银行卡发工资有啥区别？这一举措会带来哪些改变？",
+   "rating": "A",
+   "score": 78.8,
+   "angle": "以高校为单位试点数字人民币发工资，折射央行数字货币推进节奏，切'钱怎么发'的民生感知",
+   "hook_reason": "高校工资改发数字人民币，新支付方式+体制内场景，反差感强",
+   "url": "https://www.zhihu.com/question/2098056179788391425",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:江苏多所高校将用数字人民币发工资数字人民币与银行卡发工资有啥区别这一举措会带来哪",
+   "batch_window": 10
+  },
+  {
+   "key": "曝光缅北电诈的自媒体人已遭买凶遇害",
+   "title": "曝光缅北电诈的自媒体人已遭买凶遇害",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从自媒体人视角切入，探讨舆论监督的勇气与代价，追问电诈产业链的黑色保护伞",
+   "hook_reason": "自媒体人曝光电诈后遇害，正义与黑暗的生死博弈",
+   "url": "https://www.toutiao.com/trending/7701138073098145323/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:曝光缅北电诈的自媒体人已遭买凶遇害",
+   "batch_window": 10
+  },
+  {
+   "key": "星巴克门店顾客减少销量却没受影响",
+   "title": "星巴克门店顾客减少销量却没受影响",
+   "rating": "A",
+   "score": 51.25,
+   "angle": "揭秘星巴克'客流下降但销量稳健'的底层逻辑：数字化运营、第三空间溢价、会员体系与供应链优化如何对冲线下人流萎缩",
+   "hook_reason": "门店冷清销量却不降，星巴克凭什么？",
+   "url": "https://www.toutiao.com/trending/7700052790332407827/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:星巴克门店顾客减少销量却没受影响",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -12235,7 +12261,8 @@
   "ai伪人广告正在集体霸凌人类",
   "女子求职遇视频面试要求格式化手机",
   "corridorkey20",
-  "theexponentialtimehypothesisisfalsepdf"
+  "theexponentialtimehypothesisisfalsepdf",
+  "73名省部级及以上干部被立案"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13024,7 +13051,8 @@
   "e:ai伪人广告正在集体霸凌人类": "AI伪人广告正在集体“霸凌”人类",
   "e:女子求职遇视频面试要求格式化手机": "女子求职遇视频面试要求格式化手机",
   "e:corridorkey20": "CorridorKey 2.0",
-  "e:theexponentialtimehypothesisisfalsepdf": "The Exponential Time Hypothesis Is False [pdf]"
+  "e:theexponentialtimehypothesisisfalsepdf": "The Exponential Time Hypothesis Is False [pdf]",
+  "e:73名省部级及以上干部被立案": "73名省部级及以上干部被立案"
  },
  "a_seen": {
   "女子驾车过高架车顶被风筝线割破": {
@@ -13343,10 +13371,10 @@
    "key": "73名省部级及以上干部被立案",
    "title": "73名省部级及以上干部被立案",
    "rating": "A",
-   "score": 92.0,
-   "angle": "从反腐力度与制度建设角度切入，解读为何集中爆发、释放何种信号",
-   "hook_reason": "高层反腐重磅数据，73人涉案规模罕见，冲击力强",
-   "url": "https://www.baidu.com/s?wd=73%E5%90%8D%E7%9C%81%E9%83%A8%E7%BA%A7%E5%8F%8A%E4%BB%A5%E4%B8%8A%E5%B9%B2%E9%83%A8%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news",
+   "score": 87.85,
+   "angle": "从反腐力度切入，分析中央扫黑除恶零容忍态度，延伸制度完善意义",
+   "hook_reason": "73人同时落马震撼度极高，反腐力度引发全民关注",
+   "url": "https://www.toutiao.com/trending/7701113851496055334/",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:73名省部级及以上干部被立案"
@@ -13355,9 +13383,9 @@
    "key": "南北奥迪正式分家四环归一汽audi归上汽背后出于怎样的商业考量将带来哪些影响",
    "title": "「南北」奥迪正式分家，四环归一汽，AUDI 归上汽，背后出于怎样的商业考量？将带来哪些影响？",
    "rating": "A",
-   "score": 81.0,
-   "angle": "从消费者购车决策切入，分析两品牌定位差异及对市场格局的影响",
-   "hook_reason": "南北奥迪分家，消费者该选四环还是AUDI？",
+   "score": 79.5,
+   "angle": "从合资车企利益博弈切入，拆解一汽/上汽各自得失，预测对消费者购车和奥迪品牌格局的影响",
+   "hook_reason": "奥迪品牌大拆分，消费者选车投资都受影响，谁亏谁赚？",
    "url": "https://www.zhihu.com/question/2098099746560631310",
    "track": "财经",
    "breaking": true,
@@ -13368,12 +13396,12 @@
    "title": "OpenAI公布三项科学成果",
    "rating": "A",
    "score": 40.85,
-   "angle": "OpenAI公布三项科学成果的解读——AI能否成为科学发现的引擎，还是仅止于辅助工具",
-   "hook_reason": "OpenAI首个科学突破公布，AI从工具到科研伙伴的范式转移",
+   "angle": "聚焦三项科学成果的技术突破点，解读OpenAI在AI科研领域的布局意图",
+   "hook_reason": "OpenAI突破公布，科技圈必看重磅消息",
    "url": "https://search.bilibili.com/all?keyword=OpenAI公布三项科学成果",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:openai公布三项科学成果"
+   "event_id": "e:announcingthreenewdiscoveriesinmathemati"
   },
   "徽剑因举报柬埔寨电诈大佬遭买凶遇害": {
    "key": "徽剑因举报柬埔寨电诈大佬遭买凶遇害",
@@ -13386,8 +13414,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:徽剑因举报柬埔寨电诈大佬遭买凶遇害"
+  },
+  "江苏多所高校将用数字人民币发工资数字人民币与银行卡发工资有啥区别这一举措会带来哪些改变": {
+   "key": "江苏多所高校将用数字人民币发工资数字人民币与银行卡发工资有啥区别这一举措会带来哪些改变",
+   "title": "江苏多所高校将用数字人民币发工资，数字人民币与银行卡发工资有啥区别？这一举措会带来哪些改变？",
+   "rating": "A",
+   "score": 78.8,
+   "angle": "以高校为单位试点数字人民币发工资，折射央行数字货币推进节奏，切'钱怎么发'的民生感知",
+   "hook_reason": "高校工资改发数字人民币，新支付方式+体制内场景，反差感强",
+   "url": "https://www.zhihu.com/question/2098056179788391425",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:江苏多所高校将用数字人民币发工资数字人民币与银行卡发工资有啥区别这一举措会带来哪"
+  },
+  "曝光缅北电诈的自媒体人已遭买凶遇害": {
+   "key": "曝光缅北电诈的自媒体人已遭买凶遇害",
+   "title": "曝光缅北电诈的自媒体人已遭买凶遇害",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从自媒体人视角切入，探讨舆论监督的勇气与代价，追问电诈产业链的黑色保护伞",
+   "hook_reason": "自媒体人曝光电诈后遇害，正义与黑暗的生死博弈",
+   "url": "https://www.toutiao.com/trending/7701138073098145323/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:曝光缅北电诈的自媒体人已遭买凶遇害"
+  },
+  "星巴克门店顾客减少销量却没受影响": {
+   "key": "星巴克门店顾客减少销量却没受影响",
+   "title": "星巴克门店顾客减少销量却没受影响",
+   "rating": "A",
+   "score": 51.25,
+   "angle": "揭秘星巴克'客流下降但销量稳健'的底层逻辑：数字化运营、第三空间溢价、会员体系与供应链优化如何对冲线下人流萎缩",
+   "hook_reason": "门店冷清销量却不降，星巴克凭什么？",
+   "url": "https://www.toutiao.com/trending/7700052790332407827/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:星巴克门店顾客减少销量却没受影响"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
