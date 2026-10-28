@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-10-28",
  "a_pending": [
   {
@@ -11723,19 +11723,6 @@
    "batch_window": 18
   },
   {
-   "key": "31岁女生按chatgpt指示减药后去世",
-   "title": "31岁女生按ChatGPT指示减药后去世",
-   "rating": "A",
-   "score": 78.45,
-   "angle": "从技术伦理切入，探讨AI产品在医疗建议边界的红线，提醒公众如何辨别高风险信息。",
-   "hook_reason": "ChatGPT致人死亡，AI是否该为悲剧负责？",
-   "url": "https://www.baidu.com/s?wd=31%E5%B2%81%E5%A5%B3%E7%94%9F%E6%8C%89ChatGPT%E6%8C%87%E7%A4%BA%E5%87%8F%E8%8D%AF%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:31岁女生按chatgpt指示减药后去世",
-   "batch_window": 20
-  },
-  {
    "key": "西班牙高铁列车追尾至少50死",
    "title": "西班牙高铁列车追尾至少50死",
    "rating": "A",
@@ -11747,6 +11734,58 @@
    "breaking": true,
    "event_id": "e:西班牙高铁列车追尾至少50死",
    "batch_window": 20
+  },
+  {
+   "key": "离职别忘了这笔钱",
+   "title": "离职别忘了这笔钱",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从劳动者视角拆解离职必领款项，配实操指南",
+   "hook_reason": "打工人都关心的离职权益，直接关联钱袋子",
+   "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E8%81%8C%E5%88%AB%E5%BF%98%E4%BA%86%E8%BF%99%E7%AC%94%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:离职别忘了这笔钱",
+   "batch_window": 21
+  },
+  {
+   "key": "amazontobuysatellitefirmglobalstarin1157bdeal",
+   "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "科技主稿：亚马逊卫星野心 vs 马斯克垄断；财经副稿：115亿并购背后的SpaceX竞争压力",
+   "hook_reason": "亚马逊115亿美元收购卫星公司，正面硬刚马斯克Starlink",
+   "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:amazontobuysatellitefirmglobalstarin1157",
+   "batch_window": 21
+  },
+  {
+   "key": "西班牙高铁相撞事故已造成50人死亡有中国公民受伤初步调查显示事故系人为失误所致具体情况如何",
+   "title": "西班牙高铁相撞事故已造成 50 人死亡，有中国公民受伤，初步调查显示事故系人为失误所致，具体情况如何？",
+   "rating": "A",
+   "score": 52.75,
+   "angle": "聚焦中国公民伤亡情况及领事救援进展，追问高铁安全机制与人为失误定责",
+   "hook_reason": "50死+中国公民受伤，人命关天且涉同胞安危，自带关注",
+   "url": "https://www.zhihu.com/question/2098832855782482837",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西班牙高铁相撞事故已造成50人死亡有中国公民受伤初步调查显示事故系人为失误所致具",
+   "batch_window": 21
+  },
+  {
+   "key": "媒体呼吁医疗真人秀叫停offer8会被整改或停播吗节目对医患信任的真实影响到底有多严重",
+   "title": "媒体呼吁「医疗真人秀叫停」，《offer 8》会被整改或停播吗？节目对医患信任的真实影响到底有多严重？",
+   "rating": "A",
+   "score": 63.55,
+   "angle": "以《offer 8》为切口，剖析医疗真人秀对医患信任的双刃剑效应及监管必要性",
+   "hook_reason": "医患关系+综艺翻车，戳中公众敏感神经",
+   "url": "https://www.zhihu.com/question/2098377875137062370",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:媒体呼吁医疗真人秀叫停offer8会被整改或停播吗节目对医患信任的真实影响到底有",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -12644,7 +12683,8 @@
   "恢复出厂不等于清空手机",
   "fingerprintsarethenewcookies",
   "jevmeetsthetrolleyproblem",
-  "legalexpertswarnmetasnewtermsstid7e3e52b"
+  "legalexpertswarnmetasnewtermsstid7e3e52b",
+  "31岁女生按chatgpt指示减药后去世"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13478,7 +13518,8 @@
   "e:恢复出厂不等于清空手机": "恢复出厂不等于清空手机",
   "e:fingerprintsarethenewcookies": "Fingerprints Are the New Cookies",
   "e:jevmeetsthetrolleyproblem": "Jev meets the Trolley Problem",
-  "e:legalexpertswarnmetasnewtermsstillgrantb": "Legal experts warn Meta's new terms still grant broad scraping permissions"
+  "e:legalexpertswarnmetasnewtermsstillgrantb": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+  "e:31岁女生按chatgpt指示减药后去世": "31岁女生按ChatGPT指示减药后去世"
  },
  "a_seen": {
   "17岁ai研究员被曝获700万年薪邀约": {
@@ -13924,8 +13965,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:西班牙高铁列车追尾至少50死"
+  },
+  "离职别忘了这笔钱": {
+   "key": "离职别忘了这笔钱",
+   "title": "离职别忘了这笔钱",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从劳动者视角拆解离职必领款项，配实操指南",
+   "hook_reason": "打工人都关心的离职权益，直接关联钱袋子",
+   "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E8%81%8C%E5%88%AB%E5%BF%98%E4%BA%86%E8%BF%99%E7%AC%94%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:离职别忘了这笔钱"
+  },
+  "amazontobuysatellitefirmglobalstarin1157bdeal": {
+   "key": "amazontobuysatellitefirmglobalstarin1157bdeal",
+   "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "科技主稿：亚马逊卫星野心 vs 马斯克垄断；财经副稿：115亿并购背后的SpaceX竞争压力",
+   "hook_reason": "亚马逊115亿美元收购卫星公司，正面硬刚马斯克Starlink",
+   "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:amazontobuysatellitefirmglobalstarin1157"
+  },
+  "西班牙高铁相撞事故已造成50人死亡有中国公民受伤初步调查显示事故系人为失误所致具体情况如何": {
+   "key": "西班牙高铁相撞事故已造成50人死亡有中国公民受伤初步调查显示事故系人为失误所致具体情况如何",
+   "title": "西班牙高铁相撞事故已造成 50 人死亡，有中国公民受伤，初步调查显示事故系人为失误所致，具体情况如何？",
+   "rating": "A",
+   "score": 52.75,
+   "angle": "聚焦中国公民伤亡情况及领事救援进展，追问高铁安全机制与人为失误定责",
+   "hook_reason": "50死+中国公民受伤，人命关天且涉同胞安危，自带关注",
+   "url": "https://www.zhihu.com/question/2098832855782482837",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西班牙高铁相撞事故已造成50人死亡有中国公民受伤初步调查显示事故系人为失误所致具"
+  },
+  "媒体呼吁医疗真人秀叫停offer8会被整改或停播吗节目对医患信任的真实影响到底有多严重": {
+   "key": "媒体呼吁医疗真人秀叫停offer8会被整改或停播吗节目对医患信任的真实影响到底有多严重",
+   "title": "媒体呼吁「医疗真人秀叫停」，《offer 8》会被整改或停播吗？节目对医患信任的真实影响到底有多严重？",
+   "rating": "A",
+   "score": 63.55,
+   "angle": "以《offer 8》为切口，剖析医疗真人秀对医患信任的双刃剑效应及监管必要性",
+   "hook_reason": "医患关系+综艺翻车，戳中公众敏感神经",
+   "url": "https://www.zhihu.com/question/2098377875137062370",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:媒体呼吁医疗真人秀叫停offer8会被整改或停播吗节目对医患信任的真实影响到底有"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
