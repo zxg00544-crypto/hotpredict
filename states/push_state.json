@@ -11736,19 +11736,6 @@
    "batch_window": 20
   },
   {
-   "key": "离职别忘了这笔钱",
-   "title": "离职别忘了这笔钱",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "从劳动者视角拆解离职必领款项，配实操指南",
-   "hook_reason": "打工人都关心的离职权益，直接关联钱袋子",
-   "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E8%81%8C%E5%88%AB%E5%BF%98%E4%BA%86%E8%BF%99%E7%AC%94%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:离职别忘了这笔钱",
-   "batch_window": 21
-  },
-  {
    "key": "amazontobuysatellitefirmglobalstarin1157bdeal",
    "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
    "rating": "A",
@@ -11786,6 +11773,19 @@
    "breaking": true,
    "event_id": "e:媒体呼吁医疗真人秀叫停offer8会被整改或停播吗节目对医患信任的真实影响到底有",
    "batch_window": 21
+  },
+  {
+   "key": "男子回应借助ai买彩票中508万",
+   "title": "男子回应借助AI买彩票中508万",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "AI彩票预测的边界：技术奇迹还是概率陷阱？",
+   "hook_reason": "AI买彩票中508万，技术改变命运还是运气？",
+   "url": "https://www.toutiao.com/trending/7701562501992824874/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:男子回应借助ai买彩票中508万",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -12684,7 +12684,8 @@
   "fingerprintsarethenewcookies",
   "jevmeetsthetrolleyproblem",
   "legalexpertswarnmetasnewtermsstid7e3e52b",
-  "31岁女生按chatgpt指示减药后去世"
+  "31岁女生按chatgpt指示减药后去世",
+  "离职别忘了这笔钱"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13519,7 +13520,8 @@
   "e:fingerprintsarethenewcookies": "Fingerprints Are the New Cookies",
   "e:jevmeetsthetrolleyproblem": "Jev meets the Trolley Problem",
   "e:legalexpertswarnmetasnewtermsstillgrantb": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-  "e:31岁女生按chatgpt指示减药后去世": "31岁女生按ChatGPT指示减药后去世"
+  "e:31岁女生按chatgpt指示减药后去世": "31岁女生按ChatGPT指示减药后去世",
+  "e:离职别忘了这笔钱": "离职别忘了这笔钱"
  },
  "a_seen": {
   "17岁ai研究员被曝获700万年薪邀约": {
@@ -14013,8 +14015,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:媒体呼吁医疗真人秀叫停offer8会被整改或停播吗节目对医患信任的真实影响到底有"
+  },
+  "男子回应借助ai买彩票中508万": {
+   "key": "男子回应借助ai买彩票中508万",
+   "title": "男子回应借助AI买彩票中508万",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "AI彩票预测的边界：技术奇迹还是概率陷阱？",
+   "hook_reason": "AI买彩票中508万，技术改变命运还是运气？",
+   "url": "https://www.toutiao.com/trending/7701562501992824874/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:男子回应借助ai买彩票中508万"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
