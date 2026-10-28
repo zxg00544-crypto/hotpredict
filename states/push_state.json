@@ -3507,19 +3507,6 @@
    "batch_window": 8
   },
   {
-   "key": "fingerprintsarethenewcookies",
-   "title": "Fingerprints Are the New Cookies",
-   "rating": "A",
-   "score": 77.5,
-   "angle": "从普通用户视角拆解浏览器指纹技术如何替代Cookie追踪，附自查方法",
-   "hook_reason": "每个人上网都被无痕追踪，比Cookie更致命却几乎没人注意到",
-   "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:fingerprintsarethenewcookies",
-   "batch_window": 9
-  },
-  {
    "key": "手机又涨1000块供货商称内存条像黄金一天一个价",
    "title": "手机又涨1000块 供货商称“内存条像黄金一天一个价”",
    "rating": "A",
@@ -11747,6 +11734,19 @@
    "breaking": true,
    "event_id": "e:央媒称不认可皇马表态此前皇马称姆巴佩仅代表个人俱乐部和中国赞助商合作照常皇马为何",
    "batch_window": 16
+  },
+  {
+   "key": "山西汾酒2026年第三季度净利润1899亿元同比下降3452",
+   "title": "山西汾酒：2026年第三季度净利润18.99亿元，同比下降34.52%",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "解读汾酒业绩下滑核心原因，结合白酒行业周期判断是否为阶段性调整",
+   "hook_reason": "知名酒企净利骤降超三成，市场关注业绩暴雷原因及行业影响",
+   "url": "https://finance.sina.cn/7x24/2026-10-28/detail-iniwuqvv9462522.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:山西汾酒2026年第三季度净利润1899亿元同比下降3452",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -12641,7 +12641,8 @@
   "黑龙江一婚宴设外卖席每人100餐标吃奶茶炸鸡麻辣烫你支持这种创新吗是否需要更考虑场合",
   "尊界v800刹车踏板支架断裂",
   "telegramdesktopvulnerabilityalloc6a4d2fc",
-  "恢复出厂不等于清空手机"
+  "恢复出厂不等于清空手机",
+  "fingerprintsarethenewcookies"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13472,7 +13473,8 @@
   "e:黑龙江一婚宴设外卖席每人100餐标吃奶茶炸鸡麻辣烫你支持这种创新吗是否需要更考虑": "黑龙江一婚宴设「外卖席」，每人 100 餐标吃奶茶炸鸡麻辣烫，你支持这种创新吗？是否需要更考虑场合？",
   "e:尊界v800刹车踏板支架断裂": "尊界V800刹车踏板支架断裂",
   "e:telegramdesktopvulnerabilityallowedanyus": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-  "e:恢复出厂不等于清空手机": "恢复出厂不等于清空手机"
+  "e:恢复出厂不等于清空手机": "恢复出厂不等于清空手机",
+  "e:fingerprintsarethenewcookies": "Fingerprints Are the New Cookies"
  },
  "a_seen": {
   "17岁ai研究员被曝获700万年薪邀约": {
@@ -13870,8 +13872,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:央媒称不认可皇马表态此前皇马称姆巴佩仅代表个人俱乐部和中国赞助商合作照常皇马为何"
+  },
+  "山西汾酒2026年第三季度净利润1899亿元同比下降3452": {
+   "key": "山西汾酒2026年第三季度净利润1899亿元同比下降3452",
+   "title": "山西汾酒：2026年第三季度净利润18.99亿元，同比下降34.52%",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "解读汾酒业绩下滑核心原因，结合白酒行业周期判断是否为阶段性调整",
+   "hook_reason": "知名酒企净利骤降超三成，市场关注业绩暴雷原因及行业影响",
+   "url": "https://finance.sina.cn/7x24/2026-10-28/detail-iniwuqvv9462522.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:山西汾酒2026年第三季度净利润1899亿元同比下降3452"
+  },
+  "如何看待皇马官方致歉称就姆巴佩近期言论对中国人民造成的不适表达歉意": {
+   "key": "如何看待皇马官方致歉称就姆巴佩近期言论对中国人民造成的不适表达歉意",
+   "title": "如何看待皇马官方致歉，称「就姆巴佩近期言论对中国人民造成的不适表达歉意」？",
+   "rating": "A",
+   "score": 43.95,
+   "angle": "从体育外交角度切入，剖析姆巴佩言论背后的民族情绪、商业考量与俱乐部危机公关",
+   "hook_reason": "皇马顶级俱乐部为中国道歉，民族情绪+体育圈大事件双重爆点",
+   "url": "https://www.zhihu.com/question/2098823562035295043",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国足协第一时间与皇马严正交涉"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
