@@ -5587,19 +5587,6 @@
    "batch_window": 6
   },
   {
-   "key": "jevmeetsthetrolleyproblem",
-   "title": "Jev meets the Trolley Problem",
-   "rating": "A",
-   "score": 77.5,
-   "angle": "以Jev视角切入电车难题，探讨科技精英面对AI伦理抉择时的思考与立场",
-   "hook_reason": "科技圈人物撞上经典伦理困境，引发深度道德讨论",
-   "url": "https://zachlandes.com/trolley-problem/",
-   "track": "大咖发言",
-   "breaking": false,
-   "event_id": "e:jevmeetsthetrolleyproblem",
-   "batch_window": 7
-  },
-  {
    "key": "车行老板油车比新能源车更保值",
    "title": "车行老板：油车比新能源车更保值",
    "rating": "A",
@@ -12642,7 +12629,8 @@
   "尊界v800刹车踏板支架断裂",
   "telegramdesktopvulnerabilityalloc6a4d2fc",
   "恢复出厂不等于清空手机",
-  "fingerprintsarethenewcookies"
+  "fingerprintsarethenewcookies",
+  "jevmeetsthetrolleyproblem"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13474,7 +13462,8 @@
   "e:尊界v800刹车踏板支架断裂": "尊界V800刹车踏板支架断裂",
   "e:telegramdesktopvulnerabilityallowedanyus": "Telegram Desktop vulnerability allowed any user's file to be stolen",
   "e:恢复出厂不等于清空手机": "恢复出厂不等于清空手机",
-  "e:fingerprintsarethenewcookies": "Fingerprints Are the New Cookies"
+  "e:fingerprintsarethenewcookies": "Fingerprints Are the New Cookies",
+  "e:jevmeetsthetrolleyproblem": "Jev meets the Trolley Problem"
  },
  "a_seen": {
   "17岁ai研究员被曝获700万年薪邀约": {
@@ -13899,5 +13888,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
