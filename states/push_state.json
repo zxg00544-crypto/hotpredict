@@ -6978,19 +6978,6 @@
    "batch_window": 20
   },
   {
-   "key": "legalexpertswarnmetasnewtermsstid7e3e52b",
-   "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-   "rating": "A",
-   "score": 77.5,
-   "angle": "聚焦法律专家警告与Meta政策博弈，呈现AI数据争夺前沿立场",
-   "hook_reason": "法律专家发声质疑Meta条款，AI数据战升级",
-   "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:legalexpertswarnmetasnewtermsstillgrantb",
-   "batch_window": 21
-  },
-  {
    "key": "美国能源部长赖特特朗普暂停对俄制裁是创新之举",
    "title": "美国能源部长赖特：特朗普暂停对俄制裁是创新之举。",
    "rating": "A",
@@ -11734,6 +11721,32 @@
    "breaking": true,
    "event_id": "e:山西汾酒2026年第三季度净利润1899亿元同比下降3452",
    "batch_window": 18
+  },
+  {
+   "key": "31岁女生按chatgpt指示减药后去世",
+   "title": "31岁女生按ChatGPT指示减药后去世",
+   "rating": "A",
+   "score": 78.45,
+   "angle": "从技术伦理切入，探讨AI产品在医疗建议边界的红线，提醒公众如何辨别高风险信息。",
+   "hook_reason": "ChatGPT致人死亡，AI是否该为悲剧负责？",
+   "url": "https://www.baidu.com/s?wd=31%E5%B2%81%E5%A5%B3%E7%94%9F%E6%8C%89ChatGPT%E6%8C%87%E7%A4%BA%E5%87%8F%E8%8D%AF%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:31岁女生按chatgpt指示减药后去世",
+   "batch_window": 20
+  },
+  {
+   "key": "西班牙高铁列车追尾至少50死",
+   "title": "西班牙高铁列车追尾至少50死",
+   "rating": "A",
+   "score": 53.5,
+   "angle": "从高铁安全标准、事故原因调查、国际对比切入，聚焦救援进展与责任追究",
+   "hook_reason": "西班牙高铁重大事故50人遇难，触发公众对出行安全的强烈关注",
+   "url": "https://www.toutiao.com/trending/7700953614743191593/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西班牙高铁列车追尾至少50死",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -12630,7 +12643,8 @@
   "telegramdesktopvulnerabilityalloc6a4d2fc",
   "恢复出厂不等于清空手机",
   "fingerprintsarethenewcookies",
-  "jevmeetsthetrolleyproblem"
+  "jevmeetsthetrolleyproblem",
+  "legalexpertswarnmetasnewtermsstid7e3e52b"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13463,7 +13477,8 @@
   "e:telegramdesktopvulnerabilityallowedanyus": "Telegram Desktop vulnerability allowed any user's file to be stolen",
   "e:恢复出厂不等于清空手机": "恢复出厂不等于清空手机",
   "e:fingerprintsarethenewcookies": "Fingerprints Are the New Cookies",
-  "e:jevmeetsthetrolleyproblem": "Jev meets the Trolley Problem"
+  "e:jevmeetsthetrolleyproblem": "Jev meets the Trolley Problem",
+  "e:legalexpertswarnmetasnewtermsstillgrantb": "Legal experts warn Meta's new terms still grant broad scraping permissions"
  },
  "a_seen": {
   "17岁ai研究员被曝获700万年薪邀约": {
@@ -13885,8 +13900,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:中国足协第一时间与皇马严正交涉"
+  },
+  "31岁女生按chatgpt指示减药后去世": {
+   "key": "31岁女生按chatgpt指示减药后去世",
+   "title": "31岁女生按ChatGPT指示减药后去世",
+   "rating": "A",
+   "score": 78.45,
+   "angle": "从技术伦理切入，探讨AI产品在医疗建议边界的红线，提醒公众如何辨别高风险信息。",
+   "hook_reason": "ChatGPT致人死亡，AI是否该为悲剧负责？",
+   "url": "https://www.baidu.com/s?wd=31%E5%B2%81%E5%A5%B3%E7%94%9F%E6%8C%89ChatGPT%E6%8C%87%E7%A4%BA%E5%87%8F%E8%8D%AF%E5%90%8E%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:31岁女生按chatgpt指示减药后去世"
+  },
+  "西班牙高铁列车追尾至少50死": {
+   "key": "西班牙高铁列车追尾至少50死",
+   "title": "西班牙高铁列车追尾至少50死",
+   "rating": "A",
+   "score": 53.5,
+   "angle": "从高铁安全标准、事故原因调查、国际对比切入，聚焦救援进展与责任追究",
+   "hook_reason": "西班牙高铁重大事故50人遇难，触发公众对出行安全的强烈关注",
+   "url": "https://www.toutiao.com/trending/7700953614743191593/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西班牙高铁列车追尾至少50死"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
