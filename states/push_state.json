@@ -11645,19 +11645,6 @@
    "batch_window": 9
   },
   {
-   "key": "超市生鲜一夜间全都变质国安部提醒",
-   "title": "超市生鲜一夜间全都变质？国安部提醒",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从国安部角度切入，解读生鲜变质的背后是否涉及生物安全威胁，关联公众日常安全感",
-   "hook_reason": "国安部突然发声，民生恐慌+国家安全双重钩子，读者必点",
-   "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%B8%82%E7%94%9F%E9%B2%9C%E4%B8%80%E5%A4%9C%E9%97%B4%E5%85%A8%E9%83%BD%E5%8F%98%E8%B4%A8%EF%BC%9F%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:超市生鲜一夜间全都变质国安部提醒",
-   "batch_window": 10
-  },
-  {
    "key": "黑龙江一婚宴设外卖席每人100餐标吃奶茶炸鸡麻辣烫你支持这种创新吗是否需要更考虑场合",
    "title": "黑龙江一婚宴设「外卖席」，每人 100 餐标吃奶茶炸鸡麻辣烫，你支持这种创新吗？是否需要更考虑场合？",
    "rating": "A",
@@ -11695,6 +11682,58 @@
    "breaking": true,
    "event_id": "e:小博索纳罗已流亡美国",
    "batch_window": 11
+  },
+  {
+   "key": "人人都会变老为什么要嘲笑老登",
+   "title": "“人人都会变老 为什么要嘲笑老登”",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从'人人都会变老'切入，讨论网络热词'老登'背后折射的年龄焦虑与社会代际矛盾",
+   "hook_reason": "戳中年龄焦虑，人人都会老的共情点+代际冲突",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%BA%E4%BA%BA%E9%83%BD%E4%BC%9A%E5%8F%98%E8%80%81+%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%98%B2%E7%AC%91%E8%80%81%E7%99%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:人人都会变老为什么要嘲笑老登",
+   "batch_window": 12
+  },
+  {
+   "key": "gitforuslegislation",
+   "title": "Git for US Legislation",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从程序员视角切入：代码能版本管理，法律怎么管？科技改变立法效率的想象空间",
+   "hook_reason": "美国立法首次用Git版本控制，程序员的天堂新闻",
+   "url": "https://lexifina.com/blog/git-for-the-us-code",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gitforuslegislation",
+   "batch_window": 12
+  },
+  {
+   "key": "罗翔用ai做了个视频",
+   "title": "罗翔用AI做了个视频",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "罗翔作为普法顶流人物率先用AI做视频，折射知识精英拥抱新技术趋势，兼具人文关怀与科技话题性",
+   "hook_reason": "法学顶流罗翔+AI技术跨界碰撞，知识圈+科技圈双圈层关注",
+   "url": "https://search.bilibili.com/all?keyword=罗翔用AI做了个视频",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:罗翔用ai做了个视频",
+   "batch_window": 12
+  },
+  {
+   "key": "米哈游法务部非法获取并破解游戏测试版本内容泄密人员被判赔100万元",
+   "title": "米哈游法务部：非法获取并破解游戏测试版本内容，泄密人员被判赔100万元",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "以100万天价赔偿切入，探讨游戏行业保密红线与知识产权保护，警示行业内幕爆料代价",
+   "hook_reason": "米哈游泄密判赔100万，游戏圈大瓜+法律警示，玩家必看",
+   "url": "https://finance.sina.cn/7x24/2026-10-28/detail-iniwtxya3452200.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:米哈游法务部非法获取并破解游戏测试版本内容泄密人员被判赔100万元",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -12583,7 +12622,8 @@
   "小米澎程n90max高速爆胎测试视频一镜到底时速160kmh7人满载同侧双",
   "德总统在安徽开电车体验手机停车",
   "菲军舰跟踪辽宁舰全世界都笑了",
-  "身家1270亿周群飞成中国女首富"
+  "身家1270亿周群飞成中国女首富",
+  "超市生鲜一夜间全都变质国安部提醒"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13408,7 +13448,8 @@
   "e:小米澎程n90max高速爆胎测试视频一镜到底时速160kmh7人满载同侧双": "#小米澎程# N90 Max 高速爆胎测试视频，一镜到底！ 时速160km/h、7人满载、同侧双",
   "e:德总统在安徽开电车体验手机停车": "德总统在安徽开电车体验手机停车",
   "e:菲军舰跟踪辽宁舰全世界都笑了": "菲军舰“跟踪”辽宁舰？全世界都笑了",
-  "e:身家1270亿周群飞成中国女首富": "身家1270亿周群飞成中国女首富"
+  "e:身家1270亿周群飞成中国女首富": "身家1270亿周群飞成中国女首富",
+  "e:超市生鲜一夜间全都变质国安部提醒": "超市生鲜一夜间全都变质？国安部提醒"
  },
  "a_seen": {
   "17岁ai研究员被曝获700万年薪邀约": {
@@ -13686,8 +13727,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:小博索纳罗已流亡美国"
+  },
+  "人人都会变老为什么要嘲笑老登": {
+   "key": "人人都会变老为什么要嘲笑老登",
+   "title": "“人人都会变老 为什么要嘲笑老登”",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从'人人都会变老'切入，讨论网络热词'老登'背后折射的年龄焦虑与社会代际矛盾",
+   "hook_reason": "戳中年龄焦虑，人人都会老的共情点+代际冲突",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%BA%E4%BA%BA%E9%83%BD%E4%BC%9A%E5%8F%98%E8%80%81+%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%98%B2%E7%AC%91%E8%80%81%E7%99%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:人人都会变老为什么要嘲笑老登"
+  },
+  "gitforuslegislation": {
+   "key": "gitforuslegislation",
+   "title": "Git for US Legislation",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从程序员视角切入：代码能版本管理，法律怎么管？科技改变立法效率的想象空间",
+   "hook_reason": "美国立法首次用Git版本控制，程序员的天堂新闻",
+   "url": "https://lexifina.com/blog/git-for-the-us-code",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gitforuslegislation"
+  },
+  "罗翔用ai做了个视频": {
+   "key": "罗翔用ai做了个视频",
+   "title": "罗翔用AI做了个视频",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "罗翔作为普法顶流人物率先用AI做视频，折射知识精英拥抱新技术趋势，兼具人文关怀与科技话题性",
+   "hook_reason": "法学顶流罗翔+AI技术跨界碰撞，知识圈+科技圈双圈层关注",
+   "url": "https://search.bilibili.com/all?keyword=罗翔用AI做了个视频",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:罗翔用ai做了个视频"
+  },
+  "米哈游法务部非法获取并破解游戏测试版本内容泄密人员被判赔100万元": {
+   "key": "米哈游法务部非法获取并破解游戏测试版本内容泄密人员被判赔100万元",
+   "title": "米哈游法务部：非法获取并破解游戏测试版本内容，泄密人员被判赔100万元",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "以100万天价赔偿切入，探讨游戏行业保密红线与知识产权保护，警示行业内幕爆料代价",
+   "hook_reason": "米哈游泄密判赔100万，游戏圈大瓜+法律警示，玩家必看",
+   "url": "https://finance.sina.cn/7x24/2026-10-28/detail-iniwtxya3452200.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:米哈游法务部非法获取并破解游戏测试版本内容泄密人员被判赔100万元"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
