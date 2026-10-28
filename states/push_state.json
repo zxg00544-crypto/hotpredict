@@ -7355,19 +7355,6 @@
    "batch_window": 3
   },
   {
-   "key": "ibuiltadronewithonlyonemotorvideo",
-   "title": "I built a drone with only one motor [video]",
-   "rating": "A",
-   "score": 77.5,
-   "angle": "硬核DIY视角：一人一电机挑战物理极限，HN登顶+1h爆发",
-   "hook_reason": "单电机无人机反直觉设计，极客圈爆炸传播",
-   "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:ibuiltadronewithonlyonemotorvideo",
-   "batch_window": 4
-  },
-  {
    "key": "theobscuretrustloomingoveranthropicsipo",
    "title": "The obscure trust looming over Anthropic's IPO",
    "rating": "A",
@@ -12683,7 +12670,9 @@
   "俄罗斯9月份货物运输量同比增长22",
   "英国首相伯纳姆重申英国未来12个月内不会提前举行大选",
   "西班牙高铁相撞事故已致68死",
-  "西班牙高铁相撞事故已造成64人死亡有中国公民受伤初步调查显示事故系人为失误所致具体情况如何"
+  "西班牙高铁相撞事故已造成64人死亡有中国公民受伤初步调查显示事故系人为失误所致具体情况如何",
+  "苹果touchmacbookpro提供m5pro和m5max芯片选项",
+  "ibuiltadronewithonlyonemotorvideo"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13530,7 +13519,9 @@
   "e:俄罗斯9月份货物运输量同比增长22": "俄罗斯9月份货物运输量同比增长2.2%。",
   "e:英国首相伯纳姆重申英国未来12个月内不会提前举行大选": "英国首相伯纳姆重申英国未来12个月内不会提前举行大选。",
   "e:西班牙高铁相撞事故已致68死": "西班牙高铁相撞事故已致68死",
-  "e:西班牙高铁相撞事故已造成64人死亡有中国公民受伤初步调查显示事故系人为失误所致具": "西班牙高铁相撞事故已造成 64 人死亡，有中国公民受伤，初步调查显示事故系人为失误所致，具体情况如何？"
+  "e:西班牙高铁相撞事故已造成64人死亡有中国公民受伤初步调查显示事故系人为失误所致具": "西班牙高铁相撞事故已造成 64 人死亡，有中国公民受伤，初步调查显示事故系人为失误所致，具体情况如何？",
+  "e:苹果touchmacbookpro提供m5pro和m5max芯片选项": "苹果Touch MacBook Pro提供M5 Pro和M5 Max芯片选项。",
+  "e:ibuiltadronewithonlyonemotorvideo": "I built a drone with only one motor [video]"
  },
  "a_seen": {
   "西班牙高铁相撞事故已致68死": {
@@ -13546,6 +13537,6 @@
    "event_id": "e:西班牙高铁相撞事故已致68死"
   }
  },
- "breaking_count": 9,
- "a_pushed_window": 0
+ "breaking_count": 10,
+ "a_pushed_window": 1
 }
