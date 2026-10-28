@@ -11775,17 +11775,17 @@
    "batch_window": 21
   },
   {
-   "key": "男子回应借助ai买彩票中508万",
-   "title": "男子回应借助AI买彩票中508万",
+   "key": "西班牙高铁相撞事故已造成64人死亡有中国公民受伤初步调查显示事故系人为失误所致具体情况如何",
+   "title": "西班牙高铁相撞事故已造成 64 人死亡，有中国公民受伤，初步调查显示事故系人为失误所致，具体情况如何？",
    "rating": "A",
-   "score": 83.0,
-   "angle": "AI彩票预测的边界：技术奇迹还是概率陷阱？",
-   "hook_reason": "AI买彩票中508万，技术改变命运还是运气？",
-   "url": "https://www.toutiao.com/trending/7701562501992824874/",
-   "track": "科技",
+   "score": 78.85,
+   "angle": "国际重大高铁事故追踪：伤亡人数、中国公民救援进展、事故原因深度解读",
+   "hook_reason": "中国公民西班牙高铁事故伤亡，重大国际突发事件",
+   "url": "https://www.zhihu.com/question/2098832855782482837",
+   "track": "社会热点",
    "breaking": true,
-   "event_id": "e:男子回应借助ai买彩票中508万",
-   "batch_window": 22
+   "event_id": "e:西班牙高铁相撞事故已造成64人死亡有中国公民受伤初步调查显示事故系人为失误所致具",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -12685,7 +12685,8 @@
   "jevmeetsthetrolleyproblem",
   "legalexpertswarnmetasnewtermsstid7e3e52b",
   "31岁女生按chatgpt指示减药后去世",
-  "离职别忘了这笔钱"
+  "离职别忘了这笔钱",
+  "男子回应借助ai买彩票中508万"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13521,7 +13522,8 @@
   "e:jevmeetsthetrolleyproblem": "Jev meets the Trolley Problem",
   "e:legalexpertswarnmetasnewtermsstillgrantb": "Legal experts warn Meta's new terms still grant broad scraping permissions",
   "e:31岁女生按chatgpt指示减药后去世": "31岁女生按ChatGPT指示减药后去世",
-  "e:离职别忘了这笔钱": "离职别忘了这笔钱"
+  "e:离职别忘了这笔钱": "离职别忘了这笔钱",
+  "e:男子回应借助ai买彩票中508万": "男子回应借助AI买彩票中508万"
  },
  "a_seen": {
   "17岁ai研究员被曝获700万年薪邀约": {
@@ -14027,8 +14029,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:男子回应借助ai买彩票中508万"
+  },
+  "西班牙高铁相撞事故已造成64人死亡有中国公民受伤初步调查显示事故系人为失误所致具体情况如何": {
+   "key": "西班牙高铁相撞事故已造成64人死亡有中国公民受伤初步调查显示事故系人为失误所致具体情况如何",
+   "title": "西班牙高铁相撞事故已造成 64 人死亡，有中国公民受伤，初步调查显示事故系人为失误所致，具体情况如何？",
+   "rating": "A",
+   "score": 78.85,
+   "angle": "国际重大高铁事故追踪：伤亡人数、中国公民救援进展、事故原因深度解读",
+   "hook_reason": "中国公民西班牙高铁事故伤亡，重大国际突发事件",
+   "url": "https://www.zhihu.com/question/2098832855782482837",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西班牙高铁相撞事故已造成64人死亡有中国公民受伤初步调查显示事故系人为失误所致具"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
