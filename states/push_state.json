@@ -9045,19 +9045,6 @@
    "batch_window": 8
   },
   {
-   "key": "llmsaremakingformalsoftwareverife05ee7a0",
-   "title": "LLMs are making formal software verification feasible at a much larger scale",
-   "rating": "A",
-   "score": 77.5,
-   "angle": "从软件测试瓶颈切入，解析LLM如何突破形式化验证工业落地难题",
-   "hook_reason": "Anthropic研究：LLM让形式化验证规模化成为可能",
-   "url": "https://www.anthropic.com/research/formal-verification",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:llmsaremakingformalsoftwareverificationf",
-   "batch_window": 9
-  },
-  {
    "key": "为什么我国在黄海要进行持续47天的实弹射击释放了哪些信号",
    "title": "为什么我国在黄海要进行持续 47 天的实弹射击？释放了哪些信号？",
    "rating": "A",
@@ -11825,6 +11812,19 @@
    "breaking": true,
    "event_id": "e:微软cfo预计日历年资本开支大概为1700亿美元",
    "batch_window": 6
+  },
+  {
+   "key": "惠誉警告人工智能热潮和收益率上升威胁全球市场",
+   "title": "惠誉警告：人工智能热潮和收益率上升威胁全球市场",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从惠誉警告切入，拆解AI估值泡沫 vs 真实增长，给读者判断是机会还是风险",
+   "hook_reason": "权威评级机构首次明确警告AI泡沫，直击投资人神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwvsie6216996.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:惠誉警告人工智能热潮和收益率上升威胁全球市场",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -12742,7 +12742,8 @@
   "php2shellaiuncoverscriticalrceinphp",
   "cve2026111943compromisedintermedb3dc1cb2",
   "30多万元机器人进厂目前速度比人慢",
-  "王传福获中国汽车工业最高荣誉饶斌奖"
+  "王传福获中国汽车工业最高荣誉饶斌奖",
+  "llmsaremakingformalsoftwareverife05ee7a0"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13596,7 +13597,8 @@
   "e:php2shellaiuncoverscriticalrceinphp": "PHP2Shell: AI uncovers critical RCE in PHP",
   "e:cve2026111943compromisedintermediatecert": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
   "e:30多万元机器人进厂目前速度比人慢": "30多万元机器人进厂目前速度比人慢",
-  "e:王传福获中国汽车工业最高荣誉饶斌奖": "王传福获中国汽车工业最高荣誉饶斌奖"
+  "e:王传福获中国汽车工业最高荣誉饶斌奖": "王传福获中国汽车工业最高荣誉饶斌奖",
+  "e:llmsaremakingformalsoftwareverificationf": "LLMs are making formal software verification feasible at a much larger scale"
  },
  "a_seen": {
   "西班牙高铁相撞事故已致68死": {
@@ -13627,9 +13629,9 @@
    "key": "dayjobtaxevaluatingaiagentson50p0de356c1",
    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
    "rating": "A",
-   "score": 76.5,
-   "angle": "AI Agent落地专业领域实测报告，对比人类专业人士的表现差距",
-   "hook_reason": "AI Agent能否胜任专业税务工作？50个真实任务实测",
+   "score": 75.7,
+   "angle": "从AI agent实测数据切入，探讨AI在专业场景的真实能力边界与职业替代焦虑",
+   "hook_reason": "AI agent实测50个真实税务任务，专业替代能力引热议",
    "url": "https://surgehq.ai/blog/dayjob-tax",
    "track": "科技",
    "breaking": false,
@@ -13754,8 +13756,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:微软cfo预计日历年资本开支大概为1700亿美元"
+  },
+  "惠誉警告人工智能热潮和收益率上升威胁全球市场": {
+   "key": "惠誉警告人工智能热潮和收益率上升威胁全球市场",
+   "title": "惠誉警告：人工智能热潮和收益率上升威胁全球市场",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从惠誉警告切入，拆解AI估值泡沫 vs 真实增长，给读者判断是机会还是风险",
+   "hook_reason": "权威评级机构首次明确警告AI泡沫，直击投资人神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwvsie6216996.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:惠誉警告人工智能热潮和收益率上升威胁全球市场"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
