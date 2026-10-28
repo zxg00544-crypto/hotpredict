@@ -8655,19 +8655,6 @@
    "batch_window": 18
   },
   {
-   "key": "cve2026111943compromisedintermedb3dc1cb2",
-   "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-   "rating": "A",
-   "score": 77.5,
-   "angle": "标题：'你的网银密码白给了'——证书机构被黑背后的信任危机",
-   "hook_reason": "核心证书机构被攻破，所有HTTPS网站安全性存疑，读者会担心自己的账号资金安全",
-   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:cve2026111943compromisedintermediatecert",
-   "batch_window": 18
-  },
-  {
    "key": "创业板指跌超4失守2600点如何看待当前a股市场行情",
    "title": "创业板指跌超4%，失守2600点，如何看待当前A股市场行情？",
    "rating": "A",
@@ -11799,6 +11786,45 @@
    "breaking": true,
    "event_id": "e:空客ceo我们已根据将从普惠和cfm获得的发动机数量调整了生产计划",
    "batch_window": 3
+  },
+  {
+   "key": "ai债务供应激增华尔街信贷市场开始吃不消",
+   "title": "AI债务供应激增 华尔街信贷市场开始吃不消",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "切入AI融资泡沫论，从华尔街信贷收紧角度解读科技资本退潮风险",
+   "hook_reason": "AI泡沫担忧直击投资者神经，华尔街信贷承压引爆焦虑情绪",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzk3059815.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:ai债务供应激增华尔街信贷市场开始吃不消",
+   "batch_window": 4
+  },
+  {
+   "key": "谷歌母公司alphabetgemini应用程序的用户数量已达10亿",
+   "title": "谷歌母公司Alphabet：GEMINI应用程序的用户数量已达10亿。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "谷歌AI用户破10亿背后：AI应用层竞赛白热化，巨头如何争夺大众市场",
+   "hook_reason": "AI军备竞赛新里程碑，谷歌10亿用户硬刚OpenAI",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzp5615614.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:谷歌母公司alphabetgemini应用程序的用户数量已达10亿",
+   "batch_window": 4
+  },
+  {
+   "key": "30多万元机器人进厂目前速度比人慢",
+   "title": "30多万元机器人进厂目前速度比人慢",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从成本与效率的落差切入，探讨国产机器人商业化落地的真实困境与突破方向",
+   "hook_reason": "机器人比人还慢？30万投入值不值，打工人的焦虑与期待",
+   "url": "https://www.toutiao.com/trending/7700583596558336041/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:30多万元机器人进厂目前速度比人慢",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -12713,7 +12739,8 @@
   "苹果touchmacbookpro提供m5pro和m5max芯片选项",
   "ibuiltadronewithonlyonemotorvideo",
   "deepseekjustopensourceditsinferenceengine",
-  "php2shellaiuncoverscriticalrceinphp"
+  "php2shellaiuncoverscriticalrceinphp",
+  "cve2026111943compromisedintermedb3dc1cb2"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13564,7 +13591,8 @@
   "e:苹果touchmacbookpro提供m5pro和m5max芯片选项": "苹果Touch MacBook Pro提供M5 Pro和M5 Max芯片选项。",
   "e:ibuiltadronewithonlyonemotorvideo": "I built a drone with only one motor [video]",
   "e:deepseekjustopensourceditsinferenceengin": "DeepSeek just open-sourced its inference engine",
-  "e:php2shellaiuncoverscriticalrceinphp": "PHP2Shell: AI uncovers critical RCE in PHP"
+  "e:php2shellaiuncoverscriticalrceinphp": "PHP2Shell: AI uncovers critical RCE in PHP",
+  "e:cve2026111943compromisedintermediatecert": "CVE-2026-111943: Compromised Intermediate Certificate Authority"
  },
  "a_seen": {
   "西班牙高铁相撞事故已致68死": {
@@ -13631,9 +13659,9 @@
    "key": "whyisthisfingerprintingscriptcreatingbioweapons",
    "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
    "rating": "A",
-   "score": 76.5,
-   "angle": "揭秘安全研究工具被恶意改造成生物武器的手段，探讨科技双刃剑伦理边界",
-   "hook_reason": "指纹脚本竟成生物武器？科技黑产新威胁曝光",
+   "score": 77.5,
+   "angle": "从技术滥用视角切入，探讨AI/脚本如何意外放大生物安全威胁，引用HN社区讨论与专家警示",
+   "hook_reason": "生物武器威胁+技术滥用风险，直击公众安全焦虑",
    "url": "https://nullpt.rs/fingerprinting-bioweapons",
    "track": "科技",
    "breaking": true,
@@ -13662,8 +13690,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:macbookprowithproledxdrdisplayandtouch"
+  },
+  "ai债务供应激增华尔街信贷市场开始吃不消": {
+   "key": "ai债务供应激增华尔街信贷市场开始吃不消",
+   "title": "AI债务供应激增 华尔街信贷市场开始吃不消",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "切入AI融资泡沫论，从华尔街信贷收紧角度解读科技资本退潮风险",
+   "hook_reason": "AI泡沫担忧直击投资者神经，华尔街信贷承压引爆焦虑情绪",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzk3059815.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:ai债务供应激增华尔街信贷市场开始吃不消"
+  },
+  "谷歌母公司alphabetgemini应用程序的用户数量已达10亿": {
+   "key": "谷歌母公司alphabetgemini应用程序的用户数量已达10亿",
+   "title": "谷歌母公司Alphabet：GEMINI应用程序的用户数量已达10亿。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "谷歌AI用户破10亿背后：AI应用层竞赛白热化，巨头如何争夺大众市场",
+   "hook_reason": "AI军备竞赛新里程碑，谷歌10亿用户硬刚OpenAI",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzp5615614.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:谷歌母公司alphabetgemini应用程序的用户数量已达10亿"
+  },
+  "30多万元机器人进厂目前速度比人慢": {
+   "key": "30多万元机器人进厂目前速度比人慢",
+   "title": "30多万元机器人进厂目前速度比人慢",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从成本与效率的落差切入，探讨国产机器人商业化落地的真实困境与突破方向",
+   "hook_reason": "机器人比人还慢？30万投入值不值，打工人的焦虑与期待",
+   "url": "https://www.toutiao.com/trending/7700583596558336041/",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:30多万元机器人进厂目前速度比人慢"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
