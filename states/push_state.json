@@ -11814,17 +11814,17 @@
    "batch_window": 4
   },
   {
-   "key": "30多万元机器人进厂目前速度比人慢",
-   "title": "30多万元机器人进厂目前速度比人慢",
+   "key": "王传福获中国汽车工业最高荣誉饶斌奖",
+   "title": "王传福获中国汽车工业最高荣誉饶斌奖",
    "rating": "A",
-   "score": 92.0,
-   "angle": "从成本与效率的落差切入，探讨国产机器人商业化落地的真实困境与突破方向",
-   "hook_reason": "机器人比人还慢？30万投入值不值，打工人的焦虑与期待",
-   "url": "https://www.toutiao.com/trending/7700583596558336041/",
-   "track": "科技",
+   "score": 85.95,
+   "angle": "聚焦王传福获奖背后的比亚迪成长史，链接新能源汽车产业崛起与中国制造出海",
+   "hook_reason": "中国汽车工业最高荣誉，王传福获此殊荣引关注",
+   "url": "https://www.toutiao.com/trending/7701634227460194826/",
+   "track": "大咖发言",
    "breaking": false,
-   "event_id": "e:30多万元机器人进厂目前速度比人慢",
-   "batch_window": 4
+   "event_id": "e:王传福获中国汽车工业最高荣誉饶斌奖",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -12740,7 +12740,8 @@
   "ibuiltadronewithonlyonemotorvideo",
   "deepseekjustopensourceditsinferenceengine",
   "php2shellaiuncoverscriticalrceinphp",
-  "cve2026111943compromisedintermedb3dc1cb2"
+  "cve2026111943compromisedintermedb3dc1cb2",
+  "30多万元机器人进厂目前速度比人慢"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13592,7 +13593,8 @@
   "e:ibuiltadronewithonlyonemotorvideo": "I built a drone with only one motor [video]",
   "e:deepseekjustopensourceditsinferenceengin": "DeepSeek just open-sourced its inference engine",
   "e:php2shellaiuncoverscriticalrceinphp": "PHP2Shell: AI uncovers critical RCE in PHP",
-  "e:cve2026111943compromisedintermediatecert": "CVE-2026-111943: Compromised Intermediate Certificate Authority"
+  "e:cve2026111943compromisedintermediatecert": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+  "e:30多万元机器人进厂目前速度比人慢": "30多万元机器人进厂目前速度比人慢"
  },
  "a_seen": {
   "西班牙高铁相撞事故已致68死": {
@@ -13623,12 +13625,12 @@
    "key": "dayjobtaxevaluatingaiagentson50p0de356c1",
    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
    "rating": "A",
-   "score": 75.8,
-   "angle": "从AI能否替代专业税务师切入，探讨AI agent在垂直领域的真实能力边界",
-   "hook_reason": "AI代理挑战专业税务师，50份真实案例实测引发职业替代焦虑",
+   "score": 76.5,
+   "angle": "AI Agent落地专业领域实测报告，对比人类专业人士的表现差距",
+   "hook_reason": "AI Agent能否胜任专业税务工作？50个真实任务实测",
    "url": "https://surgehq.ai/blog/dayjob-tax",
    "track": "科技",
-   "breaking": true,
+   "breaking": false,
    "event_id": "e:dayjobtaxevaluatingaiagentson50professio"
   },
   "macbookprowithproledxdrdisplayandtouch": {
@@ -13726,8 +13728,20 @@
    "track": "科技",
    "breaking": false,
    "event_id": "e:30多万元机器人进厂目前速度比人慢"
+  },
+  "王传福获中国汽车工业最高荣誉饶斌奖": {
+   "key": "王传福获中国汽车工业最高荣誉饶斌奖",
+   "title": "王传福获中国汽车工业最高荣誉饶斌奖",
+   "rating": "A",
+   "score": 85.95,
+   "angle": "聚焦王传福获奖背后的比亚迪成长史，链接新能源汽车产业崛起与中国制造出海",
+   "hook_reason": "中国汽车工业最高荣誉，王传福获此殊荣引关注",
+   "url": "https://www.toutiao.com/trending/7701634227460194826/",
+   "track": "大咖发言",
+   "breaking": false,
+   "event_id": "e:王传福获中国汽车工业最高荣誉饶斌奖"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
