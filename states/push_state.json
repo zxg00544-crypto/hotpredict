@@ -7537,19 +7537,6 @@
    "batch_window": 17
   },
   {
-   "key": "deepseekjustopensourceditsinferenceengine",
-   "title": "DeepSeek just open-sourced its inference engine",
-   "rating": "A",
-   "score": 77.5,
-   "angle": "从开发者视角解读开源对AI创业与国产算力替代的利好",
-   "hook_reason": "DeepSeek开源推理引擎，降低AI开发门槛，冲击英伟达生态",
-   "url": "https://github.com/deepseek-ai/DeepInfer",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:deepseekjustopensourceditsinferenceengin",
-   "batch_window": 18
-  },
-  {
    "key": "前段时间博主带锤看车周二瓶对小米澎程n70pro做了一次全车拆解从热成型钢车身铝",
    "title": "前段时间，博主 @带锤看车-周二瓶 对小米澎程N70 Pro做了一次全车拆解，从热成型钢车身、铝",
    "rating": "A",
@@ -11760,6 +11747,19 @@
    "breaking": true,
    "event_id": "e:媒体呼吁医疗真人秀叫停offer8会被整改或停播吗节目对医患信任的真实影响到底有",
    "batch_window": 21
+  },
+  {
+   "key": "美联储fomc声明要点总结",
+   "title": "美联储FOMC声明要点总结",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "逐条拆解声明核心信号，用大白话告诉读者'对你钱包意味着什么'",
+   "hook_reason": "美联储加息/降息直接影响亿万投资者钱包，市场敏感度极高",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwvftk6391074.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储fomc声明要点总结",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -12672,7 +12672,8 @@
   "西班牙高铁相撞事故已致68死",
   "西班牙高铁相撞事故已造成64人死亡有中国公民受伤初步调查显示事故系人为失误所致具体情况如何",
   "苹果touchmacbookpro提供m5pro和m5max芯片选项",
-  "ibuiltadronewithonlyonemotorvideo"
+  "ibuiltadronewithonlyonemotorvideo",
+  "deepseekjustopensourceditsinferenceengine"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13521,7 +13522,8 @@
   "e:西班牙高铁相撞事故已致68死": "西班牙高铁相撞事故已致68死",
   "e:西班牙高铁相撞事故已造成64人死亡有中国公民受伤初步调查显示事故系人为失误所致具": "西班牙高铁相撞事故已造成 64 人死亡，有中国公民受伤，初步调查显示事故系人为失误所致，具体情况如何？",
   "e:苹果touchmacbookpro提供m5pro和m5max芯片选项": "苹果Touch MacBook Pro提供M5 Pro和M5 Max芯片选项。",
-  "e:ibuiltadronewithonlyonemotorvideo": "I built a drone with only one motor [video]"
+  "e:ibuiltadronewithonlyonemotorvideo": "I built a drone with only one motor [video]",
+  "e:deepseekjustopensourceditsinferenceengin": "DeepSeek just open-sourced its inference engine"
  },
  "a_seen": {
   "西班牙高铁相撞事故已致68死": {
@@ -13535,8 +13537,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:西班牙高铁相撞事故已致68死"
+  },
+  "美联储fomc声明要点总结": {
+   "key": "美联储fomc声明要点总结",
+   "title": "美联储FOMC声明要点总结",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "逐条拆解声明核心信号，用大白话告诉读者'对你钱包意味着什么'",
+   "hook_reason": "美联储加息/降息直接影响亿万投资者钱包，市场敏感度极高",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwvftk6391074.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储fomc声明要点总结"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
