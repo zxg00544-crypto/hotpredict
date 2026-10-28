@@ -2662,19 +2662,6 @@
    "batch_window": 13
   },
   {
-   "key": "telegramdesktopvulnerabilityalloc6a4d2fc",
-   "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-   "rating": "A",
-   "score": 77.5,
-   "angle": "从普通用户视角切入，拆解漏洞原理+自救指南，附带Telegram安全设置教程",
-   "hook_reason": "Telegram千万级用户PC端曝高危漏洞，文件随时被偷",
-   "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:telegramdesktopvulnerabilityallowedanyus",
-   "batch_window": 14
-  },
-  {
    "key": "鼓励支持灵活就业人员参加职工养老险",
    "title": "鼓励支持灵活就业人员参加职工养老险",
    "rating": "A",
@@ -11747,6 +11734,32 @@
    "breaking": true,
    "event_id": "e:gta6游戏大小确认为210g",
    "batch_window": 14
+  },
+  {
+   "key": "恢复出厂不等于清空手机",
+   "title": "恢复出厂不等于清空手机",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "科技科普角度：恢复出厂设置并非真正清空数据，黑客可轻易恢复，引发大众对手机隐私安全的恐慌与关注",
+   "hook_reason": "重置手机=隐私裸奔？揭秘90%人不知道的隐患",
+   "url": "https://www.baidu.com/s?wd=%E6%81%A2%E5%A4%8D%E5%87%BA%E5%8E%82%E4%B8%8D%E7%AD%89%E4%BA%8E%E6%B8%85%E7%A9%BA%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:恢复出厂不等于清空手机",
+   "batch_window": 16
+  },
+  {
+   "key": "央媒称不认可皇马表态此前皇马称姆巴佩仅代表个人俱乐部和中国赞助商合作照常皇马为何敢如此傲慢",
+   "title": "央媒称不认可皇马表态，此前皇马称姆巴佩仅代表个人，俱乐部和中国赞助商合作照常，皇马为何敢如此「傲慢」？",
+   "rating": "A",
+   "score": 47.39,
+   "angle": "央媒为何此时发声？皇马表态背后是国际品牌对中国市场的傲慢还是误判？赞助商的真实处境如何？",
+   "hook_reason": "央媒硬刚国际豪门，涉及中国赞助商利益与民族情绪，话题张力拉满",
+   "url": "https://www.zhihu.com/question/2098687138820616288",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:央媒称不认可皇马表态此前皇马称姆巴佩仅代表个人俱乐部和中国赞助商合作照常皇马为何",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -12639,7 +12652,8 @@
   "超市生鲜一夜间全都变质国安部提醒",
   "人人都会变老为什么要嘲笑老登",
   "黑龙江一婚宴设外卖席每人100餐标吃奶茶炸鸡麻辣烫你支持这种创新吗是否需要更考虑场合",
-  "尊界v800刹车踏板支架断裂"
+  "尊界v800刹车踏板支架断裂",
+  "telegramdesktopvulnerabilityalloc6a4d2fc"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13468,7 +13482,8 @@
   "e:超市生鲜一夜间全都变质国安部提醒": "超市生鲜一夜间全都变质？国安部提醒",
   "e:人人都会变老为什么要嘲笑老登": "“人人都会变老 为什么要嘲笑老登”",
   "e:黑龙江一婚宴设外卖席每人100餐标吃奶茶炸鸡麻辣烫你支持这种创新吗是否需要更考虑": "黑龙江一婚宴设「外卖席」，每人 100 餐标吃奶茶炸鸡麻辣烫，你支持这种创新吗？是否需要更考虑场合？",
-  "e:尊界v800刹车踏板支架断裂": "尊界V800刹车踏板支架断裂"
+  "e:尊界v800刹车踏板支架断裂": "尊界V800刹车踏板支架断裂",
+  "e:telegramdesktopvulnerabilityallowedanyus": "Telegram Desktop vulnerability allowed any user's file to be stolen"
  },
  "a_seen": {
   "17岁ai研究员被曝获700万年薪邀约": {
@@ -13842,8 +13857,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:gta6游戏大小确认为210g"
+  },
+  "恢复出厂不等于清空手机": {
+   "key": "恢复出厂不等于清空手机",
+   "title": "恢复出厂不等于清空手机",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "科技科普角度：恢复出厂设置并非真正清空数据，黑客可轻易恢复，引发大众对手机隐私安全的恐慌与关注",
+   "hook_reason": "重置手机=隐私裸奔？揭秘90%人不知道的隐患",
+   "url": "https://www.baidu.com/s?wd=%E6%81%A2%E5%A4%8D%E5%87%BA%E5%8E%82%E4%B8%8D%E7%AD%89%E4%BA%8E%E6%B8%85%E7%A9%BA%E6%89%8B%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:恢复出厂不等于清空手机"
+  },
+  "央媒称不认可皇马表态此前皇马称姆巴佩仅代表个人俱乐部和中国赞助商合作照常皇马为何敢如此傲慢": {
+   "key": "央媒称不认可皇马表态此前皇马称姆巴佩仅代表个人俱乐部和中国赞助商合作照常皇马为何敢如此傲慢",
+   "title": "央媒称不认可皇马表态，此前皇马称姆巴佩仅代表个人，俱乐部和中国赞助商合作照常，皇马为何敢如此「傲慢」？",
+   "rating": "A",
+   "score": 47.39,
+   "angle": "央媒为何此时发声？皇马表态背后是国际品牌对中国市场的傲慢还是误判？赞助商的真实处境如何？",
+   "hook_reason": "央媒硬刚国际豪门，涉及中国赞助商利益与民族情绪，话题张力拉满",
+   "url": "https://www.zhihu.com/question/2098687138820616288",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:央媒称不认可皇马表态此前皇马称姆巴佩仅代表个人俱乐部和中国赞助商合作照常皇马为何"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 15
+ "a_pushed_window": 16
 }
