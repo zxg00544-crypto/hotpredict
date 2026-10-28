@@ -11773,6 +11773,32 @@
    "breaking": true,
    "event_id": "e:macbookprowithproledxdrdisplayandtouch",
    "batch_window": 3
+  },
+  {
+   "key": "whyisthisfingerprintingscriptcreatingbioweapons",
+   "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "揭秘安全研究工具被恶意改造成生物武器的手段，探讨科技双刃剑伦理边界",
+   "hook_reason": "指纹脚本竟成生物武器？科技黑产新威胁曝光",
+   "url": "https://nullpt.rs/fingerprinting-bioweapons",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whyisthisfingerprintingscriptcreatingbio",
+   "batch_window": 3
+  },
+  {
+   "key": "空客ceo我们已根据将从普惠和cfm获得的发动机数量调整了生产计划",
+   "title": "空客CEO：我们已根据将从普惠和CFM获得的发动机数量调整了生产计划。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从供应链博弈视角，解读空客如何在大飞机发动机依赖下自救布局，影响产业链投资逻辑",
+   "hook_reason": "空客CEO突发回应供应链调整，直接影响航空制造巨头战略动向",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzp5604245.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:空客ceo我们已根据将从普惠和cfm获得的发动机数量调整了生产计划",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -13582,8 +13608,8 @@
    "title": "MacBook Pro with PROLED XDR Display and Touch",
    "rating": "A",
    "score": 70.17,
-   "angle": "从苹果硬件创新角度切入，分析PROLED+触控如何重塑笔记本用户体验，解读技术落地背后的产业信号",
-   "hook_reason": "苹果首发PROLED屏+触控MacBook，笔记本交互革命来了",
+   "angle": "苹果PROLED技术揭秘：MacBook显示能力跨越式升级，从业者必须关注",
+   "hook_reason": "苹果首发PROLED屏幕，MacBook迎来显示技术革命",
    "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
    "track": "科技",
    "breaking": true,
@@ -13600,6 +13626,42 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:emudhraintermediatecacompromise"
+  },
+  "whyisthisfingerprintingscriptcreatingbioweapons": {
+   "key": "whyisthisfingerprintingscriptcreatingbioweapons",
+   "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "揭秘安全研究工具被恶意改造成生物武器的手段，探讨科技双刃剑伦理边界",
+   "hook_reason": "指纹脚本竟成生物武器？科技黑产新威胁曝光",
+   "url": "https://nullpt.rs/fingerprinting-bioweapons",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whyisthisfingerprintingscriptcreatingbio"
+  },
+  "空客ceo我们已根据将从普惠和cfm获得的发动机数量调整了生产计划": {
+   "key": "空客ceo我们已根据将从普惠和cfm获得的发动机数量调整了生产计划",
+   "title": "空客CEO：我们已根据将从普惠和CFM获得的发动机数量调整了生产计划。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从供应链博弈视角，解读空客如何在大飞机发动机依赖下自救布局，影响产业链投资逻辑",
+   "hook_reason": "空客CEO突发回应供应链调整，直接影响航空制造巨头战略动向",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzp5604245.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:空客ceo我们已根据将从普惠和cfm获得的发动机数量调整了生产计划"
+  },
+  "苹果发布首款触屏macbookpro": {
+   "key": "苹果发布首款触屏macbookpro",
+   "title": "苹果发布首款触屏MacBook Pro",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "触屏Mac是否真能替代触控板？专业创作者会买单吗？",
+   "hook_reason": "苹果首次触屏MacBook，颠覆传统触控板体验",
+   "url": "https://search.bilibili.com/all?keyword=苹果发布首款触屏MacBook Pro",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:macbookprowithproledxdrdisplayandtouch"
   }
  },
  "breaking_count": 10,
