@@ -12243,17 +12243,30 @@
    "batch_window": 5
   },
   {
-   "key": "binancehacker102956bstolenfrombinance",
-   "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+   "key": "weranaiagentswarmsinminecraftandmindustry",
+   "title": "We ran AI agent swarms in Minecraft and Mindustry",
    "rating": "A",
-   "score": 83.0,
-   "angle": "从交易所安全漏洞切入，分析Web3资产托管风险，给出个人投资者防护指南",
-   "hook_reason": "史上最大交易所被盗案，56亿美金牵动所有币圈投资者神经",
-   "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+   "score": 76.5,
+   "angle": "AI Agent集群实验揭示通用智能路径，游戏成AI沙盒新战场",
+   "hook_reason": "YC Labs用游戏测试AI群体智能，技术前沿+趣味场景",
+   "url": "https://labs.ycombinator.com/projects/games/index.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:weranaiagentswarmsinminecraftandmindustr",
+   "batch_window": 7
+  },
+  {
+   "key": "光通信易中天集体就业绩预期作出最新回应",
+   "title": "光通信“易中天”集体就业绩预期作出最新回应",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从光通信板块集体业绩预期切入，解读AI算力需求对产业链的拉动效应与风险点",
+   "hook_reason": "多只光通信龙头集体回应业绩预期，市场高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwxzqa5647056.d.html",
    "track": "财经",
    "breaking": true,
-   "event_id": "e:binancehacker102956bstolenfrombinance",
-   "batch_window": 6
+   "event_id": "e:光通信易中天集体就业绩预期作出最新回应",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -13205,7 +13218,8 @@
   "专家a股将迎来修复",
   "10元快剪正暴打全国的设计总监",
   "forgingamicrosoftedgefullchainwithlogicbugsonly",
-  "华为制药军团表态其公司定位是医药行业的ai赋能者而不是跟大家抢着做药意味着什么背后有哪些考量"
+  "华为制药军团表态其公司定位是医药行业的ai赋能者而不是跟大家抢着做药意味着什么背后有哪些考量",
+  "binancehacker102956bstolenfrombinance"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14093,7 +14107,8 @@
   "e:专家a股将迎来修复": "专家：A股将迎来修复",
   "e:10元快剪正暴打全国的设计总监": "10元快剪正暴打全国的“设计总监”",
   "e:forgingamicrosoftedgefullchainwithlogicb": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-  "e:华为制药军团表态其公司定位是医药行业的ai赋能者而不是跟大家抢着做药意味着什么背": "华为制药军团表态，其公司定位是医药行业的AI赋能者，而不是跟大家抢着做药，意味着什么？背后有哪些考量？"
+  "e:华为制药军团表态其公司定位是医药行业的ai赋能者而不是跟大家抢着做药意味着什么背": "华为制药军团表态，其公司定位是医药行业的AI赋能者，而不是跟大家抢着做药，意味着什么？背后有哪些考量？",
+  "e:binancehacker102956bstolenfrombinance": "Binance-hacker-1029 – $5.6B stolen from Binance"
  },
  "a_seen": {
   "mistrallarge4lechonkisnowopenweight": {
@@ -14215,8 +14230,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:binancehacker102956bstolenfrombinance"
+  },
+  "weranaiagentswarmsinminecraftandmindustry": {
+   "key": "weranaiagentswarmsinminecraftandmindustry",
+   "title": "We ran AI agent swarms in Minecraft and Mindustry",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "AI Agent集群实验揭示通用智能路径，游戏成AI沙盒新战场",
+   "hook_reason": "YC Labs用游戏测试AI群体智能，技术前沿+趣味场景",
+   "url": "https://labs.ycombinator.com/projects/games/index.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:weranaiagentswarmsinminecraftandmindustr"
+  },
+  "光通信易中天集体就业绩预期作出最新回应": {
+   "key": "光通信易中天集体就业绩预期作出最新回应",
+   "title": "光通信“易中天”集体就业绩预期作出最新回应",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从光通信板块集体业绩预期切入，解读AI算力需求对产业链的拉动效应与风险点",
+   "hook_reason": "多只光通信龙头集体回应业绩预期，市场高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwxzqa5647056.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:光通信易中天集体就业绩预期作出最新回应"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
