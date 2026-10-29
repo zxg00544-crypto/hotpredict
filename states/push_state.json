@@ -12165,19 +12165,6 @@
    "batch_window": 16
   },
   {
-   "key": "红果国内第四大app",
-   "title": "红果 国内第四大App",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "红果如何以免费短剧切入突围，挑战BAT生态位，短视频赛道格局生变",
-   "hook_reason": "国产短剧App强势登顶，字节系再下一城，颠覆格局",
-   "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%9E%9C+%E5%9B%BD%E5%86%85%E7%AC%AC%E5%9B%9B%E5%A4%A7App&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:红果国内第四大app",
-   "batch_window": 17
-  },
-  {
    "key": "forgingamicrosoftedgefullchainwithlogicbugsonly",
    "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
    "rating": "A",
@@ -12293,6 +12280,19 @@
    "breaking": true,
    "event_id": "e:10元快剪正暴打全国的设计总监",
    "batch_window": 22
+  },
+  {
+   "key": "一条牛仔裤20万克罗心还能撑多久",
+   "title": "一条牛仔裤20万 克罗心还能撑多久",
+   "rating": "A",
+   "score": 85.61,
+   "angle": "从克罗心牛仔裤20万切入，拆解奢侈品牌溢价逻辑与消费者心理，解读高端市场是否会因",
+   "hook_reason": "20万一条牛仔裤引爆消费争议，奢侈品牌溢价能否持续引围观",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E7%89%9B%E4%BB%94%E8%A3%A420%E4%B8%87+%E5%85%8B%E7%BD%97%E5%BF%83%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:一条牛仔裤20万克罗心还能撑多久",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -13226,7 +13226,8 @@
   "巴基斯坦禁飞台独像热锅上蚂蚁",
   "国防部评电视剧交锋",
   "二十届五中全会公报",
-  "老外想去赏秋被司机拉到商丘"
+  "老外想去赏秋被司机拉到商丘",
+  "红果国内第四大app"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14096,7 +14097,8 @@
   "e:巴基斯坦禁飞台独像热锅上蚂蚁": "巴基斯坦禁飞 “台独”像热锅上蚂蚁",
   "e:国防部评电视剧交锋": "国防部评电视剧《交锋》",
   "e:二十届五中全会公报": "二十届五中全会公报",
-  "e:老外想去赏秋被司机拉到商丘": "老外想去赏秋被司机拉到商丘"
+  "e:老外想去赏秋被司机拉到商丘": "老外想去赏秋被司机拉到商丘",
+  "e:红果国内第四大app": "红果 国内第四大App"
  },
  "a_seen": {
   "西班牙高铁相撞事故已致68死": {
@@ -14883,15 +14885,27 @@
    "key": "10元快剪正暴打全国的设计总监",
    "title": "10元快剪正暴打全国的“设计总监”",
    "rating": "A",
-   "score": 83.7,
-   "angle": "消费降级背景下，快剪模式如何击中打工人省钱刚需，传统理发店的困局与转型",
-   "hook_reason": "10元理发的反差冲击+年轻人省钱智慧，谁还没被理发店坑过？",
+   "score": 76.55,
+   "angle": "消费降级时代，低成本服务正在重塑各行业格局，设计总监也能被'暴打'，折射出中产焦虑与职场重构",
+   "hook_reason": "10元快剪打败设计总监，扎心共鸣打工人职业焦虑",
    "url": "https://www.baidu.com/s?wd=10%E5%85%83%E5%BF%AB%E5%89%AA%E6%AD%A3%E6%9A%B4%E6%89%93%E5%85%A8%E5%9B%BD%E7%9A%84%E2%80%9C%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%9B%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:10元快剪正暴打全国的设计总监"
+  },
+  "一条牛仔裤20万克罗心还能撑多久": {
+   "key": "一条牛仔裤20万克罗心还能撑多久",
+   "title": "一条牛仔裤20万 克罗心还能撑多久",
+   "rating": "A",
+   "score": 85.61,
+   "angle": "从克罗心牛仔裤20万切入，拆解奢侈品牌溢价逻辑与消费者心理，解读高端市场是否会因",
+   "hook_reason": "20万一条牛仔裤引爆消费争议，奢侈品牌溢价能否持续引围观",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E7%89%9B%E4%BB%94%E8%A3%A420%E4%B8%87+%E5%85%8B%E7%BD%97%E5%BF%83%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:一条牛仔裤20万克罗心还能撑多久"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
