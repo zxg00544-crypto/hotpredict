@@ -12035,19 +12035,6 @@
    "batch_window": 13
   },
   {
-   "key": "科普书出现双头虾图片出版社称正在下架召回为何出现如此明显错误科普类出版该限制ai配图吗",
-   "title": "科普书出现「双头虾」图片，出版社称正在下架召回，为何出现如此明显错误？科普类出版该限制 AI 配图吗？",
-   "rating": "A",
-   "score": 86.0,
-   "angle": "从AI配图错误切入，盘点出版行业AI应用乱象，呼吁建立审核机制",
-   "hook_reason": "AI配图翻车引爆舆论，科普书都敢用，读者还敢信谁",
-   "url": "https://www.zhihu.com/question/2098771415411291576",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:科普书出现双头虾图片出版社称正在下架召回为何出现如此明显错误科普类出版该限制ai",
-   "batch_window": 14
-  },
-  {
    "key": "当网友奔赴婚礼社会正悄悄缝合孤独",
    "title": "当网友奔赴婚礼社会正悄悄缝合孤独",
    "rating": "A",
@@ -12085,6 +12072,84 @@
    "breaking": true,
    "event_id": "e:anthropic宣布编程面试已死程序员靠什么证明自己",
    "batch_window": 14
+  },
+  {
+   "key": "如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死这一事件",
+   "title": "如何评价亚马逊前华人女工程师疑似按照ChatGPT的建议自行减少抗癫痫药物后猝死这一事件？",
+   "rating": "A",
+   "score": 84.54,
+   "angle": "切入AI医疗建议红线：当ChatGPT开始指导用药，谁该为错误负责？科技公司与监管真空亟待补位",
+   "hook_reason": "AI建议致人死亡，触及每个AI使用者的安全底线恐惧",
+   "url": "https://www.zhihu.com/question/2098895782283841766",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死",
+   "batch_window": 15
+  },
+  {
+   "key": "奥斯卡我深知要尊重中国人",
+   "title": "奥斯卡：我深知要尊重中国人",
+   "rating": "A",
+   "score": 87.6,
+   "angle": "从奥斯卡获奖者发言切入，解读好莱坞对华态度转变及其背后的文化政治博弈",
+   "hook_reason": "国际名人罕见公开表态尊重中国，民族情绪+名人效应双触发",
+   "url": "https://www.toutiao.com/trending/7701885624315428883/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:奥斯卡我深知要尊重中国人",
+   "batch_window": 15
+  },
+  {
+   "key": "厂里为了降成本把计件单价压低了结果老员工走了新员工招不来这烂摊子怎么收拾",
+   "title": "厂里为了降成本把计件单价压低了，结果老员工走了，新员工招不来，这烂摊子怎么收拾？",
+   "rating": "A",
+   "score": 71.34,
+   "angle": "以工厂老板'省小钱亏大钱'的决策失误为切口，揭示制造业用工荒背后的成本逻辑与人性博弈",
+   "hook_reason": "打工人集体共鸣+劳资矛盾真相，戳中无数人打工痛点",
+   "url": "https://www.zhihu.com/question/2097941932748153681",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:厂里为了降成本把计件单价压低了结果老员工走了新员工招不来这烂摊子怎么收拾",
+   "batch_window": 15
+  },
+  {
+   "key": "智元稚晖君很多跳舞机器人本质上都是闭着眼睛的动作模仿实时感知响应是靠遥控器无法做到的",
+   "title": "智元稚晖君：很多跳舞机器人本质上都是闭着眼睛的动作模仿，实时感知响应是靠遥控器无法做到的",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从\"闭眼跳舞\"切入，剖析机器人从动作模仿到实时感知的技术鸿沟",
+   "hook_reason": "稚晖君犀利点评机器人痛点，直击行业认知盲区",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwwpnw2814281.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:智元稚晖君很多跳舞机器人本质上都是闭着眼睛的动作模仿实时感知响应是靠遥控器无法做",
+   "batch_window": 15
+  },
+  {
+   "key": "迪拜航班安全事件五大疑点",
+   "title": "迪拜航班安全事件五大疑点",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "深度解析五大疑点，串联航空安全公众情绪",
+   "hook_reason": "航班安全突发+五大疑点悬念，直击出行焦虑",
+   "url": "https://search.bilibili.com/all?keyword=迪拜航班安全事件五大疑点",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:迪拜航班安全事件五大疑点",
+   "batch_window": 15
+  },
+  {
+   "key": "claudecoderegularlysendseachback5b0695ee",
+   "title": "Claude Code regularly sends each background agent’s transcript to its model",
+   "rating": "A",
+   "score": 40.7,
+   "angle": "从用户视角切入，剖析AI工具数据隐私边界，引发开发者及普通用户信任危机讨论",
+   "hook_reason": "AI工具隐私泄露疑云，谁还敢放心用？",
+   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:claudecoderegularlysendseachbackgroundag",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -13010,7 +13075,8 @@
   "长鑫科技已被纳入上证综指和上证科创综指均位列第一大权重股其股价波动会给指数带来多大影响",
   "美国各界热议要不要对中国车开放若放宽准入会对美本土汽车产业带来哪些冲击",
   "普京盛赞马斯克他是真正的天才",
-  "gdp十强城市出炉又一轮大洗牌要来了"
+  "gdp十强城市出炉又一轮大洗牌要来了",
+  "科普书出现双头虾图片出版社称正在下架召回为何出现如此明显错误科普类出版该限制ai配图吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13872,7 +13938,8 @@
   "e:长鑫科技已被纳入上证综指和上证科创综指均位列第一大权重股其股价波动会给指数带来多": "长鑫科技已被纳入上证综指和上证科创综指，均位列第一大权重股，其股价波动会给指数带来多大影响？",
   "e:美国各界热议要不要对中国车开放若放宽准入会对美本土汽车产业带来哪些冲击": "美国各界热议「要不要对中国车开放」，若放宽准入会对美本土汽车产业带来哪些冲击？",
   "e:普京盛赞马斯克他是真正的天才": "普京盛赞马斯克：他是真正的天才",
-  "e:gdp十强城市出炉又一轮大洗牌要来了": "GDP十强城市出炉 又一轮大洗牌要来了"
+  "e:gdp十强城市出炉又一轮大洗牌要来了": "GDP十强城市出炉 又一轮大洗牌要来了",
+  "e:科普书出现双头虾图片出版社称正在下架召回为何出现如此明显错误科普类出版该限制ai": "科普书出现「双头虾」图片，出版社称正在下架召回，为何出现如此明显错误？科普类出版该限制 AI 配图吗？"
  },
  "a_seen": {
   "西班牙高铁相撞事故已致68死": {
@@ -14378,8 +14445,80 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:anthropic宣布编程面试已死程序员靠什么证明自己"
+  },
+  "如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死这一事件": {
+   "key": "如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死这一事件",
+   "title": "如何评价亚马逊前华人女工程师疑似按照ChatGPT的建议自行减少抗癫痫药物后猝死这一事件？",
+   "rating": "A",
+   "score": 84.54,
+   "angle": "切入AI医疗建议红线：当ChatGPT开始指导用药，谁该为错误负责？科技公司与监管真空亟待补位",
+   "hook_reason": "AI建议致人死亡，触及每个AI使用者的安全底线恐惧",
+   "url": "https://www.zhihu.com/question/2098895782283841766",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死"
+  },
+  "奥斯卡我深知要尊重中国人": {
+   "key": "奥斯卡我深知要尊重中国人",
+   "title": "奥斯卡：我深知要尊重中国人",
+   "rating": "A",
+   "score": 87.6,
+   "angle": "从奥斯卡获奖者发言切入，解读好莱坞对华态度转变及其背后的文化政治博弈",
+   "hook_reason": "国际名人罕见公开表态尊重中国，民族情绪+名人效应双触发",
+   "url": "https://www.toutiao.com/trending/7701885624315428883/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:奥斯卡我深知要尊重中国人"
+  },
+  "厂里为了降成本把计件单价压低了结果老员工走了新员工招不来这烂摊子怎么收拾": {
+   "key": "厂里为了降成本把计件单价压低了结果老员工走了新员工招不来这烂摊子怎么收拾",
+   "title": "厂里为了降成本把计件单价压低了，结果老员工走了，新员工招不来，这烂摊子怎么收拾？",
+   "rating": "A",
+   "score": 71.34,
+   "angle": "以工厂老板'省小钱亏大钱'的决策失误为切口，揭示制造业用工荒背后的成本逻辑与人性博弈",
+   "hook_reason": "打工人集体共鸣+劳资矛盾真相，戳中无数人打工痛点",
+   "url": "https://www.zhihu.com/question/2097941932748153681",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:厂里为了降成本把计件单价压低了结果老员工走了新员工招不来这烂摊子怎么收拾"
+  },
+  "智元稚晖君很多跳舞机器人本质上都是闭着眼睛的动作模仿实时感知响应是靠遥控器无法做到的": {
+   "key": "智元稚晖君很多跳舞机器人本质上都是闭着眼睛的动作模仿实时感知响应是靠遥控器无法做到的",
+   "title": "智元稚晖君：很多跳舞机器人本质上都是闭着眼睛的动作模仿，实时感知响应是靠遥控器无法做到的",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从\"闭眼跳舞\"切入，剖析机器人从动作模仿到实时感知的技术鸿沟",
+   "hook_reason": "稚晖君犀利点评机器人痛点，直击行业认知盲区",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwwpnw2814281.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:智元稚晖君很多跳舞机器人本质上都是闭着眼睛的动作模仿实时感知响应是靠遥控器无法做"
+  },
+  "迪拜航班安全事件五大疑点": {
+   "key": "迪拜航班安全事件五大疑点",
+   "title": "迪拜航班安全事件五大疑点",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "深度解析五大疑点，串联航空安全公众情绪",
+   "hook_reason": "航班安全突发+五大疑点悬念，直击出行焦虑",
+   "url": "https://search.bilibili.com/all?keyword=迪拜航班安全事件五大疑点",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:迪拜航班安全事件五大疑点"
+  },
+  "claudecoderegularlysendseachback5b0695ee": {
+   "key": "claudecoderegularlysendseachback5b0695ee",
+   "title": "Claude Code regularly sends each background agent’s transcript to its model",
+   "rating": "A",
+   "score": 40.7,
+   "angle": "从用户视角切入，剖析AI工具数据隐私边界，引发开发者及普通用户信任危机讨论",
+   "hook_reason": "AI工具隐私泄露疑云，谁还敢放心用？",
+   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:claudecoderegularlysendseachbackgroundag"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 14
+ "a_pushed_window": 15
 }
