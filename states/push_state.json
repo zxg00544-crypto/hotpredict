@@ -12241,6 +12241,19 @@
    "breaking": true,
    "event_id": "e:patrickstewarthasdied",
    "batch_window": 5
+  },
+  {
+   "key": "binancehacker102956bstolenfrombinance",
+   "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "从交易所安全漏洞切入，分析Web3资产托管风险，给出个人投资者防护指南",
+   "hook_reason": "史上最大交易所被盗案，56亿美金牵动所有币圈投资者神经",
+   "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:binancehacker102956bstolenfrombinance",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -14190,6 +14203,18 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:patrickstewarthasdied"
+  },
+  "binancehacker102956bstolenfrombinance": {
+   "key": "binancehacker102956bstolenfrombinance",
+   "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "从交易所安全漏洞切入，分析Web3资产托管风险，给出个人投资者防护指南",
+   "hook_reason": "史上最大交易所被盗案，56亿美金牵动所有币圈投资者神经",
+   "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:binancehacker102956bstolenfrombinance"
   }
  },
  "breaking_count": 10,
