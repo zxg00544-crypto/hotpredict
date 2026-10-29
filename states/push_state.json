@@ -11853,19 +11853,6 @@
    "batch_window": 9
   },
   {
-   "key": "39岁中国籍老板在泰遭袭身亡",
-   "title": "39岁中国籍老板在泰遭袭身亡",
-   "rating": "A",
-   "score": 90.62,
-   "angle": "从海外公民安全角度切入，引发读者对自身出境安全的担忧与讨论",
-   "hook_reason": "海外华人遇害，牵动同胞安全感与愤怒情绪",
-   "url": "https://www.toutiao.com/trending/7701620289176470026/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:39岁中国籍老板在泰遭袭身亡",
-   "batch_window": 9
-  },
-  {
    "key": "美国各界热议要不要对中国车开放若放宽准入会对美本土汽车产业带来哪些冲击",
    "title": "美国各界热议「要不要对中国车开放」，若放宽准入会对美本土汽车产业带来哪些冲击？",
    "rating": "A",
@@ -11903,6 +11890,71 @@
    "breaking": true,
    "event_id": "e:三星电子与2026年相比2027年ai驱动的需求增长将远远超过行业供应",
    "batch_window": 9
+  },
+  {
+   "key": "thefirstwiredxrglassespoweredbyandroidxr",
+   "title": "The first wired XR glasses powered by Android XR",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "首款Android XR有线眼镜发布，Google用硬件+平台双轮布局XR，移动生态与苹果Vision Pro正面碰撞",
+   "hook_reason": "Google首款Android XR眼镜发布，移动XR进入硬件元年",
+   "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thefirstwiredxrglassespoweredbyandroidxr",
+   "batch_window": 10
+  },
+  {
+   "key": "qwenputerafunctioningdeterminist7ea9f34b",
+   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "Qwen3.5内置RISC-V CPU，AI与硬件融合里程碑",
+   "hook_reason": "AI模型内部造出CPU，技术突破震撼",
+   "url": "https://divagr.com/blog/qwenputer",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:qwenputerafunctioningdeterministicriscvc",
+   "batch_window": 10
+  },
+  {
+   "key": "商业航天概念探底回升上海港湾钧达股份上海沪工顺灏股份等多股涨停乾照光电",
+   "title": "商业航天概念探底回升，上海港湾、钧达股份、上海沪工、顺灏股份等多股涨停，乾照光电",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "商业航天板块异动背后：政策扶持+订单落地共振，拆解龙头股逻辑与跟风机会",
+   "hook_reason": "多股涨停引爆市场情绪，商业航天国家战略赛道资金抢筹信号明显",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwwaxa2862167.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:商业航天概念探底回升上海港湾钧达股份上海沪工顺灏股份等多股涨停乾照光电",
+   "batch_window": 10
+  },
+  {
+   "key": "伊朗外长仍在与调解方磋商重开霍尔木兹海峡计划",
+   "title": "伊朗外长：仍在与调解方磋商重开霍尔木兹海峡计划",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从霍尔木兹海峡局势看全球能源供应链脆弱性，解读油价波动逻辑与投资者应对策略",
+   "hook_reason": "全球石油命脉再悬一线，油价将怎么走？",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwwaxf5384438.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗外长仍在与调解方磋商重开霍尔木兹海峡计划",
+   "batch_window": 10
+  },
+  {
+   "key": "腾讯将发布混元新模型hy4hy4flash",
+   "title": "腾讯将发布混元新模型Hy4 、Hy4 flash",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "腾讯推出Hy4/flash双轨模型，标志其AI战略从追赶转向差异化竞争，解析对腾讯云及国内AI格局的影响",
+   "hook_reason": "腾讯混元AI大模型重磅升级，大厂竞逐AGI赛道再掀波澜",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwwaxa2859119.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:腾讯将发布混元新模型hy4hy4flash",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -12823,7 +12875,8 @@
   "王传福获中国汽车工业最高荣誉饶斌奖",
   "llmsaremakingformalsoftwareverife05ee7a0",
   "陶哲轩转发多位数学家抵制openai的文章怎么看待该观点这将对ai数学研究带来哪些改变",
-  "igaveopus55onepromptandsixhourst43484513"
+  "igaveopus55onepromptandsixhourst43484513",
+  "39岁中国籍老板在泰遭袭身亡"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13680,7 +13733,8 @@
   "e:王传福获中国汽车工业最高荣誉饶斌奖": "王传福获中国汽车工业最高荣誉饶斌奖",
   "e:llmsaremakingformalsoftwareverificationf": "LLMs are making formal software verification feasible at a much larger scale",
   "e:陶哲轩转发多位数学家抵制openai的文章怎么看待该观点这将对ai数学研究带来哪": "陶哲轩转发多位数学家抵制 OpenAI 的文章，怎么看待该观点？这将对 AI 数学研究带来哪些改变？",
-  "e:igaveopus55onepromptandsixhourstovisuali": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities"
+  "e:igaveopus55onepromptandsixhourstovisuali": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+  "e:39岁中国籍老板在泰遭袭身亡": "39岁中国籍老板在泰遭袭身亡"
  },
  "a_seen": {
   "西班牙高铁相撞事故已致68死": {
@@ -13958,8 +14012,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:三星电子与2026年相比2027年ai驱动的需求增长将远远超过行业供应"
+  },
+  "thefirstwiredxrglassespoweredbyandroidxr": {
+   "key": "thefirstwiredxrglassespoweredbyandroidxr",
+   "title": "The first wired XR glasses powered by Android XR",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "首款Android XR有线眼镜发布，Google用硬件+平台双轮布局XR，移动生态与苹果Vision Pro正面碰撞",
+   "hook_reason": "Google首款Android XR眼镜发布，移动XR进入硬件元年",
+   "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thefirstwiredxrglassespoweredbyandroidxr"
+  },
+  "qwenputerafunctioningdeterminist7ea9f34b": {
+   "key": "qwenputerafunctioningdeterminist7ea9f34b",
+   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "Qwen3.5内置RISC-V CPU，AI与硬件融合里程碑",
+   "hook_reason": "AI模型内部造出CPU，技术突破震撼",
+   "url": "https://divagr.com/blog/qwenputer",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:qwenputerafunctioningdeterministicriscvc"
+  },
+  "商业航天概念探底回升上海港湾钧达股份上海沪工顺灏股份等多股涨停乾照光电": {
+   "key": "商业航天概念探底回升上海港湾钧达股份上海沪工顺灏股份等多股涨停乾照光电",
+   "title": "商业航天概念探底回升，上海港湾、钧达股份、上海沪工、顺灏股份等多股涨停，乾照光电",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "商业航天板块异动背后：政策扶持+订单落地共振，拆解龙头股逻辑与跟风机会",
+   "hook_reason": "多股涨停引爆市场情绪，商业航天国家战略赛道资金抢筹信号明显",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwwaxa2862167.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:商业航天概念探底回升上海港湾钧达股份上海沪工顺灏股份等多股涨停乾照光电"
+  },
+  "伊朗外长仍在与调解方磋商重开霍尔木兹海峡计划": {
+   "key": "伊朗外长仍在与调解方磋商重开霍尔木兹海峡计划",
+   "title": "伊朗外长：仍在与调解方磋商重开霍尔木兹海峡计划",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从霍尔木兹海峡局势看全球能源供应链脆弱性，解读油价波动逻辑与投资者应对策略",
+   "hook_reason": "全球石油命脉再悬一线，油价将怎么走？",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwwaxf5384438.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗外长仍在与调解方磋商重开霍尔木兹海峡计划"
+  },
+  "腾讯将发布混元新模型hy4hy4flash": {
+   "key": "腾讯将发布混元新模型hy4hy4flash",
+   "title": "腾讯将发布混元新模型Hy4 、Hy4 flash",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "腾讯推出Hy4/flash双轨模型，标志其AI战略从追赶转向差异化竞争，解析对腾讯云及国内AI格局的影响",
+   "hook_reason": "腾讯混元AI大模型重磅升级，大厂竞逐AGI赛道再掀波澜",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwwaxa2859119.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:腾讯将发布混元新模型hy4hy4flash"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
