@@ -2246,19 +2246,6 @@
    "batch_window": 16
   },
   {
-   "key": "陶哲轩转发多位数学家抵制openai的文章怎么看待该观点这将对ai数学研究带来哪些改变",
-   "title": "陶哲轩转发多位数学家抵制 OpenAI 的文章，怎么看待该观点？这将对 AI 数学研究带来哪些改变？",
-   "rating": "A",
-   "score": 77.37,
-   "angle": "从陶哲轩态度转变切入，解析数学家为何集体抵制OpenAI及其对AI科研范式的冲击",
-   "hook_reason": "陶哲轩罕见站队抵制AI，数学家集体发声引发技术伦理大讨论",
-   "url": "https://www.zhihu.com/question/2091831158468244988",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:陶哲轩转发多位数学家抵制openai的文章怎么看待该观点这将对ai数学研究带来哪",
-   "batch_window": 18
-  },
-  {
    "key": "英伟达限制使用claude这背后意味着什么ai创造营热搜ai创作激励大赛红衣大",
    "title": "英伟达限制使用Claude！这背后意味着什么？ #ai创造营# #热搜AI创作激励大赛# 红衣大",
    "rating": "A",
@@ -11851,6 +11838,19 @@
    "breaking": true,
    "event_id": "e:伊朗战争扰乱石油市场巴西国家石油公司产量创纪录",
    "batch_window": 7
+  },
+  {
+   "key": "特大暴雪暴雨新一轮冷空气将来袭",
+   "title": "特大暴雪暴雨！新一轮冷空气将来袭",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "聚焦冷空气对居民生活、交通、农业的实际冲击，附避险指南",
+   "hook_reason": "极端天气直击民生，读者关心出行安全与生活影响",
+   "url": "https://www.baidu.com/s?wd=%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA%E6%9A%B4%E9%9B%A8%EF%BC%81%E6%96%B0%E4%B8%80%E8%BD%AE%E5%86%B7%E7%A9%BA%E6%B0%94%E5%B0%86%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:新一轮冷空气将登场",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -12769,7 +12769,8 @@
   "cve2026111943compromisedintermedb3dc1cb2",
   "30多万元机器人进厂目前速度比人慢",
   "王传福获中国汽车工业最高荣誉饶斌奖",
-  "llmsaremakingformalsoftwareverife05ee7a0"
+  "llmsaremakingformalsoftwareverife05ee7a0",
+  "陶哲轩转发多位数学家抵制openai的文章怎么看待该观点这将对ai数学研究带来哪些改变"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13624,7 +13625,8 @@
   "e:cve2026111943compromisedintermediatecert": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
   "e:30多万元机器人进厂目前速度比人慢": "30多万元机器人进厂目前速度比人慢",
   "e:王传福获中国汽车工业最高荣誉饶斌奖": "王传福获中国汽车工业最高荣誉饶斌奖",
-  "e:llmsaremakingformalsoftwareverificationf": "LLMs are making formal software verification feasible at a much larger scale"
+  "e:llmsaremakingformalsoftwareverificationf": "LLMs are making formal software verification feasible at a much larger scale",
+  "e:陶哲轩转发多位数学家抵制openai的文章怎么看待该观点这将对ai数学研究带来哪": "陶哲轩转发多位数学家抵制 OpenAI 的文章，怎么看待该观点？这将对 AI 数学研究带来哪些改变？"
  },
  "a_seen": {
   "西班牙高铁相撞事故已致68死": {
@@ -13818,8 +13820,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:伊朗战争扰乱石油市场巴西国家石油公司产量创纪录"
+  },
+  "西班牙高铁相撞事故已造成68人死亡有中国公民受伤初步调查显示事故系人为失误所致具体情况如何": {
+   "key": "西班牙高铁相撞事故已造成68人死亡有中国公民受伤初步调查显示事故系人为失误所致具体情况如何",
+   "title": "西班牙高铁相撞事故已造成 68 人死亡，有中国公民受伤，初步调查显示事故系人为失误所致，具体情况如何？",
+   "rating": "A",
+   "score": 43.95,
+   "angle": "从领事保护、高铁安全治理、人为失误追责角度切入，避免过度渲染伤亡",
+   "hook_reason": "中国公民伤亡+高铁事故+人为失误，多重爆点叠加",
+   "url": "https://www.zhihu.com/question/2098832855782482837",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:西班牙高铁相撞事故已致68死"
+  },
+  "特大暴雪暴雨新一轮冷空气将来袭": {
+   "key": "特大暴雪暴雨新一轮冷空气将来袭",
+   "title": "特大暴雪暴雨！新一轮冷空气将来袭",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "聚焦冷空气对居民生活、交通、农业的实际冲击，附避险指南",
+   "hook_reason": "极端天气直击民生，读者关心出行安全与生活影响",
+   "url": "https://www.baidu.com/s?wd=%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA%E6%9A%B4%E9%9B%A8%EF%BC%81%E6%96%B0%E4%B8%80%E8%BD%AE%E5%86%B7%E7%A9%BA%E6%B0%94%E5%B0%86%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:新一轮冷空气将登场"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
