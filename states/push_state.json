@@ -12139,19 +12139,6 @@
    "batch_window": 16
   },
   {
-   "key": "forgingamicrosoftedgefullchainwithlogicbugsonly",
-   "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "解读Orange Tsai如何用纯逻辑漏洞实现跨浏览器攻击链，体现技术深度与实战价值",
-   "hook_reason": "顶级安全大咖Orange新作，浏览器漏洞利用的技术突破令人关注",
-   "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:forgingamicrosoftedgefullchainwithlogicb",
-   "batch_window": 17
-  },
-  {
    "key": "四大行总市值历史首次破10万亿",
    "title": "四大行总市值历史首次破10万亿",
    "rating": "A",
@@ -12254,6 +12241,19 @@
    "breaking": true,
    "event_id": "e:cfokc",
    "batch_window": 4
+  },
+  {
+   "key": "patrickstewarthasdied",
+   "title": "Patrick Stewart has died",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从《星际迷航》文化影响切入，回顾其演艺生涯与时代意义，唤醒集体记忆",
+   "hook_reason": "星际迷航X教授逝世，全球粉丝震惊缅怀",
+   "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:patrickstewarthasdied",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -13203,7 +13203,8 @@
   "三丽鸥终止与抹黑中国的日剧vivant联名并致歉网友称其未正面回应历史争议如何看待这份声明",
   "如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死这一事件",
   "专家a股将迎来修复",
-  "10元快剪正暴打全国的设计总监"
+  "10元快剪正暴打全国的设计总监",
+  "forgingamicrosoftedgefullchainwithlogicbugsonly"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14089,7 +14090,8 @@
   "e:三丽鸥终止与抹黑中国的日剧vivant联名并致歉网友称其未正面回应历史争议如何看": "三丽鸥终止与抹黑中国的日剧《VIVANT》联名并致歉，网友称其未正面回应历史争议，如何看待这份声明？",
   "e:如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死": "如何评价亚马逊前华人女工程师疑似按照ChatGPT的建议自行减少抗癫痫药物后猝死这一事件？",
   "e:专家a股将迎来修复": "专家：A股将迎来修复",
-  "e:10元快剪正暴打全国的设计总监": "10元快剪正暴打全国的“设计总监”"
+  "e:10元快剪正暴打全国的设计总监": "10元快剪正暴打全国的“设计总监”",
+  "e:forgingamicrosoftedgefullchainwithlogicb": "Forging a Microsoft Edge Full Chain with Logic Bugs Only"
  },
  "a_seen": {
   "mistrallarge4lechonkisnowopenweight": {
@@ -14181,14 +14183,26 @@
    "title": "CFO KC",
    "rating": "A",
    "score": 40.9,
-   "angle": "从CFO KC言论切入，拆解其对普通打工人投资理财的实际影响",
-   "hook_reason": "CFO重磅发声引热议，财务高管观点直击职场人钱包",
+   "angle": "从CFO KC事件切入，拆解高管发言背后的利益博弈与行业风向",
+   "hook_reason": "CFO KC突发登顶，热度99引爆全网，内幕抢先看",
    "url": "https://search.bilibili.com/all?keyword=CFO KC",
-   "track": "财经",
+   "track": "大咖发言",
    "breaking": true,
    "event_id": "e:cfokc"
+  },
+  "patrickstewarthasdied": {
+   "key": "patrickstewarthasdied",
+   "title": "Patrick Stewart has died",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从《星际迷航》文化影响切入，回顾其演艺生涯与时代意义，唤醒集体记忆",
+   "hook_reason": "星际迷航X教授逝世，全球粉丝震惊缅怀",
+   "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:patrickstewarthasdied"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
