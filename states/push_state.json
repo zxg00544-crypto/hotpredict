@@ -12178,19 +12178,6 @@
    "batch_window": 17
   },
   {
-   "key": "专家a股将迎来修复",
-   "title": "专家：A股将迎来修复",
-   "rating": "A",
-   "score": 83.85,
-   "angle": "拆解A股当前估值、政策信号与历史预测准确率，给出理性参考",
-   "hook_reason": "股民最怕错过的反弹机会，专家预测能否兑现？",
-   "url": "https://www.toutiao.com/trending/7701688368027222054/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:专家a股将迎来修复",
-   "batch_window": 18
-  },
-  {
    "key": "中共中央30日上午举行新闻发布会",
    "title": "中共中央30日上午举行新闻发布会",
    "rating": "A",
@@ -13214,7 +13201,8 @@
   "forthefirsttimeevergooglesearchid6a62e7b",
   "安大略省预测202627财年财政赤字为169亿加元而3月预算中预计的赤字为1",
   "三丽鸥终止与抹黑中国的日剧vivant联名并致歉网友称其未正面回应历史争议如何看待这份声明",
-  "如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死这一事件"
+  "如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死这一事件",
+  "专家a股将迎来修复"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14098,7 +14086,8 @@
   "e:forthefirsttimeevergooglesearchislesstha": "For the first time ever, Google Search is less than 50% of Alphabet's revenue",
   "e:安大略省预测202627财年财政赤字为169亿加元而3月预算中预计的赤字为1": "安大略省预测2026-27财年财政赤字为169亿加元，而3月预算中预计的赤字为1",
   "e:三丽鸥终止与抹黑中国的日剧vivant联名并致歉网友称其未正面回应历史争议如何看": "三丽鸥终止与抹黑中国的日剧《VIVANT》联名并致歉，网友称其未正面回应历史争议，如何看待这份声明？",
-  "e:如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死": "如何评价亚马逊前华人女工程师疑似按照ChatGPT的建议自行减少抗癫痫药物后猝死这一事件？"
+  "e:如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死": "如何评价亚马逊前华人女工程师疑似按照ChatGPT的建议自行减少抗癫痫药物后猝死这一事件？",
+  "e:专家a股将迎来修复": "专家：A股将迎来修复"
  },
  "a_seen": {
   "mistrallarge4lechonkisnowopenweight": {
@@ -14175,5 +14164,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
