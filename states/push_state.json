@@ -12254,6 +12254,19 @@
    "breaking": true,
    "event_id": "e:巴基斯坦禁飞台独像热锅上蚂蚁",
    "batch_window": 18
+  },
+  {
+   "key": "二十届五中全会公报",
+   "title": "二十届五中全会公报",
+   "rating": "A",
+   "score": 92.45,
+   "angle": "解读公报中经济政策核心要点，拆解对资本市场和各行业的利好影响",
+   "hook_reason": "重磅政策风向标，直接影响投资与行业走向",
+   "url": "https://search.bilibili.com/all?keyword=二十届五中全会公报",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:二十届五中全会公报",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -14759,6 +14772,18 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:巴基斯坦禁飞台独像热锅上蚂蚁"
+  },
+  "二十届五中全会公报": {
+   "key": "二十届五中全会公报",
+   "title": "二十届五中全会公报",
+   "rating": "A",
+   "score": 92.45,
+   "angle": "解读公报中经济政策核心要点，拆解对资本市场和各行业的利好影响",
+   "hook_reason": "重磅政策风向标，直接影响投资与行业走向",
+   "url": "https://search.bilibili.com/all?keyword=二十届五中全会公报",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:二十届五中全会公报"
   }
  },
  "breaking_count": 10,
