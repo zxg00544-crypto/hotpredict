@@ -12256,16 +12256,16 @@
    "batch_window": 22
   },
   {
-   "key": "微软超大额债务发行获得超过1150亿欧元认购需求",
-   "title": "微软“超大额债务发行”获得超过1150亿欧元认购需求。",
+   "key": "大体老师骨骼被写死了骨头还要被我玩等轻浮文字反映出哪些教育缺失遗体捐献后应有怎样的管理措施",
+   "title": "大体老师骨骼被写「死了骨头还要被我玩」等轻浮文字，反映出哪些教育缺失？遗体捐献后应有怎样的管理措施？",
    "rating": "A",
-   "score": 46.8,
-   "angle": "从微软巨额债务发行看科技巨头融资逻辑与市场信心",
-   "hook_reason": "微软千亿欧元融资，科技巨头资本动向引关注",
-   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwxksk5918530.d.html",
-   "track": "财经",
+   "score": 56.71,
+   "angle": "从医学伦理与教育缺失切入，呼吁遗体捐献管理规范化与生命教育",
+   "hook_reason": "遗体捐献者骨骼被写轻浮文字，冲击公众情感底线",
+   "url": "https://www.zhihu.com/question/2099145641355994025",
+   "track": "社会热点",
    "breaking": true,
-   "event_id": "e:微软超大额债务发行获得超过1150亿欧元认购需求",
+   "event_id": "e:大体老师骨骼被写死了骨头还要被我玩等轻浮文字反映出哪些教育缺失遗体捐献后应有怎样",
    "batch_window": 1
   }
  ],
@@ -13211,8 +13211,8 @@
   "only40ofaicitedstatisticstracebacktoastudy",
   "75岁王石携万科旧将创业",
   "养老金要崩盘用三本账穿越认知迷雾",
-  "阻碍中国防长参会菲方怕些什么",
-  "华为阔直板上市50天出货量超100万台",
+  "forthefirsttimeevergooglesearchid6a62e7b",
+  "安大略省预测202627财年财政赤字为169亿加元而3月预算中预计的赤字为1",
   "三丽鸥终止与抹黑中国的日剧vivant联名并致歉网友称其未正面回应历史争议如何看待这份声明"
  ],
  "pushed_events": {
@@ -14094,8 +14094,8 @@
   "e:only40ofaicitedstatisticstracebacktoastu": "Only 40% of AI-cited statistics trace back to a study",
   "e:75岁王石携万科旧将创业": "75岁王石携万科旧将创业",
   "e:养老金要崩盘用三本账穿越认知迷雾": "养老金要崩盘？用三本账穿越认知迷雾",
-  "e:阻碍中国防长参会菲方怕些什么": "阻碍中国防长参会 菲方怕些什么",
-  "e:华为阔直板上市50天出货量超100万台": "华为阔直板上市50天出货量超100万台",
+  "e:forthefirsttimeevergooglesearchislesstha": "For the first time ever, Google Search is less than 50% of Alphabet's revenue",
+  "e:安大略省预测202627财年财政赤字为169亿加元而3月预算中预计的赤字为1": "安大略省预测2026-27财年财政赤字为169亿加元，而3月预算中预计的赤字为1",
   "e:三丽鸥终止与抹黑中国的日剧vivant联名并致歉网友称其未正面回应历史争议如何看": "三丽鸥终止与抹黑中国的日剧《VIVANT》联名并致歉，网友称其未正面回应历史争议，如何看待这份声明？"
  },
  "a_seen": {
@@ -14135,29 +14135,29 @@
    "breaking": true,
    "event_id": "e:75岁王石携万科旧将创业"
   },
-  "阻碍中国防长参会菲方怕些什么": {
-   "key": "阻碍中国防长参会菲方怕些什么",
-   "title": "阻碍中国防长参会 菲方怕些什么",
+  "forthefirsttimeevergooglesearchid6a62e7b": {
+   "key": "forthefirsttimeevergooglesearchid6a62e7b",
+   "title": "For the first time ever, Google Search is less than 50% of Alphabet's revenue",
    "rating": "A",
-   "score": 82.5,
-   "angle": "从菲方忌惮心理切入，解析南海博弈背后中菲实力差距与战略意图",
-   "hook_reason": "中菲防长对峙引爆民族情绪，读者急于看中方如何回应",
-   "url": "https://www.toutiao.com/trending/7701488846797864986/",
+   "score": 76.5,
+   "angle": "从财务结构拐点切入，剖析谷歌从搜索依赖走向多引擎时代的底层逻辑与竞争格局变迁",
+   "hook_reason": "谷歌搜索首次跌成Alphabet第二大收入来源，搜索帝国地位动摇",
+   "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:forthefirsttimeevergooglesearchislesstha"
+  },
+  "大体老师骨骼被写死了骨头还要被我玩等轻浮文字反映出哪些教育缺失遗体捐献后应有怎样的管理措施": {
+   "key": "大体老师骨骼被写死了骨头还要被我玩等轻浮文字反映出哪些教育缺失遗体捐献后应有怎样的管理措施",
+   "title": "大体老师骨骼被写「死了骨头还要被我玩」等轻浮文字，反映出哪些教育缺失？遗体捐献后应有怎样的管理措施？",
+   "rating": "A",
+   "score": 56.71,
+   "angle": "从医学伦理与教育缺失切入，呼吁遗体捐献管理规范化与生命教育",
+   "hook_reason": "遗体捐献者骨骼被写轻浮文字，冲击公众情感底线",
+   "url": "https://www.zhihu.com/question/2099145641355994025",
    "track": "社会热点",
    "breaking": true,
-   "event_id": "e:阻碍中国防长参会菲方怕些什么"
-  },
-  "微软超大额债务发行获得超过1150亿欧元认购需求": {
-   "key": "微软超大额债务发行获得超过1150亿欧元认购需求",
-   "title": "微软“超大额债务发行”获得超过1150亿欧元认购需求。",
-   "rating": "A",
-   "score": 46.8,
-   "angle": "从微软巨额债务发行看科技巨头融资逻辑与市场信心",
-   "hook_reason": "微软千亿欧元融资，科技巨头资本动向引关注",
-   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwxksk5918530.d.html",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:微软超大额债务发行获得超过1150亿欧元认购需求"
+   "event_id": "e:大体老师骨骼被写死了骨头还要被我玩等轻浮文字反映出哪些教育缺失遗体捐献后应有怎样"
   }
  },
  "breaking_count": 10,
