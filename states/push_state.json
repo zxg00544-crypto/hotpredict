@@ -11840,19 +11840,6 @@
    "batch_window": 8
   },
   {
-   "key": "长鑫科技已被纳入上证综指和上证科创综指均位列第一大权重股其股价波动会给指数带来多大影响",
-   "title": "长鑫科技已被纳入上证综指和上证科创综指，均位列第一大权重股，其股价波动会给指数带来多大影响？",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "长鑫科技成指数第一权重股，股价波动将如何影响A股大盘走势，对半导体板块及投资者意味着什么",
-   "hook_reason": "A股最大权重股易主，半导体一哥如何撬动整个指数？",
-   "url": "https://www.zhihu.com/question/2098766117422604707",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:长鑫科技已被纳入上证综指和上证科创综指均位列第一大权重股其股价波动会给指数带来多",
-   "batch_window": 9
-  },
-  {
    "key": "美国各界热议要不要对中国车开放若放宽准入会对美本土汽车产业带来哪些冲击",
    "title": "美国各界热议「要不要对中国车开放」，若放宽准入会对美本土汽车产业带来哪些冲击？",
    "rating": "A",
@@ -11981,6 +11968,45 @@
    "breaking": true,
    "event_id": "e:显卡价格大面积回调",
    "batch_window": 10
+  },
+  {
+   "key": "高盐刺客就在你的餐桌上",
+   "title": "“高盐刺客”就在你的餐桌上",
+   "rating": "A",
+   "score": 54.83,
+   "angle": "借\"刺客\"概念切入日常高盐饮食陷阱，科普+情绪共鸣双驱动",
+   "hook_reason": "\"高盐刺客\"概念冲击强，牵动全民餐桌健康焦虑",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E7%9B%90%E5%88%BA%E5%AE%A2%E2%80%9D%E5%B0%B1%E5%9C%A8%E4%BD%A0%E7%9A%84%E9%A4%90%E6%A1%8C%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:高盐刺客就在你的餐桌上",
+   "batch_window": 11
+  },
+  {
+   "key": "hellokitty深夜致歉",
+   "title": "Hello Kitty深夜致歉",
+   "rating": "A",
+   "score": 51.52,
+   "angle": "聚焦深夜致歉背后事件始末，拆解品牌公关危机与公众情绪反应",
+   "hook_reason": "深夜突发+顶流IP致歉，好奇心拉满",
+   "url": "https://www.toutiao.com/trending/7700202788881747499/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:hellokitty深夜致歉",
+   "batch_window": 11
+  },
+  {
+   "key": "任天堂switch2海外旗舰店在天猫国际开业",
+   "title": "任天堂Switch 2海外旗舰店在天猫国际开业",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "任天堂为何绕过国行走天猫出海？分析其中国策略转折与跨境电商布局",
+   "hook_reason": "任天堂首次借道天猫卖Switch 2海外版，玩家和数码圈必关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwwawy6133884.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:任天堂switch2海外旗舰店在天猫国际开业",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -12902,7 +12928,8 @@
   "llmsaremakingformalsoftwareverife05ee7a0",
   "陶哲轩转发多位数学家抵制openai的文章怎么看待该观点这将对ai数学研究带来哪些改变",
   "igaveopus55onepromptandsixhourst43484513",
-  "39岁中国籍老板在泰遭袭身亡"
+  "39岁中国籍老板在泰遭袭身亡",
+  "长鑫科技已被纳入上证综指和上证科创综指均位列第一大权重股其股价波动会给指数带来多大影响"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -13760,7 +13787,8 @@
   "e:llmsaremakingformalsoftwareverificationf": "LLMs are making formal software verification feasible at a much larger scale",
   "e:陶哲轩转发多位数学家抵制openai的文章怎么看待该观点这将对ai数学研究带来哪": "陶哲轩转发多位数学家抵制 OpenAI 的文章，怎么看待该观点？这将对 AI 数学研究带来哪些改变？",
   "e:igaveopus55onepromptandsixhourstovisuali": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
-  "e:39岁中国籍老板在泰遭袭身亡": "39岁中国籍老板在泰遭袭身亡"
+  "e:39岁中国籍老板在泰遭袭身亡": "39岁中国籍老板在泰遭袭身亡",
+  "e:长鑫科技已被纳入上证综指和上证科创综指均位列第一大权重股其股价波动会给指数带来多": "长鑫科技已被纳入上证综指和上证科创综指，均位列第一大权重股，其股价波动会给指数带来多大影响？"
  },
  "a_seen": {
   "西班牙高铁相撞事故已致68死": {
@@ -14122,8 +14150,56 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:显卡价格大面积回调"
+  },
+  "姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失去中国市场吗": {
+   "key": "姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失去中国市场吗",
+   "title": "姆巴佩恐面临天文数字赔偿，分析称潜在商业损失至少1亿美元，这是怎么算出来的？他会自此失去中国市场吗？",
+   "rating": "A",
+   "score": 85.0,
+   "angle": "从中国市场影响切入，引发球迷与商业读者双重共鸣",
+   "hook_reason": "顶级球星天价赔偿+中国市场存废，双重爆点",
+   "url": "https://www.zhihu.com/question/2099062244881295182",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:吃中国饭砸中国锅姆巴佩不配"
+  },
+  "高盐刺客就在你的餐桌上": {
+   "key": "高盐刺客就在你的餐桌上",
+   "title": "“高盐刺客”就在你的餐桌上",
+   "rating": "A",
+   "score": 54.83,
+   "angle": "借\"刺客\"概念切入日常高盐饮食陷阱，科普+情绪共鸣双驱动",
+   "hook_reason": "\"高盐刺客\"概念冲击强，牵动全民餐桌健康焦虑",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E7%9B%90%E5%88%BA%E5%AE%A2%E2%80%9D%E5%B0%B1%E5%9C%A8%E4%BD%A0%E7%9A%84%E9%A4%90%E6%A1%8C%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:高盐刺客就在你的餐桌上"
+  },
+  "hellokitty深夜致歉": {
+   "key": "hellokitty深夜致歉",
+   "title": "Hello Kitty深夜致歉",
+   "rating": "A",
+   "score": 51.52,
+   "angle": "聚焦深夜致歉背后事件始末，拆解品牌公关危机与公众情绪反应",
+   "hook_reason": "深夜突发+顶流IP致歉，好奇心拉满",
+   "url": "https://www.toutiao.com/trending/7700202788881747499/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:hellokitty深夜致歉"
+  },
+  "任天堂switch2海外旗舰店在天猫国际开业": {
+   "key": "任天堂switch2海外旗舰店在天猫国际开业",
+   "title": "任天堂Switch 2海外旗舰店在天猫国际开业",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "任天堂为何绕过国行走天猫出海？分析其中国策略转折与跨境电商布局",
+   "hook_reason": "任天堂首次借道天猫卖Switch 2海外版，玩家和数码圈必关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-29/detail-iniwwawy6133884.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:任天堂switch2海外旗舰店在天猫国际开业"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
