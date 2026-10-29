@@ -12217,19 +12217,6 @@
    "batch_window": 21
   },
   {
-   "key": "10元快剪正暴打全国的设计总监",
-   "title": "10元快剪正暴打全国的“设计总监”",
-   "rating": "A",
-   "score": 83.7,
-   "angle": "消费降级背景下，快剪模式如何击中打工人省钱刚需，传统理发店的困局与转型",
-   "hook_reason": "10元理发的反差冲击+年轻人省钱智慧，谁还没被理发店坑过？",
-   "url": "https://www.baidu.com/s?wd=10%E5%85%83%E5%BF%AB%E5%89%AA%E6%AD%A3%E6%9A%B4%E6%89%93%E5%85%A8%E5%9B%BD%E7%9A%84%E2%80%9C%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%9B%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:10元快剪正暴打全国的设计总监",
-   "batch_window": 22
-  },
-  {
    "key": "大体老师骨骼被写死了骨头还要被我玩等轻浮文字反映出哪些教育缺失遗体捐献后应有怎样的管理措施",
    "title": "大体老师骨骼被写「死了骨头还要被我玩」等轻浮文字，反映出哪些教育缺失？遗体捐献后应有怎样的管理措施？",
    "rating": "A",
@@ -12254,6 +12241,19 @@
    "breaking": true,
    "event_id": "e:llmvoice",
    "batch_window": 2
+  },
+  {
+   "key": "cfokc",
+   "title": "CFO KC",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从CFO KC言论切入，拆解其对普通打工人投资理财的实际影响",
+   "hook_reason": "CFO重磅发声引热议，财务高管观点直击职场人钱包",
+   "url": "https://search.bilibili.com/all?keyword=CFO KC",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:cfokc",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -13202,7 +13202,8 @@
   "安大略省预测202627财年财政赤字为169亿加元而3月预算中预计的赤字为1",
   "三丽鸥终止与抹黑中国的日剧vivant联名并致歉网友称其未正面回应历史争议如何看待这份声明",
   "如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死这一事件",
-  "专家a股将迎来修复"
+  "专家a股将迎来修复",
+  "10元快剪正暴打全国的设计总监"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14087,7 +14088,8 @@
   "e:安大略省预测202627财年财政赤字为169亿加元而3月预算中预计的赤字为1": "安大略省预测2026-27财年财政赤字为169亿加元，而3月预算中预计的赤字为1",
   "e:三丽鸥终止与抹黑中国的日剧vivant联名并致歉网友称其未正面回应历史争议如何看": "三丽鸥终止与抹黑中国的日剧《VIVANT》联名并致歉，网友称其未正面回应历史争议，如何看待这份声明？",
   "e:如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死": "如何评价亚马逊前华人女工程师疑似按照ChatGPT的建议自行减少抗癫痫药物后猝死这一事件？",
-  "e:专家a股将迎来修复": "专家：A股将迎来修复"
+  "e:专家a股将迎来修复": "专家：A股将迎来修复",
+  "e:10元快剪正暴打全国的设计总监": "10元快剪正暴打全国的“设计总监”"
  },
  "a_seen": {
   "mistrallarge4lechonkisnowopenweight": {
@@ -14161,8 +14163,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:llmvoice"
+  },
+  "googlesearchisnowlessthanhalfofalphabetsrevenue": {
+   "key": "googlesearchisnowlessthanhalfofalphabetsrevenue",
+   "title": "Google Search is now less than half of Alphabet’s revenue",
+   "rating": "A",
+   "score": 47.34,
+   "angle": "从搜索帝国黄昏切入，解读AI时代谷歌商业模式的生死变局",
+   "hook_reason": "谷歌搜索收入占比首破50%警戒线，科技史标志性拐点",
+   "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:forthefirsttimeevergooglesearchislesstha"
+  },
+  "cfokc": {
+   "key": "cfokc",
+   "title": "CFO KC",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从CFO KC言论切入，拆解其对普通打工人投资理财的实际影响",
+   "hook_reason": "CFO重磅发声引热议，财务高管观点直击职场人钱包",
+   "url": "https://search.bilibili.com/all?keyword=CFO KC",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:cfokc"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
