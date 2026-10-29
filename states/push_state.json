@@ -12061,19 +12061,6 @@
    "batch_window": 14
   },
   {
-   "key": "如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死这一事件",
-   "title": "如何评价亚马逊前华人女工程师疑似按照ChatGPT的建议自行减少抗癫痫药物后猝死这一事件？",
-   "rating": "A",
-   "score": 84.54,
-   "angle": "切入AI医疗建议红线：当ChatGPT开始指导用药，谁该为错误负责？科技公司与监管真空亟待补位",
-   "hook_reason": "AI建议致人死亡，触及每个AI使用者的安全底线恐惧",
-   "url": "https://www.zhihu.com/question/2098895782283841766",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死",
-   "batch_window": 15
-  },
-  {
    "key": "厂里为了降成本把计件单价压低了结果老员工走了新员工招不来这烂摊子怎么收拾",
    "title": "厂里为了降成本把计件单价压低了，结果老员工走了，新员工招不来，这烂摊子怎么收拾？",
    "rating": "A",
@@ -12267,6 +12254,19 @@
    "breaking": true,
    "event_id": "e:大体老师骨骼被写死了骨头还要被我玩等轻浮文字反映出哪些教育缺失遗体捐献后应有怎样",
    "batch_window": 1
+  },
+  {
+   "key": "llmvoice",
+   "title": "LLM Voice",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "Martin Fowler背书+LLM语音能力突破，解读AI交互范式迁移趋势及对应用层的影响",
+   "hook_reason": "Martin Fowler首推LLM语音交互，AI落地新风口",
+   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:llmvoice",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -13213,7 +13213,8 @@
   "养老金要崩盘用三本账穿越认知迷雾",
   "forthefirsttimeevergooglesearchid6a62e7b",
   "安大略省预测202627财年财政赤字为169亿加元而3月预算中预计的赤字为1",
-  "三丽鸥终止与抹黑中国的日剧vivant联名并致歉网友称其未正面回应历史争议如何看待这份声明"
+  "三丽鸥终止与抹黑中国的日剧vivant联名并致歉网友称其未正面回应历史争议如何看待这份声明",
+  "如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死这一事件"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14096,7 +14097,8 @@
   "e:养老金要崩盘用三本账穿越认知迷雾": "养老金要崩盘？用三本账穿越认知迷雾",
   "e:forthefirsttimeevergooglesearchislesstha": "For the first time ever, Google Search is less than 50% of Alphabet's revenue",
   "e:安大略省预测202627财年财政赤字为169亿加元而3月预算中预计的赤字为1": "安大略省预测2026-27财年财政赤字为169亿加元，而3月预算中预计的赤字为1",
-  "e:三丽鸥终止与抹黑中国的日剧vivant联名并致歉网友称其未正面回应历史争议如何看": "三丽鸥终止与抹黑中国的日剧《VIVANT》联名并致歉，网友称其未正面回应历史争议，如何看待这份声明？"
+  "e:三丽鸥终止与抹黑中国的日剧vivant联名并致歉网友称其未正面回应历史争议如何看": "三丽鸥终止与抹黑中国的日剧《VIVANT》联名并致歉，网友称其未正面回应历史争议，如何看待这份声明？",
+  "e:如何评价亚马逊前华人女工程师疑似按照chatgpt的建议自行减少抗癫痫药物后猝死": "如何评价亚马逊前华人女工程师疑似按照ChatGPT的建议自行减少抗癫痫药物后猝死这一事件？"
  },
  "a_seen": {
   "mistrallarge4lechonkisnowopenweight": {
@@ -14158,8 +14160,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:大体老师骨骼被写死了骨头还要被我玩等轻浮文字反映出哪些教育缺失遗体捐献后应有怎样"
+  },
+  "llmvoice": {
+   "key": "llmvoice",
+   "title": "LLM Voice",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "Martin Fowler背书+LLM语音能力突破，解读AI交互范式迁移趋势及对应用层的影响",
+   "hook_reason": "Martin Fowler首推LLM语音交互，AI落地新风口",
+   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:llmvoice"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
