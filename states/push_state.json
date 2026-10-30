@@ -12451,19 +12451,6 @@
    "batch_window": 17
   },
   {
-   "key": "于东来建议制度支持消费入座",
-   "title": "于东来：建议制度支持消费入座",
-   "rating": "A",
-   "score": 87.5,
-   "angle": "从企业家的社会责任感切入，解读'消费入座'背后的制度堵点与民生诉求",
-   "hook_reason": "于东来替普通人发声，戳中'能不能坐着吃饭'的集体痛点",
-   "url": "https://www.toutiao.com/trending/7701543757581340201/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:于东来建议制度支持消费入座",
-   "batch_window": 18
-  },
-  {
    "key": "如何看待2026年10月30日a股集体收跌双创指数月跌超23红利股逆势走强",
    "title": "如何看待2026年10月30日A股集体收跌，双创指数月跌超23%，红利股逆势走强？",
    "rating": "A",
@@ -12644,6 +12631,58 @@
    "breaking": true,
    "event_id": "e:纽约期金失守3900美元盎司日内跌326",
    "batch_window": 1
+  },
+  {
+   "key": "国际原子能机构总干事格罗西表示国际原子能机构已完成对乌克兰核安全至关重要的19",
+   "title": "国际原子能机构总干事格罗西表示，国际原子能机构已完成对乌克兰核安全至关重要的19",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦IAEA总干事最新核查成果，解读俄乌核安全局势走向",
+   "hook_reason": "核安全+俄乌冲突双重爆点，国际组织权威发声",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-iniwztxk2098972.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:国际原子能机构总干事格罗西表示国际原子能机构已完成对乌克兰核安全至关重要的19",
+   "batch_window": 2
+  },
+  {
+   "key": "纳斯达克100指数跌幅扩大至4费城半导体指数跌87",
+   "title": "纳斯达克100指数跌幅扩大至4% 费城半导体指数跌8.7%",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "深挖暴跌逻辑：芯片为何领跌？对A股科技板块有何冲击？恐慌中找机会还是避险？",
+   "hook_reason": "美股重挫4%+半导体崩盘，股民科技圈集体心跳加速",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-iniwztxk2098610.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:纳斯达克100指数跌幅扩大至4费城半导体指数跌87",
+   "batch_window": 2
+  },
+  {
+   "key": "githubincidentwithactionspagesandwebhooks",
+   "title": "GitHub Incident with Actions, Pages, and Webhooks",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "GitHub Actions/Pages/Webhooks 集体宕机，对开发者工作流及依赖 GitHub CI/CD 的创业团队影响盘点",
+   "hook_reason": "GitHub 核心服务突发大面积故障，开发者集体 affected",
+   "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:githubincidentwithactionspagesandwebhook",
+   "batch_window": 2
+  },
+  {
+   "key": "a股暖性因子吹响集结号",
+   "title": "A股暖性因子吹响集结号",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "解读暖性因子含义，分析对A股后市影响，提示投资机会与风险",
+   "hook_reason": "股市新利好迹象，投资者必看",
+   "url": "https://www.toutiao.com/trending/7701501470465720358/",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:a股暖性因子吹响集结号",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -13624,7 +13663,8 @@
   "backdoorinclaudecodeforvscodeext84d6b0c3",
   "39岁中国老板在泰国工地遇袭身亡4名缅甸劳工自首哪些信息值得关注",
   "10月a股收官",
-  "邵永灵乌克兰低头了"
+  "邵永灵乌克兰低头了",
+  "于东来建议制度支持消费入座"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14541,7 +14581,8 @@
   "e:backdoorinclaudecodeforvscodeextensionon": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
   "e:39岁中国老板在泰国工地遇袭身亡4名缅甸劳工自首哪些信息值得关注": "39 岁中国老板在泰国工地遇袭身亡，4 名缅甸劳工自首，哪些信息值得关注？",
   "e:10月a股收官": "10月A股收官",
-  "e:邵永灵乌克兰低头了": "邵永灵：乌克兰低头了"
+  "e:邵永灵乌克兰低头了": "邵永灵：乌克兰低头了",
+  "e:于东来建议制度支持消费入座": "于东来：建议制度支持消费入座"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -14615,8 +14656,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:街道试点共享儿女最低199元每月"
+  },
+  "国际原子能机构总干事格罗西表示国际原子能机构已完成对乌克兰核安全至关重要的19": {
+   "key": "国际原子能机构总干事格罗西表示国际原子能机构已完成对乌克兰核安全至关重要的19",
+   "title": "国际原子能机构总干事格罗西表示，国际原子能机构已完成对乌克兰核安全至关重要的19",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦IAEA总干事最新核查成果，解读俄乌核安全局势走向",
+   "hook_reason": "核安全+俄乌冲突双重爆点，国际组织权威发声",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-iniwztxk2098972.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:国际原子能机构总干事格罗西表示国际原子能机构已完成对乌克兰核安全至关重要的19"
+  },
+  "纳斯达克100指数跌幅扩大至4费城半导体指数跌87": {
+   "key": "纳斯达克100指数跌幅扩大至4费城半导体指数跌87",
+   "title": "纳斯达克100指数跌幅扩大至4% 费城半导体指数跌8.7%",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "深挖暴跌逻辑：芯片为何领跌？对A股科技板块有何冲击？恐慌中找机会还是避险？",
+   "hook_reason": "美股重挫4%+半导体崩盘，股民科技圈集体心跳加速",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-iniwztxk2098610.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:纳斯达克100指数跌幅扩大至4费城半导体指数跌87"
+  },
+  "githubincidentwithactionspagesandwebhooks": {
+   "key": "githubincidentwithactionspagesandwebhooks",
+   "title": "GitHub Incident with Actions, Pages, and Webhooks",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "GitHub Actions/Pages/Webhooks 集体宕机，对开发者工作流及依赖 GitHub CI/CD 的创业团队影响盘点",
+   "hook_reason": "GitHub 核心服务突发大面积故障，开发者集体 affected",
+   "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:githubincidentwithactionspagesandwebhook"
+  },
+  "a股暖性因子吹响集结号": {
+   "key": "a股暖性因子吹响集结号",
+   "title": "A股暖性因子吹响集结号",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "解读暖性因子含义，分析对A股后市影响，提示投资机会与风险",
+   "hook_reason": "股市新利好迹象，投资者必看",
+   "url": "https://www.toutiao.com/trending/7701501470465720358/",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:a股暖性因子吹响集结号"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
