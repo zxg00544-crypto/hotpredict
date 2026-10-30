@@ -12683,6 +12683,32 @@
    "breaking": false,
    "event_id": "e:aiisntreplacingsresitsdeskillingthem",
    "batch_window": 4
+  },
+  {
+   "key": "伊朗称当天第四艘违规航行油轮穿越霍尔木兹海峡时触雷爆炸",
+   "title": "伊朗称当天第四艘违规航行油轮穿越霍尔木兹海峡时触雷爆炸",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从第四艘油轮触雷切入，解读霍尔木兹海峡航运风险升级对全球原油供应链及油价的连锁冲击",
+   "hook_reason": "伊朗再袭油轮，油价风暴要来了？",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-iniwzyfe5214506.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗称当天第四艘违规航行油轮穿越霍尔木兹海峡时触雷爆炸",
+   "batch_window": 4
+  },
+  {
+   "key": "showhnaworkingnintendoin1gbofqwenweights",
+   "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+   "rating": "A",
+   "score": 43.37,
+   "angle": "大模型能力外延新验证：从语言到逻辑模拟，百亿参数压缩术背后的工程范式跃迁",
+   "hook_reason": "用千亿参数AI做游戏模拟器？1GB权重复刻红白机引发极客狂欢",
+   "url": "https://github.com/dbreunig/nesformer",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:showhnaworkingnintendoin1gbofqwenweights",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -14732,6 +14758,30 @@
    "track": "科技",
    "breaking": false,
    "event_id": "e:aiisntreplacingsresitsdeskillingthem"
+  },
+  "伊朗称当天第四艘违规航行油轮穿越霍尔木兹海峡时触雷爆炸": {
+   "key": "伊朗称当天第四艘违规航行油轮穿越霍尔木兹海峡时触雷爆炸",
+   "title": "伊朗称当天第四艘违规航行油轮穿越霍尔木兹海峡时触雷爆炸",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从第四艘油轮触雷切入，解读霍尔木兹海峡航运风险升级对全球原油供应链及油价的连锁冲击",
+   "hook_reason": "伊朗再袭油轮，油价风暴要来了？",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-iniwzyfe5214506.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗称当天第四艘违规航行油轮穿越霍尔木兹海峡时触雷爆炸"
+  },
+  "showhnaworkingnintendoin1gbofqwenweights": {
+   "key": "showhnaworkingnintendoin1gbofqwenweights",
+   "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+   "rating": "A",
+   "score": 43.37,
+   "angle": "大模型能力外延新验证：从语言到逻辑模拟，百亿参数压缩术背后的工程范式跃迁",
+   "hook_reason": "用千亿参数AI做游戏模拟器？1GB权重复刻红白机引发极客狂欢",
+   "url": "https://github.com/dbreunig/nesformer",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:showhnaworkingnintendoin1gbofqwenweights"
   }
  },
  "breaking_count": 10,
