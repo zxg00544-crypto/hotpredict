@@ -11983,19 +11983,6 @@
    "batch_window": 11
   },
   {
-   "key": "姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失去中国市场吗",
-   "title": "姆巴佩恐面临天文数字赔偿，分析称潜在商业损失至少1亿美元，这是怎么算出来的？他会自此失去中国市场吗？",
-   "rating": "A",
-   "score": 79.5,
-   "angle": "从姆巴佩中国代言估值崩塌，拆解体育明星商业价值的泡沫与风险，适合大咖赛道谈人物命运转折",
-   "hook_reason": "足球巨星亿级赔偿+中国商战，身份反差抓眼球",
-   "url": "https://www.zhihu.com/question/2099062244881295182",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失",
-   "batch_window": 12
-  },
-  {
    "key": "职场软裁员引争议",
    "title": "职场“软裁员”引争议",
    "rating": "A",
@@ -13233,7 +13220,8 @@
   "forgingamicrosoftedgefullchainwithlogicbugsonly",
   "华为制药军团表态其公司定位是医药行业的ai赋能者而不是跟大家抢着做药意味着什么背后有哪些考量",
   "binancehacker102956bstolenfrombinance",
-  "thefirstwiredxrglassespoweredbyandroidxr"
+  "thefirstwiredxrglassespoweredbyandroidxr",
+  "姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失去中国市场吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14123,7 +14111,8 @@
   "e:forgingamicrosoftedgefullchainwithlogicb": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
   "e:华为制药军团表态其公司定位是医药行业的ai赋能者而不是跟大家抢着做药意味着什么背": "华为制药军团表态，其公司定位是医药行业的AI赋能者，而不是跟大家抢着做药，意味着什么？背后有哪些考量？",
   "e:binancehacker102956bstolenfrombinance": "Binance-hacker-1029 – $5.6B stolen from Binance",
-  "e:thefirstwiredxrglassespoweredbyandroidxr": "The first wired XR glasses powered by Android XR"
+  "e:thefirstwiredxrglassespoweredbyandroidxr": "The first wired XR glasses powered by Android XR",
+  "e:姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失": "姆巴佩恐面临天文数字赔偿，分析称潜在商业损失至少1亿美元，这是怎么算出来的？他会自此失去中国市场吗？"
  },
  "a_seen": {
   "mistrallarge4lechonkisnowopenweight": {
@@ -14286,9 +14275,9 @@
    "key": "存2500银行误输25000储户拒还",
    "title": "存2500银行误输25000储户拒还",
    "rating": "A",
-   "score": 46.75,
-   "angle": "普通人面对意外横财的道德抉择，折射社会信任危机",
-   "hook_reason": "普通人与银行的对决，道德vs贪念，引发全民站队讨论",
+   "score": 51.11,
+   "angle": "从法律角度解析不当得利认定边界，揭示普通人面对意外之财的道德困境",
+   "hook_reason": "存小钱误变大钱，人性与法律的极限博弈，大众极易代入",
    "url": "https://www.baidu.com/s?wd=%E5%AD%982500%E9%93%B6%E8%A1%8C%E8%AF%AF%E8%BE%9325000%E5%82%A8%E6%88%B7%E6%8B%92%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
@@ -14296,5 +14285,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
