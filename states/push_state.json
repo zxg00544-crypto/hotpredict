@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-10-30",
  "a_pending": [
   {
@@ -12438,19 +12438,6 @@
    "batch_window": 16
   },
   {
-   "key": "甲硝唑磨粉治鼻炎医生都懵了",
-   "title": "甲硝唑磨粉治鼻炎？医生都懵了",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "揭秘甲硝唑错误用法背后的养生焦虑，呼吁科学就医，纠正用药误区",
-   "hook_reason": "民间偏方治病的猎奇心理+健康恐惧共鸣，医生专业形象被打脸的反差感",
-   "url": "https://www.baidu.com/s?wd=%E7%94%B2%E7%A1%9D%E5%94%91%E7%A3%A8%E7%B2%89%E6%B2%BB%E9%BC%BB%E7%82%8E%EF%BC%9F%E5%8C%BB%E7%94%9F%E9%83%BD%E6%87%B5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:甲硝唑磨粉治鼻炎医生都懵了",
-   "batch_window": 17
-  },
-  {
    "key": "23岁抗癌网红夏夏去世18岁确诊骨肉瘤截肢后父母失联怎样看待她的抗癌经历骨肉瘤是种怎样的疾病",
    "title": "23岁抗癌网红夏夏去世，18岁确诊骨肉瘤，截肢后父母失联，怎样看待她的抗癌经历？骨肉瘤是种怎样的疾病？",
    "rating": "A",
@@ -12553,6 +12540,58 @@
    "breaking": true,
    "event_id": "e:停药身亡女子每周给ai发1500条信息",
    "batch_window": 20
+  },
+  {
+   "key": "azuresweakestlinkfivefullcrosstenantcompromises",
+   "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "从五大跨租户入侵案例切入，剖析Azure安全短板，引发企业云迁移风险讨论",
+   "hook_reason": "Azure重大安全漏洞引爆，五大租户入侵震惊云端安全圈",
+   "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:azuresweakestlinkfivefullcrosstenantcomp",
+   "batch_window": 21
+  },
+  {
+   "key": "backdoorsinofficialclaudecodeextensions",
+   "title": "Backdoors in official Claude Code extensions",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "AI安全问题追踪：Claude官方扩展后门事件始末，对开发者生态的冲击与反思",
+   "hook_reason": "AI巨头Claude被曝官方扩展藏后门，开发者信任崩塌",
+   "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:backdoorsinofficialclaudecodeextensions",
+   "batch_window": 21
+  },
+  {
+   "key": "如何评价前小米高管王腾的公司发布首款智能戒指ishoring定价17992199元",
+   "title": "如何评价前小米高管王腾的公司发布首款智能戒指 ISHO Ring，定价 1799-2199 元？",
+   "rating": "A",
+   "score": 52.87,
+   "angle": "小米系高管二次创业+智能穿戴新品类，1799元定价打破行业预期，探讨AIoT下半场谁能定义',写稿角度：前小米高管王腾携ISHO Ring入场，1799-2199元定价直接挑战华为/Apple Watch，智能戒指这个新品类能否在2026年突围？深度分析其技术路线、供应链能力和小米生态打法，判断这是'真创新'还是'换个壳'",
+   "hook_reason": "前小米高管创业做智能戒指，价格颠覆预期，知乎热度登顶",
+   "url": "https://www.zhihu.com/question/2099246181104858185",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何评价前小米高管王腾的公司发布首款智能戒指ishoring定价17992199",
+   "batch_window": 21
+  },
+  {
+   "key": "克里姆林宫称乌克兰对炼油厂的袭击不会让即将到来的乌克兰问题谈判受到质疑",
+   "title": "克里姆林宫称，乌克兰对炼油厂的袭击不会让即将到来的乌克兰问题谈判受到质疑。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从能源设施袭击切入，分析俄乌谈判破裂风险及全球能源市场连锁反应",
+   "hook_reason": "俄乌冲突突发新动态，克里姆林宫官方表态影响谈判走向",
+   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwziir8148558.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:克里姆林宫称乌克兰对炼油厂的袭击不会让即将到来的乌克兰问题谈判受到质疑",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -13518,7 +13557,8 @@
   "张雪90后专科生员工年薪五六十万",
   "男子下班后代扔垃圾月入2000元",
   "何炅被杨丽萍当场说哭",
-  "孟加拉国总理无视引导不向日国旗鞠躬"
+  "孟加拉国总理无视引导不向日国旗鞠躬",
+  "甲硝唑磨粉治鼻炎医生都懵了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14420,7 +14460,8 @@
   "e:张雪90后专科生员工年薪五六十万": "张雪90后专科生员工年薪五六十万",
   "e:男子下班后代扔垃圾月入2000元": "男子下班后代扔垃圾月入2000元",
   "e:何炅被杨丽萍当场说哭": "何炅被杨丽萍当场说哭",
-  "e:孟加拉国总理无视引导不向日国旗鞠躬": "孟加拉国总理无视引导不向日国旗鞠躬"
+  "e:孟加拉国总理无视引导不向日国旗鞠躬": "孟加拉国总理无视引导不向日国旗鞠躬",
+  "e:甲硝唑磨粉治鼻炎医生都懵了": "甲硝唑磨粉治鼻炎？医生都懵了"
  },
  "a_seen": {
   "mistrallarge4lechonkisnowopenweight": {
@@ -14980,14 +15021,62 @@
    "title": "停药身亡女子每周给AI发1500条信息",
    "rating": "A",
    "score": 46.75,
-   "angle": "AI成'最后一根稻草'：当人在绝望中向机器倾诉，科技的温度与边界在哪？",
-   "hook_reason": "人命+AI依赖，冲击力强，引发对AI边界的思考",
+   "angle": "从科技伦理角度切入，探讨AI陪伴的边界、责任归属与社会警示",
+   "hook_reason": "AI替代人类关怀酿悲剧，人性vs科技引发共情",
    "url": "https://www.baidu.com/s?wd=%E5%81%9C%E8%8D%AF%E8%BA%AB%E4%BA%A1%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%91%A8%E7%BB%99AI%E5%8F%911500%E6%9D%A1%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:停药身亡女子每周给ai发1500条信息"
+  },
+  "azuresweakestlinkfivefullcrosstenantcompromises": {
+   "key": "azuresweakestlinkfivefullcrosstenantcompromises",
+   "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "从五大跨租户入侵案例切入，剖析Azure安全短板，引发企业云迁移风险讨论",
+   "hook_reason": "Azure重大安全漏洞引爆，五大租户入侵震惊云端安全圈",
+   "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:azuresweakestlinkfivefullcrosstenantcomp"
+  },
+  "backdoorsinofficialclaudecodeextensions": {
+   "key": "backdoorsinofficialclaudecodeextensions",
+   "title": "Backdoors in official Claude Code extensions",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "AI安全问题追踪：Claude官方扩展后门事件始末，对开发者生态的冲击与反思",
+   "hook_reason": "AI巨头Claude被曝官方扩展藏后门，开发者信任崩塌",
+   "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:backdoorsinofficialclaudecodeextensions"
+  },
+  "如何评价前小米高管王腾的公司发布首款智能戒指ishoring定价17992199元": {
+   "key": "如何评价前小米高管王腾的公司发布首款智能戒指ishoring定价17992199元",
+   "title": "如何评价前小米高管王腾的公司发布首款智能戒指 ISHO Ring，定价 1799-2199 元？",
+   "rating": "A",
+   "score": 52.87,
+   "angle": "小米系高管二次创业+智能穿戴新品类，1799元定价打破行业预期，探讨AIoT下半场谁能定义',写稿角度：前小米高管王腾携ISHO Ring入场，1799-2199元定价直接挑战华为/Apple Watch，智能戒指这个新品类能否在2026年突围？深度分析其技术路线、供应链能力和小米生态打法，判断这是'真创新'还是'换个壳'",
+   "hook_reason": "前小米高管创业做智能戒指，价格颠覆预期，知乎热度登顶",
+   "url": "https://www.zhihu.com/question/2099246181104858185",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何评价前小米高管王腾的公司发布首款智能戒指ishoring定价17992199"
+  },
+  "克里姆林宫称乌克兰对炼油厂的袭击不会让即将到来的乌克兰问题谈判受到质疑": {
+   "key": "克里姆林宫称乌克兰对炼油厂的袭击不会让即将到来的乌克兰问题谈判受到质疑",
+   "title": "克里姆林宫称，乌克兰对炼油厂的袭击不会让即将到来的乌克兰问题谈判受到质疑。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从能源设施袭击切入，分析俄乌谈判破裂风险及全球能源市场连锁反应",
+   "hook_reason": "俄乌冲突突发新动态，克里姆林宫官方表态影响谈判走向",
+   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwziir8148558.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:克里姆林宫称乌克兰对炼油厂的袭击不会让即将到来的乌克兰问题谈判受到质疑"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
