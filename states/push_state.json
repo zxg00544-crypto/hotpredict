@@ -12594,19 +12594,6 @@
    "batch_window": 22
   },
   {
-   "key": "邵永灵乌克兰低头了",
-   "title": "邵永灵：乌克兰低头了",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "以邵永灵观点切入，解读俄乌局势走向，对比官方立场，引发读者对国际格局的思考与讨论",
-   "hook_reason": "乌克兰局势突发判断，引爆民族情绪和国际关注双重话题",
-   "url": "https://www.toutiao.com/trending/7702449996901142070/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:邵永灵乌克兰低头了",
-   "batch_window": 23
-  },
-  {
    "key": "街道试点共享儿女最低199元每月",
    "title": "街道试点“共享儿女”：最低199元每月",
    "rating": "A",
@@ -12644,6 +12631,19 @@
    "breaking": true,
    "event_id": "e:美国商品期货交易委员会cftc主席塞利格就币安黑客事件接受采访时表示我们的",
    "batch_window": 23
+  },
+  {
+   "key": "纽约期金失守3900美元盎司日内跌326",
+   "title": "纽约期金失守3900美元/盎司，日内跌3.26%。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深度解读金价异动背后逻辑，分析对普通投资者避险资产配置的影响及后续走势预判",
+   "hook_reason": "金价暴跌3.26%破3900美元，投资者高度关注避险与资产配置动向",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-iniwztxh5313585.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:纽约期金失守3900美元盎司日内跌326",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -13623,7 +13623,8 @@
   "美联储戴利人工智能对我们如何思考近期和中期政策至关重要",
   "backdoorinclaudecodeforvscodeext84d6b0c3",
   "39岁中国老板在泰国工地遇袭身亡4名缅甸劳工自首哪些信息值得关注",
-  "10月a股收官"
+  "10月a股收官",
+  "邵永灵乌克兰低头了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14539,7 +14540,8 @@
   "e:美联储戴利人工智能对我们如何思考近期和中期政策至关重要": "美联储戴利：人工智能对我们如何思考近期和中期政策至关重要。",
   "e:backdoorinclaudecodeforvscodeextensionon": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
   "e:39岁中国老板在泰国工地遇袭身亡4名缅甸劳工自首哪些信息值得关注": "39 岁中国老板在泰国工地遇袭身亡，4 名缅甸劳工自首，哪些信息值得关注？",
-  "e:10月a股收官": "10月A股收官"
+  "e:10月a股收官": "10月A股收官",
+  "e:邵永灵乌克兰低头了": "邵永灵：乌克兰低头了"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -14558,11 +14560,11 @@
    "key": "人民日报警惕中国ai跑偏论",
    "title": "人民日报：警惕“中国AI跑偏论”",
    "rating": "A",
-   "score": 49.06,
-   "angle": "借人民日报之声解读中国AI路线，回应国际质疑，激发民族产业自信与思考",
-   "hook_reason": "人民日报发声定调中国AI，官方背书+行业争议双重流量",
+   "score": 48.36,
+   "angle": "从人民日报发声切入，解读国家层面对AI赛道的定调与战略意图",
+   "hook_reason": "人民日报亲自下场给中国AI定性，民族情绪+科技战略双重共振",
    "url": "https://www.toutiao.com/trending/7701987261797482550/",
-   "track": "科技",
+   "track": "大咖发言",
    "breaking": true,
    "event_id": "e:人民日报警惕中国ai跑偏论"
   },
@@ -14577,8 +14579,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:backdoorinclaudecodeforvscodeextensionon"
+  },
+  "northflankbreached": {
+   "key": "northflankbreached",
+   "title": "Northflank Breached",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "从Northflank安全事件切入，探讨云服务商数据安全漏洞及企业防护策略",
+   "hook_reason": "云服务平台遭入侵，企业数据安全引关注",
+   "url": "https://status.northflank.com",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:northflankbreached"
+  },
+  "纽约期金失守3900美元盎司日内跌326": {
+   "key": "纽约期金失守3900美元盎司日内跌326",
+   "title": "纽约期金失守3900美元/盎司，日内跌3.26%。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深度解读金价异动背后逻辑，分析对普通投资者避险资产配置的影响及后续走势预判",
+   "hook_reason": "金价暴跌3.26%破3900美元，投资者高度关注避险与资产配置动向",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-iniwztxh5313585.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:纽约期金失守3900美元盎司日内跌326"
+  },
+  "街道试点共享儿女最低199元每月": {
+   "key": "街道试点共享儿女最低199元每月",
+   "title": "街道试点“共享儿女”：最低199元每月",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从养老托育新业态切入，分析社区共享儿女的可行性、伦理争议与政策试点信号",
+   "hook_reason": "\"共享儿女\"冲击伦理认知，199元低价养老托育引发全民讨论",
+   "url": "https://www.baidu.com/s?wd=%E8%A1%97%E9%81%93%E8%AF%95%E7%82%B9%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D%EF%BC%9A%E6%9C%80%E4%BD%8E199%E5%85%83%E6%AF%8F%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:街道试点共享儿女最低199元每月"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 0
+ "a_pushed_window": 1
 }
