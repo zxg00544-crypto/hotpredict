@@ -12490,19 +12490,6 @@
    "batch_window": 20
   },
   {
-   "key": "azuresweakestlinkfivefullcrosstenantcompromises",
-   "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-   "rating": "A",
-   "score": 78.0,
-   "angle": "从五大跨租户入侵案例切入，剖析Azure安全短板，引发企业云迁移风险讨论",
-   "hook_reason": "Azure重大安全漏洞引爆，五大租户入侵震惊云端安全圈",
-   "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:azuresweakestlinkfivefullcrosstenantcomp",
-   "batch_window": 21
-  },
-  {
    "key": "backdoorsinofficialclaudecodeextensions",
    "title": "Backdoors in official Claude Code extensions",
    "rating": "A",
@@ -12748,6 +12735,19 @@
    "breaking": true,
    "event_id": "e:苹果ai官宣接入千问",
    "batch_window": 6
+  },
+  {
+   "key": "franceisgettingdownloadtaxforconf102d8f5",
+   "title": "France is getting download tax for content providers (€0.055/GB)",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "跨国平台定价策略变化，国内互联网出海企业需关注数据主权与合规成本",
+   "hook_reason": "法国开征数字税，平台涨价还是撤退",
+   "url": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:franceisgettingdownloadtaxforcontentprov",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -13733,7 +13733,8 @@
   "怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力吗",
   "x教授去世享年86岁复仇者联盟5毁灭之日成为遗作他的离去对漫威宇宙意味着什么",
   "anthropicmaynotsecureinvestmentg6a469a19",
-  "productmanagersarentsafeeither"
+  "productmanagersarentsafeeither",
+  "azuresweakestlinkfivefullcrosstenantcompromises"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14655,7 +14656,8 @@
   "e:怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力": "怎么看 DeepSeek 官网 JS 出现 Cyber申请，以后开源模型都会削弱网络安全能力吗？",
   "e:x教授去世享年86岁复仇者联盟5毁灭之日成为遗作他的离去对漫威宇宙意味着什么": "「X 教授」去世，享年 86 岁,《复仇者联盟 5：毁灭之日》成为遗作，他的离去对漫威宇宙意味着什么？",
   "e:anthropicmaynotsecureinvestmentgraderati": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-  "e:productmanagersarentsafeeither": "Product Managers aren't safe either"
+  "e:productmanagersarentsafeeither": "Product Managers aren't safe either",
+  "e:azuresweakestlinkfivefullcrosstenantcomp": "Azure's Weakest Link – Five Full Cross-Tenant Compromises"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -14885,8 +14887,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:苹果ai官宣接入千问"
+  },
+  "franceisgettingdownloadtaxforconf102d8f5": {
+   "key": "franceisgettingdownloadtaxforconf102d8f5",
+   "title": "France is getting download tax for content providers (€0.055/GB)",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "跨国平台定价策略变化，国内互联网出海企业需关注数据主权与合规成本",
+   "hook_reason": "法国开征数字税，平台涨价还是撤退",
+   "url": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:franceisgettingdownloadtaxforcontentprov"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
