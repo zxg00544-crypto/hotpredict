@@ -11866,19 +11866,6 @@
    "batch_window": 9
   },
   {
-   "key": "thefirstwiredxrglassespoweredbyandroidxr",
-   "title": "The first wired XR glasses powered by Android XR",
-   "rating": "A",
-   "score": 79.5,
-   "angle": "首款Android XR有线眼镜发布，Google用硬件+平台双轮布局XR，移动生态与苹果Vision Pro正面碰撞",
-   "hook_reason": "Google首款Android XR眼镜发布，移动XR进入硬件元年",
-   "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:thefirstwiredxrglassespoweredbyandroidxr",
-   "batch_window": 10
-  },
-  {
    "key": "qwenputerafunctioningdeterminist7ea9f34b",
    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
    "rating": "A",
@@ -12267,6 +12254,32 @@
    "breaking": true,
    "event_id": "e:光通信易中天集体就业绩预期作出最新回应",
    "batch_window": 7
+  },
+  {
+   "key": "谷歌市值蒸发5000亿美元",
+   "title": "谷歌市值蒸发5000亿美元",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从谷歌市值巨震切入，分析美股科技股波动逻辑及后续影响",
+   "hook_reason": "谷歌蒸发5000亿美元，科技巨头股价异动牵动投资者神经",
+   "url": "https://www.toutiao.com/trending/7702231350694137385/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:谷歌市值蒸发5000亿美元",
+   "batch_window": 8
+  },
+  {
+   "key": "存2500银行误输25000储户拒还",
+   "title": "存2500银行误输25000储户拒还",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "普通人面对意外横财的道德抉择，折射社会信任危机",
+   "hook_reason": "普通人与银行的对决，道德vs贪念，引发全民站队讨论",
+   "url": "https://www.baidu.com/s?wd=%E5%AD%982500%E9%93%B6%E8%A1%8C%E8%AF%AF%E8%BE%9325000%E5%82%A8%E6%88%B7%E6%8B%92%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:存2500银行误输25000储户拒还",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -13219,7 +13232,8 @@
   "10元快剪正暴打全国的设计总监",
   "forgingamicrosoftedgefullchainwithlogicbugsonly",
   "华为制药军团表态其公司定位是医药行业的ai赋能者而不是跟大家抢着做药意味着什么背后有哪些考量",
-  "binancehacker102956bstolenfrombinance"
+  "binancehacker102956bstolenfrombinance",
+  "thefirstwiredxrglassespoweredbyandroidxr"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14108,7 +14122,8 @@
   "e:10元快剪正暴打全国的设计总监": "10元快剪正暴打全国的“设计总监”",
   "e:forgingamicrosoftedgefullchainwithlogicb": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
   "e:华为制药军团表态其公司定位是医药行业的ai赋能者而不是跟大家抢着做药意味着什么背": "华为制药军团表态，其公司定位是医药行业的AI赋能者，而不是跟大家抢着做药，意味着什么？背后有哪些考量？",
-  "e:binancehacker102956bstolenfrombinance": "Binance-hacker-1029 – $5.6B stolen from Binance"
+  "e:binancehacker102956bstolenfrombinance": "Binance-hacker-1029 – $5.6B stolen from Binance",
+  "e:thefirstwiredxrglassespoweredbyandroidxr": "The first wired XR glasses powered by Android XR"
  },
  "a_seen": {
   "mistrallarge4lechonkisnowopenweight": {
@@ -14254,8 +14269,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:光通信易中天集体就业绩预期作出最新回应"
+  },
+  "谷歌市值蒸发5000亿美元": {
+   "key": "谷歌市值蒸发5000亿美元",
+   "title": "谷歌市值蒸发5000亿美元",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从谷歌市值巨震切入，分析美股科技股波动逻辑及后续影响",
+   "hook_reason": "谷歌蒸发5000亿美元，科技巨头股价异动牵动投资者神经",
+   "url": "https://www.toutiao.com/trending/7702231350694137385/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:谷歌市值蒸发5000亿美元"
+  },
+  "存2500银行误输25000储户拒还": {
+   "key": "存2500银行误输25000储户拒还",
+   "title": "存2500银行误输25000储户拒还",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "普通人面对意外横财的道德抉择，折射社会信任危机",
+   "hook_reason": "普通人与银行的对决，道德vs贪念，引发全民站队讨论",
+   "url": "https://www.baidu.com/s?wd=%E5%AD%982500%E9%93%B6%E8%A1%8C%E8%AF%AF%E8%BE%9325000%E5%82%A8%E6%88%B7%E6%8B%92%E8%BF%98&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:存2500银行误输25000储户拒还"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
