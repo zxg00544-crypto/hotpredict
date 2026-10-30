@@ -12269,19 +12269,6 @@
    "batch_window": 8
   },
   {
-   "key": "x教授扮演者去世",
-   "title": "“X教授”扮演者去世",
-   "rating": "A",
-   "score": 89.0,
-   "angle": "以X教授经典形象切入，回忆杀+生平盘点，引发读者集体缅怀与情感共鸣",
-   "hook_reason": "知名演员突发离世，情怀杀+集体缅怀，全民记忆共鸣",
-   "url": "https://www.toutiao.com/trending/7702184011887641114/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:x教授扮演者去世",
-   "batch_window": 9
-  },
-  {
    "key": "如何看待红果短剧跃升为国内第四大app它瓜分了谁的市场",
    "title": "如何看待红果短剧跃升为国内第四大app？它瓜分了谁的市场？",
    "rating": "A",
@@ -12332,6 +12319,32 @@
    "breaking": true,
    "event_id": "e:你认为影之刃零能达到黑猴的热度吗",
    "batch_window": 10
+  },
+  {
+   "key": "中共中央举行新闻发布会",
+   "title": "中共中央举行新闻发布会",
+   "rating": "A",
+   "score": 54.41,
+   "angle": "聚焦发布会释放的民生/经济信号，解读与普通人钱包和生活的关联",
+   "hook_reason": "中共中央重磅发布，1小时热破196，全民围观",
+   "url": "https://webcast-open.douyin.com/open/media_live/282773369501",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中共中央举行新闻发布会",
+   "batch_window": 11
+  },
+  {
+   "key": "张雪称已将母亲拉黑",
+   "title": "张雪称已将母亲拉黑",
+   "rating": "A",
+   "score": 52.8,
+   "angle": "从张雪拉黑母亲事件切入，探讨公众人物家庭伦理困境与舆论审判边界",
+   "hook_reason": "公众人物公开拉黑母亲，亲情撕裂引争议，读者想窥探内情",
+   "url": "https://www.toutiao.com/trending/7701894413991215130/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:张雪称已将母亲拉黑",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -13287,7 +13300,8 @@
   "binancehacker102956bstolenfrombinance",
   "thefirstwiredxrglassespoweredbyandroidxr",
   "姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失去中国市场吗",
-  "专家a股新一轮调整开启"
+  "专家a股新一轮调整开启",
+  "x教授扮演者去世"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14179,7 +14193,8 @@
   "e:binancehacker102956bstolenfrombinance": "Binance-hacker-1029 – $5.6B stolen from Binance",
   "e:thefirstwiredxrglassespoweredbyandroidxr": "The first wired XR glasses powered by Android XR",
   "e:姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失": "姆巴佩恐面临天文数字赔偿，分析称潜在商业损失至少1亿美元，这是怎么算出来的？他会自此失去中国市场吗？",
-  "e:专家a股新一轮调整开启": "专家：A股新一轮调整开启"
+  "e:专家a股新一轮调整开启": "专家：A股新一轮调整开启",
+  "e:x教授扮演者去世": "“X教授”扮演者去世"
  },
  "a_seen": {
   "mistrallarge4lechonkisnowopenweight": {
@@ -14421,8 +14436,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:你认为影之刃零能达到黑猴的热度吗"
+  },
+  "中共中央举行新闻发布会": {
+   "key": "中共中央举行新闻发布会",
+   "title": "中共中央举行新闻发布会",
+   "rating": "A",
+   "score": 54.41,
+   "angle": "聚焦发布会释放的民生/经济信号，解读与普通人钱包和生活的关联",
+   "hook_reason": "中共中央重磅发布，1小时热破196，全民围观",
+   "url": "https://webcast-open.douyin.com/open/media_live/282773369501",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中共中央举行新闻发布会"
+  },
+  "张雪称已将母亲拉黑": {
+   "key": "张雪称已将母亲拉黑",
+   "title": "张雪称已将母亲拉黑",
+   "rating": "A",
+   "score": 52.8,
+   "angle": "从张雪拉黑母亲事件切入，探讨公众人物家庭伦理困境与舆论审判边界",
+   "hook_reason": "公众人物公开拉黑母亲，亲情撕裂引争议，读者想窥探内情",
+   "url": "https://www.toutiao.com/trending/7701894413991215130/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:张雪称已将母亲拉黑"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
