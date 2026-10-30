@@ -12178,19 +12178,6 @@
    "batch_window": 1
   },
   {
-   "key": "llmvoice",
-   "title": "LLM Voice",
-   "rating": "A",
-   "score": 79.5,
-   "angle": "Martin Fowler背书+LLM语音能力突破，解读AI交互范式迁移趋势及对应用层的影响",
-   "hook_reason": "Martin Fowler首推LLM语音交互，AI落地新风口",
-   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:llmvoice",
-   "batch_window": 2
-  },
-  {
    "key": "cfokc",
    "title": "CFO KC",
    "rating": "A",
@@ -12345,6 +12332,45 @@
    "breaking": true,
    "event_id": "e:张雪称已将母亲拉黑",
    "batch_window": 11
+  },
+  {
+   "key": "如何看待蒋方舟因论文抄袭被撤销学位后时隔107天再发文37岁才明白的事",
+   "title": "如何看待蒋方舟因论文抄袭被撤销学位后，时隔 107 天再发文《37岁才明白的事》？",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "从公众人物学术争议切入，探讨知识阶层公信力与舆论反噬机制",
+   "hook_reason": "知名作家学术不端争议后发声，公众人物诚信话题引发强烈情绪共鸣",
+   "url": "https://www.zhihu.com/question/2099233723589969810",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何看待蒋方舟因论文抄袭被撤销学位后时隔107天再发文37岁才明白的事",
+   "batch_window": 12
+  },
+  {
+   "key": "马斯克neuralink的第一个产品名为telepathy它只需通过思",
+   "title": "马斯克：Neuralink 的第一个产品名为 Telepathy。 它只需通过思",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "脑机接口里程碑：Telepathy命名背后的科技野心与人类未来想象",
+   "hook_reason": "马斯克命名脑机接口产品为",
+   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwyncz8316814.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克neuralink的第一个产品名为telepathy它只需通过思",
+   "batch_window": 12
+  },
+  {
+   "key": "净利润腰斩千亿pcb龙头跌12胜宏科技回应投资浮亏所致",
+   "title": "净利润腰斩！千亿PCB龙头跌12%，胜宏科技回应：投资浮亏所致",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从投资浮亏切入，拆解PCB龙头业绩下滑的真实逻辑，给出投资者应对策略",
+   "hook_reason": "净利润腰斩叠加股价暴跌，投资者高度关切，企业回应成焦点",
+   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwyncy2378109.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:净利润腰斩千亿pcb龙头跌12胜宏科技回应投资浮亏所致",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -13301,7 +13327,8 @@
   "thefirstwiredxrglassespoweredbyandroidxr",
   "姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失去中国市场吗",
   "专家a股新一轮调整开启",
-  "x教授扮演者去世"
+  "x教授扮演者去世",
+  "llmvoice"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14194,7 +14221,8 @@
   "e:thefirstwiredxrglassespoweredbyandroidxr": "The first wired XR glasses powered by Android XR",
   "e:姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失": "姆巴佩恐面临天文数字赔偿，分析称潜在商业损失至少1亿美元，这是怎么算出来的？他会自此失去中国市场吗？",
   "e:专家a股新一轮调整开启": "专家：A股新一轮调整开启",
-  "e:x教授扮演者去世": "“X教授”扮演者去世"
+  "e:x教授扮演者去世": "“X教授”扮演者去世",
+  "e:llmvoice": "LLM Voice"
  },
  "a_seen": {
   "mistrallarge4lechonkisnowopenweight": {
@@ -14460,8 +14488,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:张雪称已将母亲拉黑"
+  },
+  "如何看待蒋方舟因论文抄袭被撤销学位后时隔107天再发文37岁才明白的事": {
+   "key": "如何看待蒋方舟因论文抄袭被撤销学位后时隔107天再发文37岁才明白的事",
+   "title": "如何看待蒋方舟因论文抄袭被撤销学位后，时隔 107 天再发文《37岁才明白的事》？",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "从公众人物学术争议切入，探讨知识阶层公信力与舆论反噬机制",
+   "hook_reason": "知名作家学术不端争议后发声，公众人物诚信话题引发强烈情绪共鸣",
+   "url": "https://www.zhihu.com/question/2099233723589969810",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何看待蒋方舟因论文抄袭被撤销学位后时隔107天再发文37岁才明白的事"
+  },
+  "马斯克neuralink的第一个产品名为telepathy它只需通过思": {
+   "key": "马斯克neuralink的第一个产品名为telepathy它只需通过思",
+   "title": "马斯克：Neuralink 的第一个产品名为 Telepathy。 它只需通过思",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "脑机接口里程碑：Telepathy命名背后的科技野心与人类未来想象",
+   "hook_reason": "马斯克命名脑机接口产品为",
+   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwyncz8316814.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克neuralink的第一个产品名为telepathy它只需通过思"
+  },
+  "净利润腰斩千亿pcb龙头跌12胜宏科技回应投资浮亏所致": {
+   "key": "净利润腰斩千亿pcb龙头跌12胜宏科技回应投资浮亏所致",
+   "title": "净利润腰斩！千亿PCB龙头跌12%，胜宏科技回应：投资浮亏所致",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从投资浮亏切入，拆解PCB龙头业绩下滑的真实逻辑，给出投资者应对策略",
+   "hook_reason": "净利润腰斩叠加股价暴跌，投资者高度关切，企业回应成焦点",
+   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwyncy2378109.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:净利润腰斩千亿pcb龙头跌12胜宏科技回应投资浮亏所致"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
