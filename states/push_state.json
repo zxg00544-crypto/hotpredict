@@ -12698,19 +12698,6 @@
    "batch_window": 4
   },
   {
-   "key": "productmanagersarentsafeeither",
-   "title": "Product Managers aren't safe either",
-   "rating": "A",
-   "score": 84.5,
-   "angle": "从产品经理视角切入，探讨AI对非技术岗位的冲击，引发职场人共鸣",
-   "hook_reason": "产品经理也被AI取代？职场人集体焦虑，精准踩中身份恐惧",
-   "url": "https://lucaskostka.com/posts/ai-challenges-more-than-devs",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:productmanagersarentsafeeither",
-   "batch_window": 5
-  },
-  {
    "key": "标普鉴于meta未来资本支出及多年人工智能投资计划雄心勃勃且缺乏明确性其是否",
    "title": "标普：鉴于Meta未来资本支出及多年人工智能投资计划雄心勃勃且缺乏明确性，其是否",
    "rating": "A",
@@ -12722,6 +12709,45 @@
    "breaking": true,
    "event_id": "e:标普鉴于meta未来资本支出及多年人工智能投资计划雄心勃勃且缺乏明确性其是否",
    "batch_window": 5
+  },
+  {
+   "key": "bunnycdnsecurityincident",
+   "title": "Bunny CDN Security Incident",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从'基础设施层的安全黑天鹅'切入——你以为稳的CDN突然塌了，谁在裸奔？",
+   "hook_reason": "CDN巨头突发安全事件，百万网站受影响，创作者/开发者直接中招",
+   "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:bunnycdnsecurityincident",
+   "batch_window": 6
+  },
+  {
+   "key": "苹果市值反超英伟达重回全球第一相对稳健投资凸显韧性",
+   "title": "苹果市值反超英伟达重回全球第一 相对稳健投资凸显韧性",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从市值争夺切入，探讨苹果稳健策略vs英伟达AI路线的竞争逻辑，结合投资者关注点",
+   "hook_reason": "科技双雄易主！苹果时隔多年市值再超英伟达，AI时代谁才是真正的王者？",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixaepe1892723.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:苹果市值反超英伟达重回全球第一相对稳健投资凸显韧性",
+   "batch_window": 6
+  },
+  {
+   "key": "苹果ai官宣接入千问",
+   "title": "苹果AI官宣接入千问",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "苹果选择阿里千问背后的战略考量，国产AI出海信号",
+   "hook_reason": "苹果首次接入国产大模型，科技巨头战略转向引发关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixaepe1896935.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:苹果ai官宣接入千问",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -13706,7 +13732,8 @@
   "于东来建议制度支持消费入座",
   "怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力吗",
   "x教授去世享年86岁复仇者联盟5毁灭之日成为遗作他的离去对漫威宇宙意味着什么",
-  "anthropicmaynotsecureinvestmentg6a469a19"
+  "anthropicmaynotsecureinvestmentg6a469a19",
+  "productmanagersarentsafeeither"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14627,7 +14654,8 @@
   "e:于东来建议制度支持消费入座": "于东来：建议制度支持消费入座",
   "e:怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力": "怎么看 DeepSeek 官网 JS 出现 Cyber申请，以后开源模型都会削弱网络安全能力吗？",
   "e:x教授去世享年86岁复仇者联盟5毁灭之日成为遗作他的离去对漫威宇宙意味着什么": "「X 教授」去世，享年 86 岁,《复仇者联盟 5：毁灭之日》成为遗作，他的离去对漫威宇宙意味着什么？",
-  "e:anthropicmaynotsecureinvestmentgraderati": "Anthropic may not secure investment-grade rating after IPO, Blackstone says"
+  "e:anthropicmaynotsecureinvestmentgraderati": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+  "e:productmanagersarentsafeeither": "Product Managers aren't safe either"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -14821,8 +14849,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:标普鉴于meta未来资本支出及多年人工智能投资计划雄心勃勃且缺乏明确性其是否"
+  },
+  "bunnycdnsecurityincident": {
+   "key": "bunnycdnsecurityincident",
+   "title": "Bunny CDN Security Incident",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从'基础设施层的安全黑天鹅'切入——你以为稳的CDN突然塌了，谁在裸奔？",
+   "hook_reason": "CDN巨头突发安全事件，百万网站受影响，创作者/开发者直接中招",
+   "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:bunnycdnsecurityincident"
+  },
+  "苹果市值反超英伟达重回全球第一相对稳健投资凸显韧性": {
+   "key": "苹果市值反超英伟达重回全球第一相对稳健投资凸显韧性",
+   "title": "苹果市值反超英伟达重回全球第一 相对稳健投资凸显韧性",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从市值争夺切入，探讨苹果稳健策略vs英伟达AI路线的竞争逻辑，结合投资者关注点",
+   "hook_reason": "科技双雄易主！苹果时隔多年市值再超英伟达，AI时代谁才是真正的王者？",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixaepe1892723.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:苹果市值反超英伟达重回全球第一相对稳健投资凸显韧性"
+  },
+  "苹果ai官宣接入千问": {
+   "key": "苹果ai官宣接入千问",
+   "title": "苹果AI官宣接入千问",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "苹果选择阿里千问背后的战略考量，国产AI出海信号",
+   "hook_reason": "苹果首次接入国产大模型，科技巨头战略转向引发关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixaepe1896935.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:苹果ai官宣接入千问"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
