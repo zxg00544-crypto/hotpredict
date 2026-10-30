@@ -12490,19 +12490,6 @@
    "batch_window": 19
   },
   {
-   "key": "怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力吗",
-   "title": "怎么看 DeepSeek 官网 JS 出现 Cyber申请，以后开源模型都会削弱网络安全能力吗？",
-   "rating": "A",
-   "score": 82.0,
-   "angle": "技术解读DeepSeek官网异常事件，分析开源模型与网络安全的关系，避免恐慌性传播",
-   "hook_reason": "国产AI大厂官网曝异常JS，开源模型网络安全引热议",
-   "url": "https://www.zhihu.com/question/2099480874530228121",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力",
-   "batch_window": 20
-  },
-  {
    "key": "停药身亡女子每周给ai发1500条信息",
    "title": "停药身亡女子每周给AI发1500条信息",
    "rating": "A",
@@ -12683,6 +12670,19 @@
    "breaking": false,
    "event_id": "e:a股暖性因子吹响集结号",
    "batch_window": 2
+  },
+  {
+   "key": "anthropicmaynotsecureinvestmentg6a469a19",
+   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+   "rating": "A",
+   "score": 80.5,
+   "angle": "从AI巨头IPO融资困境切入，分析资本对AI热估值的理性回归",
+   "hook_reason": "Anthropic IPO评级遭质疑，AI豪门估值存疑",
+   "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:anthropicmaynotsecureinvestmentgraderati",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -13664,7 +13664,8 @@
   "39岁中国老板在泰国工地遇袭身亡4名缅甸劳工自首哪些信息值得关注",
   "10月a股收官",
   "邵永灵乌克兰低头了",
-  "于东来建议制度支持消费入座"
+  "于东来建议制度支持消费入座",
+  "怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14582,7 +14583,8 @@
   "e:39岁中国老板在泰国工地遇袭身亡4名缅甸劳工自首哪些信息值得关注": "39 岁中国老板在泰国工地遇袭身亡，4 名缅甸劳工自首，哪些信息值得关注？",
   "e:10月a股收官": "10月A股收官",
   "e:邵永灵乌克兰低头了": "邵永灵：乌克兰低头了",
-  "e:于东来建议制度支持消费入座": "于东来：建议制度支持消费入座"
+  "e:于东来建议制度支持消费入座": "于东来：建议制度支持消费入座",
+  "e:怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力": "怎么看 DeepSeek 官网 JS 出现 Cyber申请，以后开源模型都会削弱网络安全能力吗？"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -14697,15 +14699,27 @@
    "key": "a股暖性因子吹响集结号",
    "title": "A股暖性因子吹响集结号",
    "rating": "A",
-   "score": 75.95,
-   "angle": "解读暖性因子含义，分析对A股后市影响，提示投资机会与风险",
-   "hook_reason": "股市新利好迹象，投资者必看",
+   "score": 75.65,
+   "angle": "解读'暖性因子'具体指哪些板块异动，分析A股回暖信号下的投资机会与风险",
+   "hook_reason": "A股动向牵动亿万投资者神经，市场风向标引人关注",
    "url": "https://www.toutiao.com/trending/7701501470465720358/",
    "track": "财经",
    "breaking": false,
    "event_id": "e:a股暖性因子吹响集结号"
+  },
+  "anthropicmaynotsecureinvestmentg6a469a19": {
+   "key": "anthropicmaynotsecureinvestmentg6a469a19",
+   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+   "rating": "A",
+   "score": 80.5,
+   "angle": "从AI巨头IPO融资困境切入，分析资本对AI热估值的理性回归",
+   "hook_reason": "Anthropic IPO评级遭质疑，AI豪门估值存疑",
+   "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+   "track": "财经",
+   "breaking": false,
+   "event_id": "e:anthropicmaynotsecureinvestmentgraderati"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
