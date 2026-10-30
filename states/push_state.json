@@ -12490,19 +12490,6 @@
    "batch_window": 18
   },
   {
-   "key": "孟加拉国总理无视引导不向日国旗鞠躬",
-   "title": "孟加拉国总理无视引导不向日国旗鞠躬",
-   "rating": "A",
-   "score": 98.0,
-   "angle": "从外交礼仪冲突切入，分析孟日关系微妙变化，探讨小国在大国间的尊严博弈",
-   "hook_reason": "国际外交风波+民族情绪，国家领导人公开拒绝鞠躬引发强烈关注",
-   "url": "https://www.toutiao.com/trending/7701850479986491419/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:孟加拉国总理无视引导不向日国旗鞠躬",
-   "batch_window": 19
-  },
-  {
    "key": "我军飞行员喊话菲军机立即离开",
    "title": "我军飞行员喊话菲军机立即离开",
    "rating": "A",
@@ -12540,6 +12527,32 @@
    "breaking": true,
    "event_id": "e:ai攻克全维度挂谷猜想",
    "batch_window": 19
+  },
+  {
+   "key": "怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力吗",
+   "title": "怎么看 DeepSeek 官网 JS 出现 Cyber申请，以后开源模型都会削弱网络安全能力吗？",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "技术解读DeepSeek官网异常事件，分析开源模型与网络安全的关系，避免恐慌性传播",
+   "hook_reason": "国产AI大厂官网曝异常JS，开源模型网络安全引热议",
+   "url": "https://www.zhihu.com/question/2099480874530228121",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力",
+   "batch_window": 20
+  },
+  {
+   "key": "停药身亡女子每周给ai发1500条信息",
+   "title": "停药身亡女子每周给AI发1500条信息",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "AI成'最后一根稻草'：当人在绝望中向机器倾诉，科技的温度与边界在哪？",
+   "hook_reason": "人命+AI依赖，冲击力强，引发对AI边界的思考",
+   "url": "https://www.baidu.com/s?wd=%E5%81%9C%E8%8D%AF%E8%BA%AB%E4%BA%A1%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%91%A8%E7%BB%99AI%E5%8F%911500%E6%9D%A1%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:停药身亡女子每周给ai发1500条信息",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -13504,7 +13517,8 @@
   "如何看待红果短剧跃升为国内第四大app它瓜分了谁的市场",
   "张雪90后专科生员工年薪五六十万",
   "男子下班后代扔垃圾月入2000元",
-  "何炅被杨丽萍当场说哭"
+  "何炅被杨丽萍当场说哭",
+  "孟加拉国总理无视引导不向日国旗鞠躬"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14405,7 +14419,8 @@
   "e:如何看待红果短剧跃升为国内第四大app它瓜分了谁的市场": "如何看待红果短剧跃升为国内第四大app？它瓜分了谁的市场？",
   "e:张雪90后专科生员工年薪五六十万": "张雪90后专科生员工年薪五六十万",
   "e:男子下班后代扔垃圾月入2000元": "男子下班后代扔垃圾月入2000元",
-  "e:何炅被杨丽萍当场说哭": "何炅被杨丽萍当场说哭"
+  "e:何炅被杨丽萍当场说哭": "何炅被杨丽萍当场说哭",
+  "e:孟加拉国总理无视引导不向日国旗鞠躬": "孟加拉国总理无视引导不向日国旗鞠躬"
  },
  "a_seen": {
   "mistrallarge4lechonkisnowopenweight": {
@@ -14928,9 +14943,9 @@
    "key": "我军首型舰载察打一体隐身无人机攻击21在四川舰成功起降这意味着什么哪些亮点值得关注",
    "title": "我军首型舰载察打一体隐身无人机「攻击-21」在四川舰成功起降，这意味着什么？哪些亮点值得关注？",
    "rating": "A",
-   "score": 43.65,
-   "angle": "从军事科技自主突破角度切入，解读攻击-21隐身察打一体能力对中国海军作战体系的颠覆性意义",
-   "hook_reason": "中国首款舰载隐身无人机首降四川舰，军迷炸锅了",
+   "score": 45.0,
+   "angle": "中国航母战力拼图：从有人机到隐身无人机，攻击-21如何填补歼-35之后的关键空白，四川舰起降意味着什么？",
+   "hook_reason": "歼-35已服役，攻击-21填补察打一体空白，四川舰+无人机的组合让读者好奇中国航母战力几何",
    "url": "https://www.zhihu.com/question/2099547313488269586",
    "track": "科技",
    "breaking": true,
@@ -14947,8 +14962,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:ai攻克全维度挂谷猜想"
+  },
+  "怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力吗": {
+   "key": "怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力吗",
+   "title": "怎么看 DeepSeek 官网 JS 出现 Cyber申请，以后开源模型都会削弱网络安全能力吗？",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "技术解读DeepSeek官网异常事件，分析开源模型与网络安全的关系，避免恐慌性传播",
+   "hook_reason": "国产AI大厂官网曝异常JS，开源模型网络安全引热议",
+   "url": "https://www.zhihu.com/question/2099480874530228121",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力"
+  },
+  "停药身亡女子每周给ai发1500条信息": {
+   "key": "停药身亡女子每周给ai发1500条信息",
+   "title": "停药身亡女子每周给AI发1500条信息",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "AI成'最后一根稻草'：当人在绝望中向机器倾诉，科技的温度与边界在哪？",
+   "hook_reason": "人命+AI依赖，冲击力强，引发对AI边界的思考",
+   "url": "https://www.baidu.com/s?wd=%E5%81%9C%E8%8D%AF%E8%BA%AB%E4%BA%A1%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%91%A8%E7%BB%99AI%E5%8F%911500%E6%9D%A1%E4%BF%A1%E6%81%AF&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:停药身亡女子每周给ai发1500条信息"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
