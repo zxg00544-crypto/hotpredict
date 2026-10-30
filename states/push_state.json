@@ -12659,19 +12659,6 @@
    "batch_window": 2
   },
   {
-   "key": "anthropicmaynotsecureinvestmentg6a469a19",
-   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-   "rating": "A",
-   "score": 80.5,
-   "angle": "从AI巨头IPO融资困境切入，分析资本对AI热估值的理性回归",
-   "hook_reason": "Anthropic IPO评级遭质疑，AI豪门估值存疑",
-   "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-   "track": "财经",
-   "breaking": false,
-   "event_id": "e:anthropicmaynotsecureinvestmentgraderati",
-   "batch_window": 3
-  },
-  {
    "key": "aiisntreplacingsresitsdeskillingthem",
    "title": "AI isn't replacing SREs, it's deskilling them",
    "rating": "A",
@@ -12709,6 +12696,32 @@
    "breaking": true,
    "event_id": "e:showhnaworkingnintendoin1gbofqwenweights",
    "batch_window": 4
+  },
+  {
+   "key": "productmanagersarentsafeeither",
+   "title": "Product Managers aren't safe either",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "从产品经理视角切入，探讨AI对非技术岗位的冲击，引发职场人共鸣",
+   "hook_reason": "产品经理也被AI取代？职场人集体焦虑，精准踩中身份恐惧",
+   "url": "https://lucaskostka.com/posts/ai-challenges-more-than-devs",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:productmanagersarentsafeeither",
+   "batch_window": 5
+  },
+  {
+   "key": "标普鉴于meta未来资本支出及多年人工智能投资计划雄心勃勃且缺乏明确性其是否",
+   "title": "标普：鉴于Meta未来资本支出及多年人工智能投资计划雄心勃勃且缺乏明确性，其是否",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从Meta激进AI资本开支切入，解读科技巨头如何在增长焦虑中押注未来，普通用户与投资者如何判断真假风口",
+   "hook_reason": "标普炮轰Meta AI烧钱战略？科技巨头发家论再起争议",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixaepa5096959.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:标普鉴于meta未来资本支出及多年人工智能投资计划雄心勃勃且缺乏明确性其是否",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -13692,7 +13705,8 @@
   "邵永灵乌克兰低头了",
   "于东来建议制度支持消费入座",
   "怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力吗",
-  "x教授去世享年86岁复仇者联盟5毁灭之日成为遗作他的离去对漫威宇宙意味着什么"
+  "x教授去世享年86岁复仇者联盟5毁灭之日成为遗作他的离去对漫威宇宙意味着什么",
+  "anthropicmaynotsecureinvestmentg6a469a19"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14612,7 +14626,8 @@
   "e:邵永灵乌克兰低头了": "邵永灵：乌克兰低头了",
   "e:于东来建议制度支持消费入座": "于东来：建议制度支持消费入座",
   "e:怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力": "怎么看 DeepSeek 官网 JS 出现 Cyber申请，以后开源模型都会削弱网络安全能力吗？",
-  "e:x教授去世享年86岁复仇者联盟5毁灭之日成为遗作他的离去对漫威宇宙意味着什么": "「X 教授」去世，享年 86 岁,《复仇者联盟 5：毁灭之日》成为遗作，他的离去对漫威宇宙意味着什么？"
+  "e:x教授去世享年86岁复仇者联盟5毁灭之日成为遗作他的离去对漫威宇宙意味着什么": "「X 教授」去世，享年 86 岁,《复仇者联盟 5：毁灭之日》成为遗作，他的离去对漫威宇宙意味着什么？",
+  "e:anthropicmaynotsecureinvestmentgraderati": "Anthropic may not secure investment-grade rating after IPO, Blackstone says"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -14740,8 +14755,8 @@
    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
    "rating": "A",
    "score": 76.5,
-   "angle": "金融巨头看AI公司IPO：黑石唱衰Anthropic评级背后的真相与泡沫警示",
-   "hook_reason": "黑石对Anthropic IPO评级泼冷水，AI狂热中的冷思考",
+   "angle": "从AI圈IPO估值逻辑切入，结合黑石大V表态解读一级市场降温信号",
+   "hook_reason": "AI顶流Anthropic IPO后遭黑石下调评级预期，直指估值泡沫",
    "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
    "track": "财经",
    "breaking": false,
@@ -14782,8 +14797,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:showhnaworkingnintendoin1gbofqwenweights"
+  },
+  "productmanagersarentsafeeither": {
+   "key": "productmanagersarentsafeeither",
+   "title": "Product Managers aren't safe either",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "从产品经理视角切入，探讨AI对非技术岗位的冲击，引发职场人共鸣",
+   "hook_reason": "产品经理也被AI取代？职场人集体焦虑，精准踩中身份恐惧",
+   "url": "https://lucaskostka.com/posts/ai-challenges-more-than-devs",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:productmanagersarentsafeeither"
+  },
+  "标普鉴于meta未来资本支出及多年人工智能投资计划雄心勃勃且缺乏明确性其是否": {
+   "key": "标普鉴于meta未来资本支出及多年人工智能投资计划雄心勃勃且缺乏明确性其是否",
+   "title": "标普：鉴于Meta未来资本支出及多年人工智能投资计划雄心勃勃且缺乏明确性，其是否",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从Meta激进AI资本开支切入，解读科技巨头如何在增长焦虑中押注未来，普通用户与投资者如何判断真假风口",
+   "hook_reason": "标普炮轰Meta AI烧钱战略？科技巨头发家论再起争议",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixaepa5096959.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:标普鉴于meta未来资本支出及多年人工智能投资计划雄心勃勃且缺乏明确性其是否"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
