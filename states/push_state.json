@@ -12581,19 +12581,6 @@
    "batch_window": 21
   },
   {
-   "key": "疑似小小徐婚礼最大受害者出现",
-   "title": "疑似“小小徐”婚礼最大受害者出现",
-   "rating": "A",
-   "score": 89.0,
-   "angle": "深挖受害者身份与婚礼事件的关联，还原事件全貌",
-   "hook_reason": "名人婚礼疑云再添受害者，吃瓜群众欲知真相",
-   "url": "https://www.toutiao.com/trending/7702452190283353650/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:疑似小小徐婚礼最大受害者出现",
-   "batch_window": 22
-  },
-  {
    "key": "今年全国实现生娃基本不花钱",
    "title": "今年全国实现生娃基本不花钱",
    "rating": "A",
@@ -12605,6 +12592,45 @@
    "breaking": true,
    "event_id": "e:今年全国实现生娃基本不花钱",
    "batch_window": 22
+  },
+  {
+   "key": "10月a股收官",
+   "title": "10月A股收官",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "聚焦10月A股收官涨跌，揭示散户与机构的盈亏分化，引出投资逻辑思考",
+   "hook_reason": "A股10月收官，散户亏钱机构赚钱？",
+   "url": "https://www.toutiao.com/trending/7702106972494184502/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:10月a股收官",
+   "batch_window": 23
+  },
+  {
+   "key": "邵永灵乌克兰低头了",
+   "title": "邵永灵：乌克兰低头了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "以邵永灵观点切入，解读俄乌局势走向，对比官方立场，引发读者对国际格局的思考与讨论",
+   "hook_reason": "乌克兰局势突发判断，引爆民族情绪和国际关注双重话题",
+   "url": "https://www.toutiao.com/trending/7702449996901142070/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:邵永灵乌克兰低头了",
+   "batch_window": 23
+  },
+  {
+   "key": "街道试点共享儿女最低199元每月",
+   "title": "街道试点“共享儿女”：最低199元每月",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从'共享儿女'模式看中国养老困局，199元能否买断亲情？",
+   "hook_reason": "养老+新概念冲突，触动家庭痛点，引发好奇与争议",
+   "url": "https://www.baidu.com/s?wd=%E8%A1%97%E9%81%93%E8%AF%95%E7%82%B9%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D%EF%BC%9A%E6%9C%80%E4%BD%8E199%E5%85%83%E6%AF%8F%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:街道试点共享儿女最低199元每月",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -13572,7 +13598,8 @@
   "何炅被杨丽萍当场说哭",
   "孟加拉国总理无视引导不向日国旗鞠躬",
   "甲硝唑磨粉治鼻炎医生都懵了",
-  "我军飞行员喊话菲军机立即离开"
+  "我军飞行员喊话菲军机立即离开",
+  "疑似小小徐婚礼最大受害者出现"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14476,7 +14503,8 @@
   "e:何炅被杨丽萍当场说哭": "何炅被杨丽萍当场说哭",
   "e:孟加拉国总理无视引导不向日国旗鞠躬": "孟加拉国总理无视引导不向日国旗鞠躬",
   "e:甲硝唑磨粉治鼻炎医生都懵了": "甲硝唑磨粉治鼻炎？医生都懵了",
-  "e:我军飞行员喊话菲军机立即离开": "我军飞行员喊话菲军机立即离开"
+  "e:我军飞行员喊话菲军机立即离开": "我军飞行员喊话菲军机立即离开",
+  "e:疑似小小徐婚礼最大受害者出现": "疑似“小小徐”婚礼最大受害者出现"
  },
  "a_seen": {
   "mistrallarge4lechonkisnowopenweight": {
@@ -15126,8 +15154,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:今年全国实现生娃基本不花钱"
+  },
+  "10月a股收官": {
+   "key": "10月a股收官",
+   "title": "10月A股收官",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "聚焦10月A股收官涨跌，揭示散户与机构的盈亏分化，引出投资逻辑思考",
+   "hook_reason": "A股10月收官，散户亏钱机构赚钱？",
+   "url": "https://www.toutiao.com/trending/7702106972494184502/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:10月a股收官"
+  },
+  "邵永灵乌克兰低头了": {
+   "key": "邵永灵乌克兰低头了",
+   "title": "邵永灵：乌克兰低头了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "以邵永灵观点切入，解读俄乌局势走向，对比官方立场，引发读者对国际格局的思考与讨论",
+   "hook_reason": "乌克兰局势突发判断，引爆民族情绪和国际关注双重话题",
+   "url": "https://www.toutiao.com/trending/7702449996901142070/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:邵永灵乌克兰低头了"
+  },
+  "街道试点共享儿女最低199元每月": {
+   "key": "街道试点共享儿女最低199元每月",
+   "title": "街道试点“共享儿女”：最低199元每月",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从'共享儿女'模式看中国养老困局，199元能否买断亲情？",
+   "hook_reason": "养老+新概念冲突，触动家庭痛点，引发好奇与争议",
+   "url": "https://www.baidu.com/s?wd=%E8%A1%97%E9%81%93%E8%AF%95%E7%82%B9%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D%EF%BC%9A%E6%9C%80%E4%BD%8E199%E5%85%83%E6%AF%8F%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:街道试点共享儿女最低199元每月"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
