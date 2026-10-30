@@ -12412,19 +12412,6 @@
    "batch_window": 16
   },
   {
-   "key": "x教授去世享年86岁复仇者联盟5毁灭之日成为遗作他的离去对漫威宇宙意味着什么",
-   "title": "「X 教授」去世，享年 86 岁,《复仇者联盟 5：毁灭之日》成为遗作，他的离去对漫威宇宙意味着什么？",
-   "rating": "A",
-   "score": 80.5,
-   "angle": "从'告别X教授'切入，盘点他对漫威宇宙的塑造，以及未来MCU如何延续经典",
-   "hook_reason": "86岁漫威传奇演员离世，《复联5》成遗作，全球粉丝泪目追忆",
-   "url": "https://www.zhihu.com/question/2099417874762879588",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:x教授去世享年86岁复仇者联盟5毁灭之日成为遗作他的离去对漫威宇宙意味着什么",
-   "batch_window": 16
-  },
-  {
    "key": "中方驳斥女情报人员接触黄仁勋报道",
    "title": "中方驳斥女情报人员接触黄仁勋报道",
    "rating": "A",
@@ -12683,6 +12670,19 @@
    "breaking": false,
    "event_id": "e:anthropicmaynotsecureinvestmentgraderati",
    "batch_window": 3
+  },
+  {
+   "key": "aiisntreplacingsresitsdeskillingthem",
+   "title": "AI isn't replacing SREs, it's deskilling them",
+   "rating": "A",
+   "score": 75.4,
+   "angle": "以SRE工程师为切入点，探讨AI工具双刃剑效应——效率提升背后是技能退化风险",
+   "hook_reason": "AI让工程师变笨？职场焦虑感强，身份共鸣高",
+   "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:aiisntreplacingsresitsdeskillingthem",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -13665,7 +13665,8 @@
   "10月a股收官",
   "邵永灵乌克兰低头了",
   "于东来建议制度支持消费入座",
-  "怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力吗"
+  "怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力吗",
+  "x教授去世享年86岁复仇者联盟5毁灭之日成为遗作他的离去对漫威宇宙意味着什么"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14584,7 +14585,8 @@
   "e:10月a股收官": "10月A股收官",
   "e:邵永灵乌克兰低头了": "邵永灵：乌克兰低头了",
   "e:于东来建议制度支持消费入座": "于东来：建议制度支持消费入座",
-  "e:怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力": "怎么看 DeepSeek 官网 JS 出现 Cyber申请，以后开源模型都会削弱网络安全能力吗？"
+  "e:怎么看deepseek官网js出现cyber申请以后开源模型都会削弱网络安全能力": "怎么看 DeepSeek 官网 JS 出现 Cyber申请，以后开源模型都会削弱网络安全能力吗？",
+  "e:x教授去世享年86岁复仇者联盟5毁灭之日成为遗作他的离去对漫威宇宙意味着什么": "「X 教授」去世，享年 86 岁,《复仇者联盟 5：毁灭之日》成为遗作，他的离去对漫威宇宙意味着什么？"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -14711,15 +14713,27 @@
    "key": "anthropicmaynotsecureinvestmentg6a469a19",
    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
    "rating": "A",
-   "score": 80.5,
-   "angle": "从AI巨头IPO融资困境切入，分析资本对AI热估值的理性回归",
-   "hook_reason": "Anthropic IPO评级遭质疑，AI豪门估值存疑",
+   "score": 76.5,
+   "angle": "金融巨头看AI公司IPO：黑石唱衰Anthropic评级背后的真相与泡沫警示",
+   "hook_reason": "黑石对Anthropic IPO评级泼冷水，AI狂热中的冷思考",
    "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
    "track": "财经",
    "breaking": false,
    "event_id": "e:anthropicmaynotsecureinvestmentgraderati"
+  },
+  "aiisntreplacingsresitsdeskillingthem": {
+   "key": "aiisntreplacingsresitsdeskillingthem",
+   "title": "AI isn't replacing SREs, it's deskilling them",
+   "rating": "A",
+   "score": 75.4,
+   "angle": "以SRE工程师为切入点，探讨AI工具双刃剑效应——效率提升背后是技能退化风险",
+   "hook_reason": "AI让工程师变笨？职场焦虑感强，身份共鸣高",
+   "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+   "track": "科技",
+   "breaking": false,
+   "event_id": "e:aiisntreplacingsresitsdeskillingthem"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
