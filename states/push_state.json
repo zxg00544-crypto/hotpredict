@@ -12631,6 +12631,45 @@
    "breaking": true,
    "event_id": "e:街道试点共享儿女最低199元每月",
    "batch_window": 23
+  },
+  {
+   "key": "美股恐慌情绪升温vix恐慌指数升至20以上",
+   "title": "美股恐慌情绪升温 VIX恐慌指数升至20以上",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "解析VIX破20的市场背景，研判对A股/港股情绪传导及投资建议",
+   "hook_reason": "VIX恐慌指数飙升，美股崩盘预警引发投资者高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwzprn2193010.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美股恐慌情绪升温vix恐慌指数升至20以上",
+   "batch_window": 23
+  },
+  {
+   "key": "美国商品期货交易委员会cftc主席塞利格就币安黑客事件接受采访时表示我们的",
+   "title": "美国商品期货交易委员会（CFTC）主席塞利格就币安黑客事件接受采访时表示：我们的",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从监管表态切入，深挖CFTC对币安安全事件的定性及后续加密行业监管政策走向",
+   "hook_reason": "CFTC主席就币安黑客表态，监管立场牵动亿级用户神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwzprp8088744.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美国商品期货交易委员会cftc主席塞利格就币安黑客事件接受采访时表示我们的",
+   "batch_window": 23
+  },
+  {
+   "key": "backdoorinclaudecodeforvscodeext84d6b0c3",
+   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+   "rating": "A",
+   "score": 60.42,
+   "angle": "从AI开发工具安全危机切入，分析开发者生态信任崩塌与供应链攻击风险",
+   "hook_reason": "AI主流工具暗藏后门，开发者数据安全恐慌",
+   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:backdoorinclaudecodeforvscodeextensionon",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -15190,6 +15229,54 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:街道试点共享儿女最低199元每月"
+  },
+  "黄金大跌铜价为何创新高": {
+   "key": "黄金大跌铜价为何创新高",
+   "title": "黄金大跌 铜价为何创新高",
+   "rating": "A",
+   "score": 88.94,
+   "angle": "黄金跌铜涨背后的经济信号：避险退潮vs制造业复苏，解读资产配置新逻辑",
+   "hook_reason": "黄金与铜价走势背离，揭示经济信号矛盾，投资者必关注",
+   "url": "https://www.toutiao.com/trending/7701487346830557220/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:黄金直线下挫国际油价走低"
+  },
+  "美股恐慌情绪升温vix恐慌指数升至20以上": {
+   "key": "美股恐慌情绪升温vix恐慌指数升至20以上",
+   "title": "美股恐慌情绪升温 VIX恐慌指数升至20以上",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "解析VIX破20的市场背景，研判对A股/港股情绪传导及投资建议",
+   "hook_reason": "VIX恐慌指数飙升，美股崩盘预警引发投资者高度关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwzprn2193010.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美股恐慌情绪升温vix恐慌指数升至20以上"
+  },
+  "美国商品期货交易委员会cftc主席塞利格就币安黑客事件接受采访时表示我们的": {
+   "key": "美国商品期货交易委员会cftc主席塞利格就币安黑客事件接受采访时表示我们的",
+   "title": "美国商品期货交易委员会（CFTC）主席塞利格就币安黑客事件接受采访时表示：我们的",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从监管表态切入，深挖CFTC对币安安全事件的定性及后续加密行业监管政策走向",
+   "hook_reason": "CFTC主席就币安黑客表态，监管立场牵动亿级用户神经",
+   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwzprp8088744.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美国商品期货交易委员会cftc主席塞利格就币安黑客事件接受采访时表示我们的"
+  },
+  "backdoorinclaudecodeforvscodeext84d6b0c3": {
+   "key": "backdoorinclaudecodeforvscodeext84d6b0c3",
+   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+   "rating": "A",
+   "score": 60.42,
+   "angle": "从AI开发工具安全危机切入，分析开发者生态信任崩塌与供应链攻击风险",
+   "hook_reason": "AI主流工具暗藏后门，开发者数据安全恐慌",
+   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:backdoorinclaudecodeforvscodeextensionon"
   }
  },
  "breaking_count": 10,
