@@ -12334,19 +12334,6 @@
    "batch_window": 11
   },
   {
-   "key": "如何看待蒋方舟因论文抄袭被撤销学位后时隔107天再发文37岁才明白的事",
-   "title": "如何看待蒋方舟因论文抄袭被撤销学位后，时隔 107 天再发文《37岁才明白的事》？",
-   "rating": "A",
-   "score": 81.0,
-   "angle": "从公众人物学术争议切入，探讨知识阶层公信力与舆论反噬机制",
-   "hook_reason": "知名作家学术不端争议后发声，公众人物诚信话题引发强烈情绪共鸣",
-   "url": "https://www.zhihu.com/question/2099233723589969810",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:如何看待蒋方舟因论文抄袭被撤销学位后时隔107天再发文37岁才明白的事",
-   "batch_window": 12
-  },
-  {
    "key": "马斯克neuralink的第一个产品名为telepathy它只需通过思",
    "title": "马斯克：Neuralink 的第一个产品名为 Telepathy。 它只需通过思",
    "rating": "A",
@@ -12371,6 +12358,32 @@
    "breaking": true,
    "event_id": "e:净利润腰斩千亿pcb龙头跌12胜宏科技回应投资浮亏所致",
    "batch_window": 12
+  },
+  {
+   "key": "两个人的婚礼变成一群人的狂欢",
+   "title": "两个人的婚礼变成一群人的狂欢",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从婚礼形式变革切入，分析年轻人对传统婚俗的反叛与新型社交化婚礼的兴起",
+   "hook_reason": "婚礼从私密变狂欢，折射年轻人消费观念巨变，冲突反差强",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%A9%9A%E7%A4%BC%E5%8F%98%E6%88%90%E4%B8%80%E7%BE%A4%E4%BA%BA%E7%9A%84%E7%8B%82%E6%AC%A2&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:两个人的婚礼变成一群人的狂欢",
+   "batch_window": 13
+  },
+  {
+   "key": "村田制作所将在五年内投资总计1万亿日元用于mlcc生产",
+   "title": "村田制作所：将在五年内投资总计1万亿日元用于MLCC生产。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从村田扩产解读MLCC需求爆发背后——新能源/AI终端驱动，中国供应链迎挑战还是机遇？",
+   "hook_reason": "全球MLCC龙头砸万亿扩产，电子产业寒冬还是新起点？",
+   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwysmx8221499.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:村田制作所将在五年内投资总计1万亿日元用于mlcc生产",
+   "batch_window": 13
   }
  ],
  "pushed": [
@@ -13328,7 +13341,8 @@
   "姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失去中国市场吗",
   "专家a股新一轮调整开启",
   "x教授扮演者去世",
-  "llmvoice"
+  "llmvoice",
+  "如何看待蒋方舟因论文抄袭被撤销学位后时隔107天再发文37岁才明白的事"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14222,7 +14236,8 @@
   "e:姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失": "姆巴佩恐面临天文数字赔偿，分析称潜在商业损失至少1亿美元，这是怎么算出来的？他会自此失去中国市场吗？",
   "e:专家a股新一轮调整开启": "专家：A股新一轮调整开启",
   "e:x教授扮演者去世": "“X教授”扮演者去世",
-  "e:llmvoice": "LLM Voice"
+  "e:llmvoice": "LLM Voice",
+  "e:如何看待蒋方舟因论文抄袭被撤销学位后时隔107天再发文37岁才明白的事": "如何看待蒋方舟因论文抄袭被撤销学位后，时隔 107 天再发文《37岁才明白的事》？"
  },
  "a_seen": {
   "mistrallarge4lechonkisnowopenweight": {
@@ -14524,8 +14539,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:净利润腰斩千亿pcb龙头跌12胜宏科技回应投资浮亏所致"
+  },
+  "两个人的婚礼变成一群人的狂欢": {
+   "key": "两个人的婚礼变成一群人的狂欢",
+   "title": "两个人的婚礼变成一群人的狂欢",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从婚礼形式变革切入，分析年轻人对传统婚俗的反叛与新型社交化婚礼的兴起",
+   "hook_reason": "婚礼从私密变狂欢，折射年轻人消费观念巨变，冲突反差强",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%A9%9A%E7%A4%BC%E5%8F%98%E6%88%90%E4%B8%80%E7%BE%A4%E4%BA%BA%E7%9A%84%E7%8B%82%E6%AC%A2&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:两个人的婚礼变成一群人的狂欢"
+  },
+  "村田制作所将在五年内投资总计1万亿日元用于mlcc生产": {
+   "key": "村田制作所将在五年内投资总计1万亿日元用于mlcc生产",
+   "title": "村田制作所：将在五年内投资总计1万亿日元用于MLCC生产。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从村田扩产解读MLCC需求爆发背后——新能源/AI终端驱动，中国供应链迎挑战还是机遇？",
+   "hook_reason": "全球MLCC龙头砸万亿扩产，电子产业寒冬还是新起点？",
+   "url": "https://finance.sina.cn/7x24/2026-10-30/detail-iniwysmx8221499.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:村田制作所将在五年内投资总计1万亿日元用于mlcc生产"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 12
+ "a_pushed_window": 13
 }
