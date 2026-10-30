@@ -12269,19 +12269,6 @@
    "batch_window": 8
   },
   {
-   "key": "专家a股新一轮调整开启",
-   "title": "专家：A股新一轮调整开启",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "借专家预警切入投资焦虑，配理性分析与应对建议",
-   "hook_reason": "A股调整预警牵动千万股民神经，情绪共鸣强",
-   "url": "https://www.toutiao.com/trending/7702236701950742054/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:专家a股新一轮调整开启",
-   "batch_window": 9
-  },
-  {
    "key": "x教授扮演者去世",
    "title": "“X教授”扮演者去世",
    "rating": "A",
@@ -12332,6 +12319,19 @@
    "breaking": true,
    "event_id": "e:chatgptpro使用额度翻倍",
    "batch_window": 9
+  },
+  {
+   "key": "你认为影之刃零能达到黑猴的热度吗",
+   "title": "你认为影之刃零能达到黑猴的热度吗？",
+   "rating": "A",
+   "score": 56.95,
+   "angle": "从黑猴文化破圈到影之刃零的期待落差，拆解国产游戏工业化进度与玩家信仰",
+   "hook_reason": "国产3A续作能否复制黑猴神话，玩家与圈层情绪拉满",
+   "url": "https://www.zhihu.com/question/2098507381420319426",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:你认为影之刃零能达到黑猴的热度吗",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -13286,7 +13286,8 @@
   "华为制药军团表态其公司定位是医药行业的ai赋能者而不是跟大家抢着做药意味着什么背后有哪些考量",
   "binancehacker102956bstolenfrombinance",
   "thefirstwiredxrglassespoweredbyandroidxr",
-  "姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失去中国市场吗"
+  "姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失去中国市场吗",
+  "专家a股新一轮调整开启"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14177,7 +14178,8 @@
   "e:华为制药军团表态其公司定位是医药行业的ai赋能者而不是跟大家抢着做药意味着什么背": "华为制药军团表态，其公司定位是医药行业的AI赋能者，而不是跟大家抢着做药，意味着什么？背后有哪些考量？",
   "e:binancehacker102956bstolenfrombinance": "Binance-hacker-1029 – $5.6B stolen from Binance",
   "e:thefirstwiredxrglassespoweredbyandroidxr": "The first wired XR glasses powered by Android XR",
-  "e:姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失": "姆巴佩恐面临天文数字赔偿，分析称潜在商业损失至少1亿美元，这是怎么算出来的？他会自此失去中国市场吗？"
+  "e:姆巴佩恐面临天文数字赔偿分析称潜在商业损失至少1亿美元这是怎么算出来的他会自此失": "姆巴佩恐面临天文数字赔偿，分析称潜在商业损失至少1亿美元，这是怎么算出来的？他会自此失去中国市场吗？",
+  "e:专家a股新一轮调整开启": "专家：A股新一轮调整开启"
  },
  "a_seen": {
   "mistrallarge4lechonkisnowopenweight": {
@@ -14364,9 +14366,9 @@
    "key": "x教授扮演者去世",
    "title": "“X教授”扮演者去世",
    "rating": "A",
-   "score": 89.0,
-   "angle": "以X教授经典形象切入，回忆杀+生平盘点，引发读者集体缅怀与情感共鸣",
-   "hook_reason": "知名演员突发离世，情怀杀+集体缅怀，全民记忆共鸣",
+   "score": 86.85,
+   "angle": "从文化符号角度切入，盘点X教授角色30年影响与影迷集体记忆",
+   "hook_reason": "经典角色离世，集体回忆杀引爆共情",
    "url": "https://www.toutiao.com/trending/7702184011887641114/",
    "track": "社会热点",
    "breaking": true,
@@ -14376,11 +14378,11 @@
    "key": "如何看待红果短剧跃升为国内第四大app它瓜分了谁的市场",
    "title": "如何看待红果短剧跃升为国内第四大app？它瓜分了谁的市场？",
    "rating": "A",
-   "score": 79.5,
-   "angle": "从红果短剧如何以字节流量撬动市场切入，分析其对抖音、快手、微信视频号的格局冲击及商业模式差异化",
-   "hook_reason": "国产APP格局突变，短剧战争进入白热化，用户和从业者都关心谁被瓜分",
+   "score": 78.95,
+   "angle": "从红果登顶切入，剖析字节在短剧赛道的布局优势，以及腾讯/阿里面临的市场挤压",
+   "hook_reason": "字节系APP登顶全国第四，短剧下半场胜负手曝光",
    "url": "https://www.zhihu.com/question/2099125476149274126",
-   "track": "财经",
+   "track": "科技",
    "breaking": true,
    "event_id": "e:如何看待红果短剧跃升为国内第四大app它瓜分了谁的市场"
   },
@@ -14388,9 +14390,9 @@
    "key": "如何看待中科大给学生提供每天一亿的token额度",
    "title": "如何看待中科大给学生提供每天一亿的token额度？",
    "rating": "A",
-   "score": 71.67,
-   "angle": "从国家AI人才战略看教育资源分配，普通学子如何抓住机遇",
-   "hook_reason": "中科大砸千万算力培养AI人才，教育资源倾斜引争议",
+   "score": 72.37,
+   "angle": "教育科技普惠 vs 商业可持续性之争：科大这碗AI饭，谁在吃谁在赚",
+   "hook_reason": "AI大模型免费额度，科大豪掷——教育普惠还是营销噱头",
    "url": "https://www.zhihu.com/question/2098940094346433079",
    "track": "科技",
    "breaking": true,
@@ -14407,8 +14409,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:chatgptpro使用额度翻倍"
+  },
+  "你认为影之刃零能达到黑猴的热度吗": {
+   "key": "你认为影之刃零能达到黑猴的热度吗",
+   "title": "你认为影之刃零能达到黑猴的热度吗？",
+   "rating": "A",
+   "score": 56.95,
+   "angle": "从黑猴文化破圈到影之刃零的期待落差，拆解国产游戏工业化进度与玩家信仰",
+   "hook_reason": "国产3A续作能否复制黑猴神话，玩家与圈层情绪拉满",
+   "url": "https://www.zhihu.com/question/2098507381420319426",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:你认为影之刃零能达到黑猴的热度吗"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
