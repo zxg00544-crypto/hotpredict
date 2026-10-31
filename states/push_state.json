@@ -9058,19 +9058,6 @@
    "batch_window": 15
   },
   {
-   "key": "thesameairequestemits85timesmore78e1b286",
-   "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-   "rating": "A",
-   "score": 77.0,
-   "angle": "从德克萨斯vs瑞典电力结构差异切入，解读AI算力选址的碳成本博弈",
-   "hook_reason": "AI碳排放地域差异8.5倍引爆环保争议",
-   "url": "https://berget.ai/en/blog/per-request-co2-press-release",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:thesameairequestemits85timesmoreco2intex",
-   "batch_window": 15
-  },
-  {
    "key": "中共中央政治局召开会议",
    "title": "中共中央政治局召开会议",
    "rating": "A",
@@ -13962,7 +13949,8 @@
   "businessaccountswillconsenttomet92b93b28",
   "theinsidertradingyoureallowedtodo",
   "whatisgridifcation",
-  "everyaimodelhasthesamecontroversialtakeonhumans"
+  "everyaimodelhasthesamecontroversialtakeonhumans",
+  "thesameairequestemits85timesmore78e1b286"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14918,7 +14906,8 @@
   "e:businessaccountswillconsenttometascrapin": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
   "e:theinsidertradingyoureallowedtodo": "The insider trading you're allowed to do",
   "e:whatisgridifcation": "What Is Gridifcation",
-  "e:everyaimodelhasthesamecontroversialtakeo": "Every AI model has the same \"controversial\" take on humans"
+  "e:everyaimodelhasthesamecontroversialtakeo": "Every AI model has the same \"controversial\" take on humans",
+  "e:thesameairequestemits85timesmoreco2intex": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden"
  },
  "a_seen": {
   "毛孩子的饭碗没那么好端了": {
@@ -15019,5 +15008,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
