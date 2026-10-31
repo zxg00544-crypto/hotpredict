@@ -8655,19 +8655,6 @@
    "batch_window": 21
   },
   {
-   "key": "whatisgridifcation",
-   "title": "What Is Gridifcation",
-   "rating": "A",
-   "score": 77.0,
-   "angle": "解析Gridifcation是什么、为何突然爆火、对开发者/产品思维的影响，结合Substack深度解读与HN讨论",
-   "hook_reason": "新概念Gridifcation登顶HN，100%增速爆发，技术圈必追",
-   "url": "https://musicalform.substack.com/p/what-is-gridifcation",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:whatisgridifcation",
-   "batch_window": 21
-  },
-  {
    "key": "李雪健配合ai声音登长征文艺晚会",
    "title": "李雪健配合AI声音登长征文艺晚会",
    "rating": "A",
@@ -12943,6 +12930,32 @@
    "breaking": true,
    "event_id": "e:如何看待台湾地区外事发言人回应特朗普言论他这是挫折和羡慕我们",
    "batch_window": 4
+  },
+  {
+   "key": "tcpuseafterfreecve202698432cvss98",
+   "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "解读CVE-2026-98432漏洞原理、影响范围及应急修复建议",
+   "hook_reason": "高危漏洞曝光，影响网络设备，如何防护？",
+   "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:tcpuseafterfreecve202698432cvss98",
+   "batch_window": 5
+  },
+  {
+   "key": "华尔街日报胜诉特朗普100亿美元诽谤诉讼被驳回",
+   "title": "《华尔街日报》胜诉，特朗普100亿美元诽谤诉讼被驳回",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从特朗普重大法律挫折切入，结合其",
+   "hook_reason": "特朗普100亿索赔败诉！华尔街日报赢得世纪诉讼战",
+   "url": "https://finance.sina.cn/7x24/2026-11-01/detail-inixeini3440570.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:华尔街日报胜诉特朗普100亿美元诽谤诉讼被驳回",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -13960,7 +13973,8 @@
   "一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻",
   "nixwrotehalfofmydebugger",
   "businessaccountswillconsenttomet92b93b28",
-  "theinsidertradingyoureallowedtodo"
+  "theinsidertradingyoureallowedtodo",
+  "whatisgridifcation"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14914,7 +14928,8 @@
   "e:一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻": "一个日本人在俄军打了三年仗，他说的比所有分析都真实 网页链接 来自 @腾讯新闻",
   "e:nixwrotehalfofmydebugger": "Nix wrote half of my debugger",
   "e:businessaccountswillconsenttometascrapin": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
-  "e:theinsidertradingyoureallowedtodo": "The insider trading you're allowed to do"
+  "e:theinsidertradingyoureallowedtodo": "The insider trading you're allowed to do",
+  "e:whatisgridifcation": "What Is Gridifcation"
  },
  "a_seen": {
   "毛孩子的饭碗没那么好端了": {
@@ -14988,8 +15003,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:如何看待台湾地区外事发言人回应特朗普言论他这是挫折和羡慕我们"
+  },
+  "tcpuseafterfreecve202698432cvss98": {
+   "key": "tcpuseafterfreecve202698432cvss98",
+   "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "解读CVE-2026-98432漏洞原理、影响范围及应急修复建议",
+   "hook_reason": "高危漏洞曝光，影响网络设备，如何防护？",
+   "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:tcpuseafterfreecve202698432cvss98"
+  },
+  "华尔街日报胜诉特朗普100亿美元诽谤诉讼被驳回": {
+   "key": "华尔街日报胜诉特朗普100亿美元诽谤诉讼被驳回",
+   "title": "《华尔街日报》胜诉，特朗普100亿美元诽谤诉讼被驳回",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从特朗普重大法律挫折切入，结合其",
+   "hook_reason": "特朗普100亿索赔败诉！华尔街日报赢得世纪诉讼战",
+   "url": "https://finance.sina.cn/7x24/2026-11-01/detail-inixeini3440570.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:华尔街日报胜诉特朗普100亿美元诽谤诉讼被驳回"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
