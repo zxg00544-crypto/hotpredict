@@ -2532,19 +2532,6 @@
    "batch_window": 8
   },
   {
-   "key": "一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻",
-   "title": "一个日本人在俄军打了三年仗，他说的比所有分析都真实 网页链接 来自 @腾讯新闻",
-   "rating": "A",
-   "score": 77.0,
-   "angle": "从普通人亲历者视角切入，揭露战争真相，与主流叙事形成强烈反差",
-   "hook_reason": "日本人亲历俄乌战争，真实视角碾压官方分析，身份反差极具点击欲",
-   "url": "https://weibo.com/1249424622/RlYxomyh6",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻",
-   "batch_window": 9
-  },
-  {
    "key": "昨日a股v型反弹港股低开后全日走高宽基etf放量买入接受彭博社采访点评全文链接网页链",
    "title": "昨日A股V型反弹，港股低开后全日走高，宽基ETF放量买入。接受彭博社采访点评，全文链接： 网页链",
    "rating": "A",
@@ -13969,7 +13956,8 @@
   "土耳其总统埃尔多安敦促各方在黑海问题上负责任地行事",
   "土耳其总统埃尔多安对民用船只的袭击对任何人都没有好处",
   "官方披露勒多曼因峰4人滑坠2人遇难",
-  "japansmostfamoustunabuyersayshet72637057"
+  "japansmostfamoustunabuyersayshet72637057",
+  "一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14919,7 +14907,8 @@
   "e:土耳其总统埃尔多安敦促各方在黑海问题上负责任地行事": "土耳其总统埃尔多安敦促各方在黑海问题上负责任地行事。",
   "e:土耳其总统埃尔多安对民用船只的袭击对任何人都没有好处": "土耳其总统埃尔多安：对民用船只的袭击对任何人都没有好处。",
   "e:官方披露勒多曼因峰4人滑坠2人遇难": "官方披露勒多曼因峰4人滑坠2人遇难",
-  "e:japansmostfamoustunabuyersaysheturnedsom": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen"
+  "e:japansmostfamoustunabuyersaysheturnedsom": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
+  "e:一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻": "一个日本人在俄军打了三年仗，他说的比所有分析都真实 网页链接 来自 @腾讯新闻"
  },
  "a_seen": {
   "毛孩子的饭碗没那么好端了": {
@@ -14948,5 +14937,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 0
+ "a_pushed_window": 1
 }
