@@ -12763,19 +12763,6 @@
    "batch_window": 8
   },
   {
-   "key": "大学生用四年codex每天进步一点四年之后与没用上codex的同学会有很大的差距么",
-   "title": "大学生用四年codex，每天进步一点，四年之后，与没用上codex的同学会有很大的差距么？",
-   "rating": "A",
-   "score": 80.47,
-   "angle": "从 AI 编程工具普及切入，探讨技术赋能与教育公平的双刃剑效应",
-   "hook_reason": "AI 工具会不会拉开学生差距？大学生焦虑引发共鸣",
-   "url": "https://www.zhihu.com/question/2097999293596620662",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:大学生用四年codex每天进步一点四年之后与没用上codex的同学会有很大的差距",
-   "batch_window": 8
-  },
-  {
    "key": "纳指跌近3英特尔创52年来最大日跌幅",
    "title": "纳指跌近3%英特尔创52年来最大日跌幅",
    "rating": "A",
@@ -12787,6 +12774,32 @@
    "breaking": true,
    "event_id": "e:英特尔股价暴跌2858创52年来最大日跌幅市值蒸发近1500亿美元怎样解读市场的",
    "batch_window": 8
+  },
+  {
+   "key": "有地方明确12345不再接这几类诉求",
+   "title": "有地方明确：12345不再接这几类诉求",
+   "rating": "A",
+   "score": 53.17,
+   "angle": "解读哪些诉求被剔除、背后原因，以及普通人如何继续维权。",
+   "hook_reason": "12345全民热线突然不接某些诉求，读者担心自己遇到的事还能不能打。",
+   "url": "https://www.baidu.com/s?wd=%E6%9C%89%E5%9C%B0%E6%96%B9%E6%98%8E%E7%A1%AE%EF%BC%9A12345%E4%B8%8D%E5%86%8D%E6%8E%A5%E8%BF%99%E5%87%A0%E7%B1%BB%E8%AF%89%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:有地方明确12345不再接这几类诉求",
+   "batch_window": 11
+  },
+  {
+   "key": "我国首次载人登月任务乘组计划由三人组成两人着陆月球表面",
+   "title": "我国首次载人登月任务乘组计划由三人组成，两人着陆月球表面",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "中国登月任务新突破：从绕月到着陆再到两人出舱行走，技术升级背后的战略意义",
+   "hook_reason": "中国载人登月里程碑：三人乘组、两人着陆，首次深度探测",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixaraz7654373.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:我国首次载人登月任务乘组计划由三人组成两人着陆月球表面",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -13776,7 +13789,8 @@
   "azuresweakestlinkfivefullcrosstenantcompromises",
   "qwenputerafunctioningdeterminist7ea9f34b",
   "共享儿女试点每月最低199元",
-  "校方再回应学生摆拍大体老师头骨"
+  "校方再回应学生摆拍大体老师头骨",
+  "大学生用四年codex每天进步一点四年之后与没用上codex的同学会有很大的差距么"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14702,7 +14716,8 @@
   "e:azuresweakestlinkfivefullcrosstenantcomp": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
   "e:qwenputerafunctioningdeterministicriscvc": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
   "e:共享儿女试点每月最低199元": "“共享儿女”试点：每月最低199元",
-  "e:校方再回应学生摆拍大体老师头骨": "校方再回应学生摆拍大体老师头骨"
+  "e:校方再回应学生摆拍大体老师头骨": "校方再回应学生摆拍大体老师头骨",
+  "e:大学生用四年codex每天进步一点四年之后与没用上codex的同学会有很大的差距": "大学生用四年codex，每天进步一点，四年之后，与没用上codex的同学会有很大的差距么？"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -15028,8 +15043,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:校方再回应学生摆拍大体老师头骨"
+  },
+  "有地方明确12345不再接这几类诉求": {
+   "key": "有地方明确12345不再接这几类诉求",
+   "title": "有地方明确：12345不再接这几类诉求",
+   "rating": "A",
+   "score": 53.17,
+   "angle": "解读哪些诉求被剔除、背后原因，以及普通人如何继续维权。",
+   "hook_reason": "12345全民热线突然不接某些诉求，读者担心自己遇到的事还能不能打。",
+   "url": "https://www.baidu.com/s?wd=%E6%9C%89%E5%9C%B0%E6%96%B9%E6%98%8E%E7%A1%AE%EF%BC%9A12345%E4%B8%8D%E5%86%8D%E6%8E%A5%E8%BF%99%E5%87%A0%E7%B1%BB%E8%AF%89%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:有地方明确12345不再接这几类诉求"
+  },
+  "我国首次载人登月任务乘组计划由三人组成两人着陆月球表面": {
+   "key": "我国首次载人登月任务乘组计划由三人组成两人着陆月球表面",
+   "title": "我国首次载人登月任务乘组计划由三人组成，两人着陆月球表面",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "中国登月任务新突破：从绕月到着陆再到两人出舱行走，技术升级背后的战略意义",
+   "hook_reason": "中国载人登月里程碑：三人乘组、两人着陆，首次深度探测",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixaraz7654373.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:我国首次载人登月任务乘组计划由三人组成两人着陆月球表面"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
