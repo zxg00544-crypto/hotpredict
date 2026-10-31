@@ -12919,19 +12919,6 @@
    "batch_window": 16
   },
   {
-   "key": "日代表团掘开侵华日军坟墓让其谢罪",
-   "title": "日代表团：掘开侵华日军坟墓让其谢罪",
-   "rating": "A",
-   "score": 95.5,
-   "angle": "从历史伤痛切入，分析日本右翼挑衅行为背后的政治意图及民众反应",
-   "hook_reason": "日本掘侵华日军坟墓谢罪，触碰民族情绪底线",
-   "url": "https://www.toutiao.com/trending/7702615403247255588/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:日代表团掘开侵华日军坟墓让其谢罪",
-   "batch_window": 17
-  },
-  {
    "key": "谁在盯着大衣哥",
    "title": "谁在盯着“大衣哥”",
    "rating": "A",
@@ -12969,6 +12956,32 @@
    "breaking": true,
    "event_id": "e:卖650万捐赠房产要缴450万的税",
    "batch_window": 17
+  },
+  {
+   "key": "digitalminimalism",
+   "title": "Digital Minimalism",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "借Vitalik个人影响力，拆解AI时代'数字极简'的反身性悖论",
+   "hook_reason": "Vitalik发文倡'数字极简'，科技顶流反思自身生态",
+   "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:digitalminimalism",
+   "batch_window": 18
+  },
+  {
+   "key": "75岁傅成玉被查",
+   "title": "75岁傅成玉被查",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦75岁高龄仍被查的反腐信号，关联能源领域整肃背景，解读反腐无禁区、老将也难幸免",
+   "hook_reason": "75岁能源巨鳄落马，反腐再出大案，引发全民关注",
+   "url": "https://www.toutiao.com/trending/7702761634955214902/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:75岁傅成玉被查",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -13965,7 +13978,8 @@
   "曾爆火的假笑男孩已16岁",
   "小沈阳发文回应夺冠",
   "今年全国实现生娃基本不花钱多地密集出台生育支持措施涉及哪些方面会带来哪些积极影响",
-  "openairaiseslessthanhalfof30btarget"
+  "openairaiseslessthanhalfof30btarget",
+  "日代表团掘开侵华日军坟墓让其谢罪"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14898,7 +14912,8 @@
   "e:曾爆火的假笑男孩已16岁": "曾爆火的“假笑男孩”已16岁",
   "e:小沈阳发文回应夺冠": "小沈阳发文回应夺冠",
   "e:今年全国实现生娃基本不花钱多地密集出台生育支持措施涉及哪些方面会带来哪些积极影响": "今年全国实现生娃基本不花钱，多地密集出台生育支持措施，涉及哪些方面？会带来哪些积极影响？",
-  "e:openairaiseslessthanhalfof30btarget": "OpenAI raises less than half of $30B target"
+  "e:openairaiseslessthanhalfof30btarget": "OpenAI raises less than half of $30B target",
+  "e:日代表团掘开侵华日军坟墓让其谢罪": "日代表团：掘开侵华日军坟墓让其谢罪"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -15488,8 +15503,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:卖650万捐赠房产要缴450万的税"
+  },
+  "digitalminimalism": {
+   "key": "digitalminimalism",
+   "title": "Digital Minimalism",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "借Vitalik个人影响力，拆解AI时代'数字极简'的反身性悖论",
+   "hook_reason": "Vitalik发文倡'数字极简'，科技顶流反思自身生态",
+   "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:digitalminimalism"
+  },
+  "75岁傅成玉被查": {
+   "key": "75岁傅成玉被查",
+   "title": "75岁傅成玉被查",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦75岁高龄仍被查的反腐信号，关联能源领域整肃背景，解读反腐无禁区、老将也难幸免",
+   "hook_reason": "75岁能源巨鳄落马，反腐再出大案，引发全民关注",
+   "url": "https://www.toutiao.com/trending/7702761634955214902/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:75岁傅成玉被查"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
