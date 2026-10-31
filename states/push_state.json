@@ -12802,19 +12802,6 @@
    "batch_window": 12
   },
   {
-   "key": "曾爆火的假笑男孩已16岁",
-   "title": "曾爆火的“假笑男孩”已16岁",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "盘点假笑男孩从表情包到成长轨迹的变化，唤起8090后互联网集体记忆",
-   "hook_reason": "全网回忆杀！那个假笑表情包的主人如今已长成16岁少年，网友集体破防",
-   "url": "https://www.baidu.com/s?wd=%E6%9B%BE%E7%88%86%E7%81%AB%E7%9A%84%E2%80%9C%E5%81%87%E7%AC%91%E7%94%B7%E5%AD%A9%E2%80%9D%E5%B7%B216%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:曾爆火的假笑男孩已16岁",
-   "batch_window": 13
-  },
-  {
    "key": "奇瑞戚士龙不希望简单做价格竞争预计2027年补足国内新能源业务盈利短板",
    "title": "奇瑞戚士龙：不希望简单做价格竞争，预计2027年补足国内新能源业务盈利短板",
    "rating": "A",
@@ -12839,6 +12826,19 @@
    "breaking": true,
    "event_id": "e:官方披露将有两名中国人登陆月球",
    "batch_window": 13
+  },
+  {
+   "key": "openairaiseslessthanhalfof30btarget",
+   "title": "OpenAI raises less than half of $30B target",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "OpenAI最新一轮融资仅募得不足300亿目标的一半，市场开始质疑AI大模型公司的估值合理性",
+   "hook_reason": "OpenAI融资不及预期一半，AI估值泡沫论再燃",
+   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:openairaiseslessthanhalfof30btarget",
+   "batch_window": 14
   }
  ],
  "pushed": [
@@ -13831,7 +13831,8 @@
   "校方再回应学生摆拍大体老师头骨",
   "大学生用四年codex每天进步一点四年之后与没用上codex的同学会有很大的差距么",
   "张雪称已将母亲拉黑曾警告母亲不要继续受访后仍无果发生了什么如何看待二人关系",
-  "whyisnttheindustryfreakingoutabo5fcd0523"
+  "whyisnttheindustryfreakingoutabo5fcd0523",
+  "曾爆火的假笑男孩已16岁"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14760,7 +14761,8 @@
   "e:校方再回应学生摆拍大体老师头骨": "校方再回应学生摆拍大体老师头骨",
   "e:大学生用四年codex每天进步一点四年之后与没用上codex的同学会有很大的差距": "大学生用四年codex，每天进步一点，四年之后，与没用上codex的同学会有很大的差距么？",
   "e:张雪称已将母亲拉黑曾警告母亲不要继续受访后仍无果发生了什么如何看待二人关系": "张雪称已将母亲拉黑，曾警告母亲不要继续受访后仍无果，发生了什么？如何看待二人关系？",
-  "e:whyisnttheindustryfreakingoutaboutdeepse": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?"
+  "e:whyisnttheindustryfreakingoutaboutdeepse": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+  "e:曾爆火的假笑男孩已16岁": "曾爆火的“假笑男孩”已16岁"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -15163,15 +15165,27 @@
    "key": "官方披露将有两名中国人登陆月球",
    "title": "官方披露：将有两名中国人登陆月球",
    "rating": "A",
-   "score": 46.9,
-   "angle": "从国家航天突破角度切入，对比阿波罗计划，强调中国航天的后发优势与国际格局变化",
-   "hook_reason": "中国人登月，民族自豪感拉满，全民关注的历史性时刻",
+   "score": 54.96,
+   "angle": "从国家航天战略高度，解读中国载人登月工程里程碑意义及全球影响",
+   "hook_reason": "两名中国人登陆月球，历史级里程碑事件，民族自豪感拉满",
    "url": "https://www.toutiao.com/trending/7702661932407128127/",
    "track": "科技",
    "breaking": true,
    "event_id": "e:官方披露将有两名中国人登陆月球"
+  },
+  "openairaiseslessthanhalfof30btarget": {
+   "key": "openairaiseslessthanhalfof30btarget",
+   "title": "OpenAI raises less than half of $30B target",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "OpenAI最新一轮融资仅募得不足300亿目标的一半，市场开始质疑AI大模型公司的估值合理性",
+   "hook_reason": "OpenAI融资不及预期一半，AI估值泡沫论再燃",
+   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:openairaiseslessthanhalfof30btarget"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 13
+ "a_pushed_window": 14
 }
