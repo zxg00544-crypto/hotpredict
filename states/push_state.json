@@ -12919,19 +12919,6 @@
    "batch_window": 16
   },
   {
-   "key": "如何看待网友提出初中禁绝游戏和电子产品培养看云发呆的爱好长大一天吃一个白面馒头也很开心的观点",
-   "title": "如何看待网友提出「初中禁绝游戏和电子产品，培养看云发呆的爱好，长大一天吃一个白面馒头也很开心」的观点？",
-   "rating": "A",
-   "score": 82.0,
-   "angle": "从极端观点切入，分析当代家长教育焦虑与'反内卷'思潮的真实边界",
-   "hook_reason": "极端教育观撕裂家长群体，焦虑与清醒正面碰撞",
-   "url": "https://www.zhihu.com/question/2098120639785841357",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:如何看待网友提出初中禁绝游戏和电子产品培养看云发呆的爱好长大一天吃一个白面馒头也",
-   "batch_window": 17
-  },
-  {
    "key": "卖650万捐赠房产要缴450万的税",
    "title": "卖650万捐赠房产要缴450万的税",
    "rating": "A",
@@ -12982,6 +12969,19 @@
    "breaking": true,
    "event_id": "e:wetookoverchatgptaccounts",
    "batch_window": 20
+  },
+  {
+   "key": "deepseek发布全新agent架构",
+   "title": "DeepSeek发布全新Agent架构",
+   "rating": "A",
+   "score": 52.5,
+   "angle": "聚焦DeepSeek Agent架构的技术突破与产业意义，解读对AI应用生态的影响",
+   "hook_reason": "DeepSeek重磅发布Agent架构，AI从业者必看的国产技术突破",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixcsqn1524960.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepseek发布全新agent架构",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -13983,7 +13983,8 @@
   "谁在盯着大衣哥",
   "digitalminimalism",
   "女子花3元买彩票中1439万",
-  "hpv疫苗不好卖"
+  "hpv疫苗不好卖",
+  "如何看待网友提出初中禁绝游戏和电子产品培养看云发呆的爱好长大一天吃一个白面馒头也很开心的观点"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14921,7 +14922,8 @@
   "e:谁在盯着大衣哥": "谁在盯着“大衣哥”",
   "e:digitalminimalism": "Digital Minimalism",
   "e:女子花3元买彩票中1439万": "女子花3元买彩票中1439万",
-  "e:hpv疫苗不好卖": "HPV疫苗“不好卖”"
+  "e:hpv疫苗不好卖": "HPV疫苗“不好卖”",
+  "e:如何看待网友提出初中禁绝游戏和电子产品培养看云发呆的爱好长大一天吃一个白面馒头也": "如何看待网友提出「初中禁绝游戏和电子产品，培养看云发呆的爱好，长大一天吃一个白面馒头也很开心」的观点？"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -15595,8 +15597,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:wetookoverchatgptaccounts"
+  },
+  "deepseek发布全新agent架构": {
+   "key": "deepseek发布全新agent架构",
+   "title": "DeepSeek发布全新Agent架构",
+   "rating": "A",
+   "score": 52.5,
+   "angle": "聚焦DeepSeek Agent架构的技术突破与产业意义，解读对AI应用生态的影响",
+   "hook_reason": "DeepSeek重磅发布Agent架构，AI从业者必看的国产技术突破",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixcsqn1524960.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepseek发布全新agent架构"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
