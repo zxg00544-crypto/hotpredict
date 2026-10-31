@@ -2961,19 +2961,6 @@
    "batch_window": 6
   },
   {
-   "key": "nixwrotehalfofmydebugger",
-   "title": "Nix wrote half of my debugger",
-   "rating": "A",
-   "score": 77.0,
-   "angle": "从技术实现角度深挖开发者如何用Nix重构核心调试工具，展现技术实力",
-   "hook_reason": "开发者用Nix构建核心调试工具，技术突破吸引极客群体",
-   "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-   "track": "科技",
-   "breaking": false,
-   "event_id": "e:nixwrotehalfofmydebugger",
-   "batch_window": 7
-  },
-  {
    "key": "转载史上最大ai生物学计划启动投资18亿美元谷歌meta联手攻克疾病ai创新药",
    "title": "转载：史上最大AI生物学计划启动！投资18亿美元，谷歌、Meta联手攻克疾病 #AI # 创新药",
    "rating": "A",
@@ -13957,7 +13944,8 @@
   "土耳其总统埃尔多安对民用船只的袭击对任何人都没有好处",
   "官方披露勒多曼因峰4人滑坠2人遇难",
   "japansmostfamoustunabuyersayshet72637057",
-  "一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻"
+  "一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻",
+  "nixwrotehalfofmydebugger"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14908,7 +14896,8 @@
   "e:土耳其总统埃尔多安对民用船只的袭击对任何人都没有好处": "土耳其总统埃尔多安：对民用船只的袭击对任何人都没有好处。",
   "e:官方披露勒多曼因峰4人滑坠2人遇难": "官方披露勒多曼因峰4人滑坠2人遇难",
   "e:japansmostfamoustunabuyersaysheturnedsom": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
-  "e:一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻": "一个日本人在俄军打了三年仗，他说的比所有分析都真实 网页链接 来自 @腾讯新闻"
+  "e:一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻": "一个日本人在俄军打了三年仗，他说的比所有分析都真实 网页链接 来自 @腾讯新闻",
+  "e:nixwrotehalfofmydebugger": "Nix wrote half of my debugger"
  },
  "a_seen": {
   "毛孩子的饭碗没那么好端了": {
@@ -14937,5 +14926,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
