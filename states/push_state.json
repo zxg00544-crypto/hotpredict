@@ -5613,19 +5613,6 @@
    "batch_window": 9
   },
   {
-   "key": "businessaccountswillconsenttomet92b93b28",
-   "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
-   "rating": "A",
-   "score": 77.0,
-   "angle": "从网站所有者视角切入，解析Meta爬虫新政对内容生态的冲击",
-   "hook_reason": "Meta政策突变，你的网站内容正成为AI的免费饲料",
-   "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:businessaccountswillconsenttometascrapin",
-   "batch_window": 11
-  },
-  {
    "key": "teslaroadster",
    "title": "Tesla Roadster",
    "rating": "A",
@@ -12930,6 +12917,32 @@
    "breaking": true,
    "event_id": "e:wetookoverchatgptaccounts",
    "batch_window": 20
+  },
+  {
+   "key": "ukgreenpartydropslongstandingopp25064a45",
+   "title": "UK Green party drops longstanding opposition to nuclear power",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "英国绿党政策大逆转背后：气候目标与现实能源困境的博弈，对中国新能源战略有何启示？",
+   "hook_reason": "绿党百年反核立场突然转向，能源与环保阵营立场逆转",
+   "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:ukgreenpartydropslongstandingoppositiont",
+   "batch_window": 3
+  },
+  {
+   "key": "openai与anthropic称其ai模型证伪了指数时间假说这项理论突破或",
+   "title": "OpenAI与Anthropic称，其AI模型证伪了指数时间假说，这项理论突破或",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从AI模型能力边界切入，解读'证伪指数时间假说'对行业发展的颠覆意义",
+   "hook_reason": "两大AI巨头联手证伪经典假说，AI能力边界再突破",
+   "url": "https://finance.sina.cn/7x24/2026-11-01/detail-inixecei7107476.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai与anthropic称其ai模型证伪了指数时间假说这项理论突破或",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -13945,7 +13958,8 @@
   "官方披露勒多曼因峰4人滑坠2人遇难",
   "japansmostfamoustunabuyersayshet72637057",
   "一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻",
-  "nixwrotehalfofmydebugger"
+  "nixwrotehalfofmydebugger",
+  "businessaccountswillconsenttomet92b93b28"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14897,7 +14911,8 @@
   "e:官方披露勒多曼因峰4人滑坠2人遇难": "官方披露勒多曼因峰4人滑坠2人遇难",
   "e:japansmostfamoustunabuyersaysheturnedsom": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
   "e:一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻": "一个日本人在俄军打了三年仗，他说的比所有分析都真实 网页链接 来自 @腾讯新闻",
-  "e:nixwrotehalfofmydebugger": "Nix wrote half of my debugger"
+  "e:nixwrotehalfofmydebugger": "Nix wrote half of my debugger",
+  "e:businessaccountswillconsenttometascrapin": "Business accounts will consent to Meta scraping their websites Starting Oct. 30"
  },
  "a_seen": {
   "毛孩子的饭碗没那么好端了": {
@@ -14923,8 +14938,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:meta联合中国初创企业打造人形机器人原型加码机器人业务布局"
+  },
+  "ukgreenpartydropslongstandingopp25064a45": {
+   "key": "ukgreenpartydropslongstandingopp25064a45",
+   "title": "UK Green party drops longstanding opposition to nuclear power",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "英国绿党政策大逆转背后：气候目标与现实能源困境的博弈，对中国新能源战略有何启示？",
+   "hook_reason": "绿党百年反核立场突然转向，能源与环保阵营立场逆转",
+   "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:ukgreenpartydropslongstandingoppositiont"
+  },
+  "openai与anthropic称其ai模型证伪了指数时间假说这项理论突破或": {
+   "key": "openai与anthropic称其ai模型证伪了指数时间假说这项理论突破或",
+   "title": "OpenAI与Anthropic称，其AI模型证伪了指数时间假说，这项理论突破或",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从AI模型能力边界切入，解读'证伪指数时间假说'对行业发展的颠覆意义",
+   "hook_reason": "两大AI巨头联手证伪经典假说，AI能力边界再突破",
+   "url": "https://finance.sina.cn/7x24/2026-11-01/detail-inixecei7107476.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai与anthropic称其ai模型证伪了指数时间假说这项理论突破或"
+  },
+  "伊朗安全负责人雷扎伊在伊朗的条件得到满足之前霍尔木兹海峡将继续关闭": {
+   "key": "伊朗安全负责人雷扎伊在伊朗的条件得到满足之前霍尔木兹海峡将继续关闭",
+   "title": "伊朗安全负责人雷扎伊：在伊朗的条件得到满足之前，霍尔木兹海峡将继续关闭。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从油价暴涨切入，解读对国内经济、股市、能源行业的连锁冲击",
+   "hook_reason": "霍尔木兹海峡封锁冲击全球油价，牵动每个人的钱包",
+   "url": "https://finance.sina.cn/7x24/2026-11-01/detail-inixeceh1335178.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英国海上贸易行动办公室3艘船在霍尔木兹海峡遭袭"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
