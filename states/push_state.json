@@ -12360,19 +12360,6 @@
    "batch_window": 14
   },
   {
-   "key": "张雪称已将母亲拉黑曾警告母亲不要继续受访后仍无果发生了什么如何看待二人关系",
-   "title": "张雪称已将母亲拉黑，曾警告母亲不要继续受访后仍无果，发生了什么？如何看待二人关系？",
-   "rating": "A",
-   "score": 77.35,
-   "angle": "从'亲情边界与媒体剥削'角度切入，分析公众人物家庭被消费的社会现象",
-   "hook_reason": "母女公开决裂+母亲执意受访，家庭伦理冲突引爆共鸣",
-   "url": "https://www.zhihu.com/question/2099470459695624255",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:张雪称已将母亲拉黑曾警告母亲不要继续受访后仍无果发生了什么如何看待二人关系",
-   "batch_window": 15
-  },
-  {
    "key": "如何看待币安遭黑客攻击数十亿美元资产被盗或成历史金额最大被盗事件",
    "title": "如何看待币安遭黑客攻击，数十亿美元资产被盗，或成历史金额最大被盗事件？",
    "rating": "A",
@@ -12800,6 +12787,32 @@
    "breaking": true,
    "event_id": "e:我国首次载人登月任务乘组计划由三人组成两人着陆月球表面",
    "batch_window": 11
+  },
+  {
+   "key": "沙盒能关住超级aiopenaiceo反问当ai比顶尖研究员聪明100万倍你还敢信任沙盒吗",
+   "title": "沙盒能关住超级AI？OpenAI CEO反问：当AI比顶尖研究员聪明100万倍，你还敢信任沙盒吗",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "以CEO的反问为切口，深挖AI安全治理困境：技术跑太快，监管沙盒是否已成'玩具箱'",
+   "hook_reason": "OpenAI CEO灵魂拷问：AI远超人类还能被关住？直击大众对超级AI的深层恐惧",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixavkw1701875.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:沙盒能关住超级aiopenaiceo反问当ai比顶尖研究员聪明100万倍你还敢信",
+   "batch_window": 12
+  },
+  {
+   "key": "北京建设绿氢绿色燃料交易中心",
+   "title": "北京：建设绿氢（绿色燃料）交易中心",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从绿氢交易中心落地看北京新能源产业布局，拆解上下游受益标的与投资逻辑",
+   "hook_reason": "政策重磅信号，新能源产业链资本风向标",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixavkw1698760.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:北京建设绿氢绿色燃料交易中心",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -13790,7 +13803,8 @@
   "qwenputerafunctioningdeterminist7ea9f34b",
   "共享儿女试点每月最低199元",
   "校方再回应学生摆拍大体老师头骨",
-  "大学生用四年codex每天进步一点四年之后与没用上codex的同学会有很大的差距么"
+  "大学生用四年codex每天进步一点四年之后与没用上codex的同学会有很大的差距么",
+  "张雪称已将母亲拉黑曾警告母亲不要继续受访后仍无果发生了什么如何看待二人关系"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14717,7 +14731,8 @@
   "e:qwenputerafunctioningdeterministicriscvc": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
   "e:共享儿女试点每月最低199元": "“共享儿女”试点：每月最低199元",
   "e:校方再回应学生摆拍大体老师头骨": "校方再回应学生摆拍大体老师头骨",
-  "e:大学生用四年codex每天进步一点四年之后与没用上codex的同学会有很大的差距": "大学生用四年codex，每天进步一点，四年之后，与没用上codex的同学会有很大的差距么？"
+  "e:大学生用四年codex每天进步一点四年之后与没用上codex的同学会有很大的差距": "大学生用四年codex，每天进步一点，四年之后，与没用上codex的同学会有很大的差距么？",
+  "e:张雪称已将母亲拉黑曾警告母亲不要继续受访后仍无果发生了什么如何看待二人关系": "张雪称已将母亲拉黑，曾警告母亲不要继续受访后仍无果，发生了什么？如何看待二人关系？"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -15067,8 +15082,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:我国首次载人登月任务乘组计划由三人组成两人着陆月球表面"
+  },
+  "沙盒能关住超级aiopenaiceo反问当ai比顶尖研究员聪明100万倍你还敢信任沙盒吗": {
+   "key": "沙盒能关住超级aiopenaiceo反问当ai比顶尖研究员聪明100万倍你还敢信任沙盒吗",
+   "title": "沙盒能关住超级AI？OpenAI CEO反问：当AI比顶尖研究员聪明100万倍，你还敢信任沙盒吗",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "以CEO的反问为切口，深挖AI安全治理困境：技术跑太快，监管沙盒是否已成'玩具箱'",
+   "hook_reason": "OpenAI CEO灵魂拷问：AI远超人类还能被关住？直击大众对超级AI的深层恐惧",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixavkw1701875.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:沙盒能关住超级aiopenaiceo反问当ai比顶尖研究员聪明100万倍你还敢信"
+  },
+  "北京建设绿氢绿色燃料交易中心": {
+   "key": "北京建设绿氢绿色燃料交易中心",
+   "title": "北京：建设绿氢（绿色燃料）交易中心",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "从绿氢交易中心落地看北京新能源产业布局，拆解上下游受益标的与投资逻辑",
+   "hook_reason": "政策重磅信号，新能源产业链资本风向标",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixavkw1698760.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:北京建设绿氢绿色燃料交易中心"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
