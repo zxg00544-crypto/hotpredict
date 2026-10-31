@@ -12839,6 +12839,32 @@
    "breaking": true,
    "event_id": "e:openairaiseslessthanhalfof30btarget",
    "batch_window": 14
+  },
+  {
+   "key": "小沈阳发文回应夺冠",
+   "title": "小沈阳发文回应夺冠",
+   "rating": "A",
+   "score": 81.75,
+   "angle": "从小沈阳发文切入，解读明星舆情应对策略及公众对综艺赛事结果的争议情绪",
+   "hook_reason": "明星发文回应夺冠争议，满足公众吃瓜心理与八卦诉求",
+   "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:小沈阳发文回应夺冠",
+   "batch_window": 14
+  },
+  {
+   "key": "a股的钱究竟被谁赚走了",
+   "title": "A股的钱究竟被谁赚走了",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "拆解A股各类参与者的盈利真相，用数据和案例揭示散户vs机构的博弈格局",
+   "hook_reason": "直击股民痛点，谁赚钱引发全民好奇与焦虑",
+   "url": "https://www.toutiao.com/trending/7702679252839173674/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股的钱究竟被谁赚走了",
+   "batch_window": 14
   }
  ],
  "pushed": [
@@ -15165,11 +15191,11 @@
    "key": "官方披露将有两名中国人登陆月球",
    "title": "官方披露：将有两名中国人登陆月球",
    "rating": "A",
-   "score": 54.96,
-   "angle": "从国家航天战略高度，解读中国载人登月工程里程碑意义及全球影响",
-   "hook_reason": "两名中国人登陆月球，历史级里程碑事件，民族自豪感拉满",
+   "score": 54.41,
+   "angle": "从嫦娥工程里程碑切入，串联中国航天40年跨越，突出制度优势与民族自信",
+   "hook_reason": "国家级突破+民族自豪感，全民关注航天",
    "url": "https://www.toutiao.com/trending/7702661932407128127/",
-   "track": "科技",
+   "track": "社会热点",
    "breaking": true,
    "event_id": "e:官方披露将有两名中国人登陆月球"
   },
@@ -15184,6 +15210,30 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:openairaiseslessthanhalfof30btarget"
+  },
+  "小沈阳发文回应夺冠": {
+   "key": "小沈阳发文回应夺冠",
+   "title": "小沈阳发文回应夺冠",
+   "rating": "A",
+   "score": 81.75,
+   "angle": "从小沈阳发文切入，解读明星舆情应对策略及公众对综艺赛事结果的争议情绪",
+   "hook_reason": "明星发文回应夺冠争议，满足公众吃瓜心理与八卦诉求",
+   "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:小沈阳发文回应夺冠"
+  },
+  "a股的钱究竟被谁赚走了": {
+   "key": "a股的钱究竟被谁赚走了",
+   "title": "A股的钱究竟被谁赚走了",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "拆解A股各类参与者的盈利真相，用数据和案例揭示散户vs机构的博弈格局",
+   "hook_reason": "直击股民痛点，谁赚钱引发全民好奇与焦虑",
+   "url": "https://www.toutiao.com/trending/7702679252839173674/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股的钱究竟被谁赚走了"
   }
  },
  "breaking_count": 10,
