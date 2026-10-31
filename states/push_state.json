@@ -12945,19 +12945,6 @@
    "batch_window": 17
   },
   {
-   "key": "digitalminimalism",
-   "title": "Digital Minimalism",
-   "rating": "A",
-   "score": 86.0,
-   "angle": "借Vitalik个人影响力，拆解AI时代'数字极简'的反身性悖论",
-   "hook_reason": "Vitalik发文倡'数字极简'，科技顶流反思自身生态",
-   "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:digitalminimalism",
-   "batch_window": 18
-  },
-  {
    "key": "75岁傅成玉被查",
    "title": "75岁傅成玉被查",
    "rating": "A",
@@ -12982,6 +12969,45 @@
    "breaking": true,
    "event_id": "e:如何看待cellpress称没有发现饶毅指控华人编辑索贿的证据饶毅继续硬刚并怒怼",
    "batch_window": 19
+  },
+  {
+   "key": "女子花3元买彩票中1439万",
+   "title": "女子花3元买彩票中1439万",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "从'运气vs努力'切入，探讨彩票心理与财富焦虑",
+   "hook_reason": "3元翻479倍，普通人也能成为幸运儿",
+   "url": "https://www.toutiao.com/trending/7702677396650230282/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子花3元买彩票中1439万",
+   "batch_window": 20
+  },
+  {
+   "key": "hpv疫苗不好卖",
+   "title": "HPV疫苗“不好卖”",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "揭秘HPV疫苗'不好卖'背后原因：是需求下降还是供应过剩？关联女性健康焦虑与医疗资源话题",
+   "hook_reason": "HPV疫苗突然'滞销'？女性健康话题+反常现象引发强烈好奇",
+   "url": "https://www.baidu.com/s?wd=HPV%E7%96%AB%E8%8B%97%E2%80%9C%E4%B8%8D%E5%A5%BD%E5%8D%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:hpv疫苗不好卖",
+   "batch_window": 20
+  },
+  {
+   "key": "wetookoverchatgptaccounts",
+   "title": "We Took over ChatGPT Accounts",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "直击OpenAI安全防线缺口，从技术视角拆解漏洞原理与用户数据安全启示",
+   "hook_reason": "OpenAI账号被接管，安全漏洞震惊科技圈",
+   "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:wetookoverchatgptaccounts",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -13980,7 +14006,8 @@
   "今年全国实现生娃基本不花钱多地密集出台生育支持措施涉及哪些方面会带来哪些积极影响",
   "openairaiseslessthanhalfof30btarget",
   "日代表团掘开侵华日军坟墓让其谢罪",
-  "谁在盯着大衣哥"
+  "谁在盯着大衣哥",
+  "digitalminimalism"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14915,7 +14942,8 @@
   "e:今年全国实现生娃基本不花钱多地密集出台生育支持措施涉及哪些方面会带来哪些积极影响": "今年全国实现生娃基本不花钱，多地密集出台生育支持措施，涉及哪些方面？会带来哪些积极影响？",
   "e:openairaiseslessthanhalfof30btarget": "OpenAI raises less than half of $30B target",
   "e:日代表团掘开侵华日军坟墓让其谢罪": "日代表团：掘开侵华日军坟墓让其谢罪",
-  "e:谁在盯着大衣哥": "谁在盯着“大衣哥”"
+  "e:谁在盯着大衣哥": "谁在盯着“大衣哥”",
+  "e:digitalminimalism": "Digital Minimalism"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -15541,8 +15569,56 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:如何看待cellpress称没有发现饶毅指控华人编辑索贿的证据饶毅继续硬刚并怒怼"
+  },
+  "女子花3元买彩票中1439万": {
+   "key": "女子花3元买彩票中1439万",
+   "title": "女子花3元买彩票中1439万",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "从'运气vs努力'切入，探讨彩票心理与财富焦虑",
+   "hook_reason": "3元翻479倍，普通人也能成为幸运儿",
+   "url": "https://www.toutiao.com/trending/7702677396650230282/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子花3元买彩票中1439万"
+  },
+  "hpv疫苗不好卖": {
+   "key": "hpv疫苗不好卖",
+   "title": "HPV疫苗“不好卖”",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "揭秘HPV疫苗'不好卖'背后原因：是需求下降还是供应过剩？关联女性健康焦虑与医疗资源话题",
+   "hook_reason": "HPV疫苗突然'滞销'？女性健康话题+反常现象引发强烈好奇",
+   "url": "https://www.baidu.com/s?wd=HPV%E7%96%AB%E8%8B%97%E2%80%9C%E4%B8%8D%E5%A5%BD%E5%8D%96%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:hpv疫苗不好卖"
+  },
+  "serbiajustelectedtheworldsbrainiestparliament": {
+   "key": "serbiajustelectedtheworldsbrainiestparliament",
+   "title": "Serbia just elected the world's brainiest parliament",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从塞尔维亚议会选举切入，探讨高知群体参政对政策制定的影响及社会意义",
+   "hook_reason": "全球最聪明议会诞生，议员素质成热议话题",
+   "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:serbiasvucicconcedeselectiondefeatinhist"
+  },
+  "wetookoverchatgptaccounts": {
+   "key": "wetookoverchatgptaccounts",
+   "title": "We Took over ChatGPT Accounts",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "直击OpenAI安全防线缺口，从技术视角拆解漏洞原理与用户数据安全启示",
+   "hook_reason": "OpenAI账号被接管，安全漏洞震惊科技圈",
+   "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:wetookoverchatgptaccounts"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
