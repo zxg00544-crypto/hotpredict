@@ -12787,19 +12787,6 @@
    "breaking": true,
    "event_id": "e:英特尔股价暴跌2858创52年来最大日跌幅市值蒸发近1500亿美元怎样解读市场的",
    "batch_window": 8
-  },
-  {
-   "key": "校方再回应学生摆拍大体老师头骨",
-   "title": "校方再回应学生摆拍大体老师头骨",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从医学生伦理教育与网络博流量现象切入，探讨尊重生命底线的教育缺失",
-   "hook_reason": "医学伦理边界争议，校方二次回应引爆舆论",
-   "url": "https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%86%8D%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E6%91%86%E6%8B%8D%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E5%A4%B4%E9%AA%A8&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:校方再回应学生摆拍大体老师头骨",
-   "batch_window": 9
   }
  ],
  "pushed": [
@@ -13788,7 +13775,8 @@
   "productmanagersarentsafeeither",
   "azuresweakestlinkfivefullcrosstenantcompromises",
   "qwenputerafunctioningdeterminist7ea9f34b",
-  "共享儿女试点每月最低199元"
+  "共享儿女试点每月最低199元",
+  "校方再回应学生摆拍大体老师头骨"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14713,7 +14701,8 @@
   "e:productmanagersarentsafeeither": "Product Managers aren't safe either",
   "e:azuresweakestlinkfivefullcrosstenantcomp": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
   "e:qwenputerafunctioningdeterministicriscvc": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-  "e:共享儿女试点每月最低199元": "“共享儿女”试点：每月最低199元"
+  "e:共享儿女试点每月最低199元": "“共享儿女”试点：每月最低199元",
+  "e:校方再回应学生摆拍大体老师头骨": "校方再回应学生摆拍大体老师头骨"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -15042,5 +15031,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
