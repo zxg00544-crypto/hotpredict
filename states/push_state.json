@@ -5860,19 +5860,6 @@
    "batch_window": 17
   },
   {
-   "key": "theinsidertradingyoureallowedtodo",
-   "title": "The insider trading you're allowed to do",
-   "rating": "A",
-   "score": 77.0,
-   "angle": "探讨灰色地带的合规内幕交易策略及法律风险",
-   "hook_reason": "内幕交易合法边界引发争议，投资者好奇心强",
-   "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:theinsidertradingyoureallowedtodo",
-   "batch_window": 18
-  },
-  {
    "key": "黄仁勋开始卖锁了英伟达这步棋意味着什么ai创造营热搜ai创作激励大赛红衣大叔周",
    "title": "黄仁勋开始卖锁了！英伟达这步棋意味着什么？ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周",
    "rating": "A",
@@ -12943,6 +12930,19 @@
    "breaking": true,
    "event_id": "e:openai与anthropic称其ai模型证伪了指数时间假说这项理论突破或",
    "batch_window": 3
+  },
+  {
+   "key": "如何看待台湾地区外事发言人回应特朗普言论他这是挫折和羡慕我们",
+   "title": "如何看待台湾地区外事发言人回应特朗普言论：“他这是挫折和羡慕我们”？",
+   "rating": "A",
+   "score": 49.44,
+   "angle": "从发言人金句切入，深挖特朗普施压背后的中美博弈逻辑与台湾战略价值",
+   "hook_reason": "特朗普言论引发两岸热议，情绪张力强，读者想看中方如何回击",
+   "url": "https://www.zhihu.com/question/2098805525668537881",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何看待台湾地区外事发言人回应特朗普言论他这是挫折和羡慕我们",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -13959,7 +13959,8 @@
   "japansmostfamoustunabuyersayshet72637057",
   "一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻",
   "nixwrotehalfofmydebugger",
-  "businessaccountswillconsenttomet92b93b28"
+  "businessaccountswillconsenttomet92b93b28",
+  "theinsidertradingyoureallowedtodo"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14912,7 +14913,8 @@
   "e:japansmostfamoustunabuyersaysheturnedsom": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
   "e:一个日本人在俄军打了三年仗他说的比所有分析都真实网页链接来自腾讯新闻": "一个日本人在俄军打了三年仗，他说的比所有分析都真实 网页链接 来自 @腾讯新闻",
   "e:nixwrotehalfofmydebugger": "Nix wrote half of my debugger",
-  "e:businessaccountswillconsenttometascrapin": "Business accounts will consent to Meta scraping their websites Starting Oct. 30"
+  "e:businessaccountswillconsenttometascrapin": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+  "e:theinsidertradingyoureallowedtodo": "The insider trading you're allowed to do"
  },
  "a_seen": {
   "毛孩子的饭碗没那么好端了": {
@@ -14974,8 +14976,20 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:英国海上贸易行动办公室3艘船在霍尔木兹海峡遭袭"
+  },
+  "如何看待台湾地区外事发言人回应特朗普言论他这是挫折和羡慕我们": {
+   "key": "如何看待台湾地区外事发言人回应特朗普言论他这是挫折和羡慕我们",
+   "title": "如何看待台湾地区外事发言人回应特朗普言论：“他这是挫折和羡慕我们”？",
+   "rating": "A",
+   "score": 49.44,
+   "angle": "从发言人金句切入，深挖特朗普施压背后的中美博弈逻辑与台湾战略价值",
+   "hook_reason": "特朗普言论引发两岸热议，情绪张力强，读者想看中方如何回击",
+   "url": "https://www.zhihu.com/question/2098805525668537881",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何看待台湾地区外事发言人回应特朗普言论他这是挫折和羡慕我们"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
