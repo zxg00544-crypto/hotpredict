@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-10-31",
  "a_pending": [
   {
@@ -12971,19 +12971,6 @@
    "batch_window": 19
   },
   {
-   "key": "女子花3元买彩票中1439万",
-   "title": "女子花3元买彩票中1439万",
-   "rating": "A",
-   "score": 98.0,
-   "angle": "从'运气vs努力'切入，探讨彩票心理与财富焦虑",
-   "hook_reason": "3元翻479倍，普通人也能成为幸运儿",
-   "url": "https://www.toutiao.com/trending/7702677396650230282/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:女子花3元买彩票中1439万",
-   "batch_window": 20
-  },
-  {
    "key": "hpv疫苗不好卖",
    "title": "HPV疫苗“不好卖”",
    "rating": "A",
@@ -14007,7 +13994,8 @@
   "openairaiseslessthanhalfof30btarget",
   "日代表团掘开侵华日军坟墓让其谢罪",
   "谁在盯着大衣哥",
-  "digitalminimalism"
+  "digitalminimalism",
+  "女子花3元买彩票中1439万"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14943,7 +14931,8 @@
   "e:openairaiseslessthanhalfof30btarget": "OpenAI raises less than half of $30B target",
   "e:日代表团掘开侵华日军坟墓让其谢罪": "日代表团：掘开侵华日军坟墓让其谢罪",
   "e:谁在盯着大衣哥": "谁在盯着“大衣哥”",
-  "e:digitalminimalism": "Digital Minimalism"
+  "e:digitalminimalism": "Digital Minimalism",
+  "e:女子花3元买彩票中1439万": "女子花3元买彩票中1439万"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -15610,9 +15599,9 @@
    "key": "wetookoverchatgptaccounts",
    "title": "We Took over ChatGPT Accounts",
    "rating": "A",
-   "score": 40.75,
-   "angle": "直击OpenAI安全防线缺口，从技术视角拆解漏洞原理与用户数据安全启示",
-   "hook_reason": "OpenAI账号被接管，安全漏洞震惊科技圈",
+   "score": 76.5,
+   "angle": "从安全漏洞切入，深挖OpenAI防护短板及普通用户如何获取企业级账号权限",
+   "hook_reason": "普通人黑进ChatGPT？OpenAI重大安全漏洞曝光",
    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
    "track": "科技",
    "breaking": true,
@@ -15620,5 +15609,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
