@@ -12828,19 +12828,6 @@
    "batch_window": 13
   },
   {
-   "key": "openairaiseslessthanhalfof30btarget",
-   "title": "OpenAI raises less than half of $30B target",
-   "rating": "A",
-   "score": 80.0,
-   "angle": "OpenAI最新一轮融资仅募得不足300亿目标的一半，市场开始质疑AI大模型公司的估值合理性",
-   "hook_reason": "OpenAI融资不及预期一半，AI估值泡沫论再燃",
-   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:openairaiseslessthanhalfof30btarget",
-   "batch_window": 14
-  },
-  {
    "key": "a股的钱究竟被谁赚走了",
    "title": "A股的钱究竟被谁赚走了",
    "rating": "A",
@@ -12930,6 +12917,58 @@
    "breaking": true,
    "event_id": "e:官宣无锡联合阿里云共建千问办公创新中心",
    "batch_window": 16
+  },
+  {
+   "key": "日代表团掘开侵华日军坟墓让其谢罪",
+   "title": "日代表团：掘开侵华日军坟墓让其谢罪",
+   "rating": "A",
+   "score": 95.5,
+   "angle": "从历史伤痛切入，分析日本右翼挑衅行为背后的政治意图及民众反应",
+   "hook_reason": "日本掘侵华日军坟墓谢罪，触碰民族情绪底线",
+   "url": "https://www.toutiao.com/trending/7702615403247255588/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:日代表团掘开侵华日军坟墓让其谢罪",
+   "batch_window": 17
+  },
+  {
+   "key": "谁在盯着大衣哥",
+   "title": "谁在盯着“大衣哥”",
+   "rating": "A",
+   "score": 92.0,
+   "angle": null,
+   "hook_reason": "大衣哥被围观引隐私争议，草根明星遭遇数字时代",
+   "url": "https://www.baidu.com/s?wd=%E8%B0%81%E5%9C%A8%E7%9B%AF%E7%9D%80%E2%80%9C%E5%A4%A7%E8%A1%A3%E5%93%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:谁在盯着大衣哥",
+   "batch_window": 17
+  },
+  {
+   "key": "如何看待网友提出初中禁绝游戏和电子产品培养看云发呆的爱好长大一天吃一个白面馒头也很开心的观点",
+   "title": "如何看待网友提出「初中禁绝游戏和电子产品，培养看云发呆的爱好，长大一天吃一个白面馒头也很开心」的观点？",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "从极端观点切入，分析当代家长教育焦虑与'反内卷'思潮的真实边界",
+   "hook_reason": "极端教育观撕裂家长群体，焦虑与清醒正面碰撞",
+   "url": "https://www.zhihu.com/question/2098120639785841357",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何看待网友提出初中禁绝游戏和电子产品培养看云发呆的爱好长大一天吃一个白面馒头也",
+   "batch_window": 17
+  },
+  {
+   "key": "卖650万捐赠房产要缴450万的税",
+   "title": "卖650万捐赠房产要缴450万的税",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读捐赠房产涉税政策的法律依据，对比不同城市执行差异，引发读者对自身房产处置的关切",
+   "hook_reason": "捐赠房产还缴450万税，触发公众对税收公平性与政策漏洞的强烈情绪共鸣",
+   "url": "https://www.baidu.com/s?wd=%E5%8D%96650%E4%B8%87%E6%8D%90%E8%B5%A0%E6%88%BF%E4%BA%A7%E8%A6%81%E7%BC%B4450%E4%B8%87%E7%9A%84%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:卖650万捐赠房产要缴450万的税",
+   "batch_window": 17
   }
  ],
  "pushed": [
@@ -13925,7 +13964,8 @@
   "whyisnttheindustryfreakingoutabo5fcd0523",
   "曾爆火的假笑男孩已16岁",
   "小沈阳发文回应夺冠",
-  "今年全国实现生娃基本不花钱多地密集出台生育支持措施涉及哪些方面会带来哪些积极影响"
+  "今年全国实现生娃基本不花钱多地密集出台生育支持措施涉及哪些方面会带来哪些积极影响",
+  "openairaiseslessthanhalfof30btarget"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14857,7 +14897,8 @@
   "e:whyisnttheindustryfreakingoutaboutdeepse": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
   "e:曾爆火的假笑男孩已16岁": "曾爆火的“假笑男孩”已16岁",
   "e:小沈阳发文回应夺冠": "小沈阳发文回应夺冠",
-  "e:今年全国实现生娃基本不花钱多地密集出台生育支持措施涉及哪些方面会带来哪些积极影响": "今年全国实现生娃基本不花钱，多地密集出台生育支持措施，涉及哪些方面？会带来哪些积极影响？"
+  "e:今年全国实现生娃基本不花钱多地密集出台生育支持措施涉及哪些方面会带来哪些积极影响": "今年全国实现生娃基本不花钱，多地密集出台生育支持措施，涉及哪些方面？会带来哪些积极影响？",
+  "e:openairaiseslessthanhalfof30btarget": "OpenAI raises less than half of $30B target"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -15387,8 +15428,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:官宣无锡联合阿里云共建千问办公创新中心"
+  },
+  "日代表团掘开侵华日军坟墓让其谢罪": {
+   "key": "日代表团掘开侵华日军坟墓让其谢罪",
+   "title": "日代表团：掘开侵华日军坟墓让其谢罪",
+   "rating": "A",
+   "score": 95.5,
+   "angle": "从历史伤痛切入，分析日本右翼挑衅行为背后的政治意图及民众反应",
+   "hook_reason": "日本掘侵华日军坟墓谢罪，触碰民族情绪底线",
+   "url": "https://www.toutiao.com/trending/7702615403247255588/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:日代表团掘开侵华日军坟墓让其谢罪"
+  },
+  "谁在盯着大衣哥": {
+   "key": "谁在盯着大衣哥",
+   "title": "谁在盯着“大衣哥”",
+   "rating": "A",
+   "score": 92.0,
+   "angle": null,
+   "hook_reason": "大衣哥被围观引隐私争议，草根明星遭遇数字时代",
+   "url": "https://www.baidu.com/s?wd=%E8%B0%81%E5%9C%A8%E7%9B%AF%E7%9D%80%E2%80%9C%E5%A4%A7%E8%A1%A3%E5%93%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:谁在盯着大衣哥"
+  },
+  "红果短剧年营收超150亿为什么创作者两个月11部剧只赚了9块6": {
+   "key": "红果短剧年营收超150亿为什么创作者两个月11部剧只赚了9块6",
+   "title": "红果短剧年营收超150亿，为什么创作者两个月11部剧只赚了9块6？",
+   "rating": "A",
+   "score": 86.5,
+   "angle": "从短剧繁荣背后的创作者困境切入，揭示平台与个体创作者的收益鸿沟",
+   "hook_reason": "平台年赚150亿vs创作者月入9块6，强烈反差引发打工人心疼",
+   "url": "https://www.zhihu.com/question/2099456582853605372",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:红果国内第四大app"
+  },
+  "如何看待网友提出初中禁绝游戏和电子产品培养看云发呆的爱好长大一天吃一个白面馒头也很开心的观点": {
+   "key": "如何看待网友提出初中禁绝游戏和电子产品培养看云发呆的爱好长大一天吃一个白面馒头也很开心的观点",
+   "title": "如何看待网友提出「初中禁绝游戏和电子产品，培养看云发呆的爱好，长大一天吃一个白面馒头也很开心」的观点？",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "从极端观点切入，分析当代家长教育焦虑与'反内卷'思潮的真实边界",
+   "hook_reason": "极端教育观撕裂家长群体，焦虑与清醒正面碰撞",
+   "url": "https://www.zhihu.com/question/2098120639785841357",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何看待网友提出初中禁绝游戏和电子产品培养看云发呆的爱好长大一天吃一个白面馒头也"
+  },
+  "卖650万捐赠房产要缴450万的税": {
+   "key": "卖650万捐赠房产要缴450万的税",
+   "title": "卖650万捐赠房产要缴450万的税",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读捐赠房产涉税政策的法律依据，对比不同城市执行差异，引发读者对自身房产处置的关切",
+   "hook_reason": "捐赠房产还缴450万税，触发公众对税收公平性与政策漏洞的强烈情绪共鸣",
+   "url": "https://www.baidu.com/s?wd=%E5%8D%96650%E4%B8%87%E6%8D%90%E8%B5%A0%E6%88%BF%E4%BA%A7%E8%A6%81%E7%BC%B4450%E4%B8%87%E7%9A%84%E7%A8%8E&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:卖650万捐赠房产要缴450万的税"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 16
+ "a_pushed_window": 17
 }
