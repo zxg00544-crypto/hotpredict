@@ -11866,19 +11866,6 @@
    "batch_window": 9
   },
   {
-   "key": "qwenputerafunctioningdeterminist7ea9f34b",
-   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-   "rating": "A",
-   "score": 77.5,
-   "angle": "Qwen3.5内置RISC-V CPU，AI与硬件融合里程碑",
-   "hook_reason": "AI模型内部造出CPU，技术突破震撼",
-   "url": "https://divagr.com/blog/qwenputer",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:qwenputerafunctioningdeterministicriscvc",
-   "batch_window": 10
-  },
-  {
    "key": "商业航天概念探底回升上海港湾钧达股份上海沪工顺灏股份等多股涨停乾照光电",
    "title": "商业航天概念探底回升，上海港湾、钧达股份、上海沪工、顺灏股份等多股涨停，乾照光电",
    "rating": "A",
@@ -12748,6 +12735,32 @@
    "breaking": true,
    "event_id": "e:franceisgettingdownloadtaxforcontentprov",
    "batch_window": 7
+  },
+  {
+   "key": "市场消息随着科技焦虑情绪升温openai将融资目标削减100亿美元",
+   "title": "市场消息：随着科技焦虑情绪升温，OpenAI将融资目标削减100亿美元。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从科技焦虑切入，解读OpenAI融资调整对AI行业格局及估值体系的深层信号",
+   "hook_reason": "OpenAI融资大削减，科技圈顶流估值震荡引发广泛关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixakva1814543.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:市场消息随着科技焦虑情绪升温openai将融资目标削减100亿美元",
+   "batch_window": 8
+  },
+  {
+   "key": "英特尔股价暴跌2858创52年来最大日跌幅市值蒸发近1500亿美元怎样解读市场的反应",
+   "title": "英特尔股价暴跌28.58%创52年来最大日跌幅，市值蒸发近1500亿美元，怎样解读市场的反应？",
+   "rating": "A",
+   "score": 43.9,
+   "angle": "从芯片巨头百年转折切入，剖析AI时代英特尔失速的深层原因，链接普通投资者的资产配置启示",
+   "hook_reason": "52年最大日跌幅！英特尔一夜蒸发1500亿，半导体格局要变天？",
+   "url": "https://www.zhihu.com/question/2099621992160817192",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:纳指跌近3英特尔创52年来最大日跌幅",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -13734,7 +13747,8 @@
   "x教授去世享年86岁复仇者联盟5毁灭之日成为遗作他的离去对漫威宇宙意味着什么",
   "anthropicmaynotsecureinvestmentg6a469a19",
   "productmanagersarentsafeeither",
-  "azuresweakestlinkfivefullcrosstenantcompromises"
+  "azuresweakestlinkfivefullcrosstenantcompromises",
+  "qwenputerafunctioningdeterminist7ea9f34b"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14657,7 +14671,8 @@
   "e:x教授去世享年86岁复仇者联盟5毁灭之日成为遗作他的离去对漫威宇宙意味着什么": "「X 教授」去世，享年 86 岁,《复仇者联盟 5：毁灭之日》成为遗作，他的离去对漫威宇宙意味着什么？",
   "e:anthropicmaynotsecureinvestmentgraderati": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
   "e:productmanagersarentsafeeither": "Product Managers aren't safe either",
-  "e:azuresweakestlinkfivefullcrosstenantcomp": "Azure's Weakest Link – Five Full Cross-Tenant Compromises"
+  "e:azuresweakestlinkfivefullcrosstenantcomp": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+  "e:qwenputerafunctioningdeterministicriscvc": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -14899,8 +14914,56 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:franceisgettingdownloadtaxforcontentprov"
+  },
+  "市场消息随着科技焦虑情绪升温openai将融资目标削减100亿美元": {
+   "key": "市场消息随着科技焦虑情绪升温openai将融资目标削减100亿美元",
+   "title": "市场消息：随着科技焦虑情绪升温，OpenAI将融资目标削减100亿美元。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从科技焦虑切入，解读OpenAI融资调整对AI行业格局及估值体系的深层信号",
+   "hook_reason": "OpenAI融资大削减，科技圈顶流估值震荡引发广泛关注",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixakva1814543.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:市场消息随着科技焦虑情绪升温openai将融资目标削减100亿美元"
+  },
+  "英特尔股价暴跌2858创52年来最大日跌幅市值蒸发近1500亿美元怎样解读市场的反应": {
+   "key": "英特尔股价暴跌2858创52年来最大日跌幅市值蒸发近1500亿美元怎样解读市场的反应",
+   "title": "英特尔股价暴跌28.58%创52年来最大日跌幅，市值蒸发近1500亿美元，怎样解读市场的反应？",
+   "rating": "A",
+   "score": 43.9,
+   "angle": "从芯片巨头百年转折切入，剖析AI时代英特尔失速的深层原因，链接普通投资者的资产配置启示",
+   "hook_reason": "52年最大日跌幅！英特尔一夜蒸发1500亿，半导体格局要变天？",
+   "url": "https://www.zhihu.com/question/2099621992160817192",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:纳指跌近3英特尔创52年来最大日跌幅"
+  },
+  "纳指跌近3英特尔创52年来最大日跌幅": {
+   "key": "纳指跌近3英特尔创52年来最大日跌幅",
+   "title": "纳指跌近3%英特尔创52年来最大日跌幅",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从纳指暴跌切入，深挖英特尔为何崩盘，解读科技股周期拐点，给投资者明确警示",
+   "hook_reason": "英特尔创52年最大跌幅，股民必盯的超级爆款",
+   "url": "https://www.toutiao.com/trending/7702601097189264923/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:纳指跌近3英特尔创52年来最大日跌幅"
+  },
+  "金价降了卖爆了银价已腰斩": {
+   "key": "金价降了卖爆了银价已腰斩",
+   "title": "金价降了卖爆了 银价已腰斩",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从普通投资者视角切入，解读贵金属暴跌背后的逻辑，给出资产配置建议",
+   "hook_reason": "金价腰斩、白银暴跌，老百姓手里的黄金还能不能保值？",
+   "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%99%8D%E4%BA%86%E5%8D%96%E7%88%86%E4%BA%86+%E9%93%B6%E4%BB%B7%E5%B7%B2%E8%85%B0%E6%96%A9&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:金价大跌后国庆上海金店排长队"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
