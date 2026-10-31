@@ -12763,19 +12763,6 @@
    "batch_window": 8
   },
   {
-   "key": "共享儿女试点每月最低199元",
-   "title": "“共享儿女”试点：每月最低199元",
-   "rating": "A",
-   "score": 81.94,
-   "angle": "从双职工家庭养老育儿困境切入，分析共享儿女模式可行性与伦理边界",
-   "hook_reason": "共享儿女199元/月戳中养老育儿双痛，争议性强引发全民讨论",
-   "url": "https://www.toutiao.com/trending/7701986310748061734/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:共享儿女试点每月最低199元",
-   "batch_window": 8
-  },
-  {
    "key": "大学生用四年codex每天进步一点四年之后与没用上codex的同学会有很大的差距么",
    "title": "大学生用四年codex，每天进步一点，四年之后，与没用上codex的同学会有很大的差距么？",
    "rating": "A",
@@ -12800,6 +12787,19 @@
    "breaking": true,
    "event_id": "e:英特尔股价暴跌2858创52年来最大日跌幅市值蒸发近1500亿美元怎样解读市场的",
    "batch_window": 8
+  },
+  {
+   "key": "校方再回应学生摆拍大体老师头骨",
+   "title": "校方再回应学生摆拍大体老师头骨",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从医学生伦理教育与网络博流量现象切入，探讨尊重生命底线的教育缺失",
+   "hook_reason": "医学伦理边界争议，校方二次回应引爆舆论",
+   "url": "https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%86%8D%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E6%91%86%E6%8B%8D%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E5%A4%B4%E9%AA%A8&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:校方再回应学生摆拍大体老师头骨",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -13787,7 +13787,8 @@
   "anthropicmaynotsecureinvestmentg6a469a19",
   "productmanagersarentsafeeither",
   "azuresweakestlinkfivefullcrosstenantcompromises",
-  "qwenputerafunctioningdeterminist7ea9f34b"
+  "qwenputerafunctioningdeterminist7ea9f34b",
+  "共享儿女试点每月最低199元"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14711,7 +14712,8 @@
   "e:anthropicmaynotsecureinvestmentgraderati": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
   "e:productmanagersarentsafeeither": "Product Managers aren't safe either",
   "e:azuresweakestlinkfivefullcrosstenantcomp": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-  "e:qwenputerafunctioningdeterministicriscvc": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5"
+  "e:qwenputerafunctioningdeterministicriscvc": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+  "e:共享儿女试点每月最低199元": "“共享儿女”试点：每月最低199元"
  },
  "a_seen": {
   "黄金大跌铜价为何创新高": {
@@ -14970,9 +14972,9 @@
    "key": "英特尔股价暴跌2858创52年来最大日跌幅市值蒸发近1500亿美元怎样解读市场的反应",
    "title": "英特尔股价暴跌28.58%创52年来最大日跌幅，市值蒸发近1500亿美元，怎样解读市场的反应？",
    "rating": "A",
-   "score": 79.5,
-   "angle": "从股价暴跌看芯片行业周期拐点，解读市场恐慌根源及投资影响",
-   "hook_reason": "52年最大跌幅、1500亿蒸发，科技巨头塌房现场",
+   "score": 78.95,
+   "angle": "从Intel百年科技帝国崩塌切入，分析芯片行业周期拐点与资本市场的恐慌信号",
+   "hook_reason": "52年最大暴跌！1500亿美元蒸发，英特尔怎么了？",
    "url": "https://www.zhihu.com/question/2099621992160817192",
    "track": "财经",
    "breaking": true,
@@ -15025,8 +15027,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:大学生用四年codex每天进步一点四年之后与没用上codex的同学会有很大的差距"
+  },
+  "校方再回应学生摆拍大体老师头骨": {
+   "key": "校方再回应学生摆拍大体老师头骨",
+   "title": "校方再回应学生摆拍大体老师头骨",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从医学生伦理教育与网络博流量现象切入，探讨尊重生命底线的教育缺失",
+   "hook_reason": "医学伦理边界争议，校方二次回应引爆舆论",
+   "url": "https://www.baidu.com/s?wd=%E6%A0%A1%E6%96%B9%E5%86%8D%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E6%91%86%E6%8B%8D%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E5%A4%B4%E9%AA%A8&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:校方再回应学生摆拍大体老师头骨"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
