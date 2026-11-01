@@ -9188,19 +9188,6 @@
    "batch_window": 2
   },
   {
-   "key": "applemusic404notfound",
-   "title": "Apple Music 404 Not Found",
-   "rating": "A",
-   "score": 77.0,
-   "angle": "从Apple Music宕机切入，讨论大厂服务稳定性与用户体验信任危机",
-   "hook_reason": "苹果服务宕机引发全网吐槽，技术故障vs用户情绪的天然冲突点",
-   "url": "https://music.apple.com/this-url-doesnt-exist",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:applemusic404notfound",
-   "batch_window": 3
-  },
-  {
    "key": "微软与动视暴雪25亿美元集体诉讼和解协议获批",
    "title": "微软与动视暴雪2.5亿美元集体诉讼和解协议获批。",
    "rating": "A",
@@ -12930,6 +12917,84 @@
    "breaking": true,
    "event_id": "e:华尔街日报胜诉特朗普100亿美元诽谤诉讼被驳回",
    "batch_window": 5
+  },
+  {
+   "key": "意大利抗议者市政厅前推倒粪肥",
+   "title": "意大利抗议者市政厅前推倒粪肥",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "国际奇闻切入，深挖环保抗议为何走向极端荒诞",
+   "hook_reason": "粪肥抗议极荒诞，猎奇感拉满，读者想看背后故事",
+   "url": "https://www.toutiao.com/trending/7701985931734335531/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:意大利抗议者市政厅前推倒粪肥",
+   "batch_window": 8
+  },
+  {
+   "key": "anitalianfarmerfoundsomeunknowns08bb6551",
+   "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "意大利农民阁楼意外发现未知种子，种出惊人收获，悬念：种子从哪来、为何像圣经叙事",
+   "hook_reason": "阁楼里种出'圣经级奇迹'？种子从何而来引爆好奇心",
+   "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:anitalianfarmerfoundsomeunknownseedsinhi",
+   "batch_window": 8
+  },
+  {
+   "key": "高市屡次引导外国领导人向日旗鞠躬",
+   "title": "高市屡次引导外国领导人向日旗鞠躬",
+   "rating": "A",
+   "score": 71.0,
+   "angle": "从外交礼仪角度切入，分析高市此举的政治意图及对中日关系影响",
+   "hook_reason": "日本政客挑衅日媒关注度高，民族情绪极易引爆",
+   "url": "https://www.toutiao.com/trending/7702426053759828022/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:高市屡次引导外国领导人向日旗鞠躬",
+   "batch_window": 8
+  },
+  {
+   "key": "上海地铁回应孩童在站台随地便溺",
+   "title": "上海地铁回应孩童在站台随地便溺",
+   "rating": "A",
+   "score": 66.17,
+   "angle": "从家长出行痛点切入，探讨公共空间文明与监管边界，借地铁官方回应引申社会治理话题",
+   "hook_reason": "带娃出行踩坑？地铁官方回应引全网热议",
+   "url": "https://www.toutiao.com/trending/7702387085457784882/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:上海地铁回应孩童在站台随地便溺",
+   "batch_window": 8
+  },
+  {
+   "key": "chatgpt与codex将共享额度",
+   "title": "ChatGPT与Codex将共享额度",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从开发者视角切入，分析额度共享对Codex用户和ChatGPT Plus订阅的实际影响，对比竞品定价策略",
+   "hook_reason": "OpenAI功能合并直接影响开发者成本，引发免费额度焦虑",
+   "url": "https://finance.sina.cn/7x24/2026-11-01/detail-inixetzy0994345.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:chatgpt与codex将共享额度",
+   "batch_window": 8
+  },
+  {
+   "key": "如何评价deepseekharness发布的superagent构想",
+   "title": "如何评价Deepseek Harness发布的super-agent构想？",
+   "rating": "A",
+   "score": 43.95,
+   "angle": "拆解super-agent技术路径，对比现有agent方案，判断是否真能颠覆",
+   "hook_reason": "Deepseek新构想引爆AI圈，super-agent或重塑行业格局",
+   "url": "https://www.zhihu.com/question/2099984457524572950",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何评价deepseekharness发布的superagent构想",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -13950,7 +14015,8 @@
   "theinsidertradingyoureallowedtodo",
   "whatisgridifcation",
   "everyaimodelhasthesamecontroversialtakeonhumans",
-  "thesameairequestemits85timesmore78e1b286"
+  "thesameairequestemits85timesmore78e1b286",
+  "applemusic404notfound"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14907,7 +14973,8 @@
   "e:theinsidertradingyoureallowedtodo": "The insider trading you're allowed to do",
   "e:whatisgridifcation": "What Is Gridifcation",
   "e:everyaimodelhasthesamecontroversialtakeo": "Every AI model has the same \"controversial\" take on humans",
-  "e:thesameairequestemits85timesmoreco2intex": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden"
+  "e:thesameairequestemits85timesmoreco2intex": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+  "e:applemusic404notfound": "Apple Music 404 Not Found"
  },
  "a_seen": {
   "毛孩子的饭碗没那么好端了": {
@@ -15005,8 +15072,92 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:华尔街日报胜诉特朗普100亿美元诽谤诉讼被驳回"
+  },
+  "意大利抗议者市政厅前推倒粪肥": {
+   "key": "意大利抗议者市政厅前推倒粪肥",
+   "title": "意大利抗议者市政厅前推倒粪肥",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "国际奇闻切入，深挖环保抗议为何走向极端荒诞",
+   "hook_reason": "粪肥抗议极荒诞，猎奇感拉满，读者想看背后故事",
+   "url": "https://www.toutiao.com/trending/7701985931734335531/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:意大利抗议者市政厅前推倒粪肥"
+  },
+  "anitalianfarmerfoundsomeunknowns08bb6551": {
+   "key": "anitalianfarmerfoundsomeunknowns08bb6551",
+   "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "意大利农民阁楼意外发现未知种子，种出惊人收获，悬念：种子从哪来、为何像圣经叙事",
+   "hook_reason": "阁楼里种出'圣经级奇迹'？种子从何而来引爆好奇心",
+   "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:anitalianfarmerfoundsomeunknownseedsinhi"
+  },
+  "高市屡次引导外国领导人向日旗鞠躬": {
+   "key": "高市屡次引导外国领导人向日旗鞠躬",
+   "title": "高市屡次引导外国领导人向日旗鞠躬",
+   "rating": "A",
+   "score": 71.0,
+   "angle": "从外交礼仪角度切入，分析高市此举的政治意图及对中日关系影响",
+   "hook_reason": "日本政客挑衅日媒关注度高，民族情绪极易引爆",
+   "url": "https://www.toutiao.com/trending/7702426053759828022/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:高市屡次引导外国领导人向日旗鞠躬"
+  },
+  "上海地铁回应孩童在站台随地便溺": {
+   "key": "上海地铁回应孩童在站台随地便溺",
+   "title": "上海地铁回应孩童在站台随地便溺",
+   "rating": "A",
+   "score": 66.17,
+   "angle": "从家长出行痛点切入，探讨公共空间文明与监管边界，借地铁官方回应引申社会治理话题",
+   "hook_reason": "带娃出行踩坑？地铁官方回应引全网热议",
+   "url": "https://www.toutiao.com/trending/7702387085457784882/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:上海地铁回应孩童在站台随地便溺"
+  },
+  "央视曝光2388元蜜丸成本仅40元": {
+   "key": "央视曝光2388元蜜丸成本仅40元",
+   "title": "央视曝光2388元蜜丸成本仅40元",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从央视曝光切入，深挖保健品暴利链条，关联消费者维权与行业监管",
+   "hook_reason": "央视曝光60倍暴利，每人都可能是受害者",
+   "url": "https://www.toutiao.com/trending/7702778990288879658/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:央视曝光2388元的蜜丸检出镇痛药"
+  },
+  "chatgpt与codex将共享额度": {
+   "key": "chatgpt与codex将共享额度",
+   "title": "ChatGPT与Codex将共享额度",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从开发者视角切入，分析额度共享对Codex用户和ChatGPT Plus订阅的实际影响，对比竞品定价策略",
+   "hook_reason": "OpenAI功能合并直接影响开发者成本，引发免费额度焦虑",
+   "url": "https://finance.sina.cn/7x24/2026-11-01/detail-inixetzy0994345.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:chatgpt与codex将共享额度"
+  },
+  "如何评价deepseekharness发布的superagent构想": {
+   "key": "如何评价deepseekharness发布的superagent构想",
+   "title": "如何评价Deepseek Harness发布的super-agent构想？",
+   "rating": "A",
+   "score": 43.95,
+   "angle": "拆解super-agent技术路径，对比现有agent方案，判断是否真能颠覆",
+   "hook_reason": "Deepseek新构想引爆AI圈，super-agent或重塑行业格局",
+   "url": "https://www.zhihu.com/question/2099984457524572950",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何评价deepseekharness发布的superagent构想"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
