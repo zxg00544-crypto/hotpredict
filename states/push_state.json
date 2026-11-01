@@ -12919,19 +12919,6 @@
    "batch_window": 5
   },
   {
-   "key": "意大利抗议者市政厅前推倒粪肥",
-   "title": "意大利抗议者市政厅前推倒粪肥",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "国际奇闻切入，深挖环保抗议为何走向极端荒诞",
-   "hook_reason": "粪肥抗议极荒诞，猎奇感拉满，读者想看背后故事",
-   "url": "https://www.toutiao.com/trending/7701985931734335531/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:意大利抗议者市政厅前推倒粪肥",
-   "batch_window": 8
-  },
-  {
    "key": "anitalianfarmerfoundsomeunknowns08bb6551",
    "title": "An Italian farmer found some unknown seeds in his attic and planted them",
    "rating": "A",
@@ -12995,6 +12982,45 @@
    "breaking": true,
    "event_id": "e:如何评价deepseekharness发布的superagent构想",
    "batch_window": 8
+  },
+  {
+   "key": "卖650万捐赠房产要缴450万的税夫妻遗赠毕生积蓄救人接收遗产的基金会却被吓退问题出在哪",
+   "title": "卖650万捐赠房产要缴450万的税，夫妻遗赠毕生积蓄救人，接收遗产的基金会却被吓退，问题出在哪？",
+   "rating": "A",
+   "score": 83.5,
+   "angle": "慈善捐赠税收漏洞：好意变负担，制度如何守护善意",
+   "hook_reason": "善举被税制困住，普通人捐房竟要倒贴450万，制度该改改了",
+   "url": "https://www.zhihu.com/question/2099855613391893093",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:卖650万捐赠房产要缴450万的税夫妻遗赠毕生积蓄救人接收遗产的基金会却被吓退问",
+   "batch_window": 9
+  },
+  {
+   "key": "央视曝光2388元蜜丸成本仅40元",
+   "title": "央视曝光2388元蜜丸成本仅40元",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "社会热点：央视曝光保健品暴利真相；财经：40元成本卖2388元的暴利产业链",
+   "hook_reason": "央视曝光保健品暴利，每个家庭的药柜都可能中招",
+   "url": "https://www.toutiao.com/trending/7702778990288879658/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:央视曝光2388元蜜丸成本仅40元",
+   "batch_window": 9
+  },
+  {
+   "key": "俄称从美方获悉莫斯科可能发生恐袭",
+   "title": "俄称从美方获悉莫斯科可能发生恐袭",
+   "rating": "A",
+   "score": 52.55,
+   "angle": "从俄美情报博弈切入，剖析地缘紧张态势升级背后的深层逻辑",
+   "hook_reason": "莫斯科恐袭预警牵动全球神经，涉及大国博弈与地缘安全",
+   "url": "https://www.toutiao.com/trending/7702854006808461834/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:俄称从美方获悉莫斯科可能发生恐袭",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -14016,7 +14042,8 @@
   "whatisgridifcation",
   "everyaimodelhasthesamecontroversialtakeonhumans",
   "thesameairequestemits85timesmore78e1b286",
-  "applemusic404notfound"
+  "applemusic404notfound",
+  "意大利抗议者市政厅前推倒粪肥"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -14974,7 +15001,8 @@
   "e:whatisgridifcation": "What Is Gridifcation",
   "e:everyaimodelhasthesamecontroversialtakeo": "Every AI model has the same \"controversial\" take on humans",
   "e:thesameairequestemits85timesmoreco2intex": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-  "e:applemusic404notfound": "Apple Music 404 Not Found"
+  "e:applemusic404notfound": "Apple Music 404 Not Found",
+  "e:意大利抗议者市政厅前推倒粪肥": "意大利抗议者市政厅前推倒粪肥"
  },
  "a_seen": {
   "毛孩子的饭碗没那么好端了": {
@@ -15126,12 +15154,12 @@
    "title": "央视曝光2388元蜜丸成本仅40元",
    "rating": "A",
    "score": 46.75,
-   "angle": "从央视曝光切入，深挖保健品暴利链条，关联消费者维权与行业监管",
-   "hook_reason": "央视曝光60倍暴利，每人都可能是受害者",
+   "angle": "社会热点：央视曝光保健品暴利真相；财经：40元成本卖2388元的暴利产业链",
+   "hook_reason": "央视曝光保健品暴利，每个家庭的药柜都可能中招",
    "url": "https://www.toutiao.com/trending/7702778990288879658/",
    "track": "社会热点",
    "breaking": true,
-   "event_id": "e:央视曝光2388元的蜜丸检出镇痛药"
+   "event_id": "e:央视曝光2388元蜜丸成本仅40元"
   },
   "chatgpt与codex将共享额度": {
    "key": "chatgpt与codex将共享额度",
@@ -15149,15 +15177,39 @@
    "key": "如何评价deepseekharness发布的superagent构想",
    "title": "如何评价Deepseek Harness发布的super-agent构想？",
    "rating": "A",
-   "score": 43.95,
-   "angle": "拆解super-agent技术路径，对比现有agent方案，判断是否真能颠覆",
-   "hook_reason": "Deepseek新构想引爆AI圈，super-agent或重塑行业格局",
+   "score": 78.9,
+   "angle": "从技术路线和行业格局两维度解读super-agent对AI产业的影响",
+   "hook_reason": "DeepSeek再出大招，super-agent构想引爆AI圈",
    "url": "https://www.zhihu.com/question/2099984457524572950",
    "track": "科技",
    "breaking": true,
    "event_id": "e:如何评价deepseekharness发布的superagent构想"
+  },
+  "卖650万捐赠房产要缴450万的税夫妻遗赠毕生积蓄救人接收遗产的基金会却被吓退问题出在哪": {
+   "key": "卖650万捐赠房产要缴450万的税夫妻遗赠毕生积蓄救人接收遗产的基金会却被吓退问题出在哪",
+   "title": "卖650万捐赠房产要缴450万的税，夫妻遗赠毕生积蓄救人，接收遗产的基金会却被吓退，问题出在哪？",
+   "rating": "A",
+   "score": 83.5,
+   "angle": "慈善捐赠税收漏洞：好意变负担，制度如何守护善意",
+   "hook_reason": "善举被税制困住，普通人捐房竟要倒贴450万，制度该改改了",
+   "url": "https://www.zhihu.com/question/2099855613391893093",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:卖650万捐赠房产要缴450万的税夫妻遗赠毕生积蓄救人接收遗产的基金会却被吓退问"
+  },
+  "俄称从美方获悉莫斯科可能发生恐袭": {
+   "key": "俄称从美方获悉莫斯科可能发生恐袭",
+   "title": "俄称从美方获悉莫斯科可能发生恐袭",
+   "rating": "A",
+   "score": 52.55,
+   "angle": "从俄美情报博弈切入，剖析地缘紧张态势升级背后的深层逻辑",
+   "hook_reason": "莫斯科恐袭预警牵动全球神经，涉及大国博弈与地缘安全",
+   "url": "https://www.toutiao.com/trending/7702854006808461834/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:俄称从美方获悉莫斯科可能发生恐袭"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
