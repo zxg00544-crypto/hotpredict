@@ -13218,19 +13218,6 @@
    "batch_window": 17
   },
   {
-   "key": "后会友期观察室嘉宾非常不讨喜",
-   "title": "后会友期观察室嘉宾非常不讨喜",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "从'不讨喜嘉宾'切入，探讨综艺人设边界与观众情绪宣泄，结合热评做观点延展",
-   "hook_reason": "综艺嘉宾引发全民吐槽，争议性强易引共鸣",
-   "url": "https://s.weibo.com/weibo?q=后会友期观察室嘉宾非常不讨喜",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:后会友期观察室嘉宾非常不讨喜",
-   "batch_window": 18
-  },
-  {
    "key": "ai问诊和医生看病不是一回事",
    "title": "AI问诊和医生看病不是一回事",
    "rating": "A",
@@ -13281,6 +13268,84 @@
    "breaking": true,
    "event_id": "e:央行证监会将研究支持资本市场工具",
    "batch_window": 19
+  },
+  {
+   "key": "10岁女孩身高1米8基本每晚9点睡觉",
+   "title": "10岁女孩身高1米8基本每晚9点睡觉",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "从身高突增女孩'9点睡觉'切入，探讨睡眠与儿童生长发育的关联，引发家长共鸣",
+   "hook_reason": "10岁1米8颠覆认知+每晚9点睡，家长群体强烈好奇",
+   "url": "https://s.weibo.com/weibo?q=10岁女孩身高1米8基本每晚9点睡觉",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:10岁女孩身高1米8基本每晚9点睡觉",
+   "batch_window": 20
+  },
+  {
+   "key": "小城良方大结局没烂尾",
+   "title": "小城良方大结局没烂尾",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从大结局口碑破圈切入，盘点观众情绪与剧集现象级传播路径，关联社会文化讨论价值",
+   "hook_reason": "年度爆款剧收官引爆全民评价，观众情绪高亢",
+   "url": "https://s.weibo.com/weibo?q=小城良方大结局没烂尾",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:小城良方大结局没烂尾",
+   "batch_window": 20
+  },
+  {
+   "key": "接初中生放学就像特务接头",
+   "title": "“接初中生放学就像特务接头”",
+   "rating": "A",
+   "score": 86.5,
+   "angle": "从家长接送文化切入，用特务接头比喻讨论当代亲子陪伴与教育焦虑",
+   "hook_reason": "家长群体强共鸣，幽默场景触发转发欲望",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%8E%A5%E5%88%9D%E4%B8%AD%E7%94%9F%E6%94%BE%E5%AD%A6%E5%B0%B1%E5%83%8F%E7%89%B9%E5%8A%A1%E6%8E%A5%E5%A4%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:接初中生放学就像特务接头",
+   "batch_window": 20
+  },
+  {
+   "key": "大家都把丑衣服留到上班穿",
+   "title": "大家都把丑衣服留到上班穿",
+   "rating": "A",
+   "score": 84.86,
+   "angle": "从职场文化松弛化切入，剖析年轻人用穿衣'摆烂'对抗职场规训的心态",
+   "hook_reason": "打工人集体共鸣，职场着装态度转变引发强烈身份认同",
+   "url": "https://s.weibo.com/weibo?q=大家都把丑衣服留到上班穿",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:大家都把丑衣服留到上班穿",
+   "batch_window": 20
+  },
+  {
+   "key": "怎么看百度搜索降价千次49元这是针对deepseek搜索的千次5元吗",
+   "title": "怎么看百度搜索降价千次4.9元，这是针对 DeepSeek 搜索的千次 5 元吗？",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "从AI搜索价格战切入，剖析百度对标DeepSeek的商业意图、利润压力与行业格局重塑",
+   "hook_reason": "百度降价围剿DeepSeek，价格战背后谁赚谁亏？",
+   "url": "https://www.zhihu.com/question/2099967799934313950",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:怎么看百度搜索降价千次49元这是针对deepseek搜索的千次5元吗",
+   "batch_window": 20
+  },
+  {
+   "key": "郭宇欣你真的牛大了",
+   "title": "郭宇欣你真的牛大了",
+   "rating": "A",
+   "score": 70.85,
+   "angle": "从社交媒体发酵角度切入，分析事件如何引爆大众情绪与身份代入",
+   "hook_reason": "网传人物引发围观，标题自带八卦情绪，适合吃瓜型解读",
+   "url": "https://s.weibo.com/weibo?q=郭宇欣你真的牛大了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:郭宇欣你真的牛大了",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -14313,7 +14378,8 @@
   "菲律宾前总统杜特尔特放弃出庭",
   "金价大跌积压半年婚嫁需求集中释放",
   "白衣山猫回应被小城良方告",
-  "厦门年轻人集体休摸鱼假"
+  "厦门年轻人集体休摸鱼假",
+  "后会友期观察室嘉宾非常不讨喜"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -15282,7 +15348,8 @@
   "e:菲律宾前总统杜特尔特放弃出庭": "菲律宾前总统杜特尔特放弃出庭",
   "e:金价大跌积压半年婚嫁需求集中释放": "金价大跌 积压半年婚嫁需求集中释放",
   "e:白衣山猫回应被小城良方告": "白衣山猫回应被小城良方告",
-  "e:厦门年轻人集体休摸鱼假": "厦门年轻人集体休摸鱼假"
+  "e:厦门年轻人集体休摸鱼假": "厦门年轻人集体休摸鱼假",
+  "e:后会友期观察室嘉宾非常不讨喜": "后会友期观察室嘉宾非常不讨喜"
  },
  "a_seen": {
   "毛孩子的饭碗没那么好端了": {
@@ -15848,8 +15915,80 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:央行证监会将研究支持资本市场工具"
+  },
+  "10岁女孩身高1米8基本每晚9点睡觉": {
+   "key": "10岁女孩身高1米8基本每晚9点睡觉",
+   "title": "10岁女孩身高1米8基本每晚9点睡觉",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "从身高突增女孩'9点睡觉'切入，探讨睡眠与儿童生长发育的关联，引发家长共鸣",
+   "hook_reason": "10岁1米8颠覆认知+每晚9点睡，家长群体强烈好奇",
+   "url": "https://s.weibo.com/weibo?q=10岁女孩身高1米8基本每晚9点睡觉",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:10岁女孩身高1米8基本每晚9点睡觉"
+  },
+  "小城良方大结局没烂尾": {
+   "key": "小城良方大结局没烂尾",
+   "title": "小城良方大结局没烂尾",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从大结局口碑破圈切入，盘点观众情绪与剧集现象级传播路径，关联社会文化讨论价值",
+   "hook_reason": "年度爆款剧收官引爆全民评价，观众情绪高亢",
+   "url": "https://s.weibo.com/weibo?q=小城良方大结局没烂尾",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:小城良方大结局没烂尾"
+  },
+  "接初中生放学就像特务接头": {
+   "key": "接初中生放学就像特务接头",
+   "title": "“接初中生放学就像特务接头”",
+   "rating": "A",
+   "score": 86.5,
+   "angle": "从家长接送文化切入，用特务接头比喻讨论当代亲子陪伴与教育焦虑",
+   "hook_reason": "家长群体强共鸣，幽默场景触发转发欲望",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%8E%A5%E5%88%9D%E4%B8%AD%E7%94%9F%E6%94%BE%E5%AD%A6%E5%B0%B1%E5%83%8F%E7%89%B9%E5%8A%A1%E6%8E%A5%E5%A4%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:接初中生放学就像特务接头"
+  },
+  "大家都把丑衣服留到上班穿": {
+   "key": "大家都把丑衣服留到上班穿",
+   "title": "大家都把丑衣服留到上班穿",
+   "rating": "A",
+   "score": 84.86,
+   "angle": "从职场文化松弛化切入，剖析年轻人用穿衣'摆烂'对抗职场规训的心态",
+   "hook_reason": "打工人集体共鸣，职场着装态度转变引发强烈身份认同",
+   "url": "https://s.weibo.com/weibo?q=大家都把丑衣服留到上班穿",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:大家都把丑衣服留到上班穿"
+  },
+  "怎么看百度搜索降价千次49元这是针对deepseek搜索的千次5元吗": {
+   "key": "怎么看百度搜索降价千次49元这是针对deepseek搜索的千次5元吗",
+   "title": "怎么看百度搜索降价千次4.9元，这是针对 DeepSeek 搜索的千次 5 元吗？",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "从AI搜索价格战切入，剖析百度对标DeepSeek的商业意图、利润压力与行业格局重塑",
+   "hook_reason": "百度降价围剿DeepSeek，价格战背后谁赚谁亏？",
+   "url": "https://www.zhihu.com/question/2099967799934313950",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:怎么看百度搜索降价千次49元这是针对deepseek搜索的千次5元吗"
+  },
+  "郭宇欣你真的牛大了": {
+   "key": "郭宇欣你真的牛大了",
+   "title": "郭宇欣你真的牛大了",
+   "rating": "A",
+   "score": 70.85,
+   "angle": "从社交媒体发酵角度切入，分析事件如何引爆大众情绪与身份代入",
+   "hook_reason": "网传人物引发围观，标题自带八卦情绪，适合吃瓜型解读",
+   "url": "https://s.weibo.com/weibo?q=郭宇欣你真的牛大了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:郭宇欣你真的牛大了"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
