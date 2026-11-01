@@ -13439,19 +13439,6 @@
    "batch_window": 23
   },
   {
-   "key": "多个地方行业协会宣布自行解散",
-   "title": "多个地方行业协会宣布自行解散",
-   "rating": "A",
-   "score": 95.0,
-   "angle": "解读协会解散背后是职能转移还是政策调整，关联从业者切身利益",
-   "hook_reason": "多个行业协会突然解散，折射深层治理变革，从业者命运牵动",
-   "url": "https://s.weibo.com/weibo?q=多个地方行业协会宣布自行解散",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:多个地方行业协会宣布自行解散",
-   "batch_window": 0
-  },
-  {
    "key": "国防部批驳抹黑中国日剧",
    "title": "国防部批驳抹黑中国日剧",
    "rating": "A",
@@ -13476,6 +13463,45 @@
    "breaking": true,
    "event_id": "e:保时捷女销冠超三成客户来自线上",
    "batch_window": 0
+  },
+  {
+   "key": "白小纯淘汰青稚",
+   "title": "白小纯淘汰青稚",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从淘汰背后的争议切入，解读舆论两派立场，引发读者代入与讨论",
+   "hook_reason": "淘汰事件自带冲突与情绪，22万热度引爆围观，粉丝/路人必点",
+   "url": "https://s.weibo.com/weibo?q=白小纯淘汰青稚",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:白小纯淘汰青稚",
+   "batch_window": 1
+  },
+  {
+   "key": "policechiefunplugsflockcamerasaf48092da6",
+   "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "从'拔插头'的微观场景切入，解读政企博弈下的隐私权边界与公司伦理失守",
+   "hook_reason": "警察局长亲手拔掉监控摄像头，戏剧性冲突拉满",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:policechiefunplugsflockcamerasaftercompa",
+   "batch_window": 1
+  },
+  {
+   "key": "马天宇张萌和好",
+   "title": "马天宇张萌 和好",
+   "rating": "A",
+   "score": 48.68,
+   "angle": "从明星感情变迁切入，引发情感共鸣与争议讨论",
+   "hook_reason": "明星CP复合，情感话题引爆吃瓜群众",
+   "url": "https://s.weibo.com/weibo?q=马天宇张萌 和好",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:马天宇张萌和好",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -14522,7 +14548,10 @@
   "德国骚乱经济萧条",
   "如何评价比亚迪10月新能源汽车销量4902万辆海外销量翻倍横向对比这一销量属于什么水平",
   "画地为牢",
-  "后会友期谁和好了"
+  "后会友期谁和好了",
+  "保险公司追涨科技股换来3500亿浮亏",
+  "孙颖莎vs蒯曼",
+  "多个地方行业协会宣布自行解散"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -15505,7 +15534,10 @@
   "e:德国骚乱经济萧条": "德国骚乱 经济萧条",
   "e:如何评价比亚迪10月新能源汽车销量4902万辆海外销量翻倍横向对比这一销量属于什": "如何评价比亚迪 10 月新能源汽车销量 49.02 万辆，海外销量翻倍？横向对比这一销量属于什么水平？",
   "e:画地为牢": "画地为牢",
-  "e:后会友期谁和好了": "后会友期谁和好了"
+  "e:后会友期谁和好了": "后会友期谁和好了",
+  "e:保险公司追涨科技股换来3500亿浮亏": "保险公司追涨科技股换来3500亿浮亏",
+  "e:孙颖莎vs蒯曼": "孙颖莎vs蒯曼",
+  "e:多个地方行业协会宣布自行解散": "多个地方行业协会宣布自行解散"
  },
  "a_seen": {
   "周雨说孙颖莎打内战下不了狠手": {
@@ -15579,8 +15611,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:如何评价比亚迪10月新能源汽车销量4902万辆海外销量翻倍横向对比这一销量属于什"
+  },
+  "保险公司追涨科技股换来3500亿浮亏": {
+   "key": "保险公司追涨科技股换来3500亿浮亏",
+   "title": "保险公司追涨科技股换来3500亿浮亏",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "保险公司跨界科技股踩雷，传统机构的投资焦虑与风控失位",
+   "hook_reason": "3500亿浮亏+保险追科技股，反差强烈",
+   "url": "https://www.toutiao.com/trending/7703214598127619647/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:保险公司追涨科技股换来3500亿浮亏"
+  },
+  "白小纯淘汰青稚": {
+   "key": "白小纯淘汰青稚",
+   "title": "白小纯淘汰青稚",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从淘汰背后的争议切入，解读舆论两派立场，引发读者代入与讨论",
+   "hook_reason": "淘汰事件自带冲突与情绪，22万热度引爆围观，粉丝/路人必点",
+   "url": "https://s.weibo.com/weibo?q=白小纯淘汰青稚",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:白小纯淘汰青稚"
+  },
+  "policechiefunplugsflockcamerasaf48092da6": {
+   "key": "policechiefunplugsflockcamerasaf48092da6",
+   "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "从'拔插头'的微观场景切入，解读政企博弈下的隐私权边界与公司伦理失守",
+   "hook_reason": "警察局长亲手拔掉监控摄像头，戏剧性冲突拉满",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:policechiefunplugsflockcamerasaftercompa"
+  },
+  "马天宇张萌和好": {
+   "key": "马天宇张萌和好",
+   "title": "马天宇张萌 和好",
+   "rating": "A",
+   "score": 48.68,
+   "angle": "从明星感情变迁切入，引发情感共鸣与争议讨论",
+   "hook_reason": "明星CP复合，情感话题引爆吃瓜群众",
+   "url": "https://s.weibo.com/weibo?q=马天宇张萌 和好",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:马天宇张萌和好"
   }
  },
- "breaking_count": 8,
- "a_pushed_window": 0
+ "breaking_count": 10,
+ "a_pushed_window": 1
 }
