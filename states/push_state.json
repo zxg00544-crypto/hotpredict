@@ -13036,19 +13036,6 @@
    "batch_window": 11
   },
   {
-   "key": "长沙全城鸣响防空警报",
-   "title": "长沙全城鸣响防空警报",
-   "rating": "A",
-   "score": 98.0,
-   "angle": null,
-   "hook_reason": "全城警报触发市民恐慌与好奇，身份相关（长沙人必读）。",
-   "url": "https://www.toutiao.com/trending/7702384018888671273/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:长沙全城鸣响防空警报",
-   "batch_window": 12
-  },
-  {
    "key": "官方证实4人是私自进山2人已遇难",
    "title": "官方证实：4人是私自进山 2人已遇难",
    "rating": "A",
@@ -13086,6 +13073,45 @@
    "breaking": true,
    "event_id": "e:截肢患者用意念操控机器狗取外卖",
    "batch_window": 12
+  },
+  {
+   "key": "2027年春节有望连休9天",
+   "title": "2027年春节有望连休9天",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "政策利好vs落地难度，打工人的期待与现实落差",
+   "hook_reason": "春节连休9天直击打工人痛点，全民刚需话题",
+   "url": "https://www.toutiao.com/trending/7703001068950635046/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:2027年春节有望连休9天",
+   "batch_window": 13
+  },
+  {
+   "key": "12万招985硕士3000万给一个专科生",
+   "title": "12万招985硕士 3000万给一个专科生",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从'学历贬值'焦虑切入，探讨技能时代人才定价逻辑的变迁",
+   "hook_reason": "学历颠覆常识的极端反差，触痛无数职场人神经",
+   "url": "https://www.baidu.com/s?wd=12%E4%B8%87%E6%8B%9B985%E7%A1%95%E5%A3%AB+3000%E4%B8%87%E7%BB%99%E4%B8%80%E4%B8%AA%E4%B8%93%E7%A7%91%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:12万招985硕士3000万给一个专科生",
+   "batch_window": 13
+  },
+  {
+   "key": "中期选举对特朗普有多重要",
+   "title": "中期选举对特朗普有多重要",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从特朗普个人政治命运切入，分析中期选举结果如何决定他未来四年甚至2028选情",
+   "hook_reason": "特朗普与美国中期选举深度绑定，政治冲突+国际关注双爆点",
+   "url": "https://search.bilibili.com/all?keyword=中期选举对特朗普有多重要",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:美国中期选举最后冲刺两项纪录接连刷新",
+   "batch_window": 13
   }
  ],
  "pushed": [
@@ -14111,7 +14137,8 @@
   "意大利抗议者市政厅前推倒粪肥",
   "卖650万捐赠房产要缴450万的税夫妻遗赠毕生积蓄救人接收遗产的基金会却被吓退问题出在哪",
   "nowgooglesaysitmightuseyourgmail09526d6b",
-  "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红为什么这件私人创作能引发这么大共鸣"
+  "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红为什么这件私人创作能引发这么大共鸣",
+  "长沙全城鸣响防空警报"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -15073,7 +15100,8 @@
   "e:意大利抗议者市政厅前推倒粪肥": "意大利抗议者市政厅前推倒粪肥",
   "e:卖650万捐赠房产要缴450万的税夫妻遗赠毕生积蓄救人接收遗产的基金会却被吓退问": "卖650万捐赠房产要缴450万的税，夫妻遗赠毕生积蓄救人，接收遗产的基金会却被吓退，问题出在哪？",
   "e:nowgooglesaysitmightuseyourgmailandgoogl": "Now Google says it might use your Gmail and Google Photos data to target ads",
-  "e:如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红为什么这件私人创作能引发这么": "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红？为什么这件私人创作能引发这么大共鸣？"
+  "e:如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红为什么这件私人创作能引发这么": "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红？为什么这件私人创作能引发这么大共鸣？",
+  "e:长沙全城鸣响防空警报": "长沙全城鸣响防空警报"
  },
  "a_seen": {
   "毛孩子的饭碗没那么好端了": {
@@ -15375,8 +15403,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:截肢患者用意念操控机器狗取外卖"
+  },
+  "2027年春节有望连休9天": {
+   "key": "2027年春节有望连休9天",
+   "title": "2027年春节有望连休9天",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "政策利好vs落地难度，打工人的期待与现实落差",
+   "hook_reason": "春节连休9天直击打工人痛点，全民刚需话题",
+   "url": "https://www.toutiao.com/trending/7703001068950635046/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:2027年春节有望连休9天"
+  },
+  "12万招985硕士3000万给一个专科生": {
+   "key": "12万招985硕士3000万给一个专科生",
+   "title": "12万招985硕士 3000万给一个专科生",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从'学历贬值'焦虑切入，探讨技能时代人才定价逻辑的变迁",
+   "hook_reason": "学历颠覆常识的极端反差，触痛无数职场人神经",
+   "url": "https://www.baidu.com/s?wd=12%E4%B8%87%E6%8B%9B985%E7%A1%95%E5%A3%AB+3000%E4%B8%87%E7%BB%99%E4%B8%80%E4%B8%AA%E4%B8%93%E7%A7%91%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:12万招985硕士3000万给一个专科生"
+  },
+  "中期选举对特朗普有多重要": {
+   "key": "中期选举对特朗普有多重要",
+   "title": "中期选举对特朗普有多重要",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从特朗普个人政治命运切入，分析中期选举结果如何决定他未来四年甚至2028选情",
+   "hook_reason": "特朗普与美国中期选举深度绑定，政治冲突+国际关注双爆点",
+   "url": "https://search.bilibili.com/all?keyword=中期选举对特朗普有多重要",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:美国中期选举最后冲刺两项纪录接连刷新"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 12
+ "a_pushed_window": 13
 }
