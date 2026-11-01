@@ -35,15 +35,11 @@ def probe_bilibili(cfg):
             "sample": str(rows[0].get("keyword") or rows[0].get("title") or "") if rows else ""}
 
 def probe_weibo(cfg):
-    cookie = str(cfg.get("weibo_cookie") or "").strip()
-    if not cookie:
-        return {"status": "NEED_COOKIE", "n": 0, "sample": ""}
-    h = dict(UA); h["Cookie"] = cookie
-    r = requests.get("https://m.weibo.cn/api/container/getIndex?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot",
-                     headers=h, timeout=10)
-    cards = r.json().get("data", {}).get("cards", [])
-    n = sum(len(c.get("card_group", [])) for c in cards)
-    return {"status": "PASS" if n else "FAIL", "n": n, "sample": "weibo container"}
+    # 2026-11-01: 旧 m.weibo.cn 接口需有效 Cookie（已失效），改免 Cookie 的 PC ajax 接口
+    h = dict(UA); h["Referer"] = "https://weibo.com/"
+    r = requests.get("https://weibo.com/ajax/side/hotSearch", headers=h, timeout=10)
+    n = len((r.json().get("data") or {}).get("realtime") or [])
+    return {"status": "PASS" if n else "FAIL", "n": n, "sample": "weibo hotSearch"}
 
 def probe_hn(cfg):
     r = requests.get("https://hacker-news.firebaseio.com/v0/topstories.json",

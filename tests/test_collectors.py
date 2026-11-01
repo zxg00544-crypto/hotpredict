@@ -5,6 +5,7 @@ from collectors.zhihu import parse_hot_list
 from collectors.hn import parse_item
 from collectors.finance_sina import parse_feed as parse_sina
 from collectors.weibo_v import parse_feed as parse_vv, fetch as fetch_vv
+from collectors.weibo import parse_realtime as parse_hot
 from collectors.registry import get_collectors
 
 class TestCollectors(unittest.TestCase):
@@ -41,6 +42,18 @@ class TestCollectors(unittest.TestCase):
             for i in range(30)]}}}}
         sigs = parse_sina(payload, fetched_at="2026-09-28T15:01:00")
         self.assertTrue(all(s.heat >= 70.0 for s in sigs), "30条内rank热度须过heat_min")
+
+    def test_weibo_parse_realtime_builds_signals(self):
+        payload = [{"word": "话题A", "num": 123456, "rank": 0},
+                   {"word": "", "num": 9},
+                   {"word": "话题B", "num": 0}]
+        sigs = parse_hot(payload, fetched_at="2026-11-01T10:00:00")
+        self.assertEqual(len(sigs), 2)
+        self.assertEqual(sigs[0].title, "话题A")
+        self.assertEqual(sigs[0].source, "weibo")
+        self.assertEqual(sigs[0].heat, 123456.0)
+        self.assertEqual(sigs[0].rank, 1)
+        self.assertEqual(sigs[1].heat, 185.0)  # 空标题项占枚举序号，i=3 -> 200-15
 
     def test_weibo_v_parse_mblog(self):
         payload = {"data": {"cards": [
@@ -112,6 +125,7 @@ class TestCollectors(unittest.TestCase):
                "weibo_cookie": ""}
         names = [f.__module__.split(".")[-1] for f in get_collectors(cfg)]
         self.assertIn("finance_sina", names)
+        self.assertIn("weibo", names)
         self.assertNotIn("weibo_v", names)
         cfg["weibo_cookie"] = "SUB=x"
         names = [f.__module__.split(".")[-1] for f in get_collectors(cfg)]
@@ -124,7 +138,7 @@ class TestCollectors(unittest.TestCase):
         names = [f.__module__.split(".")[-1] for f in get_collectors(cfg)]
         self.assertIn("zhihu", names)
         self.assertNotIn("bilibili", names)
-        self.assertNotIn("weibo", names)
+        self.assertIn("weibo", names)
         self.assertIn("hn", names)
 
 if __name__ == "__main__":
