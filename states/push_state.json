@@ -13036,19 +13036,6 @@
    "batch_window": 11
   },
   {
-   "key": "官方证实4人是私自进山2人已遇难",
-   "title": "官方证实：4人是私自进山 2人已遇难",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "聚焦私自进山代价：救援资源消耗vs个人冒险，引发公众对户外安全法规的思考",
-   "hook_reason": "私自进山致2人遇难，触发生命安全与公共资源争议",
-   "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%AF%81%E5%AE%9E%EF%BC%9A4%E4%BA%BA%E6%98%AF%E7%A7%81%E8%87%AA%E8%BF%9B%E5%B1%B1+2%E4%BA%BA%E5%B7%B2%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:官方证实4人是私自进山2人已遇难",
-   "batch_window": 12
-  },
-  {
    "key": "菲律宾前总统杜特尔特放弃出庭",
    "title": "菲律宾前总统杜特尔特放弃出庭",
    "rating": "A",
@@ -13112,6 +13099,32 @@
    "breaking": true,
    "event_id": "e:美国中期选举最后冲刺两项纪录接连刷新",
    "batch_window": 13
+  },
+  {
+   "key": "导演上街举牌求人看电影没钱宣发",
+   "title": "导演上街举牌求人看电影：没钱宣发",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从创作者生存困境切入，折射影视行业宣发资源垄断、中小成本影片突围难的深层矛盾",
+   "hook_reason": "导演放下身段上街求票房，艺术理想vs生存现实的强烈反差",
+   "url": "https://www.baidu.com/s?wd=%E5%AF%BC%E6%BC%94%E4%B8%8A%E8%A1%97%E4%B8%BE%E7%89%8C%E6%B1%82%E4%BA%BA%E7%9C%8B%E7%94%B5%E5%BD%B1%EF%BC%9A%E6%B2%A1%E9%92%B1%E5%AE%A3%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:导演上街举牌求人看电影没钱宣发",
+   "batch_window": 14
+  },
+  {
+   "key": "特朗普称支持马斯克执掌cnn",
+   "title": "特朗普称支持马斯克执掌CNN",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从两大顶流跨界操控媒体切入，解读对舆论格局和美股的连锁冲击",
+   "hook_reason": "特朗普×马斯克梦幻联动，CNN要变天？吃瓜必看",
+   "url": "https://finance.sina.cn/7x24/2026-11-01/detail-inixferx3103347.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普称支持马斯克执掌cnn",
+   "batch_window": 14
   }
  ],
  "pushed": [
@@ -14138,7 +14151,8 @@
   "卖650万捐赠房产要缴450万的税夫妻遗赠毕生积蓄救人接收遗产的基金会却被吓退问题出在哪",
   "nowgooglesaysitmightuseyourgmail09526d6b",
   "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红为什么这件私人创作能引发这么大共鸣",
-  "长沙全城鸣响防空警报"
+  "长沙全城鸣响防空警报",
+  "官方证实4人是私自进山2人已遇难"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -15101,7 +15115,8 @@
   "e:卖650万捐赠房产要缴450万的税夫妻遗赠毕生积蓄救人接收遗产的基金会却被吓退问": "卖650万捐赠房产要缴450万的税，夫妻遗赠毕生积蓄救人，接收遗产的基金会却被吓退，问题出在哪？",
   "e:nowgooglesaysitmightuseyourgmailandgoogl": "Now Google says it might use your Gmail and Google Photos data to target ads",
   "e:如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红为什么这件私人创作能引发这么": "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红？为什么这件私人创作能引发这么大共鸣？",
-  "e:长沙全城鸣响防空警报": "长沙全城鸣响防空警报"
+  "e:长沙全城鸣响防空警报": "长沙全城鸣响防空警报",
+  "e:官方证实4人是私自进山2人已遇难": "官方证实：4人是私自进山 2人已遇难"
  },
  "a_seen": {
   "毛孩子的饭碗没那么好端了": {
@@ -15408,9 +15423,9 @@
    "key": "2027年春节有望连休9天",
    "title": "2027年春节有望连休9天",
    "rating": "A",
-   "score": 46.95,
-   "angle": "政策利好vs落地难度，打工人的期待与现实落差",
-   "hook_reason": "春节连休9天直击打工人痛点，全民刚需话题",
+   "score": 52.95,
+   "angle": "从打工人视角切入，分析9天连休对消费出行规划的实际影响",
+   "hook_reason": "春节长假是全民刚需话题，情绪浓度高",
    "url": "https://www.toutiao.com/trending/7703001068950635046/",
    "track": "社会热点",
    "breaking": true,
@@ -15439,8 +15454,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:美国中期选举最后冲刺两项纪录接连刷新"
+  },
+  "导演上街举牌求人看电影没钱宣发": {
+   "key": "导演上街举牌求人看电影没钱宣发",
+   "title": "导演上街举牌求人看电影：没钱宣发",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从创作者生存困境切入，折射影视行业宣发资源垄断、中小成本影片突围难的深层矛盾",
+   "hook_reason": "导演放下身段上街求票房，艺术理想vs生存现实的强烈反差",
+   "url": "https://www.baidu.com/s?wd=%E5%AF%BC%E6%BC%94%E4%B8%8A%E8%A1%97%E4%B8%BE%E7%89%8C%E6%B1%82%E4%BA%BA%E7%9C%8B%E7%94%B5%E5%BD%B1%EF%BC%9A%E6%B2%A1%E9%92%B1%E5%AE%A3%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:导演上街举牌求人看电影没钱宣发"
+  },
+  "特朗普称支持马斯克执掌cnn": {
+   "key": "特朗普称支持马斯克执掌cnn",
+   "title": "特朗普称支持马斯克执掌CNN",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从两大顶流跨界操控媒体切入，解读对舆论格局和美股的连锁冲击",
+   "hook_reason": "特朗普×马斯克梦幻联动，CNN要变天？吃瓜必看",
+   "url": "https://finance.sina.cn/7x24/2026-11-01/detail-inixferx3103347.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普称支持马斯克执掌cnn"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 13
+ "a_pushed_window": 14
 }
