@@ -9253,19 +9253,6 @@
    "batch_window": 7
   },
   {
-   "key": "nowgooglesaysitmightuseyourgmail09526d6b",
-   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-   "rating": "A",
-   "score": 77.0,
-   "angle": "从隐私侵犯角度切入，分析Google个人智能战略背后的商业化逻辑与用户权益博弈",
-   "hook_reason": "Google竟要用你的邮件和照片打广告，隐私底线在哪？",
-   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-   "track": "科技",
-   "breaking": false,
-   "event_id": "e:nowgooglesaysitmightuseyourgmailandgoogl",
-   "batch_window": 7
-  },
-  {
    "key": "国乒混双23不敌日本亚锦赛遗憾摘银",
    "title": "国乒混双2:3不敌日本 亚锦赛遗憾摘银",
    "rating": "A",
@@ -13021,6 +13008,45 @@
    "breaking": true,
    "event_id": "e:苹果ceo不会为了做ai而做产品",
    "batch_window": 10
+  },
+  {
+   "key": "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红为什么这件私人创作能引发这么大共鸣",
+   "title": "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红？为什么这件私人创作能引发这么大共鸣？",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "从枯枝大圣切入，写80后匠人精神在短视频时代的价值回响",
+   "hook_reason": "素人匠人+齐天大圣IP+枯枝艺术，情怀与反差双重爆点",
+   "url": "https://www.zhihu.com/question/2098799350503699522",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红为什么这件私人创作能引发这么",
+   "batch_window": 11
+  },
+  {
+   "key": "谷歌太空ai算力中心成功运行",
+   "title": "谷歌太空AI算力中心成功运行",
+   "rating": "A",
+   "score": 48.57,
+   "angle": "从谷歌太空AI算力中心切入，解读AI算力瓶颈如何推动下一代基础设施革命",
+   "hook_reason": "谷歌把AI算力中心建到太空，突破地球散热瓶颈，颠覆性技术叙事",
+   "url": "https://search.bilibili.com/all?keyword=谷歌太空AI算力中心成功运行",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:谷歌太空ai算力中心成功运行",
+   "batch_window": 11
+  },
+  {
+   "key": "黄金平替全球爆单",
+   "title": "“黄金平替”全球爆单",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从消费降级到理财觉醒，拆解黄金平替爆单背后的社会心理与情绪刚需",
+   "hook_reason": "平替vs真金？年轻人正在用另一种方式守住财富",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%84%E9%87%91%E5%B9%B3%E6%9B%BF%E2%80%9D%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:黄金平替全球爆单",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -14044,7 +14070,8 @@
   "thesameairequestemits85timesmore78e1b286",
   "applemusic404notfound",
   "意大利抗议者市政厅前推倒粪肥",
-  "卖650万捐赠房产要缴450万的税夫妻遗赠毕生积蓄救人接收遗产的基金会却被吓退问题出在哪"
+  "卖650万捐赠房产要缴450万的税夫妻遗赠毕生积蓄救人接收遗产的基金会却被吓退问题出在哪",
+  "nowgooglesaysitmightuseyourgmail09526d6b"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -15004,7 +15031,8 @@
   "e:thesameairequestemits85timesmoreco2intex": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
   "e:applemusic404notfound": "Apple Music 404 Not Found",
   "e:意大利抗议者市政厅前推倒粪肥": "意大利抗议者市政厅前推倒粪肥",
-  "e:卖650万捐赠房产要缴450万的税夫妻遗赠毕生积蓄救人接收遗产的基金会却被吓退问": "卖650万捐赠房产要缴450万的税，夫妻遗赠毕生积蓄救人，接收遗产的基金会却被吓退，问题出在哪？"
+  "e:卖650万捐赠房产要缴450万的税夫妻遗赠毕生积蓄救人接收遗产的基金会却被吓退问": "卖650万捐赠房产要缴450万的税，夫妻遗赠毕生积蓄救人，接收遗产的基金会却被吓退，问题出在哪？",
+  "e:nowgooglesaysitmightuseyourgmailandgoogl": "Now Google says it might use your Gmail and Google Photos data to target ads"
  },
  "a_seen": {
   "毛孩子的饭碗没那么好端了": {
@@ -15222,8 +15250,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:苹果ceo不会为了做ai而做产品"
+  },
+  "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红为什么这件私人创作能引发这么大共鸣": {
+   "key": "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红为什么这件私人创作能引发这么大共鸣",
+   "title": "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红？为什么这件私人创作能引发这么大共鸣？",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "从枯枝大圣切入，写80后匠人精神在短视频时代的价值回响",
+   "hook_reason": "素人匠人+齐天大圣IP+枯枝艺术，情怀与反差双重爆点",
+   "url": "https://www.zhihu.com/question/2098799350503699522",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红为什么这件私人创作能引发这么"
+  },
+  "谷歌太空ai算力中心成功运行": {
+   "key": "谷歌太空ai算力中心成功运行",
+   "title": "谷歌太空AI算力中心成功运行",
+   "rating": "A",
+   "score": 48.57,
+   "angle": "从谷歌太空AI算力中心切入，解读AI算力瓶颈如何推动下一代基础设施革命",
+   "hook_reason": "谷歌把AI算力中心建到太空，突破地球散热瓶颈，颠覆性技术叙事",
+   "url": "https://search.bilibili.com/all?keyword=谷歌太空AI算力中心成功运行",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:谷歌太空ai算力中心成功运行"
+  },
+  "黄金平替全球爆单": {
+   "key": "黄金平替全球爆单",
+   "title": "“黄金平替”全球爆单",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从消费降级到理财觉醒，拆解黄金平替爆单背后的社会心理与情绪刚需",
+   "hook_reason": "平替vs真金？年轻人正在用另一种方式守住财富",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%84%E9%87%91%E5%B9%B3%E6%9B%BF%E2%80%9D%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:黄金平替全球爆单"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
