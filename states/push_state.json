@@ -1,6 +1,6 @@
 {
  "date": "2026-11-01",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-11-01",
  "a_pending": [
   {
@@ -13270,19 +13270,6 @@
    "batch_window": 19
   },
   {
-   "key": "10岁女孩身高1米8基本每晚9点睡觉",
-   "title": "10岁女孩身高1米8基本每晚9点睡觉",
-   "rating": "A",
-   "score": 98.0,
-   "angle": "从身高突增女孩'9点睡觉'切入，探讨睡眠与儿童生长发育的关联，引发家长共鸣",
-   "hook_reason": "10岁1米8颠覆认知+每晚9点睡，家长群体强烈好奇",
-   "url": "https://s.weibo.com/weibo?q=10岁女孩身高1米8基本每晚9点睡觉",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:10岁女孩身高1米8基本每晚9点睡觉",
-   "batch_window": 20
-  },
-  {
    "key": "小城良方大结局没烂尾",
    "title": "小城良方大结局没烂尾",
    "rating": "A",
@@ -13346,6 +13333,71 @@
    "breaking": true,
    "event_id": "e:郭宇欣你真的牛大了",
    "batch_window": 20
+  },
+  {
+   "key": "央视罕见披露歼20战斗机战力",
+   "title": "央视罕见披露歼-20战斗机战力",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "聚焦“罕见披露”背后的战略自信与实战化成果，解读大国重器如何提振全民底气",
+   "hook_reason": "央视罕见公开歼-20战力，民族自豪感爆棚，军迷与大众皆关注",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%95%E8%A7%81%E6%8A%AB%E9%9C%B2%E6%AD%BC-20%E6%88%98%E6%96%97%E6%9C%BA%E6%88%98%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:央视罕见披露歼20战斗机战力",
+   "batch_window": 21
+  },
+  {
+   "key": "央行将开股票回购增持再贷款座谈会",
+   "title": "央行将开股票回购增持再贷款座谈会",
+   "rating": "A",
+   "score": 45.25,
+   "angle": "从央行再贷款工具切入，解读回购增持政策对A股市场流动性和情绪的实质影响",
+   "hook_reason": "央行重磅新工具直接利好股市，股民最关心的资金面信号",
+   "url": "https://s.weibo.com/weibo?q=央行将开股票回购增持再贷款座谈会",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:央行将开股票回购增持再贷款座谈会",
+   "batch_window": 21
+  },
+  {
+   "key": "anthropic账面亏损807亿美元却冲刺2万亿ipo背后的原因是什么",
+   "title": "Anthropic 账面亏损 807 亿美元却冲刺 2 万亿IPO，背后的原因是什么？",
+   "rating": "A",
+   "score": 43.6,
+   "angle": "质疑AI估值泡沫：巨额亏损与超高估值的矛盾背后的资本逻辑",
+   "hook_reason": "AI巨头亏807亿冲2万亿IPO，泡沫还是豪赌？",
+   "url": "https://www.zhihu.com/question/2099683580964352612",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic账面亏损807亿美元却冲刺2万亿ipo背后的原因是什么",
+   "batch_window": 21
+  },
+  {
+   "key": "许飞没厉娜在旁边也端火锅上车",
+   "title": "许飞没厉娜在旁边也端火锅上车",
+   "rating": "A",
+   "score": 60.45,
+   "angle": "从女团姐妹情到各自单飞，扒许飞与厉娜关系现状，引发女性友谊话题讨论",
+   "hook_reason": "女团解散后成员关系生变，自带瓜点与吃瓜情绪",
+   "url": "https://s.weibo.com/weibo?q=许飞没厉娜在旁边也端火锅上车",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:许飞没厉娜在旁边也端火锅上车",
+   "batch_window": 21
+  },
+  {
+   "key": "ai真的让科研更公平了吗",
+   "title": "AI真的让科研更公平了吗",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从科研资源获取角度切入，探讨AI工具是弥合还是拉大了学术鸿沟",
+   "hook_reason": "AI+教育公平争议，击中学生/家长/科研群体焦虑",
+   "url": "https://search.bilibili.com/all?keyword=AI真的让科研更公平了吗",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:ai真的让科研更公平了吗",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -14379,7 +14431,8 @@
   "金价大跌积压半年婚嫁需求集中释放",
   "白衣山猫回应被小城良方告",
   "厦门年轻人集体休摸鱼假",
-  "后会友期观察室嘉宾非常不讨喜"
+  "后会友期观察室嘉宾非常不讨喜",
+  "10岁女孩身高1米8基本每晚9点睡觉"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -15349,7 +15402,8 @@
   "e:金价大跌积压半年婚嫁需求集中释放": "金价大跌 积压半年婚嫁需求集中释放",
   "e:白衣山猫回应被小城良方告": "白衣山猫回应被小城良方告",
   "e:厦门年轻人集体休摸鱼假": "厦门年轻人集体休摸鱼假",
-  "e:后会友期观察室嘉宾非常不讨喜": "后会友期观察室嘉宾非常不讨喜"
+  "e:后会友期观察室嘉宾非常不讨喜": "后会友期观察室嘉宾非常不讨喜",
+  "e:10岁女孩身高1米8基本每晚9点睡觉": "10岁女孩身高1米8基本每晚9点睡觉"
  },
  "a_seen": {
   "毛孩子的饭碗没那么好端了": {
@@ -15987,8 +16041,80 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:郭宇欣你真的牛大了"
+  },
+  "一周之内黄金价格经历了什么": {
+   "key": "一周之内黄金价格经历了什么",
+   "title": "一周之内黄金价格经历了什么",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "深度解析金价剧烈波动背后的宏观逻辑，给普通投资者实操建议",
+   "hook_reason": "金价一周暴涨暴跌，投资者恐慌/贪婪心理被点燃",
+   "url": "https://www.toutiao.com/trending/7703167704085040667/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:金价大跌后国庆上海金店排长队"
+  },
+  "央视罕见披露歼20战斗机战力": {
+   "key": "央视罕见披露歼20战斗机战力",
+   "title": "央视罕见披露歼-20战斗机战力",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "聚焦“罕见披露”背后的战略自信与实战化成果，解读大国重器如何提振全民底气",
+   "hook_reason": "央视罕见公开歼-20战力，民族自豪感爆棚，军迷与大众皆关注",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%95%E8%A7%81%E6%8A%AB%E9%9C%B2%E6%AD%BC-20%E6%88%98%E6%96%97%E6%9C%BA%E6%88%98%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:央视罕见披露歼20战斗机战力"
+  },
+  "央行将开股票回购增持再贷款座谈会": {
+   "key": "央行将开股票回购增持再贷款座谈会",
+   "title": "央行将开股票回购增持再贷款座谈会",
+   "rating": "A",
+   "score": 45.25,
+   "angle": "从央行再贷款工具切入，解读回购增持政策对A股市场流动性和情绪的实质影响",
+   "hook_reason": "央行重磅新工具直接利好股市，股民最关心的资金面信号",
+   "url": "https://s.weibo.com/weibo?q=央行将开股票回购增持再贷款座谈会",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:央行将开股票回购增持再贷款座谈会"
+  },
+  "anthropic账面亏损807亿美元却冲刺2万亿ipo背后的原因是什么": {
+   "key": "anthropic账面亏损807亿美元却冲刺2万亿ipo背后的原因是什么",
+   "title": "Anthropic 账面亏损 807 亿美元却冲刺 2 万亿IPO，背后的原因是什么？",
+   "rating": "A",
+   "score": 43.6,
+   "angle": "质疑AI估值泡沫：巨额亏损与超高估值的矛盾背后的资本逻辑",
+   "hook_reason": "AI巨头亏807亿冲2万亿IPO，泡沫还是豪赌？",
+   "url": "https://www.zhihu.com/question/2099683580964352612",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic账面亏损807亿美元却冲刺2万亿ipo背后的原因是什么"
+  },
+  "许飞没厉娜在旁边也端火锅上车": {
+   "key": "许飞没厉娜在旁边也端火锅上车",
+   "title": "许飞没厉娜在旁边也端火锅上车",
+   "rating": "A",
+   "score": 60.45,
+   "angle": "从女团姐妹情到各自单飞，扒许飞与厉娜关系现状，引发女性友谊话题讨论",
+   "hook_reason": "女团解散后成员关系生变，自带瓜点与吃瓜情绪",
+   "url": "https://s.weibo.com/weibo?q=许飞没厉娜在旁边也端火锅上车",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:许飞没厉娜在旁边也端火锅上车"
+  },
+  "ai真的让科研更公平了吗": {
+   "key": "ai真的让科研更公平了吗",
+   "title": "AI真的让科研更公平了吗",
+   "rating": "A",
+   "score": 40.85,
+   "angle": "从科研资源获取角度切入，探讨AI工具是弥合还是拉大了学术鸿沟",
+   "hook_reason": "AI+教育公平争议，击中学生/家长/科研群体焦虑",
+   "url": "https://search.bilibili.com/all?keyword=AI真的让科研更公平了吗",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:ai真的让科研更公平了吗"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
