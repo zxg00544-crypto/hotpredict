@@ -13452,19 +13452,6 @@
    "batch_window": 0
   },
   {
-   "key": "白小纯淘汰青稚",
-   "title": "白小纯淘汰青稚",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "从淘汰背后的争议切入，解读舆论两派立场，引发读者代入与讨论",
-   "hook_reason": "淘汰事件自带冲突与情绪，22万热度引爆围观，粉丝/路人必点",
-   "url": "https://s.weibo.com/weibo?q=白小纯淘汰青稚",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:白小纯淘汰青稚",
-   "batch_window": 1
-  },
-  {
    "key": "policechiefunplugsflockcamerasaf48092da6",
    "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
    "rating": "A",
@@ -14578,7 +14565,8 @@
   "保险公司追涨科技股换来3500亿浮亏",
   "孙颖莎vs蒯曼",
   "多个地方行业协会宣布自行解散",
-  "网传员工解决难题后全组被裁"
+  "网传员工解决难题后全组被裁",
+  "白小纯淘汰青稚"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -15565,7 +15553,8 @@
   "e:保险公司追涨科技股换来3500亿浮亏": "保险公司追涨科技股换来3500亿浮亏",
   "e:孙颖莎vs蒯曼": "孙颖莎vs蒯曼",
   "e:多个地方行业协会宣布自行解散": "多个地方行业协会宣布自行解散",
-  "e:网传员工解决难题后全组被裁": "网传员工解决难题后全组被裁"
+  "e:网传员工解决难题后全组被裁": "网传员工解决难题后全组被裁",
+  "e:白小纯淘汰青稚": "白小纯淘汰青稚"
  },
  "a_seen": {
   "周雨说孙颖莎打内战下不了狠手": {
@@ -15726,5 +15715,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
