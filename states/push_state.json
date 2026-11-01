@@ -13010,19 +13010,6 @@
    "batch_window": 10
   },
   {
-   "key": "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红为什么这件私人创作能引发这么大共鸣",
-   "title": "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红？为什么这件私人创作能引发这么大共鸣？",
-   "rating": "A",
-   "score": 83.0,
-   "angle": "从枯枝大圣切入，写80后匠人精神在短视频时代的价值回响",
-   "hook_reason": "素人匠人+齐天大圣IP+枯枝艺术，情怀与反差双重爆点",
-   "url": "https://www.zhihu.com/question/2098799350503699522",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红为什么这件私人创作能引发这么",
-   "batch_window": 11
-  },
-  {
    "key": "谷歌太空ai算力中心成功运行",
    "title": "谷歌太空AI算力中心成功运行",
    "rating": "A",
@@ -13047,6 +13034,58 @@
    "breaking": true,
    "event_id": "e:黄金平替全球爆单",
    "batch_window": 11
+  },
+  {
+   "key": "长沙全城鸣响防空警报",
+   "title": "长沙全城鸣响防空警报",
+   "rating": "A",
+   "score": 98.0,
+   "angle": null,
+   "hook_reason": "全城警报触发市民恐慌与好奇，身份相关（长沙人必读）。",
+   "url": "https://www.toutiao.com/trending/7702384018888671273/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:长沙全城鸣响防空警报",
+   "batch_window": 12
+  },
+  {
+   "key": "官方证实4人是私自进山2人已遇难",
+   "title": "官方证实：4人是私自进山 2人已遇难",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "聚焦私自进山代价：救援资源消耗vs个人冒险，引发公众对户外安全法规的思考",
+   "hook_reason": "私自进山致2人遇难，触发生命安全与公共资源争议",
+   "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%AF%81%E5%AE%9E%EF%BC%9A4%E4%BA%BA%E6%98%AF%E7%A7%81%E8%87%AA%E8%BF%9B%E5%B1%B1+2%E4%BA%BA%E5%B7%B2%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:官方证实4人是私自进山2人已遇难",
+   "batch_window": 12
+  },
+  {
+   "key": "菲律宾前总统杜特尔特放弃出庭",
+   "title": "菲律宾前总统杜特尔特放弃出庭",
+   "rating": "A",
+   "score": 81.75,
+   "angle": "国际政治突发：菲律宾前总统杜特尔特放弃出庭，引发区域政局关注",
+   "hook_reason": "⚡突发国际政治(前总统放弃出庭)；热度=180.0，G=100.0(≥80)，新话题热度高",
+   "url": "https://www.toutiao.com/trending/7702826059885527590/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:菲律宾前总统杜特尔特放弃出庭",
+   "batch_window": 12
+  },
+  {
+   "key": "截肢患者用意念操控机器狗取外卖",
+   "title": "截肢患者用意念操控机器狗取外卖",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "科技向善：脑机接口+机器人如何让残障人群重获生活尊严",
+   "hook_reason": "意念控狗取外卖，残障人士科技赋能引发共鸣",
+   "url": "https://www.toutiao.com/trending/7703032849833755187/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:截肢患者用意念操控机器狗取外卖",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -14071,7 +14110,8 @@
   "applemusic404notfound",
   "意大利抗议者市政厅前推倒粪肥",
   "卖650万捐赠房产要缴450万的税夫妻遗赠毕生积蓄救人接收遗产的基金会却被吓退问题出在哪",
-  "nowgooglesaysitmightuseyourgmail09526d6b"
+  "nowgooglesaysitmightuseyourgmail09526d6b",
+  "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红为什么这件私人创作能引发这么大共鸣"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -15032,7 +15072,8 @@
   "e:applemusic404notfound": "Apple Music 404 Not Found",
   "e:意大利抗议者市政厅前推倒粪肥": "意大利抗议者市政厅前推倒粪肥",
   "e:卖650万捐赠房产要缴450万的税夫妻遗赠毕生积蓄救人接收遗产的基金会却被吓退问": "卖650万捐赠房产要缴450万的税，夫妻遗赠毕生积蓄救人，接收遗产的基金会却被吓退，问题出在哪？",
-  "e:nowgooglesaysitmightuseyourgmailandgoogl": "Now Google says it might use your Gmail and Google Photos data to target ads"
+  "e:nowgooglesaysitmightuseyourgmailandgoogl": "Now Google says it might use your Gmail and Google Photos data to target ads",
+  "e:如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红为什么这件私人创作能引发这么": "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红？为什么这件私人创作能引发这么大共鸣？"
  },
  "a_seen": {
   "毛孩子的饭碗没那么好端了": {
@@ -15280,14 +15321,62 @@
    "title": "“黄金平替”全球爆单",
    "rating": "A",
    "score": 46.9,
-   "angle": "从消费降级到理财觉醒，拆解黄金平替爆单背后的社会心理与情绪刚需",
-   "hook_reason": "平替vs真金？年轻人正在用另一种方式守住财富",
+   "angle": "从消费降级与审美升级的冲突切入，探讨年轻人用平价饰品替代黄金背后的经济心态与社会符号变迁。",
+   "hook_reason": "年轻人追'平替'掀金色狂潮，钱包还是信仰？",
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%84%E9%87%91%E5%B9%B3%E6%9B%BF%E2%80%9D%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:黄金平替全球爆单"
+  },
+  "长沙全城鸣响防空警报": {
+   "key": "长沙全城鸣响防空警报",
+   "title": "长沙全城鸣响防空警报",
+   "rating": "A",
+   "score": 98.0,
+   "angle": null,
+   "hook_reason": "全城警报触发市民恐慌与好奇，身份相关（长沙人必读）。",
+   "url": "https://www.toutiao.com/trending/7702384018888671273/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:长沙全城鸣响防空警报"
+  },
+  "官方证实4人是私自进山2人已遇难": {
+   "key": "官方证实4人是私自进山2人已遇难",
+   "title": "官方证实：4人是私自进山 2人已遇难",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "聚焦私自进山代价：救援资源消耗vs个人冒险，引发公众对户外安全法规的思考",
+   "hook_reason": "私自进山致2人遇难，触发生命安全与公共资源争议",
+   "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%AF%81%E5%AE%9E%EF%BC%9A4%E4%BA%BA%E6%98%AF%E7%A7%81%E8%87%AA%E8%BF%9B%E5%B1%B1+2%E4%BA%BA%E5%B7%B2%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:官方证实4人是私自进山2人已遇难"
+  },
+  "菲律宾前总统杜特尔特放弃出庭": {
+   "key": "菲律宾前总统杜特尔特放弃出庭",
+   "title": "菲律宾前总统杜特尔特放弃出庭",
+   "rating": "A",
+   "score": 81.75,
+   "angle": "国际政治突发：菲律宾前总统杜特尔特放弃出庭，引发区域政局关注",
+   "hook_reason": "⚡突发国际政治(前总统放弃出庭)；热度=180.0，G=100.0(≥80)，新话题热度高",
+   "url": "https://www.toutiao.com/trending/7702826059885527590/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:菲律宾前总统杜特尔特放弃出庭"
+  },
+  "截肢患者用意念操控机器狗取外卖": {
+   "key": "截肢患者用意念操控机器狗取外卖",
+   "title": "截肢患者用意念操控机器狗取外卖",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "科技向善：脑机接口+机器人如何让残障人群重获生活尊严",
+   "hook_reason": "意念控狗取外卖，残障人士科技赋能引发共鸣",
+   "url": "https://www.toutiao.com/trending/7703032849833755187/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:截肢患者用意念操控机器狗取外卖"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
