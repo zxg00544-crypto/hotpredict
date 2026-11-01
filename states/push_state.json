@@ -13426,19 +13426,6 @@
    "batch_window": 22
   },
   {
-   "key": "全球资产遭遇洗盘",
-   "title": "全球资产遭遇洗盘",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "以普通投资者视角切入，拆解哪些资产受冲击、哪些有机会，给出实操应对建议",
-   "hook_reason": "全球资产洗盘直击财富焦虑，投资者迫切想知道自己钱怎么保",
-   "url": "https://www.toutiao.com/trending/7703198634543681050/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:全球资产遭遇洗盘",
-   "batch_window": 23
-  },
-  {
    "key": "网传员工解决难题后全组被裁",
    "title": "网传员工解决难题后全组被裁",
    "rating": "A",
@@ -13463,6 +13450,71 @@
    "breaking": true,
    "event_id": "e:ai剧比真人剧便宜质感却更高",
    "batch_window": 23
+  },
+  {
+   "key": "多个地方行业协会宣布自行解散",
+   "title": "多个地方行业协会宣布自行解散",
+   "rating": "A",
+   "score": 95.0,
+   "angle": "解读协会解散背后是职能转移还是政策调整，关联从业者切身利益",
+   "hook_reason": "多个行业协会突然解散，折射深层治理变革，从业者命运牵动",
+   "url": "https://s.weibo.com/weibo?q=多个地方行业协会宣布自行解散",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:多个地方行业协会宣布自行解散",
+   "batch_window": 0
+  },
+  {
+   "key": "影视行业真的来春天了",
+   "title": "影视行业真的来春天了",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "以行业数据+政策信号双视角，解读影视市场回暖是短期反弹还是周期拐点",
+   "hook_reason": "影视行业迎来拐点信号，从业者与观众双重关注",
+   "url": "https://s.weibo.com/weibo?q=影视行业真的来春天了",
+   "track": "行业趋势",
+   "breaking": true,
+   "event_id": "e:影视行业真的来春天了",
+   "batch_window": 0
+  },
+  {
+   "key": "lenovosencryptedfingerprintusbisd80058a5",
+   "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "联想指纹加密U盘实为普通SD卡，虚假宣传引发消费者信任危机，科技圈打假热度高",
+   "hook_reason": "联想虚假宣传翻车，消费者被骗，打假揭秘吸睛",
+   "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:lenovosencryptedfingerprintusbisjustanun",
+   "batch_window": 0
+  },
+  {
+   "key": "国防部批驳抹黑中国日剧",
+   "title": "国防部批驳抹黑中国日剧",
+   "rating": "A",
+   "score": 74.33,
+   "angle": "从文化自信视角切入，探讨中国影视作品如何打破刻板印象、重塑国际形象",
+   "hook_reason": "国防部罕见发声批日剧抹黑中国，民族情绪拉满",
+   "url": "https://www.toutiao.com/trending/7702139627813142564/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:国防部批驳抹黑中国日剧",
+   "batch_window": 0
+  },
+  {
+   "key": "保时捷女销冠超三成客户来自线上",
+   "title": "保时捷女销冠超三成客户来自线上",
+   "rating": "A",
+   "score": 73.36,
+   "angle": "传统豪华品牌销售模式数字化转型，线上获客如何颠覆线下体验逻辑",
+   "hook_reason": "保时捷+女销冠+线上购豪车，身份反差+消费变革双重钩子",
+   "url": "https://s.weibo.com/weibo?q=保时捷女销冠超三成客户来自线上",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:保时捷女销冠超三成客户来自线上",
+   "batch_window": 0
   }
  ],
  "pushed": [
@@ -14499,7 +14551,8 @@
   "后会友期观察室嘉宾非常不讨喜",
   "10岁女孩身高1米8基本每晚9点睡觉",
   "央视罕见披露歼20战斗机战力",
-  "小城良方大结局没烂尾"
+  "小城良方大结局没烂尾",
+  "全球资产遭遇洗盘"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -15472,7 +15525,8 @@
   "e:后会友期观察室嘉宾非常不讨喜": "后会友期观察室嘉宾非常不讨喜",
   "e:10岁女孩身高1米8基本每晚9点睡觉": "10岁女孩身高1米8基本每晚9点睡觉",
   "e:央视罕见披露歼20战斗机战力": "央视罕见披露歼-20战斗机战力",
-  "e:小城良方大结局没烂尾": "小城良方大结局没烂尾"
+  "e:小城良方大结局没烂尾": "小城良方大结局没烂尾",
+  "e:全球资产遭遇洗盘": "全球资产遭遇洗盘"
  },
  "a_seen": {
   "毛孩子的饭碗没那么好端了": {
@@ -16235,9 +16289,9 @@
    "key": "全球资产遭遇洗盘",
    "title": "全球资产遭遇洗盘",
    "rating": "A",
-   "score": 92.0,
-   "angle": "以普通投资者视角切入，拆解哪些资产受冲击、哪些有机会，给出实操应对建议",
-   "hook_reason": "全球资产洗盘直击财富焦虑，投资者迫切想知道自己钱怎么保",
+   "score": 81.95,
+   "angle": "从普通投资者视角切入，解读洗盘原因、影响范围及应对策略，避免纯专业术语",
+   "hook_reason": "读者关心自己的钱袋子，想知道资产为何暴跌、是否该割肉",
    "url": "https://www.toutiao.com/trending/7703198634543681050/",
    "track": "财经",
    "breaking": true,
@@ -16271,15 +16325,63 @@
    "key": "国防部批驳抹黑中国日剧",
    "title": "国防部批驳抹黑中国日剧",
    "rating": "A",
-   "score": 81.08,
-   "angle": "从官方表态切入，解析日剧为何要抹黑中国，以及这次回应释放的信号",
-   "hook_reason": "国防部正面回击文化抹黑，民族情绪+国际争议双爆点",
+   "score": 74.33,
+   "angle": "从文化自信视角切入，探讨中国影视作品如何打破刻板印象、重塑国际形象",
+   "hook_reason": "国防部罕见发声批日剧抹黑中国，民族情绪拉满",
    "url": "https://www.toutiao.com/trending/7702139627813142564/",
    "track": "社会热点",
    "breaking": true,
-   "event_id": "e:热播日剧把中国人拍成施暴者设计中方人员对日本情报人员切指刺穿腹部情节为何娱乐化包"
+   "event_id": "e:国防部批驳抹黑中国日剧"
+  },
+  "多个地方行业协会宣布自行解散": {
+   "key": "多个地方行业协会宣布自行解散",
+   "title": "多个地方行业协会宣布自行解散",
+   "rating": "A",
+   "score": 95.0,
+   "angle": "解读协会解散背后是职能转移还是政策调整，关联从业者切身利益",
+   "hook_reason": "多个行业协会突然解散，折射深层治理变革，从业者命运牵动",
+   "url": "https://s.weibo.com/weibo?q=多个地方行业协会宣布自行解散",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:多个地方行业协会宣布自行解散"
+  },
+  "影视行业真的来春天了": {
+   "key": "影视行业真的来春天了",
+   "title": "影视行业真的来春天了",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "以行业数据+政策信号双视角，解读影视市场回暖是短期反弹还是周期拐点",
+   "hook_reason": "影视行业迎来拐点信号，从业者与观众双重关注",
+   "url": "https://s.weibo.com/weibo?q=影视行业真的来春天了",
+   "track": "行业趋势",
+   "breaking": true,
+   "event_id": "e:影视行业真的来春天了"
+  },
+  "lenovosencryptedfingerprintusbisd80058a5": {
+   "key": "lenovosencryptedfingerprintusbisd80058a5",
+   "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "联想指纹加密U盘实为普通SD卡，虚假宣传引发消费者信任危机，科技圈打假热度高",
+   "hook_reason": "联想虚假宣传翻车，消费者被骗，打假揭秘吸睛",
+   "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:lenovosencryptedfingerprintusbisjustanun"
+  },
+  "保时捷女销冠超三成客户来自线上": {
+   "key": "保时捷女销冠超三成客户来自线上",
+   "title": "保时捷女销冠超三成客户来自线上",
+   "rating": "A",
+   "score": 73.36,
+   "angle": "传统豪华品牌销售模式数字化转型，线上获客如何颠覆线下体验逻辑",
+   "hook_reason": "保时捷+女销冠+线上购豪车，身份反差+消费变革双重钩子",
+   "url": "https://s.weibo.com/weibo?q=保时捷女销冠超三成客户来自线上",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:保时捷女销冠超三成客户来自线上"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 23
+ "a_pushed_window": 0
 }
