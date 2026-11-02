@@ -14076,19 +14076,6 @@
    "batch_window": 21
   },
   {
-   "key": "后会友期导演回应",
-   "title": "后会友期导演回应",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "解析导演回应背后的争议事件，预判舆情走向",
-   "hook_reason": "百亿爆款导演突然发声，粉丝必追后续",
-   "url": "https://s.weibo.com/weibo?q=后会友期导演回应",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:后会友期导演回应",
-   "batch_window": 22
-  },
-  {
    "key": "鞠婧祎直播",
    "title": "鞠婧祎直播",
    "rating": "A",
@@ -14243,6 +14230,19 @@
    "breaking": true,
    "event_id": "e:showhnsubvocaltalktoyourcomputerwithoutm",
    "batch_window": 3
+  },
+  {
+   "key": "egolessmathematicsintheaiera",
+   "title": "Egoless Mathematics in the AI Era",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "陶哲轩最新博客观点：AI正在改变数学家的思维方式，无我数学成趋势，解读AI时代学术范式转变",
+   "hook_reason": "陶哲轩首谈AI如何重塑数学研究范式，顶级学者对AI时代的前沿思考",
+   "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:egolessmathematicsintheaiera",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -15328,7 +15328,8 @@
   "玉簟秋",
   "才知道改名可以改姓",
   "马斯克称盖茨仍重仓做空特斯拉",
-  "谍报上不封顶"
+  "谍报上不封顶",
+  "后会友期导演回应"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -16350,7 +16351,8 @@
   "e:玉簟秋": "玉簟秋",
   "e:才知道改名可以改姓": "才知道改名可以改姓",
   "e:马斯克称盖茨仍重仓做空特斯拉": "马斯克称盖茨仍重仓做空特斯拉",
-  "e:谍报上不封顶": "谍报上不封顶"
+  "e:谍报上不封顶": "谍报上不封顶",
+  "e:后会友期导演回应": "后会友期导演回应"
  },
  "a_seen": {
   "新娘退场摔倒新郎还在沉浸式撒娃娃": {
@@ -16478,8 +16480,8 @@
    "title": "中国公务团组人员被瑞典警方拘押",
    "rating": "A",
    "score": 46.95,
-   "angle": "从外交维权与公民海外安全切入，分析中方应对节奏与公众情绪共振点",
-   "hook_reason": "中国公民海外遇拘押，全民关注的身份安全+外交博弈双重情绪点",
+   "angle": "紧跟官方通报节奏，解读外交博弈与国内关切的双重叙事",
+   "hook_reason": "中国公民事件+外交敏感，民族情绪天然聚量",
    "url": "https://www.toutiao.com/trending/7703489065979084809/",
    "track": "社会热点",
    "breaking": true,
@@ -16499,17 +16501,29 @@
   },
   "showhnsubvocaltalktoyourcomputer00af79be": {
    "key": "showhnsubvocaltalktoyourcomputer00af79be",
-   "title": "Show HN: Subvocal – Talk to your computer without making noise",
+   "title": "Show HN: Subvocal – Talk to your computer without making noise",
    "rating": "A",
-   "score": 75.95,
-   "angle": "无发声交互技术能否突破传统语音助手的局限，重新定义人机交互方式",
-   "hook_reason": "不说话就能操控电脑？技术突破引发好奇",
-   "url": "https://subvocal.company/",
+   "score": 75.9,
+   "angle": "从脑机接口新技术切入，解读无声交互原理及其对隐私、无障碍场景的颠覆性影响",
+   "hook_reason": "不用说话就能操控电脑？这黑科技让人脑洞大开",
+   "url": "https://news.ycombinator.com/item?id=50340088",
    "track": "科技",
    "breaking": true,
    "event_id": "e:showhnsubvocaltalktoyourcomputerwithoutm"
+  },
+  "egolessmathematicsintheaiera": {
+   "key": "egolessmathematicsintheaiera",
+   "title": "Egoless Mathematics in the AI Era",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "陶哲轩最新博客观点：AI正在改变数学家的思维方式，无我数学成趋势，解读AI时代学术范式转变",
+   "hook_reason": "陶哲轩首谈AI如何重塑数学研究范式，顶级学者对AI时代的前沿思考",
+   "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:egolessmathematicsintheaiera"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
