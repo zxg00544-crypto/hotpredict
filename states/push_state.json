@@ -13881,19 +13881,6 @@
    "batch_window": 15
   },
   {
-   "key": "才知道改名可以改姓",
-   "title": "才知道改名可以改姓",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "以'才知道'为切入点，盘点普通人可改姓的3类情形及限制，制造'你以为的 vs 实际的规定'反差讨论",
-   "hook_reason": "打破大众认知盲区，身份认同+政策科普双重钩子，引发'原来如此'共鸣",
-   "url": "https://s.weibo.com/weibo?q=才知道改名可以改姓",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:才知道改名可以改姓",
-   "batch_window": 16
-  },
-  {
    "key": "曝lpl队伍邀请zeus加入",
    "title": "曝LPL队伍邀请Zeus加入",
    "rating": "A",
@@ -14204,6 +14191,32 @@
    "breaking": true,
    "event_id": "e:法国央行行长穆兰欧洲央行行长拉加德希望开启职业生涯新篇章",
    "batch_window": 23
+  },
+  {
+   "key": "新华社追问国乒男队怎么了",
+   "title": "新华社追问国乒男队怎么了",
+   "rating": "A",
+   "score": 60.09,
+   "angle": "从新华社发声切入，盘点国乒男队近期战绩下滑表现，探讨金牌光环下的隐忧与压力",
+   "hook_reason": "新华社罕见发问国乒男队，权威媒体追问+体育顶流话题",
+   "url": "https://s.weibo.com/weibo?q=新华社追问国乒男队怎么了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:新华社追问国乒男队怎么了",
+   "batch_window": 1
+  },
+  {
+   "key": "ai攻破困扰化学界50年难题",
+   "title": "AI攻破困扰化学界50年难题",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "从AI赋能基础科学突破切入，探讨大模型在科研领域的落地价值",
+   "hook_reason": "AI破解化学50年难题，科技突破引发好奇",
+   "url": "https://search.bilibili.com/all?keyword=AI攻破困扰化学界50年难题",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai攻破困扰化学界50年难题",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -15285,7 +15298,9 @@
   "jennie与男伴亲密贴脸",
   "高盛限制交易员和银行家使用某些人工智能工具",
   "武汉警方通报网约车被围堵事件",
-  "a股将迎千亿级增量资金"
+  "a股将迎千亿级增量资金",
+  "玉簟秋",
+  "才知道改名可以改姓"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -16303,7 +16318,9 @@
   "e:jennie与男伴亲密贴脸": "Jennie与男伴亲密贴脸",
   "e:高盛限制交易员和银行家使用某些人工智能工具": "高盛限制交易员和银行家使用某些人工智能工具",
   "e:武汉警方通报网约车被围堵事件": "武汉警方通报网约车被围堵事件",
-  "e:a股将迎千亿级增量资金": "A股将迎千亿级增量资金"
+  "e:a股将迎千亿级增量资金": "A股将迎千亿级增量资金",
+  "e:玉簟秋": "玉簟秋",
+  "e:才知道改名可以改姓": "才知道改名可以改姓"
  },
  "a_seen": {
   "新娘退场摔倒新郎还在沉浸式撒娃娃": {
@@ -16377,8 +16394,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:武汉警方通报网约车被围堵事件"
+  },
+  "玉簟秋": {
+   "key": "玉簟秋",
+   "title": "玉簟秋",
+   "rating": "A",
+   "score": 89.1,
+   "angle": "深挖'玉簟秋'身份背景、爆红路径及背后流量逻辑，满足读者猎奇心理",
+   "hook_reason": "新晋顶流姓名出圈，热度增速暴增96%，悬念感强引发好奇点击",
+   "url": "https://s.weibo.com/weibo?q=玉簟秋",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:玉簟秋"
+  },
+  "新华社追问国乒男队怎么了": {
+   "key": "新华社追问国乒男队怎么了",
+   "title": "新华社追问国乒男队怎么了",
+   "rating": "A",
+   "score": 60.09,
+   "angle": "从新华社发声切入，盘点国乒男队近期战绩下滑表现，探讨金牌光环下的隐忧与压力",
+   "hook_reason": "新华社罕见发问国乒男队，权威媒体追问+体育顶流话题",
+   "url": "https://s.weibo.com/weibo?q=新华社追问国乒男队怎么了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:新华社追问国乒男队怎么了"
+  },
+  "ai攻破困扰化学界50年难题": {
+   "key": "ai攻破困扰化学界50年难题",
+   "title": "AI攻破困扰化学界50年难题",
+   "rating": "A",
+   "score": 40.75,
+   "angle": "从AI赋能基础科学突破切入，探讨大模型在科研领域的落地价值",
+   "hook_reason": "AI破解化学50年难题，科技突破引发好奇",
+   "url": "https://search.bilibili.com/all?keyword=AI攻破困扰化学界50年难题",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai攻破困扰化学界50年难题"
   }
  },
- "breaking_count": 9,
- "a_pushed_window": 0
+ "breaking_count": 10,
+ "a_pushed_window": 1
 }
