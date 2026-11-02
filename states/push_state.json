@@ -13959,19 +13959,6 @@
    "batch_window": 17
   },
   {
-   "key": "马斯克称盖茨仍重仓做空特斯拉",
-   "title": "马斯克称盖茨仍重仓做空特斯拉",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "聚焦盖茨是否真在做空、马斯克为何此时点名、两人恩怨时间线",
-   "hook_reason": "马斯克vs盖茨，两大科技教父隔空互撕，读者必看谁真谁假",
-   "url": "https://s.weibo.com/weibo?q=马斯克称盖茨仍重仓做空特斯拉",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:马斯克称盖茨仍重仓做空特斯拉",
-   "batch_window": 18
-  },
-  {
    "key": "谍报上不封顶",
    "title": "谍报上不封顶",
    "rating": "A",
@@ -14217,6 +14204,45 @@
    "breaking": true,
    "event_id": "e:ai攻破困扰化学界50年难题",
    "batch_window": 1
+  },
+  {
+   "key": "askhnwhoishiringnovember2026",
+   "title": "Ask HN: Who is hiring? (November 2026)",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "从HN招聘帖看2026年底科技创业圈人才争夺战，哪些赛道还在放量招人",
+   "hook_reason": "全球程序员都在看的招聘帖，创业公司能否招到人直接关系生死",
+   "url": "https://news.ycombinator.com/item?id=50338728",
+   "track": "创业",
+   "breaking": true,
+   "event_id": "e:askhnwhoishiringnovember2026",
+   "batch_window": 2
+  },
+  {
+   "key": "中国公务团组人员被瑞典警方拘押",
+   "title": "中国公务团组人员被瑞典警方拘押",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "以事件进展+外交回应为核心，切入国际关系走向，配合情绪共鸣",
+   "hook_reason": "外交事件牵动民族情绪，读者迫切想了解后续与中方回应",
+   "url": "https://www.toutiao.com/trending/7703489065979084809/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国公务团组人员被瑞典警方拘押",
+   "batch_window": 2
+  },
+  {
+   "key": "抖音副总裁李亮回应被秦朔起诉",
+   "title": "抖音副总裁李亮回应被秦朔起诉",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "深挖起诉起因与双方立场，呈现互联网高管与媒体人的碰撞",
+   "hook_reason": "抖音高管遭知名媒体人秦朔起诉，大厂与舆论圈的正面冲突",
+   "url": "https://s.weibo.com/weibo?q=抖音副总裁李亮回应被秦朔起诉",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:抖音副总裁李亮回应被秦朔起诉",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -15300,7 +15326,8 @@
   "武汉警方通报网约车被围堵事件",
   "a股将迎千亿级增量资金",
   "玉簟秋",
-  "才知道改名可以改姓"
+  "才知道改名可以改姓",
+  "马斯克称盖茨仍重仓做空特斯拉"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -16320,7 +16347,8 @@
   "e:武汉警方通报网约车被围堵事件": "武汉警方通报网约车被围堵事件",
   "e:a股将迎千亿级增量资金": "A股将迎千亿级增量资金",
   "e:玉簟秋": "玉簟秋",
-  "e:才知道改名可以改姓": "才知道改名可以改姓"
+  "e:才知道改名可以改姓": "才知道改名可以改姓",
+  "e:马斯克称盖茨仍重仓做空特斯拉": "马斯克称盖茨仍重仓做空特斯拉"
  },
  "a_seen": {
   "新娘退场摔倒新郎还在沉浸式撒娃娃": {
@@ -16430,8 +16458,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:ai攻破困扰化学界50年难题"
+  },
+  "askhnwhoishiringnovember2026": {
+   "key": "askhnwhoishiringnovember2026",
+   "title": "Ask HN: Who is hiring? (November 2026)",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "从HN招聘帖看2026年底科技创业圈人才争夺战，哪些赛道还在放量招人",
+   "hook_reason": "全球程序员都在看的招聘帖，创业公司能否招到人直接关系生死",
+   "url": "https://news.ycombinator.com/item?id=50338728",
+   "track": "创业",
+   "breaking": true,
+   "event_id": "e:askhnwhoishiringnovember2026"
+  },
+  "中国公务团组人员被瑞典警方拘押": {
+   "key": "中国公务团组人员被瑞典警方拘押",
+   "title": "中国公务团组人员被瑞典警方拘押",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "以事件进展+外交回应为核心，切入国际关系走向，配合情绪共鸣",
+   "hook_reason": "外交事件牵动民族情绪，读者迫切想了解后续与中方回应",
+   "url": "https://www.toutiao.com/trending/7703489065979084809/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国公务团组人员被瑞典警方拘押"
+  },
+  "抖音副总裁李亮回应被秦朔起诉": {
+   "key": "抖音副总裁李亮回应被秦朔起诉",
+   "title": "抖音副总裁李亮回应被秦朔起诉",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "深挖起诉起因与双方立场，呈现互联网高管与媒体人的碰撞",
+   "hook_reason": "抖音高管遭知名媒体人秦朔起诉，大厂与舆论圈的正面冲突",
+   "url": "https://s.weibo.com/weibo?q=抖音副总裁李亮回应被秦朔起诉",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:抖音副总裁李亮回应被秦朔起诉"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
