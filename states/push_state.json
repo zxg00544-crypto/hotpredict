@@ -13543,19 +13543,6 @@
    "batch_window": 8
   },
   {
-   "key": "评论员中国要在黄岩岛关门了",
-   "title": "评论员：中国要在黄岩岛关门了",
-   "rating": "A",
-   "score": 90.0,
-   "angle": "从评论员发言切入，解读黄岩岛管控升级背后的战略意图，配合民族情绪共鸣角度",
-   "hook_reason": "权威评论员涉黄岩岛强硬表态，触发全民爱国情绪与国家安全关注",
-   "url": "https://www.toutiao.com/trending/7702475985760829503/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:评论员中国要在黄岩岛关门了",
-   "batch_window": 8
-  },
-  {
    "key": "今年乌镇峰会首次向社会开放预约",
    "title": "今年乌镇峰会首次向社会开放预约",
    "rating": "A",
@@ -13619,6 +13606,110 @@
    "breaking": true,
    "event_id": "e:青海大通县通报压路机致人身亡事故",
    "batch_window": 10
+  },
+  {
+   "key": "教育部教师工作司原副司长韩劲红被查",
+   "title": "教育部教师工作司原副司长韩劲红被查",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从教育反腐切入，关联基层教师群体利益与教育公平焦虑，引发共鸣",
+   "hook_reason": "教育高官落马，直击千万教师与家长痛点",
+   "url": "https://www.toutiao.com/trending/7703373812838040074/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:教育部教师工作司原副司长韩劲红被查",
+   "batch_window": 11
+  },
+  {
+   "key": "电诈园区从柬埔寨转移到马达加斯加",
+   "title": "电诈园区从柬埔寨转移到马达加斯加",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从柬埔寨到马达加斯加的转移路径，揭示电诈产业链跨境布局新趋势，呼应海外公民安全意识",
+   "hook_reason": "电诈园区跨国转移，中国公民海外安全再引关注",
+   "url": "https://s.weibo.com/weibo?q=电诈园区从柬埔寨转移到马达加斯加",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:电诈园区从柬埔寨转移到马达加斯加",
+   "batch_window": 11
+  },
+  {
+   "key": "罗技广告再被指侮辱用户",
+   "title": "罗技广告再被指侮辱用户",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "聚焦罗技广告争议本质，对比其他外资品牌类似事件，解析民族情绪与消费选择的碰撞",
+   "hook_reason": "外资品牌再辱华，消费者情绪集体爆发",
+   "url": "https://s.weibo.com/weibo?q=罗技广告再被指侮辱用户",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:罗技广告再被指侮辱用户",
+   "batch_window": 11
+  },
+  {
+   "key": "occupysaas",
+   "title": "OccupySaaS",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "解读OccupySaaS运动的背景与诉求，分析对SaaS行业的冲击及各方回应",
+   "hook_reason": "SaaS圈突发占领运动，创始人投资人必看",
+   "url": "https://occupysaas.com/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:occupysaas",
+   "batch_window": 11
+  },
+  {
+   "key": "ai漫剧概念持续走强海看股份20cm涨停芒果超媒涨超12上海电影奥飞娱",
+   "title": "AI漫剧概念持续走强，海看股份20cm涨停，芒果超媒涨超12%，上海电影、奥飞娱",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "AI+影视概念如何从概念验证走向业绩兑现，追涨停的资金在赌什么",
+   "hook_reason": "AI漫剧概念引爆A股，影视股突发涨停潮",
+   "url": "https://finance.sina.cn/7x24/2026-11-02/detail-inixicih3057601.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:ai漫剧概念持续走强海看股份20cm涨停芒果超媒涨超12上海电影奥飞娱",
+   "batch_window": 11
+  },
+  {
+   "key": "a股",
+   "title": "A股",
+   "rating": "A",
+   "score": 44.6,
+   "angle": "从A股最新行情切入，分析涨跌原因，解读对市场和个人投资者的影响，给出操作建议或风险提示。",
+   "hook_reason": "A股牵动千万股民神经，市场波动直接关乎钱袋子，读者迫切想知道涨跌背后的原因和影响。",
+   "url": "https://s.weibo.com/weibo?q=A股",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股",
+   "batch_window": 11
+  },
+  {
+   "key": "ai短剧影视行业",
+   "title": "AI短剧 影视行业",
+   "rating": "A",
+   "score": 45.0,
+   "angle": "AI短剧爆发式增长，对传统影视行业的冲击与机遇分析，探讨普通创作者能否抓住这波红利",
+   "hook_reason": "AI取代影视人力？创作者饭碗被端，全民围观的震撼",
+   "url": "https://s.weibo.com/weibo?q=AI短剧 影视行业",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai短剧影视行业",
+   "batch_window": 11
+  },
+  {
+   "key": "黄金",
+   "title": "黄金",
+   "rating": "A",
+   "score": 57.57,
+   "angle": "追踪今日金价异动原因（地缘/美联储/央行购金），拆解对普通投资者的影响与应对策略",
+   "hook_reason": "金价暴涨/暴跌背后，普通人财富如何保卫战",
+   "url": "https://s.weibo.com/weibo?q=黄金",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:黄金",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -14677,7 +14768,8 @@
   "接初中生放学就像特务接头",
   "终于知道走进科学为何停播",
   "微信转账加一个动作",
-  "台媒劝少看红果短剧反被喷"
+  "台媒劝少看红果短剧反被喷",
+  "评论员中国要在黄岩岛关门了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -15672,7 +15764,8 @@
   "e:接初中生放学就像特务接头": "“接初中生放学就像特务接头”",
   "e:终于知道走进科学为何停播": "终于知道走进科学为何停播",
   "e:微信转账加一个动作": "微信转账加一个动作",
-  "e:台媒劝少看红果短剧反被喷": "台媒劝少看红果短剧反被喷"
+  "e:台媒劝少看红果短剧反被喷": "台媒劝少看红果短剧反被喷",
+  "e:评论员中国要在黄岩岛关门了": "评论员：中国要在黄岩岛关门了"
  },
  "a_seen": {
   "周雨说孙颖莎打内战下不了狠手": {
@@ -16022,8 +16115,104 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:青海大通县通报压路机致人身亡事故"
+  },
+  "教育部教师工作司原副司长韩劲红被查": {
+   "key": "教育部教师工作司原副司长韩劲红被查",
+   "title": "教育部教师工作司原副司长韩劲红被查",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从教育反腐切入，关联基层教师群体利益与教育公平焦虑，引发共鸣",
+   "hook_reason": "教育高官落马，直击千万教师与家长痛点",
+   "url": "https://www.toutiao.com/trending/7703373812838040074/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:教育部教师工作司原副司长韩劲红被查"
+  },
+  "电诈园区从柬埔寨转移到马达加斯加": {
+   "key": "电诈园区从柬埔寨转移到马达加斯加",
+   "title": "电诈园区从柬埔寨转移到马达加斯加",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从柬埔寨到马达加斯加的转移路径，揭示电诈产业链跨境布局新趋势，呼应海外公民安全意识",
+   "hook_reason": "电诈园区跨国转移，中国公民海外安全再引关注",
+   "url": "https://s.weibo.com/weibo?q=电诈园区从柬埔寨转移到马达加斯加",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:电诈园区从柬埔寨转移到马达加斯加"
+  },
+  "罗技广告再被指侮辱用户": {
+   "key": "罗技广告再被指侮辱用户",
+   "title": "罗技广告再被指侮辱用户",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "聚焦罗技广告争议本质，对比其他外资品牌类似事件，解析民族情绪与消费选择的碰撞",
+   "hook_reason": "外资品牌再辱华，消费者情绪集体爆发",
+   "url": "https://s.weibo.com/weibo?q=罗技广告再被指侮辱用户",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:罗技广告再被指侮辱用户"
+  },
+  "occupysaas": {
+   "key": "occupysaas",
+   "title": "OccupySaaS",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "解读OccupySaaS运动的背景与诉求，分析对SaaS行业的冲击及各方回应",
+   "hook_reason": "SaaS圈突发占领运动，创始人投资人必看",
+   "url": "https://occupysaas.com/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:occupysaas"
+  },
+  "ai漫剧概念持续走强海看股份20cm涨停芒果超媒涨超12上海电影奥飞娱": {
+   "key": "ai漫剧概念持续走强海看股份20cm涨停芒果超媒涨超12上海电影奥飞娱",
+   "title": "AI漫剧概念持续走强，海看股份20cm涨停，芒果超媒涨超12%，上海电影、奥飞娱",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "AI+影视概念如何从概念验证走向业绩兑现，追涨停的资金在赌什么",
+   "hook_reason": "AI漫剧概念引爆A股，影视股突发涨停潮",
+   "url": "https://finance.sina.cn/7x24/2026-11-02/detail-inixicih3057601.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:ai漫剧概念持续走强海看股份20cm涨停芒果超媒涨超12上海电影奥飞娱"
+  },
+  "a股": {
+   "key": "a股",
+   "title": "A股",
+   "rating": "A",
+   "score": 44.6,
+   "angle": "从A股最新行情切入，分析涨跌原因，解读对市场和个人投资者的影响，给出操作建议或风险提示。",
+   "hook_reason": "A股牵动千万股民神经，市场波动直接关乎钱袋子，读者迫切想知道涨跌背后的原因和影响。",
+   "url": "https://s.weibo.com/weibo?q=A股",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股"
+  },
+  "ai短剧影视行业": {
+   "key": "ai短剧影视行业",
+   "title": "AI短剧 影视行业",
+   "rating": "A",
+   "score": 45.0,
+   "angle": "AI短剧爆发式增长，对传统影视行业的冲击与机遇分析，探讨普通创作者能否抓住这波红利",
+   "hook_reason": "AI取代影视人力？创作者饭碗被端，全民围观的震撼",
+   "url": "https://s.weibo.com/weibo?q=AI短剧 影视行业",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai短剧影视行业"
+  },
+  "黄金": {
+   "key": "黄金",
+   "title": "黄金",
+   "rating": "A",
+   "score": 57.57,
+   "angle": "追踪今日金价异动原因（地缘/美联储/央行购金），拆解对普通投资者的影响与应对策略",
+   "hook_reason": "金价暴涨/暴跌背后，普通人财富如何保卫战",
+   "url": "https://s.weibo.com/weibo?q=黄金",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:黄金"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
