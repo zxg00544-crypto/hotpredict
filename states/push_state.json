@@ -13738,19 +13738,6 @@
    "batch_window": 13
   },
   {
-   "key": "美飞机1分钟急坠万米究竟发生了什么",
-   "title": "美飞机1分钟急坠万米 究竟发生了什么",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从航空安全角度解读事件经过，科普高空急坠原理及逃生知识，缓解公众出行焦虑",
-   "hook_reason": "百万高空惊魂1分钟坠落万米，生死悬念引爆全民关注",
-   "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E9%A3%9E%E6%9C%BA1%E5%88%86%E9%92%9F%E6%80%A5%E5%9D%A0%E4%B8%87%E7%B1%B3+%E7%A9%B6%E7%AB%9F%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:美飞机1分钟急坠万米究竟发生了什么",
-   "batch_window": 13
-  },
-  {
    "key": "休息日5小时没回消息老师申请仲裁",
    "title": "休息日5小时没回消息老师申请仲裁",
    "rating": "A",
@@ -13944,6 +13931,58 @@
    "breaking": true,
    "event_id": "e:王曼昱签约蝴蝶",
    "batch_window": 15
+  },
+  {
+   "key": "才知道改名可以改姓",
+   "title": "才知道改名可以改姓",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "以'才知道'为切入点，盘点普通人可改姓的3类情形及限制，制造'你以为的 vs 实际的规定'反差讨论",
+   "hook_reason": "打破大众认知盲区，身份认同+政策科普双重钩子，引发'原来如此'共鸣",
+   "url": "https://s.weibo.com/weibo?q=才知道改名可以改姓",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:才知道改名可以改姓",
+   "batch_window": 16
+  },
+  {
+   "key": "曝lpl队伍邀请zeus加入",
+   "title": "曝LPL队伍邀请Zeus加入",
+   "rating": "A",
+   "score": 79.35,
+   "angle": "从Zeus转会动向切入，分析LPL引援策略与韩援市场格局变化",
+   "hook_reason": "Top选手Zeus空降LPL？电竞圈震动，粉丝直呼看不懂",
+   "url": "https://s.weibo.com/weibo?q=曝LPL队伍邀请Zeus加入",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:曝lpl队伍邀请zeus加入",
+   "batch_window": 16
+  },
+  {
+   "key": "showhnwikihackhackertubebutforwi631ba05b",
+   "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从HN工具创新切入，分析独立开发者如何用AI重构传统信息聚合场景",
+   "hook_reason": "HN开发者推出Wikipedia信息聚合工具，技术圈关注独立开发创新",
+   "url": "https://wikihack.netlify.app",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:showhnwikihackhackertubebutforwikipediaa",
+   "batch_window": 16
+  },
+  {
+   "key": "马斯克称别逼我买下微软",
+   "title": "马斯克称别逼我买下微软",
+   "rating": "A",
+   "score": 44.1,
+   "angle": "聚焦科技巨头跨界并购背后的商业逻辑与权力博弈",
+   "hook_reason": "马斯克放话收购微软，科技圈最大资本博弈引爆全网",
+   "url": "https://s.weibo.com/weibo?q=马斯克称别逼我买下微软",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克称别逼我买下微软",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -15007,7 +15046,8 @@
   "教育部教师工作司原副司长韩劲红被查",
   "电诈园区从柬埔寨转移到马达加斯加",
   "央行证监会召集各大银行开会",
-  "导演江小鱼去世年仅56岁"
+  "导演江小鱼去世年仅56岁",
+  "美飞机1分钟急坠万米究竟发生了什么"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -16007,7 +16047,8 @@
   "e:教育部教师工作司原副司长韩劲红被查": "教育部教师工作司原副司长韩劲红被查",
   "e:电诈园区从柬埔寨转移到马达加斯加": "电诈园区从柬埔寨转移到马达加斯加",
   "e:央行证监会召集各大银行开会": "央行证监会召集各大银行开会",
-  "e:导演江小鱼去世年仅56岁": "导演江小鱼去世 年仅56岁"
+  "e:导演江小鱼去世年仅56岁": "导演江小鱼去世 年仅56岁",
+  "e:美飞机1分钟急坠万米究竟发生了什么": "美飞机1分钟急坠万米 究竟发生了什么"
  },
  "a_seen": {
   "周雨说孙颖莎打内战下不了狠手": {
@@ -16717,8 +16758,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:王曼昱签约蝴蝶"
+  },
+  "才知道改名可以改姓": {
+   "key": "才知道改名可以改姓",
+   "title": "才知道改名可以改姓",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "以'才知道'为切入点，盘点普通人可改姓的3类情形及限制，制造'你以为的 vs 实际的规定'反差讨论",
+   "hook_reason": "打破大众认知盲区，身份认同+政策科普双重钩子，引发'原来如此'共鸣",
+   "url": "https://s.weibo.com/weibo?q=才知道改名可以改姓",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:才知道改名可以改姓"
+  },
+  "曝lpl队伍邀请zeus加入": {
+   "key": "曝lpl队伍邀请zeus加入",
+   "title": "曝LPL队伍邀请Zeus加入",
+   "rating": "A",
+   "score": 79.35,
+   "angle": "从Zeus转会动向切入，分析LPL引援策略与韩援市场格局变化",
+   "hook_reason": "Top选手Zeus空降LPL？电竞圈震动，粉丝直呼看不懂",
+   "url": "https://s.weibo.com/weibo?q=曝LPL队伍邀请Zeus加入",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:曝lpl队伍邀请zeus加入"
+  },
+  "showhnwikihackhackertubebutforwi631ba05b": {
+   "key": "showhnwikihackhackertubebutforwi631ba05b",
+   "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从HN工具创新切入，分析独立开发者如何用AI重构传统信息聚合场景",
+   "hook_reason": "HN开发者推出Wikipedia信息聚合工具，技术圈关注独立开发创新",
+   "url": "https://wikihack.netlify.app",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:showhnwikihackhackertubebutforwikipediaa"
+  },
+  "马斯克称别逼我买下微软": {
+   "key": "马斯克称别逼我买下微软",
+   "title": "马斯克称别逼我买下微软",
+   "rating": "A",
+   "score": 44.1,
+   "angle": "聚焦科技巨头跨界并购背后的商业逻辑与权力博弈",
+   "hook_reason": "马斯克放话收购微软，科技圈最大资本博弈引爆全网",
+   "url": "https://s.weibo.com/weibo?q=马斯克称别逼我买下微软",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克称别逼我买下微软"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 15
+ "a_pushed_window": 16
 }
