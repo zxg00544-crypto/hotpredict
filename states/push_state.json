@@ -14752,19 +14752,6 @@
    "batch_window": 21
   },
   {
-   "key": "肖战让姜妍少看点成功学吧",
-   "title": "肖战让姜妍少看点成功学吧",
-   "rating": "A",
-   "score": 89.0,
-   "angle": "从肖战调侃姜妍切入，探讨成功学在娱乐圈的适用性与人设崩塌风险",
-   "hook_reason": "明星反差+成功学争议，吃瓜群众必点",
-   "url": "https://s.weibo.com/weibo?q=肖战让姜妍少看点成功学吧",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:肖战让姜妍少看点成功学吧",
-   "batch_window": 22
-  },
-  {
    "key": "theastracanreadandwriteweightsto5cd953f1",
    "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
    "rating": "A",
@@ -14971,6 +14958,45 @@
    "breaking": true,
    "event_id": "e:杂交水稻专家邓国富被开除党籍",
    "batch_window": 2
+  },
+  {
+   "key": "qwen3827bonmylaptopcaninterpretmodelweightstoo",
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从技术门槛降低视角切入，探讨小参数模型的本地推理与可解释性突破",
+   "hook_reason": "个人笔记本跑27B模型还能解释权重，AI能力平民化冲击感强",
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:qwen3827bonmylaptopcaninterpretmodelweig",
+   "batch_window": 3
+  },
+  {
+   "key": "googlewillturnoffsearchforschoolsthatrejectai",
+   "title": "Google will turn off search for schools that reject AI",
+   "rating": "A",
+   "score": 39.65,
+   "angle": "Google强制推AI进校园引发科技霸权争议，从教育场景看AI渗透的边界与伦理困境",
+   "hook_reason": "Google以搜索为筹码强制学校拥抱AI，科技巨头VS教育自主权正面硬刚",
+   "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:googlewillturnoffsearchforschoolsthatrej",
+   "batch_window": 3
+  },
+  {
+   "key": "主播长得像田曦薇开直播赚了几十万",
+   "title": "主播长得像田曦薇开直播赚了几十万",
+   "rating": "A",
+   "score": 47.15,
+   "angle": "从'长得像就能赚钱'切入，剖析直播经济下的颜值红利与普通人焦虑",
+   "hook_reason": "普通人靠颜值模仿明星月入数十万，直击全民'颜值变现'焦虑",
+   "url": "https://s.weibo.com/weibo?q=主播长得像田曦薇开直播赚了几十万",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:主播长得像田曦薇开直播赚了几十万",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -16089,7 +16115,8 @@
   "octomindopensourceaiharnessthatsbce5cd67",
   "女子买一等座却只能站着平台无补偿",
   "上班摸鱼的最高境界",
-  "亚洲杯官宣延期"
+  "亚洲杯官宣延期",
+  "肖战让姜妍少看点成功学吧"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17144,7 +17171,8 @@
   "e:octomindopensourceaiharnessthatsavesyour": "Octomind – open-source AI harness that saves your tokens, static rust",
   "e:女子买一等座却只能站着平台无补偿": "女子买一等座却只能站着平台无补偿",
   "e:上班摸鱼的最高境界": "上班摸鱼的最高境界",
-  "e:亚洲杯官宣延期": "亚洲杯官宣延期"
+  "e:亚洲杯官宣延期": "亚洲杯官宣延期",
+  "e:肖战让姜妍少看点成功学吧": "肖战让姜妍少看点成功学吧"
  },
  "a_seen": {
   "fujifilmtoboosttapeproduction5xabacc9d18": {
@@ -17272,8 +17300,8 @@
    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
    "rating": "A",
    "score": 75.95,
-   "angle": "从'开发者工具信任崩塌'切入，揭示AI插件背后的数据滥用潜规则，警示行业乱象",
-   "hook_reason": "开发者信仰崩塌：最信任的工具静默上传数据，隐私危机引爆全网愤怒",
+   "angle": "从开发者视角切入，剖析Postman为何在此时引入AI插件，反思工具厂商的数据野心与用户信任危机",
+   "hook_reason": "开发者工具静默窃取API数据，触及数据安全底线",
    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
    "track": "科技",
    "breaking": true,
@@ -17290,8 +17318,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:杂交水稻专家邓国富被开除党籍"
+  },
+  "qwen3827bonmylaptopcaninterpretmodelweightstoo": {
+   "key": "qwen3827bonmylaptopcaninterpretmodelweightstoo",
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "从技术门槛降低视角切入，探讨小参数模型的本地推理与可解释性突破",
+   "hook_reason": "个人笔记本跑27B模型还能解释权重，AI能力平民化冲击感强",
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:qwen3827bonmylaptopcaninterpretmodelweig"
+  },
+  "九寨沟打人事件调解收尾并非和稀泥": {
+   "key": "九寨沟打人事件调解收尾并非和稀泥",
+   "title": "九寨沟打人事件调解收尾并非和稀泥",
+   "rating": "A",
+   "score": 43.75,
+   "angle": "深挖调解文书细节，对比类似旅游纠纷判例，看'并非和稀泥'是否有法理支撑",
+   "hook_reason": "游客权益+执法公正争议，全民共情点",
+   "url": "https://s.weibo.com/weibo?q=九寨沟打人事件调解收尾并非和稀泥",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:九寨沟打人事件双方都有责任"
+  },
+  "googlewillturnoffsearchforschoolsthatrejectai": {
+   "key": "googlewillturnoffsearchforschoolsthatrejectai",
+   "title": "Google will turn off search for schools that reject AI",
+   "rating": "A",
+   "score": 39.65,
+   "angle": "Google强制推AI进校园引发科技霸权争议，从教育场景看AI渗透的边界与伦理困境",
+   "hook_reason": "Google以搜索为筹码强制学校拥抱AI，科技巨头VS教育自主权正面硬刚",
+   "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:googlewillturnoffsearchforschoolsthatrej"
+  },
+  "主播长得像田曦薇开直播赚了几十万": {
+   "key": "主播长得像田曦薇开直播赚了几十万",
+   "title": "主播长得像田曦薇开直播赚了几十万",
+   "rating": "A",
+   "score": 47.15,
+   "angle": "从'长得像就能赚钱'切入，剖析直播经济下的颜值红利与普通人焦虑",
+   "hook_reason": "普通人靠颜值模仿明星月入数十万，直击全民'颜值变现'焦虑",
+   "url": "https://s.weibo.com/weibo?q=主播长得像田曦薇开直播赚了几十万",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:主播长得像田曦薇开直播赚了几十万"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
