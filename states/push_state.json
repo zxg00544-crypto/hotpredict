@@ -14336,19 +14336,6 @@
    "batch_window": 9
   },
   {
-   "key": "上班摸鱼的最高境界",
-   "title": "上班摸鱼的最高境界",
-   "rating": "A",
-   "score": 89.5,
-   "angle": "从打工人视角解读摸鱼文化，结合职场现状引发共鸣，可配神评论截图增强传播",
-   "hook_reason": "打工人集体共鸣+反内卷情绪，话题新鲜又接地气",
-   "url": "https://s.weibo.com/weibo?q=上班摸鱼的最高境界",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:上班摸鱼的最高境界",
-   "batch_window": 9
-  },
-  {
    "key": "调杠杆给临近爆仓账户一线生机",
    "title": "调杠杆给临近爆仓账户一线生机",
    "rating": "A",
@@ -14854,6 +14841,84 @@
    "breaking": true,
    "event_id": "e:伊朗外交部表示必须先在所有战线结束战争才能达成任何协议",
    "batch_window": 23
+  },
+  {
+   "key": "武汉一小区爆燃致2死1伤调查处置工作正在进行中目前情况如何",
+   "title": "武汉一小区爆燃致 2 死 1 伤，调查、处置工作正在进行中，目前情况如何？",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "从武汉小区爆燃事件切入，聚焦居民燃气/用电安全意识、社区应急管理短板及官方通报速度，呼应全民共鸣",
+   "hook_reason": "突发爆燃致2死1伤，人命关天，公众高度关注安全与救援进展",
+   "url": "https://www.zhihu.com/question/2100890499762446584",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:武汉一小区爆燃致2死1伤调查处置工作正在进行中目前情况如何",
+   "batch_window": 1
+  },
+  {
+   "key": "macatanyscale",
+   "title": "Mac at Any Scale",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "解读Mac跨规模运行能力的技术突破，分析对开发者和生产力场景的影响",
+   "hook_reason": "Mac重大功能更新引发HN热议，1小时增速100%",
+   "url": "https://namespace.so/blog/mac-at-any-scale",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:macatanyscale",
+   "batch_window": 1
+  },
+  {
+   "key": "jailbreakingmycarsnavigationsystaa0c492d",
+   "title": "Jailbreaking my car's navigation system just so I can change the time",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "车企OTA安全漏洞频出，用户为基本功能被迫越狱，暴露智能车安全隐忧",
+   "hook_reason": "开车调个时间竟要先破解车载系统？颠覆认知的技术操作",
+   "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:jailbreakingmycarsnavigationsystemjustso",
+   "batch_window": 1
+  },
+  {
+   "key": "清华毕业生ucl留学疑遭电诈账户陆续转出数十万元邮箱最新留言我人平安被诈骗了如何看待此事",
+   "title": "清华毕业生UCL留学疑遭电诈，账户陆续转出数十万元，邮箱最新留言「我人平安，被诈骗了」，如何看待此事？",
+   "rating": "A",
+   "score": 63.15,
+   "angle": "以'高学历人群反遭电诈'为切入点，揭秘新型精准诈骗套路，提供实用防骗指南",
+   "hook_reason": "清华学霸都中招！高学历≠防骗免疫力，反套路指南引点击",
+   "url": "https://www.zhihu.com/question/2100715122348004198",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:清华毕业生ucl留学疑遭电诈账户陆续转出数十万元邮箱最新留言我人平安被诈骗了如何",
+   "batch_window": 1
+  },
+  {
+   "key": "清华父亲211妻子孩子没考上高中",
+   "title": "清华父亲211妻子孩子没考上高中",
+   "rating": "A",
+   "score": 55.0,
+   "angle": "从'基因决定论'切入教育投入产出比，引发家长群体共鸣与争议",
+   "hook_reason": "清华基因+211母亲生不出学霸，直击中产教育焦虑",
+   "url": "https://s.weibo.com/weibo?q=清华父亲211妻子孩子没考上高中",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:清华父亲211妻子孩子没考上高中",
+   "batch_window": 1
+  },
+  {
+   "key": "上班族每月花3600元住酒店代租房",
+   "title": "上班族每月花3600元住酒店代租房",
+   "rating": "A",
+   "score": 51.26,
+   "angle": "从年轻上班族住房困境切入，探讨'酒店代租'现象背后的生活压力与生存智慧",
+   "hook_reason": "3600住酒店成上班新选择，打工人心疼又共鸣",
+   "url": "https://www.toutiao.com/trending/7703864526215102506/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:上班族每月花3600元住酒店代租房",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -15970,7 +16035,8 @@
   "治网这件事需要你我共举",
   "quiliai",
   "octomindopensourceaiharnessthatsbce5cd67",
-  "女子买一等座却只能站着平台无补偿"
+  "女子买一等座却只能站着平台无补偿",
+  "上班摸鱼的最高境界"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17023,7 +17089,8 @@
   "e:治网这件事需要你我共举": "治网这件事需要你我共“举”",
   "e:quiliai": "Quili AI",
   "e:octomindopensourceaiharnessthatsavesyour": "Octomind – open-source AI harness that saves your tokens, static rust",
-  "e:女子买一等座却只能站着平台无补偿": "女子买一等座却只能站着平台无补偿"
+  "e:女子买一等座却只能站着平台无补偿": "女子买一等座却只能站着平台无补偿",
+  "e:上班摸鱼的最高境界": "上班摸鱼的最高境界"
  },
  "a_seen": {
   "fujifilmtoboosttapeproduction5xabacc9d18": {
@@ -17037,8 +17104,80 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:fujifilmtoboosttapeproduction5xasaifuels"
+  },
+  "武汉一小区爆燃致2死1伤调查处置工作正在进行中目前情况如何": {
+   "key": "武汉一小区爆燃致2死1伤调查处置工作正在进行中目前情况如何",
+   "title": "武汉一小区爆燃致 2 死 1 伤，调查、处置工作正在进行中，目前情况如何？",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "从武汉小区爆燃事件切入，聚焦居民燃气/用电安全意识、社区应急管理短板及官方通报速度，呼应全民共鸣",
+   "hook_reason": "突发爆燃致2死1伤，人命关天，公众高度关注安全与救援进展",
+   "url": "https://www.zhihu.com/question/2100890499762446584",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:武汉一小区爆燃致2死1伤调查处置工作正在进行中目前情况如何"
+  },
+  "macatanyscale": {
+   "key": "macatanyscale",
+   "title": "Mac at Any Scale",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "解读Mac跨规模运行能力的技术突破，分析对开发者和生产力场景的影响",
+   "hook_reason": "Mac重大功能更新引发HN热议，1小时增速100%",
+   "url": "https://namespace.so/blog/mac-at-any-scale",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:macatanyscale"
+  },
+  "jailbreakingmycarsnavigationsystaa0c492d": {
+   "key": "jailbreakingmycarsnavigationsystaa0c492d",
+   "title": "Jailbreaking my car's navigation system just so I can change the time",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "车企OTA安全漏洞频出，用户为基本功能被迫越狱，暴露智能车安全隐忧",
+   "hook_reason": "开车调个时间竟要先破解车载系统？颠覆认知的技术操作",
+   "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:jailbreakingmycarsnavigationsystemjustso"
+  },
+  "清华毕业生ucl留学疑遭电诈账户陆续转出数十万元邮箱最新留言我人平安被诈骗了如何看待此事": {
+   "key": "清华毕业生ucl留学疑遭电诈账户陆续转出数十万元邮箱最新留言我人平安被诈骗了如何看待此事",
+   "title": "清华毕业生UCL留学疑遭电诈，账户陆续转出数十万元，邮箱最新留言「我人平安，被诈骗了」，如何看待此事？",
+   "rating": "A",
+   "score": 63.15,
+   "angle": "以'高学历人群反遭电诈'为切入点，揭秘新型精准诈骗套路，提供实用防骗指南",
+   "hook_reason": "清华学霸都中招！高学历≠防骗免疫力，反套路指南引点击",
+   "url": "https://www.zhihu.com/question/2100715122348004198",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:清华毕业生ucl留学疑遭电诈账户陆续转出数十万元邮箱最新留言我人平安被诈骗了如何"
+  },
+  "清华父亲211妻子孩子没考上高中": {
+   "key": "清华父亲211妻子孩子没考上高中",
+   "title": "清华父亲211妻子孩子没考上高中",
+   "rating": "A",
+   "score": 55.0,
+   "angle": "从'基因决定论'切入教育投入产出比，引发家长群体共鸣与争议",
+   "hook_reason": "清华基因+211母亲生不出学霸，直击中产教育焦虑",
+   "url": "https://s.weibo.com/weibo?q=清华父亲211妻子孩子没考上高中",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:清华父亲211妻子孩子没考上高中"
+  },
+  "上班族每月花3600元住酒店代租房": {
+   "key": "上班族每月花3600元住酒店代租房",
+   "title": "上班族每月花3600元住酒店代租房",
+   "rating": "A",
+   "score": 51.26,
+   "angle": "从年轻上班族住房困境切入，探讨'酒店代租'现象背后的生活压力与生存智慧",
+   "hook_reason": "3600住酒店成上班新选择，打工人心疼又共鸣",
+   "url": "https://www.toutiao.com/trending/7703864526215102506/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:上班族每月花3600元住酒店代租房"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 0
+ "a_pushed_window": 1
 }
