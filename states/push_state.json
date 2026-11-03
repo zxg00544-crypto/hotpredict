@@ -14596,19 +14596,6 @@
    "batch_window": 16
   },
   {
-   "key": "刘延东同志遗体在京火化",
-   "title": "刘延东同志遗体在京火化",
-   "rating": "A",
-   "score": 92.45,
-   "angle": "官方讣告+全网悼念氛围，以庄重笔触回顾刘延东生平贡献，引发读者集体记忆与情感共鸣",
-   "hook_reason": "党和国家重要领导人逝世火化，全民关注、情感共鸣极强",
-   "url": "https://search.bilibili.com/all?keyword=刘延东同志遗体在京火化",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:刘延东同志遗体在京火化",
-   "batch_window": 17
-  },
-  {
    "key": "a股今天跌麻了",
    "title": "A股今天跌麻了",
    "rating": "A",
@@ -14646,6 +14633,71 @@
    "breaking": true,
    "event_id": "e:女子擅自骑他人20万哈雷摩托摔车",
    "batch_window": 17
+  },
+  {
+   "key": "deepseek崩了",
+   "title": "DeepSeek崩了",
+   "rating": "A",
+   "score": 97.5,
+   "angle": "DeepSeek大规模宕机事件追踪：宕机原因、用户数据影响、国产AI基础设施可靠性拷问",
+   "hook_reason": "国产AI顶流DeepSeek突发宕机，全民关注国产AI稳定性底线",
+   "url": "https://s.weibo.com/weibo?q=DeepSeek崩了",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepseek崩了",
+   "batch_window": 18
+  },
+  {
+   "key": "男子用超400万个账号薅羊毛获刑三年",
+   "title": "男子用超400万个账号薅羊毛获刑三年",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从个案延伸：薅羊毛是否涉嫌违法？平台漏洞谁担责？普通人的灰色地带",
+   "hook_reason": "400万账号薅羊毛获刑三年，普通人薅羊毛边界在哪？",
+   "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E8%B6%85400%E4%B8%87%E4%B8%AA%E8%B4%A6%E5%8F%B7%E8%96%85%E7%BE%8A%E6%AF%9B%E8%8E%B7%E5%88%91%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:男子用超400万个账号薅羊毛获刑三年",
+   "batch_window": 18
+  },
+  {
+   "key": "当你想在网上吵架的时候想想这张图",
+   "title": "当你想在网上吵架的时候想想这张图",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从网络暴力现象切入，探讨网友情绪宣泄的心理机制与社会效应，引导理性发声",
+   "hook_reason": "全民网民均有共鸣，情绪话题自带传播力",
+   "url": "https://s.weibo.com/weibo?q=当你想在网上吵架的时候想想这张图",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:当你想在网上吵架的时候想想这张图",
+   "batch_window": 18
+  },
+  {
+   "key": "清华女生研一生娃寒假坐月子",
+   "title": "清华女生研一生娃寒假坐月子",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从清华研究生身份切入，探讨高学历女性人生选择自由与舆论压力",
+   "hook_reason": "清华女生研一生娃，精英教育与个人选择的冲突引爆讨论",
+   "url": "https://s.weibo.com/weibo?q=清华女生研一生娃寒假坐月子",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:清华女生研一生娃寒假坐月子",
+   "batch_window": 18
+  },
+  {
+   "key": "九寨沟打人伤情够轻伤吗",
+   "title": "九寨沟打人伤情够轻伤吗",
+   "rating": "A",
+   "score": 85.0,
+   "angle": "从伤情鉴定标准切入，解读'轻伤'法律定义与公众认知的落差，追问景区安全管理责任",
+   "hook_reason": "轻伤认定牵动公众神经，旅游安全与司法公正双重关切",
+   "url": "https://s.weibo.com/weibo?q=九寨沟打人伤情够轻伤吗",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:九寨沟打人伤情够轻伤吗",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -15745,7 +15797,8 @@
   "a股羊字辈大面积涨停",
   "九寨沟打人事件双方都有责任",
   "央视点赞沃尔沃大庆工厂",
-  "中国不申办2036年奥运会"
+  "中国不申办2036年奥运会",
+  "刘延东同志遗体在京火化"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -16781,7 +16834,8 @@
   "e:a股羊字辈大面积涨停": "A股“羊”字辈大面积涨停",
   "e:九寨沟打人事件双方都有责任": "九寨沟打人事件双方都有责任",
   "e:央视点赞沃尔沃大庆工厂": "央视点赞沃尔沃大庆工厂",
-  "e:中国不申办2036年奥运会": "中国不申办2036年奥运会"
+  "e:中国不申办2036年奥运会": "中国不申办2036年奥运会",
+  "e:刘延东同志遗体在京火化": "刘延东同志遗体在京火化"
  },
  "a_seen": {
   "新娘退场摔倒新郎还在沉浸式撒娃娃": {
@@ -17533,8 +17587,8 @@
    "title": "刘延东同志遗体在京火化",
    "rating": "A",
    "score": 92.45,
-   "angle": "官方讣告+全网悼念氛围，以庄重笔触回顾刘延东生平贡献，引发读者集体记忆与情感共鸣",
-   "hook_reason": "党和国家重要领导人逝世火化，全民关注、情感共鸣极强",
+   "angle": "以庄重笔调记录历史时刻，体现国家对前辈领导人的尊重与缅怀，引发民族情感共鸣",
+   "hook_reason": "国家级重大事件，全民关注，情感共鸣强烈",
    "url": "https://search.bilibili.com/all?keyword=刘延东同志遗体在京火化",
    "track": "社会热点",
    "breaking": true,
@@ -17556,25 +17610,25 @@
    "key": "a股今天跌麻了",
    "title": "A股今天跌麻了",
    "rating": "A",
-   "score": 83.44,
-   "angle": "A股暴跌背后：谁在割肉离场？普通投资者如何避险与反击",
-   "hook_reason": "股民集体破防，情绪共鸣拉满，点击即站队",
+   "score": 82.44,
+   "angle": "A股暴跌引爆全网情绪，从散户崩溃到政策预期，盘点今日震荡的三层逻辑",
+   "hook_reason": "股民集体破防，36万热度背后是多少人的血汗钱",
    "url": "https://s.weibo.com/weibo?q=A股今天跌麻了",
    "track": "财经",
    "breaking": true,
-   "event_id": "e:a股易中天跌懵了"
+   "event_id": "e:a股今天跌麻了"
   },
   "九寨沟打人伤情够轻伤吗": {
    "key": "九寨沟打人伤情够轻伤吗",
    "title": "九寨沟打人伤情够轻伤吗",
    "rating": "A",
-   "score": 90.5,
-   "angle": "从轻伤法律标准切入，科普维权难度，引发游客安全感焦虑",
-   "hook_reason": "旅游安全+伤情鉴定争议，触发大众愤怒与正义感",
+   "score": 85.0,
+   "angle": "从伤情鉴定标准切入，解读'轻伤'法律定义与公众认知的落差，追问景区安全管理责任",
+   "hook_reason": "轻伤认定牵动公众神经，旅游安全与司法公正双重关切",
    "url": "https://s.weibo.com/weibo?q=九寨沟打人伤情够轻伤吗",
    "track": "社会热点",
    "breaking": true,
-   "event_id": "e:九寨沟打人事件双方都有责任"
+   "event_id": "e:九寨沟打人伤情够轻伤吗"
   },
   "亚洲杯官宣延期": {
    "key": "亚洲杯官宣延期",
@@ -17599,8 +17653,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:女子擅自骑他人20万哈雷摩托摔车"
+  },
+  "deepseek崩了": {
+   "key": "deepseek崩了",
+   "title": "DeepSeek崩了",
+   "rating": "A",
+   "score": 97.5,
+   "angle": "DeepSeek大规模宕机事件追踪：宕机原因、用户数据影响、国产AI基础设施可靠性拷问",
+   "hook_reason": "国产AI顶流DeepSeek突发宕机，全民关注国产AI稳定性底线",
+   "url": "https://s.weibo.com/weibo?q=DeepSeek崩了",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepseek崩了"
+  },
+  "男子用超400万个账号薅羊毛获刑三年": {
+   "key": "男子用超400万个账号薅羊毛获刑三年",
+   "title": "男子用超400万个账号薅羊毛获刑三年",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从个案延伸：薅羊毛是否涉嫌违法？平台漏洞谁担责？普通人的灰色地带",
+   "hook_reason": "400万账号薅羊毛获刑三年，普通人薅羊毛边界在哪？",
+   "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E8%B6%85400%E4%B8%87%E4%B8%AA%E8%B4%A6%E5%8F%B7%E8%96%85%E7%BE%8A%E6%AF%9B%E8%8E%B7%E5%88%91%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:男子用超400万个账号薅羊毛获刑三年"
+  },
+  "当你想在网上吵架的时候想想这张图": {
+   "key": "当你想在网上吵架的时候想想这张图",
+   "title": "当你想在网上吵架的时候想想这张图",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从网络暴力现象切入，探讨网友情绪宣泄的心理机制与社会效应，引导理性发声",
+   "hook_reason": "全民网民均有共鸣，情绪话题自带传播力",
+   "url": "https://s.weibo.com/weibo?q=当你想在网上吵架的时候想想这张图",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:当你想在网上吵架的时候想想这张图"
+  },
+  "清华女生研一生娃寒假坐月子": {
+   "key": "清华女生研一生娃寒假坐月子",
+   "title": "清华女生研一生娃寒假坐月子",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从清华研究生身份切入，探讨高学历女性人生选择自由与舆论压力",
+   "hook_reason": "清华女生研一生娃，精英教育与个人选择的冲突引爆讨论",
+   "url": "https://s.weibo.com/weibo?q=清华女生研一生娃寒假坐月子",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:清华女生研一生娃寒假坐月子"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
