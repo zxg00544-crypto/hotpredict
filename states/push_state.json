@@ -14583,19 +14583,6 @@
    "batch_window": 17
   },
   {
-   "key": "亚洲杯官宣延期",
-   "title": "亚洲杯官宣延期",
-   "rating": "A",
-   "score": 89.0,
-   "angle": "从赛事延期切入，剖析对球迷、体育产业及商业合作的连锁影响",
-   "hook_reason": "亚洲杯突发延期引爆23万热度，球迷群体关注",
-   "url": "https://s.weibo.com/weibo?q=亚洲杯官宣延期",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:亚洲杯官宣延期",
-   "batch_window": 17
-  },
-  {
    "key": "女子擅自骑他人20万哈雷摩托摔车",
    "title": "女子擅自骑他人20万哈雷摩托摔车",
    "rating": "A",
@@ -14958,6 +14945,32 @@
    "breaking": true,
    "event_id": "e:惠誉评级服务业的重复性工作流程导致人工智能替代风险最高",
    "batch_window": 1
+  },
+  {
+   "key": "postmansilentlyautoinstallsaiplu17fdb0ef",
+   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从'开发者工具信任崩塌'切入，揭示AI插件背后的数据滥用潜规则，警示行业乱象",
+   "hook_reason": "开发者信仰崩塌：最信任的工具静默上传数据，隐私危机引爆全网愤怒",
+   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:postmansilentlyautoinstallsaipluginsanda",
+   "batch_window": 2
+  },
+  {
+   "key": "杂交水稻专家邓国富被开除党籍",
+   "title": "杂交水稻专家邓国富被开除党籍",
+   "rating": "A",
+   "score": 59.12,
+   "angle": "专家身份与违纪反差极大，关联粮食安全信任危机，适合做深度问责类报道",
+   "hook_reason": "杂交水稻专家落马，触碰全民饭碗神经，情绪引爆点",
+   "url": "https://s.weibo.com/weibo?q=杂交水稻专家邓国富被开除党籍",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:杂交水稻专家邓国富被开除党籍",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -16075,7 +16088,8 @@
   "quiliai",
   "octomindopensourceaiharnessthatsbce5cd67",
   "女子买一等座却只能站着平台无补偿",
-  "上班摸鱼的最高境界"
+  "上班摸鱼的最高境界",
+  "亚洲杯官宣延期"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17129,7 +17143,8 @@
   "e:quiliai": "Quili AI",
   "e:octomindopensourceaiharnessthatsavesyour": "Octomind – open-source AI harness that saves your tokens, static rust",
   "e:女子买一等座却只能站着平台无补偿": "女子买一等座却只能站着平台无补偿",
-  "e:上班摸鱼的最高境界": "上班摸鱼的最高境界"
+  "e:上班摸鱼的最高境界": "上班摸鱼的最高境界",
+  "e:亚洲杯官宣延期": "亚洲杯官宣延期"
  },
  "a_seen": {
   "fujifilmtoboosttapeproduction5xabacc9d18": {
@@ -17232,9 +17247,9 @@
    "key": "schoolsthatblockgooglesaiwilllos41dafd8a",
    "title": "Schools that block Google’s A.I. will lose student access to its search engine",
    "rating": "A",
-   "score": 75.75,
-   "angle": "Google用AI捆绑教育市场，是创新还是垄断？学校与科技巨头的博弈战",
-   "hook_reason": "Google以AI为筹码威胁学校，科技巨头垄断叙事再升级",
+   "score": 75.7,
+   "angle": "科技巨头用商业筹码倒逼学校放弃AI限制，教育自主权vs平台垄断的博弈",
+   "hook_reason": "谷歌拿搜索权限威胁学校，AI霸权还是合理反制？",
    "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
    "track": "科技",
    "breaking": true,
@@ -17251,8 +17266,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:惠誉评级服务业的重复性工作流程导致人工智能替代风险最高"
+  },
+  "postmansilentlyautoinstallsaiplu17fdb0ef": {
+   "key": "postmansilentlyautoinstallsaiplu17fdb0ef",
+   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "从'开发者工具信任崩塌'切入，揭示AI插件背后的数据滥用潜规则，警示行业乱象",
+   "hook_reason": "开发者信仰崩塌：最信任的工具静默上传数据，隐私危机引爆全网愤怒",
+   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:postmansilentlyautoinstallsaipluginsanda"
+  },
+  "杂交水稻专家邓国富被开除党籍": {
+   "key": "杂交水稻专家邓国富被开除党籍",
+   "title": "杂交水稻专家邓国富被开除党籍",
+   "rating": "A",
+   "score": 59.12,
+   "angle": "专家身份与违纪反差极大，关联粮食安全信任危机，适合做深度问责类报道",
+   "hook_reason": "杂交水稻专家落马，触碰全民饭碗神经，情绪引爆点",
+   "url": "https://s.weibo.com/weibo?q=杂交水稻专家邓国富被开除党籍",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:杂交水稻专家邓国富被开除党籍"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
