@@ -14375,19 +14375,6 @@
    "batch_window": 10
   },
   {
-   "key": "主动脉夹层被称为死亡的天花板",
-   "title": "主动脉夹层被称为死亡的天花板",
-   "rating": "A",
-   "score": 88.5,
-   "angle": "从医学科普切入，结合突发热点，科普主动脉夹层的症状与高危人群，提醒公众重视身体信号",
-   "hook_reason": "死亡天花板+高热搜，普通人也能得的致命病，引发健康恐惧和分享欲",
-   "url": "https://s.weibo.com/weibo?q=主动脉夹层被称为死亡的天花板",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:主动脉夹层被称为死亡的天花板",
-   "batch_window": 11
-  },
-  {
    "key": "雷军误写小米yu7首付799元",
    "title": "雷军误写小米YU7首付7.99元",
    "rating": "A",
@@ -16116,7 +16103,8 @@
   "女子买一等座却只能站着平台无补偿",
   "上班摸鱼的最高境界",
   "亚洲杯官宣延期",
-  "肖战让姜妍少看点成功学吧"
+  "肖战让姜妍少看点成功学吧",
+  "主动脉夹层被称为死亡的天花板"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17172,7 +17160,8 @@
   "e:女子买一等座却只能站着平台无补偿": "女子买一等座却只能站着平台无补偿",
   "e:上班摸鱼的最高境界": "上班摸鱼的最高境界",
   "e:亚洲杯官宣延期": "亚洲杯官宣延期",
-  "e:肖战让姜妍少看点成功学吧": "肖战让姜妍少看点成功学吧"
+  "e:肖战让姜妍少看点成功学吧": "肖战让姜妍少看点成功学吧",
+  "e:主动脉夹层被称为死亡的天花板": "主动脉夹层被称为死亡的天花板"
  },
  "a_seen": {
   "fujifilmtoboosttapeproduction5xabacc9d18": {
@@ -17323,9 +17312,9 @@
    "key": "qwen3827bonmylaptopcaninterpretmodelweightstoo",
    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
    "rating": "A",
-   "score": 76.5,
-   "angle": "从技术门槛降低视角切入，探讨小参数模型的本地推理与可解释性突破",
-   "hook_reason": "个人笔记本跑27B模型还能解释权重，AI能力平民化冲击感强",
+   "score": 75.9,
+   "angle": "从云端垄断到本地可解释，AI普惠化的技术拐点已至",
+   "hook_reason": "消费级硬件首次实现AI模型权重可解释，打破算力迷信",
    "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
    "track": "科技",
    "breaking": true,
@@ -17335,9 +17324,9 @@
    "key": "九寨沟打人事件调解收尾并非和稀泥",
    "title": "九寨沟打人事件调解收尾并非和稀泥",
    "rating": "A",
-   "score": 43.75,
-   "angle": "深挖调解文书细节，对比类似旅游纠纷判例，看'并非和稀泥'是否有法理支撑",
-   "hook_reason": "游客权益+执法公正争议，全民共情点",
+   "score": 82.49,
+   "angle": "从官方表态切入，探讨景区管理与游客维权之间的平衡，解读",
+   "hook_reason": "九寨沟打人事件后续，官方定性引发公众对景区治理的讨论",
    "url": "https://s.weibo.com/weibo?q=九寨沟打人事件调解收尾并非和稀泥",
    "track": "社会热点",
    "breaking": true,
@@ -17347,9 +17336,9 @@
    "key": "googlewillturnoffsearchforschoolsthatrejectai",
    "title": "Google will turn off search for schools that reject AI",
    "rating": "A",
-   "score": 39.65,
-   "angle": "Google强制推AI进校园引发科技霸权争议，从教育场景看AI渗透的边界与伦理困境",
-   "hook_reason": "Google以搜索为筹码强制学校拥抱AI，科技巨头VS教育自主权正面硬刚",
+   "score": 55.91,
+   "angle": "Google以搜索服务为杠杆强制AI普及，折射科技巨头对产品生态的绝对控制力及对教育行业的强势介入",
+   "hook_reason": "Google用搜索\"绑架\"学校强制拥抱AI，巨头霸权还是AI福音？",
    "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
    "track": "科技",
    "breaking": true,
@@ -17369,5 +17358,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
