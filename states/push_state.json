@@ -14984,6 +14984,19 @@
    "breaking": true,
    "event_id": "e:3m承诺在九年内支付735亿美元以了结与pfas相关的索赔",
    "batch_window": 7
+  },
+  {
+   "key": "曝有短剧制片人找白小纯青稚演短剧",
+   "title": "曝有短剧制片人找白小纯青稚演短剧",
+   "rating": "A",
+   "score": 78.55,
+   "angle": "短剧风口持续升级，头部声优入局标志行业专业化程度再上台阶，分析其对传统配音产业的冲击与机遇",
+   "hook_reason": "配音顶流跨界短剧，传统声优VS新兴爽剧的行业冲击",
+   "url": "https://s.weibo.com/weibo?q=曝有短剧制片人找白小纯青稚演短剧",
+   "track": "行业趋势",
+   "breaking": true,
+   "event_id": "e:曝有短剧制片人找白小纯青稚演短剧",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -17409,6 +17422,18 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:3m承诺在九年内支付735亿美元以了结与pfas相关的索赔"
+  },
+  "曝有短剧制片人找白小纯青稚演短剧": {
+   "key": "曝有短剧制片人找白小纯青稚演短剧",
+   "title": "曝有短剧制片人找白小纯青稚演短剧",
+   "rating": "A",
+   "score": 78.55,
+   "angle": "短剧风口持续升级，头部声优入局标志行业专业化程度再上台阶，分析其对传统配音产业的冲击与机遇",
+   "hook_reason": "配音顶流跨界短剧，传统声优VS新兴爽剧的行业冲击",
+   "url": "https://s.weibo.com/weibo?q=曝有短剧制片人找白小纯青稚演短剧",
+   "track": "行业趋势",
+   "breaking": true,
+   "event_id": "e:曝有短剧制片人找白小纯青稚演短剧"
   }
  },
  "breaking_count": 10,
