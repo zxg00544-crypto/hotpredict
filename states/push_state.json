@@ -14427,19 +14427,6 @@
    "batch_window": 12
   },
   {
-   "key": "a股羊字辈大面积涨停",
-   "title": "A股“羊”字辈大面积涨停",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从A股'羊'字辈涨停现象切入，解读A股玄学炒作规律与散户博弈心理，提示理性投资陷阱",
-   "hook_reason": "股市玄学炒作引全民吃瓜，散户既好奇又想避坑",
-   "url": "https://www.toutiao.com/trending/7703768520798241290/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:a股羊字辈大面积涨停",
-   "batch_window": 13
-  },
-  {
    "key": "九寨沟打人事件双方都有责任",
    "title": "九寨沟打人事件双方都有责任",
    "rating": "A",
@@ -14477,6 +14464,71 @@
    "breaking": true,
    "event_id": "e:中际旭创a股跌破500元整数关口现跌超9",
    "batch_window": 13
+  },
+  {
+   "key": "李佳琦直播间半小时售出2万亿tokenaitoken会成为未来直播带货的热销品吗",
+   "title": "李佳琦直播间半小时售出 2 万亿 Token，AI Token 会成为未来直播带货的热销品吗？",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "AI Token成直播带货新商品？探讨技术普及的商业化新路径",
+   "hook_reason": "李佳琦卖AI Token，直播带货+AI双热点碰撞，脑洞大开",
+   "url": "https://www.zhihu.com/question/2100704253669069587",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:李佳琦直播间半小时售出2万亿tokenaitoken会成为未来直播带货的热销品吗",
+   "batch_window": 14
+  },
+  {
+   "key": "a股半导体cpo集体大跌",
+   "title": "A股半导体CPO集体大跌",
+   "rating": "A",
+   "score": 45.2,
+   "angle": "从CPO概念暴涨后的回调切入，分析半导体板块资金流向，警示追高风险",
+   "hook_reason": "A股突发暴跌，股民最关心的财富话题，紧迫感强",
+   "url": "https://s.weibo.com/weibo?q=A股半导体CPO集体大跌",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股半导体cpo集体大跌",
+   "batch_window": 14
+  },
+  {
+   "key": "a股羊字辈集体涨停",
+   "title": "A股羊字辈集体涨停",
+   "rating": "A",
+   "score": 44.5,
+   "angle": "从\"生肖玄学\"切入，写股市投机文化背后的群体心理",
+   "hook_reason": "玄学炒股？A股\"羊字辈\"集体涨停，股民笑疯",
+   "url": "https://s.weibo.com/weibo?q=A股羊字辈集体涨停",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股羊字辈集体涨停",
+   "batch_window": 14
+  },
+  {
+   "key": "警方介入九寨沟打人事件",
+   "title": "警方介入九寨沟打人事件",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从景区安全监管漏洞、游客文明素质、警方快速响应三个维度切入，引发公众对旅游安全与规则意识的讨论",
+   "hook_reason": "警方紧急介入！九寨沟暴力事件引爆全网愤怒与关注",
+   "url": "https://www.toutiao.com/trending/7703623342925938751/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:警方介入九寨沟打人事件",
+   "batch_window": 14
+  },
+  {
+   "key": "女作家称ai写书赚百万美元",
+   "title": "女作家称AI写书赚百万美元",
+   "rating": "A",
+   "score": 43.65,
+   "angle": "从AI创作产业化角度切入，探讨普通写作者如何借AI实现财富自由",
+   "hook_reason": "AI写书赚百万颠覆传统创作认知，创作者群体强烈关注",
+   "url": "https://s.weibo.com/weibo?q=女作家称AI写书赚百万美元",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:女作家称ai写书赚百万美元",
+   "batch_window": 14
   }
  ],
  "pushed": [
@@ -15572,7 +15624,8 @@
   "国际油价大幅下跌",
   "多读书真的会影响三观",
   "高校通报有人男扮女装进女生宿舍",
-  "男子被拐30余年认亲后拉黑养家断联"
+  "男子被拐30余年认亲后拉黑养家断联",
+  "a股羊字辈大面积涨停"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -16604,7 +16657,8 @@
   "e:国际油价大幅下跌": "国际油价大幅下跌",
   "e:多读书真的会影响三观": "多读书真的会影响三观",
   "e:高校通报有人男扮女装进女生宿舍": "高校通报有人男扮女装进女生宿舍",
-  "e:男子被拐30余年认亲后拉黑养家断联": "男子被拐30余年认亲后拉黑养家断联"
+  "e:男子被拐30余年认亲后拉黑养家断联": "男子被拐30余年认亲后拉黑养家断联",
+  "e:a股羊字辈大面积涨停": "A股“羊”字辈大面积涨停"
  },
  "a_seen": {
   "新娘退场摔倒新郎还在沉浸式撒娃娃": {
@@ -17188,14 +17242,74 @@
    "title": "警方介入九寨沟打人事件",
    "rating": "A",
    "score": 46.95,
-   "angle": "聚焦景区治安管理漏洞与游客维权困境，解读警方介入的监管信号",
-   "hook_reason": "景区暴力冲突警方介入，旅游安全引全民担忧",
+   "angle": "从景区安全监管漏洞、游客文明素质、警方快速响应三个维度切入，引发公众对旅游安全与规则意识的讨论",
+   "hook_reason": "警方紧急介入！九寨沟暴力事件引爆全网愤怒与关注",
    "url": "https://www.toutiao.com/trending/7703623342925938751/",
    "track": "社会热点",
    "breaking": true,
-   "event_id": "e:九寨沟打人事件双方都有责任"
+   "event_id": "e:警方介入九寨沟打人事件"
+  },
+  "李佳琦直播间半小时售出2万亿tokenaitoken会成为未来直播带货的热销品吗": {
+   "key": "李佳琦直播间半小时售出2万亿tokenaitoken会成为未来直播带货的热销品吗",
+   "title": "李佳琦直播间半小时售出 2 万亿 Token，AI Token 会成为未来直播带货的热销品吗？",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "AI Token成直播带货新商品？探讨技术普及的商业化新路径",
+   "hook_reason": "李佳琦卖AI Token，直播带货+AI双热点碰撞，脑洞大开",
+   "url": "https://www.zhihu.com/question/2100704253669069587",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:李佳琦直播间半小时售出2万亿tokenaitoken会成为未来直播带货的热销品吗"
+  },
+  "湖南烈士公园回应女生穿和服拍照": {
+   "key": "湖南烈士公园回应女生穿和服拍照",
+   "title": "湖南烈士公园回应女生穿和服拍照",
+   "rating": "A",
+   "score": 78.36,
+   "angle": "公园回应的尺度拿捏与公众情绪边界的平衡术，探讨",
+   "hook_reason": "烈士公园+和服+官方回应，三重敏感叠加，民族情绪极易引爆",
+   "url": "https://s.weibo.com/weibo?q=湖南烈士公园回应女生穿和服拍照",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:长沙烈士公园穿和服带武士刀拍照"
+  },
+  "a股半导体cpo集体大跌": {
+   "key": "a股半导体cpo集体大跌",
+   "title": "A股半导体CPO集体大跌",
+   "rating": "A",
+   "score": 45.2,
+   "angle": "从CPO概念暴涨后的回调切入，分析半导体板块资金流向，警示追高风险",
+   "hook_reason": "A股突发暴跌，股民最关心的财富话题，紧迫感强",
+   "url": "https://s.weibo.com/weibo?q=A股半导体CPO集体大跌",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股半导体cpo集体大跌"
+  },
+  "a股羊字辈集体涨停": {
+   "key": "a股羊字辈集体涨停",
+   "title": "A股羊字辈集体涨停",
+   "rating": "A",
+   "score": 44.5,
+   "angle": "从\"生肖玄学\"切入，写股市投机文化背后的群体心理",
+   "hook_reason": "玄学炒股？A股\"羊字辈\"集体涨停，股民笑疯",
+   "url": "https://s.weibo.com/weibo?q=A股羊字辈集体涨停",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股羊字辈集体涨停"
+  },
+  "女作家称ai写书赚百万美元": {
+   "key": "女作家称ai写书赚百万美元",
+   "title": "女作家称AI写书赚百万美元",
+   "rating": "A",
+   "score": 43.65,
+   "angle": "从AI创作产业化角度切入，探讨普通写作者如何借AI实现财富自由",
+   "hook_reason": "AI写书赚百万颠覆传统创作认知，创作者群体强烈关注",
+   "url": "https://s.weibo.com/weibo?q=女作家称AI写书赚百万美元",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:女作家称ai写书赚百万美元"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 13
+ "a_pushed_window": 14
 }
