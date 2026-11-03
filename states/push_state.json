@@ -14635,19 +14635,6 @@
    "batch_window": 17
   },
   {
-   "key": "deepseek崩了",
-   "title": "DeepSeek崩了",
-   "rating": "A",
-   "score": 97.5,
-   "angle": "DeepSeek大规模宕机事件追踪：宕机原因、用户数据影响、国产AI基础设施可靠性拷问",
-   "hook_reason": "国产AI顶流DeepSeek突发宕机，全民关注国产AI稳定性底线",
-   "url": "https://s.weibo.com/weibo?q=DeepSeek崩了",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:deepseek崩了",
-   "batch_window": 18
-  },
-  {
    "key": "男子用超400万个账号薅羊毛获刑三年",
    "title": "男子用超400万个账号薅羊毛获刑三年",
    "rating": "A",
@@ -14698,6 +14685,45 @@
    "breaking": true,
    "event_id": "e:九寨沟打人伤情够轻伤吗",
    "batch_window": 18
+  },
+  {
+   "key": "长鑫科技寒武纪发声",
+   "title": "长鑫科技、寒武纪发声",
+   "rating": "A",
+   "score": 81.94,
+   "angle": "从长鑫存储+寒武纪双巨头联动切入，解读国产AI芯片链战略协同信号",
+   "hook_reason": "国产芯片两大巨头同步发声，科技自主可控再掀波澜",
+   "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E3%80%81%E5%AF%92%E6%AD%A6%E7%BA%AA%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:长鑫科技寒武纪发声",
+   "batch_window": 19
+  },
+  {
+   "key": "花了一等座的钱全程却只能站着",
+   "title": "花了一等座的钱 全程却只能站着",
+   "rating": "A",
+   "score": 88.5,
+   "angle": "从消费者权益切入，质疑高价低配服务合理性，引发打工人/出差族身份共鸣",
+   "hook_reason": "一等座钱买站票，消费者踩坑引共鸣，权益保障话题天然带流量",
+   "url": "https://s.weibo.com/weibo?q=花了一等座的钱 全程却只能站着",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:花了一等座的钱全程却只能站着",
+   "batch_window": 19
+  },
+  {
+   "key": "胡锡进说a股救市关键时刻美股作妖",
+   "title": "胡锡进说A股救市关键时刻美股作妖",
+   "rating": "A",
+   "score": 43.15,
+   "angle": "解构胡锡进此番表态的舆论指向与A股投资者情绪传导路径",
+   "hook_reason": "胡锡进发声A股+中美股市共振，金融读者必点",
+   "url": "https://s.weibo.com/weibo?q=胡锡进说A股救市关键时刻美股作妖",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:胡锡进说a股救市关键时刻美股作妖",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -15798,7 +15824,8 @@
   "九寨沟打人事件双方都有责任",
   "央视点赞沃尔沃大庆工厂",
   "中国不申办2036年奥运会",
-  "刘延东同志遗体在京火化"
+  "刘延东同志遗体在京火化",
+  "deepseek崩了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -16835,7 +16862,8 @@
   "e:九寨沟打人事件双方都有责任": "九寨沟打人事件双方都有责任",
   "e:央视点赞沃尔沃大庆工厂": "央视点赞沃尔沃大庆工厂",
   "e:中国不申办2036年奥运会": "中国不申办2036年奥运会",
-  "e:刘延东同志遗体在京火化": "刘延东同志遗体在京火化"
+  "e:刘延东同志遗体在京火化": "刘延东同志遗体在京火化",
+  "e:deepseek崩了": "DeepSeek崩了"
  },
  "a_seen": {
   "新娘退场摔倒新郎还在沉浸式撒娃娃": {
@@ -17658,13 +17686,13 @@
    "key": "deepseek崩了",
    "title": "DeepSeek崩了",
    "rating": "A",
-   "score": 97.5,
-   "angle": "DeepSeek大规模宕机事件追踪：宕机原因、用户数据影响、国产AI基础设施可靠性拷问",
-   "hook_reason": "国产AI顶流DeepSeek突发宕机，全民关注国产AI稳定性底线",
+   "score": 79.1,
+   "angle": "拆解DeepSeek宕机事件的技术原因、服务恢复进度及对国产AI生态的影响，结合高可用架构分析",
+   "hook_reason": "DeepSeek服务宕机直接影响上亿用户，技术故障+国产AI焦虑双重刺激点击",
    "url": "https://s.weibo.com/weibo?q=DeepSeek崩了",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:deepseek崩了"
+   "event_id": "e:10月15日deepseek网页和app显示服务器暂时不可用可能是哪些原因导致的"
   },
   "男子用超400万个账号薅羊毛获刑三年": {
    "key": "男子用超400万个账号薅羊毛获刑三年",
@@ -17694,15 +17722,51 @@
    "key": "清华女生研一生娃寒假坐月子",
    "title": "清华女生研一生娃寒假坐月子",
    "rating": "A",
-   "score": 90.5,
-   "angle": "从清华研究生身份切入，探讨高学历女性人生选择自由与舆论压力",
-   "hook_reason": "清华女生研一生娃，精英教育与个人选择的冲突引爆讨论",
+   "score": 82.0,
+   "angle": "从高校生育政策缺口、女性学者职业困境切入，引发读者对自身处境的情感共鸣",
+   "hook_reason": "清华女生+研一生娃+寒假坐月子，三重标签叠加引爆公众对高学历女性生育选择的讨论",
    "url": "https://s.weibo.com/weibo?q=清华女生研一生娃寒假坐月子",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:清华女生研一生娃寒假坐月子"
+  },
+  "长鑫科技寒武纪发声": {
+   "key": "长鑫科技寒武纪发声",
+   "title": "长鑫科技、寒武纪发声",
+   "rating": "A",
+   "score": 81.94,
+   "angle": "从长鑫存储+寒武纪双巨头联动切入，解读国产AI芯片链战略协同信号",
+   "hook_reason": "国产芯片两大巨头同步发声，科技自主可控再掀波澜",
+   "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E3%80%81%E5%AF%92%E6%AD%A6%E7%BA%AA%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:长鑫科技寒武纪发声"
+  },
+  "花了一等座的钱全程却只能站着": {
+   "key": "花了一等座的钱全程却只能站着",
+   "title": "花了一等座的钱 全程却只能站着",
+   "rating": "A",
+   "score": 88.5,
+   "angle": "从消费者权益切入，质疑高价低配服务合理性，引发打工人/出差族身份共鸣",
+   "hook_reason": "一等座钱买站票，消费者踩坑引共鸣，权益保障话题天然带流量",
+   "url": "https://s.weibo.com/weibo?q=花了一等座的钱 全程却只能站着",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:花了一等座的钱全程却只能站着"
+  },
+  "胡锡进说a股救市关键时刻美股作妖": {
+   "key": "胡锡进说a股救市关键时刻美股作妖",
+   "title": "胡锡进说A股救市关键时刻美股作妖",
+   "rating": "A",
+   "score": 43.15,
+   "angle": "解构胡锡进此番表态的舆论指向与A股投资者情绪传导路径",
+   "hook_reason": "胡锡进发声A股+中美股市共振，金融读者必点",
+   "url": "https://s.weibo.com/weibo?q=胡锡进说A股救市关键时刻美股作妖",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:胡锡进说a股救市关键时刻美股作妖"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
