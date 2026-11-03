@@ -14635,19 +14635,6 @@
    "batch_window": 17
   },
   {
-   "key": "男子用超400万个账号薅羊毛获刑三年",
-   "title": "男子用超400万个账号薅羊毛获刑三年",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从个案延伸：薅羊毛是否涉嫌违法？平台漏洞谁担责？普通人的灰色地带",
-   "hook_reason": "400万账号薅羊毛获刑三年，普通人薅羊毛边界在哪？",
-   "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E8%B6%85400%E4%B8%87%E4%B8%AA%E8%B4%A6%E5%8F%B7%E8%96%85%E7%BE%8A%E6%AF%9B%E8%8E%B7%E5%88%91%E4%B8%89%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:男子用超400万个账号薅羊毛获刑三年",
-   "batch_window": 18
-  },
-  {
    "key": "当你想在网上吵架的时候想想这张图",
    "title": "当你想在网上吵架的时候想想这张图",
    "rating": "A",
@@ -14724,6 +14711,71 @@
    "breaking": true,
    "event_id": "e:胡锡进说a股救市关键时刻美股作妖",
    "batch_window": 19
+  },
+  {
+   "key": "清华研究生怀孕怕被退学获导师支持",
+   "title": "清华研究生怀孕怕被退学获导师支持",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "从高校生育政策变革切入，解读导师支持背后的制度松绑与社会观念转变",
+   "hook_reason": "清华导师挺学生怀孕不退学，击中学籍政策与女性权益痛点",
+   "url": "https://s.weibo.com/weibo?q=清华研究生怀孕怕被退学获导师支持",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:清华研究生怀孕怕被退学获导师支持",
+   "batch_window": 20
+  },
+  {
+   "key": "ai泡沫或让人先丢积蓄再丢工作",
+   "title": "AI泡沫或让人先丢积蓄再丢工作",
+   "rating": "A",
+   "score": 51.17,
+   "angle": "从普通打工人视角切入，AI泡沫下普通人如何守护积蓄与职业安全",
+   "hook_reason": "AI威胁+钱袋饭碗双重焦虑，击中全民痛点",
+   "url": "https://s.weibo.com/weibo?q=AI泡沫或让人先丢积蓄再丢工作",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:ai泡沫或让人先丢积蓄再丢工作",
+   "batch_window": 20
+  },
+  {
+   "key": "a股下探3600点国家队买了谁",
+   "title": "A股下探3600点国家队买了谁",
+   "rating": "A",
+   "score": 43.0,
+   "angle": "国家队3600点保卫战买入清单：哪些板块/个股获资金青睐？",
+   "hook_reason": "国家队3600点抄底清单曝光，股民必看谁接盘",
+   "url": "https://s.weibo.com/weibo?q=A股下探3600点国家队买了谁",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股下探3600点国家队买了谁",
+   "batch_window": 20
+  },
+  {
+   "key": "基于deepseekharness的手机插件dshgo上线后star破4千实际体验如何",
+   "title": "基于DeepSeek Harness的手机插件 DSH Go上线后 Star 破4千，实际体验如何？",
+   "rating": "A",
+   "score": 48.64,
+   "angle": "国产AI手机插件实测深度测评，对比海外竞品，技术栈拆解",
+   "hook_reason": "DeepSeek插件DSH Go上线，4千Star+实测，国产AI应用破圈",
+   "url": "https://www.zhihu.com/question/2099981630773400745",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:基于deepseekharness的手机插件dshgo上线后star破4千实际体",
+   "batch_window": 20
+  },
+  {
+   "key": "10月新能源汽车销量榜特斯拉跌至第8",
+   "title": "10月新能源汽车销量榜：特斯拉跌至第8",
+   "rating": "A",
+   "score": 55.83,
+   "angle": "从销量排名变化切入，分析特斯拉在中国市场面临的竞争压力与新能源赛道格局重塑",
+   "hook_reason": "特斯拉跌出前五！新能源格局大洗牌",
+   "url": "https://www.baidu.com/s?wd=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:10月新能源汽车销量榜特斯拉跌至第8",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -15825,7 +15877,8 @@
   "央视点赞沃尔沃大庆工厂",
   "中国不申办2036年奥运会",
   "刘延东同志遗体在京火化",
-  "deepseek崩了"
+  "deepseek崩了",
+  "男子用超400万个账号薅羊毛获刑三年"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -16863,7 +16916,8 @@
   "e:央视点赞沃尔沃大庆工厂": "央视点赞沃尔沃大庆工厂",
   "e:中国不申办2036年奥运会": "中国不申办2036年奥运会",
   "e:刘延东同志遗体在京火化": "刘延东同志遗体在京火化",
-  "e:deepseek崩了": "DeepSeek崩了"
+  "e:deepseek崩了": "DeepSeek崩了",
+  "e:男子用超400万个账号薅羊毛获刑三年": "男子用超400万个账号薅羊毛获刑三年"
  },
  "a_seen": {
   "新娘退场摔倒新郎还在沉浸式撒娃娃": {
@@ -17765,8 +17819,80 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:胡锡进说a股救市关键时刻美股作妖"
+  },
+  "清华研究生怀孕怕被退学获导师支持": {
+   "key": "清华研究生怀孕怕被退学获导师支持",
+   "title": "清华研究生怀孕怕被退学获导师支持",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "从高校生育政策变革切入，解读导师支持背后的制度松绑与社会观念转变",
+   "hook_reason": "清华导师挺学生怀孕不退学，击中学籍政策与女性权益痛点",
+   "url": "https://s.weibo.com/weibo?q=清华研究生怀孕怕被退学获导师支持",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:清华研究生怀孕怕被退学获导师支持"
+  },
+  "ai泡沫或让人先丢积蓄再丢工作": {
+   "key": "ai泡沫或让人先丢积蓄再丢工作",
+   "title": "AI泡沫或让人先丢积蓄再丢工作",
+   "rating": "A",
+   "score": 51.17,
+   "angle": "从普通打工人视角切入，AI泡沫下普通人如何守护积蓄与职业安全",
+   "hook_reason": "AI威胁+钱袋饭碗双重焦虑，击中全民痛点",
+   "url": "https://s.weibo.com/weibo?q=AI泡沫或让人先丢积蓄再丢工作",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:ai泡沫或让人先丢积蓄再丢工作"
+  },
+  "a股下探3600点国家队买了谁": {
+   "key": "a股下探3600点国家队买了谁",
+   "title": "A股下探3600点国家队买了谁",
+   "rating": "A",
+   "score": 43.0,
+   "angle": "国家队3600点保卫战买入清单：哪些板块/个股获资金青睐？",
+   "hook_reason": "国家队3600点抄底清单曝光，股民必看谁接盘",
+   "url": "https://s.weibo.com/weibo?q=A股下探3600点国家队买了谁",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股下探3600点国家队买了谁"
+  },
+  "基于deepseekharness的手机插件dshgo上线后star破4千实际体验如何": {
+   "key": "基于deepseekharness的手机插件dshgo上线后star破4千实际体验如何",
+   "title": "基于DeepSeek Harness的手机插件 DSH Go上线后 Star 破4千，实际体验如何？",
+   "rating": "A",
+   "score": 48.64,
+   "angle": "国产AI手机插件实测深度测评，对比海外竞品，技术栈拆解",
+   "hook_reason": "DeepSeek插件DSH Go上线，4千Star+实测，国产AI应用破圈",
+   "url": "https://www.zhihu.com/question/2099981630773400745",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:基于deepseekharness的手机插件dshgo上线后star破4千实际体"
+  },
+  "九寨沟打人事件为什么无人被拘留": {
+   "key": "九寨沟打人事件为什么无人被拘留",
+   "title": "九寨沟打人事件为什么无人被拘留",
+   "rating": "A",
+   "score": 45.0,
+   "angle": "从法律适用角度解读为何打人未拘留，对比同类案件处理差异，回应公众公平焦虑",
+   "hook_reason": "无人被拘留颠覆公众预期，直指执法公正，极易引发全民讨论",
+   "url": "https://s.weibo.com/weibo?q=九寨沟打人事件为什么无人被拘留",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:九寨沟打人事件双方都有责任"
+  },
+  "10月新能源汽车销量榜特斯拉跌至第8": {
+   "key": "10月新能源汽车销量榜特斯拉跌至第8",
+   "title": "10月新能源汽车销量榜：特斯拉跌至第8",
+   "rating": "A",
+   "score": 55.83,
+   "angle": "从销量排名变化切入，分析特斯拉在中国市场面临的竞争压力与新能源赛道格局重塑",
+   "hook_reason": "特斯拉跌出前五！新能源格局大洗牌",
+   "url": "https://www.baidu.com/s?wd=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:10月新能源汽车销量榜特斯拉跌至第8"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
