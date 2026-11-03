@@ -14622,19 +14622,6 @@
    "batch_window": 17
   },
   {
-   "key": "当你想在网上吵架的时候想想这张图",
-   "title": "当你想在网上吵架的时候想想这张图",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "从网络暴力现象切入，探讨网友情绪宣泄的心理机制与社会效应，引导理性发声",
-   "hook_reason": "全民网民均有共鸣，情绪话题自带传播力",
-   "url": "https://s.weibo.com/weibo?q=当你想在网上吵架的时候想想这张图",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:当你想在网上吵架的时候想想这张图",
-   "batch_window": 18
-  },
-  {
    "key": "清华女生研一生娃寒假坐月子",
    "title": "清华女生研一生娃寒假坐月子",
    "rating": "A",
@@ -14802,6 +14789,58 @@
    "breaking": true,
    "event_id": "e:沙特阿拉伯称2026年第三季度石油收入下降23至1165亿里亚尔",
    "batch_window": 21
+  },
+  {
+   "key": "女子买一等座却只能站着平台无补偿",
+   "title": "女子买一等座却只能站着平台无补偿",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从消费者视角切入，揭示购票承诺与实际体验的落差，推动平台补偿机制透明化",
+   "hook_reason": "高价票却站着、维权无门，直击普通人出行痛点",
+   "url": "https://s.weibo.com/weibo?q=女子买一等座却只能站着平台无补偿",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子买一等座却只能站着平台无补偿",
+   "batch_window": 22
+  },
+  {
+   "key": "肖战让姜妍少看点成功学吧",
+   "title": "肖战让姜妍少看点成功学吧",
+   "rating": "A",
+   "score": 89.0,
+   "angle": "从肖战调侃姜妍切入，探讨成功学在娱乐圈的适用性与人设崩塌风险",
+   "hook_reason": "明星反差+成功学争议，吃瓜群众必点",
+   "url": "https://s.weibo.com/weibo?q=肖战让姜妍少看点成功学吧",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:肖战让姜妍少看点成功学吧",
+   "batch_window": 22
+  },
+  {
+   "key": "theastracanreadandwriteweightsto5cd953f1",
+   "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "解析Astra操作Qwen权重的技术真相，澄清误导信息",
+   "hook_reason": "AI圈技术争议+辟谣，从业者必看",
+   "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:theastracanreadandwriteweightstoimproveq",
+   "batch_window": 22
+  },
+  {
+   "key": "六大行一天跌去770亿市值",
+   "title": "六大行一天跌去770亿市值",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读六大行暴跌原因，分析对普通投资者影响及后市走向",
+   "hook_reason": "银行股暴跌牵动无数股民钱包",
+   "url": "https://www.baidu.com/s?wd=%E5%85%AD%E5%A4%A7%E8%A1%8C%E4%B8%80%E5%A4%A9%E8%B7%8C%E5%8E%BB770%E4%BA%BF%E5%B8%82%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:六大行一天跌去770亿市值",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -15905,7 +15944,8 @@
   "刘延东同志遗体在京火化",
   "deepseek崩了",
   "男子用超400万个账号薅羊毛获刑三年",
-  "我后悔介绍朋友做大体老师"
+  "我后悔介绍朋友做大体老师",
+  "当你想在网上吵架的时候想想这张图"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -16945,7 +16985,8 @@
   "e:刘延东同志遗体在京火化": "刘延东同志遗体在京火化",
   "e:deepseek崩了": "DeepSeek崩了",
   "e:男子用超400万个账号薅羊毛获刑三年": "男子用超400万个账号薅羊毛获刑三年",
-  "e:我后悔介绍朋友做大体老师": "我后悔介绍朋友做大体老师"
+  "e:我后悔介绍朋友做大体老师": "我后悔介绍朋友做大体老师",
+  "e:当你想在网上吵架的时候想想这张图": "当你想在网上吵架的时候想想这张图"
  },
  "a_seen": {
   "新娘退场摔倒新郎还在沉浸式撒娃娃": {
@@ -17955,8 +17996,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:沙特阿拉伯称2026年第三季度石油收入下降23至1165亿里亚尔"
+  },
+  "女子买一等座却只能站着平台无补偿": {
+   "key": "女子买一等座却只能站着平台无补偿",
+   "title": "女子买一等座却只能站着平台无补偿",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从消费者视角切入，揭示购票承诺与实际体验的落差，推动平台补偿机制透明化",
+   "hook_reason": "高价票却站着、维权无门，直击普通人出行痛点",
+   "url": "https://s.weibo.com/weibo?q=女子买一等座却只能站着平台无补偿",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子买一等座却只能站着平台无补偿"
+  },
+  "肖战让姜妍少看点成功学吧": {
+   "key": "肖战让姜妍少看点成功学吧",
+   "title": "肖战让姜妍少看点成功学吧",
+   "rating": "A",
+   "score": 89.0,
+   "angle": "从肖战调侃姜妍切入，探讨成功学在娱乐圈的适用性与人设崩塌风险",
+   "hook_reason": "明星反差+成功学争议，吃瓜群众必点",
+   "url": "https://s.weibo.com/weibo?q=肖战让姜妍少看点成功学吧",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:肖战让姜妍少看点成功学吧"
+  },
+  "theastracanreadandwriteweightsto5cd953f1": {
+   "key": "theastracanreadandwriteweightsto5cd953f1",
+   "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "解析Astra操作Qwen权重的技术真相，澄清误导信息",
+   "hook_reason": "AI圈技术争议+辟谣，从业者必看",
+   "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:theastracanreadandwriteweightstoimproveq"
+  },
+  "六大行一天跌去770亿市值": {
+   "key": "六大行一天跌去770亿市值",
+   "title": "六大行一天跌去770亿市值",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读六大行暴跌原因，分析对普通投资者影响及后市走向",
+   "hook_reason": "银行股暴跌牵动无数股民钱包",
+   "url": "https://www.baidu.com/s?wd=%E5%85%AD%E5%A4%A7%E8%A1%8C%E4%B8%80%E5%A4%A9%E8%B7%8C%E5%8E%BB770%E4%BA%BF%E5%B8%82%E5%80%BC&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:六大行一天跌去770亿市值"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
