@@ -14505,19 +14505,6 @@
    "batch_window": 15
   },
   {
-   "key": "女生赴港看演出低保被取消亲属发声",
-   "title": "女生赴港看演出低保被取消亲属发声",
-   "rating": "A",
-   "score": 88.5,
-   "angle": "政策刚性与民生关怀的冲突，折射低保认定标准的合理性探讨",
-   "hook_reason": "低保户看演出被取消资格，政策与人情的冲突引爆情绪",
-   "url": "https://s.weibo.com/weibo?q=女生赴港看演出低保被取消亲属发声",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:女生赴港看演出低保被取消亲属发声",
-   "batch_window": 16
-  },
-  {
    "key": "广电把肖战放第一位",
    "title": "广电把肖战放第一位",
    "rating": "A",
@@ -14984,6 +14971,19 @@
    "breaking": true,
    "event_id": "e:主播长得像田曦薇开直播赚了几十万",
    "batch_window": 3
+  },
+  {
+   "key": "ai零代码手写算子速度比deepseek人类手写巅峰还快98这意味着什么",
+   "title": "AI 零代码手写算子速度比 DeepSeek 人类手写巅峰还快 9.8%，这意味着什么？",
+   "rating": "A",
+   "score": 43.75,
+   "angle": "DeepSeek手写算子被AI超越，意味着什么？从零代码门槛降维看技术平权",
+   "hook_reason": "AI零代码上手比DeepSeek人类手写还快9.8%，技术民主化临界点？",
+   "url": "https://www.zhihu.com/question/2099804620293927443",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai零代码手写算子速度比deepseek人类手写巅峰还快98这意味着什么",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -16104,7 +16104,8 @@
   "上班摸鱼的最高境界",
   "亚洲杯官宣延期",
   "肖战让姜妍少看点成功学吧",
-  "主动脉夹层被称为死亡的天花板"
+  "主动脉夹层被称为死亡的天花板",
+  "女生赴港看演出低保被取消亲属发声"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17161,7 +17162,8 @@
   "e:上班摸鱼的最高境界": "上班摸鱼的最高境界",
   "e:亚洲杯官宣延期": "亚洲杯官宣延期",
   "e:肖战让姜妍少看点成功学吧": "肖战让姜妍少看点成功学吧",
-  "e:主动脉夹层被称为死亡的天花板": "主动脉夹层被称为死亡的天花板"
+  "e:主动脉夹层被称为死亡的天花板": "主动脉夹层被称为死亡的天花板",
+  "e:女生赴港看演出低保被取消亲属发声": "女生赴港看演出低保被取消亲属发声"
  },
  "a_seen": {
   "fujifilmtoboosttapeproduction5xabacc9d18": {
@@ -17355,8 +17357,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:主播长得像田曦薇开直播赚了几十万"
+  },
+  "ai零代码手写算子速度比deepseek人类手写巅峰还快98这意味着什么": {
+   "key": "ai零代码手写算子速度比deepseek人类手写巅峰还快98这意味着什么",
+   "title": "AI 零代码手写算子速度比 DeepSeek 人类手写巅峰还快 9.8%，这意味着什么？",
+   "rating": "A",
+   "score": 43.75,
+   "angle": "DeepSeek手写算子被AI超越，意味着什么？从零代码门槛降维看技术平权",
+   "hook_reason": "AI零代码上手比DeepSeek人类手写还快9.8%，技术民主化临界点？",
+   "url": "https://www.zhihu.com/question/2099804620293927443",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai零代码手写算子速度比deepseek人类手写巅峰还快98这意味着什么"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
