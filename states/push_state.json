@@ -15077,19 +15077,6 @@
    "batch_window": 10
   },
   {
-   "key": "这不是追星是犯罪",
-   "title": "这不是追星是犯罪",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从粉丝行为边界切入，探讨'爱'与'侵害'的界限，联动法律与舆论反思",
-   "hook_reason": "追星越界成犯罪，冲击价值观，引发站队争论",
-   "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%8D%E6%98%AF%E8%BF%BD%E6%98%9F%E6%98%AF%E7%8A%AF%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:这不是追星是犯罪",
-   "batch_window": 11
-  },
-  {
    "key": "气象局回应苹果天气app预报极端天气",
    "title": "气象局回应苹果天气APP预报极端天气",
    "rating": "A",
@@ -15127,6 +15114,45 @@
    "breaking": true,
    "event_id": "e:如何看待gpt6astra仅改动0016权重就让qwen35数学能力涨6倍",
    "batch_window": 11
+  },
+  {
+   "key": "黄浦江有人放生大批大闸蟹",
+   "title": "黄浦江有人放生大批大闸蟹",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从生态破坏与公众意识切入，探讨'好心办坏事'的放生现象，引发城市治理反思",
+   "hook_reason": "放生变破坏生态？黄浦江大闸蟹泛滥引争议",
+   "url": "https://www.baidu.com/s?wd=%E9%BB%84%E6%B5%A6%E6%B1%9F%E6%9C%89%E4%BA%BA%E6%94%BE%E7%94%9F%E5%A4%A7%E6%89%B9%E5%A4%A7%E9%97%B8%E8%9F%B9&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:黄浦江有人放生大批大闸蟹",
+   "batch_window": 12
+  },
+  {
+   "key": "共和党大本营选出民主党参议员",
+   "title": "共和党大本营选出民主党参议员",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从红色州蓝转切入，拆解美国政治极化下的民选逻辑与摇摆真相",
+   "hook_reason": "美国最红州破天荒选民主党，政治版图地震级反转",
+   "url": "https://www.toutiao.com/trending/7703877908032667699/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:共和党大本营选出民主党参议员",
+   "batch_window": 12
+  },
+  {
+   "key": "努力让这条母亲河越来越美",
+   "title": "“努力让这条母亲河越来越美”",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从'母亲河变美'切入，解读高层生态治理意志与地方考核挂钩的硬约束",
+   "hook_reason": "高层定调母亲河保护，生态文明政治信号极强",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8A%AA%E5%8A%9B%E8%AE%A9%E8%BF%99%E6%9D%A1%E6%AF%8D%E4%BA%B2%E6%B2%B3%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%BE%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:努力让这条母亲河越来越美",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -16254,7 +16280,8 @@
   "台湾人看红果短剧已经停不下来了",
   "高圆圆随便打扮一下就成法拉利了",
   "这轮ai行情给所有人上了一课",
-  "苹果天气bug多地零下32"
+  "苹果天气bug多地零下32",
+  "这不是追星是犯罪"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17318,7 +17345,8 @@
   "e:台湾人看红果短剧已经停不下来了": "台湾人看红果短剧已经停不下来了",
   "e:高圆圆随便打扮一下就成法拉利了": "高圆圆随便打扮一下就成法拉利了",
   "e:这轮ai行情给所有人上了一课": "这轮AI行情给所有人上了一课",
-  "e:苹果天气bug多地零下32": "苹果天气bug：多地零下32℃"
+  "e:苹果天气bug多地零下32": "苹果天气bug：多地零下32℃",
+  "e:这不是追星是犯罪": "这不是追星是犯罪"
  },
  "a_seen": {
   "fujifilmtoboosttapeproduction5xabacc9d18": {
@@ -17764,8 +17792,56 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:如何看待gpt6astra仅改动0016权重就让qwen35数学能力涨6倍"
+  },
+  "苹果手机显示13日多地气温低至30这是怎么回事是什么问题导致了这种bug": {
+   "key": "苹果手机显示13日多地气温低至30这是怎么回事是什么问题导致了这种bug",
+   "title": "苹果手机显示13日多地气温低至-30℃，这是怎么回事？是什么问题导致了这种bug？",
+   "rating": "A",
+   "score": 89.0,
+   "angle": "从iOS天气应用bug切入，分析bug原因、影响范围，结合科技圈反应和用户实际体验",
+   "hook_reason": "苹果温度bug引发吐槽，用户关切实用性和产品质量",
+   "url": "https://www.zhihu.com/question/2101126085631009295",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:苹果天气bug多地零下32"
+  },
+  "黄浦江有人放生大批大闸蟹": {
+   "key": "黄浦江有人放生大批大闸蟹",
+   "title": "黄浦江有人放生大批大闸蟹",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从生态破坏与公众意识切入，探讨'好心办坏事'的放生现象，引发城市治理反思",
+   "hook_reason": "放生变破坏生态？黄浦江大闸蟹泛滥引争议",
+   "url": "https://www.baidu.com/s?wd=%E9%BB%84%E6%B5%A6%E6%B1%9F%E6%9C%89%E4%BA%BA%E6%94%BE%E7%94%9F%E5%A4%A7%E6%89%B9%E5%A4%A7%E9%97%B8%E8%9F%B9&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:黄浦江有人放生大批大闸蟹"
+  },
+  "共和党大本营选出民主党参议员": {
+   "key": "共和党大本营选出民主党参议员",
+   "title": "共和党大本营选出民主党参议员",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从红色州蓝转切入，拆解美国政治极化下的民选逻辑与摇摆真相",
+   "hook_reason": "美国最红州破天荒选民主党，政治版图地震级反转",
+   "url": "https://www.toutiao.com/trending/7703877908032667699/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:共和党大本营选出民主党参议员"
+  },
+  "努力让这条母亲河越来越美": {
+   "key": "努力让这条母亲河越来越美",
+   "title": "“努力让这条母亲河越来越美”",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "从'母亲河变美'切入，解读高层生态治理意志与地方考核挂钩的硬约束",
+   "hook_reason": "高层定调母亲河保护，生态文明政治信号极强",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8A%AA%E5%8A%9B%E8%AE%A9%E8%BF%99%E6%9D%A1%E6%AF%8D%E4%BA%B2%E6%B2%B3%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%BE%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:努力让这条母亲河越来越美"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
