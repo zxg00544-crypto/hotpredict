@@ -15337,19 +15337,6 @@
    "batch_window": 17
   },
   {
-   "key": "截图铁证微信电子证据怎么留存",
-   "title": "截图≠铁证！微信电子证据怎么留存",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "揭秘微信电子证据正确留存方式，3个实操步骤教你自保",
-   "hook_reason": "反常识+实用痛点：截图不是铁证，人人涉及纠纷取证",
-   "url": "https://www.baidu.com/s?wd=%E6%88%AA%E5%9B%BE%E2%89%A0%E9%93%81%E8%AF%81%EF%BC%81%E5%BE%AE%E4%BF%A1%E7%94%B5%E5%AD%90%E8%AF%81%E6%8D%AE%E6%80%8E%E4%B9%88%E7%95%99%E5%AD%98&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:截图铁证微信电子证据怎么留存",
-   "batch_window": 18
-  },
-  {
    "key": "theshy遭贴脸开大",
    "title": "TheShy遭贴脸开大",
    "rating": "A",
@@ -15400,6 +15387,71 @@
    "breaking": true,
    "event_id": "e:股市大反攻亏损全补回来",
    "batch_window": 18
+  },
+  {
+   "key": "媒体人今天a股掀了两张桌子",
+   "title": "媒体人：今天A股掀了两张桌子",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解读A股异动原因、涉事方及对市场情绪影响，给出应对建议",
+   "hook_reason": "A股突发异动+\"掀桌子\"冲击表达，投资者强烈好奇",
+   "url": "https://www.toutiao.com/trending/7704248561143123497/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:媒体人今天a股掀了两张桌子",
+   "batch_window": 19
+  },
+  {
+   "key": "嫁金钗忘删ai水印了",
+   "title": "嫁金钗忘删AI水印了",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从娱乐八卦切入AI深度伪造争议，讨论创作者AI标注的法律责任与平台审核漏洞",
+   "hook_reason": "名人AI翻车+技术伦理争议，情绪拉满",
+   "url": "https://s.weibo.com/weibo?q=嫁金钗忘删AI水印了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:嫁金钗忘删ai水印了",
+   "batch_window": 19
+  },
+  {
+   "key": "贺兰山失联22岁女孩已确认死亡",
+   "title": "贺兰山失联22岁女孩已确认死亡",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从青年户外安全切入，深挖景区管理漏洞与救援机制反思",
+   "hook_reason": "22岁女孩山难离世，生命警示+救援争议双引擎引爆共情",
+   "url": "https://s.weibo.com/weibo?q=贺兰山失联22岁女孩已确认死亡",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:贺兰山失联22岁女孩已确认死亡",
+   "batch_window": 19
+  },
+  {
+   "key": "女子每月花3600住酒店上班",
+   "title": "女子每月花3600住酒店上班",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "对比传统租房与酒店办公的成本账：酒店包水电物业、灵活无押金，但长期是否真省钱？切入年轻人住房困境与新型生存策略",
+   "hook_reason": "3600住酒店上班？年轻人住房突围还是无奈妥协，戳中打工人痛点",
+   "url": "https://s.weibo.com/weibo?q=女子每月花3600住酒店上班",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子每月花3600住酒店上班",
+   "batch_window": 19
+  },
+  {
+   "key": "华为星芒英文名osta曝光",
+   "title": "华为星芒英文名OSTA曝光",
+   "rating": "A",
+   "score": 57.1,
+   "angle": "解读OSTA命名背后的品牌战略意图，对比Mate/Pura系列命名规律",
+   "hook_reason": "华为新品命名曝光，科技粉热议+品牌悬念",
+   "url": "https://s.weibo.com/weibo?q=华为星芒英文名OSTA曝光",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为星芒英文名osta曝光",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -16534,7 +16586,8 @@
   "模仿李小龙的男孩10年后长不高了",
   "作家文吉儿被指太恐怖",
   "a股收盘科创50指数大涨近10",
-  "男子出租屋轻生二房东被判赔76万"
+  "男子出租屋轻生二房东被判赔76万",
+  "截图铁证微信电子证据怎么留存"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17605,7 +17658,8 @@
   "e:模仿李小龙的男孩10年后长不高了": "模仿李小龙的男孩10年后长不高了",
   "e:作家文吉儿被指太恐怖": "作家文吉儿被指太恐怖",
   "e:a股收盘科创50指数大涨近10": "A股收盘：科创50指数大涨近10%",
-  "e:男子出租屋轻生二房东被判赔76万": "男子出租屋轻生 二房东被判赔76万"
+  "e:男子出租屋轻生二房东被判赔76万": "男子出租屋轻生 二房东被判赔76万",
+  "e:截图铁证微信电子证据怎么留存": "截图≠铁证！微信电子证据怎么留存"
  },
  "a_seen": {
   "fujifilmtoboosttapeproduction5xabacc9d18": {
@@ -18428,15 +18482,75 @@
    "key": "股市大反攻亏损全补回来",
    "title": "股市大反攻亏损全补回来",
    "rating": "A",
-   "score": 44.2,
-   "angle": "从'亏损回本'情绪切入，解读反弹逻辑与后续风险，引导读者理性看待",
-   "hook_reason": "股民共鸣极强，亏损回本直击痛点，情绪爆发点明确",
+   "score": 86.5,
+   "angle": "分析反攻成因、后续走势预判，提供实用投资策略",
+   "hook_reason": "股民共鸣强，亏损回本情绪引爆全民关注",
    "url": "https://s.weibo.com/weibo?q=股市大反攻亏损全补回来",
    "track": "财经",
    "breaking": true,
    "event_id": "e:股市大反攻亏损全补回来"
+  },
+  "媒体人今天a股掀了两张桌子": {
+   "key": "媒体人今天a股掀了两张桌子",
+   "title": "媒体人：今天A股掀了两张桌子",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解读A股异动原因、涉事方及对市场情绪影响，给出应对建议",
+   "hook_reason": "A股突发异动+\"掀桌子\"冲击表达，投资者强烈好奇",
+   "url": "https://www.toutiao.com/trending/7704248561143123497/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:媒体人今天a股掀了两张桌子"
+  },
+  "嫁金钗忘删ai水印了": {
+   "key": "嫁金钗忘删ai水印了",
+   "title": "嫁金钗忘删AI水印了",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从娱乐八卦切入AI深度伪造争议，讨论创作者AI标注的法律责任与平台审核漏洞",
+   "hook_reason": "名人AI翻车+技术伦理争议，情绪拉满",
+   "url": "https://s.weibo.com/weibo?q=嫁金钗忘删AI水印了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:嫁金钗忘删ai水印了"
+  },
+  "贺兰山失联22岁女孩已确认死亡": {
+   "key": "贺兰山失联22岁女孩已确认死亡",
+   "title": "贺兰山失联22岁女孩已确认死亡",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从青年户外安全切入，深挖景区管理漏洞与救援机制反思",
+   "hook_reason": "22岁女孩山难离世，生命警示+救援争议双引擎引爆共情",
+   "url": "https://s.weibo.com/weibo?q=贺兰山失联22岁女孩已确认死亡",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:贺兰山失联22岁女孩已确认死亡"
+  },
+  "女子每月花3600住酒店上班": {
+   "key": "女子每月花3600住酒店上班",
+   "title": "女子每月花3600住酒店上班",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "对比传统租房与酒店办公的成本账：酒店包水电物业、灵活无押金，但长期是否真省钱？切入年轻人住房困境与新型生存策略",
+   "hook_reason": "3600住酒店上班？年轻人住房突围还是无奈妥协，戳中打工人痛点",
+   "url": "https://s.weibo.com/weibo?q=女子每月花3600住酒店上班",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子每月花3600住酒店上班"
+  },
+  "华为星芒英文名osta曝光": {
+   "key": "华为星芒英文名osta曝光",
+   "title": "华为星芒英文名OSTA曝光",
+   "rating": "A",
+   "score": 57.1,
+   "angle": "解读OSTA命名背后的品牌战略意图，对比Mate/Pura系列命名规律",
+   "hook_reason": "华为新品命名曝光，科技粉热议+品牌悬念",
+   "url": "https://s.weibo.com/weibo?q=华为星芒英文名OSTA曝光",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为星芒英文名osta曝光"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
