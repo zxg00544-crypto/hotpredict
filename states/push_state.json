@@ -15051,19 +15051,6 @@
    "batch_window": 10
   },
   {
-   "key": "气象局回应苹果天气app预报极端天气",
-   "title": "气象局回应苹果天气APP预报极端天气",
-   "rating": "A",
-   "score": 88.5,
-   "angle": "苹果天气APP预报偏差引发官方回应，探讨科技公司公共服务责任与数据权威性边界",
-   "hook_reason": "苹果天气不准？气象局正面回应，关系亿万人日常生活",
-   "url": "https://s.weibo.com/weibo?q=气象局回应苹果天气APP预报极端天气",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:苹果天气突现32",
-   "batch_window": 11
-  },
-  {
    "key": "徐艺洋原本打算将罗正礼金全部退回",
    "title": "徐艺洋原本打算将罗正礼金全部退回",
    "rating": "A",
@@ -15634,6 +15621,45 @@
    "breaking": true,
    "event_id": "e:陕西省教育厅回应延安大学教师离世",
    "batch_window": 4
+  },
+  {
+   "key": "民主党重掌美国国会意味着什么",
+   "title": "民主党重掌美国国会意味着什么",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从政策变数切入，拆解对华贸易/科技制裁的潜在影响",
+   "hook_reason": "美国政治大洗牌，中美关系走向成焦点",
+   "url": "https://s.weibo.com/weibo?q=民主党重掌美国国会意味着什么",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:民主党重掌美国国会意味着什么",
+   "batch_window": 5
+  },
+  {
+   "key": "郭宇欣将起诉叶非夜",
+   "title": "郭宇欣将起诉叶非夜",
+   "rating": "A",
+   "score": 80.45,
+   "angle": "从网文圈互撕切入，盘点创作者维权困境与平台责任",
+   "hook_reason": "作家互撕起诉，粉丝围观正义站队，情绪燃点足",
+   "url": "https://s.weibo.com/weibo?q=郭宇欣将起诉叶非夜",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:郭宇欣将起诉叶非夜",
+   "batch_window": 5
+  },
+  {
+   "key": "ripple65bpreviewusopenweightsotaonagenticcoding",
+   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "聚焦Ripple-65B开源权重+Agentic Coding双突破，对比国产同类进展，解读技术追赶态势",
+   "hook_reason": "美国开源SOTA模型突袭编程Agent赛道，国产AI竞争格局或生变",
+   "url": "https://www.ricursive.com/ripple",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ripple65bpreviewusopenweightsotaonagenti",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -16788,7 +16814,8 @@
   "theshy遭贴脸开大",
   "嫁金钗忘删ai水印了",
   "贺兰山失联22岁女孩已确认死亡",
-  "后会友期放母带"
+  "后会友期放母带",
+  "气象局回应苹果天气app预报极端天气"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17879,7 +17906,8 @@
   "e:theshy遭贴脸开大": "TheShy遭贴脸开大",
   "e:嫁金钗忘删ai水印了": "嫁金钗忘删AI水印了",
   "e:贺兰山失联22岁女孩已确认死亡": "贺兰山失联22岁女孩已确认死亡",
-  "e:后会友期放母带": "后会友期 放母带"
+  "e:后会友期放母带": "后会友期 放母带",
+  "e:苹果天气突现32": "气象局回应苹果天气APP预报极端天气"
  },
  "a_seen": {
   "宝马预计汽车利润率逼近零": {
@@ -18061,8 +18089,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:陕西省教育厅回应延安大学教师离世"
+  },
+  "民主党重掌美国国会意味着什么": {
+   "key": "民主党重掌美国国会意味着什么",
+   "title": "民主党重掌美国国会意味着什么",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从政策变数切入，拆解对华贸易/科技制裁的潜在影响",
+   "hook_reason": "美国政治大洗牌，中美关系走向成焦点",
+   "url": "https://s.weibo.com/weibo?q=民主党重掌美国国会意味着什么",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:民主党重掌美国国会意味着什么"
+  },
+  "郭宇欣将起诉叶非夜": {
+   "key": "郭宇欣将起诉叶非夜",
+   "title": "郭宇欣将起诉叶非夜",
+   "rating": "A",
+   "score": 80.45,
+   "angle": "从网文圈互撕切入，盘点创作者维权困境与平台责任",
+   "hook_reason": "作家互撕起诉，粉丝围观正义站队，情绪燃点足",
+   "url": "https://s.weibo.com/weibo?q=郭宇欣将起诉叶非夜",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:郭宇欣将起诉叶非夜"
+  },
+  "ripple65bpreviewusopenweightsotaonagenticcoding": {
+   "key": "ripple65bpreviewusopenweightsotaonagenticcoding",
+   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "聚焦Ripple-65B开源权重+Agentic Coding双突破，对比国产同类进展，解读技术追赶态势",
+   "hook_reason": "美国开源SOTA模型突袭编程Agent赛道，国产AI竞争格局或生变",
+   "url": "https://www.ricursive.com/ripple",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ripple65bpreviewusopenweightsotaonagenti"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
