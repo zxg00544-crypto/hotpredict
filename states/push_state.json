@@ -15441,19 +15441,6 @@
    "batch_window": 21
   },
   {
-   "key": "后会友期放母带",
-   "title": "后会友期 放母带",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "聚焦该事件对娱乐圈及音乐产业的影响力与后续发酵方向",
-   "hook_reason": "明星突然放出母带，粉丝和音乐圈引爆讨论",
-   "url": "https://s.weibo.com/weibo?q=后会友期 放母带",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:后会友期放母带",
-   "batch_window": 22
-  },
-  {
    "key": "马斯克ai算力将100搬上太空",
    "title": "马斯克：AI算力将100%搬上太空",
    "rating": "A",
@@ -15621,6 +15608,32 @@
    "breaking": true,
    "event_id": "e:花8万坐月子产后两个月伤口还流脓",
    "batch_window": 3
+  },
+  {
+   "key": "anewgoapiforjson",
+   "title": "A New Go API for JSON",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "解析Go JSON v2与v1的性能/API差异，预判对后端工程师的实际影响",
+   "hook_reason": "Go官方突然发布JSON v2，开发者生态地震级更新",
+   "url": "https://go.dev/blog/jsonv2",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anewgoapiforjson",
+   "batch_window": 4
+  },
+  {
+   "key": "陕西省教育厅回应延安大学教师离世",
+   "title": "陕西省教育厅回应延安大学教师离世",
+   "rating": "A",
+   "score": 47.4,
+   "angle": "聚焦官方回应细节与公众关切点，梳理事件时间线，探讨高校教师权益保障机制",
+   "hook_reason": "高校教师离世+官方回应，涉及教育民生，情绪浓度高",
+   "url": "https://s.weibo.com/weibo?q=陕西省教育厅回应延安大学教师离世",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:陕西省教育厅回应延安大学教师离世",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -16774,7 +16787,8 @@
   "国会大变天特朗普剩余任期怎么办",
   "theshy遭贴脸开大",
   "嫁金钗忘删ai水印了",
-  "贺兰山失联22岁女孩已确认死亡"
+  "贺兰山失联22岁女孩已确认死亡",
+  "后会友期放母带"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17864,7 +17878,8 @@
   "e:国会大变天特朗普剩余任期怎么办": "国会大变天特朗普剩余任期怎么办",
   "e:theshy遭贴脸开大": "TheShy遭贴脸开大",
   "e:嫁金钗忘删ai水印了": "嫁金钗忘删AI水印了",
-  "e:贺兰山失联22岁女孩已确认死亡": "贺兰山失联22岁女孩已确认死亡"
+  "e:贺兰山失联22岁女孩已确认死亡": "贺兰山失联22岁女孩已确认死亡",
+  "e:后会友期放母带": "后会友期 放母带"
  },
  "a_seen": {
   "宝马预计汽车利润率逼近零": {
@@ -17991,9 +18006,9 @@
    "key": "肖战大战ai短剧的时代",
    "title": "肖战大战AI短剧的时代",
    "rating": "A",
-   "score": 44.15,
-   "angle": "从肖战入局AI短剧看娱乐行业重构，明星+AI如何颠覆传统影视商业模式",
-   "hook_reason": "顶流明星跨界AI短剧，技术颠覆娱乐行业的震撼冲击",
+   "score": 47.0,
+   "angle": "明星IP与AI内容生产的交汇，探讨娱乐圈如何应对技术变革",
+   "hook_reason": "顶流明星跨界AI短剧，引发科技与娱乐碰撞讨论",
    "url": "https://s.weibo.com/weibo?q=肖战大战AI短剧的时代",
    "track": "社会热点",
    "breaking": true,
@@ -18022,8 +18037,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:花8万坐月子产后两个月伤口还流脓"
+  },
+  "anewgoapiforjson": {
+   "key": "anewgoapiforjson",
+   "title": "A New Go API for JSON",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "解析Go JSON v2与v1的性能/API差异，预判对后端工程师的实际影响",
+   "hook_reason": "Go官方突然发布JSON v2，开发者生态地震级更新",
+   "url": "https://go.dev/blog/jsonv2",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anewgoapiforjson"
+  },
+  "陕西省教育厅回应延安大学教师离世": {
+   "key": "陕西省教育厅回应延安大学教师离世",
+   "title": "陕西省教育厅回应延安大学教师离世",
+   "rating": "A",
+   "score": 47.4,
+   "angle": "聚焦官方回应细节与公众关切点，梳理事件时间线，探讨高校教师权益保障机制",
+   "hook_reason": "高校教师离世+官方回应，涉及教育民生，情绪浓度高",
+   "url": "https://s.weibo.com/weibo?q=陕西省教育厅回应延安大学教师离世",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:陕西省教育厅回应延安大学教师离世"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
