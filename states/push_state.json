@@ -15285,19 +15285,6 @@
    "batch_window": 16
   },
   {
-   "key": "男子出租屋轻生二房东被判赔76万",
-   "title": "男子出租屋轻生 二房东被判赔76万",
-   "rating": "A",
-   "score": 98.0,
-   "angle": "从租房安全切入，探讨二房东监管漏洞与租客维权路径，引发千万租房族共鸣与转发",
-   "hook_reason": "租房族必看！二房东判赔76万，无数人曾住过的地方正在维权",
-   "url": "https://s.weibo.com/weibo?q=男子出租屋轻生二房东被判赔76万",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:男子出租屋轻生二房东被判赔76万",
-   "batch_window": 17
-  },
-  {
    "key": "国会大变天特朗普剩余任期怎么办",
    "title": "国会大变天特朗普剩余任期怎么办",
    "rating": "A",
@@ -15348,6 +15335,71 @@
    "breaking": true,
    "event_id": "e:沪深两市成交额重回2万亿",
    "batch_window": 17
+  },
+  {
+   "key": "截图铁证微信电子证据怎么留存",
+   "title": "截图≠铁证！微信电子证据怎么留存",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "揭秘微信电子证据正确留存方式，3个实操步骤教你自保",
+   "hook_reason": "反常识+实用痛点：截图不是铁证，人人涉及纠纷取证",
+   "url": "https://www.baidu.com/s?wd=%E6%88%AA%E5%9B%BE%E2%89%A0%E9%93%81%E8%AF%81%EF%BC%81%E5%BE%AE%E4%BF%A1%E7%94%B5%E5%AD%90%E8%AF%81%E6%8D%AE%E6%80%8E%E4%B9%88%E7%95%99%E5%AD%98&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:截图铁证微信电子证据怎么留存",
+   "batch_window": 18
+  },
+  {
+   "key": "theshy遭贴脸开大",
+   "title": "TheShy遭贴脸开大",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "TheShy被贴脸开大事件全复盘，电竞圈顶流人际博弈与舆论战深度解读",
+   "hook_reason": "电竞顶流TheShy正面刚！圈内互撕引爆百万吃瓜群众围观",
+   "url": "https://s.weibo.com/weibo?q=TheShy遭贴脸开大",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:theshy遭贴脸开大",
+   "batch_window": 18
+  },
+  {
+   "key": "最强厄尔尼诺将如何影响中国",
+   "title": "最强厄尔尼诺将如何影响中国",
+   "rating": "A",
+   "score": 74.33,
+   "angle": "最强厄尔尼诺历史对比+今年中国气温/农作物/水电/物价影响链拆解",
+   "hook_reason": "超强厄尔尼诺直击民生，气温/农业/水价人人相关",
+   "url": "https://search.bilibili.com/all?keyword=最强厄尔尼诺将如何影响中国",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:最强厄尔尼诺将如何影响中国",
+   "batch_window": 18
+  },
+  {
+   "key": "曝短剧顶流刘念涉嫌刑事犯罪遭调查",
+   "title": "曝短剧顶流刘念涉嫌刑事犯罪遭调查",
+   "rating": "A",
+   "score": 52.4,
+   "angle": "从顶流塌房切入，聚焦短剧行业合规红线与艺人风险治理",
+   "hook_reason": "顶流明星突涉刑事犯罪，吃瓜与行业反思双重爆点",
+   "url": "https://s.weibo.com/weibo?q=曝短剧顶流刘念涉嫌刑事犯罪遭调查",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:曝短剧顶流刘念涉嫌刑事犯罪遭调查",
+   "batch_window": 18
+  },
+  {
+   "key": "股市大反攻亏损全补回来",
+   "title": "股市大反攻亏损全补回来",
+   "rating": "A",
+   "score": 44.2,
+   "angle": "从'亏损回本'情绪切入，解读反弹逻辑与后续风险，引导读者理性看待",
+   "hook_reason": "股民共鸣极强，亏损回本直击痛点，情绪爆发点明确",
+   "url": "https://s.weibo.com/weibo?q=股市大反攻亏损全补回来",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:股市大反攻亏损全补回来",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -16481,7 +16533,8 @@
   "美媒体人称特朗普或用核武",
   "模仿李小龙的男孩10年后长不高了",
   "作家文吉儿被指太恐怖",
-  "a股收盘科创50指数大涨近10"
+  "a股收盘科创50指数大涨近10",
+  "男子出租屋轻生二房东被判赔76万"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17551,7 +17604,8 @@
   "e:美媒体人称特朗普或用核武": "美媒体人称特朗普或用核武",
   "e:模仿李小龙的男孩10年后长不高了": "模仿李小龙的男孩10年后长不高了",
   "e:作家文吉儿被指太恐怖": "作家文吉儿被指太恐怖",
-  "e:a股收盘科创50指数大涨近10": "A股收盘：科创50指数大涨近10%"
+  "e:a股收盘科创50指数大涨近10": "A股收盘：科创50指数大涨近10%",
+  "e:男子出租屋轻生二房东被判赔76万": "男子出租屋轻生 二房东被判赔76万"
  },
  "a_seen": {
   "fujifilmtoboosttapeproduction5xabacc9d18": {
@@ -18321,8 +18375,68 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:沪深两市成交额重回2万亿"
+  },
+  "截图铁证微信电子证据怎么留存": {
+   "key": "截图铁证微信电子证据怎么留存",
+   "title": "截图≠铁证！微信电子证据怎么留存",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "揭秘微信电子证据正确留存方式，3个实操步骤教你自保",
+   "hook_reason": "反常识+实用痛点：截图不是铁证，人人涉及纠纷取证",
+   "url": "https://www.baidu.com/s?wd=%E6%88%AA%E5%9B%BE%E2%89%A0%E9%93%81%E8%AF%81%EF%BC%81%E5%BE%AE%E4%BF%A1%E7%94%B5%E5%AD%90%E8%AF%81%E6%8D%AE%E6%80%8E%E4%B9%88%E7%95%99%E5%AD%98&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:截图铁证微信电子证据怎么留存"
+  },
+  "theshy遭贴脸开大": {
+   "key": "theshy遭贴脸开大",
+   "title": "TheShy遭贴脸开大",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "TheShy被贴脸开大事件全复盘，电竞圈顶流人际博弈与舆论战深度解读",
+   "hook_reason": "电竞顶流TheShy正面刚！圈内互撕引爆百万吃瓜群众围观",
+   "url": "https://s.weibo.com/weibo?q=TheShy遭贴脸开大",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:theshy遭贴脸开大"
+  },
+  "最强厄尔尼诺将如何影响中国": {
+   "key": "最强厄尔尼诺将如何影响中国",
+   "title": "最强厄尔尼诺将如何影响中国",
+   "rating": "A",
+   "score": 74.33,
+   "angle": "最强厄尔尼诺历史对比+今年中国气温/农作物/水电/物价影响链拆解",
+   "hook_reason": "超强厄尔尼诺直击民生，气温/农业/水价人人相关",
+   "url": "https://search.bilibili.com/all?keyword=最强厄尔尼诺将如何影响中国",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:最强厄尔尼诺将如何影响中国"
+  },
+  "曝短剧顶流刘念涉嫌刑事犯罪遭调查": {
+   "key": "曝短剧顶流刘念涉嫌刑事犯罪遭调查",
+   "title": "曝短剧顶流刘念涉嫌刑事犯罪遭调查",
+   "rating": "A",
+   "score": 52.4,
+   "angle": "从顶流塌房切入，聚焦短剧行业合规红线与艺人风险治理",
+   "hook_reason": "顶流明星突涉刑事犯罪，吃瓜与行业反思双重爆点",
+   "url": "https://s.weibo.com/weibo?q=曝短剧顶流刘念涉嫌刑事犯罪遭调查",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:曝短剧顶流刘念涉嫌刑事犯罪遭调查"
+  },
+  "股市大反攻亏损全补回来": {
+   "key": "股市大反攻亏损全补回来",
+   "title": "股市大反攻亏损全补回来",
+   "rating": "A",
+   "score": 44.2,
+   "angle": "从'亏损回本'情绪切入，解读反弹逻辑与后续风险，引导读者理性看待",
+   "hook_reason": "股民共鸣极强，亏损回本直击痛点，情绪爆发点明确",
+   "url": "https://s.weibo.com/weibo?q=股市大反攻亏损全补回来",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:股市大反攻亏损全补回来"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
