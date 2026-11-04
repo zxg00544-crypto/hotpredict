@@ -15311,19 +15311,6 @@
    "batch_window": 17
   },
   {
-   "key": "theshy遭贴脸开大",
-   "title": "TheShy遭贴脸开大",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "TheShy被贴脸开大事件全复盘，电竞圈顶流人际博弈与舆论战深度解读",
-   "hook_reason": "电竞顶流TheShy正面刚！圈内互撕引爆百万吃瓜群众围观",
-   "url": "https://s.weibo.com/weibo?q=TheShy遭贴脸开大",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:theshy遭贴脸开大",
-   "batch_window": 18
-  },
-  {
    "key": "最强厄尔尼诺将如何影响中国",
    "title": "最强厄尔尼诺将如何影响中国",
    "rating": "A",
@@ -15556,6 +15543,32 @@
    "breaking": true,
    "event_id": "e:老人绑有1500万元的手机不见了",
    "batch_window": 23
+  },
+  {
+   "key": "后会友期爆火ai时代情感需求",
+   "title": "后会友期爆火 AI时代情感需求",
+   "rating": "A",
+   "score": 57.1,
+   "angle": "从后会被爆火切入，剖析AI时代人们真实的情感需求与社交困境",
+   "hook_reason": "AI社交爆火折射当代人情感孤独，情绪共鸣强",
+   "url": "https://s.weibo.com/weibo?q=后会友期爆火 AI时代情感需求",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:后会友期爆火ai时代情感需求",
+   "batch_window": 1
+  },
+  {
+   "key": "马斯克财富缩水超600亿美元",
+   "title": "马斯克财富缩水超600亿美元",
+   "rating": "A",
+   "score": 43.0,
+   "angle": "深度剖析马斯财富缩水原因——Tesla/SpaceX股价波动及宏观环境影响",
+   "hook_reason": "首富马斯克一夜蒸发600亿，读者好奇原因和影响",
+   "url": "https://s.weibo.com/weibo?q=马斯克财富缩水超600亿美元",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:马斯克财富缩水超600亿美元",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -16706,7 +16719,8 @@
   "红军为什么必须过草地",
   "同学卖上海房回老家引争议",
   "许飞厉娜",
-  "国会大变天特朗普剩余任期怎么办"
+  "国会大变天特朗普剩余任期怎么办",
+  "theshy遭贴脸开大"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17793,7 +17807,8 @@
   "e:红军为什么必须过草地": "红军为什么必须过草地",
   "e:同学卖上海房回老家引争议": "同学卖上海房回老家引争议",
   "e:许飞厉娜": "许飞 厉娜",
-  "e:国会大变天特朗普剩余任期怎么办": "国会大变天特朗普剩余任期怎么办"
+  "e:国会大变天特朗普剩余任期怎么办": "国会大变天特朗普剩余任期怎么办",
+  "e:theshy遭贴脸开大": "TheShy遭贴脸开大"
  },
  "a_seen": {
   "宝马预计汽车利润率逼近零": {
@@ -17812,9 +17827,9 @@
    "key": "northkoreanfakejobinterviewledto63bbinanceheist",
    "title": "North Korean fake job interview led to $6.3B Binance heist",
    "rating": "A",
-   "score": 77.0,
-   "angle": "从国家级APT组织渗透路径拆解，分析币安内鬼漏洞与Web3安全启示",
-   "hook_reason": "朝鲜国家级黑客用假面试骗走63亿美金，币圈最震撼安全事件",
+   "score": 75.75,
+   "angle": "从技术安全角度拆解朝鲜黑客如何通过社交工程入侵交易所系统，警示Crypto行业安全隐患",
+   "hook_reason": "朝鲜黑客用假面试盗走63亿Binance，社会工程学+国家安全双重爆点",
    "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
    "track": "科技",
    "breaking": true,
@@ -17836,9 +17851,9 @@
    "key": "陕西商南刑案持刀在逃嫌犯照片曝光",
    "title": "陕西商南刑案持刀在逃嫌犯照片曝光",
    "rating": "A",
-   "score": 45.25,
-   "angle": "从公共安全视角切入，分析嫌犯特征、逃亡风险，提醒读者防范，同时关注警方通报进展",
-   "hook_reason": "持刀在逃嫌犯照片曝光，公众安全感直接触发",
+   "score": 45.1,
+   "angle": "嫌犯心理侧写+追踪难度+公众防范提示，借案件引发安全讨论",
+   "hook_reason": "持刀在逃嫌犯照片曝光，直击公众安全感神经",
    "url": "https://s.weibo.com/weibo?q=陕西商南刑案持刀在逃嫌犯照片曝光",
    "track": "社会热点",
    "breaking": true,
@@ -17848,15 +17863,39 @@
    "key": "同学卖上海房回老家引争议",
    "title": "同学卖上海房回老家引争议",
    "rating": "A",
-   "score": 44.4,
-   "angle": "从'沪漂卖房返乡'切入，探讨当代年轻人的生存焦虑与人生选择",
-   "hook_reason": "一线打拼者共鸣：卖房返乡的选择戳中无数人",
+   "score": 46.0,
+   "angle": "从房产ROI到人生价值选择的反差，探讨一线幻灭与回乡潮背后的真实账本",
+   "hook_reason": "沪漂卖房回县城的抉择，直击年轻人人生岔路口的焦虑",
    "url": "https://s.weibo.com/weibo?q=同学卖上海房回老家引争议",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:同学卖上海房回老家引争议"
+  },
+  "后会友期爆火ai时代情感需求": {
+   "key": "后会友期爆火ai时代情感需求",
+   "title": "后会友期爆火 AI时代情感需求",
+   "rating": "A",
+   "score": 57.1,
+   "angle": "从后会被爆火切入，剖析AI时代人们真实的情感需求与社交困境",
+   "hook_reason": "AI社交爆火折射当代人情感孤独，情绪共鸣强",
+   "url": "https://s.weibo.com/weibo?q=后会友期爆火 AI时代情感需求",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:后会友期爆火ai时代情感需求"
+  },
+  "马斯克财富缩水超600亿美元": {
+   "key": "马斯克财富缩水超600亿美元",
+   "title": "马斯克财富缩水超600亿美元",
+   "rating": "A",
+   "score": 43.0,
+   "angle": "深度剖析马斯财富缩水原因——Tesla/SpaceX股价波动及宏观环境影响",
+   "hook_reason": "首富马斯克一夜蒸发600亿，读者好奇原因和影响",
+   "url": "https://s.weibo.com/weibo?q=马斯克财富缩水超600亿美元",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:马斯克财富缩水超600亿美元"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 0
+ "a_pushed_window": 1
 }
