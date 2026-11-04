@@ -15623,19 +15623,6 @@
    "batch_window": 4
   },
   {
-   "key": "民主党重掌美国国会意味着什么",
-   "title": "民主党重掌美国国会意味着什么",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "从政策变数切入，拆解对华贸易/科技制裁的潜在影响",
-   "hook_reason": "美国政治大洗牌，中美关系走向成焦点",
-   "url": "https://s.weibo.com/weibo?q=民主党重掌美国国会意味着什么",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:民主党重掌美国国会意味着什么",
-   "batch_window": 5
-  },
-  {
    "key": "郭宇欣将起诉叶非夜",
    "title": "郭宇欣将起诉叶非夜",
    "rating": "A",
@@ -15686,6 +15673,32 @@
    "breaking": true,
    "event_id": "e:residentialproxiesdetectedonwhitehousene",
    "batch_window": 5
+  },
+  {
+   "key": "10月中国大宗商品价格指数同比上涨210",
+   "title": "10月中国大宗商品价格指数同比上涨21.0%",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "解读大宗商品涨幅背后逻辑，对制造业、通胀及投资布局的影响",
+   "hook_reason": "大宗价格暴涨21%，直接影响企业成本与通胀预期",
+   "url": "https://finance.sina.cn/7x24/2026-11-05/detail-inixrqen6306406.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:10月中国大宗商品价格指数同比上涨210",
+   "batch_window": 6
+  },
+  {
+   "key": "三甲医生暗示三乙是其分院",
+   "title": "三甲医生暗示三乙是其分院",
+   "rating": "A",
+   "score": 43.5,
+   "angle": "从一句'分院'调侃切入，深挖中国医院等级制度背后的资源马太效应与医生身份焦虑",
+   "hook_reason": "三甲医生炫富式言论引爆医疗体系鄙视链，戳中普通人看病痛点",
+   "url": "https://s.weibo.com/weibo?q=三甲医生暗示三乙是其分院",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:三甲医生暗示三乙是其分院",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -16841,7 +16854,8 @@
   "嫁金钗忘删ai水印了",
   "贺兰山失联22岁女孩已确认死亡",
   "后会友期放母带",
-  "气象局回应苹果天气app预报极端天气"
+  "气象局回应苹果天气app预报极端天气",
+  "民主党重掌美国国会意味着什么"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17933,7 +17947,8 @@
   "e:嫁金钗忘删ai水印了": "嫁金钗忘删AI水印了",
   "e:贺兰山失联22岁女孩已确认死亡": "贺兰山失联22岁女孩已确认死亡",
   "e:后会友期放母带": "后会友期 放母带",
-  "e:苹果天气突现32": "气象局回应苹果天气APP预报极端天气"
+  "e:苹果天气突现32": "气象局回应苹果天气APP预报极端天气",
+  "e:民主党重掌美国国会意味着什么": "民主党重掌美国国会意味着什么"
  },
  "a_seen": {
   "宝马预计汽车利润率逼近零": {
@@ -18175,8 +18190,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:residentialproxiesdetectedonwhitehousene"
+  },
+  "10月中国大宗商品价格指数同比上涨210": {
+   "key": "10月中国大宗商品价格指数同比上涨210",
+   "title": "10月中国大宗商品价格指数同比上涨21.0%",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "解读大宗商品涨幅背后逻辑，对制造业、通胀及投资布局的影响",
+   "hook_reason": "大宗价格暴涨21%，直接影响企业成本与通胀预期",
+   "url": "https://finance.sina.cn/7x24/2026-11-05/detail-inixrqen6306406.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:10月中国大宗商品价格指数同比上涨210"
+  },
+  "三甲医生暗示三乙是其分院": {
+   "key": "三甲医生暗示三乙是其分院",
+   "title": "三甲医生暗示三乙是其分院",
+   "rating": "A",
+   "score": 43.5,
+   "angle": "从一句'分院'调侃切入，深挖中国医院等级制度背后的资源马太效应与医生身份焦虑",
+   "hook_reason": "三甲医生炫富式言论引爆医疗体系鄙视链，戳中普通人看病痛点",
+   "url": "https://s.weibo.com/weibo?q=三甲医生暗示三乙是其分院",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:三甲医生暗示三乙是其分院"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
