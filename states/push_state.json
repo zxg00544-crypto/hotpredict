@@ -14973,19 +14973,6 @@
    "batch_window": 7
   },
   {
-   "key": "这轮ai行情给所有人上了一课",
-   "title": "这轮AI行情给所有人上了一课",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从普通投资者/从业者视角复盘这轮AI热潮的踩坑与教训，拆解哪些是被收割的韭菜，哪些策略仍有价值",
-   "hook_reason": "AI行情暴雷后集体反思，每个参与者都想知道自己错在哪、谁又被割了韭菜",
-   "url": "https://www.toutiao.com/trending/7703963314325294655/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:这轮ai行情给所有人上了一课",
-   "batch_window": 9
-  },
-  {
    "key": "ustechgiantshiddenaidebtswells90to32tin6months",
    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
    "rating": "A",
@@ -15062,6 +15049,45 @@
    "breaking": true,
    "event_id": "e:亚洲首富又换人",
    "batch_window": 9
+  },
+  {
+   "key": "模仿李小龙的男孩10年后长不高了",
+   "title": "模仿李小龙的男孩10年后长不高了",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从育儿角度切入，科普模仿行为对孩子身心的潜在伤害，结合医生建议辟谣或警示",
+   "hook_reason": "家长最怕的坑！孩子模仿偶像真的会矮？",
+   "url": "https://s.weibo.com/weibo?q=模仿李小龙的男孩10年后长不高了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:模仿李小龙的男孩10年后长不高了",
+   "batch_window": 10
+  },
+  {
+   "key": "广州规定房东不得加收水电费",
+   "title": "广州规定房东不得加收水电费",
+   "rating": "A",
+   "score": 57.3,
+   "angle": "从政策细节切入，算清水电加价账，直击千万租客痛点，引发共鸣",
+   "hook_reason": "房租刺客终结？广州房东加收水电新规引发千万租客关注",
+   "url": "https://s.weibo.com/weibo?q=广州规定房东不得加收水电费",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:广州规定房东不得加收水电费",
+   "batch_window": 10
+  },
+  {
+   "key": "二胎一般不会抑郁因为世界有秩序",
+   "title": "二胎一般不会抑郁因为世界有秩序",
+   "rating": "A",
+   "score": 49.26,
+   "angle": "从心理健康视角切入，解读该观点背后的社会焦虑，引发二胎家庭共鸣讨论",
+   "hook_reason": "抑郁+二胎+育儿观念碰撞，直击家长痛点，情绪浓度高",
+   "url": "https://s.weibo.com/weibo?q=二胎一般不会抑郁因为世界有秩序",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:二胎一般不会抑郁因为世界有秩序",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -16187,7 +16213,8 @@
   "花了一等座的钱全程却只能站着",
   "女子擅自骑他人20万哈雷摩托摔车",
   "台湾人看红果短剧已经停不下来了",
-  "高圆圆随便打扮一下就成法拉利了"
+  "高圆圆随便打扮一下就成法拉利了",
+  "这轮ai行情给所有人上了一课"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17249,7 +17276,8 @@
   "e:花了一等座的钱全程却只能站着": "花了一等座的钱 全程却只能站着",
   "e:女子擅自骑他人20万哈雷摩托摔车": "女子擅自骑他人20万哈雷摩托摔车",
   "e:台湾人看红果短剧已经停不下来了": "台湾人看红果短剧已经停不下来了",
-  "e:高圆圆随便打扮一下就成法拉利了": "高圆圆随便打扮一下就成法拉利了"
+  "e:高圆圆随便打扮一下就成法拉利了": "高圆圆随便打扮一下就成法拉利了",
+  "e:这轮ai行情给所有人上了一课": "这轮AI行情给所有人上了一课"
  },
  "a_seen": {
   "fujifilmtoboosttapeproduction5xabacc9d18": {
@@ -17611,8 +17639,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:电诈园区从柬埔寨转移到马达加斯加"
+  },
+  "模仿李小龙的男孩10年后长不高了": {
+   "key": "模仿李小龙的男孩10年后长不高了",
+   "title": "模仿李小龙的男孩10年后长不高了",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从育儿角度切入，科普模仿行为对孩子身心的潜在伤害，结合医生建议辟谣或警示",
+   "hook_reason": "家长最怕的坑！孩子模仿偶像真的会矮？",
+   "url": "https://s.weibo.com/weibo?q=模仿李小龙的男孩10年后长不高了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:模仿李小龙的男孩10年后长不高了"
+  },
+  "广州规定房东不得加收水电费": {
+   "key": "广州规定房东不得加收水电费",
+   "title": "广州规定房东不得加收水电费",
+   "rating": "A",
+   "score": 57.3,
+   "angle": "从政策细节切入，算清水电加价账，直击千万租客痛点，引发共鸣",
+   "hook_reason": "房租刺客终结？广州房东加收水电新规引发千万租客关注",
+   "url": "https://s.weibo.com/weibo?q=广州规定房东不得加收水电费",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:广州规定房东不得加收水电费"
+  },
+  "二胎一般不会抑郁因为世界有秩序": {
+   "key": "二胎一般不会抑郁因为世界有秩序",
+   "title": "二胎一般不会抑郁因为世界有秩序",
+   "rating": "A",
+   "score": 49.26,
+   "angle": "从心理健康视角切入，解读该观点背后的社会焦虑，引发二胎家庭共鸣讨论",
+   "hook_reason": "抑郁+二胎+育儿观念碰撞，直击家长痛点，情绪浓度高",
+   "url": "https://s.weibo.com/weibo?q=二胎一般不会抑郁因为世界有秩序",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:二胎一般不会抑郁因为世界有秩序"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
