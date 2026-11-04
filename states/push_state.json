@@ -15389,19 +15389,6 @@
    "batch_window": 18
   },
   {
-   "key": "媒体人今天a股掀了两张桌子",
-   "title": "媒体人：今天A股掀了两张桌子",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "解读A股异动原因、涉事方及对市场情绪影响，给出应对建议",
-   "hook_reason": "A股突发异动+\"掀桌子\"冲击表达，投资者强烈好奇",
-   "url": "https://www.toutiao.com/trending/7704248561143123497/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:媒体人今天a股掀了两张桌子",
-   "batch_window": 19
-  },
-  {
    "key": "嫁金钗忘删ai水印了",
    "title": "嫁金钗忘删AI水印了",
    "rating": "A",
@@ -15452,6 +15439,19 @@
    "breaking": true,
    "event_id": "e:华为星芒英文名osta曝光",
    "batch_window": 19
+  },
+  {
+   "key": "nvidiartxsparkencryptedfirmwares96a15ccf",
+   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "Nvidia加密固件人为限制Linux推理速度，AI开发者集体破防，厂商为何要锁用户性能？",
+   "hook_reason": "英伟达加密固件锁Linux推理性能至35%，开发者暴怒",
+   "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nvidiartxsparkencryptedfirmwareslowsinfe",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -16587,7 +16587,8 @@
   "作家文吉儿被指太恐怖",
   "a股收盘科创50指数大涨近10",
   "男子出租屋轻生二房东被判赔76万",
-  "截图铁证微信电子证据怎么留存"
+  "截图铁证微信电子证据怎么留存",
+  "媒体人今天a股掀了两张桌子"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17659,7 +17660,8 @@
   "e:作家文吉儿被指太恐怖": "作家文吉儿被指太恐怖",
   "e:a股收盘科创50指数大涨近10": "A股收盘：科创50指数大涨近10%",
   "e:男子出租屋轻生二房东被判赔76万": "男子出租屋轻生 二房东被判赔76万",
-  "e:截图铁证微信电子证据怎么留存": "截图≠铁证！微信电子证据怎么留存"
+  "e:截图铁证微信电子证据怎么留存": "截图≠铁证！微信电子证据怎么留存",
+  "e:媒体人今天a股掀了两张桌子": "媒体人：今天A股掀了两张桌子"
  },
  "a_seen": {
   "fujifilmtoboosttapeproduction5xabacc9d18": {
@@ -18549,8 +18551,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:华为星芒英文名osta曝光"
+  },
+  "nvidiartxsparkencryptedfirmwares96a15ccf": {
+   "key": "nvidiartxsparkencryptedfirmwares96a15ccf",
+   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "Nvidia加密固件人为限制Linux推理速度，AI开发者集体破防，厂商为何要锁用户性能？",
+   "hook_reason": "英伟达加密固件锁Linux推理性能至35%，开发者暴怒",
+   "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nvidiartxsparkencryptedfirmwareslowsinfe"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
