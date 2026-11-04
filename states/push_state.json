@@ -15116,19 +15116,6 @@
    "batch_window": 12
   },
   {
-   "key": "作家文吉儿被指太恐怖",
-   "title": "作家文吉儿被指太恐怖",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "深挖'太恐怖'指控背后是文学争议还是舆论暴力，兼顾饭圈化阅读现象",
-   "hook_reason": "公众人物被贴标签引发身份认同争议，吃瓜与反思并存",
-   "url": "https://s.weibo.com/weibo?q=作家文吉儿被指太恐怖",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:作家文吉儿被指太恐怖",
-   "batch_window": 14
-  },
-  {
    "key": "过日子的人还是习惯用拼多多",
    "title": "过日子的人还是习惯用拼多多",
    "rating": "A",
@@ -15257,6 +15244,58 @@
    "breaking": true,
    "event_id": "e:a股科技暴力反弹",
    "batch_window": 15
+  },
+  {
+   "key": "a股收盘科创50指数大涨近10",
+   "title": "A股收盘：科创50指数大涨近10%",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解读暴涨背后的政策催化与资金逻辑，挖掘硬科技板块投资机会",
+   "hook_reason": "科创50暴涨近10%，资金疯狂涌入硬科技赛道",
+   "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E5%A4%A7%E6%B6%A8%E8%BF%9110%25&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股收盘科创50指数大涨近10",
+   "batch_window": 16
+  },
+  {
+   "key": "如何看待华为云宣布下线盘古20flashpro模型服务",
+   "title": "如何看待华为云宣布下线盘古2.0 Flash、Pro模型服务？",
+   "rating": "A",
+   "score": 71.88,
+   "angle": "从盘古2.0下线看华为AI战略转向，分析对开发者生态和国产大模型格局的影响",
+   "hook_reason": "华为大模型战略收缩，开发者/AI从业者高度关注后续影响",
+   "url": "https://www.zhihu.com/question/2100911175315763298",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何看待华为云宣布下线盘古20flashpro模型服务",
+   "batch_window": 16
+  },
+  {
+   "key": "a股暴力反弹原因",
+   "title": "A股暴力反弹原因",
+   "rating": "A",
+   "score": 45.45,
+   "angle": "独家解读反弹驱动因素，拆解主力动向与政策预期",
+   "hook_reason": "全民炒股时代，股民急于知道暴反弹背后逻辑",
+   "url": "https://s.weibo.com/weibo?q=A股暴力反弹原因",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股暴力反弹原因",
+   "batch_window": 16
+  },
+  {
+   "key": "a股史诗级大涨",
+   "title": "A股史诗级大涨",
+   "rating": "A",
+   "score": 44.65,
+   "angle": "暴涨逻辑深挖：资金流向、谁在买、政策信号与后续走势预判",
+   "hook_reason": "史诗级暴涨引发全民关注，情绪浓度高，身份相关性强",
+   "url": "https://s.weibo.com/weibo?q=A股史诗级大涨",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股史诗级大涨",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -16388,7 +16427,8 @@
   "这不是追星是犯罪",
   "黄浦江有人放生大批大闸蟹",
   "美媒体人称特朗普或用核武",
-  "模仿李小龙的男孩10年后长不高了"
+  "模仿李小龙的男孩10年后长不高了",
+  "作家文吉儿被指太恐怖"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17456,7 +17496,8 @@
   "e:这不是追星是犯罪": "这不是追星是犯罪",
   "e:黄浦江有人放生大批大闸蟹": "黄浦江有人放生大批大闸蟹",
   "e:美媒体人称特朗普或用核武": "美媒体人称特朗普或用核武",
-  "e:模仿李小龙的男孩10年后长不高了": "模仿李小龙的男孩10年后长不高了"
+  "e:模仿李小龙的男孩10年后长不高了": "模仿李小龙的男孩10年后长不高了",
+  "e:作家文吉儿被指太恐怖": "作家文吉儿被指太恐怖"
  },
  "a_seen": {
   "fujifilmtoboosttapeproduction5xabacc9d18": {
@@ -18087,11 +18128,11 @@
    "key": "马斯克474亿助选刷美国新纪录",
    "title": "马斯克4.74亿助选刷美国新纪录",
    "rating": "A",
-   "score": 45.1,
-   "angle": "从巨额政治捐赠切入，解析美国选举金主生态与马斯克影响力边界",
-   "hook_reason": "马斯克豪掷4.74亿刷新美国政治捐赠纪录，数字震撼+名人效应",
+   "score": 43.1,
+   "angle": "科技富豪如何用财富撬动政治格局？4.74亿刷新的不仅是纪录，更是政商边界",
+   "hook_reason": "马斯克天价政治捐款，科技巨头深度介入美国大选",
    "url": "https://s.weibo.com/weibo?q=马斯克4.74亿助选刷美国新纪录",
-   "track": "社会热点",
+   "track": "大咖发言",
    "breaking": true,
    "event_id": "e:马斯克474亿助选刷美国新纪录"
   },
@@ -18099,15 +18140,63 @@
    "key": "a股科技暴力反弹",
    "title": "A股科技暴力反弹",
    "rating": "A",
-   "score": 44.2,
-   "angle": "解析此次科技板块反弹的驱动逻辑，判断是政策利好、资金推动还是超跌修复，给投资者实操建议。",
-   "hook_reason": "A股科技板块暴力反弹，股民血汗钱能否翻身？",
+   "score": 43.75,
+   "angle": "分析科技股反弹逻辑，结合资金流向判断持续性，给出短线操作建议",
+   "hook_reason": "A股科技暴力反弹，是抄底机会还是诱多陷阱？",
    "url": "https://s.weibo.com/weibo?q=A股科技暴力反弹",
    "track": "财经",
    "breaking": true,
    "event_id": "e:a股科技暴力反弹"
+  },
+  "a股收盘科创50指数大涨近10": {
+   "key": "a股收盘科创50指数大涨近10",
+   "title": "A股收盘：科创50指数大涨近10%",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解读暴涨背后的政策催化与资金逻辑，挖掘硬科技板块投资机会",
+   "hook_reason": "科创50暴涨近10%，资金疯狂涌入硬科技赛道",
+   "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E5%A4%A7%E6%B6%A8%E8%BF%9110%25&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股收盘科创50指数大涨近10"
+  },
+  "如何看待华为云宣布下线盘古20flashpro模型服务": {
+   "key": "如何看待华为云宣布下线盘古20flashpro模型服务",
+   "title": "如何看待华为云宣布下线盘古2.0 Flash、Pro模型服务？",
+   "rating": "A",
+   "score": 71.88,
+   "angle": "从盘古2.0下线看华为AI战略转向，分析对开发者生态和国产大模型格局的影响",
+   "hook_reason": "华为大模型战略收缩，开发者/AI从业者高度关注后续影响",
+   "url": "https://www.zhihu.com/question/2100911175315763298",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何看待华为云宣布下线盘古20flashpro模型服务"
+  },
+  "a股暴力反弹原因": {
+   "key": "a股暴力反弹原因",
+   "title": "A股暴力反弹原因",
+   "rating": "A",
+   "score": 45.45,
+   "angle": "独家解读反弹驱动因素，拆解主力动向与政策预期",
+   "hook_reason": "全民炒股时代，股民急于知道暴反弹背后逻辑",
+   "url": "https://s.weibo.com/weibo?q=A股暴力反弹原因",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股暴力反弹原因"
+  },
+  "a股史诗级大涨": {
+   "key": "a股史诗级大涨",
+   "title": "A股史诗级大涨",
+   "rating": "A",
+   "score": 44.65,
+   "angle": "暴涨逻辑深挖：资金流向、谁在买、政策信号与后续走势预判",
+   "hook_reason": "史诗级暴涨引发全民关注，情绪浓度高，身份相关性强",
+   "url": "https://s.weibo.com/weibo?q=A股史诗级大涨",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股史诗级大涨"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 15
+ "a_pushed_window": 16
 }
