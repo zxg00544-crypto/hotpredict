@@ -15192,6 +15192,45 @@
    "breaking": true,
    "event_id": "e:distinctcellularandgeneticdifferencesinc",
    "batch_window": 14
+  },
+  {
+   "key": "国台办回应台退役金门舰转交菲律宾",
+   "title": "国台办回应台退役金门舰转交菲律宾",
+   "rating": "A",
+   "score": 88.5,
+   "angle": "拆解金门舰转交菲律宾背后的地缘博弈，解读国台办回应中的信号与底线",
+   "hook_reason": "台海局势新变数，国台办强势回应引爆民族情绪",
+   "url": "https://www.toutiao.com/trending/7704143383861805110/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:国台办回应台退役金门舰转交菲律宾",
+   "batch_window": 14
+  },
+  {
+   "key": "theshy回应s16长暂停",
+   "title": "TheShy回应S16长暂停",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "聚焦TheShy沉默背后原因及回应内容，拆解其对LPL生态的影响",
+   "hook_reason": "顶级电竞选手时隔久回应S16风波，粉丝基数大，悬念感强",
+   "url": "https://s.weibo.com/weibo?q=TheShy回应S16长暂停",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:theshy回应s16长暂停",
+   "batch_window": 14
+  },
+  {
+   "key": "厉娜的工作联系方式变了",
+   "title": "厉娜的工作联系方式变了",
+   "rating": "A",
+   "score": 74.81,
+   "angle": "深挖厉娜身份背景，联系方式变更背后的舆论动因与粉丝反应",
+   "hook_reason": "突发个人信息变动，明星/网红动态引发粉丝围观",
+   "url": "https://s.weibo.com/weibo?q=厉娜的工作联系方式变了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:厉娜的工作联系方式变了",
+   "batch_window": 14
   }
  ],
  "pushed": [
@@ -17900,9 +17939,9 @@
    "key": "作家文吉儿被指太恐怖",
    "title": "作家文吉儿被指太恐怖",
    "rating": "A",
-   "score": 90.5,
-   "angle": "深挖'太恐怖'指控背后是文学争议还是舆论暴力，兼顾饭圈化阅读现象",
-   "hook_reason": "公众人物被贴标签引发身份认同争议，吃瓜与反思并存",
+   "score": 80.25,
+   "angle": "作家形象崩塌：一句「太恐怖」如何引爆热搜？",
+   "hook_reason": "突发破圈、新词爆表、情绪浓度极高，读者必读",
    "url": "https://s.weibo.com/weibo?q=作家文吉儿被指太恐怖",
    "track": "社会热点",
    "breaking": true,
@@ -17955,6 +17994,54 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:distinctcellularandgeneticdifferencesinc"
+  },
+  "国台办回应台退役金门舰转交菲律宾": {
+   "key": "国台办回应台退役金门舰转交菲律宾",
+   "title": "国台办回应台退役金门舰转交菲律宾",
+   "rating": "A",
+   "score": 88.5,
+   "angle": "拆解金门舰转交菲律宾背后的地缘博弈，解读国台办回应中的信号与底线",
+   "hook_reason": "台海局势新变数，国台办强势回应引爆民族情绪",
+   "url": "https://www.toutiao.com/trending/7704143383861805110/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:国台办回应台退役金门舰转交菲律宾"
+  },
+  "theshy回应s16长暂停": {
+   "key": "theshy回应s16长暂停",
+   "title": "TheShy回应S16长暂停",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "聚焦TheShy沉默背后原因及回应内容，拆解其对LPL生态的影响",
+   "hook_reason": "顶级电竞选手时隔久回应S16风波，粉丝基数大，悬念感强",
+   "url": "https://s.weibo.com/weibo?q=TheShy回应S16长暂停",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:theshy回应s16长暂停"
+  },
+  "厉娜的工作联系方式变了": {
+   "key": "厉娜的工作联系方式变了",
+   "title": "厉娜的工作联系方式变了",
+   "rating": "A",
+   "score": 74.81,
+   "angle": "深挖厉娜身份背景，联系方式变更背后的舆论动因与粉丝反应",
+   "hook_reason": "突发个人信息变动，明星/网红动态引发粉丝围观",
+   "url": "https://s.weibo.com/weibo?q=厉娜的工作联系方式变了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:厉娜的工作联系方式变了"
+  },
+  "文吉儿真的是触碰艺人的大忌": {
+   "key": "文吉儿真的是触碰艺人的大忌",
+   "title": "文吉儿真的是触碰艺人的大忌",
+   "rating": "A",
+   "score": 68.99,
+   "angle": "从艺人社交边界感切入，盘点娱乐圈触碰禁忌翻车案例，引发网友对艺人言行尺度的讨论",
+   "hook_reason": "娱乐圈禁忌话题+高热度爆发，吃瓜群众必点",
+   "url": "https://s.weibo.com/weibo?q=文吉儿真的是触碰艺人的大忌",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:作家文吉儿被指太恐怖"
   }
  },
  "breaking_count": 10,
