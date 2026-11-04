@@ -15350,19 +15350,6 @@
    "batch_window": 18
   },
   {
-   "key": "贺兰山失联22岁女孩已确认死亡",
-   "title": "贺兰山失联22岁女孩已确认死亡",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "从青年户外安全切入，深挖景区管理漏洞与救援机制反思",
-   "hook_reason": "22岁女孩山难离世，生命警示+救援争议双引擎引爆共情",
-   "url": "https://s.weibo.com/weibo?q=贺兰山失联22岁女孩已确认死亡",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:贺兰山失联22岁女孩已确认死亡",
-   "batch_window": 19
-  },
-  {
    "key": "女子每月花3600住酒店上班",
    "title": "女子每月花3600住酒店上班",
    "rating": "A",
@@ -15582,6 +15569,58 @@
    "breaking": true,
    "event_id": "e:现货黄金突破4070美元盎司日内涨357",
    "batch_window": 2
+  },
+  {
+   "key": "progressonprovableinferenceforlaf37778f2",
+   "title": "Progress on provable inference for large language models",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从可验证推理技术突破解读AI安全与可靠性新里程碑，剖析对大模型产业格局的影响",
+   "hook_reason": "Anthropic重磅突破：大模型推理首次实现可验证保证，引爆AI圈",
+   "url": "https://www.anthropic.com/research/provable-inference",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:progressonprovableinferenceforlargelangu",
+   "batch_window": 3
+  },
+  {
+   "key": "肖战大战ai短剧的时代",
+   "title": "肖战大战AI短剧的时代",
+   "rating": "A",
+   "score": 44.15,
+   "angle": "从肖战入局AI短剧看娱乐行业重构，明星+AI如何颠覆传统影视商业模式",
+   "hook_reason": "顶流明星跨界AI短剧，技术颠覆娱乐行业的震撼冲击",
+   "url": "https://s.weibo.com/weibo?q=肖战大战AI短剧的时代",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:肖战大战ai短剧的时代",
+   "batch_window": 3
+  },
+  {
+   "key": "女孩说爸爸妈妈都不要我了",
+   "title": "女孩说爸爸妈妈都不要我了",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从儿童心理创伤切入，探讨家庭监护缺失的社会根源与未成年人保护机制漏洞",
+   "hook_reason": "儿童悲剧+家庭责任，触发全民保护欲和同情心",
+   "url": "https://s.weibo.com/weibo?q=女孩说爸爸妈妈都不要我了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女孩说爸爸妈妈都不要我了",
+   "batch_window": 3
+  },
+  {
+   "key": "花8万坐月子产后两个月伤口还流脓",
+   "title": "花8万坐月子产后两个月伤口还流脓",
+   "rating": "A",
+   "score": 45.95,
+   "angle": "从消费者权益与月子行业乱象切入，挖掘高价服务背后的监管缺失，引发女性群体共鸣与讨论",
+   "hook_reason": "花8万坐月子伤口却流脓，高价服务与安全危机强烈反差",
+   "url": "https://s.weibo.com/weibo?q=花8万坐月子产后两个月伤口还流脓",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:花8万坐月子产后两个月伤口还流脓",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -16734,7 +16773,8 @@
   "许飞厉娜",
   "国会大变天特朗普剩余任期怎么办",
   "theshy遭贴脸开大",
-  "嫁金钗忘删ai水印了"
+  "嫁金钗忘删ai水印了",
+  "贺兰山失联22岁女孩已确认死亡"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17823,7 +17863,8 @@
   "e:许飞厉娜": "许飞 厉娜",
   "e:国会大变天特朗普剩余任期怎么办": "国会大变天特朗普剩余任期怎么办",
   "e:theshy遭贴脸开大": "TheShy遭贴脸开大",
-  "e:嫁金钗忘删ai水印了": "嫁金钗忘删AI水印了"
+  "e:嫁金钗忘删ai水印了": "嫁金钗忘删AI水印了",
+  "e:贺兰山失联22岁女孩已确认死亡": "贺兰山失联22岁女孩已确认死亡"
  },
  "a_seen": {
   "宝马预计汽车利润率逼近零": {
@@ -17933,8 +17974,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:现货黄金突破4070美元盎司日内涨357"
+  },
+  "progressonprovableinferenceforlaf37778f2": {
+   "key": "progressonprovableinferenceforlaf37778f2",
+   "title": "Progress on provable inference for large language models",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从可验证推理技术突破解读AI安全与可靠性新里程碑，剖析对大模型产业格局的影响",
+   "hook_reason": "Anthropic重磅突破：大模型推理首次实现可验证保证，引爆AI圈",
+   "url": "https://www.anthropic.com/research/provable-inference",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:progressonprovableinferenceforlargelangu"
+  },
+  "肖战大战ai短剧的时代": {
+   "key": "肖战大战ai短剧的时代",
+   "title": "肖战大战AI短剧的时代",
+   "rating": "A",
+   "score": 44.15,
+   "angle": "从肖战入局AI短剧看娱乐行业重构，明星+AI如何颠覆传统影视商业模式",
+   "hook_reason": "顶流明星跨界AI短剧，技术颠覆娱乐行业的震撼冲击",
+   "url": "https://s.weibo.com/weibo?q=肖战大战AI短剧的时代",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:肖战大战ai短剧的时代"
+  },
+  "女孩说爸爸妈妈都不要我了": {
+   "key": "女孩说爸爸妈妈都不要我了",
+   "title": "女孩说爸爸妈妈都不要我了",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从儿童心理创伤切入，探讨家庭监护缺失的社会根源与未成年人保护机制漏洞",
+   "hook_reason": "儿童悲剧+家庭责任，触发全民保护欲和同情心",
+   "url": "https://s.weibo.com/weibo?q=女孩说爸爸妈妈都不要我了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女孩说爸爸妈妈都不要我了"
+  },
+  "花8万坐月子产后两个月伤口还流脓": {
+   "key": "花8万坐月子产后两个月伤口还流脓",
+   "title": "花8万坐月子产后两个月伤口还流脓",
+   "rating": "A",
+   "score": 45.95,
+   "angle": "从消费者权益与月子行业乱象切入，挖掘高价服务背后的监管缺失，引发女性群体共鸣与讨论",
+   "hook_reason": "花8万坐月子伤口却流脓，高价服务与安全危机强烈反差",
+   "url": "https://s.weibo.com/weibo?q=花8万坐月子产后两个月伤口还流脓",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:花8万坐月子产后两个月伤口还流脓"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
