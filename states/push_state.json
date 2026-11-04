@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "",
  "a_pending": [
   {
@@ -15116,19 +15116,6 @@
    "batch_window": 12
   },
   {
-   "key": "过日子的人还是习惯用拼多多",
-   "title": "过日子的人还是习惯用拼多多",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "从'过日子'标签切入，写拼多多如何成为务实消费者的刚需选择，折射消费理性回归",
-   "hook_reason": "拼多多下沉市场逆袭，普通人消费选择引发身份共鸣",
-   "url": "https://s.weibo.com/weibo?q=过日子的人还是习惯用拼多多",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:过日子的人还是习惯用拼多多",
-   "batch_window": 14
-  },
-  {
    "key": "小伙200多万买14套房年收租21万",
    "title": "小伙200多万买14套房年收租21万",
    "rating": "A",
@@ -15452,6 +15439,71 @@
    "breaking": true,
    "event_id": "e:nvidiartxsparkencryptedfirmwareslowsinfe",
    "batch_window": 20
+  },
+  {
+   "key": "a股这场反弹你回血了吗",
+   "title": "A股这场反弹你回血了吗",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从散户回血视角切入，盘点反弹中真正赚到钱的人群特征，引发共鸣",
+   "hook_reason": "直击股民回血痛点，情绪共鸣强",
+   "url": "https://www.toutiao.com/trending/7704276985006001727/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股这场反弹你回血了吗",
+   "batch_window": 21
+  },
+  {
+   "key": "aiisforcingustopayoff40yearsoftechnicaldebt",
+   "title": "AI is forcing us to pay off 40 years of technical debt",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "以AI发现安全漏洞切入，探讨技术债务如何被新技术重新审视，引发开发者共鸣",
+   "hook_reason": "AI竟能挖出40年技术债务？IEEE权威报道引爆HN",
+   "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:aiisforcingustopayoff40yearsoftechnicald",
+   "batch_window": 21
+  },
+  {
+   "key": "大众在华召回超58万辆汽车",
+   "title": "大众在华召回超58万辆汽车",
+   "rating": "A",
+   "score": 87.7,
+   "angle": "大众中国战略困境：召回背后的市场份额保卫战",
+   "hook_reason": "58万辆召回直击消费者利益，大众品牌市值将受冲击",
+   "url": "https://www.toutiao.com/trending/7703755640099029035/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:大众在华召回超58万辆汽车",
+   "batch_window": 21
+  },
+  {
+   "key": "内存短缺或持续到2030年",
+   "title": "内存短缺或持续到2030年",
+   "rating": "A",
+   "score": 85.5,
+   "angle": "从消费者端切入：内存缺→电子产品涨价→AI算力争夺，层层递进讲清普通人能感知的连锁反应",
+   "hook_reason": "手机电脑用户涨价焦虑+AI芯片产业链共振，全民都能感知",
+   "url": "https://s.weibo.com/weibo?q=内存短缺或持续到2030年",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:内存短缺或持续到2030年",
+   "batch_window": 21
+  },
+  {
+   "key": "2026年11月4日a股超4600只个股飘红三大指数集体大涨科创50暴涨近10怎样解读",
+   "title": "2026年11月4日A股超4600只个股飘红，三大指数集体大涨，科创50暴涨近10%，怎样解读？",
+   "rating": "A",
+   "score": 43.7,
+   "angle": "深度解读暴涨原因、资金流向、政策信号，判断是短期情绪还是趋势反转",
+   "hook_reason": "4600只个股暴涨+科创50狂飙10%，全民炒股时代回来了？",
+   "url": "https://www.zhihu.com/question/2100541228118962863",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:2026年11月4日a股超4600只个股飘红三大指数集体大涨科创50暴涨近10怎",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -16588,7 +16640,8 @@
   "a股收盘科创50指数大涨近10",
   "男子出租屋轻生二房东被判赔76万",
   "截图铁证微信电子证据怎么留存",
-  "媒体人今天a股掀了两张桌子"
+  "媒体人今天a股掀了两张桌子",
+  "过日子的人还是习惯用拼多多"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17661,7 +17714,8 @@
   "e:a股收盘科创50指数大涨近10": "A股收盘：科创50指数大涨近10%",
   "e:男子出租屋轻生二房东被判赔76万": "男子出租屋轻生 二房东被判赔76万",
   "e:截图铁证微信电子证据怎么留存": "截图≠铁证！微信电子证据怎么留存",
-  "e:媒体人今天a股掀了两张桌子": "媒体人：今天A股掀了两张桌子"
+  "e:媒体人今天a股掀了两张桌子": "媒体人：今天A股掀了两张桌子",
+  "e:过日子的人还是习惯用拼多多": "过日子的人还是习惯用拼多多"
  },
  "a_seen": {
   "fujifilmtoboosttapeproduction5xabacc9d18": {
@@ -18563,8 +18617,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:nvidiartxsparkencryptedfirmwareslowsinfe"
+  },
+  "a股这场反弹你回血了吗": {
+   "key": "a股这场反弹你回血了吗",
+   "title": "A股这场反弹你回血了吗",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从散户回血视角切入，盘点反弹中真正赚到钱的人群特征，引发共鸣",
+   "hook_reason": "直击股民回血痛点，情绪共鸣强",
+   "url": "https://www.toutiao.com/trending/7704276985006001727/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股这场反弹你回血了吗"
+  },
+  "aiisforcingustopayoff40yearsoftechnicaldebt": {
+   "key": "aiisforcingustopayoff40yearsoftechnicaldebt",
+   "title": "AI is forcing us to pay off 40 years of technical debt",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "以AI发现安全漏洞切入，探讨技术债务如何被新技术重新审视，引发开发者共鸣",
+   "hook_reason": "AI竟能挖出40年技术债务？IEEE权威报道引爆HN",
+   "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:aiisforcingustopayoff40yearsoftechnicald"
+  },
+  "大众在华召回超58万辆汽车": {
+   "key": "大众在华召回超58万辆汽车",
+   "title": "大众在华召回超58万辆汽车",
+   "rating": "A",
+   "score": 87.7,
+   "angle": "大众中国战略困境：召回背后的市场份额保卫战",
+   "hook_reason": "58万辆召回直击消费者利益，大众品牌市值将受冲击",
+   "url": "https://www.toutiao.com/trending/7703755640099029035/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:大众在华召回超58万辆汽车"
+  },
+  "内存短缺或持续到2030年": {
+   "key": "内存短缺或持续到2030年",
+   "title": "内存短缺或持续到2030年",
+   "rating": "A",
+   "score": 85.5,
+   "angle": "从消费者端切入：内存缺→电子产品涨价→AI算力争夺，层层递进讲清普通人能感知的连锁反应",
+   "hook_reason": "手机电脑用户涨价焦虑+AI芯片产业链共振，全民都能感知",
+   "url": "https://s.weibo.com/weibo?q=内存短缺或持续到2030年",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:内存短缺或持续到2030年"
+  },
+  "2026年11月4日a股超4600只个股飘红三大指数集体大涨科创50暴涨近10怎样解读": {
+   "key": "2026年11月4日a股超4600只个股飘红三大指数集体大涨科创50暴涨近10怎样解读",
+   "title": "2026年11月4日A股超4600只个股飘红，三大指数集体大涨，科创50暴涨近10%，怎样解读？",
+   "rating": "A",
+   "score": 43.7,
+   "angle": "深度解读暴涨原因、资金流向、政策信号，判断是短期情绪还是趋势反转",
+   "hook_reason": "4600只个股暴涨+科创50狂飙10%，全民炒股时代回来了？",
+   "url": "https://www.zhihu.com/question/2100541228118962863",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:2026年11月4日a股超4600只个股飘红三大指数集体大涨科创50暴涨近10怎"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
