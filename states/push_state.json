@@ -14986,19 +14986,6 @@
    "batch_window": 9
   },
   {
-   "key": "美媒体人称特朗普或用核武",
-   "title": "美媒体人称特朗普或用核武",
-   "rating": "A",
-   "score": 91.0,
-   "angle": null,
-   "hook_reason": null,
-   "url": "https://www.toutiao.com/trending/7703989043054251561/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:美媒体人称特朗普或用核武",
-   "batch_window": 9
-  },
-  {
    "key": "认知高的人一个明显信号",
    "title": "认知高的人一个明显信号",
    "rating": "A",
@@ -15140,6 +15127,71 @@
    "breaking": true,
    "event_id": "e:努力让这条母亲河越来越美",
    "batch_window": 12
+  },
+  {
+   "key": "作家文吉儿被指太恐怖",
+   "title": "作家文吉儿被指太恐怖",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "深挖'太恐怖'指控背后是文学争议还是舆论暴力，兼顾饭圈化阅读现象",
+   "hook_reason": "公众人物被贴标签引发身份认同争议，吃瓜与反思并存",
+   "url": "https://s.weibo.com/weibo?q=作家文吉儿被指太恐怖",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:作家文吉儿被指太恐怖",
+   "batch_window": 14
+  },
+  {
+   "key": "过日子的人还是习惯用拼多多",
+   "title": "过日子的人还是习惯用拼多多",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从'过日子'标签切入，写拼多多如何成为务实消费者的刚需选择，折射消费理性回归",
+   "hook_reason": "拼多多下沉市场逆袭，普通人消费选择引发身份共鸣",
+   "url": "https://s.weibo.com/weibo?q=过日子的人还是习惯用拼多多",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:过日子的人还是习惯用拼多多",
+   "batch_window": 14
+  },
+  {
+   "key": "小伙200多万买14套房年收租21万",
+   "title": "小伙200多万买14套房年收租21万",
+   "rating": "A",
+   "score": 85.5,
+   "angle": "聚焦年轻人房产焦虑，用租金收益率对比引发共鸣与讨论",
+   "hook_reason": "200万买14套房年收租21万，年轻人看完沉默了",
+   "url": "https://s.weibo.com/weibo?q=小伙200多万买14套房年收租21万",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:小伙200多万买14套房年收租21万",
+   "batch_window": 14
+  },
+  {
+   "key": "广东发文将全面落实带薪年休假并增强执行刚性释放了哪些信号最终会全国推行吗",
+   "title": "广东发文将全面落实带薪年休假并增强执行刚性，释放了哪些信号？最终会全国推行吗？",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "从打工人视角切入，解读执行刚性背后的劳动法落地难题及全国推广预期",
+   "hook_reason": "打工人年假能否落实？广东先试，全国会跟进吗",
+   "url": "https://www.zhihu.com/question/2100983027241375316",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:广东发文将全面落实带薪年休假并增强执行刚性释放了哪些信号最终会全国推行吗",
+   "batch_window": 14
+  },
+  {
+   "key": "distinctcellularandgeneticdiffer45afb616",
+   "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "从年轻人群癌症发病上升切入，探讨该研究对早筛策略和靶向治疗的潜在影响",
+   "hook_reason": "年轻患者结直肠癌发病机制被首次系统解析，颠覆传统老年病认知",
+   "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:distinctcellularandgeneticdifferencesinc",
+   "batch_window": 14
   }
  ],
  "pushed": [
@@ -16269,7 +16321,8 @@
   "这轮ai行情给所有人上了一课",
   "苹果天气bug多地零下32",
   "这不是追星是犯罪",
-  "黄浦江有人放生大批大闸蟹"
+  "黄浦江有人放生大批大闸蟹",
+  "美媒体人称特朗普或用核武"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17335,7 +17388,8 @@
   "e:这轮ai行情给所有人上了一课": "这轮AI行情给所有人上了一课",
   "e:苹果天气bug多地零下32": "苹果天气bug：多地零下32℃",
   "e:这不是追星是犯罪": "这不是追星是犯罪",
-  "e:黄浦江有人放生大批大闸蟹": "黄浦江有人放生大批大闸蟹"
+  "e:黄浦江有人放生大批大闸蟹": "黄浦江有人放生大批大闸蟹",
+  "e:美媒体人称特朗普或用核武": "美媒体人称特朗普或用核武"
  },
  "a_seen": {
   "fujifilmtoboosttapeproduction5xabacc9d18": {
@@ -17834,15 +17888,75 @@
    "key": "国台办回应两岸研讨两制台湾方案",
    "title": "国台办回应两岸研讨“两制”台湾方案",
    "rating": "A",
-   "score": 91.61,
-   "angle": "解读国台办回应背后的政策信号，分析'两制'台湾方案推进节奏与大陆立场",
-   "hook_reason": "国台办正式回应两岸统一方案，敏感话题+官方定调引爆关注",
+   "score": 83.56,
+   "angle": "解读'两制'台湾方案研讨背后的政策信号与民众关切，分析官方回应释放的缓和或立场信息",
+   "hook_reason": "两岸政策动态引全民关注，涉家国情怀与身份认同",
    "url": "https://www.toutiao.com/trending/7704135986275500051/",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:一国两制台湾方案在岛内引热议"
+  },
+  "作家文吉儿被指太恐怖": {
+   "key": "作家文吉儿被指太恐怖",
+   "title": "作家文吉儿被指太恐怖",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "深挖'太恐怖'指控背后是文学争议还是舆论暴力，兼顾饭圈化阅读现象",
+   "hook_reason": "公众人物被贴标签引发身份认同争议，吃瓜与反思并存",
+   "url": "https://s.weibo.com/weibo?q=作家文吉儿被指太恐怖",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:作家文吉儿被指太恐怖"
+  },
+  "过日子的人还是习惯用拼多多": {
+   "key": "过日子的人还是习惯用拼多多",
+   "title": "过日子的人还是习惯用拼多多",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从'过日子'标签切入，写拼多多如何成为务实消费者的刚需选择，折射消费理性回归",
+   "hook_reason": "拼多多下沉市场逆袭，普通人消费选择引发身份共鸣",
+   "url": "https://s.weibo.com/weibo?q=过日子的人还是习惯用拼多多",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:过日子的人还是习惯用拼多多"
+  },
+  "小伙200多万买14套房年收租21万": {
+   "key": "小伙200多万买14套房年收租21万",
+   "title": "小伙200多万买14套房年收租21万",
+   "rating": "A",
+   "score": 85.5,
+   "angle": "聚焦年轻人房产焦虑，用租金收益率对比引发共鸣与讨论",
+   "hook_reason": "200万买14套房年收租21万，年轻人看完沉默了",
+   "url": "https://s.weibo.com/weibo?q=小伙200多万买14套房年收租21万",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:小伙200多万买14套房年收租21万"
+  },
+  "广东发文将全面落实带薪年休假并增强执行刚性释放了哪些信号最终会全国推行吗": {
+   "key": "广东发文将全面落实带薪年休假并增强执行刚性释放了哪些信号最终会全国推行吗",
+   "title": "广东发文将全面落实带薪年休假并增强执行刚性，释放了哪些信号？最终会全国推行吗？",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "从打工人视角切入，解读执行刚性背后的劳动法落地难题及全国推广预期",
+   "hook_reason": "打工人年假能否落实？广东先试，全国会跟进吗",
+   "url": "https://www.zhihu.com/question/2100983027241375316",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:广东发文将全面落实带薪年休假并增强执行刚性释放了哪些信号最终会全国推行吗"
+  },
+  "distinctcellularandgeneticdiffer45afb616": {
+   "key": "distinctcellularandgeneticdiffer45afb616",
+   "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "从年轻人群癌症发病上升切入，探讨该研究对早筛策略和靶向治疗的潜在影响",
+   "hook_reason": "年轻患者结直肠癌发病机制被首次系统解析，颠覆传统老年病认知",
+   "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:distinctcellularandgeneticdifferencesinc"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 13
+ "a_pushed_window": 14
 }
