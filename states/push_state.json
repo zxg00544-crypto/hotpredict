@@ -14986,19 +14986,6 @@
    "batch_window": 9
   },
   {
-   "key": "苹果天气bug多地零下32",
-   "title": "苹果天气bug：多地零下32℃",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从苹果天气bug切入，盘点iOS系统历年经典bug，引发果粉共鸣与讨论",
-   "hook_reason": "苹果官方天气离谱到零下32度，用户纷纷截图吐槽，反差感强",
-   "url": "https://www.toutiao.com/trending/7704052680632598537/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:苹果天气bug多地零下32",
-   "batch_window": 9
-  },
-  {
    "key": "美媒体人称特朗普或用核武",
    "title": "美媒体人称特朗普或用核武",
    "rating": "A",
@@ -15088,6 +15075,58 @@
    "breaking": true,
    "event_id": "e:二胎一般不会抑郁因为世界有秩序",
    "batch_window": 10
+  },
+  {
+   "key": "这不是追星是犯罪",
+   "title": "这不是追星是犯罪",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从粉丝行为边界切入，探讨'爱'与'侵害'的界限，联动法律与舆论反思",
+   "hook_reason": "追星越界成犯罪，冲击价值观，引发站队争论",
+   "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%8D%E6%98%AF%E8%BF%BD%E6%98%9F%E6%98%AF%E7%8A%AF%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:这不是追星是犯罪",
+   "batch_window": 11
+  },
+  {
+   "key": "气象局回应苹果天气app预报极端天气",
+   "title": "气象局回应苹果天气APP预报极端天气",
+   "rating": "A",
+   "score": 88.5,
+   "angle": "苹果天气APP预报偏差引发官方回应，探讨科技公司公共服务责任与数据权威性边界",
+   "hook_reason": "苹果天气不准？气象局正面回应，关系亿万人日常生活",
+   "url": "https://s.weibo.com/weibo?q=气象局回应苹果天气APP预报极端天气",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:苹果天气突现32",
+   "batch_window": 11
+  },
+  {
+   "key": "徐艺洋原本打算将罗正礼金全部退回",
+   "title": "徐艺洋原本打算将罗正礼金全部退回",
+   "rating": "A",
+   "score": 71.5,
+   "angle": "从明星礼金往来切入娱乐圈人情世故与金钱边界争议",
+   "hook_reason": "明星婚礼礼金风波，娱乐圈人情暗战引爆吃瓜热情",
+   "url": "https://s.weibo.com/weibo?q=徐艺洋原本打算将罗正礼金全部退回",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:徐艺洋原本打算将罗正礼金全部退回",
+   "batch_window": 11
+  },
+  {
+   "key": "如何看待gpt6astra仅改动0016权重就让qwen35数学能力涨6倍",
+   "title": "如何看待 GPT-6 Astra 仅改动 0.016% 权重就让 Qwen3.5 数学能力涨 6 倍？",
+   "rating": "A",
+   "score": 43.4,
+   "angle": "从微小权重变化引发巨量性能跃升切入，解读这是否意味着大模型训练范式正在发生质变，普通人/行业如何借势",
+   "hook_reason": "0.016%改动撬动6倍提升，AI瓶颈或已被打破",
+   "url": "https://www.zhihu.com/question/2100892435056259459",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何看待gpt6astra仅改动0016权重就让qwen35数学能力涨6倍",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -16214,7 +16253,8 @@
   "女子擅自骑他人20万哈雷摩托摔车",
   "台湾人看红果短剧已经停不下来了",
   "高圆圆随便打扮一下就成法拉利了",
-  "这轮ai行情给所有人上了一课"
+  "这轮ai行情给所有人上了一课",
+  "苹果天气bug多地零下32"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -17277,7 +17317,8 @@
   "e:女子擅自骑他人20万哈雷摩托摔车": "女子擅自骑他人20万哈雷摩托摔车",
   "e:台湾人看红果短剧已经停不下来了": "台湾人看红果短剧已经停不下来了",
   "e:高圆圆随便打扮一下就成法拉利了": "高圆圆随便打扮一下就成法拉利了",
-  "e:这轮ai行情给所有人上了一课": "这轮AI行情给所有人上了一课"
+  "e:这轮ai行情给所有人上了一课": "这轮AI行情给所有人上了一课",
+  "e:苹果天气bug多地零下32": "苹果天气bug：多地零下32℃"
  },
  "a_seen": {
   "fujifilmtoboosttapeproduction5xabacc9d18": {
@@ -17675,8 +17716,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:二胎一般不会抑郁因为世界有秩序"
+  },
+  "这不是追星是犯罪": {
+   "key": "这不是追星是犯罪",
+   "title": "这不是追星是犯罪",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从粉丝行为边界切入，探讨'爱'与'侵害'的界限，联动法律与舆论反思",
+   "hook_reason": "追星越界成犯罪，冲击价值观，引发站队争论",
+   "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%8D%E6%98%AF%E8%BF%BD%E6%98%9F%E6%98%AF%E7%8A%AF%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:这不是追星是犯罪"
+  },
+  "气象局回应苹果天气app预报极端天气": {
+   "key": "气象局回应苹果天气app预报极端天气",
+   "title": "气象局回应苹果天气APP预报极端天气",
+   "rating": "A",
+   "score": 88.5,
+   "angle": "苹果天气APP预报偏差引发官方回应，探讨科技公司公共服务责任与数据权威性边界",
+   "hook_reason": "苹果天气不准？气象局正面回应，关系亿万人日常生活",
+   "url": "https://s.weibo.com/weibo?q=气象局回应苹果天气APP预报极端天气",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:苹果天气突现32"
+  },
+  "徐艺洋原本打算将罗正礼金全部退回": {
+   "key": "徐艺洋原本打算将罗正礼金全部退回",
+   "title": "徐艺洋原本打算将罗正礼金全部退回",
+   "rating": "A",
+   "score": 71.5,
+   "angle": "从明星礼金往来切入娱乐圈人情世故与金钱边界争议",
+   "hook_reason": "明星婚礼礼金风波，娱乐圈人情暗战引爆吃瓜热情",
+   "url": "https://s.weibo.com/weibo?q=徐艺洋原本打算将罗正礼金全部退回",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:徐艺洋原本打算将罗正礼金全部退回"
+  },
+  "如何看待gpt6astra仅改动0016权重就让qwen35数学能力涨6倍": {
+   "key": "如何看待gpt6astra仅改动0016权重就让qwen35数学能力涨6倍",
+   "title": "如何看待 GPT-6 Astra 仅改动 0.016% 权重就让 Qwen3.5 数学能力涨 6 倍？",
+   "rating": "A",
+   "score": 43.4,
+   "angle": "从微小权重变化引发巨量性能跃升切入，解读这是否意味着大模型训练范式正在发生质变，普通人/行业如何借势",
+   "hook_reason": "0.016%改动撬动6倍提升，AI瓶颈或已被打破",
+   "url": "https://www.zhihu.com/question/2100892435056259459",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何看待gpt6astra仅改动0016权重就让qwen35数学能力涨6倍"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
