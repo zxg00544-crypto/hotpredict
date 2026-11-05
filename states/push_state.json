@@ -15779,19 +15779,6 @@
    "batch_window": 9
   },
   {
-   "key": "偷拍黑产调查约14万女性被偷拍",
-   "title": "“偷拍黑产”调查：约14万女性被偷拍",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从黑产链条切入，剖析偷拍产业链利益链与维权困境，呼吁女性自我保护意识",
-   "hook_reason": "14万女性被偷拍，数字震撼直击女性安全感，情绪张力极强",
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%B7%E6%8B%8D%E9%BB%91%E4%BA%A7%E2%80%9D%E8%B0%83%E6%9F%A5%EF%BC%9A%E7%BA%A614%E4%B8%87%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:偷拍黑产调查约14万女性被偷拍",
-   "batch_window": 10
-  },
-  {
    "key": "美股史诗级暴涨",
    "title": "美股史诗级暴涨",
    "rating": "A",
@@ -15855,6 +15842,71 @@
    "breaking": true,
    "event_id": "e:女子点1杯奶茶被拒入座要求点2杯",
    "batch_window": 10
+  },
+  {
+   "key": "地铁都修到1000公里了为何还那么挤",
+   "title": "地铁都修到1000公里了为何还那么挤",
+   "rating": "A",
+   "score": 95.0,
+   "angle": "从供需矛盾、客流增长、城市扩张三维度拆解，用数据说话解答民生痛点",
+   "hook_reason": "千万通勤族的共同疑问：砸钱修地铁为啥还挤成沙丁鱼？",
+   "url": "https://www.toutiao.com/trending/7704315810046545417/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:地铁都修到1000公里了为何还那么挤",
+   "batch_window": 11
+  },
+  {
+   "key": "无论走到哪都被精准跟踪原因竟是它",
+   "title": "无论走到哪都被精准跟踪 原因竟是它",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "揭秘跟踪原理，给出实用防追踪指南，引发全民隐私保护讨论",
+   "hook_reason": "隐私焦虑+身份代入，谁不想看看自己也被跟踪？",
+   "url": "https://www.baidu.com/s?wd=%E6%97%A0%E8%AE%BA%E8%B5%B0%E5%88%B0%E5%93%AA%E9%83%BD%E8%A2%AB%E7%B2%BE%E5%87%86%E8%B7%9F%E8%B8%AA+%E5%8E%9F%E5%9B%A0%E7%AB%9F%E6%98%AF%E5%AE%83&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:无论走到哪都被精准跟踪原因竟是它",
+   "batch_window": 11
+  },
+  {
+   "key": "许飞只是来告别",
+   "title": "许飞只是来告别",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "从舆论反转视角切入，剖析公众对明星'道歉/澄清'事件的情绪反应与传播逻辑",
+   "hook_reason": "明星争议发声+情绪共鸣，读者想看事件反转与真相",
+   "url": "https://s.weibo.com/weibo?q=许飞只是来告别",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:许飞只是来告别",
+   "batch_window": 11
+  },
+  {
+   "key": "小伙200多万买14套房年收租21万成功实现30岁退休这是怎么做到的会涉及交税问题吗",
+   "title": "小伙200多万买14套房年收租21万，成功实现30岁退休，这是怎么做到的？会涉及交税问题吗？",
+   "rating": "A",
+   "score": 80.5,
+   "angle": "从个案切入房价、租金回报率、房产税等现实议题，引发阶层流动讨论",
+   "hook_reason": "30岁退休+买房收租，直击年轻人财务焦虑与房产话题双重痛点",
+   "url": "https://www.zhihu.com/question/2101275943104951665",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:小伙200多万买14套房年收租21万成功实现30岁退休这是怎么做到的会涉及交税问",
+   "batch_window": 11
+  },
+  {
+   "key": "starfallaffordableroutineaccesstomicrogravity",
+   "title": "Starfall – Affordable, routine access to microgravity",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "从商业化微重力平台切入，解读SpaceX如何把太空科研'白菜价'，对生物医药/材料科学创业者的降维打击式机遇",
+   "hook_reason": "SpaceX推平民微重力服务，太空不再是国家专属",
+   "url": "https://www.spacex.com/starfall",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:starfallaffordableroutineaccesstomicrogr",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -17015,7 +17067,8 @@
   "国台办回应台退役金门舰转交菲律宾",
   "高市早苗以怪异姿势面见日本天皇",
   "美股收盘中国资产爆发",
-  "特朗普称不后悔对伊动武"
+  "特朗普称不后悔对伊动武",
+  "偷拍黑产调查约14万女性被偷拍"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -18112,7 +18165,8 @@
   "e:国台办回应台退役金门舰转交菲律宾": "国台办回应台退役金门舰转交菲律宾",
   "e:高市早苗以怪异姿势面见日本天皇": "高市早苗以怪异姿势面见日本天皇",
   "e:美股收盘中国资产爆发": "美股收盘 中国资产爆发",
-  "e:特朗普称不后悔对伊动武": "特朗普称不后悔对伊动武"
+  "e:特朗普称不后悔对伊动武": "特朗普称不后悔对伊动武",
+  "e:偷拍黑产调查约14万女性被偷拍": "“偷拍黑产”调查：约14万女性被偷拍"
  },
  "a_seen": {
   "宝马预计汽车利润率逼近零": {
@@ -18516,8 +18570,8 @@
    "title": "“偷拍黑产”调查：约14万女性被偷拍",
    "rating": "A",
    "score": 81.85,
-   "angle": "揭秘偷拍黑产完整链条，提供防范指南，引发社会讨论",
-   "hook_reason": "14万女性被偷拍，数字惊人+女性安全共鸣，直击痛点",
+   "angle": "从14万女性受害者切入，揭露偷拍设备产业链和传播链条，追问监管漏洞与法律追责",
+   "hook_reason": "14万女性受害者+偷拍黑产链，情绪爆点密集，人人自危共鸣",
    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%B7%E6%8B%8D%E9%BB%91%E4%BA%A7%E2%80%9D%E8%B0%83%E6%9F%A5%EF%BC%9A%E7%BA%A614%E4%B8%87%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
@@ -18563,10 +18617,10 @@
    "key": "马兴瑞被提起公诉",
    "title": "马兴瑞被提起公诉",
    "rating": "A",
-   "score": 52.95,
-   "angle": "从反腐持续深化切入，解读对地方治理格局的连锁影响，引发读者对正义与权力的思考",
-   "hook_reason": "省级高官落马，反腐风暴升级，全民关注的法治大事件",
-   "url": "https://www.toutiao.com/trending/7704501062417268787/",
+   "score": 92.45,
+   "angle": "以最高检权威通报为切入点，聚焦案件性质与反腐信号，解读对广东政经格局的潜在影响",
+   "hook_reason": "顶级反腐头条，全民关注的政治人物被查，情绪炸裂",
+   "url": "https://s.weibo.com/weibo?q=马兴瑞被提起公诉",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:马兴瑞被提起公诉"
@@ -18582,8 +18636,68 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:女子点1杯奶茶被拒入座要求点2杯"
+  },
+  "地铁都修到1000公里了为何还那么挤": {
+   "key": "地铁都修到1000公里了为何还那么挤",
+   "title": "地铁都修到1000公里了为何还那么挤",
+   "rating": "A",
+   "score": 95.0,
+   "angle": "从供需矛盾、客流增长、城市扩张三维度拆解，用数据说话解答民生痛点",
+   "hook_reason": "千万通勤族的共同疑问：砸钱修地铁为啥还挤成沙丁鱼？",
+   "url": "https://www.toutiao.com/trending/7704315810046545417/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:地铁都修到1000公里了为何还那么挤"
+  },
+  "无论走到哪都被精准跟踪原因竟是它": {
+   "key": "无论走到哪都被精准跟踪原因竟是它",
+   "title": "无论走到哪都被精准跟踪 原因竟是它",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "揭秘跟踪原理，给出实用防追踪指南，引发全民隐私保护讨论",
+   "hook_reason": "隐私焦虑+身份代入，谁不想看看自己也被跟踪？",
+   "url": "https://www.baidu.com/s?wd=%E6%97%A0%E8%AE%BA%E8%B5%B0%E5%88%B0%E5%93%AA%E9%83%BD%E8%A2%AB%E7%B2%BE%E5%87%86%E8%B7%9F%E8%B8%AA+%E5%8E%9F%E5%9B%A0%E7%AB%9F%E6%98%AF%E5%AE%83&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:无论走到哪都被精准跟踪原因竟是它"
+  },
+  "许飞只是来告别": {
+   "key": "许飞只是来告别",
+   "title": "许飞只是来告别",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "从舆论反转视角切入，剖析公众对明星'道歉/澄清'事件的情绪反应与传播逻辑",
+   "hook_reason": "明星争议发声+情绪共鸣，读者想看事件反转与真相",
+   "url": "https://s.weibo.com/weibo?q=许飞只是来告别",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:许飞只是来告别"
+  },
+  "小伙200多万买14套房年收租21万成功实现30岁退休这是怎么做到的会涉及交税问题吗": {
+   "key": "小伙200多万买14套房年收租21万成功实现30岁退休这是怎么做到的会涉及交税问题吗",
+   "title": "小伙200多万买14套房年收租21万，成功实现30岁退休，这是怎么做到的？会涉及交税问题吗？",
+   "rating": "A",
+   "score": 80.5,
+   "angle": "从个案切入房价、租金回报率、房产税等现实议题，引发阶层流动讨论",
+   "hook_reason": "30岁退休+买房收租，直击年轻人财务焦虑与房产话题双重痛点",
+   "url": "https://www.zhihu.com/question/2101275943104951665",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:小伙200多万买14套房年收租21万成功实现30岁退休这是怎么做到的会涉及交税问"
+  },
+  "starfallaffordableroutineaccesstomicrogravity": {
+   "key": "starfallaffordableroutineaccesstomicrogravity",
+   "title": "Starfall – Affordable, routine access to microgravity",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "从商业化微重力平台切入，解读SpaceX如何把太空科研'白菜价'，对生物医药/材料科学创业者的降维打击式机遇",
+   "hook_reason": "SpaceX推平民微重力服务，太空不再是国家专属",
+   "url": "https://www.spacex.com/starfall",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:starfallaffordableroutineaccesstomicrogr"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
