@@ -16375,6 +16375,19 @@
    "breaking": true,
    "event_id": "e:蔡天凤案法医披露烹煮头颅细节",
    "batch_window": 2
+  },
+  {
+   "key": "meta将在ai眼镜和musecharm上推出与muse的语音对话功能",
+   "title": "META ：将在AI眼镜和MUSE CHARM上推出与MUSE的语音对话功能。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从Meta新品切入，解读AI眼镜从显示设备向语音交互终端的演进趋势及产业链机会",
+   "hook_reason": "Meta大举入局AI眼镜语音交互，科技巨头硬件战再升级",
+   "url": "https://finance.sina.cn/7x24/2026-11-06/detail-inixtnve8498111.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:meta将在ai眼镜和musecharm上推出与muse的语音对话功能",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -18763,9 +18776,9 @@
    "key": "美股开盘纳指大跌728点",
    "title": "美股开盘纳指大跌728点",
    "rating": "A",
-   "score": 44.4,
-   "angle": "美股纳指暴跌728点：中国投资者如何应对？三只避险策略与仓位建议",
-   "hook_reason": "纳指单日暴跌728点触发散户与投资群体情绪，财富相关度高",
+   "score": 44.1,
+   "angle": "深挖暴跌成因，解读对A股及投资者的直接影响",
+   "hook_reason": "美股崩盘式下跌，728点背后谁在抛？",
    "url": "https://s.weibo.com/weibo?q=美股开盘纳指大跌728点",
    "track": "财经",
    "breaking": true,
@@ -18811,9 +18824,9 @@
    "key": "普京签令临时接管日本烟草在俄工厂",
    "title": "普京签令临时接管日本烟草在俄工厂",
    "rating": "A",
-   "score": 92.0,
-   "angle": "从日本烟草在俄资产被接管切入，分析地缘冲突下中资/外资企业在俄风险敞口与应对策略",
-   "hook_reason": "俄日地缘冲突直接冲击企业资产，烟草巨头损失几何？",
+   "score": 81.8,
+   "angle": "从俄日地缘博弈切入，分析跨国企业在冲突地区资产安全的风险预警",
+   "hook_reason": "俄日地缘冲突波及跨国企业资产，读者关心对中日经济影响",
    "url": "https://www.toutiao.com/trending/7704680493241090611/",
    "track": "财经",
    "breaking": true,
@@ -18830,6 +18843,30 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:蔡天凤案法医披露烹煮头颅细节"
+  },
+  "meta将在ai眼镜和musecharm上推出与muse的语音对话功能": {
+   "key": "meta将在ai眼镜和musecharm上推出与muse的语音对话功能",
+   "title": "META ：将在AI眼镜和MUSE CHARM上推出与MUSE的语音对话功能。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从Meta新品切入，解读AI眼镜从显示设备向语音交互终端的演进趋势及产业链机会",
+   "hook_reason": "Meta大举入局AI眼镜语音交互，科技巨头硬件战再升级",
+   "url": "https://finance.sina.cn/7x24/2026-11-06/detail-inixtnve8498111.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:meta将在ai眼镜和musecharm上推出与muse的语音对话功能"
+  },
+  "ai硬件股遭集中抛售": {
+   "key": "ai硬件股遭集中抛售",
+   "title": "AI硬件股遭集中抛售",
+   "rating": "A",
+   "score": 43.0,
+   "angle": "从AI硬件板块急跌切入，解读资金撤离逻辑，预判科技投资风向转变",
+   "hook_reason": "AI概念高位急跌，投资者恐慌，科技股风向标变盘信号",
+   "url": "https://s.weibo.com/weibo?q=AI硬件股遭集中抛售",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美股ai硬件股大跌"
   }
  },
  "breaking_count": 10,
