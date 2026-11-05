@@ -15753,19 +15753,6 @@
    "batch_window": 9
   },
   {
-   "key": "特朗普称不后悔对伊动武",
-   "title": "特朗普称不后悔对伊动武",
-   "rating": "A",
-   "score": 98.0,
-   "angle": "聚焦公众人物言论背后的立场信号，结合地缘局势解读其对市场的潜在冲击",
-   "hook_reason": "特朗普战时表态引爆舆论，情绪张力强",
-   "url": "https://www.toutiao.com/trending/7704140736991694370/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:特朗普称不后悔对伊动武",
-   "batch_window": 9
-  },
-  {
    "key": "大学生无偿代跑拒绝供出同学",
    "title": "大学生无偿代跑拒绝供出同学",
    "rating": "A",
@@ -15790,6 +15777,71 @@
    "breaking": true,
    "event_id": "e:南京一老人横穿快速路后方车辆反应不及致多车连环追尾如何看待交警判决老人不担责追尾",
    "batch_window": 9
+  },
+  {
+   "key": "偷拍黑产调查约14万女性被偷拍",
+   "title": "“偷拍黑产”调查：约14万女性被偷拍",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从黑产链条切入，剖析偷拍产业链利益链与维权困境，呼吁女性自我保护意识",
+   "hook_reason": "14万女性被偷拍，数字震撼直击女性安全感，情绪张力极强",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%B7%E6%8B%8D%E9%BB%91%E4%BA%A7%E2%80%9D%E8%B0%83%E6%9F%A5%EF%BC%9A%E7%BA%A614%E4%B8%87%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:偷拍黑产调查约14万女性被偷拍",
+   "batch_window": 10
+  },
+  {
+   "key": "美股史诗级暴涨",
+   "title": "美股史诗级暴涨",
+   "rating": "A",
+   "score": 71.15,
+   "angle": "从散户财富效应切入，解读暴涨背后的机构动向与风险信号",
+   "hook_reason": "美股暴涨冲击投资者情绪，谁赚谁亏成全民焦点",
+   "url": "https://s.weibo.com/weibo?q=美股史诗级暴涨",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美股史诗级暴涨",
+   "batch_window": 10
+  },
+  {
+   "key": "黄渤谈父母患老年痴呆",
+   "title": "黄渤谈父母患老年痴呆",
+   "rating": "A",
+   "score": 79.94,
+   "angle": "借黄渤真实经历切入老年人照护困境，引发读者对父母养老的代入感与行动欲",
+   "hook_reason": "顶流明星聊老龄化痛点，情感共鸣强",
+   "url": "https://s.weibo.com/weibo?q=黄渤谈父母患老年痴呆",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄渤谈父母患老年痴呆",
+   "batch_window": 10
+  },
+  {
+   "key": "openai发布images26",
+   "title": "OpenAI发布Images 2.6",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "Images 2.6核心升级点拆解，对创作者生态意味着什么？对比Midjourney v6谈国产图像模型追赶空间",
+   "hook_reason": "OpenAI重磅图像模型更新，AI圈爆款必追",
+   "url": "https://search.bilibili.com/all?keyword=OpenAI发布Images 2.6",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai发布images26",
+   "batch_window": 10
+  },
+  {
+   "key": "马兴瑞被提起公诉",
+   "title": "马兴瑞被提起公诉",
+   "rating": "A",
+   "score": 52.95,
+   "angle": "从反腐持续深化切入，解读对地方治理格局的连锁影响，引发读者对正义与权力的思考",
+   "hook_reason": "省级高官落马，反腐风暴升级，全民关注的法治大事件",
+   "url": "https://www.toutiao.com/trending/7704501062417268787/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:马兴瑞被提起公诉",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -16949,7 +17001,8 @@
   "民主党重掌美国国会意味着什么",
   "国台办回应台退役金门舰转交菲律宾",
   "高市早苗以怪异姿势面见日本天皇",
-  "美股收盘中国资产爆发"
+  "美股收盘中国资产爆发",
+  "特朗普称不后悔对伊动武"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -18045,7 +18098,8 @@
   "e:民主党重掌美国国会意味着什么": "民主党重掌美国国会意味着什么",
   "e:国台办回应台退役金门舰转交菲律宾": "国台办回应台退役金门舰转交菲律宾",
   "e:高市早苗以怪异姿势面见日本天皇": "高市早苗以怪异姿势面见日本天皇",
-  "e:美股收盘中国资产爆发": "美股收盘 中国资产爆发"
+  "e:美股收盘中国资产爆发": "美股收盘 中国资产爆发",
+  "e:特朗普称不后悔对伊动武": "特朗普称不后悔对伊动武"
  },
  "a_seen": {
   "宝马预计汽车利润率逼近零": {
@@ -18443,8 +18497,68 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:后会友期放母带"
+  },
+  "偷拍黑产调查约14万女性被偷拍": {
+   "key": "偷拍黑产调查约14万女性被偷拍",
+   "title": "“偷拍黑产”调查：约14万女性被偷拍",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从黑产链条切入，剖析偷拍产业链利益链与维权困境，呼吁女性自我保护意识",
+   "hook_reason": "14万女性被偷拍，数字震撼直击女性安全感，情绪张力极强",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%B7%E6%8B%8D%E9%BB%91%E4%BA%A7%E2%80%9D%E8%B0%83%E6%9F%A5%EF%BC%9A%E7%BA%A614%E4%B8%87%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:偷拍黑产调查约14万女性被偷拍"
+  },
+  "美股史诗级暴涨": {
+   "key": "美股史诗级暴涨",
+   "title": "美股史诗级暴涨",
+   "rating": "A",
+   "score": 71.15,
+   "angle": "从散户财富效应切入，解读暴涨背后的机构动向与风险信号",
+   "hook_reason": "美股暴涨冲击投资者情绪，谁赚谁亏成全民焦点",
+   "url": "https://s.weibo.com/weibo?q=美股史诗级暴涨",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美股史诗级暴涨"
+  },
+  "黄渤谈父母患老年痴呆": {
+   "key": "黄渤谈父母患老年痴呆",
+   "title": "黄渤谈父母患老年痴呆",
+   "rating": "A",
+   "score": 79.94,
+   "angle": "借黄渤真实经历切入老年人照护困境，引发读者对父母养老的代入感与行动欲",
+   "hook_reason": "顶流明星聊老龄化痛点，情感共鸣强",
+   "url": "https://s.weibo.com/weibo?q=黄渤谈父母患老年痴呆",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄渤谈父母患老年痴呆"
+  },
+  "openai发布images26": {
+   "key": "openai发布images26",
+   "title": "OpenAI发布Images 2.6",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "Images 2.6核心升级点拆解，对创作者生态意味着什么？对比Midjourney v6谈国产图像模型追赶空间",
+   "hook_reason": "OpenAI重磅图像模型更新，AI圈爆款必追",
+   "url": "https://search.bilibili.com/all?keyword=OpenAI发布Images 2.6",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai发布images26"
+  },
+  "马兴瑞被提起公诉": {
+   "key": "马兴瑞被提起公诉",
+   "title": "马兴瑞被提起公诉",
+   "rating": "A",
+   "score": 52.95,
+   "angle": "从反腐持续深化切入，解读对地方治理格局的连锁影响，引发读者对正义与权力的思考",
+   "hook_reason": "省级高官落马，反腐风暴升级，全民关注的法治大事件",
+   "url": "https://www.toutiao.com/trending/7704501062417268787/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:马兴瑞被提起公诉"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
