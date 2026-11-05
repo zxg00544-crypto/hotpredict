@@ -16260,19 +16260,6 @@
    "batch_window": 18
   },
   {
-   "key": "c罗宣布从葡萄牙国家队退役",
-   "title": "C罗宣布从葡萄牙国家队退役",
-   "rating": "A",
-   "score": 98.0,
-   "angle": "从传奇谢幕切入，盘点C罗国家队生涯高光时刻，引发球迷怀旧与讨论",
-   "hook_reason": "足坛史册一刻！C罗官宣退役引发全球球迷情感共鸣",
-   "url": "https://search.bilibili.com/all?keyword=C罗宣布从葡萄牙国家队退役",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:c罗宣布从葡萄牙国家队退役",
-   "batch_window": 19
-  },
-  {
    "key": "刘维回应去谢娜演唱会被指忘本",
    "title": "刘维回应去谢娜演唱会被指忘本",
    "rating": "A",
@@ -16284,6 +16271,45 @@
    "breaking": true,
    "event_id": "e:刘维回应去谢娜演唱会被指忘本",
    "batch_window": 19
+  },
+  {
+   "key": "王子璇光是这一段话就秒了作家文吉儿",
+   "title": "王子璇光是这一段话就秒了作家文吉儿",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从网友热议角度切入，分析明星跨界点评文人背后的流量逻辑与饭圈话语权争夺",
+   "hook_reason": "明星言论硬刚作家，粉丝文化+跨界交锋引发全民围观",
+   "url": "https://s.weibo.com/weibo?q=王子璇光是这一段话就秒了作家文吉儿",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:王子璇光是这一段话就秒了作家文吉儿",
+   "batch_window": 20
+  },
+  {
+   "key": "baidureleasedernie55flashbase",
+   "title": "Baidu released ERNIE 5.5 Flash Base",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "百度ERNIE 5.5 Flash Base性能解析+国产大模型格局影响，对标竞品GPT/ Claude",
+   "hook_reason": "百度再推AI大模型，国产大模型竞争白热化，性能对比引关注",
+   "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:baidureleasedernie55flashbase",
+   "batch_window": 20
+  },
+  {
+   "key": "多地禁用电动车挡风被系误读",
+   "title": "“多地禁用电动车挡风被”系误读",
+   "rating": "A",
+   "score": 55.34,
+   "angle": "从误读源头追踪，还原政策本意，科普正确骑行规范，引导理性看待民生管控",
+   "hook_reason": "电动车挡风被禁令被辟谣，民生话题+政策误读双重抓点",
+   "url": "https://www.toutiao.com/trending/7704116356282679306/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:多地禁用电动车挡风被系误读",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -17453,7 +17479,8 @@
   "女厕偷拍者有女性甚至夫妻",
   "黄之锋再获刑10年",
   "女子称应聘医院岗位被要求上交丝袜",
-  "华为发布首款鸿蒙台式机"
+  "华为发布首款鸿蒙台式机",
+  "c罗宣布从葡萄牙国家队退役"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -18559,7 +18586,8 @@
   "e:女厕偷拍者有女性甚至夫妻": "女厕偷拍者有女性甚至夫妻",
   "e:黄之锋再获刑10年": "黄之锋再获刑10年",
   "e:女子称应聘医院岗位被要求上交丝袜": "女子称应聘医院岗位被要求上交丝袜",
-  "e:华为发布首款鸿蒙台式机": "华为发布首款鸿蒙台式机"
+  "e:华为发布首款鸿蒙台式机": "华为发布首款鸿蒙台式机",
+  "e:c罗宣布从葡萄牙国家队退役": "C罗宣布从葡萄牙国家队退役"
  },
  "a_seen": {
   "宝马预计汽车利润率逼近零": {
@@ -19538,9 +19566,9 @@
    "key": "c罗宣布从葡萄牙国家队退役",
    "title": "C罗宣布从葡萄牙国家队退役",
    "rating": "A",
-   "score": 98.0,
-   "angle": "从传奇谢幕切入，盘点C罗国家队生涯高光时刻，引发球迷怀旧与讨论",
-   "hook_reason": "足坛史册一刻！C罗官宣退役引发全球球迷情感共鸣",
+   "score": 92.0,
+   "angle": "以C罗国家队生涯收官为切入点，结合全球球迷情怀与体育精神，打造现象级情感共鸣稿件",
+   "hook_reason": "足球皇帝C罗退役，一代球迷的青春集体告别",
    "url": "https://search.bilibili.com/all?keyword=C罗宣布从葡萄牙国家队退役",
    "track": "社会热点",
    "breaking": true,
@@ -19550,9 +19578,9 @@
    "key": "c罗从国家队退役",
    "title": "C罗从国家队退役",
    "rating": "A",
-   "score": 87.8,
-   "angle": "从足坛传奇告别国家队切入，书写一代人的青春记忆与时代更迭",
-   "hook_reason": "C罗生涯首告国家队，亿万球迷青春谢幕",
+   "score": 87.45,
+   "angle": "聚焦C罗国家队生涯收官时刻的情感共鸣点，结合退役仪式细节与球迷反应展开叙事",
+   "hook_reason": "全球球迷顶流退役，情感冲击强，跨圈层传播潜力大",
    "url": "https://s.weibo.com/weibo?q=C罗从国家队退役",
    "track": "社会热点",
    "breaking": true,
@@ -19569,8 +19597,56 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:刘维回应去谢娜演唱会被指忘本"
+  },
+  "王子璇光是这一段话就秒了作家文吉儿": {
+   "key": "王子璇光是这一段话就秒了作家文吉儿",
+   "title": "王子璇光是这一段话就秒了作家文吉儿",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从网友热议角度切入，分析明星跨界点评文人背后的流量逻辑与饭圈话语权争夺",
+   "hook_reason": "明星言论硬刚作家，粉丝文化+跨界交锋引发全民围观",
+   "url": "https://s.weibo.com/weibo?q=王子璇光是这一段话就秒了作家文吉儿",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:王子璇光是这一段话就秒了作家文吉儿"
+  },
+  "c罗官宣从葡萄牙国家队正式退役如何评价此事他为何会选择在此时退役": {
+   "key": "c罗官宣从葡萄牙国家队正式退役如何评价此事他为何会选择在此时退役",
+   "title": "C罗官宣从葡萄牙国家队正式退役，如何评价此事，他为何会选择在此时退役？",
+   "rating": "A",
+   "score": 85.5,
+   "angle": "以告别时代视角切入，聚焦C罗职业生涯终章的情感共鸣与体育文化符号意义",
+   "hook_reason": "C罗退役标志一个时代终结，情感冲击强，全球球迷关注",
+   "url": "https://www.zhihu.com/question/2101742566919992358",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:c罗宣布从葡萄牙国家队退役"
+  },
+  "baidureleasedernie55flashbase": {
+   "key": "baidureleasedernie55flashbase",
+   "title": "Baidu released ERNIE 5.5 Flash Base",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "百度ERNIE 5.5 Flash Base性能解析+国产大模型格局影响，对标竞品GPT/ Claude",
+   "hook_reason": "百度再推AI大模型，国产大模型竞争白热化，性能对比引关注",
+   "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:baidureleasedernie55flashbase"
+  },
+  "多地禁用电动车挡风被系误读": {
+   "key": "多地禁用电动车挡风被系误读",
+   "title": "“多地禁用电动车挡风被”系误读",
+   "rating": "A",
+   "score": 55.34,
+   "angle": "从误读源头追踪，还原政策本意，科普正确骑行规范，引导理性看待民生管控",
+   "hook_reason": "电动车挡风被禁令被辟谣，民生话题+政策误读双重抓点",
+   "url": "https://www.toutiao.com/trending/7704116356282679306/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:多地禁用电动车挡风被系误读"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
