@@ -16117,19 +16117,6 @@
    "batch_window": 17
   },
   {
-   "key": "卵巢癌真的很善于伪装",
-   "title": "卵巢癌真的很善于伪装",
-   "rating": "A",
-   "score": 88.0,
-   "angle": "以明星案例切入，科普卵巢癌的隐蔽症状，呼吁女性定期筛查，传递早发现早治疗的重要性",
-   "hook_reason": "卵巢癌高发且难发现，直击女性健康焦虑，科普价值高易传播",
-   "url": "https://s.weibo.com/weibo?q=卵巢癌真的很善于伪装",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:卵巢癌真的很善于伪装",
-   "batch_window": 18
-  },
-  {
    "key": "进博会看汽车",
    "title": "进博会看汽车",
    "rating": "A",
@@ -16414,6 +16401,58 @@
    "breaking": true,
    "event_id": "e:thehackintoshreborn",
    "batch_window": 5
+  },
+  {
+   "key": "mspaintremotecodeexecutionvulnerability",
+   "title": "MS Paint Remote Code Execution Vulnerability",
+   "rating": "A",
+   "score": 85.0,
+   "angle": "微软经典画图程序爆高危RCE漏洞，普通人日常工具也能被远程利用，警示全民更新补丁",
+   "hook_reason": "画图软件竟能远程执行代码？微软老牌工具爆出离谱高危漏洞",
+   "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:mspaintremotecodeexecutionvulnerability",
+   "batch_window": 6
+  },
+  {
+   "key": "kagisearchforeveryone",
+   "title": "Kagi Search for Everyone",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "Kagi推出免费版本，打破付费搜索格局，挑战Google垄断，从产品功能、定价策略、用户价值三维度切入",
+   "hook_reason": "Google劲敌免费开源搜索来了，普通人能用吗？",
+   "url": "https://kagi.com/changelog",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:kagisearchforeveryone",
+   "batch_window": 6
+  },
+  {
+   "key": "但斌回应重仓ai回撤大",
+   "title": "但斌回应重仓AI回撤大",
+   "rating": "A",
+   "score": 44.0,
+   "angle": "但斌AI投资观复盘：从坚定看多到承认回撤，私募大佬如何面对科技泡沫质疑",
+   "hook_reason": "顶流私募大佬公开承认AI重仓大幅回撤，投资者极度关注",
+   "url": "https://s.weibo.com/weibo?q=但斌回应重仓AI回撤大",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:但斌回应重仓ai回撤大",
+   "batch_window": 6
+  },
+  {
+   "key": "美国特使库什纳下周在阿布扎比美国将召集乌克兰和俄罗斯举行自2月以来的首次三方",
+   "title": "美国特使库什纳：下周在阿布扎比，美国将召集乌克兰和俄罗斯举行自2月以来的首次三方",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "解读美特使库什纳召集俄乌三方会谈的深层动机，分析地缘格局变化及对普通人的影响",
+   "hook_reason": "俄乌冲突重大转折：美国时隔2月首次召集俄乌三方会谈",
+   "url": "https://finance.sina.cn/7x24/2026-11-06/detail-inixttce5193266.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:美国特使库什纳下周在阿布扎比美国将召集乌克兰和俄罗斯举行自2月以来的首次三方",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -17603,7 +17642,8 @@
   "小学招跟岗教师无薪资不包食宿",
   "普京签令临时接管日本烟草在俄工厂",
   "王子璇光是这一段话就秒了作家文吉儿",
-  "无薪招聘教师小学称提供学习平台"
+  "无薪招聘教师小学称提供学习平台",
+  "卵巢癌真的很善于伪装"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -18729,7 +18769,8 @@
   "e:小学招跟岗教师无薪资不包食宿": "小学招跟岗教师 无薪资不包食宿",
   "e:普京签令临时接管日本烟草在俄工厂": "普京签令临时接管日本烟草在俄工厂",
   "e:王子璇光是这一段话就秒了作家文吉儿": "王子璇光是这一段话就秒了作家文吉儿",
-  "e:无薪招聘教师小学称提供学习平台": "无薪招聘教师小学称提供学习平台"
+  "e:无薪招聘教师小学称提供学习平台": "无薪招聘教师小学称提供学习平台",
+  "e:卵巢癌真的很善于伪装": "卵巢癌真的很善于伪装"
  },
  "a_seen": {
   "存储巨头闪迪将于两周后拆股": {
@@ -18959,8 +19000,56 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:thehackintoshreborn"
+  },
+  "mspaintremotecodeexecutionvulnerability": {
+   "key": "mspaintremotecodeexecutionvulnerability",
+   "title": "MS Paint Remote Code Execution Vulnerability",
+   "rating": "A",
+   "score": 85.0,
+   "angle": "微软经典画图程序爆高危RCE漏洞，普通人日常工具也能被远程利用，警示全民更新补丁",
+   "hook_reason": "画图软件竟能远程执行代码？微软老牌工具爆出离谱高危漏洞",
+   "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:mspaintremotecodeexecutionvulnerability"
+  },
+  "kagisearchforeveryone": {
+   "key": "kagisearchforeveryone",
+   "title": "Kagi Search for Everyone",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "Kagi推出免费版本，打破付费搜索格局，挑战Google垄断，从产品功能、定价策略、用户价值三维度切入",
+   "hook_reason": "Google劲敌免费开源搜索来了，普通人能用吗？",
+   "url": "https://kagi.com/changelog",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:kagisearchforeveryone"
+  },
+  "但斌回应重仓ai回撤大": {
+   "key": "但斌回应重仓ai回撤大",
+   "title": "但斌回应重仓AI回撤大",
+   "rating": "A",
+   "score": 44.0,
+   "angle": "但斌AI投资观复盘：从坚定看多到承认回撤，私募大佬如何面对科技泡沫质疑",
+   "hook_reason": "顶流私募大佬公开承认AI重仓大幅回撤，投资者极度关注",
+   "url": "https://s.weibo.com/weibo?q=但斌回应重仓AI回撤大",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:但斌回应重仓ai回撤大"
+  },
+  "美国特使库什纳下周在阿布扎比美国将召集乌克兰和俄罗斯举行自2月以来的首次三方": {
+   "key": "美国特使库什纳下周在阿布扎比美国将召集乌克兰和俄罗斯举行自2月以来的首次三方",
+   "title": "美国特使库什纳：下周在阿布扎比，美国将召集乌克兰和俄罗斯举行自2月以来的首次三方",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "解读美特使库什纳召集俄乌三方会谈的深层动机，分析地缘格局变化及对普通人的影响",
+   "hook_reason": "俄乌冲突重大转折：美国时隔2月首次召集俄乌三方会谈",
+   "url": "https://finance.sina.cn/7x24/2026-11-06/detail-inixttce5193266.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:美国特使库什纳下周在阿布扎比美国将召集乌克兰和俄罗斯举行自2月以来的首次三方"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
