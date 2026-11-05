@@ -16221,19 +16221,6 @@
    "batch_window": 20
   },
   {
-   "key": "无薪招聘教师小学称提供学习平台",
-   "title": "无薪招聘教师小学称提供学习平台",
-   "rating": "A",
-   "score": 89.0,
-   "angle": "从教育公平与青年就业角度切入，揭示\"画饼式招聘\"背后的劳动权益问题",
-   "hook_reason": "无薪招聘+教师身份+教育公平，触动就业焦虑",
-   "url": "https://s.weibo.com/weibo?q=无薪招聘教师小学称提供学习平台",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:无薪招聘教师小学称提供学习平台",
-   "batch_window": 21
-  },
-  {
    "key": "小女孩一句爸爸爱自己太通透",
    "title": "小女孩一句爸爸爱自己太通透",
    "rating": "A",
@@ -16414,6 +16401,19 @@
    "breaking": true,
    "event_id": "e:市场消息英伟达探索将老旧电信建筑改造为人工智能数据中心",
    "batch_window": 4
+  },
+  {
+   "key": "thehackintoshreborn",
+   "title": "The Hackintosh Reborn",
+   "rating": "A",
+   "score": 79.0,
+   "angle": "AI时代黑苹果硬件配置指南，性价比碾压Mac Studio/Pro的DIY方案解析",
+   "hook_reason": "黑苹果结合AI复兴，苹果硬件涨价下的DIY高性能方案引发热议",
+   "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thehackintoshreborn",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -17602,7 +17602,8 @@
   "春节9天假拿两个周日换的",
   "小学招跟岗教师无薪资不包食宿",
   "普京签令临时接管日本烟草在俄工厂",
-  "王子璇光是这一段话就秒了作家文吉儿"
+  "王子璇光是这一段话就秒了作家文吉儿",
+  "无薪招聘教师小学称提供学习平台"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -18727,7 +18728,8 @@
   "e:春节9天假拿两个周日换的": "春节9天假拿两个周日换的",
   "e:小学招跟岗教师无薪资不包食宿": "小学招跟岗教师 无薪资不包食宿",
   "e:普京签令临时接管日本烟草在俄工厂": "普京签令临时接管日本烟草在俄工厂",
-  "e:王子璇光是这一段话就秒了作家文吉儿": "王子璇光是这一段话就秒了作家文吉儿"
+  "e:王子璇光是这一段话就秒了作家文吉儿": "王子璇光是这一段话就秒了作家文吉儿",
+  "e:无薪招聘教师小学称提供学习平台": "无薪招聘教师小学称提供学习平台"
  },
  "a_seen": {
   "存储巨头闪迪将于两周后拆股": {
@@ -18945,8 +18947,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:市场消息英伟达探索将老旧电信建筑改造为人工智能数据中心"
+  },
+  "thehackintoshreborn": {
+   "key": "thehackintoshreborn",
+   "title": "The Hackintosh Reborn",
+   "rating": "A",
+   "score": 79.0,
+   "angle": "AI时代黑苹果硬件配置指南，性价比碾压Mac Studio/Pro的DIY方案解析",
+   "hook_reason": "黑苹果结合AI复兴，苹果硬件涨价下的DIY高性能方案引发热议",
+   "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:thehackintoshreborn"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
