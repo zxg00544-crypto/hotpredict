@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
  "daily_done": false,
- "alert_date": "",
+ "alert_date": "2026-11-07",
  "a_pending": [
   {
    "key": "曾预警金融危机的whitney称美国经济有暗伤ai投资热恐是纸牌屋",
@@ -15961,19 +15961,6 @@
    "batch_window": 15
   },
   {
-   "key": "独生子女不一定能继承父母全部遗产",
-   "title": "独生子女不一定能继承父母全部遗产",
-   "rating": "A",
-   "score": 87.0,
-   "angle": "从法律科普切入，破除'独生子女自动全继承'的认知误区，解读哪些情况会导致无法全额继承",
-   "hook_reason": "戳破独生子女继承误区，涉及全民财产痛点",
-   "url": "https://s.weibo.com/weibo?q=独生子女不一定能继承父母全部遗产",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:独生子女不一定能继承父母全部遗产",
-   "batch_window": 16
-  },
-  {
    "key": "胡塞狮子大开口",
    "title": "胡塞“狮子大开口”",
    "rating": "A",
@@ -16856,6 +16843,19 @@
    "breaking": true,
    "event_id": "e:美联储戴利如果人工智能相关资产重新定价预示需求放缓可能会看到经济增长略有回落",
    "batch_window": 2
+  },
+  {
+   "key": "teslatowinddowncybertruckproduction",
+   "title": "Tesla to wind down Cybertruck production",
+   "rating": "A",
+   "score": 59.44,
+   "angle": "解读Cybertruck停产背后：销量失速与马斯克战略收缩的信号",
+   "hook_reason": "马斯克旗舰车型停产，电动车行业重大变局",
+   "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:teslatowinddowncybertruckproduction",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -18076,7 +18076,8 @@
   "赵丽颖周迅打招呼",
   "黑色星期五席卷亚太市场",
   "特朗普称或用总统否决权抗衡民主党",
-  "李嘉格自曝被车澈打压"
+  "李嘉格自曝被车澈打压",
+  "独生子女不一定能继承父母全部遗产"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19233,7 +19234,8 @@
   "e:赵丽颖周迅打招呼": "赵丽颖周迅打招呼",
   "e:黑色星期五席卷亚太市场": "“黑色星期五”席卷亚太市场",
   "e:特朗普称或用总统否决权抗衡民主党": "特朗普称或用总统否决权抗衡民主党",
-  "e:李嘉格自曝被车澈打压": "李嘉格自曝被车澈打压"
+  "e:李嘉格自曝被车澈打压": "李嘉格自曝被车澈打压",
+  "e:独生子女不一定能继承父母全部遗产": "独生子女不一定能继承父母全部遗产"
  },
  "a_seen": {
   "美股历史性暴跌或影响金价": {
@@ -19271,8 +19273,20 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:美联储戴利如果人工智能相关资产重新定价预示需求放缓可能会看到经济增长略有回落"
+  },
+  "teslatowinddowncybertruckproduction": {
+   "key": "teslatowinddowncybertruckproduction",
+   "title": "Tesla to wind down Cybertruck production",
+   "rating": "A",
+   "score": 59.44,
+   "angle": "解读Cybertruck停产背后：销量失速与马斯克战略收缩的信号",
+   "hook_reason": "马斯克旗舰车型停产，电动车行业重大变局",
+   "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:teslatowinddowncybertruckproduction"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
