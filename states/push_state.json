@@ -16611,19 +16611,6 @@
    "batch_window": 10
   },
   {
-   "key": "三岁半男孩给电视里的红军递饼干",
-   "title": "三岁半男孩给电视里的红军递饼干",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "以'孩童纯真心'为切口写代际传承，避开说教，用递饼动作讲信仰如何在一代人眼里变成画面",
-   "hook_reason": "3岁半幼儿跨越时空对红军递饼，情感浓度+身份反差双爆点",
-   "url": "https://www.toutiao.com/trending/7704157659875934771/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:三岁半男孩给电视里的红军递饼干",
-   "batch_window": 11
-  },
-  {
    "key": "美第一夫人写信给普京与泽连斯基",
    "title": "美第一夫人写信给普京与泽连斯基",
    "rating": "A",
@@ -16687,6 +16674,71 @@
    "breaking": true,
    "event_id": "e:桑德斯呼吁暂停ai数据中心",
    "batch_window": 11
+  },
+  {
+   "key": "李斌再度警示车重问题",
+   "title": "李斌再度警示车重问题",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从车重背后的电池安全vs续航矛盾切入，解读新能源下半场技术路线之争",
+   "hook_reason": "蔚来CEO再谈车重，直击电动车续航焦虑痛点",
+   "url": "https://www.toutiao.com/trending/7704530713500352566/",
+   "track": "行业趋势",
+   "breaking": true,
+   "event_id": "e:李斌再度警示车重问题",
+   "batch_window": 12
+  },
+  {
+   "key": "南京零元面馆爆火",
+   "title": "南京零元面馆爆火",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从\"免费\"切入，探讨善意生意能否持续、城市温度与商业伦理的冲突",
+   "hook_reason": "零元面馆触碰公益与商业边界，情绪张力拉满",
+   "url": "https://www.toutiao.com/trending/7703756521339093019/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:南京零元面馆爆火",
+   "batch_window": 12
+  },
+  {
+   "key": "2027放假上二休一上二休二",
+   "title": "2027放假 上二休一上二休二",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从打工人视角解读上二休一/二的现实可行性，结合政策背景与职场情绪，制造共鸣传播",
+   "hook_reason": "打工人终极梦想？2027年休息制度重大调整引全民关注",
+   "url": "https://s.weibo.com/weibo?q=2027放假 上二休一上二休二",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:2027放假上二休一上二休二",
+   "batch_window": 12
+  },
+  {
+   "key": "袁成杰说会努力还债",
+   "title": "袁成杰说会努力还债",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "深挖还债原因：是个人债务危机还是公司/品牌暴雷牵连？借'还债'做艺人信用背书分析",
+   "hook_reason": "顶流艺人自爆还债承诺，话题兼具明星人设+财务危机双重冲突",
+   "url": "https://s.weibo.com/weibo?q=袁成杰说会努力还债",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:袁成杰说会努力还债",
+   "batch_window": 12
+  },
+  {
+   "key": "黄仁勋的神话被谁撕碎了",
+   "title": "黄仁勋的神话被谁撕碎了",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从黄仁勋权威挑战切入，分析AI芯片竞争格局重塑背后的商业逻辑",
+   "hook_reason": "科技教父神话破灭，引发读者对英伟达现状的好奇",
+   "url": "https://www.toutiao.com/trending/7704897192376405546/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋的神话被谁撕碎了",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -17882,7 +17934,8 @@
   "大众在华召回超58万辆汽车",
   "罗正自曝徐艺洋退回份子钱",
   "54岁大哥靠ai短剧还清负债",
-  "何同学说macbookpro触屏不好用"
+  "何同学说macbookpro触屏不好用",
+  "三岁半男孩给电视里的红军递饼干"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19014,7 +19067,8 @@
   "e:大众在华召回超58万辆汽车": "大众在华召回超58万辆汽车",
   "e:罗正自曝徐艺洋退回份子钱": "罗正自曝徐艺洋退回份子钱",
   "e:54岁大哥靠ai短剧还清负债": "54岁大哥靠AI短剧还清负债",
-  "e:何同学说macbookpro触屏不好用": "何同学说MacBookPro触屏不好用"
+  "e:何同学说macbookpro触屏不好用": "何同学说MacBookPro触屏不好用",
+  "e:三岁半男孩给电视里的红军递饼干": "三岁半男孩给电视里的红军递饼干"
  },
  "a_seen": {
   "存储巨头闪迪将于两周后拆股": {
@@ -19537,9 +19591,9 @@
    "key": "余艳红被查",
    "title": "余艳红被查",
    "rating": "A",
-   "score": 90.5,
-   "angle": "从卫健委副主任被查切入，剖析反腐高压态势下的官场地震及与普通人的关联",
-   "hook_reason": "高官被查突发，反腐话题自带国民级关注度",
+   "score": 81.9,
+   "angle": "从反腐角度切入，结合卫健系统背景，解读信号与影响",
+   "hook_reason": "卫健委前领导落马，反腐话题天然高关注",
    "url": "https://www.baidu.com/s?wd=%E4%BD%99%E8%89%B3%E7%BA%A2%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
@@ -19568,8 +19622,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:桑德斯呼吁暂停ai数据中心"
+  },
+  "李斌再度警示车重问题": {
+   "key": "李斌再度警示车重问题",
+   "title": "李斌再度警示车重问题",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从车重背后的电池安全vs续航矛盾切入，解读新能源下半场技术路线之争",
+   "hook_reason": "蔚来CEO再谈车重，直击电动车续航焦虑痛点",
+   "url": "https://www.toutiao.com/trending/7704530713500352566/",
+   "track": "行业趋势",
+   "breaking": true,
+   "event_id": "e:李斌再度警示车重问题"
+  },
+  "南京零元面馆爆火": {
+   "key": "南京零元面馆爆火",
+   "title": "南京零元面馆爆火",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从\"免费\"切入，探讨善意生意能否持续、城市温度与商业伦理的冲突",
+   "hook_reason": "零元面馆触碰公益与商业边界，情绪张力拉满",
+   "url": "https://www.toutiao.com/trending/7703756521339093019/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:南京零元面馆爆火"
+  },
+  "2027放假上二休一上二休二": {
+   "key": "2027放假上二休一上二休二",
+   "title": "2027放假 上二休一上二休二",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从打工人视角解读上二休一/二的现实可行性，结合政策背景与职场情绪，制造共鸣传播",
+   "hook_reason": "打工人终极梦想？2027年休息制度重大调整引全民关注",
+   "url": "https://s.weibo.com/weibo?q=2027放假 上二休一上二休二",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:2027放假上二休一上二休二"
+  },
+  "袁成杰说会努力还债": {
+   "key": "袁成杰说会努力还债",
+   "title": "袁成杰说会努力还债",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "深挖还债原因：是个人债务危机还是公司/品牌暴雷牵连？借'还债'做艺人信用背书分析",
+   "hook_reason": "顶流艺人自爆还债承诺，话题兼具明星人设+财务危机双重冲突",
+   "url": "https://s.weibo.com/weibo?q=袁成杰说会努力还债",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:袁成杰说会努力还债"
+  },
+  "黄仁勋的神话被谁撕碎了": {
+   "key": "黄仁勋的神话被谁撕碎了",
+   "title": "黄仁勋的神话被谁撕碎了",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "从黄仁勋权威挑战切入，分析AI芯片竞争格局重塑背后的商业逻辑",
+   "hook_reason": "科技教父神话破灭，引发读者对英伟达现状的好奇",
+   "url": "https://www.toutiao.com/trending/7704897192376405546/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋的神话被谁撕碎了"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
