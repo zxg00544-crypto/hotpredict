@@ -16013,19 +16013,6 @@
    "batch_window": 18
   },
   {
-   "key": "结婚登记同比减少504万对",
-   "title": "结婚登记同比减少50.4万对",
-   "rating": "A",
-   "score": 86.0,
-   "angle": "从数据看年轻人为什么'不婚了'——房价、彩礼、躺平文化的三重挤压",
-   "hook_reason": "结婚人数骤降引全民共鸣，年轻人婚恋观变是流量密码",
-   "url": "https://s.weibo.com/weibo?q=结婚登记同比减少50.4万对",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:结婚登记同比减少504万对",
-   "batch_window": 18
-  },
-  {
    "key": "多地宣布结婚奖钱",
    "title": "多地宣布结婚奖钱",
    "rating": "A",
@@ -16882,6 +16869,32 @@
    "breaking": true,
    "event_id": "e:特朗普称正在与伊朗进行沟通",
    "batch_window": 5
+  },
+  {
+   "key": "aiisdramaticallyacceleratingairesearch",
+   "title": "AI is dramatically accelerating AI research",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "拆解AI加速AI研究的底层逻辑，预测对算力与就业的冲击",
+   "hook_reason": "AI自我加速研发？探讨技术奇点是否逼近",
+   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:aiisdramaticallyacceleratingairesearch",
+   "batch_window": 6
+  },
+  {
+   "key": "anthropic将于下周启动ipo路演",
+   "title": "Anthropic将于下周启动IPO路演",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "剖析IPO对AI行业估值体系重塑及散户入场机会",
+   "hook_reason": "顶级AI公司IPO在即，资本与技术的终极碰撞",
+   "url": "https://finance.sina.cn/7x24/2026-11-07/detail-inixwakh8362497.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic将于下周启动ipo路演",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -18105,7 +18118,8 @@
   "李嘉格自曝被车澈打压",
   "独生子女不一定能继承父母全部遗产",
   "菲律宾迷魂党盯上中国游客",
-  "调杠杆给临近爆仓账户一线生机"
+  "调杠杆给临近爆仓账户一线生机",
+  "结婚登记同比减少504万对"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19265,7 +19279,8 @@
   "e:李嘉格自曝被车澈打压": "李嘉格自曝被车澈打压",
   "e:独生子女不一定能继承父母全部遗产": "独生子女不一定能继承父母全部遗产",
   "e:菲律宾迷魂党盯上中国游客": "菲律宾“迷魂党”盯上中国游客",
-  "e:调杠杆给临近爆仓账户一线生机": "调杠杆给临近爆仓账户一线生机"
+  "e:调杠杆给临近爆仓账户一线生机": "调杠杆给临近爆仓账户一线生机",
+  "e:结婚登记同比减少504万对": "结婚登记同比减少50.4万对"
  },
  "a_seen": {
   "美股历史性暴跌或影响金价": {
@@ -19332,9 +19347,9 @@
    "key": "ajevthatcanaskopusforhelpgivesop1e80b7a6",
    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
    "rating": "A",
-   "score": 75.15,
-   "angle": "揭秘低成本“伪智能”背后的真实逻辑：小模型做路由，大模型做核心，如何实现4倍成本优化？",
-   "hook_reason": "4倍降本神话：AI打杂竟能调用最强大脑，颠覆效率认知",
+   "score": 75.95,
+   "angle": "小模型调用大模型做裁判，低成本实现高精度，AI降本增效新范式",
+   "hook_reason": "4倍成本优势，Opus精准度下放，开发者必看",
    "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
    "track": "科技",
    "breaking": true,
@@ -19363,8 +19378,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:特朗普称正在与伊朗进行沟通"
+  },
+  "aiisdramaticallyacceleratingairesearch": {
+   "key": "aiisdramaticallyacceleratingairesearch",
+   "title": "AI is dramatically accelerating AI research",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "拆解AI加速AI研究的底层逻辑，预测对算力与就业的冲击",
+   "hook_reason": "AI自我加速研发？探讨技术奇点是否逼近",
+   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:aiisdramaticallyacceleratingairesearch"
+  },
+  "anthropic将于下周启动ipo路演": {
+   "key": "anthropic将于下周启动ipo路演",
+   "title": "Anthropic将于下周启动IPO路演",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "剖析IPO对AI行业估值体系重塑及散户入场机会",
+   "hook_reason": "顶级AI公司IPO在即，资本与技术的终极碰撞",
+   "url": "https://finance.sina.cn/7x24/2026-11-07/detail-inixwakh8362497.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic将于下周启动ipo路演"
+  },
+  "市场消息anthropic将于下周启动ipo路演": {
+   "key": "市场消息anthropic将于下周启动ipo路演",
+   "title": "市场消息：Anthropic将于下周启动IPO路演。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "解读Anthropic上市对AI估值体系冲击，及中国科技股对标影响",
+   "hook_reason": "顶流AI公司IPO，改写行业格局，财经科技双圈炸裂",
+   "url": "https://finance.sina.cn/7x24/2026-11-07/detail-inixwakq5260938.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic将于下周启动ipo路演"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
