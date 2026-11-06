@@ -16804,6 +16804,45 @@
    "breaking": true,
    "event_id": "e:两口子懒得拍婚纱照让ai生成",
    "batch_window": 16
+  },
+  {
+   "key": "中国ai短剧被韩配搬运",
+   "title": "中国AI短剧被韩配搬运",
+   "rating": "A",
+   "score": 73.4,
+   "angle": "深度拆解AI短剧出海的版权灰色地带与韩国配音产业的快速响应机制",
+   "hook_reason": "国产AI内容出海被抢，文化反向输出与版权争议",
+   "url": "https://s.weibo.com/weibo?q=中国AI短剧被韩配搬运",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:中国ai短剧被韩配搬运",
+   "batch_window": 16
+  },
+  {
+   "key": "要求新娘借婚房酒店已致歉拒绝退款",
+   "title": "要求新娘借婚房酒店已致歉拒绝退款",
+   "rating": "A",
+   "score": 83.5,
+   "angle": "聚焦“致歉不退款”矛盾，批判酒店傲慢姿态，提供消费者法律维权策略",
+   "hook_reason": "酒店逼婚房致歉不退款，消费者愤怒，消费维权争议",
+   "url": "https://s.weibo.com/weibo?q=要求新娘借婚房酒店已致歉拒绝退款",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:要求新娘借婚房酒店已致歉拒绝退款",
+   "batch_window": 16
+  },
+  {
+   "key": "对隔夜美股暴跌的初步分析网页链接网页链接",
+   "title": "对隔夜美股暴跌的初步分析 网页链接 网页链接",
+   "rating": "A",
+   "score": 54.62,
+   "angle": "拆解暴跌核心驱动因素，预判对A股及港股的传导路径",
+   "hook_reason": "美股深夜暴跌引发恐慌，投资者急需快速研判影响",
+   "url": "https://weibo.com/1249424622/Rq7Ilnng9",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:对隔夜美股暴跌的初步分析网页链接网页链接",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -19863,6 +19902,54 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:两口子懒得拍婚纱照让ai生成"
+  },
+  "中国ai短剧被韩配搬运": {
+   "key": "中国ai短剧被韩配搬运",
+   "title": "中国AI短剧被韩配搬运",
+   "rating": "A",
+   "score": 73.4,
+   "angle": "深度拆解AI短剧出海的版权灰色地带与韩国配音产业的快速响应机制",
+   "hook_reason": "国产AI内容出海被抢，文化反向输出与版权争议",
+   "url": "https://s.weibo.com/weibo?q=中国AI短剧被韩配搬运",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:中国ai短剧被韩配搬运"
+  },
+  "无薪跟岗教师招聘不带这么羞辱人的": {
+   "key": "无薪跟岗教师招聘不带这么羞辱人的",
+   "title": "无薪跟岗 教师招聘不带这么羞辱人的",
+   "rating": "A",
+   "score": 87.85,
+   "angle": "撕开‘无薪跟岗’的遮羞布，探讨教育行业劳动尊严与就业乱象。",
+   "hook_reason": "招聘变白嫖，职场尊严被践踏，引发强烈共情与愤怒。",
+   "url": "https://s.weibo.com/weibo?q=无薪跟岗教师招聘不带这么羞辱人的",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:小学招跟岗教师无薪资不包食宿"
+  },
+  "要求新娘借婚房酒店已致歉拒绝退款": {
+   "key": "要求新娘借婚房酒店已致歉拒绝退款",
+   "title": "要求新娘借婚房酒店已致歉拒绝退款",
+   "rating": "A",
+   "score": 83.5,
+   "angle": "聚焦“致歉不退款”矛盾，批判酒店傲慢姿态，提供消费者法律维权策略",
+   "hook_reason": "酒店逼婚房致歉不退款，消费者愤怒，消费维权争议",
+   "url": "https://s.weibo.com/weibo?q=要求新娘借婚房酒店已致歉拒绝退款",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:要求新娘借婚房酒店已致歉拒绝退款"
+  },
+  "对隔夜美股暴跌的初步分析网页链接网页链接": {
+   "key": "对隔夜美股暴跌的初步分析网页链接网页链接",
+   "title": "对隔夜美股暴跌的初步分析 网页链接 网页链接",
+   "rating": "A",
+   "score": 54.62,
+   "angle": "拆解暴跌核心驱动因素，预判对A股及港股的传导路径",
+   "hook_reason": "美股深夜暴跌引发恐慌，投资者急需快速研判影响",
+   "url": "https://weibo.com/1249424622/Rq7Ilnng9",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:对隔夜美股暴跌的初步分析网页链接网页链接"
   }
  },
  "breaking_count": 10,
