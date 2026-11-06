@@ -16611,19 +16611,6 @@
    "batch_window": 10
   },
   {
-   "key": "余艳红被查",
-   "title": "余艳红被查",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "从卫健委副主任被查切入，剖析反腐高压态势下的官场地震及与普通人的关联",
-   "hook_reason": "高官被查突发，反腐话题自带国民级关注度",
-   "url": "https://www.baidu.com/s?wd=%E4%BD%99%E8%89%B3%E7%BA%A2%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:余艳红被查",
-   "batch_window": 11
-  },
-  {
    "key": "手机越来越卷凭什么阔直板火了",
    "title": "手机越来越卷 凭什么阔直板火了",
    "rating": "A",
@@ -16843,6 +16830,32 @@
    "breaking": true,
    "event_id": "e:对隔夜美股暴跌的初步分析网页链接网页链接",
    "batch_window": 16
+  },
+  {
+   "key": "c罗世界杯更衣室发言首度披露",
+   "title": "C罗世界杯更衣室发言首度披露",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解读C罗发言背后的领导力特质及对当代职场人的情绪价值",
+   "hook_reason": "顶级流量偶像更衣室真实言论，满足窥私欲与权威认同",
+   "url": "https://s.weibo.com/weibo?q=C罗世界杯更衣室发言首度披露",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:c罗世界杯更衣室发言首度披露",
+   "batch_window": 17
+  },
+  {
+   "key": "adhd怎么成了一门生意",
+   "title": "ADHD怎么成了一门生意",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "揭秘ADHD诊断产业化与资本逐利链条，警惕心理健康被过度商品化",
+   "hook_reason": "ADHD变现背后涉及泛健康消费陷阱，切中打工人健康焦虑",
+   "url": "https://www.baidu.com/s?wd=ADHD%E6%80%8E%E4%B9%88%E6%88%90%E4%BA%86%E4%B8%80%E9%97%A8%E7%94%9F%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:adhd怎么成了一门生意",
+   "batch_window": 17
   }
  ],
  "pushed": [
@@ -18043,7 +18056,8 @@
   "美第一夫人写信给普京与泽连斯基",
   "李斌再度警示车重问题",
   "南京零元面馆爆火",
-  "外卖大战三家少了上千亿"
+  "外卖大战三家少了上千亿",
+  "余艳红被查"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19180,7 +19194,8 @@
   "e:美第一夫人写信给普京与泽连斯基": "美第一夫人写信给普京与泽连斯基",
   "e:李斌再度警示车重问题": "李斌再度警示车重问题",
   "e:南京零元面馆爆火": "南京零元面馆爆火",
-  "e:外卖大战三家少了上千亿": "外卖大战三家少了上千亿"
+  "e:外卖大战三家少了上千亿": "外卖大战三家少了上千亿",
+  "e:余艳红被查": "余艳红被查"
  },
  "a_seen": {
   "存储巨头闪迪将于两周后拆股": {
@@ -19907,9 +19922,9 @@
    "key": "中国ai短剧被韩配搬运",
    "title": "中国AI短剧被韩配搬运",
    "rating": "A",
-   "score": 73.4,
-   "angle": "深度拆解AI短剧出海的版权灰色地带与韩国配音产业的快速响应机制",
-   "hook_reason": "国产AI内容出海被抢，文化反向输出与版权争议",
+   "score": 66.9,
+   "angle": "剖析AI短剧出海版权保护困境，预测中韩影视技术博弈新战局",
+   "hook_reason": "中国AI短剧被韩国盗配，版权冲突+民族情绪",
    "url": "https://s.weibo.com/weibo?q=中国AI短剧被韩配搬运",
    "track": "科技",
    "breaking": true,
@@ -19950,8 +19965,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:对隔夜美股暴跌的初步分析网页链接网页链接"
+  },
+  "c罗世界杯更衣室发言首度披露": {
+   "key": "c罗世界杯更衣室发言首度披露",
+   "title": "C罗世界杯更衣室发言首度披露",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解读C罗发言背后的领导力特质及对当代职场人的情绪价值",
+   "hook_reason": "顶级流量偶像更衣室真实言论，满足窥私欲与权威认同",
+   "url": "https://s.weibo.com/weibo?q=C罗世界杯更衣室发言首度披露",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:c罗世界杯更衣室发言首度披露"
+  },
+  "adhd怎么成了一门生意": {
+   "key": "adhd怎么成了一门生意",
+   "title": "ADHD怎么成了一门生意",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "揭秘ADHD诊断产业化与资本逐利链条，警惕心理健康被过度商品化",
+   "hook_reason": "ADHD变现背后涉及泛健康消费陷阱，切中打工人健康焦虑",
+   "url": "https://www.baidu.com/s?wd=ADHD%E6%80%8E%E4%B9%88%E6%88%90%E4%BA%86%E4%B8%80%E9%97%A8%E7%94%9F%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:adhd怎么成了一门生意"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 16
+ "a_pushed_window": 17
 }
