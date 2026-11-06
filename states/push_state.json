@@ -16752,6 +16752,32 @@
    "breaking": true,
    "event_id": "e:聋哑人被众筹平台扣费5年",
    "batch_window": 13
+  },
+  {
+   "key": "皮肤碰就破女孩出生前产检一路绿灯",
+   "title": "皮肤碰就破女孩出生前产检一路绿灯",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "揭露现代产检盲区，警示家属对异常指标的警惕",
+   "hook_reason": "产检漏诊致严重后遗症，触动家庭健康焦虑",
+   "url": "https://s.weibo.com/weibo?q=皮肤碰就破女孩出生前产检一路绿灯",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:皮肤碰就破女孩出生前产检一路绿灯",
+   "batch_window": 15
+  },
+  {
+   "key": "萝卜快跑逼出乘客路怒症",
+   "title": "萝卜快跑逼出乘客路怒症",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "从“代驾型路怒”切入，探讨自动驾驶普及后人类驾驶技能退化与社会心理冲突。",
+   "hook_reason": "Robotaxi致人类路怒，科技改变驾驶习惯，意外反差感强。",
+   "url": "https://s.weibo.com/weibo?q=萝卜快跑逼出乘客路怒症",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:萝卜快跑逼出乘客路怒症",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -19749,6 +19775,30 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:聋哑人被众筹平台扣费5年"
+  },
+  "皮肤碰就破女孩出生前产检一路绿灯": {
+   "key": "皮肤碰就破女孩出生前产检一路绿灯",
+   "title": "皮肤碰就破女孩出生前产检一路绿灯",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "揭露现代产检盲区，警示家属对异常指标的警惕",
+   "hook_reason": "产检漏诊致严重后遗症，触动家庭健康焦虑",
+   "url": "https://s.weibo.com/weibo?q=皮肤碰就破女孩出生前产检一路绿灯",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:皮肤碰就破女孩出生前产检一路绿灯"
+  },
+  "萝卜快跑逼出乘客路怒症": {
+   "key": "萝卜快跑逼出乘客路怒症",
+   "title": "萝卜快跑逼出乘客路怒症",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "从“代驾型路怒”切入，探讨自动驾驶普及后人类驾驶技能退化与社会心理冲突。",
+   "hook_reason": "Robotaxi致人类路怒，科技改变驾驶习惯，意外反差感强。",
+   "url": "https://s.weibo.com/weibo?q=萝卜快跑逼出乘客路怒症",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:萝卜快跑逼出乘客路怒症"
   }
  },
  "breaking_count": 10,
