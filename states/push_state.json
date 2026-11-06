@@ -16611,19 +16611,6 @@
    "batch_window": 10
   },
   {
-   "key": "美第一夫人写信给普京与泽连斯基",
-   "title": "美第一夫人写信给普京与泽连斯基",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从美国第一夫人万斯的外交举动切入，分析其对俄乌谈判进程的影响及美国政坛风向变化",
-   "hook_reason": "美国第一夫人介入俄乌和谈，政治身份+国际冲突双重引爆点",
-   "url": "https://www.toutiao.com/trending/7703931059003457577/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:美第一夫人写信给普京与泽连斯基",
-   "batch_window": 11
-  },
-  {
    "key": "外卖大战三家少了上千亿",
    "title": "外卖大战三家少了上千亿",
    "rating": "A",
@@ -16739,6 +16726,58 @@
    "breaking": true,
    "event_id": "e:黄仁勋的神话被谁撕碎了",
    "batch_window": 12
+  },
+  {
+   "key": "tim称几乎0人觉得macbookpro触屏刚需",
+   "title": "Tim称几乎0人觉得MacBookPro触屏刚需",
+   "rating": "A",
+   "score": 77.51,
+   "angle": "深挖苹果触屏失败史，分析Tim决策逻辑与消费者真实需求错位",
+   "hook_reason": "苹果高管否认触屏MacBook需求，直击科技圈敏感痛点",
+   "url": "https://s.weibo.com/weibo?q=Tim称几乎0人觉得MacBookPro触屏刚需",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:tim称几乎0人觉得macbookpro触屏刚需",
+   "batch_window": 13
+  },
+  {
+   "key": "美股暴跌马斯克发出感叹哇",
+   "title": "美股暴跌马斯克发出感叹哇",
+   "rating": "A",
+   "score": 45.25,
+   "angle": "从马斯克个人感叹切入，解读美股暴跌背后逻辑及对散户/中概股影响",
+   "hook_reason": "美股暴跌+马斯克惊呼，双重爆点直击股民和科技圈",
+   "url": "https://s.weibo.com/weibo?q=美股暴跌马斯克发出感叹哇",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美股暴跌马斯克发出感叹哇",
+   "batch_window": 13
+  },
+  {
+   "key": "进博会首发7款ai医疗新品",
+   "title": "进博会首发7款AI医疗新品",
+   "rating": "A",
+   "score": 43.1,
+   "angle": "从进博会科技展区切入，盘点AI医疗最新突破与应用前景",
+   "hook_reason": "AI+医疗双重热门，7款新品首发冲击健康焦虑人群",
+   "url": "https://s.weibo.com/weibo?q=进博会首发7款AI医疗新品",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:进博会首发7款ai医疗新品",
+   "batch_window": 13
+  },
+  {
+   "key": "聋哑人被众筹平台扣费5年",
+   "title": "聋哑人被众筹平台扣费5年",
+   "rating": "A",
+   "score": 55.21,
+   "angle": "从平台算费机制漏洞切入，追问为何聋哑人5年才发现，平台责任与监管缺失",
+   "hook_reason": "聋哑人弱势群体被平台连扣5年，情绪爆点强，极易引发共鸣愤怒",
+   "url": "https://s.weibo.com/weibo?q=聋哑人被众筹平台扣费5年",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:聋哑人被众筹平台扣费5年",
+   "batch_window": 13
   }
  ],
  "pushed": [
@@ -17935,7 +17974,8 @@
   "罗正自曝徐艺洋退回份子钱",
   "54岁大哥靠ai短剧还清负债",
   "何同学说macbookpro触屏不好用",
-  "三岁半男孩给电视里的红军递饼干"
+  "三岁半男孩给电视里的红军递饼干",
+  "美第一夫人写信给普京与泽连斯基"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19068,7 +19108,8 @@
   "e:罗正自曝徐艺洋退回份子钱": "罗正自曝徐艺洋退回份子钱",
   "e:54岁大哥靠ai短剧还清负债": "54岁大哥靠AI短剧还清负债",
   "e:何同学说macbookpro触屏不好用": "何同学说MacBookPro触屏不好用",
-  "e:三岁半男孩给电视里的红军递饼干": "三岁半男孩给电视里的红军递饼干"
+  "e:三岁半男孩给电视里的红军递饼干": "三岁半男孩给电视里的红军递饼干",
+  "e:美第一夫人写信给普京与泽连斯基": "美第一夫人写信给普京与泽连斯基"
  },
  "a_seen": {
   "存储巨头闪迪将于两周后拆股": {
@@ -19675,15 +19716,63 @@
    "key": "黄仁勋的神话被谁撕碎了",
    "title": "黄仁勋的神话被谁撕碎了",
    "rating": "A",
-   "score": 46.75,
-   "angle": "从黄仁勋权威挑战切入，分析AI芯片竞争格局重塑背后的商业逻辑",
-   "hook_reason": "科技教父神话破灭，引发读者对英伟达现状的好奇",
+   "score": 53.17,
+   "angle": "从英伟达业绩/股价波动切入，剖析AI芯片竞争格局变化，解读光环褪色的背后逻辑",
+   "hook_reason": "黄仁勋神话崩塌，英伟达遭遇挑战，科技圈震动",
    "url": "https://www.toutiao.com/trending/7704897192376405546/",
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:黄仁勋的神话被谁撕碎了"
+  },
+  "tim称几乎0人觉得macbookpro触屏刚需": {
+   "key": "tim称几乎0人觉得macbookpro触屏刚需",
+   "title": "Tim称几乎0人觉得MacBookPro触屏刚需",
+   "rating": "A",
+   "score": 77.51,
+   "angle": "深挖苹果触屏失败史，分析Tim决策逻辑与消费者真实需求错位",
+   "hook_reason": "苹果高管否认触屏MacBook需求，直击科技圈敏感痛点",
+   "url": "https://s.weibo.com/weibo?q=Tim称几乎0人觉得MacBookPro触屏刚需",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:tim称几乎0人觉得macbookpro触屏刚需"
+  },
+  "美股暴跌马斯克发出感叹哇": {
+   "key": "美股暴跌马斯克发出感叹哇",
+   "title": "美股暴跌马斯克发出感叹哇",
+   "rating": "A",
+   "score": 45.25,
+   "angle": "从马斯克个人感叹切入，解读美股暴跌背后逻辑及对散户/中概股影响",
+   "hook_reason": "美股暴跌+马斯克惊呼，双重爆点直击股民和科技圈",
+   "url": "https://s.weibo.com/weibo?q=美股暴跌马斯克发出感叹哇",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美股暴跌马斯克发出感叹哇"
+  },
+  "进博会首发7款ai医疗新品": {
+   "key": "进博会首发7款ai医疗新品",
+   "title": "进博会首发7款AI医疗新品",
+   "rating": "A",
+   "score": 43.1,
+   "angle": "从进博会科技展区切入，盘点AI医疗最新突破与应用前景",
+   "hook_reason": "AI+医疗双重热门，7款新品首发冲击健康焦虑人群",
+   "url": "https://s.weibo.com/weibo?q=进博会首发7款AI医疗新品",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:进博会首发7款ai医疗新品"
+  },
+  "聋哑人被众筹平台扣费5年": {
+   "key": "聋哑人被众筹平台扣费5年",
+   "title": "聋哑人被众筹平台扣费5年",
+   "rating": "A",
+   "score": 55.21,
+   "angle": "从平台算费机制漏洞切入，追问为何聋哑人5年才发现，平台责任与监管缺失",
+   "hook_reason": "聋哑人弱势群体被平台连扣5年，情绪爆点强，极易引发共鸣愤怒",
+   "url": "https://s.weibo.com/weibo?q=聋哑人被众筹平台扣费5年",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:聋哑人被众筹平台扣费5年"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 12
+ "a_pushed_window": 13
 }
