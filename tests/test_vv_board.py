@@ -204,6 +204,16 @@ class TestPlanVvPush(unittest.TestCase):
         self.assertIn("B0", content)
         self.assertNotIn("A0", content)
 
+    def test_new_items_capped_per_push(self):
+        st = {}
+        many = self.items(n=15, tag="N")
+        ok, title, _ = plan_vv_push(many, st, "2026-10-05", vv_cfg({}))
+        self.assertTrue(ok)
+        self.assertEqual(title, "大V新博 10条")     # 单次上限=push_top
+        ok2, title2, _ = plan_vv_push(many, st, "2026-10-05", vv_cfg({}))
+        self.assertTrue(ok2)
+        self.assertEqual(title2, "大V新博 5条")     # 剩余下一轮补推
+
     def test_seen_urls_not_repeated_next_day(self):
         st = {}
         plan_vv_push(self.items(tag="A"), st, "2026-10-05", vv_cfg({}))

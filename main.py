@@ -166,8 +166,9 @@ def run_round(cfg: dict) -> dict:
     vv_state_path = os.path.join(out_dir, "states", "vv_push_state.json")
     try:
         vst = load_state(vv_state_path)
+        # 全窗口参与「新增」判定，单次条数由 plan_vv_push 内 push_top 截断
         ok, vv_title, vv_content = plan_vv_push(
-            vv_items[:vv_conf["push_top"]], vst, date_str, vv_conf)
+            vv_items, vst, date_str, vv_conf)
         if ok:
             pushes.append({"kind": "vv", "result": notify(vv_title, vv_content, cfg)})
         save_state(vv_state_path, vst)

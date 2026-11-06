@@ -186,6 +186,9 @@ def plan_vv_push(items: list, state: dict, date_str: str, c: dict) -> tuple:
         return False, "", ""
     if int(state.get("vv_count") or 0) >= maxn:
         return False, "", ""
+    cap = int(c.get("push_top", DEFAULTS["push_top"]))
+    new_items = sorted(new_items, key=lambda x: float(x.get("heat") or 0),
+                       reverse=True)[:cap]
     urls = list(seen) + [str(i.get("url") or "") for i in new_items]
     state["vv_sig"] = "|".join(urls[-1000:])
     state["vv_count"] = int(state.get("vv_count") or 0) + 1
