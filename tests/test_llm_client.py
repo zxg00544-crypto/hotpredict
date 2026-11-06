@@ -1,4 +1,5 @@
 # tests/test_llm_client.py
+import os
 import unittest, json
 from unittest.mock import patch
 import requests
@@ -14,15 +15,21 @@ def _http_err(code=429, retry_after="15"):
     return requests.HTTPError("http error", response=r)
 
 
+OPENCODE_JSON = r"C:\Users\Admin\.config\opencode\opencode.json"
+
+
 class TestLLMClient(unittest.TestCase):
+    @unittest.skipUnless(os.path.exists(OPENCODE_JSON), "本机无 opencode.json")
     def test_load_cfg_reads_opencode_json(self):
         cfg = load_llm_cfg({
-            "llm": {"config_path": r"C:\Users\Admin\.config\opencode\opencode.json",
+            "llm": {"config_path": OPENCODE_JSON,
                     "provider": "opencode", "model": "mimo-v2.6-flash-free",
                     "fallback_models": ["deepseek-v4-flash-free"]}})
         self.assertTrue(cfg["base_url"].startswith("https://"))
-        self.assertTrue(cfg["api_key"].startswith("sk-"))
-        self.assertNotIn(cfg["api_key"], str({k: v for k, v in cfg.items() if k != "api_key"}))
+        # 不锁前缀：厂商密钥格式不一（本机为 oc_sk_，旧断言写死 sk- 会误报）
+        key = cfg["api_key"]
+        self.assertTrue(key and len(key) >= 20)
+        self.assertNotIn(key, str({k: v for k, v in cfg.items() if k != "api_key"}))
 
     def test_pick_model_returns_fallback_chain(self):
         models = pick_model({"model": "m", "fallback_models": ["a", "b"]})
