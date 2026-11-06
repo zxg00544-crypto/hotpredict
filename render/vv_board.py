@@ -18,8 +18,8 @@ from email.utils import parsedate_to_datetime
 from urlclean import clean_url
 
 DEFAULTS = {"window_hours": 72, "per_author": 2, "file_top": 10,
-            "push_top": 10, "max_push_per_day": 3,
-            "min_distinct": 6, "min_chars": 5}
+            "push_top": 10, "min_distinct": 6, "min_chars": 5,
+            "max_push_per_day": 8}
 VV_SOURCES = ("weibo_v",)
 EMPTY_MSG = "今日暂无大V博文"
 
@@ -171,29 +171,30 @@ def render_vv(items: list, date_str: str, meta: dict) -> str:
 
 
 def plan_vv_push(items: list, state: dict, date_str: str, c: dict) -> tuple:
-    """返回 (是否推送, 标题, 内容)。空数据不推；同 sig 不重推；每日封顶。
-    state 就地更新，调用方负责 save_state。"""
+    """返回 (是否推送, 标题, 内容)。**只推新增博文**（与已推 url 集合求差集），
+    空则不推；每日 max_push_per_day 封顶；vv_sig 累积已推 url（跨日不清，
+    最多留 1000 条），保证同一条博文不会被推第二次。state 就地更新。"""
     if not items:
         return False, "", ""
     maxn = int(c.get("max_push_per_day", DEFAULTS["max_push_per_day"]))
     if state.get("vv_date") != date_str:
         state["vv_date"] = date_str
         state["vv_count"] = 0
-        state["vv_sig"] = ""
-    sig = "|".join(str(i.get("url") or "") for i in items)
-    if sig == state.get("vv_sig"):
+    seen = {u for u in str(state.get("vv_sig") or "").split("|") if u}
+    new_items = [i for i in items if str(i.get("url") or "") not in seen]
+    if not new_items:
         return False, "", ""
     if int(state.get("vv_count") or 0) >= maxn:
         return False, "", ""
+    urls = list(seen) + [str(i.get("url") or "") for i in new_items]
+    state["vv_sig"] = "|".join(urls[-1000:])
+    state["vv_count"] = int(state.get("vv_count") or 0) + 1
     _win = int(c.get("window_hours", DEFAULTS["window_hours"]))
-    _per = int(c.get("per_author", DEFAULTS["per_author"]))
-    lines = [f"近{_win}h 互动量最高（每人≤{_per}条）："]
-    for i, it in enumerate(items, 1):
+    lines = [f"近{_win}h 新增 {len(new_items)} 条："]
+    for i, it in enumerate(new_items, 1):
         title = _cell(it.get("title"))
         lines.append(f"{i}. {_author(it.get('url'))} · {title} "
                      f"— {int(it.get('heat') or 0)}")
         if it.get("url"):
             lines.append(str(it["url"]))
-    state["vv_sig"] = sig
-    state["vv_count"] = int(state.get("vv_count") or 0) + 1
-    return True, f"大V动向 Top{len(items)}", "\n".join(lines)
+    return True, f"大V新博 {len(new_items)}条", "\n".join(lines)

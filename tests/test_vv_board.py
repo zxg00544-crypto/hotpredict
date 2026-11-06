@@ -41,7 +41,7 @@ class TestVVConfig(unittest.TestCase):
         self.assertEqual(c["window_hours"], 72)
         self.assertEqual(c["per_author"], 2)
         self.assertEqual(c["push_top"], 10)
-        self.assertEqual(c["max_push_per_day"], 3)
+        self.assertEqual(c["max_push_per_day"], 8)
 
 
 class TestSelectTop(unittest.TestCase):
@@ -166,7 +166,7 @@ class TestPlanVvPush(unittest.TestCase):
         ok, title, content = plan_vv_push(self.items(), st, "2026-10-05",
                                           vv_cfg({}))
         self.assertTrue(ok)
-        self.assertEqual(title, "大V动向 Top3")
+        self.assertEqual(title, "大V新博 3条")
         for i in range(3):
             self.assertIn(f"A{i}", content)
         self.assertEqual(st["vv_date"], "2026-10-05")
@@ -190,17 +190,36 @@ class TestPlanVvPush(unittest.TestCase):
                                           "2026-10-05", vv_cfg({}))
         self.assertTrue(ok)
         self.assertIn("B0", content)
+        self.assertNotIn("A0", content)      # 旧博文不重复推
         self.assertEqual(st["vv_count"], 2)
 
+    def test_only_new_items_pushed(self):
+        st = {}
+        first = self.items(tag="A")
+        plan_vv_push(first, st, "2026-10-05", vv_cfg({}))
+        ok, title, content = plan_vv_push(first + self.items(tag="B"), st,
+                                          "2026-10-05", vv_cfg({}))
+        self.assertTrue(ok)
+        self.assertEqual(title, "大V新博 3条")
+        self.assertIn("B0", content)
+        self.assertNotIn("A0", content)
+
+    def test_seen_urls_not_repeated_next_day(self):
+        st = {}
+        plan_vv_push(self.items(tag="A"), st, "2026-10-05", vv_cfg({}))
+        ok, _, _ = plan_vv_push(self.items(tag="A"), st, "2026-10-06",
+                                vv_cfg({}))
+        self.assertFalse(ok)                 # vv_sig 跨日保留，旧博不再推
+
     def test_daily_cap_blocks_push(self):
-        st = {"vv_date": "2026-10-05", "vv_count": 3, "vv_sig": "old"}
+        st = {"vv_date": "2026-10-05", "vv_count": 8, "vv_sig": ""}
         ok, _, _ = plan_vv_push(self.items(tag="C"), st, "2026-10-05",
                                 vv_cfg({}))
         self.assertFalse(ok)
-        self.assertEqual(st["vv_count"], 3)
+        self.assertEqual(st["vv_count"], 8)
 
-    def test_new_date_resets_cap_and_sig(self):
-        st = {"vv_date": "2026-10-04", "vv_count": 3, "vv_sig": "old"}
+    def test_new_date_resets_cap(self):
+        st = {"vv_date": "2026-10-04", "vv_count": 8, "vv_sig": ""}
         ok, _, _ = plan_vv_push(self.items(tag="D"), st, "2026-10-05",
                                 vv_cfg({}))
         self.assertTrue(ok)
