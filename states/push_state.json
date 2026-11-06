@@ -16791,6 +16791,19 @@
    "breaking": true,
    "event_id": "e:13岁少年性侵女童被送专门学校矫治",
    "batch_window": 16
+  },
+  {
+   "key": "两口子懒得拍婚纱照让ai生成",
+   "title": "两口子懒得拍婚纱照让AI生成",
+   "rating": "A",
+   "score": 79.05,
+   "angle": "AI低成本替代线下服务，分析技术普惠性对消费习惯的重塑",
+   "hook_reason": "AI省钱懒人福音，颠覆传统婚纱摄影认知",
+   "url": "https://s.weibo.com/weibo?q=两口子懒得拍婚纱照让AI生成",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:两口子懒得拍婚纱照让ai生成",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -19820,8 +19833,8 @@
    "title": "美国股市为何暴跌",
    "rating": "A",
    "score": 81.75,
-   "angle": "解析暴跌背后的宏观逻辑，给散户提供当下避险与抄底的具体策略。",
-   "hook_reason": "美股深夜巨震，散户账户瞬间缩水，全球资金避险潮。",
+   "angle": "复盘暴跌导火索：是宏观数据不及预期还是地缘政治黑天鹅？",
+   "hook_reason": "美股突发暴跌，投资者急需解读原因，焦虑情绪拉满。",
    "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E6%9A%B4%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news",
    "track": "财经",
    "breaking": true,
@@ -19838,6 +19851,18 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:13岁少年性侵女童被送专门学校矫治"
+  },
+  "两口子懒得拍婚纱照让ai生成": {
+   "key": "两口子懒得拍婚纱照让ai生成",
+   "title": "两口子懒得拍婚纱照让AI生成",
+   "rating": "A",
+   "score": 79.05,
+   "angle": "AI低成本替代线下服务，分析技术普惠性对消费习惯的重塑",
+   "hook_reason": "AI省钱懒人福音，颠覆传统婚纱摄影认知",
+   "url": "https://s.weibo.com/weibo?q=两口子懒得拍婚纱照让AI生成",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:两口子懒得拍婚纱照让ai生成"
   }
  },
  "breaking_count": 10,
