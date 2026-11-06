@@ -16869,6 +16869,19 @@
    "breaking": true,
    "event_id": "e:如何看待仰望u9xtreme在阿布扎比开放公路跑出50317kmh这件事",
    "batch_window": 21
+  },
+  {
+   "key": "残疾人证怎么成了生意",
+   "title": "残疾人证怎么成了生意",
+   "rating": "A",
+   "score": 82.82,
+   "angle": "深挖‘假残真富’黑产链条，从社保套利到身份造假，拆解灰色生意背后的监管漏洞与社会信任危机。",
+   "hook_reason": "揭秘黑产内幕，涉及普通人身份焦虑，反差感极强",
+   "url": "https://www.baidu.com/s?wd=%E6%AE%8B%E7%96%BE%E4%BA%BA%E8%AF%81%E6%80%8E%E4%B9%88%E6%88%90%E4%BA%86%E7%94%9F%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:残疾人证怎么成了生意",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -20084,6 +20097,18 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:如何看待仰望u9xtreme在阿布扎比开放公路跑出50317kmh这件事"
+  },
+  "残疾人证怎么成了生意": {
+   "key": "残疾人证怎么成了生意",
+   "title": "残疾人证怎么成了生意",
+   "rating": "A",
+   "score": 82.82,
+   "angle": "深挖‘假残真富’黑产链条，从社保套利到身份造假，拆解灰色生意背后的监管漏洞与社会信任危机。",
+   "hook_reason": "揭秘黑产内幕，涉及普通人身份焦虑，反差感极强",
+   "url": "https://www.baidu.com/s?wd=%E6%AE%8B%E7%96%BE%E4%BA%BA%E8%AF%81%E6%80%8E%E4%B9%88%E6%88%90%E4%BA%86%E7%94%9F%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:残疾人证怎么成了生意"
   }
  },
  "breaking_count": 10,
