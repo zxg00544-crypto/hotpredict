@@ -14336,19 +14336,6 @@
    "batch_window": 9
   },
   {
-   "key": "调杠杆给临近爆仓账户一线生机",
-   "title": "调杠杆给临近爆仓账户一线生机",
-   "rating": "A",
-   "score": 86.5,
-   "angle": "从交易所调杠杆救爆仓账户切入，分析其合理性、风险及对散户的启示",
-   "hook_reason": "爆仓账户被救，散户最关心的生存问题",
-   "url": "https://s.weibo.com/weibo?q=调杠杆给临近爆仓账户一线生机",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:调杠杆给临近爆仓账户一线生机",
-   "batch_window": 9
-  },
-  {
    "key": "巩立姣退役后减重60多斤",
    "title": "巩立姣退役后减重60多斤",
    "rating": "A",
@@ -16843,6 +16830,58 @@
    "breaking": true,
    "event_id": "e:teslatowinddowncybertruckproduction",
    "batch_window": 3
+  },
+  {
+   "key": "firecrackervmescapepwnescapepart2",
+   "title": "Firecracker VM Escape: PwnEscape Part 2",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "深度解析PwnEscape Part 2原理，评估对AWS Lambda及云原生AI基础设施的潜在影响与修复方案",
+   "hook_reason": "Firecracker越狱漏洞曝光，云安全大模型训练环境恐受波及",
+   "url": "https://pwn.ai/blog/firecracker-escape",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:firecrackervmescapepwnescapepart2",
+   "batch_window": 5
+  },
+  {
+   "key": "ajevthatcanaskopusforhelpgivesop1e80b7a6",
+   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+   "rating": "A",
+   "score": 75.15,
+   "angle": "揭秘低成本“伪智能”背后的真实逻辑：小模型做路由，大模型做核心，如何实现4倍成本优化？",
+   "hook_reason": "4倍降本神话：AI打杂竟能调用最强大脑，颠覆效率认知",
+   "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ajevthatcanaskopusforhelpgivesopusaccura",
+   "batch_window": 5
+  },
+  {
+   "key": "车站回应制止旅客救倒地男子",
+   "title": "车站回应制止旅客救倒地男子",
+   "rating": "A",
+   "score": 47.15,
+   "angle": "从旁观者视角分析车站‘过度管理’与公民救助权冲突，探讨善行免责边界",
+   "hook_reason": "扶人反被拦，直击道德底线与法律困境，情绪极强",
+   "url": "https://s.weibo.com/weibo?q=车站回应制止旅客救倒地男子",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:车站回应制止旅客救倒地男子",
+   "batch_window": 5
+  },
+  {
+   "key": "特朗普称正在与伊朗进行沟通",
+   "title": "特朗普称正在与伊朗进行沟通",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "特朗普对话伊朗，美伊局势缓和预期对原油及避险资产的冲击",
+   "hook_reason": "地缘政治突变，直接影响市场情绪与油价",
+   "url": "https://finance.sina.cn/7x24/2026-11-07/detail-inixwakh8344220.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:特朗普称正在与伊朗进行沟通",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -18065,7 +18104,8 @@
   "特朗普称或用总统否决权抗衡民主党",
   "李嘉格自曝被车澈打压",
   "独生子女不一定能继承父母全部遗产",
-  "菲律宾迷魂党盯上中国游客"
+  "菲律宾迷魂党盯上中国游客",
+  "调杠杆给临近爆仓账户一线生机"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19224,7 +19264,8 @@
   "e:特朗普称或用总统否决权抗衡民主党": "特朗普称或用总统否决权抗衡民主党",
   "e:李嘉格自曝被车澈打压": "李嘉格自曝被车澈打压",
   "e:独生子女不一定能继承父母全部遗产": "独生子女不一定能继承父母全部遗产",
-  "e:菲律宾迷魂党盯上中国游客": "菲律宾“迷魂党”盯上中国游客"
+  "e:菲律宾迷魂党盯上中国游客": "菲律宾“迷魂党”盯上中国游客",
+  "e:调杠杆给临近爆仓账户一线生机": "调杠杆给临近爆仓账户一线生机"
  },
  "a_seen": {
   "美股历史性暴跌或影响金价": {
@@ -19274,8 +19315,56 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:teslatowinddowncybertruckproduction"
+  },
+  "firecrackervmescapepwnescapepart2": {
+   "key": "firecrackervmescapepwnescapepart2",
+   "title": "Firecracker VM Escape: PwnEscape Part 2",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "深度解析PwnEscape Part 2原理，评估对AWS Lambda及云原生AI基础设施的潜在影响与修复方案",
+   "hook_reason": "Firecracker越狱漏洞曝光，云安全大模型训练环境恐受波及",
+   "url": "https://pwn.ai/blog/firecracker-escape",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:firecrackervmescapepwnescapepart2"
+  },
+  "ajevthatcanaskopusforhelpgivesop1e80b7a6": {
+   "key": "ajevthatcanaskopusforhelpgivesop1e80b7a6",
+   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+   "rating": "A",
+   "score": 75.15,
+   "angle": "揭秘低成本“伪智能”背后的真实逻辑：小模型做路由，大模型做核心，如何实现4倍成本优化？",
+   "hook_reason": "4倍降本神话：AI打杂竟能调用最强大脑，颠覆效率认知",
+   "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ajevthatcanaskopusforhelpgivesopusaccura"
+  },
+  "车站回应制止旅客救倒地男子": {
+   "key": "车站回应制止旅客救倒地男子",
+   "title": "车站回应制止旅客救倒地男子",
+   "rating": "A",
+   "score": 47.15,
+   "angle": "从旁观者视角分析车站‘过度管理’与公民救助权冲突，探讨善行免责边界",
+   "hook_reason": "扶人反被拦，直击道德底线与法律困境，情绪极强",
+   "url": "https://s.weibo.com/weibo?q=车站回应制止旅客救倒地男子",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:车站回应制止旅客救倒地男子"
+  },
+  "特朗普称正在与伊朗进行沟通": {
+   "key": "特朗普称正在与伊朗进行沟通",
+   "title": "特朗普称正在与伊朗进行沟通",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "特朗普对话伊朗，美伊局势缓和预期对原油及避险资产的冲击",
+   "hook_reason": "地缘政治突变，直接影响市场情绪与油价",
+   "url": "https://finance.sina.cn/7x24/2026-11-07/detail-inixwakh8344220.d.html",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:特朗普称正在与伊朗进行沟通"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
