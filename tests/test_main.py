@@ -118,15 +118,15 @@ class TestMain(unittest.TestCase):
         def fake_collector(cfg):
             return [
                 Signal(topic_key=topic_key("大V微博甲"), source="weibo_v",
-                       title="甲博文一", url="https://weibo.com/111/bA",
+                       title="甲博文第一条", url="https://weibo.com/111/bA",
                        heat=300, rank=1, rank_delta=0, engagement=100,
                        author_weight=0.9, fetched_at=now),
                 Signal(topic_key=topic_key("大V微博甲2"), source="weibo_v",
-                       title="甲博文二", url="https://weibo.com/111/bB",
+                       title="甲博文第二条", url="https://weibo.com/111/bB",
                        heat=200, rank=2, rank_delta=0, engagement=80,
                        author_weight=0.9, fetched_at=now),
                 Signal(topic_key=topic_key("大V微博乙"), source="weibo_v",
-                       title="乙博文一", url="https://weibo.com/222/bC",
+                       title="乙博文第一条", url="https://weibo.com/222/bC",
                        heat=150, rank=3, rank_delta=0, engagement=60,
                        author_weight=0.8, fetched_at=now),
             ]

@@ -38,8 +38,8 @@ class TestVVConfig(unittest.TestCase):
     def test_override_keeps_other_defaults(self):
         c = vv_cfg({"vv": {"file_top": 5}})
         self.assertEqual(c["file_top"], 5)
-        self.assertEqual(c["window_hours"], 24)
-        self.assertEqual(c["per_author"], 3)
+        self.assertEqual(c["window_hours"], 72)
+        self.assertEqual(c["per_author"], 2)
         self.assertEqual(c["push_top"], 10)
         self.assertEqual(c["max_push_per_day"], 3)
 
@@ -47,62 +47,89 @@ class TestVVConfig(unittest.TestCase):
 class TestSelectTop(unittest.TestCase):
     def rows(self):
         return [
-            {"title": "low", "url": uid_url(1, "b1"), "heat": 10.0,
+            {"title": "低频内容项", "url": uid_url(1, "b1"), "heat": 10.0,
              "fetched_at": "2026-10-05T01:00:00", "published_at": ""},
-            {"title": "mid", "url": uid_url(2, "b2"), "heat": 50.0,
+            {"title": "中频内容项", "url": uid_url(2, "b2"), "heat": 50.0,
              "fetched_at": "2026-10-05T02:00:00", "published_at": ""},
-            {"title": "high", "url": uid_url(3, "b3"), "heat": 90.0,
+            {"title": "高频内容项", "url": uid_url(3, "b3"), "heat": 90.0,
              "fetched_at": "2026-10-05T03:00:00", "published_at": ""},
         ]
 
     def test_orders_by_heat_desc(self):
         out = select_top(self.rows(), vv_cfg({}))
-        self.assertEqual([r["title"] for r in out], ["high", "mid", "low"])
+        self.assertEqual([r["title"] for r in out],
+                         ["高频内容项", "中频内容项", "低频内容项"])
 
-    def test_per_author_limit_three(self):
-        rows = [{"title": f"p{i}", "url": uid_url(7, f"b{i}"),
+    def test_per_author_limit_two(self):
+        rows = [{"title": f"内容条目p{i}", "url": uid_url(7, f"b{i}"),
                  "heat": float(100 - i), "fetched_at": "2026-10-05T01:00:00",
                  "published_at": ""} for i in range(5)]
         out = select_top(rows, vv_cfg({}))
-        self.assertEqual(len(out), 3)
-        self.assertEqual([r["title"] for r in out], ["p0", "p1", "p2"])
+        self.assertEqual(len(out), 2)
+        self.assertEqual([r["title"] for r in out], ["内容条目p0", "内容条目p1"])
 
     def test_same_author_cap_not_crossed_by_extra_author(self):
-        rows = [{"title": f"a{i}", "url": uid_url(1, f"x{i}"),
+        rows = [{"title": f"甲号内容{i}", "url": uid_url(1, f"x{i}"),
                  "heat": float(50 - i), "fetched_at": "2026-10-05T01:00:00"}
                 for i in range(3)]
-        rows += [{"title": f"b{i}", "url": uid_url(2, f"y{i}"),
+        rows += [{"title": f"乙号内容{i}", "url": uid_url(2, f"y{i}"),
                   "heat": float(40 - i), "fetched_at": "2026-10-05T01:00:00"}
                  for i in range(3)]
         out = select_top(rows, vv_cfg({}))
-        self.assertEqual(len(out), 6)
-        self.assertEqual(sum(1 for r in out if r["title"].startswith("a")), 3)
-        self.assertEqual(sum(1 for r in out if r["title"].startswith("b")), 3)
+        self.assertEqual(len(out), 4)
+        self.assertEqual(sum(1 for r in out if r["title"].startswith("甲号")), 2)
+        self.assertEqual(sum(1 for r in out if r["title"].startswith("乙号")), 2)
 
     def test_url_dedup(self):
         u = uid_url(9, "same")
-        rows = [{"title": "one", "url": u, "heat": 5.0,
+        rows = [{"title": "第一条内容", "url": u, "heat": 5.0,
                  "fetched_at": "2026-10-05T01:00:00"},
-                {"title": "two", "url": u, "heat": 4.0,
+                {"title": "第二条内容", "url": u, "heat": 4.0,
                  "fetched_at": "2026-10-05T02:00:00"}]
         out = select_top(rows, vv_cfg({}))
         self.assertEqual(len(out), 1)
-        self.assertEqual(out[0]["title"], "one")
+        self.assertEqual(out[0]["title"], "第一条内容")
 
     def test_file_top_cap(self):
-        rows = [{"title": f"n{i}", "url": uid_url(100 + i, f"z{i}"),
+        rows = [{"title": f"内容{i:02d}号", "url": uid_url(100 + i, f"z{i}"),
                  "heat": float(1000 - i), "fetched_at": "2026-10-05T01:00:00"}
                 for i in range(15)]
         out = select_top(rows, vv_cfg({"vv": {"file_top": 10}}))
         self.assertEqual(len(out), 10)
 
     def test_empty_url_dropped(self):
-        rows = [{"title": "nourl", "url": "", "heat": 99.0,
+        rows = [{"title": "无链接内容项", "url": "", "heat": 99.0,
                  "fetched_at": "2026-10-05T01:00:00"},
-                {"title": "ok", "url": uid_url(3, "ok"), "heat": 1.0,
+                {"title": "有效内容条目", "url": uid_url(3, "ok"), "heat": 1.0,
                  "fetched_at": "2026-10-05T01:00:00"}]
         out = select_top(rows, vv_cfg({}))
-        self.assertEqual([r["title"] for r in out], ["ok"])
+        self.assertEqual([r["title"] for r in out], ["有效内容条目"])
+
+    def test_junk_repost_filtered(self):
+        rows = [{"title": "转发微博", "url": uid_url(1, "j1"), "heat": 99.0,
+                 "fetched_at": "2026-10-05T01:00:00"},
+                {"title": "有效内容条目", "url": uid_url(2, "j2"), "heat": 1.0,
+                 "fetched_at": "2026-10-05T01:00:00"}]
+        out = select_top(rows, vv_cfg({}))
+        self.assertEqual([r["title"] for r in out], ["有效内容条目"])
+
+    def test_top10_spans_at_least_six_authors(self):
+        rows = []
+        for a in range(1, 4):
+            for i in range(4):
+                rows.append({"title": f"热门作者{a}内容{i}",
+                             "url": uid_url(a, f"b{a}{i}"),
+                             "heat": float(1000 - a * 10 - i),
+                             "fetched_at": "2026-10-05T01:00:00"})
+        for a in range(10, 16):
+            rows.append({"title": f"冷门作者{a}内容",
+                         "url": uid_url(a, f"c{a}"),
+                         "heat": float(10 - (a - 10)),
+                         "fetched_at": "2026-10-05T01:00:00"})
+        out = select_top(rows, vv_cfg({}))
+        self.assertEqual(len(out), 10)
+        authors = {r["url"].split("/")[3] for r in out}
+        self.assertGreaterEqual(len(authors), 6)
 
 
 class TestRenderVV(unittest.TestCase):
