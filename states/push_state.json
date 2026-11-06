@@ -15376,19 +15376,6 @@
    "batch_window": 21
   },
   {
-   "key": "大众在华召回超58万辆汽车",
-   "title": "大众在华召回超58万辆汽车",
-   "rating": "A",
-   "score": 87.7,
-   "angle": "大众中国战略困境：召回背后的市场份额保卫战",
-   "hook_reason": "58万辆召回直击消费者利益，大众品牌市值将受冲击",
-   "url": "https://www.toutiao.com/trending/7703755640099029035/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:大众在华召回超58万辆汽车",
-   "batch_window": 21
-  },
-  {
    "key": "内存短缺或持续到2030年",
    "title": "内存短缺或持续到2030年",
    "rating": "A",
@@ -16479,6 +16466,45 @@
    "breaking": true,
    "event_id": "e:中国空间站制备出已知最冷物质",
    "batch_window": 7
+  },
+  {
+   "key": "43岁韩莹连挑国乒四位名将",
+   "title": "43岁韩莹连挑国乒四位名将",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "年龄标签切入：国乒老将不服输的故事，激励普通职场人打破'年龄焦虑'",
+   "hook_reason": "43岁老将单挑国乒主力，年龄反差+竞技冲突，国民体育IP自带流量",
+   "url": "https://s.weibo.com/weibo?q=43岁韩莹连挑国乒四位名将",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:43岁韩莹连挑国乒四位名将",
+   "batch_window": 8
+  },
+  {
+   "key": "claudecodesendsyouremailaddresstowebsites",
+   "title": "Claude Code sends your email address to websites",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "从开发者视角解读邮箱泄露的影响、Anthropic的响应机制，以及AI工具隐私治理的行业反思",
+   "hook_reason": "AI编程工具泄露用户邮箱，开发者隐私安全引爆恐慌",
+   "url": "https://github.com/anthropics/claude-code/issues/107757",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:claudecodesendsyouremailaddresstowebsite",
+   "batch_window": 8
+  },
+  {
+   "key": "马斯克身价单日蒸发912亿美元",
+   "title": "马斯克身价单日蒸发912亿美元",
+   "rating": "A",
+   "score": 51.18,
+   "angle": "聚焦马斯克身价波动背后的资本博弈，切入",
+   "hook_reason": "首富单日蒸发912亿，财富神话崩塌冲击感强",
+   "url": "https://www.toutiao.com/trending/7704730285685981722/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克身价单日蒸发912亿美元",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -17670,7 +17696,8 @@
   "王子璇光是这一段话就秒了作家文吉儿",
   "无薪招聘教师小学称提供学习平台",
   "卵巢癌真的很善于伪装",
-  "38岁男子被骗到缅甸因太老卖不掉"
+  "38岁男子被骗到缅甸因太老卖不掉",
+  "大众在华召回超58万辆汽车"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -18798,7 +18825,8 @@
   "e:王子璇光是这一段话就秒了作家文吉儿": "王子璇光是这一段话就秒了作家文吉儿",
   "e:无薪招聘教师小学称提供学习平台": "无薪招聘教师小学称提供学习平台",
   "e:卵巢癌真的很善于伪装": "卵巢癌真的很善于伪装",
-  "e:38岁男子被骗到缅甸因太老卖不掉": "38岁男子被骗到缅甸因太老卖不掉"
+  "e:38岁男子被骗到缅甸因太老卖不掉": "38岁男子被骗到缅甸因太老卖不掉",
+  "e:大众在华召回超58万辆汽车": "大众在华召回超58万辆汽车"
  },
  "a_seen": {
   "存储巨头闪迪将于两周后拆股": {
@@ -19112,8 +19140,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:中国空间站制备出已知最冷物质"
+  },
+  "43岁韩莹连挑国乒四位名将": {
+   "key": "43岁韩莹连挑国乒四位名将",
+   "title": "43岁韩莹连挑国乒四位名将",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "年龄标签切入：国乒老将不服输的故事，激励普通职场人打破'年龄焦虑'",
+   "hook_reason": "43岁老将单挑国乒主力，年龄反差+竞技冲突，国民体育IP自带流量",
+   "url": "https://s.weibo.com/weibo?q=43岁韩莹连挑国乒四位名将",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:43岁韩莹连挑国乒四位名将"
+  },
+  "claudecodesendsyouremailaddresstowebsites": {
+   "key": "claudecodesendsyouremailaddresstowebsites",
+   "title": "Claude Code sends your email address to websites",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "从开发者视角解读邮箱泄露的影响、Anthropic的响应机制，以及AI工具隐私治理的行业反思",
+   "hook_reason": "AI编程工具泄露用户邮箱，开发者隐私安全引爆恐慌",
+   "url": "https://github.com/anthropics/claude-code/issues/107757",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:claudecodesendsyouremailaddresstowebsite"
+  },
+  "马斯克身价单日蒸发912亿美元": {
+   "key": "马斯克身价单日蒸发912亿美元",
+   "title": "马斯克身价单日蒸发912亿美元",
+   "rating": "A",
+   "score": 51.18,
+   "angle": "聚焦马斯克身价波动背后的资本博弈，切入",
+   "hook_reason": "首富单日蒸发912亿，财富神话崩塌冲击感强",
+   "url": "https://www.toutiao.com/trending/7704730285685981722/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克身价单日蒸发912亿美元"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
