@@ -16923,17 +16923,17 @@
    "batch_window": 8
   },
   {
-   "key": "美科技股大反攻",
-   "title": "美科技股大反攻",
+   "key": "itouredunitreesfactoryimmorebullishonthewest",
+   "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
    "rating": "A",
-   "score": 85.65,
-   "angle": "解析美科技股大反攻背后的驱动因素及对全球科技产业链的影响",
-   "hook_reason": "美股科技股V型反转，影响全球资产，读者关心投资风向。",
-   "url": "https://s.weibo.com/weibo?q=美科技股大反攻",
-   "track": "财经",
+   "score": 77.5,
+   "angle": "基于实地观察，深度解析为何西方供应链在机器人领域更具优势",
+   "hook_reason": "实地探访宇树工厂，罕见唱多西方供应链",
+   "url": "https://josef.cn/blog/unitree",
+   "track": "科技",
    "breaking": true,
-   "event_id": "e:美科技股大反攻",
-   "batch_window": 10
+   "event_id": "e:itouredunitreesfactoryimmorebullishonthe",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -18162,7 +18162,8 @@
   "43岁韩莹连挑国乒四位名将",
   "沪深两市成交额重回2万亿",
   "小伙200多万买14套房年收租21万",
-  "谁在把女性隐私明码标价"
+  "谁在把女性隐私明码标价",
+  "美科技股大反攻"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19327,7 +19328,8 @@
   "e:43岁韩莹连挑国乒四位名将": "43岁韩莹连挑国乒四位名将",
   "e:沪深两市成交额重回2万亿": "沪深两市成交额重回2万亿",
   "e:小伙200多万买14套房年收租21万": "小伙200多万买14套房年收租21万",
-  "e:谁在把女性隐私明码标价": "谁在把女性隐私明码标价"
+  "e:谁在把女性隐私明码标价": "谁在把女性隐私明码标价",
+  "e:美科技股大反攻": "美科技股大反攻"
  },
  "a_seen": {
   "美股历史性暴跌或影响金价": {
@@ -19569,8 +19571,20 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:美科技股大反攻"
+  },
+  "itouredunitreesfactoryimmorebullishonthewest": {
+   "key": "itouredunitreesfactoryimmorebullishonthewest",
+   "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "基于实地观察，深度解析为何西方供应链在机器人领域更具优势",
+   "hook_reason": "实地探访宇树工厂，罕见唱多西方供应链",
+   "url": "https://josef.cn/blog/unitree",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:itouredunitreesfactoryimmorebullishonthe"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
