@@ -17053,19 +17053,6 @@
    "batch_window": 18
   },
   {
-   "key": "汪苏泷告小红书ai助手点点",
-   "title": "汪苏泷告小红书AI助手点点",
-   "rating": "A",
-   "score": 87.5,
-   "angle": "深度解析：明星诉AI助手，揭开大模型侵权与生成式AI合规的灰色地带",
-   "hook_reason": "明星告AI？版权战升级，AI助手翻车实锤",
-   "url": "https://s.weibo.com/weibo?q=汪苏泷告小红书AI助手点点",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:汪苏泷告小红书ai助手点点",
-   "batch_window": 18
-  },
-  {
    "key": "外媒曝约60万枚英伟达芯片滞留香港美方部分人士指责其为卡脖子为何美方会对此如此着急",
    "title": "外媒曝约60万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？",
    "rating": "A",
@@ -17103,6 +17090,71 @@
    "breaking": true,
    "event_id": "e:有些孩子不是不想上学而是想去却去不了亲子关系厌学育儿家庭教育樊登的",
    "batch_window": 19
+  },
+  {
+   "key": "中国短剧霸榜全球",
+   "title": "中国短剧霸榜全球",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "拆解短剧出海低成本高ROI的商业模式及平台红利",
+   "hook_reason": "短剧出海逆袭好莱坞，中国内容变现新逻辑",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%A6%9C%E5%85%A8%E7%90%83&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:中国短剧霸榜全球",
+   "batch_window": 20
+  },
+  {
+   "key": "iphone18电池容量曝光",
+   "title": "iPhone18电池容量曝光",
+   "rating": "A",
+   "score": 66.68,
+   "angle": "解析iPhone18电池扩容逻辑，预测续航提升幅度及芯片功耗关系",
+   "hook_reason": "苹果新品核心参数泄露，果粉圈定级刚需",
+   "url": "https://s.weibo.com/weibo?q=iPhone18电池容量曝光",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:iphone18电池容量曝光",
+   "batch_window": 20
+  },
+  {
+   "key": "uploadyourram",
+   "title": "Upload Your RAM",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "揭秘'上传RAM'的极客圈争议与隐私焦虑，预判云存储新边界",
+   "hook_reason": "上传内存颠覆认知，极客热议技术奇点",
+   "url": "https://uploadyourram.org",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:uploadyourram",
+   "batch_window": 20
+  },
+  {
+   "key": "everymaccomeswithanundocumentedffe9d16e1",
+   "title": "Every Mac comes with an (undocumented) family member classifier",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "苹果AI隐性功能解析：从‘家庭分类器’看科技巨头的隐私博弈与技术黑箱。",
+   "hook_reason": "苹果被曝暗藏亲属识别功能，隐私边界再破？",
+   "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:everymaccomeswithanundocumentedfamilymem",
+   "batch_window": 20
+  },
+  {
+   "key": "ai陈建斌越来越逼真陈建斌回应",
+   "title": "“AI陈建斌”越来越逼真 陈建斌回应",
+   "rating": "A",
+   "score": 51.11,
+   "angle": "陈建斌回应AI假象，揭秘Sora类技术伦理与深度伪造攻防战",
+   "hook_reason": "AI换脸逼真度挑战人类认知，名人大咖亲自回应引热议",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E9%99%88%E5%BB%BA%E6%96%8C%E2%80%9D%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%80%BC%E7%9C%9F+%E9%99%88%E5%BB%BA%E6%96%8C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai陈建斌越来越逼真陈建斌回应",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -18340,7 +18392,8 @@
   "被刺身亡中国外卖员在澳9年",
   "第一批用ai工作的受益者出现了",
   "hpv疫苗是不是骗局",
-  "男子被小奶狗抓伤确诊狂犬病"
+  "男子被小奶狗抓伤确诊狂犬病",
+  "汪苏泷告小红书ai助手点点"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19514,7 +19567,8 @@
   "e:被刺身亡中国外卖员在澳9年": "被刺身亡中国外卖员在澳9年",
   "e:第一批用ai工作的受益者出现了": "第一批用AI工作的受益者出现了",
   "e:hpv疫苗是不是骗局": "HPV疫苗是不是骗局",
-  "e:男子被小奶狗抓伤确诊狂犬病": "男子被小奶狗抓伤确诊狂犬病"
+  "e:男子被小奶狗抓伤确诊狂犬病": "男子被小奶狗抓伤确诊狂犬病",
+  "e:汪苏泷告小红书ai助手点点": "汪苏泷告小红书AI助手点点"
  },
  "a_seen": {
   "美股历史性暴跌或影响金价": {
@@ -20020,8 +20074,68 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:有些孩子不是不想上学而是想去却去不了亲子关系厌学育儿家庭教育樊登的"
+  },
+  "中国短剧霸榜全球": {
+   "key": "中国短剧霸榜全球",
+   "title": "中国短剧霸榜全球",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "拆解短剧出海低成本高ROI的商业模式及平台红利",
+   "hook_reason": "短剧出海逆袭好莱坞，中国内容变现新逻辑",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%A6%9C%E5%85%A8%E7%90%83&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:中国短剧霸榜全球"
+  },
+  "iphone18电池容量曝光": {
+   "key": "iphone18电池容量曝光",
+   "title": "iPhone18电池容量曝光",
+   "rating": "A",
+   "score": 66.68,
+   "angle": "解析iPhone18电池扩容逻辑，预测续航提升幅度及芯片功耗关系",
+   "hook_reason": "苹果新品核心参数泄露，果粉圈定级刚需",
+   "url": "https://s.weibo.com/weibo?q=iPhone18电池容量曝光",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:iphone18电池容量曝光"
+  },
+  "uploadyourram": {
+   "key": "uploadyourram",
+   "title": "Upload Your RAM",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "揭秘'上传RAM'的极客圈争议与隐私焦虑，预判云存储新边界",
+   "hook_reason": "上传内存颠覆认知，极客热议技术奇点",
+   "url": "https://uploadyourram.org",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:uploadyourram"
+  },
+  "everymaccomeswithanundocumentedffe9d16e1": {
+   "key": "everymaccomeswithanundocumentedffe9d16e1",
+   "title": "Every Mac comes with an (undocumented) family member classifier",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "苹果AI隐性功能解析：从‘家庭分类器’看科技巨头的隐私博弈与技术黑箱。",
+   "hook_reason": "苹果被曝暗藏亲属识别功能，隐私边界再破？",
+   "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:everymaccomeswithanundocumentedfamilymem"
+  },
+  "ai陈建斌越来越逼真陈建斌回应": {
+   "key": "ai陈建斌越来越逼真陈建斌回应",
+   "title": "“AI陈建斌”越来越逼真 陈建斌回应",
+   "rating": "A",
+   "score": 51.11,
+   "angle": "陈建斌回应AI假象，揭秘Sora类技术伦理与深度伪造攻防战",
+   "hook_reason": "AI换脸逼真度挑战人类认知，名人大咖亲自回应引热议",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E9%99%88%E5%BB%BA%E6%96%8C%E2%80%9D%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%80%BC%E7%9C%9F+%E9%99%88%E5%BB%BA%E6%96%8C%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai陈建斌越来越逼真陈建斌回应"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
