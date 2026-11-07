@@ -16169,19 +16169,6 @@
    "batch_window": 5
   },
   {
-   "key": "mspaintremotecodeexecutionvulnerability",
-   "title": "MS Paint Remote Code Execution Vulnerability",
-   "rating": "A",
-   "score": 85.0,
-   "angle": "微软经典画图程序爆高危RCE漏洞，普通人日常工具也能被远程利用，警示全民更新补丁",
-   "hook_reason": "画图软件竟能远程执行代码？微软老牌工具爆出离谱高危漏洞",
-   "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:mspaintremotecodeexecutionvulnerability",
-   "batch_window": 6
-  },
-  {
    "key": "kagisearchforeveryone",
    "title": "Kagi Search for Everyone",
    "rating": "A",
@@ -17142,6 +17129,32 @@
    "breaking": true,
    "event_id": "e:伯克希尔最新财报现金创历史新高网页链接网页链接",
    "batch_window": 2
+  },
+  {
+   "key": "马斯克即将推出的效率提升将使40千瓦时的赛博卡车电池组成为可能",
+   "title": "马斯克：即将推出的效率提升将使40千瓦时的赛博卡车电池组成为可能。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深度解析特斯拉最新电池效率突破，评估其对电动车行业成本与续航天花板的颠覆性影响",
+   "hook_reason": "马斯克预言40kWh电池上卡车，打破续航焦虑认知",
+   "url": "https://finance.sina.cn/7x24/2026-11-08/detail-inixyfik4173809.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克即将推出的效率提升将使40千瓦时的赛博卡车电池组成为可能",
+   "batch_window": 4
+  },
+  {
+   "key": "theendofmicrosoftresearchsaifrontiersgroup",
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "深度解读 MS 撤组背后，是 AI 战略收缩还是人才流动，对开发者意味着什么",
+   "hook_reason": "AI 前沿团队解散，行业洗牌，大佬们怎么看？",
+   "url": "https://hunch.net/?p=13764006",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:theendofmicrosoftresearchsaifrontiersgro",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -18397,7 +18410,8 @@
   "孩子不在家夫妻还需要在一起吗",
   "胡塞狮子大开口",
   "肖战小城良方大结局口碑",
-  "九寨沟打人伤情够轻伤吗"
+  "九寨沟打人伤情够轻伤吗",
+  "mspaintremotecodeexecutionvulnerability"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19589,7 +19603,8 @@
   "e:孩子不在家夫妻还需要在一起吗": "孩子不在家夫妻还需要在一起吗",
   "e:胡塞狮子大开口": "胡塞“狮子大开口”",
   "e:肖战小城良方大结局口碑": "肖战小城良方大结局口碑",
-  "e:九寨沟打人伤情够轻伤吗": "九寨沟打人伤情够轻伤吗"
+  "e:九寨沟打人伤情够轻伤吗": "九寨沟打人伤情够轻伤吗",
+  "e:mspaintremotecodeexecutionvulnerability": "MS Paint Remote Code Execution Vulnerability"
  },
  "a_seen": {
   "巴伦资本炉边谈话马斯克谈芯片机器人星舰与星链网页链接网页链接": {
@@ -19615,8 +19630,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:伯克希尔最新财报现金创历史新高网页链接网页链接"
+  },
+  "马斯克即将推出的效率提升将使40千瓦时的赛博卡车电池组成为可能": {
+   "key": "马斯克即将推出的效率提升将使40千瓦时的赛博卡车电池组成为可能",
+   "title": "马斯克：即将推出的效率提升将使40千瓦时的赛博卡车电池组成为可能。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深度解析特斯拉最新电池效率突破，评估其对电动车行业成本与续航天花板的颠覆性影响",
+   "hook_reason": "马斯克预言40kWh电池上卡车，打破续航焦虑认知",
+   "url": "https://finance.sina.cn/7x24/2026-11-08/detail-inixyfik4173809.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克即将推出的效率提升将使40千瓦时的赛博卡车电池组成为可能"
+  },
+  "theendofmicrosoftresearchsaifrontiersgroup": {
+   "key": "theendofmicrosoftresearchsaifrontiersgroup",
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "深度解读 MS 撤组背后，是 AI 战略收缩还是人才流动，对开发者意味着什么",
+   "hook_reason": "AI 前沿团队解散，行业洗牌，大佬们怎么看？",
+   "url": "https://hunch.net/?p=13764006",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:theendofmicrosoftresearchsaifrontiersgro"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
