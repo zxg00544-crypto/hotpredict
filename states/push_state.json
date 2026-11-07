@@ -16986,6 +16986,32 @@
    "breaking": true,
    "event_id": "e:男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律",
    "batch_window": 15
+  },
+  {
+   "key": "被刺身亡中国外卖员在澳9年",
+   "title": "被刺身亡中国外卖员在澳9年",
+   "rating": "A",
+   "score": 89.0,
+   "angle": "剖析海外底层劳工生存困境及治安真相，引发共情与对出海生活的重新审视",
+   "hook_reason": "海外华人遇刺身亡，涉及身份安全与生存困境，情绪极强",
+   "url": "https://s.weibo.com/weibo?q=被刺身亡中国外卖员在澳9年",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:被刺身亡中国外卖员在澳9年",
+   "batch_window": 15
+  },
+  {
+   "key": "张艺谋ai短视频倒贴钱谁还进电影院",
+   "title": "张艺谋：AI短视频倒贴钱谁还进电影院",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "张艺谋这番话是清醒的护城河还是落后的偏见？AI与电影的生存边界在哪？",
+   "hook_reason": "顶流导演怒批AI，引发“电影已死”vs“AI泡沫”的站队冲突",
+   "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%EF%BC%9AAI%E7%9F%AD%E8%A7%86%E9%A2%91%E5%80%92%E8%B4%B4%E9%92%B1%E8%B0%81%E8%BF%98%E8%BF%9B%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:张艺谋ai短视频倒贴钱谁还进电影院",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -19732,13 +19758,13 @@
    "key": "被刺身亡中国外卖员在澳9年",
    "title": "被刺身亡中国外卖员在澳9年",
    "rating": "A",
-   "score": 90.5,
-   "angle": "聚焦海外华人生存困境与安全警示，深挖事件背后的社会隐痛与跨国维权难点。",
-   "hook_reason": "同胞海外遇害，强烈民族情绪与悬疑冲突，引发共情关注。",
+   "score": 89.0,
+   "angle": "剖析海外底层劳工生存困境及治安真相，引发共情与对出海生活的重新审视",
+   "hook_reason": "海外华人遇刺身亡，涉及身份安全与生存困境，情绪极强",
    "url": "https://s.weibo.com/weibo?q=被刺身亡中国外卖员在澳9年",
    "track": "社会热点",
    "breaking": true,
-   "event_id": "e:领馆通报中国外卖骑手在澳被袭身亡"
+   "event_id": "e:被刺身亡中国外卖员在澳9年"
   },
   "男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律角度解读": {
    "key": "男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律角度解读",
@@ -19751,6 +19777,18 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律"
+  },
+  "张艺谋ai短视频倒贴钱谁还进电影院": {
+   "key": "张艺谋ai短视频倒贴钱谁还进电影院",
+   "title": "张艺谋：AI短视频倒贴钱谁还进电影院",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "张艺谋这番话是清醒的护城河还是落后的偏见？AI与电影的生存边界在哪？",
+   "hook_reason": "顶流导演怒批AI，引发“电影已死”vs“AI泡沫”的站队冲突",
+   "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%EF%BC%9AAI%E7%9F%AD%E8%A7%86%E9%A2%91%E5%80%92%E8%B4%B4%E9%92%B1%E8%B0%81%E8%BF%98%E8%BF%9B%E7%94%B5%E5%BD%B1%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:张艺谋ai短视频倒贴钱谁还进电影院"
   }
  },
  "breaking_count": 10,
