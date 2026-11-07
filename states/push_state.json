@@ -16921,6 +16921,19 @@
    "breaking": true,
    "event_id": "e:a最强model4首次曝光rsi狂飙2倍速网页链接网页链接",
    "batch_window": 8
+  },
+  {
+   "key": "转载当地时间11月5日美股科技股重挫ai投资预期遭拷问amd董事长苏姿丰在接受外媒采访时",
+   "title": "转载：当地时间11月5日，美股科技股重挫，AI投资预期遭拷问，AMD董事长苏姿丰在接受外媒采访时",
+   "rating": "A",
+   "score": 84.7,
+   "angle": "借苏姿丰发声，解析AI资本寒冬下普通投资者如何避险",
+   "hook_reason": "苏姿丰炮轰AI泡沫，直击科技投资痛点",
+   "url": "https://weibo.com/1249424622/RqekiscH3",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:转载当地时间11月5日美股科技股重挫ai投资预期遭拷问amd董事长苏姿丰在接受外",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -19497,13 +19510,37 @@
    "key": "a最强model4首次曝光rsi狂飙2倍速网页链接网页链接",
    "title": "A\\最强Model 4首次曝光！RSI狂飙2倍速 网页链接 网页链接",
    "rating": "A",
-   "score": 49.8,
-   "angle": "解析GPT-4在RSI量化交易中的应用，探讨AI如何改变传统金融指标体系。",
-   "hook_reason": "GPT-4首次曝光RSI指标暴涨，颠覆认知，吸引投资者与技术爱好者点击。",
+   "score": 84.8,
+   "angle": "深度解析Model 4架构突破与RSI指标暴涨背后的算力逻辑",
+   "hook_reason": "最强AI Model 4实锤曝光，性能翻倍引发热议",
    "url": "https://weibo.com/1249424622/RqevWEbaw",
    "track": "科技",
    "breaking": true,
    "event_id": "e:a最强model4首次曝光rsi狂飙2倍速网页链接网页链接"
+  },
+  "马斯克宣布特斯拉明年停产cybertruck曾预测能年销25万辆实际因外型设计问题几乎无": {
+   "key": "马斯克宣布特斯拉明年停产cybertruck曾预测能年销25万辆实际因外型设计问题几乎无",
+   "title": "马斯克宣布特斯拉明年停产Cybertruck，曾预测能“年销25万辆”，实际因外型设计问题几乎无",
+   "rating": "A",
+   "score": 84.75,
+   "angle": "聚焦马斯克预测失准与Cybertruck设计缺陷，分析特斯拉高端电动SUV市场困境",
+   "hook_reason": "马斯克自打脸，25万辆梦碎，Cybertruck设计翻车",
+   "url": "https://weibo.com/1249424622/Rqevpwjkx",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特斯拉将逐步停产cybertruck"
+  },
+  "转载当地时间11月5日美股科技股重挫ai投资预期遭拷问amd董事长苏姿丰在接受外媒采访时": {
+   "key": "转载当地时间11月5日美股科技股重挫ai投资预期遭拷问amd董事长苏姿丰在接受外媒采访时",
+   "title": "转载：当地时间11月5日，美股科技股重挫，AI投资预期遭拷问，AMD董事长苏姿丰在接受外媒采访时",
+   "rating": "A",
+   "score": 84.7,
+   "angle": "借苏姿丰发声，解析AI资本寒冬下普通投资者如何避险",
+   "hook_reason": "苏姿丰炮轰AI泡沫，直击科技投资痛点",
+   "url": "https://weibo.com/1249424622/RqekiscH3",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:转载当地时间11月5日美股科技股重挫ai投资预期遭拷问amd董事长苏姿丰在接受外"
   }
  },
  "breaking_count": 10,
