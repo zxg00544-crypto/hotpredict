@@ -17142,6 +17142,19 @@
    "breaking": true,
    "event_id": "e:ai陈建斌越来越逼真陈建斌回应",
    "batch_window": 20
+  },
+  {
+   "key": "男子被雇主扇耳光昏迷14个月离世",
+   "title": "男子被雇主扇耳光昏迷14个月离世",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从劳动法角度深扒雇主责任与职场PUA的暴力边界",
+   "hook_reason": "雇员工被扇耳光致死，职场暴力底线被彻底践踏",
+   "url": "https://s.weibo.com/weibo?q=男子被雇主扇耳光昏迷14个月离世",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:男子被雇主扇耳光昏迷14个月离世",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -20123,6 +20136,18 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:ai陈建斌越来越逼真陈建斌回应"
+  },
+  "男子被雇主扇耳光昏迷14个月离世": {
+   "key": "男子被雇主扇耳光昏迷14个月离世",
+   "title": "男子被雇主扇耳光昏迷14个月离世",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "从劳动法角度深扒雇主责任与职场PUA的暴力边界",
+   "hook_reason": "雇员工被扇耳光致死，职场暴力底线被彻底践踏",
+   "url": "https://s.weibo.com/weibo?q=男子被雇主扇耳光昏迷14个月离世",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:男子被雇主扇耳光昏迷14个月离世"
   }
  },
  "breaking_count": 10,
