@@ -16949,19 +16949,6 @@
    "batch_window": 17
   },
   {
-   "key": "马斯克说我爱中国",
-   "title": "马斯克说我爱中国",
-   "rating": "A",
-   "score": 85.0,
-   "angle": "解构马斯克言论背后的商业意图，分析其对华科技供应链的重塑效应",
-   "hook_reason": "首富中国行打破预期，民族情绪与商业利益双重共振",
-   "url": "https://s.weibo.com/weibo?q=马斯克说我爱中国",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:马斯克说我爱中国",
-   "batch_window": 18
-  },
-  {
    "key": "外媒曝约60万枚英伟达芯片滞留香港美方部分人士指责其为卡脖子为何美方会对此如此着急",
    "title": "外媒曝约60万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？",
    "rating": "A",
@@ -18411,7 +18398,8 @@
   "胡塞狮子大开口",
   "肖战小城良方大结局口碑",
   "九寨沟打人伤情够轻伤吗",
-  "mspaintremotecodeexecutionvulnerability"
+  "mspaintremotecodeexecutionvulnerability",
+  "马斯克说我爱中国"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19604,7 +19592,8 @@
   "e:胡塞狮子大开口": "胡塞“狮子大开口”",
   "e:肖战小城良方大结局口碑": "肖战小城良方大结局口碑",
   "e:九寨沟打人伤情够轻伤吗": "九寨沟打人伤情够轻伤吗",
-  "e:mspaintremotecodeexecutionvulnerability": "MS Paint Remote Code Execution Vulnerability"
+  "e:mspaintremotecodeexecutionvulnerability": "MS Paint Remote Code Execution Vulnerability",
+  "e:马斯克说我爱中国": "马斯克说我爱中国"
  },
  "a_seen": {
   "巴伦资本炉边谈话马斯克谈芯片机器人星舰与星链网页链接网页链接": {
@@ -19647,9 +19636,9 @@
    "key": "theendofmicrosoftresearchsaifrontiersgroup",
    "title": "The end of Microsoft Research's AI Frontiers group",
    "rating": "A",
-   "score": 40.95,
-   "angle": "深度解读 MS 撤组背后，是 AI 战略收缩还是人才流动，对开发者意味着什么",
-   "hook_reason": "AI 前沿团队解散，行业洗牌，大佬们怎么看？",
+   "score": 73.54,
+   "angle": "拆解微软重组底层逻辑，从'前沿探索'转向'商业落地'，揭示AI巨头生存法则。",
+   "hook_reason": "微软顶级AI团队解散，硅谷风向标突变，从业者职业焦虑拉满。",
    "url": "https://hunch.net/?p=13764006",
    "track": "科技",
    "breaking": true,
@@ -19657,5 +19646,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
