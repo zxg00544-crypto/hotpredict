@@ -17001,19 +17001,6 @@
    "batch_window": 15
   },
   {
-   "key": "hpv疫苗是不是骗局",
-   "title": "HPV疫苗是不是骗局",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "硬核拆解HPV疫苗原理与临床数据，用科学击碎谣言，安抚焦虑",
-   "hook_reason": "直击家长健康焦虑，辟谣科普刚需，情绪浓度极高",
-   "url": "https://s.weibo.com/weibo?q=HPV疫苗是不是骗局",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:hpv疫苗是不是骗局",
-   "batch_window": 16
-  },
-  {
    "key": "墨尔本遇害中国骑手早晨半夜都在送餐",
    "title": "墨尔本遇害中国骑手早晨半夜都在送餐",
    "rating": "A",
@@ -17051,6 +17038,45 @@
    "breaking": true,
    "event_id": "e:余承东发汽车动态",
    "batch_window": 17
+  },
+  {
+   "key": "马斯克说我爱中国",
+   "title": "马斯克说我爱中国",
+   "rating": "A",
+   "score": 85.0,
+   "angle": "解构马斯克言论背后的商业意图，分析其对华科技供应链的重塑效应",
+   "hook_reason": "首富中国行打破预期，民族情绪与商业利益双重共振",
+   "url": "https://s.weibo.com/weibo?q=马斯克说我爱中国",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克说我爱中国",
+   "batch_window": 18
+  },
+  {
+   "key": "汪苏泷告小红书ai助手点点",
+   "title": "汪苏泷告小红书AI助手点点",
+   "rating": "A",
+   "score": 87.5,
+   "angle": "深度解析：明星诉AI助手，揭开大模型侵权与生成式AI合规的灰色地带",
+   "hook_reason": "明星告AI？版权战升级，AI助手翻车实锤",
+   "url": "https://s.weibo.com/weibo?q=汪苏泷告小红书AI助手点点",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:汪苏泷告小红书ai助手点点",
+   "batch_window": 18
+  },
+  {
+   "key": "男子被小奶狗抓伤确诊狂犬病",
+   "title": "男子被小奶狗抓伤确诊狂犬病",
+   "rating": "A",
+   "score": 94.0,
+   "angle": "科普狂犬病潜伏期与致死率，打破'小奶狗安全'的常识误区",
+   "hook_reason": "小奶狗伤人致死风险高，颠覆认知，极度恐慌",
+   "url": "https://s.weibo.com/weibo?q=男子被小奶狗抓伤确诊狂犬病",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:男子被小奶狗抓伤确诊狂犬病",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -18286,7 +18312,8 @@
   "纵火者已死被泼汽油女子起诉继承人",
   "提前还贷银行拖两个月多收十万利息",
   "被刺身亡中国外卖员在澳9年",
-  "第一批用ai工作的受益者出现了"
+  "第一批用ai工作的受益者出现了",
+  "hpv疫苗是不是骗局"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19458,7 +19485,8 @@
   "e:纵火者已死被泼汽油女子起诉继承人": "纵火者已死被泼汽油女子起诉继承人",
   "e:提前还贷银行拖两个月多收十万利息": "提前还贷银行拖两个月多收十万利息",
   "e:被刺身亡中国外卖员在澳9年": "被刺身亡中国外卖员在澳9年",
-  "e:第一批用ai工作的受益者出现了": "第一批用AI工作的受益者出现了"
+  "e:第一批用ai工作的受益者出现了": "第一批用AI工作的受益者出现了",
+  "e:hpv疫苗是不是骗局": "HPV疫苗是不是骗局"
  },
  "a_seen": {
   "美股历史性暴跌或影响金价": {
@@ -19885,13 +19913,13 @@
    "key": "马斯克说我爱中国",
    "title": "马斯克说我爱中国",
    "rating": "A",
-   "score": 44.05,
-   "angle": "解析马斯克‘示爱’背后的商业布局与外交信号，探讨中资科技合作新机遇。",
-   "hook_reason": "首富高调示爱，外交风向标，身份共鸣极强。",
+   "score": 85.0,
+   "angle": "解构马斯克言论背后的商业意图，分析其对华科技供应链的重塑效应",
+   "hook_reason": "首富中国行打破预期，民族情绪与商业利益双重共振",
    "url": "https://s.weibo.com/weibo?q=马斯克说我爱中国",
    "track": "大咖发言",
    "breaking": true,
-   "event_id": "e:马斯克再次表白中国"
+   "event_id": "e:马斯克说我爱中国"
   },
   "余承东发汽车动态": {
    "key": "余承东发汽车动态",
@@ -19904,8 +19932,32 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:余承东发汽车动态"
+  },
+  "汪苏泷告小红书ai助手点点": {
+   "key": "汪苏泷告小红书ai助手点点",
+   "title": "汪苏泷告小红书AI助手点点",
+   "rating": "A",
+   "score": 87.5,
+   "angle": "深度解析：明星诉AI助手，揭开大模型侵权与生成式AI合规的灰色地带",
+   "hook_reason": "明星告AI？版权战升级，AI助手翻车实锤",
+   "url": "https://s.weibo.com/weibo?q=汪苏泷告小红书AI助手点点",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:汪苏泷告小红书ai助手点点"
+  },
+  "男子被小奶狗抓伤确诊狂犬病": {
+   "key": "男子被小奶狗抓伤确诊狂犬病",
+   "title": "男子被小奶狗抓伤确诊狂犬病",
+   "rating": "A",
+   "score": 94.0,
+   "angle": "科普狂犬病潜伏期与致死率，打破'小奶狗安全'的常识误区",
+   "hook_reason": "小奶狗伤人致死风险高，颠覆认知，极度恐慌",
+   "url": "https://s.weibo.com/weibo?q=男子被小奶狗抓伤确诊狂犬病",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:男子被小奶狗抓伤确诊狂犬病"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
