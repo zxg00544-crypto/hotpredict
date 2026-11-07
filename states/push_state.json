@@ -15220,19 +15220,6 @@
    "batch_window": 16
   },
   {
-   "key": "沪深两市成交额重回2万亿",
-   "title": "沪深两市成交额重回2万亿",
-   "rating": "A",
-   "score": 85.8,
-   "angle": "解读成交额破2万亿背后的资金信号：机构回补？散户入场？对后市行情的判断影响",
-   "hook_reason": "万亿成交+市场情绪逆转，散户投资者高度关注",
-   "url": "https://www.toutiao.com/trending/7703228713843982399/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:沪深两市成交额重回2万亿",
-   "batch_window": 17
-  },
-  {
    "key": "最强厄尔尼诺将如何影响中国",
    "title": "最强厄尔尼诺将如何影响中国",
    "rating": "A",
@@ -16882,6 +16869,58 @@
    "breaking": true,
    "event_id": "e:anthropic将于下周启动ipo路演",
    "batch_window": 6
+  },
+  {
+   "key": "catlsodiumbatteryhitslfpcostparifada4823",
+   "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "深度解析CATL钠电技术突破：如何以低成本长寿命重塑储能与新能源格局",
+   "hook_reason": "钠电平替锂电，30年寿命打破认知，能源革命加速。",
+   "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:catlsodiumbatteryhitslfpcostparityin2026",
+   "batch_window": 8
+  },
+  {
+   "key": "3城人均住户存款超20万",
+   "title": "3城人均住户存款超20万",
+   "rating": "A",
+   "score": 79.45,
+   "angle": "拆解高存款背后的消费降级与预防性储蓄趋势，探讨中产安全感的重构",
+   "hook_reason": "人均存款超20万，引发关于财富差距与生活成本的强烈共鸣",
+   "url": "https://s.weibo.com/weibo?q=3城人均住户存款超20万",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:3城人均住户存款超20万",
+   "batch_window": 8
+  },
+  {
+   "key": "何立峰与美国财政部长贝森特贸易代表格里尔举行视频通话",
+   "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "深度解析何立峰与美财政/贸易代表通话背后的信号，预判下半年关税政策走向及对A股、汇率的实质影响。",
+   "hook_reason": "中美高层罕见视频通话，直击贸易战与关税命脉",
+   "url": "https://finance.sina.cn/7x24/2026-11-07/detail-inixwhsk8407427.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:何立峰与美国财政部长贝森特贸易代表格里尔举行视频通话",
+   "batch_window": 8
+  },
+  {
+   "key": "a最强model4首次曝光rsi狂飙2倍速网页链接网页链接",
+   "title": "A\\最强Model 4首次曝光！RSI狂飙2倍速 网页链接 网页链接",
+   "rating": "A",
+   "score": 49.8,
+   "angle": "解析GPT-4在RSI量化交易中的应用，探讨AI如何改变传统金融指标体系。",
+   "hook_reason": "GPT-4首次曝光RSI指标暴涨，颠覆认知，吸引投资者与技术爱好者点击。",
+   "url": "https://weibo.com/1249424622/RqevWEbaw",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:a最强model4首次曝光rsi狂飙2倍速网页链接网页链接",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -18107,7 +18146,8 @@
   "菲律宾迷魂党盯上中国游客",
   "调杠杆给临近爆仓账户一线生机",
   "结婚登记同比减少504万对",
-  "43岁韩莹连挑国乒四位名将"
+  "43岁韩莹连挑国乒四位名将",
+  "沪深两市成交额重回2万亿"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19269,7 +19309,8 @@
   "e:菲律宾迷魂党盯上中国游客": "菲律宾“迷魂党”盯上中国游客",
   "e:调杠杆给临近爆仓账户一线生机": "调杠杆给临近爆仓账户一线生机",
   "e:结婚登记同比减少504万对": "结婚登记同比减少50.4万对",
-  "e:43岁韩莹连挑国乒四位名将": "43岁韩莹连挑国乒四位名将"
+  "e:43岁韩莹连挑国乒四位名将": "43岁韩莹连挑国乒四位名将",
+  "e:沪深两市成交额重回2万亿": "沪深两市成交额重回2万亿"
  },
  "a_seen": {
   "美股历史性暴跌或影响金价": {
@@ -19403,8 +19444,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:anthropic将于下周启动ipo路演"
+  },
+  "catlsodiumbatteryhitslfpcostparifada4823": {
+   "key": "catlsodiumbatteryhitslfpcostparifada4823",
+   "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "深度解析CATL钠电技术突破：如何以低成本长寿命重塑储能与新能源格局",
+   "hook_reason": "钠电平替锂电，30年寿命打破认知，能源革命加速。",
+   "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:catlsodiumbatteryhitslfpcostparityin2026"
+  },
+  "3城人均住户存款超20万": {
+   "key": "3城人均住户存款超20万",
+   "title": "3城人均住户存款超20万",
+   "rating": "A",
+   "score": 79.45,
+   "angle": "拆解高存款背后的消费降级与预防性储蓄趋势，探讨中产安全感的重构",
+   "hook_reason": "人均存款超20万，引发关于财富差距与生活成本的强烈共鸣",
+   "url": "https://s.weibo.com/weibo?q=3城人均住户存款超20万",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:3城人均住户存款超20万"
+  },
+  "部分投资者下修anthropicipo估值至15万亿美元": {
+   "key": "部分投资者下修anthropicipo估值至15万亿美元",
+   "title": "部分投资者下修Anthropic IPO估值至1.5万亿美元",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从1.5万亿下修看AI泡沫论：谁在砸盘，谁在捡漏？",
+   "hook_reason": "万亿估值下修，顶级资本与大众认知的巨大反差",
+   "url": "https://finance.sina.cn/7x24/2026-11-07/detail-inixwhse8277549.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:anthropicmaynotsecureinvestmentgraderati"
+  },
+  "何立峰与美国财政部长贝森特贸易代表格里尔举行视频通话": {
+   "key": "何立峰与美国财政部长贝森特贸易代表格里尔举行视频通话",
+   "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "深度解析何立峰与美财政/贸易代表通话背后的信号，预判下半年关税政策走向及对A股、汇率的实质影响。",
+   "hook_reason": "中美高层罕见视频通话，直击贸易战与关税命脉",
+   "url": "https://finance.sina.cn/7x24/2026-11-07/detail-inixwhsk8407427.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:何立峰与美国财政部长贝森特贸易代表格里尔举行视频通话"
+  },
+  "a最强model4首次曝光rsi狂飙2倍速网页链接网页链接": {
+   "key": "a最强model4首次曝光rsi狂飙2倍速网页链接网页链接",
+   "title": "A\\最强Model 4首次曝光！RSI狂飙2倍速 网页链接 网页链接",
+   "rating": "A",
+   "score": 49.8,
+   "angle": "解析GPT-4在RSI量化交易中的应用，探讨AI如何改变传统金融指标体系。",
+   "hook_reason": "GPT-4首次曝光RSI指标暴涨，颠覆认知，吸引投资者与技术爱好者点击。",
+   "url": "https://weibo.com/1249424622/RqevWEbaw",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:a最强model4首次曝光rsi狂飙2倍速网页链接网页链接"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
