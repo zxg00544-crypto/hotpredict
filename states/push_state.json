@@ -17155,6 +17155,19 @@
    "breaking": true,
    "event_id": "e:declarativedragging",
    "batch_window": 5
+  },
+  {
+   "key": "太原高层火灾逃生者讲述过程",
+   "title": "太原高层火灾逃生者讲述过程",
+   "rating": "A",
+   "score": 55.01,
+   "angle": "以幸存者第一视角还原逃生细节，深度拆解高层火灾中的生存悖论与建筑安全短板。",
+   "hook_reason": "生死瞬间实录，直击高层住宅安全痛点，情绪张力拉满。",
+   "url": "https://s.weibo.com/weibo?q=太原高层火灾逃生者讲述过程",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:太原高层火灾逃生者讲述过程",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -19772,6 +19785,18 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:declarativedragging"
+  },
+  "太原高层火灾逃生者讲述过程": {
+   "key": "太原高层火灾逃生者讲述过程",
+   "title": "太原高层火灾逃生者讲述过程",
+   "rating": "A",
+   "score": 55.01,
+   "angle": "以幸存者第一视角还原逃生细节，深度拆解高层火灾中的生存悖论与建筑安全短板。",
+   "hook_reason": "生死瞬间实录，直击高层住宅安全痛点，情绪张力拉满。",
+   "url": "https://s.weibo.com/weibo?q=太原高层火灾逃生者讲述过程",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:太原高层火灾逃生者讲述过程"
   }
  },
  "breaking_count": 10,
