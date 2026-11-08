@@ -15662,19 +15662,6 @@
    "batch_window": 11
   },
   {
-   "key": "巴菲特称已48年不喝水只喝可乐是真的吗健康吗如何从医学角度看待这一饮食习惯",
-   "title": "巴菲特称已 48 年不喝水只喝可乐，是真的吗？健康吗？如何从医学角度看待这一饮食习惯？",
-   "rating": "A",
-   "score": 84.5,
-   "angle": "借巴菲特饮食习惯切入，用医学证据拆解'可乐养生论'，兼具话题性与科普价值",
-   "hook_reason": "股神养生秘诀引发健康争议，反差感强易戳读者好奇心",
-   "url": "https://www.zhihu.com/question/2100626480447370431",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:巴菲特称已48年不喝水只喝可乐是真的吗健康吗如何从医学角度看待这一饮食习惯",
-   "batch_window": 12
-  },
-  {
    "key": "陕西重大刑案嫌疑人弃车疑逃入山林",
    "title": "陕西重大刑案嫌疑人弃车疑逃入山林",
    "rating": "A",
@@ -17142,6 +17129,32 @@
    "breaking": true,
    "event_id": "e:伊拉克外长伊拉克已与美国达成谅解允许石油通过霍尔木兹海峡经靠近阿曼的航道出口",
    "batch_window": 3
+  },
+  {
+   "key": "goldmansachsispullingclaudecodef7bb55130",
+   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "解析GS撤下Claude Code的底层逻辑：是安全合规阵痛还是商业策略？揭秘金融机构AI落地的真实困境与未来走向。",
+   "hook_reason": "华尔街顶级投行竟弃用最强AI代码助手？内幕令人细思极恐",
+   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:goldmansachsispullingclaudecodefromitsba",
+   "batch_window": 4
+  },
+  {
+   "key": "英伟达ceo黄仁勋在发给全体员工的邮件中就婚外情一事致歉",
+   "title": "英伟达CEO黄仁勋在发给全体员工的邮件中，就婚外情一事致歉。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "剖析黄仁勋'去神圣化'背后的人设崩塌与信任重构危机",
+   "hook_reason": "科技顶流CEO罕见为私德公开致歉，打破人设反差极大",
+   "url": "https://finance.sina.cn/7x24/2026-11-09/detail-iniyakhn6850288.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:英伟达ceo黄仁勋在发给全体员工的邮件中就婚外情一事致歉",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -18431,7 +18444,8 @@
   "庄子讲的至人神人真人其实是同一种人格的不同侧面至人强调无己但无己不是没有自我而是",
   "现在的难题是英伟达预期市盈率15x沃尔玛这种老掉牙的零售商42x距离历史最高仅一步之遥",
   "武汉一小区爆燃致2死1伤调查处置工作正在进行中目前情况如何",
-  "付鹏称ai漫剧全部亏损"
+  "付鹏称ai漫剧全部亏损",
+  "巴菲特称已48年不喝水只喝可乐是真的吗健康吗如何从医学角度看待这一饮食习惯"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19657,7 +19671,8 @@
   "e:庄子讲的至人神人真人其实是同一种人格的不同侧面至人强调无己但无己不是没有自我而是": "庄子讲的至人、神人、真人，其实是同一种人格的不同侧面。至人强调“无己”，但无己不是没有自我，而是",
   "e:现在的难题是英伟达预期市盈率15x沃尔玛这种老掉牙的零售商42x距离历史最高仅一": "现在的难题是，英伟达预期市盈率15x，沃尔玛这种老掉牙的零售商42x，距离历史最高仅一步之遥 …",
   "e:武汉一小区爆燃致2死1伤调查处置工作正在进行中目前情况如何": "武汉一小区爆燃致 2 死 1 伤，调查、处置工作正在进行中，目前情况如何？",
-  "e:付鹏称ai漫剧全部亏损": "付鹏称AI漫剧全部亏损"
+  "e:付鹏称ai漫剧全部亏损": "付鹏称AI漫剧全部亏损",
+  "e:巴菲特称已48年不喝水只喝可乐是真的吗健康吗如何从医学角度看待这一饮食习惯": "巴菲特称已 48 年不喝水只喝可乐，是真的吗？健康吗？如何从医学角度看待这一饮食习惯？"
  },
  "a_seen": {
   "马斯克突爆孙正义猛料": {
@@ -19719,8 +19734,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:伊拉克外长伊拉克已与美国达成谅解允许石油通过霍尔木兹海峡经靠近阿曼的航道出口"
+  },
+  "goldmansachsispullingclaudecodef7bb55130": {
+   "key": "goldmansachsispullingclaudecodef7bb55130",
+   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "解析GS撤下Claude Code的底层逻辑：是安全合规阵痛还是商业策略？揭秘金融机构AI落地的真实困境与未来走向。",
+   "hook_reason": "华尔街顶级投行竟弃用最强AI代码助手？内幕令人细思极恐",
+   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:goldmansachsispullingclaudecodefromitsba"
+  },
+  "英伟达ceo黄仁勋在发给全体员工的邮件中就婚外情一事致歉": {
+   "key": "英伟达ceo黄仁勋在发给全体员工的邮件中就婚外情一事致歉",
+   "title": "英伟达CEO黄仁勋在发给全体员工的邮件中，就婚外情一事致歉。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "剖析黄仁勋'去神圣化'背后的人设崩塌与信任重构危机",
+   "hook_reason": "科技顶流CEO罕见为私德公开致歉，打破人设反差极大",
+   "url": "https://finance.sina.cn/7x24/2026-11-09/detail-iniyakhn6850288.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:英伟达ceo黄仁勋在发给全体员工的邮件中就婚外情一事致歉"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
