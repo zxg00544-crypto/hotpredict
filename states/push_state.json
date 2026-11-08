@@ -13790,19 +13790,6 @@
    "batch_window": 15
   },
   {
-   "key": "文吉儿上后会友期原因",
-   "title": "文吉儿上后会友期原因",
-   "rating": "A",
-   "score": 84.0,
-   "angle": "从舆论发酵角度切入，分析其为何在此节点上节目，挖掘背后流量逻辑或争议点",
-   "hook_reason": "突发热搜49万热度，吃瓜群众好奇她为何突然上节目",
-   "url": "https://s.weibo.com/weibo?q=文吉儿上后会友期原因",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:文吉儿上后会友期原因",
-   "batch_window": 15
-  },
-  {
    "key": "王曼昱签约蝴蝶",
    "title": "王曼昱签约蝴蝶",
    "rating": "A",
@@ -17168,6 +17155,32 @@
    "breaking": true,
    "event_id": "e:太原高层火灾逃生者讲述过程",
    "batch_window": 5
+  },
+  {
+   "key": "nvidiaboardofdirectorsisinvestigatingjensenhuang",
+   "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+   "rating": "A",
+   "score": 75.3,
+   "angle": "剖析黄仁勋调查对 Nvidia 股价及 AI 算力供应链的即时冲击与长期治理隐忧。",
+   "hook_reason": "芯片之王黄仁勋遭董事会调查，AI 霸主内部动荡，冲击全球科技圈。",
+   "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nvidiaboardofdirectorsisinvestigatingjen",
+   "batch_window": 6
+  },
+  {
+   "key": "美国国务卿鲁比奥伊朗的要求令人愤慨部分要求甚至荒谬可笑",
+   "title": "美国国务卿鲁比奥：伊朗的要求令人愤慨，部分要求甚至荒谬可笑。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "解读鲁比奥言论背后的大国博弈逻辑与地缘政治信号",
+   "hook_reason": "鲁比奥硬刚伊朗，外交摩擦引全球关注",
+   "url": "https://finance.sina.cn/7x24/2026-11-09/detail-iniyaqqn3515000.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:美国国务卿鲁比奥如果有机会美方将探讨通过外交途径解决伊朗问题的方案",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -18459,7 +18472,8 @@
   "武汉一小区爆燃致2死1伤调查处置工作正在进行中目前情况如何",
   "付鹏称ai漫剧全部亏损",
   "巴菲特称已48年不喝水只喝可乐是真的吗健康吗如何从医学角度看待这一饮食习惯",
-  "adhd怎么成了一门生意"
+  "adhd怎么成了一门生意",
+  "文吉儿上后会友期原因"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19687,7 +19701,8 @@
   "e:武汉一小区爆燃致2死1伤调查处置工作正在进行中目前情况如何": "武汉一小区爆燃致 2 死 1 伤，调查、处置工作正在进行中，目前情况如何？",
   "e:付鹏称ai漫剧全部亏损": "付鹏称AI漫剧全部亏损",
   "e:巴菲特称已48年不喝水只喝可乐是真的吗健康吗如何从医学角度看待这一饮食习惯": "巴菲特称已 48 年不喝水只喝可乐，是真的吗？健康吗？如何从医学角度看待这一饮食习惯？",
-  "e:adhd怎么成了一门生意": "ADHD怎么成了一门生意"
+  "e:adhd怎么成了一门生意": "ADHD怎么成了一门生意",
+  "e:文吉儿上后会友期原因": "文吉儿上后会友期原因"
  },
  "a_seen": {
   "马斯克突爆孙正义猛料": {
@@ -19797,8 +19812,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:太原高层火灾逃生者讲述过程"
+  },
+  "nvidiaboardofdirectorsisinvestigatingjensenhuang": {
+   "key": "nvidiaboardofdirectorsisinvestigatingjensenhuang",
+   "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+   "rating": "A",
+   "score": 75.3,
+   "angle": "剖析黄仁勋调查对 Nvidia 股价及 AI 算力供应链的即时冲击与长期治理隐忧。",
+   "hook_reason": "芯片之王黄仁勋遭董事会调查，AI 霸主内部动荡，冲击全球科技圈。",
+   "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nvidiaboardofdirectorsisinvestigatingjen"
+  },
+  "美国国务卿鲁比奥伊朗的要求令人愤慨部分要求甚至荒谬可笑": {
+   "key": "美国国务卿鲁比奥伊朗的要求令人愤慨部分要求甚至荒谬可笑",
+   "title": "美国国务卿鲁比奥：伊朗的要求令人愤慨，部分要求甚至荒谬可笑。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "解读鲁比奥言论背后的大国博弈逻辑与地缘政治信号",
+   "hook_reason": "鲁比奥硬刚伊朗，外交摩擦引全球关注",
+   "url": "https://finance.sina.cn/7x24/2026-11-09/detail-iniyaqqn3515000.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:美国国务卿鲁比奥如果有机会美方将探讨通过外交途径解决伊朗问题的方案"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
