@@ -16546,19 +16546,6 @@
    "batch_window": 16
   },
   {
-   "key": "adhd怎么成了一门生意",
-   "title": "ADHD怎么成了一门生意",
-   "rating": "A",
-   "score": 84.5,
-   "angle": "揭秘ADHD诊断产业化与资本逐利链条，警惕心理健康被过度商品化",
-   "hook_reason": "ADHD变现背后涉及泛健康消费陷阱，切中打工人健康焦虑",
-   "url": "https://www.baidu.com/s?wd=ADHD%E6%80%8E%E4%B9%88%E6%88%90%E4%BA%86%E4%B8%80%E9%97%A8%E7%94%9F%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:adhd怎么成了一门生意",
-   "batch_window": 17
-  },
-  {
    "key": "警方通报孙某军因情感纠纷行凶",
    "title": "警方通报孙某军因情感纠纷行凶",
    "rating": "A",
@@ -17155,6 +17142,19 @@
    "breaking": true,
    "event_id": "e:英伟达ceo黄仁勋在发给全体员工的邮件中就婚外情一事致歉",
    "batch_window": 4
+  },
+  {
+   "key": "declarativedragging",
+   "title": "Declarative Dragging",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "深度解析Declarative Dragging原理，探讨它如何取代传统拖拽API，提升Web开发效率与用户体验",
+   "hook_reason": "颠覆传统交互范式，程序员极客圈疯狂刷屏",
+   "url": "https://declarative-dragging.github.io/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:declarativedragging",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -18445,7 +18445,8 @@
   "现在的难题是英伟达预期市盈率15x沃尔玛这种老掉牙的零售商42x距离历史最高仅一步之遥",
   "武汉一小区爆燃致2死1伤调查处置工作正在进行中目前情况如何",
   "付鹏称ai漫剧全部亏损",
-  "巴菲特称已48年不喝水只喝可乐是真的吗健康吗如何从医学角度看待这一饮食习惯"
+  "巴菲特称已48年不喝水只喝可乐是真的吗健康吗如何从医学角度看待这一饮食习惯",
+  "adhd怎么成了一门生意"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19672,7 +19673,8 @@
   "e:现在的难题是英伟达预期市盈率15x沃尔玛这种老掉牙的零售商42x距离历史最高仅一": "现在的难题是，英伟达预期市盈率15x，沃尔玛这种老掉牙的零售商42x，距离历史最高仅一步之遥 …",
   "e:武汉一小区爆燃致2死1伤调查处置工作正在进行中目前情况如何": "武汉一小区爆燃致 2 死 1 伤，调查、处置工作正在进行中，目前情况如何？",
   "e:付鹏称ai漫剧全部亏损": "付鹏称AI漫剧全部亏损",
-  "e:巴菲特称已48年不喝水只喝可乐是真的吗健康吗如何从医学角度看待这一饮食习惯": "巴菲特称已 48 年不喝水只喝可乐，是真的吗？健康吗？如何从医学角度看待这一饮食习惯？"
+  "e:巴菲特称已48年不喝水只喝可乐是真的吗健康吗如何从医学角度看待这一饮食习惯": "巴菲特称已 48 年不喝水只喝可乐，是真的吗？健康吗？如何从医学角度看待这一饮食习惯？",
+  "e:adhd怎么成了一门生意": "ADHD怎么成了一门生意"
  },
  "a_seen": {
   "马斯克突爆孙正义猛料": {
@@ -19740,8 +19742,8 @@
    "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
    "rating": "A",
    "score": 75.95,
-   "angle": "解析GS撤下Claude Code的底层逻辑：是安全合规阵痛还是商业策略？揭秘金融机构AI落地的真实困境与未来走向。",
-   "hook_reason": "华尔街顶级投行竟弃用最强AI代码助手？内幕令人细思极恐",
+   "angle": "剖析高盛禁用Claude Code的深层原因：是技术不可控还是金融合规红线？",
+   "hook_reason": "华尔街巨头撤下AI工具，背后利益纠葛引发职场与AI焦虑",
    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
    "track": "科技",
    "breaking": true,
@@ -19758,8 +19760,20 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:英伟达ceo黄仁勋在发给全体员工的邮件中就婚外情一事致歉"
+  },
+  "declarativedragging": {
+   "key": "declarativedragging",
+   "title": "Declarative Dragging",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "深度解析Declarative Dragging原理，探讨它如何取代传统拖拽API，提升Web开发效率与用户体验",
+   "hook_reason": "颠覆传统交互范式，程序员极客圈疯狂刷屏",
+   "url": "https://declarative-dragging.github.io/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:declarativedragging"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
