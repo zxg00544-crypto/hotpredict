@@ -17129,6 +17129,19 @@
    "breaking": true,
    "event_id": "e:油价一周暴跌超16",
    "batch_window": 22
+  },
+  {
+   "key": "马斯克称软银涡轮机订单违约",
+   "title": "马斯克称软银涡轮机订单违约",
+   "rating": "A",
+   "score": 48.64,
+   "angle": "深挖马斯克指控背后的商业博弈，分析这对AI算力及科技巨头供应链的潜在冲击",
+   "hook_reason": "马斯克公开指责巨头软银，商业巨头互撕引发好奇与吃瓜心理",
+   "url": "https://s.weibo.com/weibo?q=马斯克称软银涡轮机订单违约",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克称软银涡轮机订单违约",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -19666,6 +19679,18 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:疑似秦始皇儿子遗骸遭肢解"
+  },
+  "马斯克称软银涡轮机订单违约": {
+   "key": "马斯克称软银涡轮机订单违约",
+   "title": "马斯克称软银涡轮机订单违约",
+   "rating": "A",
+   "score": 48.64,
+   "angle": "深挖马斯克指控背后的商业博弈，分析这对AI算力及科技巨头供应链的潜在冲击",
+   "hook_reason": "马斯克公开指责巨头软银，商业巨头互撕引发好奇与吃瓜心理",
+   "url": "https://s.weibo.com/weibo?q=马斯克称软银涡轮机订单违约",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克称软银涡轮机订单违约"
   }
  },
  "breaking_count": 10,
