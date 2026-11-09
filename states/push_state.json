@@ -17404,19 +17404,6 @@
    "batch_window": 2
   },
   {
-   "key": "纳指10年涨4617现在贵么网页链接网页链接",
-   "title": "纳指10年涨461.7%，现在贵么？ 网页链接 网页链接",
-   "rating": "A",
-   "score": 84.9,
-   "angle": "拆解纳指十年涨幅成分股，对比当前估值历史分位，给出普通投资者配置参考",
-   "hook_reason": "十年暴涨461%，泡沫疑虑与错失恐惧交织，散户焦虑共鸣",
-   "url": "https://weibo.com/1249424622/RqE45u2wp",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:纳指10年涨4617现在贵么网页链接网页链接",
-   "batch_window": 2
-  },
-  {
    "key": "whenwillthisstoptheraspberrypi5196373129",
    "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
    "rating": "A",
@@ -17441,6 +17428,32 @@
    "breaking": true,
    "event_id": "e:黄仁勋回应英伟达调查",
    "batch_window": 2
+  },
+  {
+   "key": "oursmallestmostefficientmodelmuseember",
+   "title": "Our Smallest, Most Efficient Model: Muse Ember",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "解读Muse Ember如何降低端侧AI门槛，颠覆大模型“越大越强”的认知",
+   "hook_reason": "Meta发布史上最小高效模型，AI算力与成本革命",
+   "url": "https://research.meta.ai/blog/muse-ember",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:oursmallestmostefficientmodelmuseember",
+   "batch_window": 3
+  },
+  {
+   "key": "美国国务卿鲁比奥德国英国和法国官员也在阿布扎比",
+   "title": "美国国务卿鲁比奥：德国、英国和法国官员也在阿布扎比。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "鲁比奥罕见点名德英法高官在场，解读美欧在阿布扎比达成的外交新共识及地缘政治变局。",
+   "hook_reason": "美国务卿亲口证实欧洲三国高层齐聚阿布扎比，外交底牌曝光",
+   "url": "https://finance.sina.cn/7x24/2026-11-10/detail-iniyepfq3032180.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:美国国务卿鲁比奥德国英国和法国官员也在阿布扎比",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -18763,7 +18776,8 @@
   "全球股市集体拉升原油直线闪崩",
   "纳指今天反弹力度可观若收盘维持强势本轮调整见底的可能性显著提升单根阳线虽不能直接确立趋势反",
   "大型suv第一名是小米澎程n90",
-  "anewformoftechandimagingflagshipiscomin"
+  "anewformoftechandimagingflagshipiscomin",
+  "纳指10年涨4617现在贵么网页链接网页链接"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20022,7 +20036,8 @@
   "e:全球股市集体拉升原油直线闪崩": "全球股市集体拉升 原油直线闪崩",
   "e:纳指今天反弹力度可观若收盘维持强势本轮调整见底的可能性显著提升单根阳线虽不能直接": "纳指今天反弹力度可观，若收盘维持强势，本轮调整见底的可能性显著提升。单根阳线虽不能直接确立趋势反",
   "e:大型suv第一名是小米澎程n90": "大型SUV第一名是小米澎程N90",
-  "e:anewformoftechandimagingflagshipiscomin": "A new form of tech and imaging flagship is comin"
+  "e:anewformoftechandimagingflagshipiscomin": "A new form of tech and imaging flagship is comin",
+  "e:纳指10年涨4617现在贵么网页链接网页链接": "纳指10年涨461.7%，现在贵么？ 网页链接 网页链接"
  },
  "a_seen": {
   "马斯克停产cybertruck并非利润原因": {
@@ -20132,8 +20147,32 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:黄仁勋回应英伟达调查"
+  },
+  "oursmallestmostefficientmodelmuseember": {
+   "key": "oursmallestmostefficientmodelmuseember",
+   "title": "Our Smallest, Most Efficient Model: Muse Ember",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "解读Muse Ember如何降低端侧AI门槛，颠覆大模型“越大越强”的认知",
+   "hook_reason": "Meta发布史上最小高效模型，AI算力与成本革命",
+   "url": "https://research.meta.ai/blog/muse-ember",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:oursmallestmostefficientmodelmuseember"
+  },
+  "美国国务卿鲁比奥德国英国和法国官员也在阿布扎比": {
+   "key": "美国国务卿鲁比奥德国英国和法国官员也在阿布扎比",
+   "title": "美国国务卿鲁比奥：德国、英国和法国官员也在阿布扎比。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "鲁比奥罕见点名德英法高官在场，解读美欧在阿布扎比达成的外交新共识及地缘政治变局。",
+   "hook_reason": "美国务卿亲口证实欧洲三国高层齐聚阿布扎比，外交底牌曝光",
+   "url": "https://finance.sina.cn/7x24/2026-11-10/detail-iniyepfq3032180.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:美国国务卿鲁比奥德国英国和法国官员也在阿布扎比"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
