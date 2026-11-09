@@ -14856,19 +14856,6 @@
    "batch_window": 9
   },
   {
-   "key": "抖音副总裁恶语回应专家批评",
-   "title": "抖音副总裁恶语回应专家批评",
-   "rating": "A",
-   "score": 83.5,
-   "angle": "从专家权威被挑战切入，剖析互联网平台傲慢与公众情绪的对撞",
-   "hook_reason": "高管怼专家引公愤，阶层对立情绪引爆",
-   "url": "https://s.weibo.com/weibo?q=抖音副总裁恶语回应专家批评",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:抖音副总裁恶语回应专家批评",
-   "batch_window": 9
-  },
-  {
    "key": "亚洲首富又换人",
    "title": "亚洲首富又换人",
    "rating": "A",
@@ -17493,6 +17480,32 @@
    "breaking": true,
    "event_id": "e:市场消息一名了解美国总统特朗普美国副总统万斯与卡塔尔首相会晤情况的外交官表示",
    "batch_window": 4
+  },
+  {
+   "key": "googlegeminiroutespersonaldrivef7a715638",
+   "title": "Google Gemini routes personal Drive files and emails to human annotators",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "揭秘Gemini数据链路：你的Drive和邮件正在被人工审阅，科技巨头的隐私承诺是假象",
+   "hook_reason": "AI巨头疑似把用户私人数据喂给人工标注员，隐私红线被击穿",
+   "url": "https://github.com/thisisme6598/gemini_files/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:googlegeminiroutespersonaldrivefilesande",
+   "batch_window": 6
+  },
+  {
+   "key": "claudefable52scores65onartificia325175ce",
+   "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "深度解析65分背后的技术跃迁，对比GPT-4o与Claude 5.2的边界",
+   "hook_reason": "Claude 5.2刷新SOTA，AI性能天花板再被击穿",
+   "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:claudefable52scores65onartificialanalysi",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -18818,7 +18831,8 @@
   "anewformoftechandimagingflagshipiscomin",
   "纳指10年涨4617现在贵么网页链接网页链接",
   "印证了我的判断巴菲特把谷歌买成第一重仓了",
-  "雪粒镇"
+  "雪粒镇",
+  "抖音副总裁恶语回应专家批评"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20080,7 +20094,8 @@
   "e:anewformoftechandimagingflagshipiscomin": "A new form of tech and imaging flagship is comin",
   "e:纳指10年涨4617现在贵么网页链接网页链接": "纳指10年涨461.7%，现在贵么？ 网页链接 网页链接",
   "e:印证了我的判断巴菲特把谷歌买成第一重仓了": "印证了我的判断 巴菲特把谷歌买成第一重仓了",
-  "e:雪粒镇": "雪粒镇"
+  "e:雪粒镇": "雪粒镇",
+  "e:抖音副总裁恶语回应专家批评": "抖音副总裁恶语回应专家批评"
  },
  "a_seen": {
   "马斯克停产cybertruck并非利润原因": {
@@ -20274,8 +20289,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:市场消息一名了解美国总统特朗普美国副总统万斯与卡塔尔首相会晤情况的外交官表示"
+  },
+  "googlegeminiroutespersonaldrivef7a715638": {
+   "key": "googlegeminiroutespersonaldrivef7a715638",
+   "title": "Google Gemini routes personal Drive files and emails to human annotators",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "揭秘Gemini数据链路：你的Drive和邮件正在被人工审阅，科技巨头的隐私承诺是假象",
+   "hook_reason": "AI巨头疑似把用户私人数据喂给人工标注员，隐私红线被击穿",
+   "url": "https://github.com/thisisme6598/gemini_files/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:googlegeminiroutespersonaldrivefilesande"
+  },
+  "claudefable52scores65onartificia325175ce": {
+   "key": "claudefable52scores65onartificia325175ce",
+   "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+   "rating": "A",
+   "score": 78.5,
+   "angle": "深度解析65分背后的技术跃迁，对比GPT-4o与Claude 5.2的边界",
+   "hook_reason": "Claude 5.2刷新SOTA，AI性能天花板再被击穿",
+   "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:claudefable52scores65onartificialanalysi"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
