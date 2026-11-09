@@ -17365,17 +17365,43 @@
    "batch_window": 21
   },
   {
-   "key": "anewformoftechandimagingflagshipiscomin",
-   "title": "A new form of tech and imaging flagship is comin",
+   "key": "印证了我的判断巴菲特把谷歌买成第一重仓了",
+   "title": "印证了我的判断 巴菲特把谷歌买成第一重仓了",
    "rating": "A",
-   "score": 84.95,
-   "angle": "解析“新形态”技术亮点与行业颠覆力，揭秘旗舰背后的科技变革逻辑",
-   "hook_reason": "神秘新品官宣，颠覆性技术旗舰引猜测，满足好奇",
-   "url": "https://weibo.com/1892653244/RqCIs3IDs",
+   "score": 84.85,
+   "angle": "解析巴菲特为何放弃传统低估值偏好，谷歌AI逻辑与“护城河”重构背后的价值投资范式转移。",
+   "hook_reason": "巴菲特首次重仓谷歌，颠覆传统价值投资认知，引发散户强烈好奇。",
+   "url": "https://weibo.com/1249424622/RqE0gl3Md",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:印证了我的判断巴菲特把谷歌买成第一重仓了",
+   "batch_window": 2
+  },
+  {
+   "key": "男子回应结婚25年不让妻子上班",
+   "title": "男子回应结婚25年不让妻子上班",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "剖析‘25年不上班’背后的经济依附与控制本质，探讨现代女性的自我救赎与边界感。",
+   "hook_reason": "25年不让上班，极端案例引发对婚姻权力与女性困境的强烈共鸣与愤怒。",
+   "url": "https://s.weibo.com/weibo?q=男子回应结婚25年不让妻子上班",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:男子回应结婚25年不让妻子上班",
+   "batch_window": 2
+  },
+  {
+   "key": "美国国会传唤英伟达首席执行官黄仁勋",
+   "title": "美国国会传唤英伟达首席执行官黄仁勋。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "聚焦黄仁勋被传唤背后的地缘政治与出口管制升级，分析对英伟达股价及中国AI算力自主化的紧迫影响。",
+   "hook_reason": "黄仁勋遭国会传唤，美芯片监管收紧，全球AI供应链面临重大不确定性。",
+   "url": "https://finance.sina.cn/7x24/2026-11-10/detail-iniyepfr3029522.d.html",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:anewformoftechandimagingflagshipiscomin",
-   "batch_window": 23
+   "event_id": "e:美国国会传唤英伟达首席执行官黄仁勋",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -18697,7 +18723,8 @@
   "养老金要崩盘有压力会崩盘",
   "全球股市集体拉升原油直线闪崩",
   "纳指今天反弹力度可观若收盘维持强势本轮调整见底的可能性显著提升单根阳线虽不能直接确立趋势反",
-  "大型suv第一名是小米澎程n90"
+  "大型suv第一名是小米澎程n90",
+  "anewformoftechandimagingflagshipiscomin"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19955,7 +19982,8 @@
   "e:养老金要崩盘有压力会崩盘": "养老金要崩盘？有压力≠会崩盘",
   "e:全球股市集体拉升原油直线闪崩": "全球股市集体拉升 原油直线闪崩",
   "e:纳指今天反弹力度可观若收盘维持强势本轮调整见底的可能性显著提升单根阳线虽不能直接": "纳指今天反弹力度可观，若收盘维持强势，本轮调整见底的可能性显著提升。单根阳线虽不能直接确立趋势反",
-  "e:大型suv第一名是小米澎程n90": "大型SUV第一名是小米澎程N90"
+  "e:大型suv第一名是小米澎程n90": "大型SUV第一名是小米澎程N90",
+  "e:anewformoftechandimagingflagshipiscomin": "A new form of tech and imaging flagship is comin"
  },
  "a_seen": {
   "马斯克停产cybertruck并非利润原因": {
@@ -19993,8 +20021,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:老人将6亿遗产留给再婚妻子"
+  },
+  "印证了我的判断巴菲特把谷歌买成第一重仓了": {
+   "key": "印证了我的判断巴菲特把谷歌买成第一重仓了",
+   "title": "印证了我的判断 巴菲特把谷歌买成第一重仓了",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "解析巴菲特为何放弃传统低估值偏好，谷歌AI逻辑与“护城河”重构背后的价值投资范式转移。",
+   "hook_reason": "巴菲特首次重仓谷歌，颠覆传统价值投资认知，引发散户强烈好奇。",
+   "url": "https://weibo.com/1249424622/RqE0gl3Md",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:印证了我的判断巴菲特把谷歌买成第一重仓了"
+  },
+  "男子回应结婚25年不让妻子上班": {
+   "key": "男子回应结婚25年不让妻子上班",
+   "title": "男子回应结婚25年不让妻子上班",
+   "rating": "A",
+   "score": 78.0,
+   "angle": "剖析‘25年不上班’背后的经济依附与控制本质，探讨现代女性的自我救赎与边界感。",
+   "hook_reason": "25年不让上班，极端案例引发对婚姻权力与女性困境的强烈共鸣与愤怒。",
+   "url": "https://s.weibo.com/weibo?q=男子回应结婚25年不让妻子上班",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:男子回应结婚25年不让妻子上班"
+  },
+  "美国国会传唤英伟达首席执行官黄仁勋": {
+   "key": "美国国会传唤英伟达首席执行官黄仁勋",
+   "title": "美国国会传唤英伟达首席执行官黄仁勋。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "聚焦黄仁勋被传唤背后的地缘政治与出口管制升级，分析对英伟达股价及中国AI算力自主化的紧迫影响。",
+   "hook_reason": "黄仁勋遭国会传唤，美芯片监管收紧，全球AI供应链面临重大不确定性。",
+   "url": "https://finance.sina.cn/7x24/2026-11-10/detail-iniyepfr3029522.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:美国国会传唤英伟达首席执行官黄仁勋"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
