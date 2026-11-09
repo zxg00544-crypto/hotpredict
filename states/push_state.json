@@ -17365,19 +17365,6 @@
    "batch_window": 21
   },
   {
-   "key": "大型suv第一名是小米澎程n90",
-   "title": "大型SUV第一名是小米澎程N90",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "解析小米澎程N90如何冲击传统SUV霸主地位，背后是科技降维打击还是营销泡沫",
-   "hook_reason": "小米跨界造SUV夺第一，颠覆认知引热议",
-   "url": "https://s.weibo.com/weibo?q=大型SUV第一名是小米澎程N90",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:大型suv第一名是小米澎程n90",
-   "batch_window": 23
-  },
-  {
    "key": "anewformoftechandimagingflagshipiscomin",
    "title": "A new form of tech and imaging flagship is comin",
    "rating": "A",
@@ -18708,7 +18695,9 @@
   "zebkitchromiumasanembeddablelibrary",
   "一个小时成交318亿今天放大量了如果回顾历史股市记忆这一天发生的变化也有一定意义",
   "养老金要崩盘有压力会崩盘",
-  "全球股市集体拉升原油直线闪崩"
+  "全球股市集体拉升原油直线闪崩",
+  "纳指今天反弹力度可观若收盘维持强势本轮调整见底的可能性显著提升单根阳线虽不能直接确立趋势反",
+  "大型suv第一名是小米澎程n90"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19964,7 +19953,9 @@
   "e:zebkitchromiumasanembeddablelibrary": "Zebkit – Chromium as an embeddable library",
   "e:一个小时成交318亿今天放大量了如果回顾历史股市记忆这一天发生的变化也有一定意义": "一个小时成交318亿，今天放大量了。如果回顾历史，股市记忆这一天发生的变化也有一定“意义” ……",
   "e:养老金要崩盘有压力会崩盘": "养老金要崩盘？有压力≠会崩盘",
-  "e:全球股市集体拉升原油直线闪崩": "全球股市集体拉升 原油直线闪崩"
+  "e:全球股市集体拉升原油直线闪崩": "全球股市集体拉升 原油直线闪崩",
+  "e:纳指今天反弹力度可观若收盘维持强势本轮调整见底的可能性显著提升单根阳线虽不能直接": "纳指今天反弹力度可观，若收盘维持强势，本轮调整见底的可能性显著提升。单根阳线虽不能直接确立趋势反",
+  "e:大型suv第一名是小米澎程n90": "大型SUV第一名是小米澎程N90"
  },
  "a_seen": {
   "马斯克停产cybertruck并非利润原因": {
@@ -20004,6 +19995,6 @@
    "event_id": "e:老人将6亿遗产留给再婚妻子"
   }
  },
- "breaking_count": 9,
- "a_pushed_window": 0
+ "breaking_count": 10,
+ "a_pushed_window": 1
 }
