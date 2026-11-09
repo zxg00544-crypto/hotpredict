@@ -17339,17 +17339,30 @@
    "batch_window": 18
   },
   {
-   "key": "这个功能很实用卢伟冰小米18pro系列这块背屏让构图不用再靠猜",
-   "title": "这个功能很实用！// @卢伟冰 :小米18 Pro系列这块背屏，让构图不用再靠猜",
+   "key": "nvidiawasin1in11startuproundsover100mlastyear",
+   "title": "Nvidia was in 1 in 11 startup rounds over $100M last year",
    "rating": "A",
-   "score": 84.85,
-   "angle": "聚焦卢伟冰微博原声，解析小米18 Pro背屏如何在拍摄构图上带来实质性革命，探讨旗舰机创新风向。",
-   "hook_reason": "卢伟冰亲自下场解释小米18 Pro背屏，打破'靠猜'痛点，硬核实用引发讨论。",
-   "url": "https://weibo.com/1749127163/RqBoikXEZ",
+   "score": 83.0,
+   "angle": "解读英伟达通过‘芯片+云+投资’构建AI生态护城河，揭示算力垄断背后的资本逻辑",
+   "hook_reason": "英伟达每11轮超级融资就出现一次，AI资本集中度恐怖数据",
+   "url": "https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:这个功能很实用卢伟冰小米18pro系列这块背屏让构图不用再靠猜",
-   "batch_window": 19
+   "event_id": "e:nvidiawasin1in11startuproundsover100mlas",
+   "batch_window": 20
+  },
+  {
+   "key": "英伟达无明确接班人分析师称失去黄仁勋则难以估值",
+   "title": "英伟达无明确接班人，分析师称失去黄仁勋则难以估值",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深度解析英伟达‘单核依赖’困境：失去黄仁勋后，AI估值体系是否失效？",
+   "hook_reason": "AI巨头命悬一人，估值逻辑被分析师质疑，风险高",
+   "url": "https://finance.sina.cn/7x24/2026-11-09/detail-iniycwiw3263727.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英伟达无明确接班人分析师称失去黄仁勋则难以估值",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -18655,7 +18668,8 @@
   "从得州工厂产能调整看特斯拉4868亿美元模具折旧账本拆解不锈钢成形力学9000吨压铸与特斯",
   "黄仁勋内部信致歉",
   "99人的群里98个都是托",
-  "德银马斯克中选后要被秋后算账算力越紧张spacex越赚钱政治风险被高估深度解读"
+  "德银马斯克中选后要被秋后算账算力越紧张spacex越赚钱政治风险被高估深度解读",
+  "这个功能很实用卢伟冰小米18pro系列这块背屏让构图不用再靠猜"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19897,7 +19911,8 @@
   "e:从得州工厂产能调整看特斯拉4868亿美元模具折旧账本拆解不锈钢成形力学9000吨": "从得州工厂产能调整看特斯拉48.68亿美元模具折旧账本：拆解不锈钢成形力学、9000吨压铸与特斯",
   "e:黄仁勋内部信致歉": "黄仁勋内部信致歉",
   "e:99人的群里98个都是托": "“99人的群里 98个都是托”",
-  "e:德银马斯克中选后要被秋后算账算力越紧张spacex越赚钱政治风险被高估深度解读": "德银：马斯克中选后要被“秋后算账”？算力越紧张SpaceX越赚钱，政治风险被高估！（深度解读） "
+  "e:德银马斯克中选后要被秋后算账算力越紧张spacex越赚钱政治风险被高估深度解读": "德银：马斯克中选后要被“秋后算账”？算力越紧张SpaceX越赚钱，政治风险被高估！（深度解读） ",
+  "e:这个功能很实用卢伟冰小米18pro系列这块背屏让构图不用再靠猜": "这个功能很实用！// @卢伟冰 :小米18 Pro系列这块背屏，让构图不用再靠猜"
  },
  "a_seen": {
   "马斯克突爆孙正义猛料": {
@@ -20367,8 +20382,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:这个功能很实用卢伟冰小米18pro系列这块背屏让构图不用再靠猜"
+  },
+  "nvidiawasin1in11startuproundsover100mlastyear": {
+   "key": "nvidiawasin1in11startuproundsover100mlastyear",
+   "title": "Nvidia was in 1 in 11 startup rounds over $100M last year",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "解读英伟达通过‘芯片+云+投资’构建AI生态护城河，揭示算力垄断背后的资本逻辑",
+   "hook_reason": "英伟达每11轮超级融资就出现一次，AI资本集中度恐怖数据",
+   "url": "https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nvidiawasin1in11startuproundsover100mlas"
+  },
+  "英伟达无明确接班人分析师称失去黄仁勋则难以估值": {
+   "key": "英伟达无明确接班人分析师称失去黄仁勋则难以估值",
+   "title": "英伟达无明确接班人，分析师称失去黄仁勋则难以估值",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深度解析英伟达‘单核依赖’困境：失去黄仁勋后，AI估值体系是否失效？",
+   "hook_reason": "AI巨头命悬一人，估值逻辑被分析师质疑，风险高",
+   "url": "https://finance.sina.cn/7x24/2026-11-09/detail-iniycwiw3263727.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英伟达无明确接班人分析师称失去黄仁勋则难以估值"
+  },
+  "黄仁勋或被英伟达免职": {
+   "key": "黄仁勋或被英伟达免职",
+   "title": "黄仁勋或被英伟达免职",
+   "rating": "A",
+   "score": 44.85,
+   "angle": "解析谣言背后的权力更迭与算力霸权，解读CEO更替对AI产业链的真实冲击",
+   "hook_reason": "AI教父突然免职？颠覆认知的科技地震",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋或被英伟达免职",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达无明确接班人分析师称失去黄仁勋则难以估值"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
