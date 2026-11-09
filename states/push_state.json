@@ -17402,6 +17402,45 @@
    "breaking": true,
    "event_id": "e:美国国会传唤英伟达首席执行官黄仁勋",
    "batch_window": 2
+  },
+  {
+   "key": "纳指10年涨4617现在贵么网页链接网页链接",
+   "title": "纳指10年涨461.7%，现在贵么？ 网页链接 网页链接",
+   "rating": "A",
+   "score": 84.9,
+   "angle": "拆解纳指十年涨幅成分股，对比当前估值历史分位，给出普通投资者配置参考",
+   "hook_reason": "十年暴涨461%，泡沫疑虑与错失恐惧交织，散户焦虑共鸣",
+   "url": "https://weibo.com/1249424622/RqE45u2wp",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:纳指10年涨4617现在贵么网页链接网页链接",
+   "batch_window": 2
+  },
+  {
+   "key": "whenwillthisstoptheraspberrypi5196373129",
+   "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "从黄牛溢价到官方断供，剖析AI算力荒下核心元器件的通胀逻辑与供应链危机。",
+   "hook_reason": "385美元天价树莓派，科技党痛感极强，情绪拉满。",
+   "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whenwillthisstoptheraspberrypi516gbsbcno",
+   "batch_window": 2
+  },
+  {
+   "key": "黄仁勋回应英伟达调查",
+   "title": "黄仁勋回应英伟达调查",
+   "rating": "A",
+   "score": 44.55,
+   "angle": "聚焦‘全球AI教父’的危机公关话术，剖析其如何通过个人魅力化解机构信任危机",
+   "hook_reason": "黄仁勋亲自回应调查，科技圈顶流与监管博弈",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋回应英伟达调查",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋回应英伟达调查",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -20057,6 +20096,42 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:美国国会传唤英伟达首席执行官黄仁勋"
+  },
+  "纳指10年涨4617现在贵么网页链接网页链接": {
+   "key": "纳指10年涨4617现在贵么网页链接网页链接",
+   "title": "纳指10年涨461.7%，现在贵么？ 网页链接 网页链接",
+   "rating": "A",
+   "score": 84.9,
+   "angle": "拆解纳指十年涨幅成分股，对比当前估值历史分位，给出普通投资者配置参考",
+   "hook_reason": "十年暴涨461%，泡沫疑虑与错失恐惧交织，散户焦虑共鸣",
+   "url": "https://weibo.com/1249424622/RqE45u2wp",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:纳指10年涨4617现在贵么网页链接网页链接"
+  },
+  "whenwillthisstoptheraspberrypi5196373129": {
+   "key": "whenwillthisstoptheraspberrypi5196373129",
+   "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+   "rating": "A",
+   "score": 75.75,
+   "angle": "从黄牛溢价到官方断供，剖析AI算力荒下核心元器件的通胀逻辑与供应链危机。",
+   "hook_reason": "385美元天价树莓派，科技党痛感极强，情绪拉满。",
+   "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whenwillthisstoptheraspberrypi516gbsbcno"
+  },
+  "黄仁勋回应英伟达调查": {
+   "key": "黄仁勋回应英伟达调查",
+   "title": "黄仁勋回应英伟达调查",
+   "rating": "A",
+   "score": 44.55,
+   "angle": "聚焦‘全球AI教父’的危机公关话术，剖析其如何通过个人魅力化解机构信任危机",
+   "hook_reason": "黄仁勋亲自回应调查，科技圈顶流与监管博弈",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋回应英伟达调查",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋回应英伟达调查"
   }
  },
  "breaking_count": 10,
