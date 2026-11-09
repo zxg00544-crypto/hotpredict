@@ -15662,19 +15662,6 @@
    "batch_window": 12
   },
   {
-   "key": "如何看待曾冲上万店的幸运咖门店回落至8000多家蜜雪冰城的低价模式为何没在咖啡赛道复制成功",
-   "title": "如何看待曾冲上万店的幸运咖，门店回落至 8000 多家？蜜雪冰城的低价模式为何没在咖啡赛道复制成功？",
-   "rating": "A",
-   "score": 84.0,
-   "angle": "从蜜雪冰城咖啡门店回落切入，分析低价模式在不同品类的适配边界",
-   "hook_reason": "万店神话破灭，蜜雪冰城咖啡为何打不过瑞幸？",
-   "url": "https://www.zhihu.com/question/2101006901689557185",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:如何看待曾冲上万店的幸运咖门店回落至8000多家蜜雪冰城的低价模式为何没在咖啡赛",
-   "batch_window": 13
-  },
-  {
    "key": "陕西教育厅通报延安大学一副教授去世留疑似遗书质疑聘期考核制度不合理已成立调查组哪些疑点待查清",
    "title": "陕西教育厅通报「延安大学一副教授去世留疑似遗书质疑聘期考核制度不合理」，已成立调查组，哪些疑点待查清？",
    "rating": "A",
@@ -17168,6 +17155,19 @@
    "breaking": true,
    "event_id": "e:美国国务卿鲁比奥如果有机会美方将探讨通过外交途径解决伊朗问题的方案",
    "batch_window": 6
+  },
+  {
+   "key": "nvidiaceojensenhuangslettertostaffaboutaffair",
+   "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+   "rating": "A",
+   "score": 75.5,
+   "angle": "剖析CEO私德与公德的边界，探讨科技巨头治理结构与舆论反噬",
+   "hook_reason": "芯片霸主黄仁勋因婚外情致信全员，科技巨头内部动荡引热议",
+   "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:nvidiaceojensenhuangslettertostaffabouta",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -18461,7 +18461,8 @@
   "巴菲特称已48年不喝水只喝可乐是真的吗健康吗如何从医学角度看待这一饮食习惯",
   "adhd怎么成了一门生意",
   "文吉儿上后会友期原因",
-  "王曼昱签约蝴蝶"
+  "王曼昱签约蝴蝶",
+  "如何看待曾冲上万店的幸运咖门店回落至8000多家蜜雪冰城的低价模式为何没在咖啡赛道复制成功"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19691,7 +19692,8 @@
   "e:巴菲特称已48年不喝水只喝可乐是真的吗健康吗如何从医学角度看待这一饮食习惯": "巴菲特称已 48 年不喝水只喝可乐，是真的吗？健康吗？如何从医学角度看待这一饮食习惯？",
   "e:adhd怎么成了一门生意": "ADHD怎么成了一门生意",
   "e:文吉儿上后会友期原因": "文吉儿上后会友期原因",
-  "e:王曼昱签约蝴蝶": "王曼昱签约蝴蝶"
+  "e:王曼昱签约蝴蝶": "王曼昱签约蝴蝶",
+  "e:如何看待曾冲上万店的幸运咖门店回落至8000多家蜜雪冰城的低价模式为何没在咖啡赛": "如何看待曾冲上万店的幸运咖，门店回落至 8000 多家？蜜雪冰城的低价模式为何没在咖啡赛道复制成功？"
  },
  "a_seen": {
   "马斯克突爆孙正义猛料": {
@@ -19825,8 +19827,20 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:美国国务卿鲁比奥如果有机会美方将探讨通过外交途径解决伊朗问题的方案"
+  },
+  "nvidiaceojensenhuangslettertostaffaboutaffair": {
+   "key": "nvidiaceojensenhuangslettertostaffaboutaffair",
+   "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+   "rating": "A",
+   "score": 75.5,
+   "angle": "剖析CEO私德与公德的边界，探讨科技巨头治理结构与舆论反噬",
+   "hook_reason": "芯片霸主黄仁勋因婚外情致信全员，科技巨头内部动荡引热议",
+   "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:nvidiaceojensenhuangslettertostaffabouta"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
