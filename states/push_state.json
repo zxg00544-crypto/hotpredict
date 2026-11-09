@@ -17365,19 +17365,6 @@
    "batch_window": 21
   },
   {
-   "key": "印证了我的判断巴菲特把谷歌买成第一重仓了",
-   "title": "印证了我的判断 巴菲特把谷歌买成第一重仓了",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "解析巴菲特为何放弃传统低估值偏好，谷歌AI逻辑与“护城河”重构背后的价值投资范式转移。",
-   "hook_reason": "巴菲特首次重仓谷歌，颠覆传统价值投资认知，引发散户强烈好奇。",
-   "url": "https://weibo.com/1249424622/RqE0gl3Md",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:印证了我的判断巴菲特把谷歌买成第一重仓了",
-   "batch_window": 2
-  },
-  {
    "key": "男子回应结婚25年不让妻子上班",
    "title": "男子回应结婚25年不让妻子上班",
    "rating": "A",
@@ -17454,6 +17441,71 @@
    "breaking": true,
    "event_id": "e:美国国务卿鲁比奥德国英国和法国官员也在阿布扎比",
    "batch_window": 3
+  },
+  {
+   "key": "deepxclaimsinferenceupto100bparaffb1b695",
+   "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "解析DeepX二代芯片PIM架构，探讨低功耗大模型推理对边缘AI及数据中心能耗的颠覆意义",
+   "hook_reason": "功耗破5W跑100B参数，AI芯片能效比颠覆性突破",
+   "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepxclaimsinferenceupto100bparametersat",
+   "batch_window": 4
+  },
+  {
+   "key": "claudefable52andmythos52",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "深度解析Claude Fable/Mythos 5.2性能突破及行业冲击",
+   "hook_reason": "Anthropic发布新模型，AI赛道突发重磅更新",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:claudefable52andmythos52",
+   "batch_window": 4
+  },
+  {
+   "key": "市场消息anthropic将于周二启动纳斯达克ipo的市场推介",
+   "title": "市场消息：Anthropic将于周二启动纳斯达克IPO的市场推介。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "深度复盘Anthropic招股书细节，预判其上市后对美股AI板块及国内相关产业链的估值重塑效应",
+   "hook_reason": "AI巨头Anthropic冲击纳斯达克，万亿估值能否重演OpenAI神话？",
+   "url": "https://finance.sina.cn/7x24/2026-11-10/detail-iniyetpn2908927.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:市场消息anthropic将于周二启动纳斯达克ipo的市场推介",
+   "batch_window": 4
+  },
+  {
+   "key": "雷军回应小米澎程n70增程车销量第一",
+   "title": "雷军回应小米澎程N70增程车销量第一",
+   "rating": "A",
+   "score": 42.9,
+   "angle": "雷军回应N70销冠背后，揭示增程技术路线逆袭与小米生态链的降维打击",
+   "hook_reason": "小米首款增程车销量登顶，雷军亲自下场回应，行业格局突变",
+   "url": "https://s.weibo.com/weibo?q=雷军回应小米澎程N70增程车销量第一",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:雷军回应小米澎程n70增程车销量第一",
+   "batch_window": 4
+  },
+  {
+   "key": "市场消息一名了解美国总统特朗普美国副总统万斯与卡塔尔首相会晤情况的外交官表示",
+   "title": "市场消息：一名了解美国总统特朗普、美国副总统万斯与卡塔尔首相会晤情况的外交官表示",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "解读美卡会晤背后能源博弈，预判油价波动及全球避险资产流向",
+   "hook_reason": "美领导层秘密会晤卡塔尔，地缘政治突变引发市场恐慌",
+   "url": "https://finance.sina.cn/7x24/2026-11-10/detail-iniyetpk6132796.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:市场消息一名了解美国总统特朗普美国副总统万斯与卡塔尔首相会晤情况的外交官表示",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -18777,7 +18829,8 @@
   "纳指今天反弹力度可观若收盘维持强势本轮调整见底的可能性显著提升单根阳线虽不能直接确立趋势反",
   "大型suv第一名是小米澎程n90",
   "anewformoftechandimagingflagshipiscomin",
-  "纳指10年涨4617现在贵么网页链接网页链接"
+  "纳指10年涨4617现在贵么网页链接网页链接",
+  "印证了我的判断巴菲特把谷歌买成第一重仓了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20037,7 +20090,8 @@
   "e:纳指今天反弹力度可观若收盘维持强势本轮调整见底的可能性显著提升单根阳线虽不能直接": "纳指今天反弹力度可观，若收盘维持强势，本轮调整见底的可能性显著提升。单根阳线虽不能直接确立趋势反",
   "e:大型suv第一名是小米澎程n90": "大型SUV第一名是小米澎程N90",
   "e:anewformoftechandimagingflagshipiscomin": "A new form of tech and imaging flagship is comin",
-  "e:纳指10年涨4617现在贵么网页链接网页链接": "纳指10年涨461.7%，现在贵么？ 网页链接 网页链接"
+  "e:纳指10年涨4617现在贵么网页链接网页链接": "纳指10年涨461.7%，现在贵么？ 网页链接 网页链接",
+  "e:印证了我的判断巴菲特把谷歌买成第一重仓了": "印证了我的判断 巴菲特把谷歌买成第一重仓了"
  },
  "a_seen": {
   "马斯克停产cybertruck并非利润原因": {
@@ -20152,9 +20206,9 @@
    "key": "oursmallestmostefficientmodelmuseember",
    "title": "Our Smallest, Most Efficient Model: Muse Ember",
    "rating": "A",
-   "score": 75.85,
-   "angle": "解读Muse Ember如何降低端侧AI门槛，颠覆大模型“越大越强”的认知",
-   "hook_reason": "Meta发布史上最小高效模型，AI算力与成本革命",
+   "score": 75.8,
+   "angle": "解析Meta Muse Ember模型特性，探讨AI小模型趋势对行业算力成本与落地场景的冲击。",
+   "hook_reason": "Meta发布最小最省AI模型，引发科技圈热议，开发者与投资者关注降本增效新路径。",
    "url": "https://research.meta.ai/blog/muse-ember",
    "track": "科技",
    "breaking": true,
@@ -20171,8 +20225,68 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:美国国务卿鲁比奥德国英国和法国官员也在阿布扎比"
+  },
+  "deepxclaimsinferenceupto100bparaffb1b695": {
+   "key": "deepxclaimsinferenceupto100bparaffb1b695",
+   "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "解析DeepX二代芯片PIM架构，探讨低功耗大模型推理对边缘AI及数据中心能耗的颠覆意义",
+   "hook_reason": "功耗破5W跑100B参数，AI芯片能效比颠覆性突破",
+   "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepxclaimsinferenceupto100bparametersat"
+  },
+  "claudefable52andmythos52": {
+   "key": "claudefable52andmythos52",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "深度解析Claude Fable/Mythos 5.2性能突破及行业冲击",
+   "hook_reason": "Anthropic发布新模型，AI赛道突发重磅更新",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:claudefable52andmythos52"
+  },
+  "市场消息anthropic将于周二启动纳斯达克ipo的市场推介": {
+   "key": "市场消息anthropic将于周二启动纳斯达克ipo的市场推介",
+   "title": "市场消息：Anthropic将于周二启动纳斯达克IPO的市场推介。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "深度复盘Anthropic招股书细节，预判其上市后对美股AI板块及国内相关产业链的估值重塑效应",
+   "hook_reason": "AI巨头Anthropic冲击纳斯达克，万亿估值能否重演OpenAI神话？",
+   "url": "https://finance.sina.cn/7x24/2026-11-10/detail-iniyetpn2908927.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:市场消息anthropic将于周二启动纳斯达克ipo的市场推介"
+  },
+  "雷军回应小米澎程n70增程车销量第一": {
+   "key": "雷军回应小米澎程n70增程车销量第一",
+   "title": "雷军回应小米澎程N70增程车销量第一",
+   "rating": "A",
+   "score": 42.9,
+   "angle": "雷军回应N70销冠背后，揭示增程技术路线逆袭与小米生态链的降维打击",
+   "hook_reason": "小米首款增程车销量登顶，雷军亲自下场回应，行业格局突变",
+   "url": "https://s.weibo.com/weibo?q=雷军回应小米澎程N70增程车销量第一",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:雷军回应小米澎程n70增程车销量第一"
+  },
+  "市场消息一名了解美国总统特朗普美国副总统万斯与卡塔尔首相会晤情况的外交官表示": {
+   "key": "市场消息一名了解美国总统特朗普美国副总统万斯与卡塔尔首相会晤情况的外交官表示",
+   "title": "市场消息：一名了解美国总统特朗普、美国副总统万斯与卡塔尔首相会晤情况的外交官表示",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "解读美卡会晤背后能源博弈，预判油价波动及全球避险资产流向",
+   "hook_reason": "美领导层秘密会晤卡塔尔，地缘政治突变引发市场恐慌",
+   "url": "https://finance.sina.cn/7x24/2026-11-10/detail-iniyetpk6132796.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:市场消息一名了解美国总统特朗普美国副总统万斯与卡塔尔首相会晤情况的外交官表示"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
