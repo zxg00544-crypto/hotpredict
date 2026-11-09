@@ -14856,19 +14856,6 @@
    "batch_window": 9
   },
   {
-   "key": "亚洲首富又换人",
-   "title": "亚洲首富又换人",
-   "rating": "A",
-   "score": 83.5,
-   "angle": "追踪首富更替背后涉及的财团/企业动态，解读财富版图重组逻辑",
-   "hook_reason": "富豪身份变迁自带话题，读者好奇谁上榜谁出局",
-   "url": "https://s.weibo.com/weibo?q=亚洲首富又换人",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:亚洲首富又换人",
-   "batch_window": 9
-  },
-  {
    "key": "广州规定房东不得加收水电费",
    "title": "广州规定房东不得加收水电费",
    "rating": "A",
@@ -17506,6 +17493,19 @@
    "breaking": true,
    "event_id": "e:claudefable52scores65onartificialanalysi",
    "batch_window": 6
+  },
+  {
+   "key": "英伟达市值一夜蒸发12800亿元",
+   "title": "英伟达市值一夜蒸发12800亿元",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "拆解英伟达暴跌深层逻辑，透视AI算力泡沫与全球科技股估值重塑",
+   "hook_reason": "万亿市值一夜蒸发，全球资本神经紧绷，普通人需警惕财富效应",
+   "url": "https://www.toutiao.com/trending/7706309750610202153/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英伟达市值一夜蒸发12800亿元",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -18832,7 +18832,8 @@
   "纳指10年涨4617现在贵么网页链接网页链接",
   "印证了我的判断巴菲特把谷歌买成第一重仓了",
   "雪粒镇",
-  "抖音副总裁恶语回应专家批评"
+  "抖音副总裁恶语回应专家批评",
+  "亚洲首富又换人"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20095,7 +20096,8 @@
   "e:纳指10年涨4617现在贵么网页链接网页链接": "纳指10年涨461.7%，现在贵么？ 网页链接 网页链接",
   "e:印证了我的判断巴菲特把谷歌买成第一重仓了": "印证了我的判断 巴菲特把谷歌买成第一重仓了",
   "e:雪粒镇": "雪粒镇",
-  "e:抖音副总裁恶语回应专家批评": "抖音副总裁恶语回应专家批评"
+  "e:抖音副总裁恶语回应专家批评": "抖音副总裁恶语回应专家批评",
+  "e:亚洲首富又换人": "亚洲首富又换人"
  },
  "a_seen": {
   "马斯克停产cybertruck并非利润原因": {
@@ -20313,8 +20315,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:claudefable52scores65onartificialanalysi"
+  },
+  "英伟达市值一夜蒸发12800亿元": {
+   "key": "英伟达市值一夜蒸发12800亿元",
+   "title": "英伟达市值一夜蒸发12800亿元",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "拆解英伟达暴跌深层逻辑，透视AI算力泡沫与全球科技股估值重塑",
+   "hook_reason": "万亿市值一夜蒸发，全球资本神经紧绷，普通人需警惕财富效应",
+   "url": "https://www.toutiao.com/trending/7706309750610202153/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英伟达市值一夜蒸发12800亿元"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
