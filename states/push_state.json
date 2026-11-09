@@ -17365,17 +17365,43 @@
    "batch_window": 21
   },
   {
-   "key": "老人6亿遗产留再婚妻子原配子女起诉",
-   "title": "老人6亿遗产留再婚妻子 原配子女起诉",
+   "key": "全球股市集体拉升原油直线闪崩",
+   "title": "全球股市集体拉升 原油直线闪崩",
    "rating": "A",
    "score": 92.0,
-   "angle": "法律视角解读遗产继承权，探讨高龄再婚财产规划的社会意义",
-   "hook_reason": "6亿巨额遗产分配，再婚妻子vs原配子女，人性与法律双重冲突",
-   "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA6%E4%BA%BF%E9%81%97%E4%BA%A7%E7%95%99%E5%86%8D%E5%A9%9A%E5%A6%BB%E5%AD%90+%E5%8E%9F%E9%85%8D%E5%AD%90%E5%A5%B3%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
+   "angle": "解析原油闪崩与股市拉升背离的逻辑，探讨能源价格变动对通胀预期及A股相关板块的短期影响。",
+   "hook_reason": "全球股市拉升与油价闪崩并存，反常行情引发对资产价格波动的强烈好奇与焦虑。",
+   "url": "https://www.toutiao.com/trending/7706147841831551497/",
+   "track": "财经",
    "breaking": true,
-   "event_id": "e:老人6亿遗产留再婚妻子原配子女起诉",
-   "batch_window": 22
+   "event_id": "e:全球股市集体拉升原油直线闪崩",
+   "batch_window": 23
+  },
+  {
+   "key": "大型suv第一名是小米澎程n90",
+   "title": "大型SUV第一名是小米澎程N90",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解析小米澎程N90如何冲击传统SUV霸主地位，背后是科技降维打击还是营销泡沫",
+   "hook_reason": "小米跨界造SUV夺第一，颠覆认知引热议",
+   "url": "https://s.weibo.com/weibo?q=大型SUV第一名是小米澎程N90",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:大型suv第一名是小米澎程n90",
+   "batch_window": 23
+  },
+  {
+   "key": "anewformoftechandimagingflagshipiscomin",
+   "title": "A new form of tech and imaging flagship is comin",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "解析“新形态”技术亮点与行业颠覆力，揭秘旗舰背后的科技变革逻辑",
+   "hook_reason": "神秘新品官宣，颠覆性技术旗舰引猜测，满足好奇",
+   "url": "https://weibo.com/1892653244/RqCIs3IDs",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anewformoftechandimagingflagshipiscomin",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -18684,7 +18710,8 @@
   "德银马斯克中选后要被秋后算账算力越紧张spacex越赚钱政治风险被高估深度解读",
   "这个功能很实用卢伟冰小米18pro系列这块背屏让构图不用再靠猜",
   "失业缓冲期首次出现在国家政策文件",
-  "英伟达突发史上最大gpu盗窃案价值1140万美元的硬件失踪具体什么情况可能带来哪些影响"
+  "英伟达突发史上最大gpu盗窃案价值1140万美元的硬件失踪具体什么情况可能带来哪些影响",
+  "老人6亿遗产留再婚妻子原配子女起诉"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -19929,7 +19956,8 @@
   "e:德银马斯克中选后要被秋后算账算力越紧张spacex越赚钱政治风险被高估深度解读": "德银：马斯克中选后要被“秋后算账”？算力越紧张SpaceX越赚钱，政治风险被高估！（深度解读） ",
   "e:这个功能很实用卢伟冰小米18pro系列这块背屏让构图不用再靠猜": "这个功能很实用！// @卢伟冰 :小米18 Pro系列这块背屏，让构图不用再靠猜",
   "e:失业缓冲期首次出现在国家政策文件": "失业缓冲期首次出现在国家政策文件",
-  "e:英伟达突发史上最大gpu盗窃案价值1140万美元的硬件失踪具体什么情况可能带来哪": "英伟达突发「史上最大GPU盗窃案」，价值 1140 万美元的硬件失踪，具体什么情况？可能带来哪些影响？"
+  "e:英伟达突发史上最大gpu盗窃案价值1140万美元的硬件失踪具体什么情况可能带来哪": "英伟达突发「史上最大GPU盗窃案」，价值 1140 万美元的硬件失踪，具体什么情况？可能带来哪些影响？",
+  "e:老人6亿遗产留再婚妻子原配子女起诉": "老人6亿遗产留再婚妻子 原配子女起诉"
  },
  "a_seen": {
   "马斯克突爆孙正义猛料": {
@@ -20471,8 +20499,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:老人6亿遗产留再婚妻子原配子女起诉"
+  },
+  "全球股市集体拉升原油直线闪崩": {
+   "key": "全球股市集体拉升原油直线闪崩",
+   "title": "全球股市集体拉升 原油直线闪崩",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解析原油闪崩与股市拉升背离的逻辑，探讨能源价格变动对通胀预期及A股相关板块的短期影响。",
+   "hook_reason": "全球股市拉升与油价闪崩并存，反常行情引发对资产价格波动的强烈好奇与焦虑。",
+   "url": "https://www.toutiao.com/trending/7706147841831551497/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:全球股市集体拉升原油直线闪崩"
+  },
+  "大型suv第一名是小米澎程n90": {
+   "key": "大型suv第一名是小米澎程n90",
+   "title": "大型SUV第一名是小米澎程N90",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解析小米澎程N90如何冲击传统SUV霸主地位，背后是科技降维打击还是营销泡沫",
+   "hook_reason": "小米跨界造SUV夺第一，颠覆认知引热议",
+   "url": "https://s.weibo.com/weibo?q=大型SUV第一名是小米澎程N90",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:大型suv第一名是小米澎程n90"
+  },
+  "anewformoftechandimagingflagshipiscomin": {
+   "key": "anewformoftechandimagingflagshipiscomin",
+   "title": "A new form of tech and imaging flagship is comin",
+   "rating": "A",
+   "score": 84.95,
+   "angle": "解析“新形态”技术亮点与行业颠覆力，揭秘旗舰背后的科技变革逻辑",
+   "hook_reason": "神秘新品官宣，颠覆性技术旗舰引猜测，满足好奇",
+   "url": "https://weibo.com/1892653244/RqCIs3IDs",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anewformoftechandimagingflagshipiscomin"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
