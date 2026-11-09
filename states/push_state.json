@@ -17168,6 +17168,32 @@
    "breaking": true,
    "event_id": "e:nvidiaceojensenhuangslettertostaffabouta",
    "batch_window": 8
+  },
+  {
+   "key": "黄仁勋承认出轨",
+   "title": "黄仁勋承认出轨",
+   "rating": "A",
+   "score": 89.5,
+   "angle": "从科技偶像的人设崩塌切入，探讨公众对技术领袖私生活的审视边界与流量逻辑",
+   "hook_reason": "英伟达CEO深夜自爆私德，科技圈巨头光环碎裂，反差感极强",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋承认出轨",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋承认出轨",
+   "batch_window": 8
+  },
+  {
+   "key": "如何看待英伟达ceo黄仁勋在致员工内部信中承认婚外情",
+   "title": "如何看待英伟达 CEO 黄仁勋在致员工内部信中承认婚外情？",
+   "rating": "A",
+   "score": 78.95,
+   "angle": "从黄仁勋内部信切入，分析CEO私德如何影响英伟达企业文化及投资者信心",
+   "hook_reason": "AI教父私德崩塌，职场信任危机，反差感极强",
+   "url": "https://www.zhihu.com/question/2102997392886911090",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:如何看待英伟达ceo黄仁勋在致员工内部信中承认婚外情",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -19839,6 +19865,30 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:nvidiaceojensenhuangslettertostaffabouta"
+  },
+  "黄仁勋承认出轨": {
+   "key": "黄仁勋承认出轨",
+   "title": "黄仁勋承认出轨",
+   "rating": "A",
+   "score": 89.5,
+   "angle": "从科技偶像的人设崩塌切入，探讨公众对技术领袖私生活的审视边界与流量逻辑",
+   "hook_reason": "英伟达CEO深夜自爆私德，科技圈巨头光环碎裂，反差感极强",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋承认出轨",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋承认出轨"
+  },
+  "如何看待英伟达ceo黄仁勋在致员工内部信中承认婚外情": {
+   "key": "如何看待英伟达ceo黄仁勋在致员工内部信中承认婚外情",
+   "title": "如何看待英伟达 CEO 黄仁勋在致员工内部信中承认婚外情？",
+   "rating": "A",
+   "score": 78.95,
+   "angle": "从黄仁勋内部信切入，分析CEO私德如何影响英伟达企业文化及投资者信心",
+   "hook_reason": "AI教父私德崩塌，职场信任危机，反差感极强",
+   "url": "https://www.zhihu.com/question/2102997392886911090",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:如何看待英伟达ceo黄仁勋在致员工内部信中承认婚外情"
   }
  },
  "breaking_count": 10,
