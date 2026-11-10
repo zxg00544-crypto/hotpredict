@@ -17701,6 +17701,19 @@
    "breaking": true,
    "event_id": "e:美联储12月维持利率不变的概率为0",
    "batch_window": 6
+  },
+  {
+   "key": "36岁女子赴泰失联现已回国",
+   "title": "36岁女子赴泰失联现已回国",
+   "rating": "A",
+   "score": 51.14,
+   "angle": "解析回国反转背后的救援机制及出境安全警示",
+   "hook_reason": "突发回国反转，安全焦虑高，点击欲强",
+   "url": "https://s.weibo.com/weibo?q=36岁女子赴泰失联现已回国",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:36岁女子赴泰失联现已回国",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -20439,13 +20452,25 @@
    "key": "美联储12月维持利率不变的概率为0",
    "title": "美联储12月维持利率不变的概率为0",
    "rating": "A",
-   "score": 45.6,
-   "angle": "解析'0概率'背后的美债收益率倒挂逻辑，推演对A股及美股的冲击链",
-   "hook_reason": "0%概率维持利率，暗示必降息，直接影响资产估值与汇率",
+   "score": 43.0,
+   "angle": "澄清市场噪音，解读12月降息预期与概率0的矛盾，分析对A股及美元计价的资产影响",
+   "hook_reason": "概率为0？美联储要加息？打破降息预期的反常识冲击",
    "url": "https://s.weibo.com/weibo?q=美联储12月维持利率不变的概率为0",
    "track": "财经",
    "breaking": true,
    "event_id": "e:美联储12月维持利率不变的概率为0"
+  },
+  "36岁女子赴泰失联现已回国": {
+   "key": "36岁女子赴泰失联现已回国",
+   "title": "36岁女子赴泰失联现已回国",
+   "rating": "A",
+   "score": 51.14,
+   "angle": "解析回国反转背后的救援机制及出境安全警示",
+   "hook_reason": "突发回国反转，安全焦虑高，点击欲强",
+   "url": "https://s.weibo.com/weibo?q=36岁女子赴泰失联现已回国",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:36岁女子赴泰失联现已回国"
   }
  },
  "breaking_count": 10,
