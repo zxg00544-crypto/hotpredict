@@ -17740,6 +17740,19 @@
    "breaking": true,
    "event_id": "e:amd宣布基于zen6架构的第六代epycsp7处理器已全面上市",
    "batch_window": 1
+  },
+  {
+   "key": "李泽楷公司卖出全球最贵人寿保单",
+   "title": "李泽楷公司卖出全球最贵人寿保单",
+   "rating": "A",
+   "score": 72.79,
+   "angle": "拆解全球最贵保单背后的财富逻辑：为何顶豪要用保险隔离资产？",
+   "hook_reason": "全球最贵保单+李泽楷，天价数字与顶豪身份反差极大。",
+   "url": "https://s.weibo.com/weibo?q=李泽楷公司卖出全球最贵人寿保单",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:李泽楷公司卖出全球最贵人寿保单",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -20437,6 +20450,18 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:amd宣布基于zen6架构的第六代epycsp7处理器已全面上市"
+  },
+  "李泽楷公司卖出全球最贵人寿保单": {
+   "key": "李泽楷公司卖出全球最贵人寿保单",
+   "title": "李泽楷公司卖出全球最贵人寿保单",
+   "rating": "A",
+   "score": 72.79,
+   "angle": "拆解全球最贵保单背后的财富逻辑：为何顶豪要用保险隔离资产？",
+   "hook_reason": "全球最贵保单+李泽楷，天价数字与顶豪身份反差极大。",
+   "url": "https://s.weibo.com/weibo?q=李泽楷公司卖出全球最贵人寿保单",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:李泽楷公司卖出全球最贵人寿保单"
   }
  },
  "breaking_count": 10,
