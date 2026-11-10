@@ -17638,19 +17638,6 @@
    "batch_window": 13
   },
   {
-   "key": "特斯拉销量从第1掉至66名",
-   "title": "特斯拉销量从第1掉至66名",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "特斯拉中国销量腰斩背后：国产车崛起与价格战下的品牌神话破灭",
-   "hook_reason": "昔日销冠跌落至66名，新能源格局剧变",
-   "url": "https://s.weibo.com/weibo?q=特斯拉销量从第1掉至66名",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:特斯拉销量从第1掉至66名",
-   "batch_window": 15
-  },
-  {
    "key": "全国乘用车10月零售销量榜澎程n90大型suv销量第一不限能源类型小米澎程n90智能",
    "title": "全国乘用车10月零售销量榜：澎程N90，大型SUV销量第一，不限能源类型。 小米澎程N90，智能",
    "rating": "A",
@@ -17675,6 +17662,45 @@
    "breaking": true,
    "event_id": "e:幼儿园小学初中学龄人口已达峰",
    "batch_window": 15
+  },
+  {
+   "key": "女子月薪2万被裁才知社保基数按4000算",
+   "title": "女子月薪2万被裁才知社保基数按4000算",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "揭秘“低基高算”黑幕，教你在裁员时如何精准核算应得补偿金。",
+   "hook_reason": "月薪2万却按4千交社保，打工人维权痛点，引发强烈共鸣与愤怒。",
+   "url": "https://s.weibo.com/weibo?q=女子月薪2万被裁才知社保基数按4000算",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子月薪2万被裁才知社保基数按4000算",
+   "batch_window": 16
+  },
+  {
+   "key": "amazonsavesmillionsbyreplacingsoc38abf23",
+   "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "解析亚马逊如何用Strands Decider替代Sonnet 4.6，揭示AI架构从“大而全”转向“小而精”的降本逻辑，预判未来企业级AI选型风向。",
+   "hook_reason": "亚马逊弃用顶级模型，成本剧降，AI降本增效新范式",
+   "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:amazonsavesmillionsbyreplacingsonnet46wi",
+   "batch_window": 16
+  },
+  {
+   "key": "连续冲高回落a股在等什么",
+   "title": "连续冲高回落A股在等什么",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "深度解析A股冲高回落背后的资金博弈、政策预期与情绪面变化，给出后市关键观察指标。",
+   "hook_reason": "A股反复横跳让投资者困惑，急需解读背后逻辑与风向。",
+   "url": "https://www.toutiao.com/trending/7706232370449515058/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:连续冲高回落a股在等什么",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -19010,7 +19036,8 @@
   "一个小魔术变出最新款小折电脑华为matebookfolds更多惊喜发布会见余",
   "华为小折叠电脑来了",
   "需求量暴增900万亿元赛道爆发",
-  "花坛藏尸案凶手翻供仍判死刑"
+  "花坛藏尸案凶手翻供仍判死刑",
+  "特斯拉销量从第1掉至66名"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20282,7 +20309,8 @@
   "e:一个小魔术变出最新款小折电脑华为matebookfolds更多惊喜发布会见余": "一个小魔术，变出最新款小折电脑——华为 MateBook Fold S！更多惊喜，发布会见！ 余",
   "e:华为小折叠电脑来了": "华为小折叠电脑来了",
   "e:需求量暴增900万亿元赛道爆发": "“需求量暴增900%” 万亿元赛道爆发",
-  "e:花坛藏尸案凶手翻供仍判死刑": "花坛藏尸案凶手翻供仍判死刑"
+  "e:花坛藏尸案凶手翻供仍判死刑": "花坛藏尸案凶手翻供仍判死刑",
+  "e:特斯拉销量从第1掉至66名": "特斯拉销量从第1掉至66名"
  },
  "a_seen": {
   "马斯克停产cybertruck并非利润原因": {
@@ -20776,8 +20804,44 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:幼儿园小学初中学龄人口已达峰"
+  },
+  "女子月薪2万被裁才知社保基数按4000算": {
+   "key": "女子月薪2万被裁才知社保基数按4000算",
+   "title": "女子月薪2万被裁才知社保基数按4000算",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "揭秘“低基高算”黑幕，教你在裁员时如何精准核算应得补偿金。",
+   "hook_reason": "月薪2万却按4千交社保，打工人维权痛点，引发强烈共鸣与愤怒。",
+   "url": "https://s.weibo.com/weibo?q=女子月薪2万被裁才知社保基数按4000算",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子月薪2万被裁才知社保基数按4000算"
+  },
+  "amazonsavesmillionsbyreplacingsoc38abf23": {
+   "key": "amazonsavesmillionsbyreplacingsoc38abf23",
+   "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "解析亚马逊如何用Strands Decider替代Sonnet 4.6，揭示AI架构从“大而全”转向“小而精”的降本逻辑，预判未来企业级AI选型风向。",
+   "hook_reason": "亚马逊弃用顶级模型，成本剧降，AI降本增效新范式",
+   "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:amazonsavesmillionsbyreplacingsonnet46wi"
+  },
+  "连续冲高回落a股在等什么": {
+   "key": "连续冲高回落a股在等什么",
+   "title": "连续冲高回落A股在等什么",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "深度解析A股冲高回落背后的资金博弈、政策预期与情绪面变化，给出后市关键观察指标。",
+   "hook_reason": "A股反复横跳让投资者困惑，急需解读背后逻辑与风向。",
+   "url": "https://www.toutiao.com/trending/7706232370449515058/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:连续冲高回落a股在等什么"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 15
+ "a_pushed_window": 16
 }
