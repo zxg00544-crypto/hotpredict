@@ -17755,19 +17755,6 @@
    "batch_window": 23
   },
   {
-   "key": "女子西西弗买200元书坐咖啡区被拒",
-   "title": "女子西西弗买200元书坐咖啡区被拒",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "批判‘消费绑定’乱象：书店‘咖啡+书’强关联是否合理？",
-   "hook_reason": "花200元书钱竟不能坐？书店变‘付费牢笼’？",
-   "url": "https://s.weibo.com/weibo?q=女子西西弗买200元书坐咖啡区被拒",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:女子西西弗买200元书坐咖啡区被拒",
-   "batch_window": 1
-  },
-  {
    "key": "曝黄仁勋闭门会道歉后迅速转谈业务",
    "title": "曝黄仁勋闭门会道歉后迅速转谈业务",
    "rating": "A",
@@ -17805,6 +17792,19 @@
    "breaking": true,
    "event_id": "e:网红打pk猝死母亲不知其做危险直播",
    "batch_window": 2
+  },
+  {
+   "key": "timpetershasdied",
+   "title": "Tim Peters has died",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从Timsort算法到语言哲学：纪念一位塑造现代Python灵魂的架构师。",
+   "hook_reason": "Python核心缔造者离世，百万码农哀悼，技术圈集体刷屏。",
+   "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:timpetershasdied",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -19195,7 +19195,8 @@
   "虽然会历经坎坷和磨难但我相信梦想一定会实现",
   "转载据cbdoge报道投资人chamath在播客里说硅谷过去十年是失去的十年",
   "rtx50系列显卡价格出现回落rtx5080售价已跌4000元有哪些原因现在适合入手吗",
-  "当幼儿园陆续消失育儿焦虑退潮了吗"
+  "当幼儿园陆续消失育儿焦虑退潮了吗",
+  "女子西西弗买200元书坐咖啡区被拒"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20522,7 +20523,8 @@
   "e:虽然会历经坎坷和磨难但我相信梦想一定会实现": "虽然会历经坎坷和磨难，但我相信梦想一定会实现✈️",
   "e:转载据cbdoge报道投资人chamath在播客里说硅谷过去十年是失去的十年": "转载：据 @cb_doge 报道，投资人 Chamath 在播客里说，硅谷过去十年，是失去的十年",
   "e:rtx50系列显卡价格出现回落rtx5080售价已跌4000元有哪些原因现在适合": "RTX50系列显卡价格出现回落，RTX5080售价已跌4000 元，有哪些原因？现在适合入手吗？",
-  "e:当幼儿园陆续消失育儿焦虑退潮了吗": "当幼儿园陆续消失 育儿焦虑退潮了吗"
+  "e:当幼儿园陆续消失育儿焦虑退潮了吗": "当幼儿园陆续消失 育儿焦虑退潮了吗",
+  "e:女子西西弗买200元书坐咖啡区被拒": "女子西西弗买200元书坐咖啡区被拒"
  },
  "a_seen": {
   "转nvda黄仁勋线开盘前补充政治压力一夜升级了两级但股价盘前仍在反弹": {
@@ -20596,8 +20598,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:网红打pk猝死母亲不知其做危险直播"
+  },
+  "timpetershasdied": {
+   "key": "timpetershasdied",
+   "title": "Tim Peters has died",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "从Timsort算法到语言哲学：纪念一位塑造现代Python灵魂的架构师。",
+   "hook_reason": "Python核心缔造者离世，百万码农哀悼，技术圈集体刷屏。",
+   "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:timpetershasdied"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
