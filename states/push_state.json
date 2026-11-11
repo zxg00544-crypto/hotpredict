@@ -17703,19 +17703,6 @@
    "batch_window": 14
   },
   {
-   "key": "科技巨头疯狂建数据中心现在麻烦来了ai创造营热搜ai创作激励大赛红衣大叔周鸿祎",
-   "title": "科技巨头疯狂建数据中心，现在麻烦来了！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周鸿祎",
-   "rating": "A",
-   "score": 84.9,
-   "angle": "剖析算力泡沫与实体脱节风险，解读周鸿祎对AI下半场的冷思考",
-   "hook_reason": "周鸿祎预警AI基建危机，巨头烧钱困境引发恐慌",
-   "url": "https://weibo.com/1708942053/RqUieej0C",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:科技巨头疯狂建数据中心现在麻烦来了ai创造营热搜ai创作激励大赛红衣大叔周鸿祎",
-   "batch_window": 19
-  },
-  {
    "key": "转载据cbdoge报道投资人chamath在播客里说硅谷过去十年是失去的十年",
    "title": "转载：据 @cb_doge 报道，投资人 Chamath 在播客里说，硅谷过去十年，是失去的十年",
    "rating": "A",
@@ -17766,6 +17753,32 @@
    "breaking": true,
    "event_id": "e:rtx50系列显卡价格出现回落rtx5080售价已跌4000元有哪些原因现在适合",
    "batch_window": 21
+  },
+  {
+   "key": "googleswepoints48aiagentsatnasala50d1d36",
+   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "AI代理集群（Multi-Agent）在考古领域的首次实战，标志AI从生成转向探索发现。",
+   "hook_reason": "48个AI智能体72小时破解玛雅金字塔，颠覆人类认知",
+   "url": "https://pietromiotti.com/latest/maya-site/?maya",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:googleswepoints48aiagentsatnasalidarfind",
+   "batch_window": 22
+  },
+  {
+   "key": "赵丽颖起诉红果短剧",
+   "title": "赵丽颖起诉红果短剧",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "剖析短剧行业版权乱象，赵丽颖诉讼对艺人权益及平台合规的深远影响",
+   "hook_reason": "顶流艺人维权vs平台，法律战内幕引热议",
+   "url": "https://s.weibo.com/weibo?q=赵丽颖起诉红果短剧",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:赵丽颖起诉红果短剧",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -19141,7 +19154,8 @@
   "比亚迪对错装大唐车辆重新起算整车质保",
   "ai云服务巨头季报超预期盘后大涨超6网页链接网页链接",
   "日本拟全面废除女性劳动保护规定",
-  "特朗普第一次下台的时候给拜登留了一封信信中反复叮嘱拜登要为美国人民服务但是到特朗普第二次自"
+  "特朗普第一次下台的时候给拜登留了一封信信中反复叮嘱拜登要为美国人民服务但是到特朗普第二次自",
+  "科技巨头疯狂建数据中心现在麻烦来了ai创造营热搜ai创作激励大赛红衣大叔周鸿祎"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20453,7 +20467,8 @@
   "e:比亚迪对错装大唐车辆重新起算整车质保": "比亚迪对错装大唐车辆重新起算整车质保",
   "e:ai云服务巨头季报超预期盘后大涨超6网页链接网页链接": "AI云服务巨头季报超预期，盘后大涨超6% 网页链接 网页链接",
   "e:日本拟全面废除女性劳动保护规定": "日本拟全面废除女性劳动保护规定",
-  "e:特朗普第一次下台的时候给拜登留了一封信信中反复叮嘱拜登要为美国人民服务但是到特朗": "特朗普第一次下台的时候，给拜登留了一封信，信中反复叮嘱拜登要为美国人民服务，但是到特朗普第二次自"
+  "e:特朗普第一次下台的时候给拜登留了一封信信中反复叮嘱拜登要为美国人民服务但是到特朗": "特朗普第一次下台的时候，给拜登留了一封信，信中反复叮嘱拜登要为美国人民服务，但是到特朗普第二次自",
+  "e:科技巨头疯狂建数据中心现在麻烦来了ai创造营热搜ai创作激励大赛红衣大叔周鸿祎": "科技巨头疯狂建数据中心，现在麻烦来了！ #ai创造营# #热搜AI创作激励大赛# 红衣大叔周鸿祎"
  },
  "a_seen": {
   "分析师警告黄仁勋若卸任ceo英伟达估值或缩水近30网页链接网页链接": {
@@ -20748,9 +20763,9 @@
    "key": "余承东正式官宣华为子品牌星芒osta可能面向哪些用户它会如何与华为现有产品线区分",
    "title": "余承东正式官宣华为子品牌「星芒」（OSTA），可能面向哪些用户？它会如何与华为现有产品线区分？",
    "rating": "A",
-   "score": 43.7,
-   "angle": "解析星芒定位与P50系列关系，预判华为高端折叠屏市场竞争策略。",
-   "hook_reason": "华为新品牌星芒曝光，高端化突围关键，余承东官宣引关注。",
+   "score": 80.0,
+   "angle": "拆解华为双品牌战略：星芒如何承接Pura与Mate之外的中端/细分市场空缺",
+   "hook_reason": "余承东亲自官宣，华为新子品牌首秀，直接影响手机市场格局",
    "url": "https://www.zhihu.com/question/2103854627128959557",
    "track": "科技",
    "breaking": true,
@@ -20760,9 +20775,9 @@
    "key": "中国叫停软银收购瑞士abb机器人业务将对全球工业数据流转规则产生哪些影响",
    "title": "中国叫停软银收购瑞士 ABB 机器人业务，将对全球工业数据流转规则产生哪些影响？",
    "rating": "A",
-   "score": 73.15,
-   "angle": "解析中国监管逻辑：为何此时叫停？从国家安全角度拆解ABB机器人数据流转风险及对全球工业4.0的影响。",
-   "hook_reason": "中美欧科技脱钩新证据，机器人巨头被卡，全球产业链震荡，硬核财经博弈。",
+   "score": 75.15,
+   "angle": "软银收购ABB受阻背后：中国如何用监管重塑全球工业数据主权",
+   "hook_reason": "中国叫停软银收购ABB，揭秘全球工业数据流转新规",
    "url": "https://www.zhihu.com/question/2102940552853448626",
    "track": "财经",
    "breaking": true,
@@ -20779,8 +20794,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:rtx50系列显卡价格出现回落rtx5080售价已跌4000元有哪些原因现在适合"
+  },
+  "googleswepoints48aiagentsatnasala50d1d36": {
+   "key": "googleswepoints48aiagentsatnasala50d1d36",
+   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "AI代理集群（Multi-Agent）在考古领域的首次实战，标志AI从生成转向探索发现。",
+   "hook_reason": "48个AI智能体72小时破解玛雅金字塔，颠覆人类认知",
+   "url": "https://pietromiotti.com/latest/maya-site/?maya",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:googleswepoints48aiagentsatnasalidarfind"
+  },
+  "赵丽颖起诉红果短剧": {
+   "key": "赵丽颖起诉红果短剧",
+   "title": "赵丽颖起诉红果短剧",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "剖析短剧行业版权乱象，赵丽颖诉讼对艺人权益及平台合规的深远影响",
+   "hook_reason": "顶流艺人维权vs平台，法律战内幕引热议",
+   "url": "https://s.weibo.com/weibo?q=赵丽颖起诉红果短剧",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:赵丽颖起诉红果短剧"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
