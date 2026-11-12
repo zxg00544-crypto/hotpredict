@@ -17807,17 +17807,17 @@
    "batch_window": 10
   },
   {
-   "key": "油价",
-   "title": "油价",
+   "key": "geminidecisions",
+   "title": "Gemini Decisions",
    "rating": "A",
-   "score": 90.5,
-   "angle": "解析油价上涨对C端消费及A股能源板块的传导逻辑",
-   "hook_reason": "油价突跳涨，直接关乎出行成本与通胀预期，强身份相关。",
-   "url": "https://s.weibo.com/weibo?q=油价",
-   "track": "财经",
+   "score": 86.15,
+   "angle": "解析Gemini Decisions：从聊天助手到行动中枢，AI交互范式的彻底颠覆。",
+   "hook_reason": "谷歌AI大动作，Gemini系统级决策引发热议，科技圈地震。",
+   "url": "https://search.bilibili.com/all?keyword=Gemini Decisions",
+   "track": "科技",
    "breaking": true,
-   "event_id": "e:油价",
-   "batch_window": 10
+   "event_id": "e:geminidecisions",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -19216,7 +19216,8 @@
   "长得像要吃人其实吃素性格温顺",
   "华为星芒价格",
   "theshy回应s16长暂停",
-  "萝卜快跑逼出乘客路怒症"
+  "萝卜快跑逼出乘客路怒症",
+  "油价"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20551,7 +20552,8 @@
   "e:长得像要吃人其实吃素性格温顺": "长得像要吃人其实吃素性格温顺",
   "e:华为星芒价格": "华为星芒价格",
   "e:theshy回应s16长暂停": "TheShy回应S16长暂停",
-  "e:萝卜快跑逼出乘客路怒症": "萝卜快跑逼出乘客路怒症"
+  "e:萝卜快跑逼出乘客路怒症": "萝卜快跑逼出乘客路怒症",
+  "e:油价": "油价"
  },
  "a_seen": {
   "转nvda黄仁勋线开盘前补充政治压力一夜升级了两级但股价盘前仍在反弹": {
@@ -20745,8 +20747,20 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:一早被朋友电话吵醒看到英伟达突发消息外媒传出黄仁勋卷入职场风波董事会筹划罢免英伟"
+  },
+  "geminidecisions": {
+   "key": "geminidecisions",
+   "title": "Gemini Decisions",
+   "rating": "A",
+   "score": 86.15,
+   "angle": "解析Gemini Decisions：从聊天助手到行动中枢，AI交互范式的彻底颠覆。",
+   "hook_reason": "谷歌AI大动作，Gemini系统级决策引发热议，科技圈地震。",
+   "url": "https://search.bilibili.com/all?keyword=Gemini Decisions",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:geminidecisions"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
