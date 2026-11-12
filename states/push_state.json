@@ -17807,19 +17807,6 @@
    "batch_window": 10
   },
   {
-   "key": "赌市认为cuda之父成为英伟达ceo的概率为40老黄留任的概率12看来老黄大势已去要",
-   "title": "赌市认为CUDA之父成为英伟达CEO的概率为40%，老黄留任的概率12%。看来，老黄大势已去，要",
-   "rating": "A",
-   "score": 84.85,
-   "angle": "深度解析：是真实权力交接信号，还是资本市场的叙事博弈？",
-   "hook_reason": "英伟达掌门人突变传闻，赌市赔率反常识，颠覆科技巨头认知。",
-   "url": "https://weibo.com/7799274131/Rr0YN0pAD",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:赌市认为cuda之父成为英伟达ceo的概率为40老黄留任的概率12看来老黄大势已",
-   "batch_window": 12
-  },
-  {
    "key": "币圈教父赵长鹏一场疯狂的财富赌局赵长鹏财经币安卢克文的微博视频",
    "title": "币圈教父赵长鹏：一场疯狂的财富赌局 #赵长鹏# 财经#币安 卢克文的微博视频",
    "rating": "A",
@@ -17922,6 +17909,32 @@
    "breaking": true,
    "event_id": "e:红楼梦ai剧侵害17位演员肖像权",
    "batch_window": 16
+  },
+  {
+   "key": "祖国完全统一一定要实现一定能够实现",
+   "title": "祖国完全统一一定要实现一定能够实现",
+   "rating": "A",
+   "score": 88.0,
+   "angle": "从‘大国博弈’视角解读统一信号对区域经济与科技自主权定的影响",
+   "hook_reason": "国家统一顶层定调，情绪共振极强",
+   "url": "https://s.weibo.com/weibo?q=祖国完全统一一定要实现一定能够实现",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:祖国完全统一一定要实现一定能够实现",
+   "batch_window": 17
+  },
+  {
+   "key": "humblebundlejustkilledmostofthei881e22ca",
+   "title": "Humble Bundle just killed most of their security through vibecoding",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "复盘Humble Bundle安全事故，警示AI快速重构代码库带来的隐性债务与信任危机",
+   "hook_reason": "知名网站因AI编码导致安全裸奔，反直觉且警示性强",
+   "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:humblebundlejustkilledmostoftheirsecurit",
+   "batch_window": 17
   }
  ],
  "pushed": [
@@ -19326,7 +19339,8 @@
   "女子称产后与娃都患病丈夫不让进门",
   "涉事老师回应8岁女孩被戒尺打住院",
   "决不能让一个梗毁掉一个孩子",
-  "奔驰ceo称在中国车要大非常大大得惊人实际情况是这样吗为什么国内外会存在这样的区别"
+  "奔驰ceo称在中国车要大非常大大得惊人实际情况是这样吗为什么国内外会存在这样的区别",
+  "赌市认为cuda之父成为英伟达ceo的概率为40老黄留任的概率12看来老黄大势已去要"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20667,7 +20681,8 @@
   "e:女子称产后与娃都患病丈夫不让进门": "女子称产后与娃都患病丈夫不让进门",
   "e:涉事老师回应8岁女孩被戒尺打住院": "涉事老师回应8岁女孩被戒尺打住院",
   "e:决不能让一个梗毁掉一个孩子": "决不能让一个梗毁掉一个孩子",
-  "e:奔驰ceo称在中国车要大非常大大得惊人实际情况是这样吗为什么国内外会存在这样的区": "奔驰 CEO 称「在中国，车要大，非常大，大得惊人」，实际情况是这样吗？为什么国内外会存在这样的区别？"
+  "e:奔驰ceo称在中国车要大非常大大得惊人实际情况是这样吗为什么国内外会存在这样的区": "奔驰 CEO 称「在中国，车要大，非常大，大得惊人」，实际情况是这样吗？为什么国内外会存在这样的区别？",
+  "e:赌市认为cuda之父成为英伟达ceo的概率为40老黄留任的概率12看来老黄大势已": "赌市认为CUDA之父成为英伟达CEO的概率为40%，老黄留任的概率12%。看来，老黄大势已去，要"
  },
  "a_seen": {
   "转nvda黄仁勋线开盘前补充政治压力一夜升级了两级但股价盘前仍在反弹": {
@@ -21046,15 +21061,39 @@
    "key": "红楼梦ai剧侵害17位演员肖像权",
    "title": "红楼梦AI剧侵害17位演员肖像权",
    "rating": "A",
-   "score": 45.0,
-   "angle": "AI技术变现的暗面：肖像权边界模糊下的法律真空与行业自救",
-   "hook_reason": "经典IP+AI侵权+多位演员，法律与伦理双重冲突强",
+   "score": 80.0,
+   "angle": "AI生成内容边界：技术滥用与肖像权保护的冲突",
+   "hook_reason": "AI换脸乱象，老版演员维权，法律科技争议",
    "url": "https://s.weibo.com/weibo?q=红楼梦AI剧侵害17位演员肖像权",
    "track": "科技",
    "breaking": true,
    "event_id": "e:红楼梦ai剧侵害17位演员肖像权"
+  },
+  "祖国完全统一一定要实现一定能够实现": {
+   "key": "祖国完全统一一定要实现一定能够实现",
+   "title": "祖国完全统一一定要实现一定能够实现",
+   "rating": "A",
+   "score": 88.0,
+   "angle": "从‘大国博弈’视角解读统一信号对区域经济与科技自主权定的影响",
+   "hook_reason": "国家统一顶层定调，情绪共振极强",
+   "url": "https://s.weibo.com/weibo?q=祖国完全统一一定要实现一定能够实现",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:祖国完全统一一定要实现一定能够实现"
+  },
+  "humblebundlejustkilledmostofthei881e22ca": {
+   "key": "humblebundlejustkilledmostofthei881e22ca",
+   "title": "Humble Bundle just killed most of their security through vibecoding",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "复盘Humble Bundle安全事故，警示AI快速重构代码库带来的隐性债务与信任危机",
+   "hook_reason": "知名网站因AI编码导致安全裸奔，反直觉且警示性强",
+   "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:humblebundlejustkilledmostoftheirsecurit"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 16
+ "a_pushed_window": 17
 }
