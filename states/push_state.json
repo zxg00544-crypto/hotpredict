@@ -14895,19 +14895,6 @@
    "batch_window": 14
   },
   {
-   "key": "theshy回应s16长暂停",
-   "title": "TheShy回应S16长暂停",
-   "rating": "A",
-   "score": 83.0,
-   "angle": "聚焦TheShy沉默背后原因及回应内容，拆解其对LPL生态的影响",
-   "hook_reason": "顶级电竞选手时隔久回应S16风波，粉丝基数大，悬念感强",
-   "url": "https://s.weibo.com/weibo?q=TheShy回应S16长暂停",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:theshy回应s16长暂停",
-   "batch_window": 14
-  },
-  {
    "key": "厉娜的工作联系方式变了",
    "title": "厉娜的工作联系方式变了",
    "rating": "A",
@@ -17792,6 +17779,32 @@
    "breaking": true,
    "event_id": "e:anthropic披露ai仅用3天适配amd芯片",
    "batch_window": 8
+  },
+  {
+   "key": "如何看待董宇辉回应旗下蛋糕保质期9个月称18度冷冻保质期变长是常识这是科技与狠活吗",
+   "title": "如何看待董宇辉回应旗下蛋糕保质期 9 个月，称-18度冷冻保质期变长是常识？这是「科技与狠活」吗？",
+   "rating": "A",
+   "score": 70.79,
+   "angle": "拆解董宇辉冷冻保质逻辑，结合《食安法》与行业潜规则，辨析‘常识’是否真为借口",
+   "hook_reason": "顶流回应常识争议，‘科技与狠活’梗引发食品安全与常识的双重焦虑",
+   "url": "https://www.zhihu.com/question/2101999833812944347",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:如何看待董宇辉回应旗下蛋糕保质期9个月称18度冷冻保质期变长是常识这是科技与狠活",
+   "batch_window": 9
+  },
+  {
+   "key": "nvidiaispreparingtooustjensenhuang",
+   "title": "Nvidia is preparing to oust Jensen Huang",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "深度解析黄仁勋卸任传闻背后的治理危机与AI时代领导权更迭",
+   "hook_reason": "芯片霸主创始人被董事会计划罢免，打破科技神话",
+   "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nvidiaispreparingtooustjensenhuang",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -19188,7 +19201,8 @@
   "网友发现罗技广告又以狗比喻用户客服回应已展开调查为什么继此前舆论风波后还会出现这种情况",
   "美坠毁公务机飞行员绝望尖叫",
   "长得像要吃人其实吃素性格温顺",
-  "华为星芒价格"
+  "华为星芒价格",
+  "theshy回应s16长暂停"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20521,7 +20535,8 @@
   "e:网友发现罗技广告又以狗比喻用户客服回应已展开调查为什么继此前舆论风波后还会出现这": "网友发现罗技广告又以狗比喻用户，客服回应已展开调查，为什么继此前舆论风波后还会出现这种情况？",
   "e:美坠毁公务机飞行员绝望尖叫": "美坠毁公务机飞行员绝望尖叫",
   "e:长得像要吃人其实吃素性格温顺": "长得像要吃人其实吃素性格温顺",
-  "e:华为星芒价格": "华为星芒价格"
+  "e:华为星芒价格": "华为星芒价格",
+  "e:theshy回应s16长暂停": "TheShy回应S16长暂停"
  },
  "a_seen": {
   "转nvda黄仁勋线开盘前补充政治压力一夜升级了两级但股价盘前仍在反弹": {
@@ -20655,8 +20670,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:anthropic披露ai仅用3天适配amd芯片"
+  },
+  "如何看待董宇辉回应旗下蛋糕保质期9个月称18度冷冻保质期变长是常识这是科技与狠活吗": {
+   "key": "如何看待董宇辉回应旗下蛋糕保质期9个月称18度冷冻保质期变长是常识这是科技与狠活吗",
+   "title": "如何看待董宇辉回应旗下蛋糕保质期 9 个月，称-18度冷冻保质期变长是常识？这是「科技与狠活」吗？",
+   "rating": "A",
+   "score": 70.79,
+   "angle": "拆解董宇辉冷冻保质逻辑，结合《食安法》与行业潜规则，辨析‘常识’是否真为借口",
+   "hook_reason": "顶流回应常识争议，‘科技与狠活’梗引发食品安全与常识的双重焦虑",
+   "url": "https://www.zhihu.com/question/2101999833812944347",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:如何看待董宇辉回应旗下蛋糕保质期9个月称18度冷冻保质期变长是常识这是科技与狠活"
+  },
+  "nvidiaispreparingtooustjensenhuang": {
+   "key": "nvidiaispreparingtooustjensenhuang",
+   "title": "Nvidia is preparing to oust Jensen Huang",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "深度解析黄仁勋卸任传闻背后的治理危机与AI时代领导权更迭",
+   "hook_reason": "芯片霸主创始人被董事会计划罢免，打破科技神话",
+   "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nvidiaispreparingtooustjensenhuang"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
