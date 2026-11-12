@@ -17937,19 +17937,6 @@
    "batch_window": 18
   },
   {
-   "key": "律师解读8岁女孩被老师打骨折",
-   "title": "律师解读8岁女孩被老师打骨折",
-   "rating": "A",
-   "score": 89.0,
-   "angle": "聚焦法律视角，界定教育惩戒与暴力伤害的界限，引导理性维权而非情绪宣泄。",
-   "hook_reason": "8岁幼童遭暴力致骨折，触及公众底线，律师专业解读降低造谣风险。",
-   "url": "https://s.weibo.com/weibo?q=律师解读8岁女孩被老师打骨折",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:律师解读8岁女孩被老师打骨折",
-   "batch_window": 19
-  },
-  {
    "key": "腾讯字节",
    "title": "腾讯 字节",
    "rating": "A",
@@ -17987,6 +17974,45 @@
    "breaking": true,
    "event_id": "e:anthropicipo",
    "batch_window": 21
+  },
+  {
+   "key": "刘欢已安葬",
+   "title": "刘欢已安葬",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "刘欢离世不仅是个人悲剧，更是一代华语流行乐黄金时代的落幕，引发集体青春记忆与时代情绪共振。",
+   "hook_reason": "国民级音乐大师骤然离世，情感冲击极强，引发全民自发悼念与时代记忆共鸣。",
+   "url": "https://s.weibo.com/weibo?q=刘欢已安葬",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:刘欢已安葬",
+   "batch_window": 22
+  },
+  {
+   "key": "黄仁勋辞职",
+   "title": "黄仁勋辞职",
+   "rating": "A",
+   "score": 52.95,
+   "angle": "辟谣或深度解读：是误传还是真离职？AI芯片格局会变吗？",
+   "hook_reason": "AI教父黄仁勋辞职？颠覆认知，科技圈震动。",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋辞职",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋辞职",
+   "batch_window": 22
+  },
+  {
+   "key": "将接任黄仁勋的克雷斯是谁",
+   "title": "将接任黄仁勋的克雷斯是谁？",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "深度解析克雷斯履历，解读英伟达权力交接背后的战略意图",
+   "hook_reason": "黄仁勋接班悬念，揭秘神秘克雷斯背景",
+   "url": "https://finance.sina.cn/7x24/2026-11-12/detail-iniynyaw8387306.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:将接任黄仁勋的克雷斯是谁",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -19396,7 +19422,8 @@
   "祖国完全统一一定要实现一定能够实现",
   "日本专家拆开零跑lafa5后坐不住了",
   "育儿嫂粗暴摔打一岁半宝宝",
-  "科技新一谈马化腾内部训话"
+  "科技新一谈马化腾内部训话",
+  "律师解读8岁女孩被老师打骨折"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20742,7 +20769,8 @@
   "e:祖国完全统一一定要实现一定能够实现": "祖国完全统一一定要实现一定能够实现",
   "e:日本专家拆开零跑lafa5后坐不住了": "日本专家拆开零跑Lafa5后坐不住了",
   "e:育儿嫂粗暴摔打一岁半宝宝": "育儿嫂粗暴摔打一岁半宝宝",
-  "e:科技新一谈马化腾内部训话": "科技新一谈马化腾内部训话"
+  "e:科技新一谈马化腾内部训话": "科技新一谈马化腾内部训话",
+  "e:律师解读8岁女孩被老师打骨折": "律师解读8岁女孩被老师打骨折"
  },
  "a_seen": {
   "转nvda黄仁勋线开盘前补充政治压力一夜升级了两级但股价盘前仍在反弹": {
@@ -21272,8 +21300,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:anthropicipo"
+  },
+  "刘欢已安葬": {
+   "key": "刘欢已安葬",
+   "title": "刘欢已安葬",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "刘欢离世不仅是个人悲剧，更是一代华语流行乐黄金时代的落幕，引发集体青春记忆与时代情绪共振。",
+   "hook_reason": "国民级音乐大师骤然离世，情感冲击极强，引发全民自发悼念与时代记忆共鸣。",
+   "url": "https://s.weibo.com/weibo?q=刘欢已安葬",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:刘欢已安葬"
+  },
+  "黄仁勋辞职": {
+   "key": "黄仁勋辞职",
+   "title": "黄仁勋辞职",
+   "rating": "A",
+   "score": 52.95,
+   "angle": "辟谣或深度解读：是误传还是真离职？AI芯片格局会变吗？",
+   "hook_reason": "AI教父黄仁勋辞职？颠覆认知，科技圈震动。",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋辞职",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋辞职"
+  },
+  "黄仁勋辞去英伟达ceo职务": {
+   "key": "黄仁勋辞去英伟达ceo职务",
+   "title": "黄仁勋辞去英伟达CEO职务",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解析黄仁勋离职真实意图：是权力交接还是营销反转？对英伟达股价与AI供应链的连锁反应。",
+   "hook_reason": "芯片霸主突然离职，AI行业地震，股民与从业者恐慌与好奇交织。",
+   "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E5%8E%BB%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋辞职"
+  },
+  "将接任黄仁勋的克雷斯是谁": {
+   "key": "将接任黄仁勋的克雷斯是谁",
+   "title": "将接任黄仁勋的克雷斯是谁？",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "深度解析克雷斯履历，解读英伟达权力交接背后的战略意图",
+   "hook_reason": "黄仁勋接班悬念，揭秘神秘克雷斯背景",
+   "url": "https://finance.sina.cn/7x24/2026-11-12/detail-iniynyaw8387306.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:将接任黄仁勋的克雷斯是谁"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
