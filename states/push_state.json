@@ -17391,19 +17391,6 @@
    "batch_window": 10
   },
   {
-   "key": "花坛藏尸案一审宣判",
-   "title": "“花坛藏尸案”一审宣判",
-   "rating": "A",
-   "score": 82.98,
-   "angle": "深挖案件侦办细节与判决结果，探讨公共安全盲区与司法正义闭环",
-   "hook_reason": "花坛藏尸触目惊心，一审宣判带来真相与正义的极致满足",
-   "url": "https://www.toutiao.com/trending/7705328117799698495/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:花坛藏尸案一审宣判",
-   "batch_window": 11
-  },
-  {
    "key": "华为推出全新小折叠电脑",
    "title": "华为推出全新小折叠电脑",
    "rating": "A",
@@ -18065,6 +18052,32 @@
    "breaking": true,
    "event_id": "e:第一个攻克癌症的中国公司已经亏损了",
    "batch_window": 3
+  },
+  {
+   "key": "gemini4hydrogenandorchestrator",
+   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "解析Gemini 4 Hydrogen：从代码生成到自主编排，AI Agent如何重塑软件开发流程",
+   "hook_reason": "谷歌AI架构重大更新，颠覆传统编程范式，开发者必看",
+   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gemini4hydrogenandorchestrator",
+   "batch_window": 4
+  },
+  {
+   "key": "黄仁勋辞去英伟达ceo职务会给中国ai芯片厂商带来新的发展机会吗",
+   "title": "黄仁勋辞去英伟达 CEO 职务，会给中国 AI 芯片厂商带来新的发展机会吗？",
+   "rating": "A",
+   "score": 49.79,
+   "angle": "辟谣与机会分析：澄清传闻不实，借此剖析国产芯片在封锁下的突围逻辑",
+   "hook_reason": "黄仁勋离职传闻引发对国产芯片替代机遇的激烈讨论",
+   "url": "https://www.zhihu.com/question/2104342766322808640",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋辞去英伟达ceo职务会给中国ai芯片厂商带来新的发展机会吗",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -19490,7 +19503,8 @@
   "王腾谈黄仁勋辞职",
   "压垮50岁老教师的真的是一句顶嘴吗",
   "nvidiawasin1in11startuproundsover100mlastyear",
-  "nvidiaispreparingtooustjensenhuang"
+  "nvidiaispreparingtooustjensenhuang",
+  "花坛藏尸案一审宣判"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20852,7 +20866,8 @@
   "e:王腾谈黄仁勋辞职": "王腾谈黄仁勋辞职",
   "e:压垮50岁老教师的真的是一句顶嘴吗": "压垮50岁老教师的真的是一句顶嘴吗",
   "e:nvidiawasin1in11startuproundsover100mlas": "Nvidia was in 1 in 11 startup rounds over $100M last year",
-  "e:nvidiaispreparingtooustjensenhuang": "Nvidia is preparing to oust Jensen Huang"
+  "e:nvidiaispreparingtooustjensenhuang": "Nvidia is preparing to oust Jensen Huang",
+  "e:花坛藏尸案一审宣判": "“花坛藏尸案”一审宣判"
  },
  "a_seen": {
   "普通人用ai和会用ai的人": {
@@ -20979,15 +20994,39 @@
    "key": "第一个攻克癌症的中国公司已经亏损了",
    "title": "第一个攻克癌症的中国公司已经亏损了",
    "rating": "A",
-   "score": 82.0,
-   "angle": "深度解析：为何'第一个攻克癌症'的公司反而亏损？揭秘抗癌药研发的商业死穴与资本寒冬",
-   "hook_reason": "打破'攻克癌症'神话，揭示巨头亏损现实，颠覆认知",
+   "score": 74.95,
+   "angle": "深度拆解'攻克癌症'背后的商业逻辑，为何技术领先却陷入财务泥潭",
+   "hook_reason": "首个攻克癌症公司竟在亏损，颠覆认知且关乎投资命脉",
    "url": "https://www.toutiao.com/trending/7707292856653712947/",
-   "track": "科技",
+   "track": "财经",
    "breaking": true,
    "event_id": "e:第一个攻克癌症的中国公司已经亏损了"
+  },
+  "gemini4hydrogenandorchestrator": {
+   "key": "gemini4hydrogenandorchestrator",
+   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "解析Gemini 4 Hydrogen：从代码生成到自主编排，AI Agent如何重塑软件开发流程",
+   "hook_reason": "谷歌AI架构重大更新，颠覆传统编程范式，开发者必看",
+   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gemini4hydrogenandorchestrator"
+  },
+  "黄仁勋辞去英伟达ceo职务会给中国ai芯片厂商带来新的发展机会吗": {
+   "key": "黄仁勋辞去英伟达ceo职务会给中国ai芯片厂商带来新的发展机会吗",
+   "title": "黄仁勋辞去英伟达 CEO 职务，会给中国 AI 芯片厂商带来新的发展机会吗？",
+   "rating": "A",
+   "score": 49.79,
+   "angle": "辟谣与机会分析：澄清传闻不实，借此剖析国产芯片在封锁下的突围逻辑",
+   "hook_reason": "黄仁勋离职传闻引发对国产芯片替代机遇的激烈讨论",
+   "url": "https://www.zhihu.com/question/2104342766322808640",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋辞去英伟达ceo职务会给中国ai芯片厂商带来新的发展机会吗"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
