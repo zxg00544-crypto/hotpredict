@@ -17807,17 +17807,69 @@
    "batch_window": 10
   },
   {
-   "key": "geminidecisions",
-   "title": "Gemini Decisions",
+   "key": "女子称产后与娃都患病丈夫不让进门",
+   "title": "女子称产后与娃都患病丈夫不让进门",
    "rating": "A",
-   "score": 86.15,
-   "angle": "解析Gemini Decisions：从聊天助手到行动中枢，AI交互范式的彻底颠覆。",
-   "hook_reason": "谷歌AI大动作，Gemini系统级决策引发热议，科技圈地震。",
-   "url": "https://search.bilibili.com/all?keyword=Gemini Decisions",
+   "score": 90.5,
+   "angle": "剖析产后抑郁与婚姻暴力，结合新民法典，探讨如何保护弱势方权益及取证要点。",
+   "hook_reason": "产后遭拒入户，涉及婚姻底线与弱势群体生存，情绪极度愤怒，极易引发共情讨论。",
+   "url": "https://s.weibo.com/weibo?q=女子称产后与娃都患病丈夫不让进门",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子称产后与娃都患病丈夫不让进门",
+   "batch_window": 12
+  },
+  {
+   "key": "决不能让一个梗毁掉一个孩子",
+   "title": "决不能让一个梗毁掉一个孩子",
+   "rating": "A",
+   "score": 90.0,
+   "angle": "从心理学与法律角度分析“玩梗”背后的隐性暴力，呼吁建立未成年人网络保护新边界",
+   "hook_reason": "抵制网络霸凌护娃，引发家长对网络戾气的共鸣与反思",
+   "url": "https://www.baidu.com/s?wd=%E5%86%B3%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%B8%80%E4%B8%AA%E6%A2%97%E6%AF%81%E6%8E%89%E4%B8%80%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:决不能让一个梗毁掉一个孩子",
+   "batch_window": 12
+  },
+  {
+   "key": "赌市认为cuda之父成为英伟达ceo的概率为40老黄留任的概率12看来老黄大势已去要",
+   "title": "赌市认为CUDA之父成为英伟达CEO的概率为40%，老黄留任的概率12%。看来，老黄大势已去，要",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "深度解析：是真实权力交接信号，还是资本市场的叙事博弈？",
+   "hook_reason": "英伟达掌门人突变传闻，赌市赔率反常识，颠覆科技巨头认知。",
+   "url": "https://weibo.com/7799274131/Rr0YN0pAD",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:geminidecisions",
-   "batch_window": 11
+   "event_id": "e:赌市认为cuda之父成为英伟达ceo的概率为40老黄留任的概率12看来老黄大势已",
+   "batch_window": 12
+  },
+  {
+   "key": "币圈教父赵长鹏一场疯狂的财富赌局赵长鹏财经币安卢克文的微博视频",
+   "title": "币圈教父赵长鹏：一场疯狂的财富赌局 #赵长鹏# 财经#币安 卢克文的微博视频",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "解析赵长鹏回归币安的战略意义，及加密行业合规化下的财富机会",
+   "hook_reason": "币圈教父回归，财富赌局反转，揭秘背后资本博弈",
+   "url": "https://weibo.com/1875293522/Rr0WOnByX",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:币圈教父赵长鹏一场疯狂的财富赌局赵长鹏财经币安卢克文的微博视频",
+   "batch_window": 12
+  },
+  {
+   "key": "criticalrcevulnerabilityinapachehttpserver",
+   "title": "Critical RCE Vulnerability in Apache HTTP Server",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "解读 CVE-2026-119618 危害，提供 Apache 紧急修复与加固代码指南",
+   "hook_reason": "Apache 0day RCE 爆发，所有部署者需紧急自查",
+   "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:criticalrcevulnerabilityinapachehttpserv",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -19217,7 +19269,8 @@
   "华为星芒价格",
   "theshy回应s16长暂停",
   "萝卜快跑逼出乘客路怒症",
-  "油价"
+  "油价",
+  "geminidecisions"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20553,7 +20606,8 @@
   "e:华为星芒价格": "华为星芒价格",
   "e:theshy回应s16长暂停": "TheShy回应S16长暂停",
   "e:萝卜快跑逼出乘客路怒症": "萝卜快跑逼出乘客路怒症",
-  "e:油价": "油价"
+  "e:油价": "油价",
+  "e:geminidecisions": "Gemini Decisions"
  },
  "a_seen": {
   "转nvda黄仁勋线开盘前补充政治压力一夜升级了两级但股价盘前仍在反弹": {
@@ -20759,8 +20813,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:geminidecisions"
+  },
+  "女子称产后与娃都患病丈夫不让进门": {
+   "key": "女子称产后与娃都患病丈夫不让进门",
+   "title": "女子称产后与娃都患病丈夫不让进门",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "剖析产后抑郁与婚姻暴力，结合新民法典，探讨如何保护弱势方权益及取证要点。",
+   "hook_reason": "产后遭拒入户，涉及婚姻底线与弱势群体生存，情绪极度愤怒，极易引发共情讨论。",
+   "url": "https://s.weibo.com/weibo?q=女子称产后与娃都患病丈夫不让进门",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:女子称产后与娃都患病丈夫不让进门"
+  },
+  "决不能让一个梗毁掉一个孩子": {
+   "key": "决不能让一个梗毁掉一个孩子",
+   "title": "决不能让一个梗毁掉一个孩子",
+   "rating": "A",
+   "score": 90.0,
+   "angle": "从心理学与法律角度分析“玩梗”背后的隐性暴力，呼吁建立未成年人网络保护新边界",
+   "hook_reason": "抵制网络霸凌护娃，引发家长对网络戾气的共鸣与反思",
+   "url": "https://www.baidu.com/s?wd=%E5%86%B3%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%B8%80%E4%B8%AA%E6%A2%97%E6%AF%81%E6%8E%89%E4%B8%80%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:决不能让一个梗毁掉一个孩子"
+  },
+  "赌市认为cuda之父成为英伟达ceo的概率为40老黄留任的概率12看来老黄大势已去要": {
+   "key": "赌市认为cuda之父成为英伟达ceo的概率为40老黄留任的概率12看来老黄大势已去要",
+   "title": "赌市认为CUDA之父成为英伟达CEO的概率为40%，老黄留任的概率12%。看来，老黄大势已去，要",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "深度解析：是真实权力交接信号，还是资本市场的叙事博弈？",
+   "hook_reason": "英伟达掌门人突变传闻，赌市赔率反常识，颠覆科技巨头认知。",
+   "url": "https://weibo.com/7799274131/Rr0YN0pAD",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:赌市认为cuda之父成为英伟达ceo的概率为40老黄留任的概率12看来老黄大势已"
+  },
+  "币圈教父赵长鹏一场疯狂的财富赌局赵长鹏财经币安卢克文的微博视频": {
+   "key": "币圈教父赵长鹏一场疯狂的财富赌局赵长鹏财经币安卢克文的微博视频",
+   "title": "币圈教父赵长鹏：一场疯狂的财富赌局 #赵长鹏# 财经#币安 卢克文的微博视频",
+   "rating": "A",
+   "score": 84.85,
+   "angle": "解析赵长鹏回归币安的战略意义，及加密行业合规化下的财富机会",
+   "hook_reason": "币圈教父回归，财富赌局反转，揭秘背后资本博弈",
+   "url": "https://weibo.com/1875293522/Rr0WOnByX",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:币圈教父赵长鹏一场疯狂的财富赌局赵长鹏财经币安卢克文的微博视频"
+  },
+  "criticalrcevulnerabilityinapachehttpserver": {
+   "key": "criticalrcevulnerabilityinapachehttpserver",
+   "title": "Critical RCE Vulnerability in Apache HTTP Server",
+   "rating": "A",
+   "score": 80.0,
+   "angle": "解读 CVE-2026-119618 危害，提供 Apache 紧急修复与加固代码指南",
+   "hook_reason": "Apache 0day RCE 爆发，所有部署者需紧急自查",
+   "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:criticalrcevulnerabilityinapachehttpserv"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
