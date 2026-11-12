@@ -17807,19 +17807,6 @@
    "batch_window": 10
   },
   {
-   "key": "决不能让一个梗毁掉一个孩子",
-   "title": "决不能让一个梗毁掉一个孩子",
-   "rating": "A",
-   "score": 90.0,
-   "angle": "从心理学与法律角度分析“玩梗”背后的隐性暴力，呼吁建立未成年人网络保护新边界",
-   "hook_reason": "抵制网络霸凌护娃，引发家长对网络戾气的共鸣与反思",
-   "url": "https://www.baidu.com/s?wd=%E5%86%B3%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%B8%80%E4%B8%AA%E6%A2%97%E6%AF%81%E6%8E%89%E4%B8%80%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:决不能让一个梗毁掉一个孩子",
-   "batch_window": 12
-  },
-  {
    "key": "赌市认为cuda之父成为英伟达ceo的概率为40老黄留任的概率12看来老黄大势已去要",
    "title": "赌市认为CUDA之父成为英伟达CEO的概率为40%，老黄留任的概率12%。看来，老黄大势已去，要",
    "rating": "A",
@@ -17896,6 +17883,19 @@
    "breaking": true,
    "event_id": "e:被老师打到抽搐女孩父母常年在外务工",
    "batch_window": 14
+  },
+  {
+   "key": "爱用ai的人建议反复观看",
+   "title": "爱用AI的人建议反复观看",
+   "rating": "A",
+   "score": 43.2,
+   "angle": "拆解AI高频使用者的反直觉工作流，展示如何利用AI消除重复劳动并实现效率倍增",
+   "hook_reason": "AI工具效率提升痛点，反复观看暗示颠覆性技巧",
+   "url": "https://s.weibo.com/weibo?q=爱用AI的人建议反复观看",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:爱用ai的人建议反复观看",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -19298,7 +19298,8 @@
   "油价",
   "geminidecisions",
   "女子称产后与娃都患病丈夫不让进门",
-  "涉事老师回应8岁女孩被戒尺打住院"
+  "涉事老师回应8岁女孩被戒尺打住院",
+  "决不能让一个梗毁掉一个孩子"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20637,7 +20638,8 @@
   "e:油价": "油价",
   "e:geminidecisions": "Gemini Decisions",
   "e:女子称产后与娃都患病丈夫不让进门": "女子称产后与娃都患病丈夫不让进门",
-  "e:涉事老师回应8岁女孩被戒尺打住院": "涉事老师回应8岁女孩被戒尺打住院"
+  "e:涉事老师回应8岁女孩被戒尺打住院": "涉事老师回应8岁女孩被戒尺打住院",
+  "e:决不能让一个梗毁掉一个孩子": "决不能让一个梗毁掉一个孩子"
  },
  "a_seen": {
   "转nvda黄仁勋线开盘前补充政治压力一夜升级了两级但股价盘前仍在反弹": {
@@ -20951,8 +20953,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:被老师打到抽搐女孩父母常年在外务工"
+  },
+  "山姆399元羽绒服打脸谁": {
+   "key": "山姆399元羽绒服打脸谁",
+   "title": "山姆399元羽绒服打脸谁",
+   "rating": "A",
+   "score": 89.68,
+   "angle": "从'平替经济'切入，分析中产消费降级与山姆渠道红利，揭示价格锚点崩塌的商业逻辑。",
+   "hook_reason": "399元山姆羽绒服性价比引热议，打脸高端商场与大牌定价，直击消费者钱包。",
+   "url": "https://s.weibo.com/weibo?q=山姆399元羽绒服打脸谁",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:山姆399元充绒量300克羽绒服断货"
+  },
+  "警方介入8岁女孩被老师打骨折事件": {
+   "key": "警方介入8岁女孩被老师打骨折事件",
+   "title": "警方介入8岁女孩被老师打骨折事件",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "从法治角度剖析校园暴力零容忍，探讨如何构建家校互信底线。",
+   "hook_reason": "儿童校园暴力+警方介入，正义感与恐惧感拉满，家长群体必点。",
+   "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A58%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E9%AA%A8%E6%8A%98%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:涉事老师回应8岁女孩被戒尺打住院"
+  },
+  "爱用ai的人建议反复观看": {
+   "key": "爱用ai的人建议反复观看",
+   "title": "爱用AI的人建议反复观看",
+   "rating": "A",
+   "score": 43.2,
+   "angle": "拆解AI高频使用者的反直觉工作流，展示如何利用AI消除重复劳动并实现效率倍增",
+   "hook_reason": "AI工具效率提升痛点，反复观看暗示颠覆性技巧",
+   "url": "https://s.weibo.com/weibo?q=爱用AI的人建议反复观看",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:爱用ai的人建议反复观看"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 14
+ "a_pushed_window": 15
 }
