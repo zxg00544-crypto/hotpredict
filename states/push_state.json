@@ -18039,6 +18039,32 @@
    "breaking": true,
    "event_id": "e:20岁男子疑遭拘禁殴打被解救后去世",
    "batch_window": 2
+  },
+  {
+   "key": "gemini4hydrogen",
+   "title": "Gemini 4 Hydrogen",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "解读Gemini 4技术突破及谷歌生态战略调整，分析对国内大模型的冲击。",
+   "hook_reason": "谷歌发布Gemini 4，性能颠覆认知，AI格局生变。",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gemini4hydrogen",
+   "batch_window": 2
+  },
+  {
+   "key": "jensenhuangresigns",
+   "title": "Jensen Huang resigns",
+   "rating": "A",
+   "score": 49.07,
+   "angle": "辟谣/解读：黄仁勋未正式辞任，分析其角色转变对英伟达股价及AI供应链的潜在冲击。",
+   "hook_reason": "黄仁勋卸任传闻疯传，英伟达帝国权力交接与AI算力未来谁接棒？",
+   "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:jensenhuangresigns",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -20915,13 +20941,37 @@
    "key": "20岁男子疑遭拘禁殴打被解救后去世",
    "title": "20岁男子疑遭拘禁殴打被解救后去世",
    "rating": "A",
-   "score": 46.78,
-   "angle": "聚焦“解救后仍去世”的医学与法律争议，探讨人身自由边界。",
-   "hook_reason": "20岁生命消逝，拘禁殴打细节引发极强愤怒与恐惧。",
+   "score": 57.05,
+   "angle": "深挖拘禁背后的灰色产业链条，探讨年轻人在非法拘禁中的脆弱性与社会救援机制短板",
+   "hook_reason": "20岁生命消逝，拘禁殴打细节引发极强公愤与保护欲",
    "url": "https://s.weibo.com/weibo?q=20岁男子疑遭拘禁殴打被解救后去世",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:20岁男子疑遭拘禁殴打被解救后去世"
+  },
+  "gemini4hydrogen": {
+   "key": "gemini4hydrogen",
+   "title": "Gemini 4 Hydrogen",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "解读Gemini 4技术突破及谷歌生态战略调整，分析对国内大模型的冲击。",
+   "hook_reason": "谷歌发布Gemini 4，性能颠覆认知，AI格局生变。",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gemini4hydrogen"
+  },
+  "jensenhuangresigns": {
+   "key": "jensenhuangresigns",
+   "title": "Jensen Huang resigns",
+   "rating": "A",
+   "score": 49.07,
+   "angle": "辟谣/解读：黄仁勋未正式辞任，分析其角色转变对英伟达股价及AI供应链的潜在冲击。",
+   "hook_reason": "黄仁勋卸任传闻疯传，英伟达帝国权力交接与AI算力未来谁接棒？",
+   "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:jensenhuangresigns"
   }
  },
  "breaking_count": 10,
