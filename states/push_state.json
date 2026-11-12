@@ -17935,6 +17935,32 @@
    "breaking": true,
    "event_id": "e:日本专家拆开零跑lafa5后坐不住了",
    "batch_window": 18
+  },
+  {
+   "key": "育儿嫂粗暴摔打一岁半宝宝",
+   "title": "育儿嫂粗暴摔打一岁半宝宝",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从愤怒情绪切入, 剖析家政行业监管漏洞及用户筛选痛点, 呼吁建立黑名单制度",
+   "hook_reason": "婴儿遭虐心碎公众, 育儿嫂行业信任危机",
+   "url": "https://s.weibo.com/weibo?q=育儿嫂粗暴摔打一岁半宝宝",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:育儿嫂粗暴摔打一岁半宝宝",
+   "batch_window": 18
+  },
+  {
+   "key": "结婚随礼14000元民警不同意",
+   "title": "结婚“随礼”14000元 民警：不同意",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "探讨天价随礼背后的面子经济，分析及民警介入是否越界",
+   "hook_reason": "巨额随礼引发公序良俗与法律边界争议，极具讨论度",
+   "url": "https://www.baidu.com/s?wd=%E7%BB%93%E5%A9%9A%E2%80%9C%E9%9A%8F%E7%A4%BC%E2%80%9D14000%E5%85%83+%E6%B0%91%E8%AD%A6%EF%BC%9A%E4%B8%8D%E5%90%8C%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:结婚随礼14000元民警不同意",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -21099,13 +21125,37 @@
    "key": "日本专家拆开零跑lafa5后坐不住了",
    "title": "日本专家拆开零跑Lafa5后坐不住了",
    "rating": "A",
-   "score": 90.5,
-   "angle": "日本专家拆解零跑Lafa5背后的技术自信：从‘仰望’到‘平视’的国产车突围实录",
-   "hook_reason": "日系技术权威拆解国产车，打破技术垄断偏见，民族情绪拉满",
+   "score": 83.5,
+   "angle": "聚焦拆解细节，分析零跑在三电技术上的成本与性能平衡逻辑。",
+   "hook_reason": "日本专家拆解国产品牌，技术碾压与身份反差引发好奇。",
    "url": "https://s.weibo.com/weibo?q=日本专家拆开零跑Lafa5后坐不住了",
    "track": "科技",
    "breaking": true,
    "event_id": "e:日本专家拆开零跑lafa5后坐不住了"
+  },
+  "育儿嫂粗暴摔打一岁半宝宝": {
+   "key": "育儿嫂粗暴摔打一岁半宝宝",
+   "title": "育儿嫂粗暴摔打一岁半宝宝",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从愤怒情绪切入, 剖析家政行业监管漏洞及用户筛选痛点, 呼吁建立黑名单制度",
+   "hook_reason": "婴儿遭虐心碎公众, 育儿嫂行业信任危机",
+   "url": "https://s.weibo.com/weibo?q=育儿嫂粗暴摔打一岁半宝宝",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:育儿嫂粗暴摔打一岁半宝宝"
+  },
+  "结婚随礼14000元民警不同意": {
+   "key": "结婚随礼14000元民警不同意",
+   "title": "结婚“随礼”14000元 民警：不同意",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "探讨天价随礼背后的面子经济，分析及民警介入是否越界",
+   "hook_reason": "巨额随礼引发公序良俗与法律边界争议，极具讨论度",
+   "url": "https://www.baidu.com/s?wd=%E7%BB%93%E5%A9%9A%E2%80%9C%E9%9A%8F%E7%A4%BC%E2%80%9D14000%E5%85%83+%E6%B0%91%E8%AD%A6%EF%BC%9A%E4%B8%8D%E5%90%8C%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:结婚随礼14000元民警不同意"
   }
  },
  "breaking_count": 10,
