@@ -16338,19 +16338,6 @@
    "batch_window": 21
   },
   {
-   "key": "残疾人证怎么成了生意",
-   "title": "残疾人证怎么成了生意",
-   "rating": "A",
-   "score": 82.82,
-   "angle": "深挖‘假残真富’黑产链条，从社保套利到身份造假，拆解灰色生意背后的监管漏洞与社会信任危机。",
-   "hook_reason": "揭秘黑产内幕，涉及普通人身份焦虑，反差感极强",
-   "url": "https://www.baidu.com/s?wd=%E6%AE%8B%E7%96%BE%E4%BA%BA%E8%AF%81%E6%80%8E%E4%B9%88%E6%88%90%E4%BA%86%E7%94%9F%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:残疾人证怎么成了生意",
-   "batch_window": 22
-  },
-  {
    "key": "日本央行行长植田和男目前基础通胀率已达2我们的目标是将其维持在2水平",
    "title": "日本央行行长植田和男：目前基础通胀率已达2%，我们的目标是将其维持在2%水平。",
    "rating": "A",
@@ -19504,7 +19491,8 @@
   "压垮50岁老教师的真的是一句顶嘴吗",
   "nvidiawasin1in11startuproundsover100mlastyear",
   "nvidiaispreparingtooustjensenhuang",
-  "花坛藏尸案一审宣判"
+  "花坛藏尸案一审宣判",
+  "残疾人证怎么成了生意"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20867,7 +20855,8 @@
   "e:压垮50岁老教师的真的是一句顶嘴吗": "压垮50岁老教师的真的是一句顶嘴吗",
   "e:nvidiawasin1in11startuproundsover100mlas": "Nvidia was in 1 in 11 startup rounds over $100M last year",
   "e:nvidiaispreparingtooustjensenhuang": "Nvidia is preparing to oust Jensen Huang",
-  "e:花坛藏尸案一审宣判": "“花坛藏尸案”一审宣判"
+  "e:花坛藏尸案一审宣判": "“花坛藏尸案”一审宣判",
+  "e:残疾人证怎么成了生意": "残疾人证怎么成了生意"
  },
  "a_seen": {
   "普通人用ai和会用ai的人": {
@@ -21028,5 +21017,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
