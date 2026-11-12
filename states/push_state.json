@@ -17131,19 +17131,6 @@
    "batch_window": 16
   },
   {
-   "key": "nvidiawasin1in11startuproundsover100mlastyear",
-   "title": "Nvidia was in 1 in 11 startup rounds over $100M last year",
-   "rating": "A",
-   "score": 83.0,
-   "angle": "解读英伟达通过‘芯片+云+投资’构建AI生态护城河，揭示算力垄断背后的资本逻辑",
-   "hook_reason": "英伟达每11轮超级融资就出现一次，AI资本集中度恐怖数据",
-   "url": "https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:nvidiawasin1in11startuproundsover100mlas",
-   "batch_window": 20
-  },
-  {
    "key": "英伟达无明确接班人分析师称失去黄仁勋则难以估值",
    "title": "英伟达无明确接班人，分析师称失去黄仁勋则难以估值",
    "rating": "A",
@@ -18039,6 +18026,19 @@
    "breaking": true,
    "event_id": "e:第一批90后已经开始脑梗了",
    "batch_window": 23
+  },
+  {
+   "key": "20岁男子疑遭拘禁殴打被解救后去世",
+   "title": "20岁男子疑遭拘禁殴打被解救后去世",
+   "rating": "A",
+   "score": 46.78,
+   "angle": "聚焦“解救后仍去世”的医学与法律争议，探讨人身自由边界。",
+   "hook_reason": "20岁生命消逝，拘禁殴打细节引发极强愤怒与恐惧。",
+   "url": "https://s.weibo.com/weibo?q=20岁男子疑遭拘禁殴打被解救后去世",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:20岁男子疑遭拘禁殴打被解救后去世",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -19462,7 +19462,8 @@
   "特朗普回应黄仁勋辞职",
   "immakingllmsworkonsmallandolddevices",
   "王腾谈黄仁勋辞职",
-  "压垮50岁老教师的真的是一句顶嘴吗"
+  "压垮50岁老教师的真的是一句顶嘴吗",
+  "nvidiawasin1in11startuproundsover100mlastyear"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20822,7 +20823,8 @@
   "e:特朗普回应黄仁勋辞职": "特朗普回应黄仁勋辞职",
   "e:immakingllmsworkonsmallandolddevices": "I'm making LLMs work on small and old devices",
   "e:王腾谈黄仁勋辞职": "王腾谈黄仁勋辞职",
-  "e:压垮50岁老教师的真的是一句顶嘴吗": "压垮50岁老教师的真的是一句顶嘴吗"
+  "e:压垮50岁老教师的真的是一句顶嘴吗": "压垮50岁老教师的真的是一句顶嘴吗",
+  "e:nvidiawasin1in11startuproundsover100mlas": "Nvidia was in 1 in 11 startup rounds over $100M last year"
  },
  "a_seen": {
   "普通人用ai和会用ai的人": {
@@ -20908,8 +20910,20 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:王腾谈黄仁勋辞职"
+  },
+  "20岁男子疑遭拘禁殴打被解救后去世": {
+   "key": "20岁男子疑遭拘禁殴打被解救后去世",
+   "title": "20岁男子疑遭拘禁殴打被解救后去世",
+   "rating": "A",
+   "score": 46.78,
+   "angle": "聚焦“解救后仍去世”的医学与法律争议，探讨人身自由边界。",
+   "hook_reason": "20岁生命消逝，拘禁殴打细节引发极强愤怒与恐惧。",
+   "url": "https://s.weibo.com/weibo?q=20岁男子疑遭拘禁殴打被解救后去世",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:20岁男子疑遭拘禁殴打被解救后去世"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
