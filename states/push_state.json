@@ -13790,19 +13790,6 @@
    "batch_window": 16
   },
   {
-   "key": "如何看待南京一助教老师休息日爬山5小时未回工作消息遭辞退休息日定时查看3次工作号的要求合法吗",
-   "title": "如何看待南京一助教老师休息日爬山5小时未回工作消息遭辞退？「休息日定时查看3次工作号」的要求合法吗？",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "从劳动法视角拆解'隐形加班'边界，采访HR/律师/打工者三方对比，引发#我的手机24小时开机#话题互动",
-   "hook_reason": "打工人集体共鸣：休息日连上厕所都要回复工作消息？",
-   "url": "https://www.zhihu.com/question/2100514068792661637",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:如何看待南京一助教老师休息日爬山5小时未回工作消息遭辞退休息日定时查看3次工作号",
-   "batch_window": 17
-  },
-  {
    "key": "6个看似节俭实则致癌的习惯",
    "title": "6个看似节俭实则致癌的习惯",
    "rating": "A",
@@ -19492,7 +19479,8 @@
   "nvidiawasin1in11startuproundsover100mlastyear",
   "nvidiaispreparingtooustjensenhuang",
   "花坛藏尸案一审宣判",
-  "残疾人证怎么成了生意"
+  "残疾人证怎么成了生意",
+  "如何看待南京一助教老师休息日爬山5小时未回工作消息遭辞退休息日定时查看3次工作号的要求合法吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20856,7 +20844,8 @@
   "e:nvidiawasin1in11startuproundsover100mlas": "Nvidia was in 1 in 11 startup rounds over $100M last year",
   "e:nvidiaispreparingtooustjensenhuang": "Nvidia is preparing to oust Jensen Huang",
   "e:花坛藏尸案一审宣判": "“花坛藏尸案”一审宣判",
-  "e:残疾人证怎么成了生意": "残疾人证怎么成了生意"
+  "e:残疾人证怎么成了生意": "残疾人证怎么成了生意",
+  "e:如何看待南京一助教老师休息日爬山5小时未回工作消息遭辞退休息日定时查看3次工作号": "如何看待南京一助教老师休息日爬山5小时未回工作消息遭辞退？「休息日定时查看3次工作号」的要求合法吗？"
  },
  "a_seen": {
   "普通人用ai和会用ai的人": {
@@ -21017,5 +21006,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
