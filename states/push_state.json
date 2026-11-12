@@ -14531,19 +14531,6 @@
    "batch_window": 22
   },
   {
-   "key": "华为星芒价格",
-   "title": "华为星芒价格",
-   "rating": "A",
-   "score": 83.0,
-   "angle": "华为星芒定价策略拆解：旗舰线竞争格局重构还是亲民路线？",
-   "hook_reason": "华为新品定价引爆讨论，科技圈与消费者双焦点",
-   "url": "https://s.weibo.com/weibo?q=华为星芒价格",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:华为星芒价格",
-   "batch_window": 23
-  },
-  {
    "key": "精分患者被伪造病历虚假出入院",
    "title": "精分患者被伪造病历虚假出入院",
    "rating": "A",
@@ -17792,6 +17779,19 @@
    "breaking": true,
    "event_id": "e:myaiagentsfoundanunmappedmayasite",
    "batch_window": 6
+  },
+  {
+   "key": "anthropic披露ai仅用3天适配amd芯片",
+   "title": "Anthropic披露AI仅用3天适配AMD芯片",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "聚焦'3天'这一反直觉时间点，解析软硬解耦趋势对算力格局的影响",
+   "hook_reason": "3天适配颠覆认知，打破AI训练漫长叙事",
+   "url": "https://www.toutiao.com/trending/7706948038756929087/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic披露ai仅用3天适配amd芯片",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -19187,7 +19187,8 @@
   "伊朗已购买俄罗斯苏35战斗机",
   "网友发现罗技广告又以狗比喻用户客服回应已展开调查为什么继此前舆论风波后还会出现这种情况",
   "美坠毁公务机飞行员绝望尖叫",
-  "长得像要吃人其实吃素性格温顺"
+  "长得像要吃人其实吃素性格温顺",
+  "华为星芒价格"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20519,7 +20520,8 @@
   "e:伊朗已购买俄罗斯苏35战斗机": "伊朗已购买俄罗斯苏-35战斗机",
   "e:网友发现罗技广告又以狗比喻用户客服回应已展开调查为什么继此前舆论风波后还会出现这": "网友发现罗技广告又以狗比喻用户，客服回应已展开调查，为什么继此前舆论风波后还会出现这种情况？",
   "e:美坠毁公务机飞行员绝望尖叫": "美坠毁公务机飞行员绝望尖叫",
-  "e:长得像要吃人其实吃素性格温顺": "长得像要吃人其实吃素性格温顺"
+  "e:长得像要吃人其实吃素性格温顺": "长得像要吃人其实吃素性格温顺",
+  "e:华为星芒价格": "华为星芒价格"
  },
  "a_seen": {
   "转nvda黄仁勋线开盘前补充政治压力一夜升级了两级但股价盘前仍在反弹": {
@@ -20641,8 +20643,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:myaiagentsfoundanunmappedmayasite"
+  },
+  "anthropic披露ai仅用3天适配amd芯片": {
+   "key": "anthropic披露ai仅用3天适配amd芯片",
+   "title": "Anthropic披露AI仅用3天适配AMD芯片",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "聚焦'3天'这一反直觉时间点，解析软硬解耦趋势对算力格局的影响",
+   "hook_reason": "3天适配颠覆认知，打破AI训练漫长叙事",
+   "url": "https://www.toutiao.com/trending/7706948038756929087/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic披露ai仅用3天适配amd芯片"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
