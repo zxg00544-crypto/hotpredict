@@ -16247,19 +16247,6 @@
    "batch_window": 13
   },
   {
-   "key": "萝卜快跑逼出乘客路怒症",
-   "title": "萝卜快跑逼出乘客路怒症",
-   "rating": "A",
-   "score": 83.0,
-   "angle": "从“代驾型路怒”切入，探讨自动驾驶普及后人类驾驶技能退化与社会心理冲突。",
-   "hook_reason": "Robotaxi致人类路怒，科技改变驾驶习惯，意外反差感强。",
-   "url": "https://s.weibo.com/weibo?q=萝卜快跑逼出乘客路怒症",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:萝卜快跑逼出乘客路怒症",
-   "batch_window": 15
-  },
-  {
    "key": "美国股市为何暴跌",
    "title": "美国股市为何暴跌",
    "rating": "A",
@@ -17805,6 +17792,32 @@
    "breaking": true,
    "event_id": "e:nvidiaispreparingtooustjensenhuang",
    "batch_window": 9
+  },
+  {
+   "key": "没了黄仁勋英伟达还有价值吗网页链接网页链接",
+   "title": "没了黄仁勋，英伟达还有价值吗？ 网页链接 网页链接",
+   "rating": "A",
+   "score": 79.27,
+   "angle": "剥离“黄教主”个人IP，从CUDA生态护城河与AI算力垄断地位，论证英伟达的独立估值逻辑。",
+   "hook_reason": "剥离CEO光环，直击核心：没了黄仁勋，英伟达还值万亿吗？",
+   "url": "https://weibo.com/1249424622/RqZSpxBhb",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:一早被朋友电话吵醒看到英伟达突发消息外媒传出黄仁勋卷入职场风波董事会筹划罢免英伟",
+   "batch_window": 10
+  },
+  {
+   "key": "油价",
+   "title": "油价",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解析油价上涨对C端消费及A股能源板块的传导逻辑",
+   "hook_reason": "油价突跳涨，直接关乎出行成本与通胀预期，强身份相关。",
+   "url": "https://s.weibo.com/weibo?q=油价",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:油价",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -19202,7 +19215,8 @@
   "美坠毁公务机飞行员绝望尖叫",
   "长得像要吃人其实吃素性格温顺",
   "华为星芒价格",
-  "theshy回应s16长暂停"
+  "theshy回应s16长暂停",
+  "萝卜快跑逼出乘客路怒症"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20536,7 +20550,8 @@
   "e:美坠毁公务机飞行员绝望尖叫": "美坠毁公务机飞行员绝望尖叫",
   "e:长得像要吃人其实吃素性格温顺": "长得像要吃人其实吃素性格温顺",
   "e:华为星芒价格": "华为星芒价格",
-  "e:theshy回应s16长暂停": "TheShy回应S16长暂停"
+  "e:theshy回应s16长暂停": "TheShy回应S16长暂停",
+  "e:萝卜快跑逼出乘客路怒症": "萝卜快跑逼出乘客路怒症"
  },
  "a_seen": {
   "转nvda黄仁勋线开盘前补充政治压力一夜升级了两级但股价盘前仍在反弹": {
@@ -20694,8 +20709,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:nvidiaispreparingtooustjensenhuang"
+  },
+  "没了黄仁勋英伟达还有价值吗网页链接网页链接": {
+   "key": "没了黄仁勋英伟达还有价值吗网页链接网页链接",
+   "title": "没了黄仁勋，英伟达还有价值吗？ 网页链接 网页链接",
+   "rating": "A",
+   "score": 79.27,
+   "angle": "剥离“黄教主”个人IP，从CUDA生态护城河与AI算力垄断地位，论证英伟达的独立估值逻辑。",
+   "hook_reason": "剥离CEO光环，直击核心：没了黄仁勋，英伟达还值万亿吗？",
+   "url": "https://weibo.com/1249424622/RqZSpxBhb",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:一早被朋友电话吵醒看到英伟达突发消息外媒传出黄仁勋卷入职场风波董事会筹划罢免英伟"
+  },
+  "油价": {
+   "key": "油价",
+   "title": "油价",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解析油价上涨对C端消费及A股能源板块的传导逻辑",
+   "hook_reason": "油价突跳涨，直接关乎出行成本与通胀预期，强身份相关。",
+   "url": "https://s.weibo.com/weibo?q=油价",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:油价"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
