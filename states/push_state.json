@@ -17768,19 +17768,6 @@
    "batch_window": 9
   },
   {
-   "key": "nvidiaispreparingtooustjensenhuang",
-   "title": "Nvidia is preparing to oust Jensen Huang",
-   "rating": "A",
-   "score": 83.0,
-   "angle": "深度解析黄仁勋卸任传闻背后的治理危机与AI时代领导权更迭",
-   "hook_reason": "芯片霸主创始人被董事会计划罢免，打破科技神话",
-   "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:nvidiaispreparingtooustjensenhuang",
-   "batch_window": 9
-  },
-  {
    "key": "没了黄仁勋英伟达还有价值吗网页链接网页链接",
    "title": "没了黄仁勋，英伟达还有价值吗？ 网页链接 网页链接",
    "rating": "A",
@@ -18065,6 +18052,19 @@
    "breaking": true,
    "event_id": "e:jensenhuangresigns",
    "batch_window": 2
+  },
+  {
+   "key": "第一个攻克癌症的中国公司已经亏损了",
+   "title": "第一个攻克癌症的中国公司已经亏损了",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "深度解析：为何'第一个攻克癌症'的公司反而亏损？揭秘抗癌药研发的商业死穴与资本寒冬",
+   "hook_reason": "打破'攻克癌症'神话，揭示巨头亏损现实，颠覆认知",
+   "url": "https://www.toutiao.com/trending/7707292856653712947/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:第一个攻克癌症的中国公司已经亏损了",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -19489,7 +19489,8 @@
   "immakingllmsworkonsmallandolddevices",
   "王腾谈黄仁勋辞职",
   "压垮50岁老教师的真的是一句顶嘴吗",
-  "nvidiawasin1in11startuproundsover100mlastyear"
+  "nvidiawasin1in11startuproundsover100mlastyear",
+  "nvidiaispreparingtooustjensenhuang"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20850,7 +20851,8 @@
   "e:immakingllmsworkonsmallandolddevices": "I'm making LLMs work on small and old devices",
   "e:王腾谈黄仁勋辞职": "王腾谈黄仁勋辞职",
   "e:压垮50岁老教师的真的是一句顶嘴吗": "压垮50岁老教师的真的是一句顶嘴吗",
-  "e:nvidiawasin1in11startuproundsover100mlas": "Nvidia was in 1 in 11 startup rounds over $100M last year"
+  "e:nvidiawasin1in11startuproundsover100mlas": "Nvidia was in 1 in 11 startup rounds over $100M last year",
+  "e:nvidiaispreparingtooustjensenhuang": "Nvidia is preparing to oust Jensen Huang"
  },
  "a_seen": {
   "普通人用ai和会用ai的人": {
@@ -20953,9 +20955,9 @@
    "key": "gemini4hydrogen",
    "title": "Gemini 4 Hydrogen",
    "rating": "A",
-   "score": 77.5,
-   "angle": "解读Gemini 4技术突破及谷歌生态战略调整，分析对国内大模型的冲击。",
-   "hook_reason": "谷歌发布Gemini 4，性能颠覆认知，AI格局生变。",
+   "score": 75.85,
+   "angle": "解读 Gemini 4 Hydrogen 命名逻辑与性能飞跃，分析谷歌 AI 战略转向",
+   "hook_reason": "Gemini 4 命名跳级引热议，技术跃升背后藏着什么秘密？",
    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
    "track": "科技",
    "breaking": true,
@@ -20972,8 +20974,20 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:jensenhuangresigns"
+  },
+  "第一个攻克癌症的中国公司已经亏损了": {
+   "key": "第一个攻克癌症的中国公司已经亏损了",
+   "title": "第一个攻克癌症的中国公司已经亏损了",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "深度解析：为何'第一个攻克癌症'的公司反而亏损？揭秘抗癌药研发的商业死穴与资本寒冬",
+   "hook_reason": "打破'攻克癌症'神话，揭示巨头亏损现实，颠覆认知",
+   "url": "https://www.toutiao.com/trending/7707292856653712947/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:第一个攻克癌症的中国公司已经亏损了"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
