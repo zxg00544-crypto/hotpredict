@@ -17976,19 +17976,6 @@
    "batch_window": 21
   },
   {
-   "key": "刘欢已安葬",
-   "title": "刘欢已安葬",
-   "rating": "A",
-   "score": 86.0,
-   "angle": "刘欢离世不仅是个人悲剧，更是一代华语流行乐黄金时代的落幕，引发集体青春记忆与时代情绪共振。",
-   "hook_reason": "国民级音乐大师骤然离世，情感冲击极强，引发全民自发悼念与时代记忆共鸣。",
-   "url": "https://s.weibo.com/weibo?q=刘欢已安葬",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:刘欢已安葬",
-   "batch_window": 22
-  },
-  {
    "key": "黄仁勋辞职",
    "title": "黄仁勋辞职",
    "rating": "A",
@@ -18013,6 +18000,71 @@
    "breaking": true,
    "event_id": "e:将接任黄仁勋的克雷斯是谁",
    "batch_window": 22
+  },
+  {
+   "key": "英伟达宣布ceo黄仁勋辞职cfo科莱特克雷斯出任临时ceo会对英伟达带来哪些影响",
+   "title": "英伟达宣布 CEO 黄仁勋辞职，CFO 科莱特·克雷斯出任临时 CEO，会对英伟达带来哪些影响？",
+   "rating": "A",
+   "score": 61.91,
+   "angle": "深度解读黄仁勋离职背后的真实原因，是退休、健康还是权力交接？对英伟达股价及AI芯片霸权地位的长期影响。",
+   "hook_reason": "芯片霸主掌门人突然辞职，AI算力核心人物更迭引发行业地震",
+   "url": "https://www.zhihu.com/question/2104331657389896505",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:英伟达宣布ceo黄仁勋辞职cfo科莱特克雷斯出任临时ceo会对英伟达带来哪些影响",
+   "batch_window": 23
+  },
+  {
+   "key": "jensenhuangresignsasnvidiaceoimmediately",
+   "title": "Jensen Huang resigns as Nvidia CEO immediately",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "深度解析黄仁勋‘立即辞职’背后的权力交接逻辑与资本市场剧烈震荡预判",
+   "hook_reason": "英伟达CEO黄仁勋因丑闻传闻突然辞职，颠覆行业认知",
+   "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:jensenhuangresignsasnvidiaceoimmediately",
+   "batch_window": 23
+  },
+  {
+   "key": "nvidiaannouncesceotransition",
+   "title": "NVIDIA Announces CEO Transition",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "深度解读CEO过渡对CUDA生态稳定性及AI算力垄断地位的影响",
+   "hook_reason": "英伟达换帅？芯片霸主变天，AI逻辑生变",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nvidiaannouncesceotransition",
+   "batch_window": 23
+  },
+  {
+   "key": "黄仁勋辞去英伟达ceo职务",
+   "title": "黄仁勋辞去英伟达CEO职务",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "深度解析黄仁勋去职对AI算力供应链、英伟达股价及全球半导体格局的连锁反应",
+   "hook_reason": "AI教父卸任，芯片业变天，巨头博弈背后利益链大揭秘。",
+   "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E5%8E%BB%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋辞去英伟达ceo职务",
+   "batch_window": 23
+  },
+  {
+   "key": "第一批90后已经开始脑梗了",
+   "title": "第一批90后已经开始脑梗了",
+   "rating": "A",
+   "score": 67.17,
+   "angle": "盘点90后亚健康诱因，给出3个可立即执行的健康自救清单",
+   "hook_reason": "戳中90后健康焦虑，代际标签引发强烈共鸣与恐慌",
+   "url": "https://s.weibo.com/weibo?q=第一批90后已经开始脑梗了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:第一批90后已经开始脑梗了",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -19423,7 +19475,8 @@
   "日本专家拆开零跑lafa5后坐不住了",
   "育儿嫂粗暴摔打一岁半宝宝",
   "科技新一谈马化腾内部训话",
-  "律师解读8岁女孩被老师打骨折"
+  "律师解读8岁女孩被老师打骨折",
+  "刘欢已安葬"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -20770,7 +20823,8 @@
   "e:日本专家拆开零跑lafa5后坐不住了": "日本专家拆开零跑Lafa5后坐不住了",
   "e:育儿嫂粗暴摔打一岁半宝宝": "育儿嫂粗暴摔打一岁半宝宝",
   "e:科技新一谈马化腾内部训话": "科技新一谈马化腾内部训话",
-  "e:律师解读8岁女孩被老师打骨折": "律师解读8岁女孩被老师打骨折"
+  "e:律师解读8岁女孩被老师打骨折": "律师解读8岁女孩被老师打骨折",
+  "e:刘欢已安葬": "刘欢已安葬"
  },
  "a_seen": {
   "转nvda黄仁勋线开盘前补充政治压力一夜升级了两级但股价盘前仍在反弹": {
@@ -21329,13 +21383,13 @@
    "key": "黄仁勋辞去英伟达ceo职务",
    "title": "黄仁勋辞去英伟达CEO职务",
    "rating": "A",
-   "score": 46.9,
-   "angle": "解析黄仁勋离职真实意图：是权力交接还是营销反转？对英伟达股价与AI供应链的连锁反应。",
-   "hook_reason": "芯片霸主突然离职，AI行业地震，股民与从业者恐慌与好奇交织。",
+   "score": 46.75,
+   "angle": "深度解析黄仁勋去职对AI算力供应链、英伟达股价及全球半导体格局的连锁反应",
+   "hook_reason": "AI教父卸任，芯片业变天，巨头博弈背后利益链大揭秘。",
    "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E5%8E%BB%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:黄仁勋辞职"
+   "event_id": "e:黄仁勋辞去英伟达ceo职务"
   },
   "将接任黄仁勋的克雷斯是谁": {
    "key": "将接任黄仁勋的克雷斯是谁",
@@ -21348,8 +21402,56 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:将接任黄仁勋的克雷斯是谁"
+  },
+  "英伟达宣布ceo黄仁勋辞职cfo科莱特克雷斯出任临时ceo会对英伟达带来哪些影响": {
+   "key": "英伟达宣布ceo黄仁勋辞职cfo科莱特克雷斯出任临时ceo会对英伟达带来哪些影响",
+   "title": "英伟达宣布 CEO 黄仁勋辞职，CFO 科莱特·克雷斯出任临时 CEO，会对英伟达带来哪些影响？",
+   "rating": "A",
+   "score": 61.91,
+   "angle": "深度解读黄仁勋离职背后的真实原因，是退休、健康还是权力交接？对英伟达股价及AI芯片霸权地位的长期影响。",
+   "hook_reason": "芯片霸主掌门人突然辞职，AI算力核心人物更迭引发行业地震",
+   "url": "https://www.zhihu.com/question/2104331657389896505",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:英伟达宣布ceo黄仁勋辞职cfo科莱特克雷斯出任临时ceo会对英伟达带来哪些影响"
+  },
+  "jensenhuangresignsasnvidiaceoimmediately": {
+   "key": "jensenhuangresignsasnvidiaceoimmediately",
+   "title": "Jensen Huang resigns as Nvidia CEO immediately",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "深度解析黄仁勋‘立即辞职’背后的权力交接逻辑与资本市场剧烈震荡预判",
+   "hook_reason": "英伟达CEO黄仁勋因丑闻传闻突然辞职，颠覆行业认知",
+   "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:jensenhuangresignsasnvidiaceoimmediately"
+  },
+  "nvidiaannouncesceotransition": {
+   "key": "nvidiaannouncesceotransition",
+   "title": "NVIDIA Announces CEO Transition",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "深度解读CEO过渡对CUDA生态稳定性及AI算力垄断地位的影响",
+   "hook_reason": "英伟达换帅？芯片霸主变天，AI逻辑生变",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nvidiaannouncesceotransition"
+  },
+  "第一批90后已经开始脑梗了": {
+   "key": "第一批90后已经开始脑梗了",
+   "title": "第一批90后已经开始脑梗了",
+   "rating": "A",
+   "score": 67.17,
+   "angle": "盘点90后亚健康诱因，给出3个可立即执行的健康自救清单",
+   "hook_reason": "戳中90后健康焦虑，代际标签引发强烈共鸣与恐慌",
+   "url": "https://s.weibo.com/weibo?q=第一批90后已经开始脑梗了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:第一批90后已经开始脑梗了"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
