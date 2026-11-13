@@ -18119,19 +18119,6 @@
    "batch_window": 11
   },
   {
-   "key": "上海00后女生靠ai卖穿戴甲月入10万",
-   "title": "上海00后女生靠AI卖穿戴甲月入10万",
-   "rating": "A",
-   "score": 85.0,
-   "angle": "拆解AI穿戴甲生成工具链与低成本起号SOP，验证副业可行性",
-   "hook_reason": "AI赋能副业月入10万，00后新赛道变现",
-   "url": "https://s.weibo.com/weibo?q=上海00后女生靠AI卖穿戴甲月入10万",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:上海00后女生靠ai卖穿戴甲月入10万",
-   "batch_window": 12
-  },
-  {
    "key": "接替黄仁勋的临时女ceo是谁",
    "title": "接替黄仁勋的临时女CEO是谁",
    "rating": "A",
@@ -18273,6 +18260,58 @@
    "breaking": true,
    "event_id": "e:elilillyceopushesbackondarioamodeisludic",
    "batch_window": 23
+  },
+  {
+   "key": "114minnvidiahardwarevanishesduria46d6e92",
+   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "深入分析Nvidia硬件在加州至德州运输中失踪背后的物流安全漏洞及供应链风险",
+   "hook_reason": "1140万美元英伟达硬件神秘失踪，供应链惊天漏洞曝光",
+   "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:114minnvidiahardwarevanishesduringshipme",
+   "batch_window": 5
+  },
+  {
+   "key": "fm1workbench",
+   "title": "FM-1 Workbench",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "深度解析FM-1 Workbench如何重塑独立音乐制作流程及商业变现潜力",
+   "hook_reason": "AI音乐创作工具登顶HN，音乐人必备神器",
+   "url": "https://open.m-vave.com/fm1-workbench",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:fm1workbench",
+   "batch_window": 5
+  },
+  {
+   "key": "黄仁勋留下了哪些难题",
+   "title": "黄仁勋留下了哪些难题",
+   "rating": "A",
+   "score": 44.7,
+   "angle": "复盘黄仁勋演讲，解读AI算力瓶颈与商业伦理挑战",
+   "hook_reason": "AI教父留下难题，直击行业焦虑与未来走向",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋留下了哪些难题",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋留下了哪些难题",
+   "batch_window": 5
+  },
+  {
+   "key": "英伟达股价累涨47万倍",
+   "title": "英伟达股价累涨47万倍",
+   "rating": "A",
+   "score": 44.5,
+   "angle": "拆解英伟达47万倍涨幅背后的AI算力逻辑与历史机遇",
+   "hook_reason": "47万倍涨幅打破认知，揭秘科技造富神话",
+   "url": "https://s.weibo.com/weibo?q=英伟达股价累涨47万倍",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达股价累涨47万倍",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -19733,7 +19772,8 @@
   "微软多项服务发生大规模故障outlook异常报告超13万起问题可能出在哪你现在还能正常登录吗",
   "apec时隔12年再次来到中国",
   "散户30分钟抄底英伟达11亿美元",
-  "黄仁勋离职后硅谷会掀起抢人潮吗"
+  "黄仁勋离职后硅谷会掀起抢人潮吗",
+  "上海00后女生靠ai卖穿戴甲月入10万"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21130,7 +21170,8 @@
   "e:微软多项服务发生大规模故障outlook异常报告超13万起问题可能出在哪你现在还": "微软多项服务发生大规模故障，Outlook异常报告超13万起，问题可能出在哪？你现在还能正常登录吗？",
   "e:apec时隔12年再次来到中国": "APEC时隔12年再次来到中国",
   "e:散户30分钟抄底英伟达11亿美元": "散户30分钟抄底英伟达1.1亿美元",
-  "e:黄仁勋离职后硅谷会掀起抢人潮吗": "黄仁勋离职后硅谷会掀起抢人潮吗"
+  "e:黄仁勋离职后硅谷会掀起抢人潮吗": "黄仁勋离职后硅谷会掀起抢人潮吗",
+  "e:上海00后女生靠ai卖穿戴甲月入10万": "上海00后女生靠AI卖穿戴甲月入10万"
  },
  "a_seen": {
   "apec时隔12年再次来到中国": {
@@ -21144,8 +21185,56 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:apec时隔12年再次来到中国"
+  },
+  "114minnvidiahardwarevanishesduria46d6e92": {
+   "key": "114minnvidiahardwarevanishesduria46d6e92",
+   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "深入分析Nvidia硬件在加州至德州运输中失踪背后的物流安全漏洞及供应链风险",
+   "hook_reason": "1140万美元英伟达硬件神秘失踪，供应链惊天漏洞曝光",
+   "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:114minnvidiahardwarevanishesduringshipme"
+  },
+  "fm1workbench": {
+   "key": "fm1workbench",
+   "title": "FM-1 Workbench",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "深度解析FM-1 Workbench如何重塑独立音乐制作流程及商业变现潜力",
+   "hook_reason": "AI音乐创作工具登顶HN，音乐人必备神器",
+   "url": "https://open.m-vave.com/fm1-workbench",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:fm1workbench"
+  },
+  "黄仁勋留下了哪些难题": {
+   "key": "黄仁勋留下了哪些难题",
+   "title": "黄仁勋留下了哪些难题",
+   "rating": "A",
+   "score": 44.7,
+   "angle": "复盘黄仁勋演讲，解读AI算力瓶颈与商业伦理挑战",
+   "hook_reason": "AI教父留下难题，直击行业焦虑与未来走向",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋留下了哪些难题",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋留下了哪些难题"
+  },
+  "英伟达股价累涨47万倍": {
+   "key": "英伟达股价累涨47万倍",
+   "title": "英伟达股价累涨47万倍",
+   "rating": "A",
+   "score": 44.5,
+   "angle": "拆解英伟达47万倍涨幅背后的AI算力逻辑与历史机遇",
+   "hook_reason": "47万倍涨幅打破认知，揭秘科技造富神话",
+   "url": "https://s.weibo.com/weibo?q=英伟达股价累涨47万倍",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达股价累涨47万倍"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
