@@ -18221,6 +18221,32 @@
    "breaking": true,
    "event_id": "e:英伟达员工正在通过公司内部渠道发起挽留黄仁勋的行动",
    "batch_window": 14
+  },
+  {
+   "key": "黄仁勋辞职前自嘲我就是个人渣",
+   "title": "黄仁勋辞职前自嘲我就是个人渣",
+   "rating": "A",
+   "score": 93.0,
+   "angle": "从‘人渣’自嘲切入，解读黄仁勋高压领导力下的真实状态与职场共鸣。",
+   "hook_reason": "英伟达掌门人罕见自黑，颠覆精英刻板印象，反差感拉满。",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋辞职前自嘲我就是个人渣",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋辞职前自嘲我就是个人渣",
+   "batch_window": 14
+  },
+  {
+   "key": "英伟达员工投票请求黄仁勋回归",
+   "title": "英伟达员工投票请求黄仁勋回归",
+   "rating": "A",
+   "score": 84.0,
+   "angle": "解读英伟达投票风波：是人才争夺战还是治理结构博弈？",
+   "hook_reason": "芯片霸主CEO离职？高管逼宫还是内部动荡？",
+   "url": "https://s.weibo.com/weibo?q=英伟达员工投票请求黄仁勋回归",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达员工投票请求黄仁勋回归",
+   "batch_window": 14
   }
  ],
  "pushed": [
@@ -21421,9 +21447,9 @@
    "key": "黄仁勋刚辞职美媒就给中国扣帽子",
    "title": "黄仁勋刚辞职美媒就给中国扣帽子",
    "rating": "A",
-   "score": 90.5,
-   "angle": "辟谣黄仁勋未辞职，剖析美媒借芯片话题制造恐慌的舆论惯性",
-   "hook_reason": "黄仁勋辞职谣言与美媒对华抹黑，情绪冲突极强",
+   "score": 80.4,
+   "angle": "剖析美媒叙事逻辑，解读黄仁勋辞职对芯片供应链及中国科技自主的深层影响。",
+   "hook_reason": "英伟达CEO最新动向与地缘政治冲突，科技圈高关注度。",
    "url": "https://s.weibo.com/weibo?q=黄仁勋刚辞职美媒就给中国扣帽子",
    "track": "科技",
    "breaking": true,
@@ -21452,6 +21478,30 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:英伟达员工正在通过公司内部渠道发起挽留黄仁勋的行动"
+  },
+  "黄仁勋辞职前自嘲我就是个人渣": {
+   "key": "黄仁勋辞职前自嘲我就是个人渣",
+   "title": "黄仁勋辞职前自嘲我就是个人渣",
+   "rating": "A",
+   "score": 93.0,
+   "angle": "从‘人渣’自嘲切入，解读黄仁勋高压领导力下的真实状态与职场共鸣。",
+   "hook_reason": "英伟达掌门人罕见自黑，颠覆精英刻板印象，反差感拉满。",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋辞职前自嘲我就是个人渣",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋辞职前自嘲我就是个人渣"
+  },
+  "英伟达员工投票请求黄仁勋回归": {
+   "key": "英伟达员工投票请求黄仁勋回归",
+   "title": "英伟达员工投票请求黄仁勋回归",
+   "rating": "A",
+   "score": 84.0,
+   "angle": "解读英伟达投票风波：是人才争夺战还是治理结构博弈？",
+   "hook_reason": "芯片霸主CEO离职？高管逼宫还是内部动荡？",
+   "url": "https://s.weibo.com/weibo?q=英伟达员工投票请求黄仁勋回归",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达员工投票请求黄仁勋回归"
   }
  },
  "breaking_count": 10,
