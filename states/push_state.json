@@ -18262,19 +18262,6 @@
    "batch_window": 23
   },
   {
-   "key": "114minnvidiahardwarevanishesduria46d6e92",
-   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-   "rating": "A",
-   "score": 86.0,
-   "angle": "深入分析Nvidia硬件在加州至德州运输中失踪背后的物流安全漏洞及供应链风险",
-   "hook_reason": "1140万美元英伟达硬件神秘失踪，供应链惊天漏洞曝光",
-   "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:114minnvidiahardwarevanishesduringshipme",
-   "batch_window": 5
-  },
-  {
    "key": "fm1workbench",
    "title": "FM-1 Workbench",
    "rating": "A",
@@ -18312,6 +18299,32 @@
    "breaking": true,
    "event_id": "e:英伟达股价累涨47万倍",
    "batch_window": 5
+  },
+  {
+   "key": "黄仁勋旧访谈称ceo也可能被解雇",
+   "title": "黄仁勋旧访谈称CEO也可能被解雇",
+   "rating": "A",
+   "score": 52.91,
+   "angle": "解析黄仁勋激进管理哲学，探讨AI时代CEO的'可替代性'与行业动荡",
+   "hook_reason": "AI教父黄仁勋直言CEO可被解雇，戳中职场不安与权力更迭的痛点",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋旧访谈称CEO也可能被解雇",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋旧访谈称ceo也可能被解雇",
+   "batch_window": 6
+  },
+  {
+   "key": "faaissuesnationalgroundstop",
+   "title": "FAA Issues National Ground Stop",
+   "rating": "A",
+   "score": 59.07,
+   "angle": "FAA紧急地面停止下的航空安全博弈与用户出行应对",
+   "hook_reason": "全美停飞震动，安全焦虑与出行受阻强关联",
+   "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:faaissuesnationalgroundstop",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -19773,7 +19786,8 @@
   "apec时隔12年再次来到中国",
   "散户30分钟抄底英伟达11亿美元",
   "黄仁勋离职后硅谷会掀起抢人潮吗",
-  "上海00后女生靠ai卖穿戴甲月入10万"
+  "上海00后女生靠ai卖穿戴甲月入10万",
+  "114minnvidiahardwarevanishesduria46d6e92"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21171,7 +21185,8 @@
   "e:apec时隔12年再次来到中国": "APEC时隔12年再次来到中国",
   "e:散户30分钟抄底英伟达11亿美元": "散户30分钟抄底英伟达1.1亿美元",
   "e:黄仁勋离职后硅谷会掀起抢人潮吗": "黄仁勋离职后硅谷会掀起抢人潮吗",
-  "e:上海00后女生靠ai卖穿戴甲月入10万": "上海00后女生靠AI卖穿戴甲月入10万"
+  "e:上海00后女生靠ai卖穿戴甲月入10万": "上海00后女生靠AI卖穿戴甲月入10万",
+  "e:114minnvidiahardwarevanishesduringshipme": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX"
  },
  "a_seen": {
   "apec时隔12年再次来到中国": {
@@ -21214,9 +21229,9 @@
    "key": "黄仁勋留下了哪些难题",
    "title": "黄仁勋留下了哪些难题",
    "rating": "A",
-   "score": 46.0,
-   "angle": "盘点黄仁勋留下的技术与管理难题，解读英伟达未来走向及AI行业影响",
-   "hook_reason": "黄仁勋隐退？揭秘AI巨头留下的未解难题与行业挑战",
+   "score": 55.49,
+   "angle": "分析黄仁勋离任后，英伟达在AI算力垄断与开放生态间失衡留下的三大战略隐患。",
+   "hook_reason": "AI顶流CEO离任后行业变局，深度复盘其遗留的算力与生态难题。",
    "url": "https://s.weibo.com/weibo?q=黄仁勋留下了哪些难题",
    "track": "科技",
    "breaking": true,
@@ -21226,15 +21241,39 @@
    "key": "英伟达股价累涨47万倍",
    "title": "英伟达股价累涨47万倍",
    "rating": "A",
-   "score": 44.5,
-   "angle": "拆解英伟达47万倍涨幅背后的AI算力逻辑与历史机遇",
-   "hook_reason": "47万倍涨幅打破认知，揭秘科技造富神话",
+   "score": 49.28,
+   "angle": "解析从濒临破产到科技之王的47万倍神话，揭示其算力垄断逻辑",
+   "hook_reason": "47万倍涨幅打破认知，极具冲击力",
    "url": "https://s.weibo.com/weibo?q=英伟达股价累涨47万倍",
    "track": "科技",
    "breaking": true,
    "event_id": "e:英伟达股价累涨47万倍"
+  },
+  "黄仁勋旧访谈称ceo也可能被解雇": {
+   "key": "黄仁勋旧访谈称ceo也可能被解雇",
+   "title": "黄仁勋旧访谈称CEO也可能被解雇",
+   "rating": "A",
+   "score": 52.91,
+   "angle": "解析黄仁勋激进管理哲学，探讨AI时代CEO的'可替代性'与行业动荡",
+   "hook_reason": "AI教父黄仁勋直言CEO可被解雇，戳中职场不安与权力更迭的痛点",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋旧访谈称CEO也可能被解雇",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋旧访谈称ceo也可能被解雇"
+  },
+  "faaissuesnationalgroundstop": {
+   "key": "faaissuesnationalgroundstop",
+   "title": "FAA Issues National Ground Stop",
+   "rating": "A",
+   "score": 59.07,
+   "angle": "FAA紧急地面停止下的航空安全博弈与用户出行应对",
+   "hook_reason": "全美停飞震动，安全焦虑与出行受阻强关联",
+   "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:faaissuesnationalgroundstop"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
