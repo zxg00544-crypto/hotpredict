@@ -18067,19 +18067,6 @@
    "batch_window": 8
   },
   {
-   "key": "散户30分钟抄底英伟达11亿美元",
-   "title": "散户30分钟抄底英伟达1.1亿美元",
-   "rating": "A",
-   "score": 85.0,
-   "angle": "解析散户集体抄底英伟达背后的情绪博弈与AI算力信仰",
-   "hook_reason": "散户狂买巨头，1.1亿美金抄底，情绪与冲突拉满",
-   "url": "https://s.weibo.com/weibo?q=散户30分钟抄底英伟达1.1亿美元",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:散户30分钟抄底英伟达11亿美元",
-   "batch_window": 10
-  },
-  {
    "key": "微软outlook服务宕机",
    "title": "微软Outlook服务宕机",
    "rating": "A",
@@ -19757,7 +19744,8 @@
   "whyzigovercforsystemsprogramming",
   "官方通报交大基因编辑事件",
   "微软多项服务发生大规模故障outlook异常报告超13万起问题可能出在哪你现在还能正常登录吗",
-  "apec时隔12年再次来到中国"
+  "apec时隔12年再次来到中国",
+  "散户30分钟抄底英伟达11亿美元"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21152,7 +21140,8 @@
   "e:whyzigovercforsystemsprogramming": "Why Zig over C for Systems Programming",
   "e:官方通报交大基因编辑事件": "官方通报交大基因编辑事件",
   "e:微软多项服务发生大规模故障outlook异常报告超13万起问题可能出在哪你现在还": "微软多项服务发生大规模故障，Outlook异常报告超13万起，问题可能出在哪？你现在还能正常登录吗？",
-  "e:apec时隔12年再次来到中国": "APEC时隔12年再次来到中国"
+  "e:apec时隔12年再次来到中国": "APEC时隔12年再次来到中国",
+  "e:散户30分钟抄底英伟达11亿美元": "散户30分钟抄底英伟达1.1亿美元"
  },
  "a_seen": {
   "apec时隔12年再次来到中国": {
@@ -21169,5 +21158,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
