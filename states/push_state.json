@@ -18288,17 +18288,43 @@
    "batch_window": 18
   },
   {
-   "key": "王忠林被查",
-   "title": "王忠林被查",
+   "key": "凭一件衣服怒赚100亿",
+   "title": "凭“一件衣服”怒赚100亿",
    "rating": "A",
-   "score": 91.5,
-   "angle": "深度解析王忠林落马背景，剖析反腐高压态势下的官员命运与制度反思",
-   "hook_reason": "省部级高官突发被查，反腐风暴持续震慑，公众关注度极高",
-   "url": "https://s.weibo.com/weibo?q=王忠林被查",
-   "track": "社会热点",
+   "score": 92.0,
+   "angle": "拆解其低成本高毛利的爆款路径，复盘传统品牌数字化转型的生死线",
+   "hook_reason": "一件衣服变现百亿，极致单品商业逻辑令人惊叹",
+   "url": "https://www.baidu.com/s?wd=%E5%87%AD%E2%80%9C%E4%B8%80%E4%BB%B6%E8%A1%A3%E6%9C%8D%E2%80%9D%E6%80%92%E8%B5%9A100%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
    "breaking": true,
-   "event_id": "e:王忠林被查",
-   "batch_window": 19
+   "event_id": "e:凭一件衣服怒赚100亿",
+   "batch_window": 20
+  },
+  {
+   "key": "飞秒手术全球1000万例中国750万例",
+   "title": "飞秒手术全球1000万例中国750万例",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解读‘近视手术大国’背后的产业链红利与消费分级",
+   "hook_reason": "中国占全球飞秒手术75%份额，数据反差震撼",
+   "url": "https://s.weibo.com/weibo?q=飞秒手术全球1000万例中国750万例",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:飞秒手术全球1000万例中国750万例",
+   "batch_window": 20
+  },
+  {
+   "key": "华为puraxview激活销量破百万",
+   "title": "华为PuraXView激活销量破百万",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解读华为破圈背后的技术溢价与供应链韧性",
+   "hook_reason": "华为百万激活量，国产高端机逆袭标杆",
+   "url": "https://s.weibo.com/weibo?q=华为PuraXView激活销量破百万",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为puraxview激活销量破百万",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -19740,7 +19766,8 @@
   "黄仁勋刚辞职美媒就给中国扣帽子",
   "和平饭店账单造假事件15人被抓",
   "国家卫健委我国严禁任何形式代孕",
-  "黄仁勋被移出英伟达高管名单"
+  "黄仁勋被移出英伟达高管名单",
+  "王忠林被查"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21118,7 +21145,8 @@
   "e:黄仁勋刚辞职美媒就给中国扣帽子": "黄仁勋刚辞职美媒就给中国扣帽子",
   "e:和平饭店账单造假事件15人被抓": "和平饭店账单造假事件15人被抓",
   "e:国家卫健委我国严禁任何形式代孕": "国家卫健委：我国严禁任何形式代孕",
-  "e:黄仁勋被移出英伟达高管名单": "黄仁勋被移出英伟达高管名单"
+  "e:黄仁勋被移出英伟达高管名单": "黄仁勋被移出英伟达高管名单",
+  "e:王忠林被查": "王忠林被查"
  },
  "a_seen": {
   "普通人用ai和会用ai的人": {
@@ -21732,8 +21760,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:王忠林被查"
+  },
+  "凭一件衣服怒赚100亿": {
+   "key": "凭一件衣服怒赚100亿",
+   "title": "凭“一件衣服”怒赚100亿",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "拆解其低成本高毛利的爆款路径，复盘传统品牌数字化转型的生死线",
+   "hook_reason": "一件衣服变现百亿，极致单品商业逻辑令人惊叹",
+   "url": "https://www.baidu.com/s?wd=%E5%87%AD%E2%80%9C%E4%B8%80%E4%BB%B6%E8%A1%A3%E6%9C%8D%E2%80%9D%E6%80%92%E8%B5%9A100%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:凭一件衣服怒赚100亿"
+  },
+  "飞秒手术全球1000万例中国750万例": {
+   "key": "飞秒手术全球1000万例中国750万例",
+   "title": "飞秒手术全球1000万例中国750万例",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解读‘近视手术大国’背后的产业链红利与消费分级",
+   "hook_reason": "中国占全球飞秒手术75%份额，数据反差震撼",
+   "url": "https://s.weibo.com/weibo?q=飞秒手术全球1000万例中国750万例",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:飞秒手术全球1000万例中国750万例"
+  },
+  "华为puraxview激活销量破百万": {
+   "key": "华为puraxview激活销量破百万",
+   "title": "华为PuraXView激活销量破百万",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解读华为破圈背后的技术溢价与供应链韧性",
+   "hook_reason": "华为百万激活量，国产高端机逆袭标杆",
+   "url": "https://s.weibo.com/weibo?q=华为PuraXView激活销量破百万",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为puraxview激活销量破百万"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
