@@ -18312,6 +18312,19 @@
    "breaking": true,
    "event_id": "e:马斯克旗下ai团队大幅裁撤grok视频生成团队",
    "batch_window": 22
+  },
+  {
+   "key": "elilillyceopushesbackondarioamod9cba7fd0",
+   "title": "Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims",
+   "rating": "A",
+   "score": 75.1,
+   "angle": "解析Eli Lilly CEO言论背后的AI医疗泡沫争议",
+   "hook_reason": "医药巨子正面回怼AI大佬，跨界打脸引发围观",
+   "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:elilillyceopushesbackondarioamodeisludic",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -21813,6 +21826,18 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:马斯克旗下ai团队大幅裁撤grok视频生成团队"
+  },
+  "elilillyceopushesbackondarioamod9cba7fd0": {
+   "key": "elilillyceopushesbackondarioamod9cba7fd0",
+   "title": "Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims",
+   "rating": "A",
+   "score": 75.1,
+   "angle": "解析Eli Lilly CEO言论背后的AI医疗泡沫争议",
+   "hook_reason": "医药巨子正面回怼AI大佬，跨界打脸引发围观",
+   "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:elilillyceopushesbackondarioamodeisludic"
   }
  },
  "breaking_count": 10,
