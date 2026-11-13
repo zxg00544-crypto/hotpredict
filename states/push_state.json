@@ -18299,19 +18299,6 @@
    "breaking": true,
    "event_id": "e:elilillyceopushesbackondarioamodeisludic",
    "batch_window": 23
-  },
-  {
-   "key": "apec时隔12年再次来到中国",
-   "title": "APEC时隔12年再次来到中国",
-   "rating": "A",
-   "score": 95.0,
-   "angle": "深度复盘：从08金融危机到当前逆全球化，APEC回归背后的中国底气与红利",
-   "hook_reason": "APEC回归中国，时隔12年，民族自豪感与财经利好预期拉满",
-   "url": "https://s.weibo.com/weibo?q=APEC时隔12年再次来到中国",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:apec时隔12年再次来到中国",
-   "batch_window": 1
   }
  ],
  "pushed": [
@@ -19769,7 +19756,8 @@
   "王晶回应麻将女王票房",
   "whyzigovercforsystemsprogramming",
   "官方通报交大基因编辑事件",
-  "微软多项服务发生大规模故障outlook异常报告超13万起问题可能出在哪你现在还能正常登录吗"
+  "微软多项服务发生大规模故障outlook异常报告超13万起问题可能出在哪你现在还能正常登录吗",
+  "apec时隔12年再次来到中国"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21163,7 +21151,8 @@
   "e:王晶回应麻将女王票房": "王晶回应麻将女王票房",
   "e:whyzigovercforsystemsprogramming": "Why Zig over C for Systems Programming",
   "e:官方通报交大基因编辑事件": "官方通报交大基因编辑事件",
-  "e:微软多项服务发生大规模故障outlook异常报告超13万起问题可能出在哪你现在还": "微软多项服务发生大规模故障，Outlook异常报告超13万起，问题可能出在哪？你现在还能正常登录吗？"
+  "e:微软多项服务发生大规模故障outlook异常报告超13万起问题可能出在哪你现在还": "微软多项服务发生大规模故障，Outlook异常报告超13万起，问题可能出在哪？你现在还能正常登录吗？",
+  "e:apec时隔12年再次来到中国": "APEC时隔12年再次来到中国"
  },
  "a_seen": {
   "apec时隔12年再次来到中国": {
@@ -21180,5 +21169,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
