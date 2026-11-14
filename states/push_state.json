@@ -18494,32 +18494,6 @@
    "breaking": true,
    "event_id": "e:超5万人请愿黄仁勋复职",
    "batch_window": 16
-  },
-  {
-   "key": "董明珠格力对文凭的考虑逐步取消",
-   "title": "董明珠：格力对文凭的考虑逐步取消",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "解读董明珠言论背后的用人逻辑及对职场学历焦虑的回应",
-   "hook_reason": "取消文凭要求？董明珠再出争议言论",
-   "url": "https://www.toutiao.com/trending/7707436167796736038/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:董明珠格力对文凭的考虑逐步取消",
-   "batch_window": 18
-  },
-  {
-   "key": "超9成胃癌患者早期有这两个症状",
-   "title": "超9成胃癌患者早期有这两个症状",
-   "rating": "A",
-   "score": 88.5,
-   "angle": "解析胃癌早期隐蔽症状，科普防癌指南，结合中年职场健康危机引发共鸣",
-   "hook_reason": "直击健康焦虑，超九成早期症状揭秘，生死攸关的高关注度",
-   "url": "https://s.weibo.com/weibo?q=超9成胃癌患者早期有这两个症状",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:超9成胃癌患者早期有这两个症状",
-   "batch_window": 18
   }
  ],
  "pushed": [
@@ -21808,11 +21782,11 @@
    "key": "超5万人请愿黄仁勋复职",
    "title": "超5万人请愿黄仁勋复职",
    "rating": "A",
-   "score": 66.81,
-   "angle": "拆解黄仁勋“复职”传言背后的职场权力博弈，警示AI行业人才流动性风险",
-   "hook_reason": "黄仁勋被指遭逼宫？5万人联署请愿，AI巨头权力斗争曝光",
+   "score": 44.75,
+   "angle": "辟谣：黄仁勋并未离职，系网络误传或戏谑，展现科技圈对AI巨头的极度依赖。",
+   "hook_reason": "NVIDIA CEO被指离职？5万人请愿复职，真相令人意外。",
    "url": "https://s.weibo.com/weibo?q=超5万人请愿黄仁勋复职",
-   "track": "科技",
+   "track": "大咖发言",
    "breaking": true,
    "event_id": "e:超5万人请愿黄仁勋复职"
   },
@@ -21820,25 +21794,25 @@
    "key": "董明珠格力对文凭的考虑逐步取消",
    "title": "董明珠：格力对文凭的考虑逐步取消",
    "rating": "A",
-   "score": 92.0,
-   "angle": "解读董明珠言论背后的用人逻辑及对职场学历焦虑的回应",
-   "hook_reason": "取消文凭要求？董明珠再出争议言论",
+   "score": 81.75,
+   "angle": "董明珠此举是人才观革新还是行业无奈？深度解析去学历化背后的职场逻辑",
+   "hook_reason": "格力取消文凭门槛，学历贬值信号，引发求职焦虑与职场公平讨论",
    "url": "https://www.toutiao.com/trending/7707436167796736038/",
    "track": "大咖发言",
    "breaking": true,
-   "event_id": "e:董明珠格力对文凭的考虑逐步取消"
+   "event_id": "e:董明珠格力技工学校禁止谈恋爱"
   },
-  "超9成胃癌患者早期有这两个症状": {
-   "key": "超9成胃癌患者早期有这两个症状",
-   "title": "超9成胃癌患者早期有这两个症状",
+  "美国为何发生航班大规模停飞事件": {
+   "key": "美国为何发生航班大规模停飞事件",
+   "title": "美国为何发生航班大规模停飞事件",
    "rating": "A",
-   "score": 88.5,
-   "angle": "解析胃癌早期隐蔽症状，科普防癌指南，结合中年职场健康危机引发共鸣",
-   "hook_reason": "直击健康焦虑，超九成早期症状揭秘，生死攸关的高关注度",
-   "url": "https://s.weibo.com/weibo?q=超9成胃癌患者早期有这两个症状",
+   "score": 81.9,
+   "angle": "深挖停飞背后：是系统漏洞还是地缘冲突？对全球航空链及跨境商旅的即时冲击。",
+   "hook_reason": "突发大规模停飞，引发对美交通安全及全球航空业连锁反应的强烈好奇。",
+   "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%8F%91%E7%94%9F%E8%88%AA%E7%8F%AD%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%81%9C%E9%A3%9E%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
-   "event_id": "e:超9成胃癌患者早期有这两个症状"
+   "event_id": "e:近15万架次航班受美停飞令影响"
   }
  },
  "breaking_count": 10,
