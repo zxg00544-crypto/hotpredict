@@ -16026,19 +16026,6 @@
    "batch_window": 9
   },
   {
-   "key": "所有人都认为张萌老公才是公司老板",
-   "title": "所有人都认为张萌老公才是公司老板",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "借张萌事件切入'女性创业者常被当太太'的社会现象，引发共情与讨论",
-   "hook_reason": "女性创业者被误认老公是老板，精准戳中性别偏见争议点",
-   "url": "https://s.weibo.com/weibo?q=所有人都认为张萌老公才是公司老板",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:所有人都认为张萌老公才是公司老板",
-   "batch_window": 9
-  },
-  {
    "key": "月薪8000同事天天点星巴克下午茶我却连奶茶都舍不得喝这种消费观差距正常吗该怎么调整心态",
    "title": "月薪8000，同事天天点星巴克下午茶，我却连奶茶都舍不得喝，这种消费观差距正常吗？该怎么调整心态？",
    "rating": "A",
@@ -18325,6 +18312,19 @@
    "breaking": true,
    "event_id": "e:阿里巴巴公告拟分拆平头哥赴港独立上市已于9月11日秘密递交上市申请怎样解读这一动",
    "batch_window": 9
+  },
+  {
+   "key": "黄仁勋辞职或影响史上最大ipo",
+   "title": "黄仁勋辞职或影响史上最大IPO",
+   "rating": "A",
+   "score": 76.68,
+   "angle": "辟谣+深度：NVIDIA财报在即，CEO更迭传闻对AI芯片垄断格局的冲击。",
+   "hook_reason": "黄仁勋辞职？史上最大IPO受创？突发反转震惊AI圈。",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋辞职或影响史上最大IPO",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋辞职或影响史上最大ipo",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -19790,7 +19790,8 @@
   "114minnvidiahardwarevanishesduria46d6e92",
   "英伟达员工投票请求黄仁勋回归",
   "美股崩跌原因",
-  "男子被雇主扇耳光昏迷14个月离世"
+  "男子被雇主扇耳光昏迷14个月离世",
+  "所有人都认为张萌老公才是公司老板"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21192,7 +21193,8 @@
   "e:114minnvidiahardwarevanishesduringshipme": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
   "e:英伟达员工投票请求黄仁勋回归": "英伟达员工投票请求黄仁勋回归",
   "e:美股崩跌原因": "美股崩跌原因",
-  "e:男子被雇主扇耳光昏迷14个月离世": "男子被雇主扇耳光昏迷14个月离世"
+  "e:男子被雇主扇耳光昏迷14个月离世": "男子被雇主扇耳光昏迷14个月离世",
+  "e:所有人都认为张萌老公才是公司老板": "所有人都认为张萌老公才是公司老板"
  },
  "a_seen": {
   "apec时隔12年再次来到中国": {
@@ -21326,8 +21328,20 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:阿里巴巴公告拟分拆平头哥赴港独立上市已于9月11日秘密递交上市申请怎样解读这一动"
+  },
+  "黄仁勋辞职或影响史上最大ipo": {
+   "key": "黄仁勋辞职或影响史上最大ipo",
+   "title": "黄仁勋辞职或影响史上最大IPO",
+   "rating": "A",
+   "score": 76.68,
+   "angle": "辟谣+深度：NVIDIA财报在即，CEO更迭传闻对AI芯片垄断格局的冲击。",
+   "hook_reason": "黄仁勋辞职？史上最大IPO受创？突发反转震惊AI圈。",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋辞职或影响史上最大IPO",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋辞职或影响史上最大ipo"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
