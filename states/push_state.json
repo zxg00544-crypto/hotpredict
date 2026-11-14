@@ -18520,6 +18520,19 @@
    "breaking": true,
    "event_id": "e:超8万人请愿黄仁勋复职",
    "batch_window": 22
+  },
+  {
+   "key": "马斯克spacex通信系统很有可能承载全球约一半的流量",
+   "title": "马斯克：SpaceX通信系统很有可能承载全球约一半的流量。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "解析马斯克言论对传统电信运营商及全球数据主权的潜在冲击",
+   "hook_reason": "马斯克力挺星链垄断全球半数流量，颠覆传统通信格局",
+   "url": "https://finance.sina.cn/7x24/2026-11-15/detail-iniytsqs6962743.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克spacex通信系统很有可能承载全球约一半的流量",
+   "batch_window": 0
   }
  ],
  "pushed": [
@@ -21439,7 +21452,20 @@
   "e:美国交通部长达菲美国联邦航空管理局的一套系统未能应对当时的局面我们的承包商未": "美国交通部长达菲：美国联邦航空管理局的一套系统未能应对当时的局面，我们的承包商未",
   "e:deepseek开放app功能": "DeepSeek开放App功能"
  },
- "a_seen": {},
+ "a_seen": {
+  "马斯克spacex通信系统很有可能承载全球约一半的流量": {
+   "key": "马斯克spacex通信系统很有可能承载全球约一半的流量",
+   "title": "马斯克：SpaceX通信系统很有可能承载全球约一半的流量。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "解析马斯克言论对传统电信运营商及全球数据主权的潜在冲击",
+   "hook_reason": "马斯克力挺星链垄断全球半数流量，颠覆传统通信格局",
+   "url": "https://finance.sina.cn/7x24/2026-11-15/detail-iniytsqs6962743.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克spacex通信系统很有可能承载全球约一半的流量"
+  }
+ },
  "breaking_count": 10,
  "a_pushed_window": 0
 }
