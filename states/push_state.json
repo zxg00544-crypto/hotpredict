@@ -18325,6 +18325,32 @@
    "breaking": true,
    "event_id": "e:黄仁勋辞职或影响史上最大ipo",
    "batch_window": 10
+  },
+  {
+   "key": "近15万架次航班受美停飞令影响",
+   "title": "近1.5万架次航班受美停飞令影响",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "拆解美停飞令对全球航空业、旅游及跨境供应链的即时冲击与后续连锁反应",
+   "hook_reason": "近1.5万航班停飞，涉及全球供应链与航空业巨额损失",
+   "url": "https://s.weibo.com/weibo?q=近1.5万架次航班受美停飞令影响",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:近15万架次航班受美停飞令影响",
+   "batch_window": 10
+  },
+  {
+   "key": "美国回应全国航班停飞",
+   "title": "美国回应全国航班停飞",
+   "rating": "A",
+   "score": 87.5,
+   "angle": "官方辟谣背后：为何‘停飞’谣言易传？解析其对民航业信心及财经市场的实际冲击与影响。",
+   "hook_reason": "全国航班停飞系谣言？官方回应揭秘，事关钱包与出行安全，切勿被带节奏。",
+   "url": "https://search.bilibili.com/all?keyword=美国回应全国航班停飞",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美国回应全国航班停飞",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -21340,6 +21366,30 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:黄仁勋辞职或影响史上最大ipo"
+  },
+  "近15万架次航班受美停飞令影响": {
+   "key": "近15万架次航班受美停飞令影响",
+   "title": "近1.5万架次航班受美停飞令影响",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "拆解美停飞令对全球航空业、旅游及跨境供应链的即时冲击与后续连锁反应",
+   "hook_reason": "近1.5万航班停飞，涉及全球供应链与航空业巨额损失",
+   "url": "https://s.weibo.com/weibo?q=近1.5万架次航班受美停飞令影响",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:近15万架次航班受美停飞令影响"
+  },
+  "美国回应全国航班停飞": {
+   "key": "美国回应全国航班停飞",
+   "title": "美国回应全国航班停飞",
+   "rating": "A",
+   "score": 87.5,
+   "angle": "官方辟谣背后：为何‘停飞’谣言易传？解析其对民航业信心及财经市场的实际冲击与影响。",
+   "hook_reason": "全国航班停飞系谣言？官方回应揭秘，事关钱包与出行安全，切勿被带节奏。",
+   "url": "https://search.bilibili.com/all?keyword=美国回应全国航班停飞",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美国回应全国航班停飞"
   }
  },
  "breaking_count": 10,
