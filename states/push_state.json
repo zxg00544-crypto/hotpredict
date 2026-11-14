@@ -18507,6 +18507,19 @@
    "breaking": true,
    "event_id": "e:l3哈里斯公司发言人公司严肃对待此次全国范围的地面停飞及其对旅客航空公司和空",
    "batch_window": 3
+  },
+  {
+   "key": "比特币跌破64000美元日内跌631",
+   "title": "比特币跌破64000美元，日内跌6.31%。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦6.4万关键支撑位破位逻辑，解析散户恐慌情绪与机构调仓博弈，预判下周趋势。",
+   "hook_reason": "比特币跌破6.4万，日内暴跌6.31%，触发投资恐慌与抄底分歧。",
+   "url": "https://finance.sina.cn/7x24/2026-11-15/detail-iniyucek9971781.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:比特币跌破64000美元日内跌631",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -21484,6 +21497,18 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:l3哈里斯公司发言人公司严肃对待此次全国范围的地面停飞及其对旅客航空公司和空"
+  },
+  "比特币跌破64000美元日内跌631": {
+   "key": "比特币跌破64000美元日内跌631",
+   "title": "比特币跌破64000美元，日内跌6.31%。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "聚焦6.4万关键支撑位破位逻辑，解析散户恐慌情绪与机构调仓博弈，预判下周趋势。",
+   "hook_reason": "比特币跌破6.4万，日内暴跌6.31%，触发投资恐慌与抄底分歧。",
+   "url": "https://finance.sina.cn/7x24/2026-11-15/detail-iniyucek9971781.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:比特币跌破64000美元日内跌631"
   }
  },
  "breaking_count": 10,
