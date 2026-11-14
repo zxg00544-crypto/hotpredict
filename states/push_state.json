@@ -17144,19 +17144,6 @@
    "batch_window": 3
   },
   {
-   "key": "deepxclaimsinferenceupto100bparaffb1b695",
-   "title": "DeepX claims inference up to 100B parameters at less than 5 W",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "解析DeepX二代芯片PIM架构，探讨低功耗大模型推理对边缘AI及数据中心能耗的颠覆意义",
-   "hook_reason": "功耗破5W跑100B参数，AI芯片能效比颠覆性突破",
-   "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:deepxclaimsinferenceupto100bparametersat",
-   "batch_window": 4
-  },
-  {
    "key": "claudefable52andmythos52",
    "title": "Claude Fable 5.2 and Mythos 5.2",
    "rating": "A",
@@ -18507,6 +18494,32 @@
    "breaking": true,
    "event_id": "e:英伟达架构有多逆天",
    "batch_window": 19
+  },
+  {
+   "key": "黄仁勋一走英伟达的中枢瘫了",
+   "title": "黄仁勋一走英伟达的中枢瘫了",
+   "rating": "A",
+   "score": 88.3,
+   "angle": "深度解析黄仁勋作为英伟达灵魂人物的不可替代性及其对AI供应链的深层影响",
+   "hook_reason": "CEO个人影响力和公司中枢瘫痪的冲突，科技圈顶流话题",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋一走英伟达的中枢瘫了",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋一走英伟达的中枢瘫了",
+   "batch_window": 20
+  },
+  {
+   "key": "多地网约车司机称被特惠车一口价订单逼疯不开特惠单就变少怎样才能让乘客打车实惠司机有单可接",
+   "title": "多地网约车司机称被特惠车、一口价订单逼「疯」，不开特惠单就变少，怎样才能让乘客打车实惠、司机有单可接？",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "揭示算法陷阱：司机被‘二选一’锁定，平台利用信息差收割，呼吁监管介入。",
+   "hook_reason": "特惠价致司机收入崩塌，平台垄断引发全网愤怒，共鸣极强。",
+   "url": "https://www.zhihu.com/question/2104661988609614131",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:多地网约车司机称被特惠车一口价订单逼疯不开特惠单就变少怎样才能让乘客打车实惠司机",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -19982,7 +19995,8 @@
   "怎么看deepseek发布全家桶api这个价格你接受吗",
   "瑞幸越来越不像一家咖啡公司了",
   "10吨级电动商用飞机有人驾驶首飞成功",
-  "持械入宋"
+  "持械入宋",
+  "deepxclaimsinferenceupto100bparaffb1b695"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21394,7 +21408,8 @@
   "e:怎么看deepseek发布全家桶api这个价格你接受吗": "怎么看 DeepSeek 发布全家桶 API，这个价格你接受吗？",
   "e:瑞幸越来越不像一家咖啡公司了": "瑞幸越来越不像一家咖啡公司了",
   "e:10吨级电动商用飞机有人驾驶首飞成功": "10吨级电动商用飞机有人驾驶首飞成功",
-  "e:持械入宋": "持械入宋"
+  "e:持械入宋": "持械入宋",
+  "e:deepxclaimsinferenceupto100bparametersat": "DeepX claims inference up to 100B parameters at less than 5 W"
  },
  "a_seen": {
   "apec时隔12年再次来到中国": {
@@ -21852,8 +21867,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:英伟达架构有多逆天"
+  },
+  "黄仁勋一走英伟达的中枢瘫了": {
+   "key": "黄仁勋一走英伟达的中枢瘫了",
+   "title": "黄仁勋一走英伟达的中枢瘫了",
+   "rating": "A",
+   "score": 88.3,
+   "angle": "深度解析黄仁勋作为英伟达灵魂人物的不可替代性及其对AI供应链的深层影响",
+   "hook_reason": "CEO个人影响力和公司中枢瘫痪的冲突，科技圈顶流话题",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋一走英伟达的中枢瘫了",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋一走英伟达的中枢瘫了"
+  },
+  "多地网约车司机称被特惠车一口价订单逼疯不开特惠单就变少怎样才能让乘客打车实惠司机有单可接": {
+   "key": "多地网约车司机称被特惠车一口价订单逼疯不开特惠单就变少怎样才能让乘客打车实惠司机有单可接",
+   "title": "多地网约车司机称被特惠车、一口价订单逼「疯」，不开特惠单就变少，怎样才能让乘客打车实惠、司机有单可接？",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "揭示算法陷阱：司机被‘二选一’锁定，平台利用信息差收割，呼吁监管介入。",
+   "hook_reason": "特惠价致司机收入崩塌，平台垄断引发全网愤怒，共鸣极强。",
+   "url": "https://www.zhihu.com/question/2104661988609614131",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:多地网约车司机称被特惠车一口价订单逼疯不开特惠单就变少怎样才能让乘客打车实惠司机"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
