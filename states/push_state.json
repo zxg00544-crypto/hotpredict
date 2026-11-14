@@ -18509,19 +18509,6 @@
    "batch_window": 20
   },
   {
-   "key": "吴清a股市情在全球独一无二",
-   "title": "吴清：A股市情在全球独一无二",
-   "rating": "A",
-   "score": 96.0,
-   "angle": "深度解析吴清表态背后的政策意图，预判国家队入场与改革新方向",
-   "hook_reason": "证监会主席罕见高调定调A股独特性，释放重磅信号",
-   "url": "https://www.toutiao.com/trending/7707983642445759014/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:吴清a股市情在全球独一无二",
-   "batch_window": 21
-  },
-  {
    "key": "deepseek开放app功能",
    "title": "DeepSeek开放App功能",
    "rating": "A",
@@ -18546,6 +18533,19 @@
    "breaking": true,
    "event_id": "e:周小川ai深刻改变资本市场人机分工格局锚定三大目标引导其服务实体经济",
    "batch_window": 21
+  },
+  {
+   "key": "超8万人请愿黄仁勋复职",
+   "title": "超8万人请愿黄仁勋复职",
+   "rating": "A",
+   "score": 78.85,
+   "angle": "解构“复职”舆论误读与黄仁勋权威现状",
+   "hook_reason": "8万人请愿复职，反常识剧情引发好奇",
+   "url": "https://s.weibo.com/weibo?q=超8万人请愿黄仁勋复职",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:超8万人请愿黄仁勋复职",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -20023,7 +20023,8 @@
   "10吨级电动商用飞机有人驾驶首飞成功",
   "持械入宋",
   "deepxclaimsinferenceupto100bparaffb1b695",
-  "黄仁勋一走英伟达的中枢瘫了"
+  "黄仁勋一走英伟达的中枢瘫了",
+  "吴清a股市情在全球独一无二"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21437,7 +21438,8 @@
   "e:10吨级电动商用飞机有人驾驶首飞成功": "10吨级电动商用飞机有人驾驶首飞成功",
   "e:持械入宋": "持械入宋",
   "e:deepxclaimsinferenceupto100bparametersat": "DeepX claims inference up to 100B parameters at less than 5 W",
-  "e:黄仁勋一走英伟达的中枢瘫了": "黄仁勋一走英伟达的中枢瘫了"
+  "e:黄仁勋一走英伟达的中枢瘫了": "黄仁勋一走英伟达的中枢瘫了",
+  "e:吴清a股市情在全球独一无二": "吴清：A股市情在全球独一无二"
  },
  "a_seen": {
   "apec时隔12年再次来到中国": {
@@ -21955,8 +21957,20 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:周小川ai深刻改变资本市场人机分工格局锚定三大目标引导其服务实体经济"
+  },
+  "超8万人请愿黄仁勋复职": {
+   "key": "超8万人请愿黄仁勋复职",
+   "title": "超8万人请愿黄仁勋复职",
+   "rating": "A",
+   "score": 78.85,
+   "angle": "解构“复职”舆论误读与黄仁勋权威现状",
+   "hook_reason": "8万人请愿复职，反常识剧情引发好奇",
+   "url": "https://s.weibo.com/weibo?q=超8万人请愿黄仁勋复职",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:超8万人请愿黄仁勋复职"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
