@@ -17716,19 +17716,6 @@
    "batch_window": 17
   },
   {
-   "key": "结婚随礼14000元民警不同意",
-   "title": "结婚“随礼”14000元 民警：不同意",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "探讨天价随礼背后的面子经济，分析及民警介入是否越界",
-   "hook_reason": "巨额随礼引发公序良俗与法律边界争议，极具讨论度",
-   "url": "https://www.baidu.com/s?wd=%E7%BB%93%E5%A9%9A%E2%80%9C%E9%9A%8F%E7%A4%BC%E2%80%9D14000%E5%85%83+%E6%B0%91%E8%AD%A6%EF%BC%9A%E4%B8%8D%E5%90%8C%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:结婚随礼14000元民警不同意",
-   "batch_window": 18
-  },
-  {
    "key": "腾讯字节",
    "title": "腾讯 字节",
    "rating": "A",
@@ -18520,6 +18507,32 @@
    "breaking": true,
    "event_id": "e:央视曝光假牛肉案",
    "batch_window": 2
+  },
+  {
+   "key": "lovableappsexposepassportdetails89192032",
+   "title": "Lovable apps expose passport details and more than 200K private messages",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "拆解Lovable隐私漏洞细节，警示开发者与用户数据安全边界",
+   "hook_reason": "热门AI平台隐私泄露20万条私信，引发安全恐慌",
+   "url": "https://www.crissyfield.de/research/lovable-en/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:lovableappsexposepassportdetailsandmoret",
+   "batch_window": 3
+  },
+  {
+   "key": "l3哈里斯公司发言人公司严肃对待此次全国范围的地面停飞及其对旅客航空公司和空",
+   "title": "L3哈里斯公司发言人：公司严肃对待此次全国范围的地面停飞及其对旅客、航空公司和空",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "深挖停飞对航空业供应链冲击及L3哈里斯财报潜在风险，解析资本避险逻辑",
+   "hook_reason": "突发停飞引发市场恐慌，L3哈里斯回应定调，直击投资脉搏",
+   "url": "https://finance.sina.cn/7x24/2026-11-15/detail-iniytwwt3660934.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:l3哈里斯公司发言人公司严肃对待此次全国范围的地面停飞及其对旅客航空公司和空",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -20012,7 +20025,8 @@
   "美国交通部长达菲美国联邦航空管理局的一套系统未能应对当时的局面我们的承包商未",
   "deepseek开放app功能",
   "满月宝宝眼内异物10天竟是月嫂美睫",
-  "小学生忘带课本遭老师用四十厘米戒尺持续殴打至抽搐倒地官方已介入具体情况如何老师可能承担什么责任"
+  "小学生忘带课本遭老师用四十厘米戒尺持续殴打至抽搐倒地官方已介入具体情况如何老师可能承担什么责任",
+  "结婚随礼14000元民警不同意"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21441,7 +21455,8 @@
   "e:美国交通部长达菲美国联邦航空管理局的一套系统未能应对当时的局面我们的承包商未": "美国交通部长达菲：美国联邦航空管理局的一套系统未能应对当时的局面，我们的承包商未",
   "e:deepseek开放app功能": "DeepSeek开放App功能",
   "e:满月宝宝眼内异物10天竟是月嫂美睫": "满月宝宝眼内异物10天竟是月嫂美睫",
-  "e:小学生忘带课本遭老师用四十厘米戒尺持续殴打至抽搐倒地官方已介入具体情况如何老师可": "小学生忘带课本遭老师用四十厘米戒尺持续殴打至抽搐倒地，官方已介入，具体情况如何？老师可能承担什么责任？"
+  "e:小学生忘带课本遭老师用四十厘米戒尺持续殴打至抽搐倒地官方已介入具体情况如何老师可": "小学生忘带课本遭老师用四十厘米戒尺持续殴打至抽搐倒地，官方已介入，具体情况如何？老师可能承担什么责任？",
+  "e:结婚随礼14000元民警不同意": "结婚“随礼”14000元 民警：不同意"
  },
  "a_seen": {
   "马斯克spacex通信系统很有可能承载全球约一半的流量": {
@@ -21467,8 +21482,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:央视曝光假牛肉案"
+  },
+  "lovableappsexposepassportdetails89192032": {
+   "key": "lovableappsexposepassportdetails89192032",
+   "title": "Lovable apps expose passport details and more than 200K private messages",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "拆解Lovable隐私漏洞细节，警示开发者与用户数据安全边界",
+   "hook_reason": "热门AI平台隐私泄露20万条私信，引发安全恐慌",
+   "url": "https://www.crissyfield.de/research/lovable-en/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:lovableappsexposepassportdetailsandmoret"
+  },
+  "l3哈里斯公司发言人公司严肃对待此次全国范围的地面停飞及其对旅客航空公司和空": {
+   "key": "l3哈里斯公司发言人公司严肃对待此次全国范围的地面停飞及其对旅客航空公司和空",
+   "title": "L3哈里斯公司发言人：公司严肃对待此次全国范围的地面停飞及其对旅客、航空公司和空",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "深挖停飞对航空业供应链冲击及L3哈里斯财报潜在风险，解析资本避险逻辑",
+   "hook_reason": "突发停飞引发市场恐慌，L3哈里斯回应定调，直击投资脉搏",
+   "url": "https://finance.sina.cn/7x24/2026-11-15/detail-iniytwwt3660934.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:l3哈里斯公司发言人公司严肃对待此次全国范围的地面停飞及其对旅客航空公司和空"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
