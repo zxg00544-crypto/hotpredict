@@ -16013,19 +16013,6 @@
    "batch_window": 8
   },
   {
-   "key": "美股崩跌原因",
-   "title": "美股崩跌原因",
-   "rating": "A",
-   "score": 82.5,
-   "angle": "从崩盘原因切入，解读对国内市场和个人的影响，给出应对建议",
-   "hook_reason": "美股突发崩盘，投资者恐慌，急需看懂原因",
-   "url": "https://s.weibo.com/weibo?q=美股崩跌原因",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:美股崩跌原因",
-   "batch_window": 9
-  },
-  {
    "key": "陆翊长文回应和文吉儿王子璇关系",
    "title": "陆翊长文回应和文吉儿王子璇关系",
    "rating": "A",
@@ -18312,6 +18299,32 @@
    "breaking": true,
    "event_id": "e:faaissuesnationalgroundstop",
    "batch_window": 6
+  },
+  {
+   "key": "数字人专访李彦宏",
+   "title": "数字人专访李彦宏",
+   "rating": "A",
+   "score": 44.5,
+   "angle": "分析李彦宏用数字人做专访背后的技术自信与流量逻辑，探讨大厂AI营销新玩法",
+   "hook_reason": "百度CEO亲自站台AI数字人，大厂技术落地关键信号",
+   "url": "https://s.weibo.com/weibo?q=数字人专访李彦宏",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:数字人专访李彦宏",
+   "batch_window": 8
+  },
+  {
+   "key": "于东来不回避胖东来洗发水争议",
+   "title": "于东来不回避胖东来洗发水争议",
+   "rating": "A",
+   "score": 43.65,
+   "angle": "剖析于东来‘不回避’背后的管理哲学与危机公关逻辑",
+   "hook_reason": "胖东来老板亲自下场回应争议，反差感强",
+   "url": "https://s.weibo.com/weibo?q=于东来不回避胖东来洗发水争议",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:于东来不回避胖东来洗发水争议",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -19775,7 +19788,8 @@
   "黄仁勋离职后硅谷会掀起抢人潮吗",
   "上海00后女生靠ai卖穿戴甲月入10万",
   "114minnvidiahardwarevanishesduria46d6e92",
-  "英伟达员工投票请求黄仁勋回归"
+  "英伟达员工投票请求黄仁勋回归",
+  "美股崩跌原因"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21175,7 +21189,8 @@
   "e:黄仁勋离职后硅谷会掀起抢人潮吗": "黄仁勋离职后硅谷会掀起抢人潮吗",
   "e:上海00后女生靠ai卖穿戴甲月入10万": "上海00后女生靠AI卖穿戴甲月入10万",
   "e:114minnvidiahardwarevanishesduringshipme": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-  "e:英伟达员工投票请求黄仁勋回归": "英伟达员工投票请求黄仁勋回归"
+  "e:英伟达员工投票请求黄仁勋回归": "英伟达员工投票请求黄仁勋回归",
+  "e:美股崩跌原因": "美股崩跌原因"
  },
  "a_seen": {
   "apec时隔12年再次来到中国": {
@@ -21261,8 +21276,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:faaissuesnationalgroundstop"
+  },
+  "数字人专访李彦宏": {
+   "key": "数字人专访李彦宏",
+   "title": "数字人专访李彦宏",
+   "rating": "A",
+   "score": 44.5,
+   "angle": "分析李彦宏用数字人做专访背后的技术自信与流量逻辑，探讨大厂AI营销新玩法",
+   "hook_reason": "百度CEO亲自站台AI数字人，大厂技术落地关键信号",
+   "url": "https://s.weibo.com/weibo?q=数字人专访李彦宏",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:数字人专访李彦宏"
+  },
+  "于东来不回避胖东来洗发水争议": {
+   "key": "于东来不回避胖东来洗发水争议",
+   "title": "于东来不回避胖东来洗发水争议",
+   "rating": "A",
+   "score": 43.65,
+   "angle": "剖析于东来‘不回避’背后的管理哲学与危机公关逻辑",
+   "hook_reason": "胖东来老板亲自下场回应争议，反差感强",
+   "url": "https://s.weibo.com/weibo?q=于东来不回避胖东来洗发水争议",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:于东来不回避胖东来洗发水争议"
+  },
+  "省委常委会通报王忠林被查": {
+   "key": "省委常委会通报王忠林被查",
+   "title": "省委常委会通报王忠林被查",
+   "rating": "A",
+   "score": 43.05,
+   "angle": "结合其仕途关键节点，剖析政商圈层影响及后续地方政局变化。",
+   "hook_reason": "省级高官深夜落马，权力更迭背后的政治生态揭秘。",
+   "url": "https://s.weibo.com/weibo?q=省委常委会通报王忠林被查",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:王忠林被查"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
