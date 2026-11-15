@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-11-15",
  "a_pending": [
   {
@@ -17872,19 +17872,6 @@
    "batch_window": 8
   },
   {
-   "key": "微软outlook服务宕机",
-   "title": "微软Outlook服务宕机",
-   "rating": "A",
-   "score": 82.0,
-   "angle": "解析Outlook宕机对跨国协作的影响，探讨科技巨头服务连续性与用户数字资产安全。",
-   "hook_reason": "微软核心工具宕机，影响全球打工人，职场焦虑与科技依赖感。",
-   "url": "https://s.weibo.com/weibo?q=微软Outlook服务宕机",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:微软outlook服务宕机",
-   "batch_window": 10
-  },
-  {
    "key": "刘欢录跨年晚会时癌细胞疑已扩散",
    "title": "刘欢录跨年晚会时癌细胞疑已扩散",
    "rating": "A",
@@ -18572,6 +18559,32 @@
    "breaking": true,
    "event_id": "e:砒霜口服药让白血病患存活率超97",
    "batch_window": 20
+  },
+  {
+   "key": "央视曝光乳山9万一套房卖老人41万",
+   "title": "央视曝光：乳山9万一套房卖老人41万",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "剖析‘天价房’背后套路，警惕老年人被精准收割，守护家庭财富安全",
+   "hook_reason": "央视曝光天价房坑老，愤怒情绪浓烈，正义感驱动高点击",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A%E4%B9%B3%E5%B1%B19%E4%B8%87%E4%B8%80%E5%A5%97%E6%88%BF%E5%8D%96%E8%80%81%E4%BA%BA41%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:央视曝光乳山9万一套房卖老人41万",
+   "batch_window": 21
+  },
+  {
+   "key": "为什么越来越多不吸烟年轻人得肺癌",
+   "title": "为什么越来越多不吸烟年轻人得肺癌",
+   "rating": "A",
+   "score": 48.57,
+   "angle": "揭秘隐形致癌元凶（装修/烹饪油烟/二手烟），呼吁年轻人定期体检",
+   "hook_reason": "不吸烟却患癌打破认知，涉及健康焦虑与归因冲突",
+   "url": "https://s.weibo.com/weibo?q=为什么越来越多不吸烟年轻人得肺癌",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:为什么越来越多不吸烟年轻人得肺癌",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -20082,7 +20095,8 @@
   "业内不建议买500元以下羽绒服",
   "致命砒霜为什么能治白血病",
   "第一个攻克癌症的中国公司已经亏损了",
-  "中专生拍出爆火ai短片"
+  "中专生拍出爆火ai短片",
+  "微软outlook服务宕机"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21529,7 +21543,8 @@
   "e:业内不建议买500元以下羽绒服": "业内不建议买500元以下羽绒服",
   "e:致命砒霜为什么能治白血病": "致命砒霜为什么能治白血病",
   "e:第一个攻克癌症的中国公司已经亏损了": "第一个攻克癌症的中国公司已经亏损了",
-  "e:中专生拍出爆火ai短片": "中专生拍出爆火AI短片"
+  "e:中专生拍出爆火ai短片": "中专生拍出爆火AI短片",
+  "e:微软outlook服务宕机": "微软Outlook服务宕机"
  },
  "a_seen": {
   "马斯克spacex通信系统很有可能承载全球约一半的流量": {
@@ -21819,8 +21834,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:砒霜口服药让白血病患存活率超97"
+  },
+  "央视曝光乳山9万一套房卖老人41万": {
+   "key": "央视曝光乳山9万一套房卖老人41万",
+   "title": "央视曝光：乳山9万一套房卖老人41万",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "剖析‘天价房’背后套路，警惕老年人被精准收割，守护家庭财富安全",
+   "hook_reason": "央视曝光天价房坑老，愤怒情绪浓烈，正义感驱动高点击",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A%E4%B9%B3%E5%B1%B19%E4%B8%87%E4%B8%80%E5%A5%97%E6%88%BF%E5%8D%96%E8%80%81%E4%BA%BA41%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:央视曝光乳山9万一套房卖老人41万"
+  },
+  "为什么越来越多不吸烟年轻人得肺癌": {
+   "key": "为什么越来越多不吸烟年轻人得肺癌",
+   "title": "为什么越来越多不吸烟年轻人得肺癌",
+   "rating": "A",
+   "score": 48.57,
+   "angle": "揭秘隐形致癌元凶（装修/烹饪油烟/二手烟），呼吁年轻人定期体检",
+   "hook_reason": "不吸烟却患癌打破认知，涉及健康焦虑与归因冲突",
+   "url": "https://s.weibo.com/weibo?q=为什么越来越多不吸烟年轻人得肺癌",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:为什么越来越多不吸烟年轻人得肺癌"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
