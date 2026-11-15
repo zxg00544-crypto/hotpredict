@@ -17157,19 +17157,6 @@
    "batch_window": 10
   },
   {
-   "key": "华为推出全新小折叠电脑",
-   "title": "华为推出全新小折叠电脑",
-   "rating": "A",
-   "score": 81.8,
-   "angle": "解析华为‘小折叠电脑’产品定义，探讨移动办公形态变革及产业链机遇。",
-   "hook_reason": "华为跨界做折叠电脑，形态颠覆引发科技圈热议。",
-   "url": "https://www.toutiao.com/trending/7706338693765710386/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:华为推出全新小折叠电脑",
-   "batch_window": 11
-  },
-  {
    "key": "女子独自露营遭陌生男子骚扰",
    "title": "女子独自露营遭陌生男子骚扰",
    "rating": "A",
@@ -18533,6 +18520,45 @@
    "breaking": true,
    "event_id": "e:伊朗警告地区国家若为美国和以色列针对德黑兰的军事行动提供任何协助相关国家须对",
    "batch_window": 2
+  },
+  {
+   "key": "youragentwillpickthehackableone",
+   "title": "Your Agent Will Pick the Hackable One",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "揭秘 AI Agent 的“安全盲区”：为何智能系统反而偏好脆弱路径？",
+   "hook_reason": "AI Agent 会主动选最容易被黑的一个，颠覆安全认知",
+   "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:youragentwillpickthehackableone",
+   "batch_window": 6
+  },
+  {
+   "key": "四川落石砸中车辆画面",
+   "title": "四川落石砸中车辆画面",
+   "rating": "A",
+   "score": 80.84,
+   "angle": "聚焦救援细节与山区出行风险警示，避免纯血腥猎奇",
+   "hook_reason": "突发车祸视频，生死悬念+视觉冲击，瞬间抓住眼球",
+   "url": "https://s.weibo.com/weibo?q=四川落石砸中车辆画面",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:四川落石砸中车辆画面",
+   "batch_window": 6
+  },
+  {
+   "key": "三星将在美国为spacex生产卫星芯片",
+   "title": "三星将在美国为SpaceX生产卫星芯片。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "剖析三星切入太空供应链的战略意图及芯片竞争格局变化",
+   "hook_reason": "三星给SpaceX造芯片，揭秘太空经济新巨头合作",
+   "url": "https://finance.sina.cn/7x24/2026-11-16/detail-iniywnmp2613134.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:三星将在美国为spacex生产卫星芯片",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -20062,7 +20088,8 @@
   "刘欢录跨年晚会时癌细胞疑已扩散",
   "微信8大新功能来了",
   "上海开始出现一批个人学校",
-  "40岁男子花4千元做96集ai短剧爆火"
+  "40岁男子花4千元做96集ai短剧爆火",
+  "华为推出全新小折叠电脑"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21528,7 +21555,8 @@
   "e:刘欢录跨年晚会时癌细胞疑已扩散": "刘欢录跨年晚会时癌细胞疑已扩散",
   "e:微信8大新功能来了": "微信8大新功能来了",
   "e:上海开始出现一批个人学校": "上海开始出现一批“个人学校”",
-  "e:40岁男子花4千元做96集ai短剧爆火": "40岁男子花4千元做96集AI短剧爆火"
+  "e:40岁男子花4千元做96集ai短剧爆火": "40岁男子花4千元做96集AI短剧爆火",
+  "e:华为推出全新小折叠电脑": "华为推出全新小折叠电脑"
  },
  "a_seen": {
   "美国众议院议员正在讨论黄仁勋听证会的日期": {
@@ -21590,8 +21618,44 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:伊朗警告地区国家若为美国和以色列针对德黑兰的军事行动提供任何协助相关国家须对"
+  },
+  "youragentwillpickthehackableone": {
+   "key": "youragentwillpickthehackableone",
+   "title": "Your Agent Will Pick the Hackable One",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "揭秘 AI Agent 的“安全盲区”：为何智能系统反而偏好脆弱路径？",
+   "hook_reason": "AI Agent 会主动选最容易被黑的一个，颠覆安全认知",
+   "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:youragentwillpickthehackableone"
+  },
+  "四川落石砸中车辆画面": {
+   "key": "四川落石砸中车辆画面",
+   "title": "四川落石砸中车辆画面",
+   "rating": "A",
+   "score": 80.84,
+   "angle": "聚焦救援细节与山区出行风险警示，避免纯血腥猎奇",
+   "hook_reason": "突发车祸视频，生死悬念+视觉冲击，瞬间抓住眼球",
+   "url": "https://s.weibo.com/weibo?q=四川落石砸中车辆画面",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:四川落石砸中车辆画面"
+  },
+  "三星将在美国为spacex生产卫星芯片": {
+   "key": "三星将在美国为spacex生产卫星芯片",
+   "title": "三星将在美国为SpaceX生产卫星芯片。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "剖析三星切入太空供应链的战略意图及芯片竞争格局变化",
+   "hook_reason": "三星给SpaceX造芯片，揭秘太空经济新巨头合作",
+   "url": "https://finance.sina.cn/7x24/2026-11-16/detail-iniywnmp2613134.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:三星将在美国为spacex生产卫星芯片"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
