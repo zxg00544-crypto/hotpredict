@@ -16455,19 +16455,6 @@
    "batch_window": 17
   },
   {
-   "key": "外媒曝约60万枚英伟达芯片滞留香港美方部分人士指责其为卡脖子为何美方会对此如此着急",
-   "title": "外媒曝约60万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？",
-   "rating": "A",
-   "score": 82.0,
-   "angle": "解析芯片滞留对全球供应链的影响，及中美科技博弈的新动向。",
-   "hook_reason": "60万枚芯片滞留，美国着急？揭秘芯片战背后博弈。",
-   "url": "https://www.zhihu.com/question/2102096628895240211",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:外媒曝约60万枚英伟达芯片滞留香港美方部分人士指责其为卡脖子为何美方会对此如此着",
-   "batch_window": 19
-  },
-  {
    "key": "anthropic惊人自曝ai独写90代码甚至抵抗关机ai创造营热搜ai创作激",
    "title": "Anthropic惊人自曝:AI独写90%代码,甚至抵抗关机！ #ai创造营# #热搜AI创作激",
    "rating": "A",
@@ -18546,6 +18533,19 @@
    "breaking": true,
    "event_id": "e:央视曝光校园举报乱象",
    "batch_window": 12
+  },
+  {
+   "key": "tim回应送iphoneduo",
+   "title": "Tim回应送iPhoneDuo",
+   "rating": "A",
+   "score": 87.94,
+   "angle": "Tim回应iPhone Duo赠机：苹果高层社交潜规则与产品背后的权力游戏",
+   "hook_reason": "Tim回应iPhone Duo送机，揭秘苹果高层社交暗面",
+   "url": "https://s.weibo.com/weibo?q=Tim回应送iPhoneDuo",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:tim回应送iphoneduo",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -20050,7 +20050,8 @@
   "印度确认申办2036年夏季奥运会",
   "aiisdramaticallyacceleratingairesearch",
   "有家长问能否保证新老师不怀孕",
-  "央行重大调整"
+  "央行重大调整",
+  "外媒曝约60万枚英伟达芯片滞留香港美方部分人士指责其为卡脖子为何美方会对此如此着急"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21491,7 +21492,8 @@
   "e:印度确认申办2036年夏季奥运会": "印度确认申办2036年夏季奥运会",
   "e:aiisdramaticallyacceleratingairesearch": "AI is dramatically accelerating AI research",
   "e:有家长问能否保证新老师不怀孕": "有家长问“能否保证新老师不怀孕”",
-  "e:央行重大调整": "央行重大调整"
+  "e:央行重大调整": "央行重大调整",
+  "e:外媒曝约60万枚英伟达芯片滞留香港美方部分人士指责其为卡脖子为何美方会对此如此着": "外媒曝约60万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？"
  },
  "a_seen": {
   "马斯克spacex通信系统很有可能承载全球约一半的流量": {
@@ -21685,8 +21687,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:央视曝光校园举报乱象"
+  },
+  "tim回应送iphoneduo": {
+   "key": "tim回应送iphoneduo",
+   "title": "Tim回应送iPhoneDuo",
+   "rating": "A",
+   "score": 87.94,
+   "angle": "Tim回应iPhone Duo赠机：苹果高层社交潜规则与产品背后的权力游戏",
+   "hook_reason": "Tim回应iPhone Duo送机，揭秘苹果高层社交暗面",
+   "url": "https://s.weibo.com/weibo?q=Tim回应送iPhoneDuo",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:tim回应送iphoneduo"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 14
+ "a_pushed_window": 15
 }
