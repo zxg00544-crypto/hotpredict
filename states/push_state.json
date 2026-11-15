@@ -17794,19 +17794,6 @@
    "batch_window": 2
   },
   {
-   "key": "第一个攻克癌症的中国公司已经亏损了",
-   "title": "第一个攻克癌症的中国公司已经亏损了",
-   "rating": "A",
-   "score": 82.0,
-   "angle": "深度解析：为何'第一个攻克癌症'的公司反而亏损？揭秘抗癌药研发的商业死穴与资本寒冬",
-   "hook_reason": "打破'攻克癌症'神话，揭示巨头亏损现实，颠覆认知",
-   "url": "https://www.toutiao.com/trending/7707292856653712947/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:第一个攻克癌症的中国公司已经亏损了",
-   "batch_window": 3
-  },
-  {
    "key": "gemini4hydrogenandorchestrator",
    "title": "Gemini 4 Hydrogen and Orchestrator",
    "rating": "A",
@@ -18572,6 +18559,19 @@
    "breaking": true,
    "event_id": "e:上海开始出现一批个人学校",
    "batch_window": 18
+  },
+  {
+   "key": "中专生拍出爆火ai短片",
+   "title": "中专生拍出爆火AI短片",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解析中专生如何用AI工具低成本实现影视梦，揭秘普通人红利",
+   "hook_reason": "中专生逆袭爆火AI短片，打破学历偏见",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E6%8B%8D%E5%87%BA%E7%88%86%E7%81%ABAI%E7%9F%AD%E7%89%87&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:中专生拍出爆火ai短片",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -20080,7 +20080,8 @@
   "外媒曝约60万枚英伟达芯片滞留香港美方部分人士指责其为卡脖子为何美方会对此如此着急",
   "tim回应送iphoneduo",
   "业内不建议买500元以下羽绒服",
-  "致命砒霜为什么能治白血病"
+  "致命砒霜为什么能治白血病",
+  "第一个攻克癌症的中国公司已经亏损了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21525,7 +21526,8 @@
   "e:外媒曝约60万枚英伟达芯片滞留香港美方部分人士指责其为卡脖子为何美方会对此如此着": "外媒曝约60万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？",
   "e:tim回应送iphoneduo": "Tim回应送iPhoneDuo",
   "e:业内不建议买500元以下羽绒服": "业内不建议买500元以下羽绒服",
-  "e:致命砒霜为什么能治白血病": "致命砒霜为什么能治白血病"
+  "e:致命砒霜为什么能治白血病": "致命砒霜为什么能治白血病",
+  "e:第一个攻克癌症的中国公司已经亏损了": "第一个攻克癌症的中国公司已经亏损了"
  },
  "a_seen": {
   "马斯克spacex通信系统很有可能承载全球约一半的流量": {
@@ -21791,8 +21793,20 @@
    "track": "行业趋势",
    "breaking": true,
    "event_id": "e:上海开始出现一批个人学校"
+  },
+  "中专生拍出爆火ai短片": {
+   "key": "中专生拍出爆火ai短片",
+   "title": "中专生拍出爆火AI短片",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解析中专生如何用AI工具低成本实现影视梦，揭秘普通人红利",
+   "hook_reason": "中专生逆袭爆火AI短片，打破学历偏见",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E6%8B%8D%E5%87%BA%E7%88%86%E7%81%ABAI%E7%9F%AD%E7%89%87&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:中专生拍出爆火ai短片"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
