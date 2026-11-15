@@ -18496,19 +18496,6 @@
    "batch_window": 17
   },
   {
-   "key": "上海开始出现一批个人学校",
-   "title": "上海开始出现一批“个人学校”",
-   "rating": "A",
-   "score": 81.9,
-   "angle": "解构'个人学校'的盈利模式与监管边界，探讨教育行业去中心化的底层逻辑",
-   "hook_reason": "一人办校挑战传统体制，颠覆认知，好奇新物种",
-   "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%BC%80%E5%A7%8B%E5%87%BA%E7%8E%B0%E4%B8%80%E6%89%B9%E2%80%9C%E4%B8%AA%E4%BA%BA%E5%AD%A6%E6%A0%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "行业趋势",
-   "breaking": true,
-   "event_id": "e:上海开始出现一批个人学校",
-   "batch_window": 18
-  },
-  {
    "key": "央视曝光乳山9万一套房卖老人41万",
    "title": "央视曝光：乳山9万一套房卖老人41万",
    "rating": "A",
@@ -20086,7 +20073,8 @@
   "allaigeneratedcodeshouldbeopensource",
   "长鑫科技寒武纪发声",
   "刘欢录跨年晚会时癌细胞疑已扩散",
-  "微信8大新功能来了"
+  "微信8大新功能来了",
+  "上海开始出现一批个人学校"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21550,7 +21538,8 @@
   "e:allaigeneratedcodeshouldbeopensource": "All AI-generated code should be Open Source",
   "e:长鑫科技寒武纪发声": "长鑫科技、寒武纪发声",
   "e:刘欢录跨年晚会时癌细胞疑已扩散": "刘欢录跨年晚会时癌细胞疑已扩散",
-  "e:微信8大新功能来了": "微信8大新功能来了"
+  "e:微信8大新功能来了": "微信8大新功能来了",
+  "e:上海开始出现一批个人学校": "上海开始出现一批“个人学校”"
  },
  "a_seen": {
   "美国众议院议员正在讨论黄仁勋听证会的日期": {
@@ -21615,5 +21604,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
