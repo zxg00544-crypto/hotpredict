@@ -16871,19 +16871,6 @@
    "batch_window": 14
   },
   {
-   "key": "微信8大新功能来了",
-   "title": "微信8大新功能来了",
-   "rating": "A",
-   "score": 81.9,
-   "angle": "拆解8大新功能，预测哪些功能将重塑用户习惯与商业逻辑",
-   "hook_reason": "微信功能直接影响全民社交，用户必点查看",
-   "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A18%E5%A4%A7%E6%96%B0%E5%8A%9F%E8%83%BD%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:微信8大新功能来了",
-   "batch_window": 15
-  },
-  {
    "key": "王健林14年后重新掌舵将有何变化",
    "title": "王健林14年后重新掌舵 将有何变化",
    "rating": "A",
@@ -20098,7 +20085,8 @@
   "于公于私于情于理都不应该带",
   "allaigeneratedcodeshouldbeopensource",
   "长鑫科技寒武纪发声",
-  "刘欢录跨年晚会时癌细胞疑已扩散"
+  "刘欢录跨年晚会时癌细胞疑已扩散",
+  "微信8大新功能来了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21561,7 +21549,8 @@
   "e:于公于私于情于理都不应该带": "“于公于私于情于理都不应该带”",
   "e:allaigeneratedcodeshouldbeopensource": "All AI-generated code should be Open Source",
   "e:长鑫科技寒武纪发声": "长鑫科技、寒武纪发声",
-  "e:刘欢录跨年晚会时癌细胞疑已扩散": "刘欢录跨年晚会时癌细胞疑已扩散"
+  "e:刘欢录跨年晚会时癌细胞疑已扩散": "刘欢录跨年晚会时癌细胞疑已扩散",
+  "e:微信8大新功能来了": "微信8大新功能来了"
  },
  "a_seen": {
   "美国众议院议员正在讨论黄仁勋听证会的日期": {
@@ -21626,5 +21615,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
