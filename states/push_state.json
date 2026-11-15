@@ -14336,19 +14336,6 @@
    "batch_window": 17
   },
   {
-   "key": "长鑫科技寒武纪发声",
-   "title": "长鑫科技、寒武纪发声",
-   "rating": "A",
-   "score": 81.94,
-   "angle": "从长鑫存储+寒武纪双巨头联动切入，解读国产AI芯片链战略协同信号",
-   "hook_reason": "国产芯片两大巨头同步发声，科技自主可控再掀波澜",
-   "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E3%80%81%E5%AF%92%E6%AD%A6%E7%BA%AA%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:长鑫科技寒武纪发声",
-   "batch_window": 19
-  },
-  {
    "key": "胡锡进说a股救市关键时刻美股作妖",
    "title": "胡锡进说A股救市关键时刻美股作妖",
    "rating": "A",
@@ -20109,7 +20096,8 @@
   "樊振东30速胜戈索",
   "白鹿换新手机",
   "于公于私于情于理都不应该带",
-  "allaigeneratedcodeshouldbeopensource"
+  "allaigeneratedcodeshouldbeopensource",
+  "长鑫科技寒武纪发声"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21570,7 +21558,8 @@
   "e:樊振东30速胜戈索": "樊振东3-0速胜戈索",
   "e:白鹿换新手机": "白鹿换新手机",
   "e:于公于私于情于理都不应该带": "“于公于私于情于理都不应该带”",
-  "e:allaigeneratedcodeshouldbeopensource": "All AI-generated code should be Open Source"
+  "e:allaigeneratedcodeshouldbeopensource": "All AI-generated code should be Open Source",
+  "e:长鑫科技寒武纪发声": "长鑫科技、寒武纪发声"
  },
  "a_seen": {
   "美国众议院议员正在讨论黄仁勋听证会的日期": {
@@ -21623,5 +21612,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 0
+ "a_pushed_window": 1
 }
