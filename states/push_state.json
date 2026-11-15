@@ -18533,6 +18533,45 @@
    "breaking": true,
    "event_id": "e:央视曝光校园举报乱象",
    "batch_window": 12
+  },
+  {
+   "key": "致命砒霜为什么能治白血病",
+   "title": "致命砒霜为什么能治白血病",
+   "rating": "A",
+   "score": 84.0,
+   "angle": "拆解砒霜(三氧化二砷)诱导白血病细胞分化的逆向药理机制",
+   "hook_reason": "砒霜致死却救命，反差极大，揭秘癌症治疗原理",
+   "url": "https://s.weibo.com/weibo?q=致命砒霜为什么能治白血病",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:致命砒霜为什么能治白血病",
+   "batch_window": 17
+  },
+  {
+   "key": "ai短剧已经进化到这种程度了",
+   "title": "AI短剧已经进化到这种程度了",
+   "rating": "A",
+   "score": 64.28,
+   "angle": "解析AI短剧技术突破对影视行业的颠覆，探讨内容创作新范式",
+   "hook_reason": "AI生成短剧视觉奇观，打破认知边界",
+   "url": "https://s.weibo.com/weibo?q=AI短剧已经进化到这种程度了",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai短剧已经进化到这种程度了",
+   "batch_window": 17
+  },
+  {
+   "key": "宝马735li降到48点8万",
+   "title": "宝马735Li降到48点8万",
+   "rating": "A",
+   "score": 80.2,
+   "angle": "解析宝马价格战背后的库存危机与国产新能源冲击，探讨豪华车定价体系崩塌的深远影响。",
+   "hook_reason": "BBA旗舰车大降价，冲击豪华市场底线，引发是否入场的争议。",
+   "url": "https://s.weibo.com/weibo?q=宝马735Li降到48点8万",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:宝马735li降到48点8万",
+   "batch_window": 17
   }
  ],
  "pushed": [
@@ -21702,6 +21741,42 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:业内不建议买500元以下羽绒服"
+  },
+  "致命砒霜为什么能治白血病": {
+   "key": "致命砒霜为什么能治白血病",
+   "title": "致命砒霜为什么能治白血病",
+   "rating": "A",
+   "score": 84.0,
+   "angle": "拆解砒霜(三氧化二砷)诱导白血病细胞分化的逆向药理机制",
+   "hook_reason": "砒霜致死却救命，反差极大，揭秘癌症治疗原理",
+   "url": "https://s.weibo.com/weibo?q=致命砒霜为什么能治白血病",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:致命砒霜为什么能治白血病"
+  },
+  "ai短剧已经进化到这种程度了": {
+   "key": "ai短剧已经进化到这种程度了",
+   "title": "AI短剧已经进化到这种程度了",
+   "rating": "A",
+   "score": 64.28,
+   "angle": "解析AI短剧技术突破对影视行业的颠覆，探讨内容创作新范式",
+   "hook_reason": "AI生成短剧视觉奇观，打破认知边界",
+   "url": "https://s.weibo.com/weibo?q=AI短剧已经进化到这种程度了",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai短剧已经进化到这种程度了"
+  },
+  "宝马735li降到48点8万": {
+   "key": "宝马735li降到48点8万",
+   "title": "宝马735Li降到48点8万",
+   "rating": "A",
+   "score": 80.2,
+   "angle": "解析宝马价格战背后的库存危机与国产新能源冲击，探讨豪华车定价体系崩塌的深远影响。",
+   "hook_reason": "BBA旗舰车大降价，冲击豪华市场底线，引发是否入场的争议。",
+   "url": "https://s.weibo.com/weibo?q=宝马735Li降到48点8万",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:宝马735li降到48点8万"
   }
  },
  "breaking_count": 10,
