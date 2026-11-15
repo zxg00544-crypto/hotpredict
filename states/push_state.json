@@ -16286,19 +16286,6 @@
    "batch_window": 5
   },
   {
-   "key": "aiisdramaticallyacceleratingairesearch",
-   "title": "AI is dramatically accelerating AI research",
-   "rating": "A",
-   "score": 82.0,
-   "angle": "拆解AI加速AI研究的底层逻辑，预测对算力与就业的冲击",
-   "hook_reason": "AI自我加速研发？探讨技术奇点是否逼近",
-   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:aiisdramaticallyacceleratingairesearch",
-   "batch_window": 6
-  },
-  {
    "key": "anthropic将于下周启动ipo路演",
    "title": "Anthropic将于下周启动IPO路演",
    "rating": "A",
@@ -18533,6 +18520,58 @@
    "breaking": true,
    "event_id": "e:胖东来羽绒服标注进货价与毛利率",
    "batch_window": 11
+  },
+  {
+   "key": "央行重大调整",
+   "title": "央行重大调整",
+   "rating": "A",
+   "score": 88.5,
+   "angle": "解析政策底层逻辑，预判对股市、楼市及个人钱包的三大连锁反应",
+   "hook_reason": "央行调控直接关联资产价格，引发全民财富焦虑与利益博弈",
+   "url": "https://s.weibo.com/weibo?q=央行重大调整",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:央行重大调整",
+   "batch_window": 12
+  },
+  {
+   "key": "有家长问能否保证新老师不怀孕",
+   "title": "有家长问“能否保证新老师不怀孕”",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "剖析‘防怀孕’提问背后的性别凝视，解构家长焦虑与教师职业尊严的冲突",
+   "hook_reason": "违背常理提问，性别对立与职场歧视双重炸点，引发强烈愤怒与吐槽欲",
+   "url": "https://www.baidu.com/s?wd=%E6%9C%89%E5%AE%B6%E9%95%BF%E9%97%AE%E2%80%9C%E8%83%BD%E5%90%A6%E4%BF%9D%E8%AF%81%E6%96%B0%E8%80%81%E5%B8%88%E4%B8%8D%E6%80%80%E5%AD%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:有家长问能否保证新老师不怀孕",
+   "batch_window": 12
+  },
+  {
+   "key": "余承东宣布华为matex8即将登场",
+   "title": "余承东宣布华为Mate X8即将登场",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "余承东亲自下场预热，Mate X8能否打破折叠屏瓶颈重塑行业格局？",
+   "hook_reason": "余承东重磅官宣，折叠屏技术新突破",
+   "url": "https://www.toutiao.com/trending/7708206597830525450/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:余承东宣布华为matex8即将登场",
+   "batch_window": 12
+  },
+  {
+   "key": "央视曝光校园举报乱象",
+   "title": "央视曝光校园举报乱象",
+   "rating": "A",
+   "score": 44.7,
+   "angle": "从‘学生’到‘打工人’：央视曝光校园举报乱象，揭示内卷下的权力异化",
+   "hook_reason": "央视点名曝光，揭秘校园职场化黑幕，引发师生强烈共鸣",
+   "url": "https://s.weibo.com/weibo?q=央视曝光校园举报乱象",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:央视曝光校园举报乱象",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -20034,7 +20073,8 @@
   "赴港看演唱会女孩低保已被取消",
   "清华研究生怀孕怕被退学获导师支持",
   "王传福低调现身河南",
-  "印度确认申办2036年夏季奥运会"
+  "印度确认申办2036年夏季奥运会",
+  "aiisdramaticallyacceleratingairesearch"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21472,7 +21512,8 @@
   "e:赴港看演唱会女孩低保已被取消": "赴港看演唱会女孩低保已被取消",
   "e:清华研究生怀孕怕被退学获导师支持": "清华研究生怀孕怕被退学获导师支持",
   "e:王传福低调现身河南": "王传福低调现身河南",
-  "e:印度确认申办2036年夏季奥运会": "印度确认申办2036年夏季奥运会"
+  "e:印度确认申办2036年夏季奥运会": "印度确认申办2036年夏季奥运会",
+  "e:aiisdramaticallyacceleratingairesearch": "AI is dramatically accelerating AI research"
  },
  "a_seen": {
   "马斯克spacex通信系统很有可能承载全球约一半的流量": {
@@ -21612,14 +21653,62 @@
    "title": "胖东来羽绒服标注进货价与毛利率",
    "rating": "A",
    "score": 46.9,
-   "angle": "剖析‘胖东来效应’背后的商业信任重构，探讨透明化对传统零售利润观的冲击。",
-   "hook_reason": "极致透明打破行业黑箱，引发大众对诚信与利润的强烈共鸣与争议。",
+   "angle": "胖东来透明定价是商业自律还是行业降维打击？解析零售业利润透明化的连锁反应",
+   "hook_reason": "打破行业潜规则，揭秘暴利背后真相，直击消费者痛点",
    "url": "https://www.toutiao.com/trending/7706487347159777818/",
-   "track": "社会热点",
+   "track": "财经",
    "breaking": true,
    "event_id": "e:胖东来羽绒服标注进货价与毛利率"
+  },
+  "央行重大调整": {
+   "key": "央行重大调整",
+   "title": "央行重大调整",
+   "rating": "A",
+   "score": 88.5,
+   "angle": "解析政策底层逻辑，预判对股市、楼市及个人钱包的三大连锁反应",
+   "hook_reason": "央行调控直接关联资产价格，引发全民财富焦虑与利益博弈",
+   "url": "https://s.weibo.com/weibo?q=央行重大调整",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:央行重大调整"
+  },
+  "有家长问能否保证新老师不怀孕": {
+   "key": "有家长问能否保证新老师不怀孕",
+   "title": "有家长问“能否保证新老师不怀孕”",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "剖析‘防怀孕’提问背后的性别凝视，解构家长焦虑与教师职业尊严的冲突",
+   "hook_reason": "违背常理提问，性别对立与职场歧视双重炸点，引发强烈愤怒与吐槽欲",
+   "url": "https://www.baidu.com/s?wd=%E6%9C%89%E5%AE%B6%E9%95%BF%E9%97%AE%E2%80%9C%E8%83%BD%E5%90%A6%E4%BF%9D%E8%AF%81%E6%96%B0%E8%80%81%E5%B8%88%E4%B8%8D%E6%80%80%E5%AD%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:有家长问能否保证新老师不怀孕"
+  },
+  "余承东宣布华为matex8即将登场": {
+   "key": "余承东宣布华为matex8即将登场",
+   "title": "余承东宣布华为Mate X8即将登场",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "余承东亲自下场预热，Mate X8能否打破折叠屏瓶颈重塑行业格局？",
+   "hook_reason": "余承东重磅官宣，折叠屏技术新突破",
+   "url": "https://www.toutiao.com/trending/7708206597830525450/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:余承东宣布华为matex8即将登场"
+  },
+  "央视曝光校园举报乱象": {
+   "key": "央视曝光校园举报乱象",
+   "title": "央视曝光校园举报乱象",
+   "rating": "A",
+   "score": 44.7,
+   "angle": "从‘学生’到‘打工人’：央视曝光校园举报乱象，揭示内卷下的权力异化",
+   "hook_reason": "央视点名曝光，揭秘校园职场化黑幕，引发师生强烈共鸣",
+   "url": "https://s.weibo.com/weibo?q=央视曝光校园举报乱象",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:央视曝光校园举报乱象"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
