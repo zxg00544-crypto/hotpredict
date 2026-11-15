@@ -18535,19 +18535,6 @@
    "batch_window": 12
   },
   {
-   "key": "有家长问能否保证新老师不怀孕",
-   "title": "有家长问“能否保证新老师不怀孕”",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "剖析‘防怀孕’提问背后的性别凝视，解构家长焦虑与教师职业尊严的冲突",
-   "hook_reason": "违背常理提问，性别对立与职场歧视双重炸点，引发强烈愤怒与吐槽欲",
-   "url": "https://www.baidu.com/s?wd=%E6%9C%89%E5%AE%B6%E9%95%BF%E9%97%AE%E2%80%9C%E8%83%BD%E5%90%A6%E4%BF%9D%E8%AF%81%E6%96%B0%E8%80%81%E5%B8%88%E4%B8%8D%E6%80%80%E5%AD%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:有家长问能否保证新老师不怀孕",
-   "batch_window": 12
-  },
-  {
    "key": "余承东宣布华为matex8即将登场",
    "title": "余承东宣布华为Mate X8即将登场",
    "rating": "A",
@@ -20074,7 +20061,8 @@
   "清华研究生怀孕怕被退学获导师支持",
   "王传福低调现身河南",
   "印度确认申办2036年夏季奥运会",
-  "aiisdramaticallyacceleratingairesearch"
+  "aiisdramaticallyacceleratingairesearch",
+  "有家长问能否保证新老师不怀孕"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21513,7 +21501,8 @@
   "e:清华研究生怀孕怕被退学获导师支持": "清华研究生怀孕怕被退学获导师支持",
   "e:王传福低调现身河南": "王传福低调现身河南",
   "e:印度确认申办2036年夏季奥运会": "印度确认申办2036年夏季奥运会",
-  "e:aiisdramaticallyacceleratingairesearch": "AI is dramatically accelerating AI research"
+  "e:aiisdramaticallyacceleratingairesearch": "AI is dramatically accelerating AI research",
+  "e:有家长问能否保证新老师不怀孕": "有家长问“能否保证新老师不怀孕”"
  },
  "a_seen": {
   "马斯克spacex通信系统很有可能承载全球约一半的流量": {
@@ -21700,9 +21689,9 @@
    "key": "央视曝光校园举报乱象",
    "title": "央视曝光校园举报乱象",
    "rating": "A",
-   "score": 44.7,
-   "angle": "从‘学生’到‘打工人’：央视曝光校园举报乱象，揭示内卷下的权力异化",
-   "hook_reason": "央视点名曝光，揭秘校园职场化黑幕，引发师生强烈共鸣",
+   "score": 58.46,
+   "angle": "深度解析央视曝光的校园举报内卷现象：为何“互相监督”异化为“互相伤害”，普通家长该如何自保。",
+   "hook_reason": "央视权威定调+校园举报乱象，戳中无数人“老实人吃亏”的痛点与恐惧。",
    "url": "https://s.weibo.com/weibo?q=央视曝光校园举报乱象",
    "track": "社会热点",
    "breaking": true,
@@ -21710,5 +21699,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 12
+ "a_pushed_window": 13
 }
