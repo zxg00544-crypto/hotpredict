@@ -18520,6 +18520,19 @@
    "breaking": true,
    "event_id": "e:马斯克力挺黄仁勋超85万人签署公开信希望黄仁勋回归",
    "batch_window": 8
+  },
+  {
+   "key": "王传福低调现身河南",
+   "title": "王传福低调现身河南",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "深挖王传福低调行程背后的战略意图，结合河南新能源产业现状，解读其下一步棋。",
+   "hook_reason": "比亚迪掌门人低调现身，疑似考察新能源下沉市场或新布局，悬念拉满。",
+   "url": "https://www.toutiao.com/trending/7707845439739118090/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:王传福低调现身河南",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -21565,6 +21578,18 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:马斯克力挺黄仁勋超85万人签署公开信希望黄仁勋回归"
+  },
+  "王传福低调现身河南": {
+   "key": "王传福低调现身河南",
+   "title": "王传福低调现身河南",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "深挖王传福低调行程背后的战略意图，结合河南新能源产业现状，解读其下一步棋。",
+   "hook_reason": "比亚迪掌门人低调现身，疑似考察新能源下沉市场或新布局，悬念拉满。",
+   "url": "https://www.toutiao.com/trending/7707845439739118090/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:王传福低调现身河南"
   }
  },
  "breaking_count": 10,
