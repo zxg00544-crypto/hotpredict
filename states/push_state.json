@@ -18522,19 +18522,6 @@
    "batch_window": 11
   },
   {
-   "key": "央行重大调整",
-   "title": "央行重大调整",
-   "rating": "A",
-   "score": 88.5,
-   "angle": "解析政策底层逻辑，预判对股市、楼市及个人钱包的三大连锁反应",
-   "hook_reason": "央行调控直接关联资产价格，引发全民财富焦虑与利益博弈",
-   "url": "https://s.weibo.com/weibo?q=央行重大调整",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:央行重大调整",
-   "batch_window": 12
-  },
-  {
    "key": "余承东宣布华为matex8即将登场",
    "title": "余承东宣布华为Mate X8即将登场",
    "rating": "A",
@@ -20062,7 +20049,8 @@
   "王传福低调现身河南",
   "印度确认申办2036年夏季奥运会",
   "aiisdramaticallyacceleratingairesearch",
-  "有家长问能否保证新老师不怀孕"
+  "有家长问能否保证新老师不怀孕",
+  "央行重大调整"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21502,7 +21490,8 @@
   "e:王传福低调现身河南": "王传福低调现身河南",
   "e:印度确认申办2036年夏季奥运会": "印度确认申办2036年夏季奥运会",
   "e:aiisdramaticallyacceleratingairesearch": "AI is dramatically accelerating AI research",
-  "e:有家长问能否保证新老师不怀孕": "有家长问“能否保证新老师不怀孕”"
+  "e:有家长问能否保证新老师不怀孕": "有家长问“能否保证新老师不怀孕”",
+  "e:央行重大调整": "央行重大调整"
  },
  "a_seen": {
   "马斯克spacex通信系统很有可能承载全球约一半的流量": {
@@ -21699,5 +21688,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 13
+ "a_pushed_window": 14
 }
