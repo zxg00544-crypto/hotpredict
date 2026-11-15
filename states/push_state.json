@@ -14271,19 +14271,6 @@
    "batch_window": 14
   },
   {
-   "key": "赴港看演唱会女孩低保已被取消",
-   "title": "赴港看演唱会女孩低保已被取消",
-   "rating": "A",
-   "score": 82.0,
-   "angle": "从福利制度边界切入，探讨低收入群体精神需求与资源分配的公平性争议",
-   "hook_reason": "低保女孩追星引争议，底层生存困境触痛公众神经",
-   "url": "https://s.weibo.com/weibo?q=赴港看演唱会女孩低保已被取消",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:赴港看演唱会女孩低保已被取消",
-   "batch_window": 15
-  },
-  {
    "key": "警方通报九寨沟景区游客冲突事件",
    "title": "警方通报九寨沟景区游客冲突事件",
    "rating": "A",
@@ -18520,6 +18507,32 @@
    "breaking": true,
    "event_id": "e:spacexcatchesthestarshiptoendflight15",
    "batch_window": 7
+  },
+  {
+   "key": "十五五时期中国储能新上加新",
+   "title": "十五五时期中国储能新上加新",
+   "rating": "A",
+   "score": 80.35,
+   "angle": "深度拆解十五五储能政策底层逻辑，预判下一轮新能源资本投资风向",
+   "hook_reason": "十五五开局能源大招，储能赛道资本狂欢新信号",
+   "url": "https://s.weibo.com/weibo?q=十五五时期中国储能新上加新",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:十五五时期中国储能新上加新",
+   "batch_window": 8
+  },
+  {
+   "key": "马斯克力挺黄仁勋超85万人签署公开信希望黄仁勋回归",
+   "title": "马斯克力挺黄仁勋，超8.5万人签署公开信希望黄仁勋回归",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "马斯克为何力挺黄仁勋？解析AI双雄背后的权力与利益博弈",
+   "hook_reason": "硅谷顶流站队，8.5万人联名，AI权力版图震动",
+   "url": "https://finance.sina.cn/7x24/2026-11-15/detail-iniyuinp3463906.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克力挺黄仁勋超85万人签署公开信希望黄仁勋回归",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -20017,7 +20030,8 @@
   "都说ai提效为什么打工人反而更累了",
   "爱吃鱼的广东人天塌了",
   "曝w盛典阵容",
-  "女性不被结婚生子占满人生"
+  "女性不被结婚生子占满人生",
+  "赴港看演唱会女孩低保已被取消"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21451,7 +21465,8 @@
   "e:都说ai提效为什么打工人反而更累了": "都说AI提效，为什么打工人反而更累了？",
   "e:爱吃鱼的广东人天塌了": "爱吃鱼的广东人天塌了",
   "e:曝w盛典阵容": "曝W盛典阵容",
-  "e:女性不被结婚生子占满人生": "女性不被结婚生子占满人生"
+  "e:女性不被结婚生子占满人生": "女性不被结婚生子占满人生",
+  "e:赴港看演唱会女孩低保已被取消": "赴港看演唱会女孩低保已被取消"
  },
  "a_seen": {
   "马斯克spacex通信系统很有可能承载全球约一半的流量": {
@@ -21537,8 +21552,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:spacexcatchesthestarshiptoendflight15"
+  },
+  "十五五时期中国储能新上加新": {
+   "key": "十五五时期中国储能新上加新",
+   "title": "十五五时期中国储能新上加新",
+   "rating": "A",
+   "score": 80.35,
+   "angle": "深度拆解十五五储能政策底层逻辑，预判下一轮新能源资本投资风向",
+   "hook_reason": "十五五开局能源大招，储能赛道资本狂欢新信号",
+   "url": "https://s.weibo.com/weibo?q=十五五时期中国储能新上加新",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:十五五时期中国储能新上加新"
+  },
+  "马斯克力挺黄仁勋超85万人签署公开信希望黄仁勋回归": {
+   "key": "马斯克力挺黄仁勋超85万人签署公开信希望黄仁勋回归",
+   "title": "马斯克力挺黄仁勋，超8.5万人签署公开信希望黄仁勋回归",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "马斯克为何力挺黄仁勋？解析AI双雄背后的权力与利益博弈",
+   "hook_reason": "硅谷顶流站队，8.5万人联名，AI权力版图震动",
+   "url": "https://finance.sina.cn/7x24/2026-11-15/detail-iniyuinp3463906.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克力挺黄仁勋超85万人签署公开信希望黄仁勋回归"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
