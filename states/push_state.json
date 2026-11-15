@@ -20108,7 +20108,8 @@
   "余承东首曝matex8真机",
   "樊振东30速胜戈索",
   "白鹿换新手机",
-  "于公于私于情于理都不应该带"
+  "于公于私于情于理都不应该带",
+  "allaigeneratedcodeshouldbeopensource"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21568,7 +21569,8 @@
   "e:余承东首曝matex8真机": "余承东首曝Mate X8真机",
   "e:樊振东30速胜戈索": "樊振东3-0速胜戈索",
   "e:白鹿换新手机": "白鹿换新手机",
-  "e:于公于私于情于理都不应该带": "“于公于私于情于理都不应该带”"
+  "e:于公于私于情于理都不应该带": "“于公于私于情于理都不应该带”",
+  "e:allaigeneratedcodeshouldbeopensource": "All AI-generated code should be Open Source"
  },
  "a_seen": {
   "美国众议院议员正在讨论黄仁勋听证会的日期": {
@@ -21606,8 +21608,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:余承东首曝matex8真机"
+  },
+  "allaigeneratedcodeshouldbeopensource": {
+   "key": "allaigeneratedcodeshouldbeopensource",
+   "title": "All AI-generated code should be Open Source",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "驳斥开源论调，分析AI代码所有权、安全漏洞及开发者角色重构",
+   "hook_reason": "AI代码开源争议极大，关乎开发者生存与行业未来",
+   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:allaigeneratedcodeshouldbeopensource"
   }
  },
- "breaking_count": 9,
+ "breaking_count": 10,
  "a_pushed_window": 0
 }
