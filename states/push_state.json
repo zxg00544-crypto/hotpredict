@@ -18548,17 +18548,30 @@
    "batch_window": 6
   },
   {
-   "key": "高中累死累活读书后遗症",
-   "title": "高中累死累活读书后遗症",
+   "key": "oldbitlylinksarebeinghijacked",
+   "title": "Old Bitly Links Are Being Hijacked",
    "rating": "A",
-   "score": 82.5,
-   "angle": "从‘内卷反噬’切入，科普高中高强度学习后的身心修复方案，引发家长与青年共鸣",
-   "hook_reason": "切中高考后群体身心状态，身份共鸣极强",
-   "url": "https://s.weibo.com/weibo?q=高中累死累活读书后遗症",
-   "track": "社会热点",
+   "score": 75.95,
+   "angle": "技术拆解：Bitly劫持原理及用户即时自查指南",
+   "hook_reason": "经典短链被劫持，隐私安全重大隐患",
+   "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+   "track": "科技",
    "breaking": true,
-   "event_id": "e:高中累死累活读书后遗症",
-   "batch_window": 7
+   "event_id": "e:oldbitlylinksarebeinghijacked",
+   "batch_window": 8
+  },
+  {
+   "key": "曝黄仁勋亲自为英伟达挑选ceo",
+   "title": "曝黄仁勋亲自为英伟达挑选CEO",
+   "rating": "A",
+   "score": 44.75,
+   "angle": "揭秘黄仁勋选角标准：是守成还是变革？AI时代CEO能力模型全解析",
+   "hook_reason": "黄仁勋亲自挑CEO，顶级巨头权力交接内幕",
+   "url": "https://s.weibo.com/weibo?q=曝黄仁勋亲自为英伟达挑选CEO",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:曝黄仁勋亲自为英伟达挑选ceo",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -20090,7 +20103,8 @@
   "上海开始出现一批个人学校",
   "40岁男子花4千元做96集ai短剧爆火",
   "华为推出全新小折叠电脑",
-  "999感冒灵被夸有眼光"
+  "999感冒灵被夸有眼光",
+  "高中累死累活读书后遗症"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21558,7 +21572,8 @@
   "e:上海开始出现一批个人学校": "上海开始出现一批“个人学校”",
   "e:40岁男子花4千元做96集ai短剧爆火": "40岁男子花4千元做96集AI短剧爆火",
   "e:华为推出全新小折叠电脑": "华为推出全新小折叠电脑",
-  "e:999感冒灵被夸有眼光": "999感冒灵被夸“有眼光”"
+  "e:999感冒灵被夸有眼光": "999感冒灵被夸“有眼光”",
+  "e:高中累死累活读书后遗症": "高中累死累活读书后遗症"
  },
  "a_seen": {
   "美国众议院议员正在讨论黄仁勋听证会的日期": {
@@ -21668,8 +21683,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:高中累死累活读书后遗症"
+  },
+  "oldbitlylinksarebeinghijacked": {
+   "key": "oldbitlylinksarebeinghijacked",
+   "title": "Old Bitly Links Are Being Hijacked",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "技术拆解：Bitly劫持原理及用户即时自查指南",
+   "hook_reason": "经典短链被劫持，隐私安全重大隐患",
+   "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:oldbitlylinksarebeinghijacked"
+  },
+  "曝黄仁勋亲自为英伟达挑选ceo": {
+   "key": "曝黄仁勋亲自为英伟达挑选ceo",
+   "title": "曝黄仁勋亲自为英伟达挑选CEO",
+   "rating": "A",
+   "score": 44.75,
+   "angle": "揭秘黄仁勋选角标准：是守成还是变革？AI时代CEO能力模型全解析",
+   "hook_reason": "黄仁勋亲自挑CEO，顶级巨头权力交接内幕",
+   "url": "https://s.weibo.com/weibo?q=曝黄仁勋亲自为英伟达挑选CEO",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:曝黄仁勋亲自为英伟达挑选ceo"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
