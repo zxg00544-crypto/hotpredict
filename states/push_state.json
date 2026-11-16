@@ -14128,19 +14128,6 @@
    "batch_window": 9
   },
   {
-   "key": "结婚当天离世新郎系心脏压塞死亡",
-   "title": "结婚当天离世新郎系心脏压塞死亡",
-   "rating": "A",
-   "score": 81.5,
-   "angle": "从婚嫁安全切入，呼吁重视婚前体检与心脏健康监测",
-   "hook_reason": "婚礼变葬礼，生命无常引发强烈共情与点击欲",
-   "url": "https://s.weibo.com/weibo?q=结婚当天离世新郎系心脏压塞死亡",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:结婚当天离世新郎系心脏压塞死亡",
-   "batch_window": 9
-  },
-  {
    "key": "白小纯怎么敢写训练像坐牢",
    "title": "白小纯怎么敢写训练像坐牢",
    "rating": "A",
@@ -20274,7 +20261,8 @@
   "厨房油烟致癌物浓度相当于96支烟",
   "nvidiawasintroublebeforethejensenhuangmess",
   "manyofamazonsblackfridayandcyber686a726c",
-  "保时捷女销冠再夺第一所属公司却半年亏27亿个人业绩拉满公司疯狂失血传统豪华车市场怎么了"
+  "保时捷女销冠再夺第一所属公司却半年亏27亿个人业绩拉满公司疯狂失血传统豪华车市场怎么了",
+  "结婚当天离世新郎系心脏压塞死亡"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21770,7 +21758,8 @@
   "e:厨房油烟致癌物浓度相当于96支烟": "厨房油烟致癌物浓度相当于96支烟",
   "e:nvidiawasintroublebeforethejensenhuangme": "Nvidia Was in Trouble Before the Jensen Huang Mess",
   "e:manyofamazonsblackfridayandcybermondayde": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
-  "e:保时捷女销冠再夺第一所属公司却半年亏27亿个人业绩拉满公司疯狂失血传统豪华车市场": "保时捷女销冠再夺第一，所属公司却半年亏 2.7 亿，个人业绩拉满、公司疯狂失血，传统豪华车市场怎么了？"
+  "e:保时捷女销冠再夺第一所属公司却半年亏27亿个人业绩拉满公司疯狂失血传统豪华车市场": "保时捷女销冠再夺第一，所属公司却半年亏 2.7 亿，个人业绩拉满、公司疯狂失血，传统豪华车市场怎么了？",
+  "e:结婚当天离世新郎系心脏压塞死亡": "结婚当天离世新郎系心脏压塞死亡"
  },
  "a_seen": {
   "华尔街日报必须道歉": {
@@ -21835,5 +21824,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
