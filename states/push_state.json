@@ -14141,19 +14141,6 @@
    "batch_window": 9
   },
   {
-   "key": "巩立姣退役后减重60多斤",
-   "title": "巩立姣退役后减重60多斤",
-   "rating": "A",
-   "score": 81.5,
-   "angle": "从巩立姣减重切入，探讨运动员退役后的身份焦虑与身材管理困境，延伸至大众对女性身体标准的讨论",
-   "hook_reason": "奥运冠军退役后暴瘦60斤的反差感，触发大众对身体形象与运动员转型的双重共鸣",
-   "url": "https://s.weibo.com/weibo?q=巩立姣退役后减重60多斤",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:巩立姣退役后减重60多斤",
-   "batch_window": 9
-  },
-  {
    "key": "雷军误写小米yu7首付799元",
    "title": "雷军误写小米YU7首付7.99元",
    "rating": "A",
@@ -20262,7 +20249,8 @@
   "nvidiawasintroublebeforethejensenhuangmess",
   "manyofamazonsblackfridayandcyber686a726c",
   "保时捷女销冠再夺第一所属公司却半年亏27亿个人业绩拉满公司疯狂失血传统豪华车市场怎么了",
-  "结婚当天离世新郎系心脏压塞死亡"
+  "结婚当天离世新郎系心脏压塞死亡",
+  "巩立姣退役后减重60多斤"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21759,7 +21747,8 @@
   "e:nvidiawasintroublebeforethejensenhuangme": "Nvidia Was in Trouble Before the Jensen Huang Mess",
   "e:manyofamazonsblackfridayandcybermondayde": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
   "e:保时捷女销冠再夺第一所属公司却半年亏27亿个人业绩拉满公司疯狂失血传统豪华车市场": "保时捷女销冠再夺第一，所属公司却半年亏 2.7 亿，个人业绩拉满、公司疯狂失血，传统豪华车市场怎么了？",
-  "e:结婚当天离世新郎系心脏压塞死亡": "结婚当天离世新郎系心脏压塞死亡"
+  "e:结婚当天离世新郎系心脏压塞死亡": "结婚当天离世新郎系心脏压塞死亡",
+  "e:巩立姣退役后减重60多斤": "巩立姣退役后减重60多斤"
  },
  "a_seen": {
   "华尔街日报必须道歉": {
@@ -21824,5 +21813,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
