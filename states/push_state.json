@@ -18587,19 +18587,6 @@
    "batch_window": 10
   },
   {
-   "key": "苹果2027年计划发布6款iphone",
-   "title": "苹果2027年计划发布6款iPhone",
-   "rating": "A",
-   "score": 82.0,
-   "angle": "解读苹果2027密集发布节奏，拆解折叠屏与AI硬件落地对产业链的冲击",
-   "hook_reason": "2027年推6款新机，折叠屏+AI硬件变局在即，苹果路线图大反转",
-   "url": "https://s.weibo.com/weibo?q=苹果2027年计划发布6款iPhone",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:苹果2027年计划发布6款iphone",
-   "batch_window": 10
-  },
-  {
    "key": "qwen4max",
    "title": "Qwen4-Max",
    "rating": "A",
@@ -18689,6 +18676,32 @@
    "breaking": true,
    "event_id": "e:段永平谈黄仁勋回归英伟达",
    "batch_window": 19
+  },
+  {
+   "key": "英特尔股价暴跌29后被告",
+   "title": "英特尔股价暴跌29%后被告",
+   "rating": "A",
+   "score": 45.15,
+   "angle": "深度拆解：股价崩盘为何引发法律危机？揭秘英特尔背后的债务黑洞与战略失误",
+   "hook_reason": "巨头发财梦碎？暴跌29%反被诉，资本反噬太狠",
+   "url": "https://s.weibo.com/weibo?q=英特尔股价暴跌29%后被告",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英特尔股价暴跌29后被告",
+   "batch_window": 20
+  },
+  {
+   "key": "黄仁勋回归路暗藏博弈",
+   "title": "黄仁勋回归路暗藏博弈",
+   "rating": "A",
+   "score": 44.45,
+   "angle": "解析黄仁勋回归背后的供应链博弈与中美科技制衡新逻辑",
+   "hook_reason": "英伟达CEO动向牵动芯片战局，博弈感拉满",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋回归路暗藏博弈",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋回归路暗藏博弈",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -20232,7 +20245,8 @@
   "deepseek因算力不足限额",
   "农民工转讨薪贴被当黑社会遭起诉",
   "为什么手指永远无法相互触碰",
-  "方博十年熬走四座大山"
+  "方博十年熬走四座大山",
+  "苹果2027年计划发布6款iphone"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21712,7 +21726,8 @@
   "e:deepseek因算力不足限额": "DeepSeek因算力不足限额",
   "e:农民工转讨薪贴被当黑社会遭起诉": "农民工转讨薪贴被当黑社会遭起诉",
   "e:为什么手指永远无法相互触碰": "为什么手指永远无法相互触碰",
-  "e:方博十年熬走四座大山": "方博十年熬走四座大山"
+  "e:方博十年熬走四座大山": "方博十年熬走四座大山",
+  "e:苹果2027年计划发布6款iphone": "苹果2027年计划发布6款iPhone"
  },
  "a_seen": {
   "美国众议院议员正在讨论黄仁勋听证会的日期": {
@@ -22103,15 +22118,39 @@
    "key": "段永平谈黄仁勋回归英伟达",
    "title": "段永平谈黄仁勋回归英伟达",
    "rating": "A",
-   "score": 43.2,
-   "angle": "借段永平之口，剖析黄仁勋回归对英伟达AI护城河的影响，以及对中国投资者的启示。",
-   "hook_reason": "段永平跨界点评黄仁勋，资本大佬视角解读科技巨头人事与战略，稀缺信息差。",
+   "score": 88.5,
+   "angle": "段永平投资视角解读黄仁勋战略，普通人可复制的选股逻辑",
+   "hook_reason": "顶级投资人点评AI巨头，稀缺内幕视角",
    "url": "https://s.weibo.com/weibo?q=段永平谈黄仁勋回归英伟达",
-   "track": "财经",
+   "track": "大咖发言",
    "breaking": true,
    "event_id": "e:段永平谈黄仁勋回归英伟达"
+  },
+  "英特尔股价暴跌29后被告": {
+   "key": "英特尔股价暴跌29后被告",
+   "title": "英特尔股价暴跌29%后被告",
+   "rating": "A",
+   "score": 45.15,
+   "angle": "深度拆解：股价崩盘为何引发法律危机？揭秘英特尔背后的债务黑洞与战略失误",
+   "hook_reason": "巨头发财梦碎？暴跌29%反被诉，资本反噬太狠",
+   "url": "https://s.weibo.com/weibo?q=英特尔股价暴跌29%后被告",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英特尔股价暴跌29后被告"
+  },
+  "黄仁勋回归路暗藏博弈": {
+   "key": "黄仁勋回归路暗藏博弈",
+   "title": "黄仁勋回归路暗藏博弈",
+   "rating": "A",
+   "score": 44.45,
+   "angle": "解析黄仁勋回归背后的供应链博弈与中美科技制衡新逻辑",
+   "hook_reason": "英伟达CEO动向牵动芯片战局，博弈感拉满",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋回归路暗藏博弈",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋回归路暗藏博弈"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
