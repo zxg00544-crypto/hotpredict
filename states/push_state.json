@@ -18652,19 +18652,6 @@
    "batch_window": 13
   },
   {
-   "key": "deepseek因算力不足限额",
-   "title": "DeepSeek因算力不足限额",
-   "rating": "A",
-   "score": 91.0,
-   "angle": "深度解析DeepSeek限额背后的算力军备竞赛与国产AI替代逻辑",
-   "hook_reason": "AI龙头突发宕机，揭秘算力瓶颈与行业真相",
-   "url": "https://s.weibo.com/weibo?q=DeepSeek因算力不足限额",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:deepseek因算力不足限额",
-   "batch_window": 14
-  },
-  {
    "key": "黄仁勋要夺回英伟达",
    "title": "黄仁勋要夺回英伟达",
    "rating": "A",
@@ -18689,6 +18676,19 @@
    "breaking": true,
    "event_id": "e:a股调整近4300股下跌",
    "batch_window": 15
+  },
+  {
+   "key": "科技股现跌停潮不少股民爆仓",
+   "title": "科技股现跌停潮不少股民爆仓",
+   "rating": "A",
+   "score": 44.45,
+   "angle": "科技股跌停潮下的散户生存现状，以及散户在极端行情中的避坑指南",
+   "hook_reason": "科技股集体跌停，股民爆仓惨状，引发市场强烈恐慌与共鸣",
+   "url": "https://s.weibo.com/weibo?q=科技股现跌停潮不少股民爆仓",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:科技股现跌停潮不少股民爆仓",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -20228,7 +20228,8 @@
   "中俄美元首会晤将在深圳举行",
   "伊朗与两个国家达成霍尔木兹海峡协议",
   "a股到底跌透了没有",
-  "羽绒服为什么越卖越贵"
+  "羽绒服为什么越卖越贵",
+  "deepseek因算力不足限额"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21704,7 +21705,8 @@
   "e:中俄美元首会晤将在深圳举行": "中俄美元首会晤将在深圳举行",
   "e:伊朗与两个国家达成霍尔木兹海峡协议": "伊朗与两个国家达成霍尔木兹海峡协议",
   "e:a股到底跌透了没有": "A股到底跌透了没有",
-  "e:羽绒服为什么越卖越贵": "羽绒服为什么越卖越贵"
+  "e:羽绒服为什么越卖越贵": "羽绒服为什么越卖越贵",
+  "e:deepseek因算力不足限额": "DeepSeek因算力不足限额"
  },
  "a_seen": {
   "美国众议院议员正在讨论黄仁勋听证会的日期": {
@@ -22023,15 +22025,51 @@
    "key": "a股调整近4300股下跌",
    "title": "A股调整近4300股下跌",
    "rating": "A",
-   "score": 43.5,
-   "angle": "复盘4300股下跌背后的资金逻辑，预判短期企稳信号及散户生存策略",
-   "hook_reason": "大跌恐慌与错失抄底机会的焦虑直击投资者痛点",
+   "score": 43.3,
+   "angle": "拆解指数失真陷阱，梳理抗跌板块特征，给出震荡市下的仓位管理策略",
+   "hook_reason": "4300股下跌触发散户恐慌，寻求止跌信号与后续操作建议",
    "url": "https://s.weibo.com/weibo?q=A股调整近4300股下跌",
    "track": "财经",
    "breaking": true,
-   "event_id": "e:a股调整近4300股下跌"
+   "event_id": "e:全市场超4300只个股下挫"
+  },
+  "特朗普期待参加中俄美元首会晤": {
+   "key": "特朗普期待参加中俄美元首会晤",
+   "title": "特朗普：期待参加中俄美元首会晤",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解析特朗普表态背后的博弈逻辑，以及中俄美元首会晤对地缘格局的潜在重塑",
+   "hook_reason": "特朗普突发表态，涉及中俄美三角博弈，地缘政治悬念拉满",
+   "url": "https://www.toutiao.com/trending/7708674868967083571/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:中俄美元首会晤将在深圳举行"
+  },
+  "deepseek使用额度已达上限": {
+   "key": "deepseek使用额度已达上限",
+   "title": "DeepSeek使用额度已达上限",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "DeepSeek因流量激增触发限流机制，折射国产大模型商业化承载力的现实考验",
+   "hook_reason": "国产AI大模型因爆火导致服务降级，直击科技圈痛点",
+   "url": "https://s.weibo.com/weibo?q=DeepSeek使用额度已达上限",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepseek崩了"
+  },
+  "科技股现跌停潮不少股民爆仓": {
+   "key": "科技股现跌停潮不少股民爆仓",
+   "title": "科技股现跌停潮不少股民爆仓",
+   "rating": "A",
+   "score": 44.45,
+   "angle": "科技股跌停潮下的散户生存现状，以及散户在极端行情中的避坑指南",
+   "hook_reason": "科技股集体跌停，股民爆仓惨状，引发市场强烈恐慌与共鸣",
+   "url": "https://s.weibo.com/weibo?q=科技股现跌停潮不少股民爆仓",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:科技股现跌停潮不少股民爆仓"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 15
+ "a_pushed_window": 16
 }
