@@ -14128,19 +14128,6 @@
    "batch_window": 9
   },
   {
-   "key": "保时捷女销冠再夺第一所属公司却半年亏27亿个人业绩拉满公司疯狂失血传统豪华车市场怎么了",
-   "title": "保时捷女销冠再夺第一，所属公司却半年亏 2.7 亿，个人业绩拉满、公司疯狂失血，传统豪华车市场怎么了？",
-   "rating": "A",
-   "score": 81.5,
-   "angle": "以女销冠'一人扛业绩'的故事切入，折射传统豪华车品牌中国市场的深度危机与普通打工人的生存张力",
-   "hook_reason": "销冠个人逆袭vs公司暴雷，反差冲突拉满，大众有代入感",
-   "url": "https://www.zhihu.com/question/2100560990764889476",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:保时捷女销冠再夺第一所属公司却半年亏27亿个人业绩拉满公司疯狂失血传统豪华车市场",
-   "batch_window": 9
-  },
-  {
    "key": "结婚当天离世新郎系心脏压塞死亡",
    "title": "结婚当天离世新郎系心脏压塞死亡",
    "rating": "A",
@@ -18715,6 +18702,19 @@
    "breaking": true,
    "event_id": "e:消息人士称360市场负责人被带走调查",
    "batch_window": 23
+  },
+  {
+   "key": "openai在现有保护措施基础上推出新的图像分类器可检测潜在的儿童性虐待材料",
+   "title": "OpenAI：在现有保护措施基础上推出新的图像分类器，可检测潜在的儿童性虐待材料",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "拆解OpenAI新图像分类器技术原理，探讨AI在打击CSAM中的法律伦理困境与行业影响",
+   "hook_reason": "AI技术介入儿童安全，伦理与隐私边界成焦点",
+   "url": "https://finance.sina.cn/7x24/2026-11-17/detail-iniyyeuv5827714.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai在现有保护措施基础上推出新的图像分类器可检测潜在的儿童性虐待材料",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -20271,7 +20271,10 @@
   "马天宇听到一家四口热搜的反应",
   "小鹏q3净亏损87亿",
   "亚马尔澄清函全文",
-  "厨房油烟致癌物浓度相当于96支烟"
+  "厨房油烟致癌物浓度相当于96支烟",
+  "nvidiawasintroublebeforethejensenhuangmess",
+  "manyofamazonsblackfridayandcyber686a726c",
+  "保时捷女销冠再夺第一所属公司却半年亏27亿个人业绩拉满公司疯狂失血传统豪华车市场怎么了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21764,7 +21767,10 @@
   "e:马天宇听到一家四口热搜的反应": "马天宇听到一家四口热搜的反应",
   "e:小鹏q3净亏损87亿": "小鹏Q3净亏损8.7亿",
   "e:亚马尔澄清函全文": "亚马尔澄清函全文",
-  "e:厨房油烟致癌物浓度相当于96支烟": "厨房油烟致癌物浓度相当于96支烟"
+  "e:厨房油烟致癌物浓度相当于96支烟": "厨房油烟致癌物浓度相当于96支烟",
+  "e:nvidiawasintroublebeforethejensenhuangme": "Nvidia Was in Trouble Before the Jensen Huang Mess",
+  "e:manyofamazonsblackfridayandcybermondayde": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+  "e:保时捷女销冠再夺第一所属公司却半年亏27亿个人业绩拉满公司疯狂失血传统豪华车市场": "保时捷女销冠再夺第一，所属公司却半年亏 2.7 亿，个人业绩拉满、公司疯狂失血，传统豪华车市场怎么了？"
  },
  "a_seen": {
   "华尔街日报必须道歉": {
@@ -21790,8 +21796,44 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:a股新利好来了"
+  },
+  "nvidiawasintroublebeforethejensenhuangmess": {
+   "key": "nvidiawasintroublebeforethejensenhuangmess",
+   "title": "Nvidia Was in Trouble Before the Jensen Huang Mess",
+   "rating": "A",
+   "score": 83.5,
+   "angle": "英伟达危机前兆：老黄争议背后，AI算力霸主正在经历怎样的信任崩塌与估值重估？",
+   "hook_reason": "英伟达老黄卷入丑闻，股价暴跌，科技圈炸锅，揭秘巨头危机前兆。",
+   "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nvidiawasintroublebeforethejensenhuangme"
+  },
+  "manyofamazonsblackfridayandcyber686a726c": {
+   "key": "manyofamazonsblackfridayandcyber686a726c",
+   "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "揭露亚马逊黑五‘假折扣’内幕，教消费者如何避坑，批判大数据杀熟",
+   "hook_reason": "黑五折扣造假？每3个优惠里就有1个是坑，消费者愤怒",
+   "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:manyofamazonsblackfridayandcybermondayde"
+  },
+  "openai在现有保护措施基础上推出新的图像分类器可检测潜在的儿童性虐待材料": {
+   "key": "openai在现有保护措施基础上推出新的图像分类器可检测潜在的儿童性虐待材料",
+   "title": "OpenAI：在现有保护措施基础上推出新的图像分类器，可检测潜在的儿童性虐待材料",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "拆解OpenAI新图像分类器技术原理，探讨AI在打击CSAM中的法律伦理困境与行业影响",
+   "hook_reason": "AI技术介入儿童安全，伦理与隐私边界成焦点",
+   "url": "https://finance.sina.cn/7x24/2026-11-17/detail-iniyyeuv5827714.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai在现有保护措施基础上推出新的图像分类器可检测潜在的儿童性虐待材料"
   }
  },
- "breaking_count": 8,
- "a_pushed_window": 0
+ "breaking_count": 10,
+ "a_pushed_window": 1
 }
