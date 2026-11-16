@@ -18572,6 +18572,19 @@
    "breaking": true,
    "event_id": "e:如何看待2026年11月15日deepseek关于对话上限长度的调整",
    "batch_window": 9
+  },
+  {
+   "key": "北大399元羽绒服全网刷屏",
+   "title": "北大399元羽绒服全网刷屏",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "北大打破高冷标签，399元羽绒服戳中大众痛点",
+   "hook_reason": "打破高价标签，极致性价比引发全民共鸣",
+   "url": "https://s.weibo.com/weibo?q=北大399元羽绒服全网刷屏",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:北大399元羽绒服全网刷屏",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -21721,6 +21734,18 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:如何看待2026年11月15日deepseek关于对话上限长度的调整"
+  },
+  "北大399元羽绒服全网刷屏": {
+   "key": "北大399元羽绒服全网刷屏",
+   "title": "北大399元羽绒服全网刷屏",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "北大打破高冷标签，399元羽绒服戳中大众痛点",
+   "hook_reason": "打破高价标签，极致性价比引发全民共鸣",
+   "url": "https://s.weibo.com/weibo?q=北大399元羽绒服全网刷屏",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:北大399元羽绒服全网刷屏"
   }
  },
  "breaking_count": 10,
