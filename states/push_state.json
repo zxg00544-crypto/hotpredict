@@ -18676,6 +18676,32 @@
    "breaking": true,
    "event_id": "e:openai在现有保护措施基础上推出新的图像分类器可检测潜在的儿童性虐待材料",
    "batch_window": 1
+  },
+  {
+   "key": "softwareisbreakingdownatasystemiclevel",
+   "title": "Software is breaking down at a systemic level",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "深度拆解Breck McKye观点：AI时代软件架构脆弱性如何倒逼工程范式重构",
+   "hook_reason": "软件系统性崩溃预警，直击科技从业者生存危机",
+   "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:softwareisbreakingdownatasystemiclevel",
+   "batch_window": 4
+  },
+  {
+   "key": "outagesreportedatbankofamericach815433b5",
+   "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+   "rating": "A",
+   "score": 48.41,
+   "angle": "从基础设施角度分析：巨头同时掉线是否意味着金融云依赖的隐形单点故障？",
+   "hook_reason": "全美头部银行集体宕机，波及数亿用户，引发支付瘫痪恐慌",
+   "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:outagesreportedatbankofamericachaseusban",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -21799,6 +21825,30 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:openai在现有保护措施基础上推出新的图像分类器可检测潜在的儿童性虐待材料"
+  },
+  "softwareisbreakingdownatasystemiclevel": {
+   "key": "softwareisbreakingdownatasystemiclevel",
+   "title": "Software is breaking down at a systemic level",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "深度拆解Breck McKye观点：AI时代软件架构脆弱性如何倒逼工程范式重构",
+   "hook_reason": "软件系统性崩溃预警，直击科技从业者生存危机",
+   "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:softwareisbreakingdownatasystemiclevel"
+  },
+  "outagesreportedatbankofamericach815433b5": {
+   "key": "outagesreportedatbankofamericach815433b5",
+   "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+   "rating": "A",
+   "score": 48.41,
+   "angle": "从基础设施角度分析：巨头同时掉线是否意味着金融云依赖的隐形单点故障？",
+   "hook_reason": "全美头部银行集体宕机，波及数亿用户，引发支付瘫痪恐慌",
+   "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:outagesreportedatbankofamericachaseusban"
   }
  },
  "breaking_count": 10,
