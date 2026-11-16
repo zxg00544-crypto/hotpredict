@@ -18613,17 +18613,43 @@
    "batch_window": 10
   },
   {
-   "key": "中俄美元首会晤将在深圳举行",
-   "title": "中俄美元首会晤将在深圳举行",
+   "key": "伊朗与两个国家达成霍尔木兹海峡协议",
+   "title": "伊朗与两个国家达成霍尔木兹海峡协议",
    "rating": "A",
-   "score": 88.74,
-   "angle": "解读会晤信号：从外交博弈到资本布局，预判哪些行业将率先受益",
-   "hook_reason": "中美俄高层会晤在即，地缘博弈或引爆市场避险与供应链重构",
-   "url": "https://s.weibo.com/weibo?q=中俄美元首会晤将在深圳举行",
+   "score": 90.0,
+   "angle": "解析地缘博弈对原油定价的传导机制及亚太进口国库存策略。",
+   "hook_reason": "全球能源大动脉“阀门”异动，油价与供应链命运悬于一线。",
+   "url": "https://www.toutiao.com/trending/7708365552078766602/",
    "track": "财经",
    "breaking": true,
-   "event_id": "e:中俄美元首会晤将在深圳举行",
-   "batch_window": 11
+   "event_id": "e:伊朗与两个国家达成霍尔木兹海峡协议",
+   "batch_window": 12
+  },
+  {
+   "key": "qwen4max",
+   "title": "Qwen4-Max",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "深度解析Qwen4-Max技术突破，评估其对AI开发者的实际影响",
+   "hook_reason": "Qwen4-Max突袭登顶，大模型性能跃升引发热议",
+   "url": "https://qwen.ai/blog?id=qwen4-max",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:qwen4max",
+   "batch_window": 12
+  },
+  {
+   "key": "华为matex8发布会时间",
+   "title": "华为MateX8发布会时间",
+   "rating": "A",
+   "score": 56.86,
+   "angle": "深度解读Mate X8发布时间背后的行业节奏与竞争策略",
+   "hook_reason": "华为顶流品牌，折叠屏迭代，数码圈必争之地",
+   "url": "https://s.weibo.com/weibo?q=华为MateX8发布会时间",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为matex8发布会时间",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -20159,7 +20185,8 @@
   "高中累死累活读书后遗症",
   "美国股市为何暴跌",
   "北大399元羽绒服全网刷屏",
-  "沪指跌破3600点"
+  "沪指跌破3600点",
+  "中俄美元首会晤将在深圳举行"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21631,7 +21658,8 @@
   "e:高中累死累活读书后遗症": "高中累死累活读书后遗症",
   "e:美国股市为何暴跌": "美国股市为何暴跌",
   "e:北大399元羽绒服全网刷屏": "北大399元羽绒服全网刷屏",
-  "e:沪指跌破3600点": "沪指跌破3600点"
+  "e:沪指跌破3600点": "沪指跌破3600点",
+  "e:中俄美元首会晤将在深圳举行": "中俄美元首会晤将在深圳举行"
  },
  "a_seen": {
   "美国众议院议员正在讨论黄仁勋听证会的日期": {
@@ -21849,8 +21877,44 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:中俄美元首会晤将在深圳举行"
+  },
+  "伊朗与两个国家达成霍尔木兹海峡协议": {
+   "key": "伊朗与两个国家达成霍尔木兹海峡协议",
+   "title": "伊朗与两个国家达成霍尔木兹海峡协议",
+   "rating": "A",
+   "score": 90.0,
+   "angle": "解析地缘博弈对原油定价的传导机制及亚太进口国库存策略。",
+   "hook_reason": "全球能源大动脉“阀门”异动，油价与供应链命运悬于一线。",
+   "url": "https://www.toutiao.com/trending/7708365552078766602/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗与两个国家达成霍尔木兹海峡协议"
+  },
+  "qwen4max": {
+   "key": "qwen4max",
+   "title": "Qwen4-Max",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "深度解析Qwen4-Max技术突破，评估其对AI开发者的实际影响",
+   "hook_reason": "Qwen4-Max突袭登顶，大模型性能跃升引发热议",
+   "url": "https://qwen.ai/blog?id=qwen4-max",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:qwen4max"
+  },
+  "华为matex8发布会时间": {
+   "key": "华为matex8发布会时间",
+   "title": "华为MateX8发布会时间",
+   "rating": "A",
+   "score": 56.86,
+   "angle": "深度解读Mate X8发布时间背后的行业节奏与竞争策略",
+   "hook_reason": "华为顶流品牌，折叠屏迭代，数码圈必争之地",
+   "url": "https://s.weibo.com/weibo?q=华为MateX8发布会时间",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为matex8发布会时间"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
