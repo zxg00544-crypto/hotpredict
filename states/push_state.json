@@ -18652,19 +18652,6 @@
    "batch_window": 13
   },
   {
-   "key": "羽绒服为什么越卖越贵",
-   "title": "羽绒服为什么越卖越贵",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "从供需与品牌溢价双维度解析羽绒服涨价的财经底层逻辑",
-   "hook_reason": "直击钱包焦虑，揭秘消费背后的通胀逻辑",
-   "url": "https://www.baidu.com/s?wd=%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:羽绒服为什么越卖越贵",
-   "batch_window": 14
-  },
-  {
    "key": "deepseek因算力不足限额",
    "title": "DeepSeek因算力不足限额",
    "rating": "A",
@@ -18676,6 +18663,32 @@
    "breaking": true,
    "event_id": "e:deepseek因算力不足限额",
    "batch_window": 14
+  },
+  {
+   "key": "黄仁勋要夺回英伟达",
+   "title": "黄仁勋要夺回英伟达",
+   "rating": "A",
+   "score": 44.95,
+   "angle": "黄仁勋夺权英伟达？深度拆解CEO与董事会的权力博弈及资本市场影响",
+   "hook_reason": "芯片巨头上演宫斗大戏，揭秘黄仁勋权力斗争与商业版图重构",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋要夺回英伟达",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋要夺回英伟达",
+   "batch_window": 15
+  },
+  {
+   "key": "a股调整近4300股下跌",
+   "title": "A股调整近4300股下跌",
+   "rating": "A",
+   "score": 43.5,
+   "angle": "复盘4300股下跌背后的资金逻辑，预判短期企稳信号及散户生存策略",
+   "hook_reason": "大跌恐慌与错失抄底机会的焦虑直击投资者痛点",
+   "url": "https://s.weibo.com/weibo?q=A股调整近4300股下跌",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股调整近4300股下跌",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -20214,7 +20227,8 @@
   "沪指跌破3600点",
   "中俄美元首会晤将在深圳举行",
   "伊朗与两个国家达成霍尔木兹海峡协议",
-  "a股到底跌透了没有"
+  "a股到底跌透了没有",
+  "羽绒服为什么越卖越贵"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21689,7 +21703,8 @@
   "e:沪指跌破3600点": "沪指跌破3600点",
   "e:中俄美元首会晤将在深圳举行": "中俄美元首会晤将在深圳举行",
   "e:伊朗与两个国家达成霍尔木兹海峡协议": "伊朗与两个国家达成霍尔木兹海峡协议",
-  "e:a股到底跌透了没有": "A股到底跌透了没有"
+  "e:a股到底跌透了没有": "A股到底跌透了没有",
+  "e:羽绒服为什么越卖越贵": "羽绒服为什么越卖越贵"
  },
  "a_seen": {
   "美国众议院议员正在讨论黄仁勋听证会的日期": {
@@ -21991,8 +22006,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:deepseek因算力不足限额"
+  },
+  "黄仁勋要夺回英伟达": {
+   "key": "黄仁勋要夺回英伟达",
+   "title": "黄仁勋要夺回英伟达",
+   "rating": "A",
+   "score": 44.95,
+   "angle": "黄仁勋夺权英伟达？深度拆解CEO与董事会的权力博弈及资本市场影响",
+   "hook_reason": "芯片巨头上演宫斗大戏，揭秘黄仁勋权力斗争与商业版图重构",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋要夺回英伟达",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋要夺回英伟达"
+  },
+  "a股调整近4300股下跌": {
+   "key": "a股调整近4300股下跌",
+   "title": "A股调整近4300股下跌",
+   "rating": "A",
+   "score": 43.5,
+   "angle": "复盘4300股下跌背后的资金逻辑，预判短期企稳信号及散户生存策略",
+   "hook_reason": "大跌恐慌与错失抄底机会的焦虑直击投资者痛点",
+   "url": "https://s.weibo.com/weibo?q=A股调整近4300股下跌",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股调整近4300股下跌"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 14
+ "a_pushed_window": 15
 }
