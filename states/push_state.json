@@ -18730,19 +18730,6 @@
    "batch_window": 21
   },
   {
-   "key": "特朗普抵达菲律宾现场响起熟悉的歌",
-   "title": "特朗普抵达菲律宾 现场响起熟悉的歌",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "深度解析‘熟悉的歌’具体指代，结合特朗普近期访菲行程，探讨中菲关系微妙信号及舆论风向。",
-   "hook_reason": "元首出访引发围观，现场插曲暴露外交细节或文化冲突，满足猎奇与立场讨论欲。",
-   "url": "https://www.toutiao.com/trending/7709069472107348022/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:特朗普抵达菲律宾现场响起熟悉的歌",
-   "batch_window": 22
-  },
-  {
    "key": "a股为何没等来大反弹",
    "title": "A股为何没等来大反弹",
    "rating": "A",
@@ -18767,6 +18754,32 @@
    "breaking": true,
    "event_id": "e:特朗普启程亚洲行准备参与apec会议称可能与金正恩委员长会面哪些信息值得关注",
    "batch_window": 22
+  },
+  {
+   "key": "雷军apec现场挨个发名片",
+   "title": "雷军APEC现场挨个发名片",
+   "rating": "A",
+   "score": 74.06,
+   "angle": "分析雷军密集社交背后的小米新战略及创始人形象管理",
+   "hook_reason": "雷军细节暴露商业焦虑与社交圈层变化",
+   "url": "https://s.weibo.com/weibo?q=雷军APEC现场挨个发名片",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:雷军apec现场挨个发名片",
+   "batch_window": 23
+  },
+  {
+   "key": "小米18真机曝光",
+   "title": "小米18真机曝光",
+   "rating": "A",
+   "score": 68.6,
+   "angle": "拆解曝光图与参数，预判小米18与iPhone17正面交锋",
+   "hook_reason": "雷军新机未发先爆，数码党与米粉狂喜",
+   "url": "https://s.weibo.com/weibo?q=小米18真机曝光",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米18真机曝光",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -20347,7 +20360,8 @@
   "如何看待俞敏洪再谈南极游事件称南极风波让自己重新思考企业应该为谁而活",
   "字节无班味聊天软件",
   "男子月薪过万公司按4千基数缴社保被裁后追讨暴露了哪些问题该如何维权",
-  "youragentwillpickthehackableone"
+  "youragentwillpickthehackableone",
+  "特朗普抵达菲律宾现场响起熟悉的歌"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21864,7 +21878,8 @@
   "e:如何看待俞敏洪再谈南极游事件称南极风波让自己重新思考企业应该为谁而活": "如何看待俞敏洪再谈南极游事件，称南极风波让自己重新思考企业应该为谁而活？",
   "e:字节无班味聊天软件": "字节 无班味聊天软件",
   "e:男子月薪过万公司按4千基数缴社保被裁后追讨暴露了哪些问题该如何维权": "男子月薪过万公司按 4 千基数缴社保被裁后追讨，暴露了哪些问题？该如何维权？",
-  "e:youragentwillpickthehackableone": "Your Agent Will Pick the Hackable One"
+  "e:youragentwillpickthehackableone": "Your Agent Will Pick the Hackable One",
+  "e:特朗普抵达菲律宾现场响起熟悉的歌": "特朗普抵达菲律宾 现场响起熟悉的歌"
  },
  "a_seen": {
   "华尔街日报必须道歉": {
@@ -22250,8 +22265,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:特朗普启程亚洲行准备参与apec会议称可能与金正恩委员长会面哪些信息值得关注"
+  },
+  "雷军apec现场挨个发名片": {
+   "key": "雷军apec现场挨个发名片",
+   "title": "雷军APEC现场挨个发名片",
+   "rating": "A",
+   "score": 74.06,
+   "angle": "分析雷军密集社交背后的小米新战略及创始人形象管理",
+   "hook_reason": "雷军细节暴露商业焦虑与社交圈层变化",
+   "url": "https://s.weibo.com/weibo?q=雷军APEC现场挨个发名片",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:雷军apec现场挨个发名片"
+  },
+  "小米18真机曝光": {
+   "key": "小米18真机曝光",
+   "title": "小米18真机曝光",
+   "rating": "A",
+   "score": 68.6,
+   "angle": "拆解曝光图与参数，预判小米18与iPhone17正面交锋",
+   "hook_reason": "雷军新机未发先爆，数码党与米粉狂喜",
+   "url": "https://s.weibo.com/weibo?q=小米18真机曝光",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:小米18真机曝光"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
