@@ -13179,19 +13179,6 @@
    "batch_window": 17
   },
   {
-   "key": "伊朗将英国海军空军列为恐怖组织",
-   "title": "伊朗将英国海军空军列为恐怖组织",
-   "rating": "A",
-   "score": 80.45,
-   "angle": "从地缘政治视角分析伊朗此举的战略信号，及对中东格局、能源市场的连锁影响",
-   "hook_reason": "伊朗突然定性英国军队为恐怖组织，中东局势急剧升级，冲击力强",
-   "url": "https://s.weibo.com/weibo?q=伊朗将英国海军空军列为恐怖组织",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:伊朗将英国海军空军列为恐怖组织",
-   "batch_window": 17
-  },
-  {
    "key": "ai问诊和医生看病不是一回事",
    "title": "AI问诊和医生看病不是一回事",
    "rating": "A",
@@ -18767,6 +18754,32 @@
    "breaking": true,
    "event_id": "e:怎么会有人把豆包训成老伴了",
    "batch_window": 6
+  },
+  {
+   "key": "java4shellrceinopenjdkwhenprocessingbase64",
+   "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "解析Java4Shell漏洞原理,评估企业Java栈暴露风险与修复策略",
+   "hook_reason": "OpenJDK致命漏洞,全平台Java系统面临风险",
+   "url": "https://calif.io/java4shell/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:java4shellrceinopenjdkwhenprocessingbase",
+   "batch_window": 7
+  },
+  {
+   "key": "英伟达财报公布后美股期货大涨",
+   "title": "英伟达财报公布后美股期货大涨",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "英伟达财报超预期，解读AI算力需求爆发对美股科技板块及A股相关产业链的传导逻辑",
+   "hook_reason": "AI算力龙头财报引爆市场，美股期货应声大涨，投资者焦虑与机遇并存",
+   "url": "https://finance.sina.cn/7x24/2026-11-18/detail-inizayrr1808125.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英伟达财报公布后美股期货大涨",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -20365,7 +20378,8 @@
   "字节多领域追赶腾讯",
   "如何看待2026年11月15日deepseek关于对话上限长度的调整",
   "特朗普启程亚洲行准备参与apec会议称可能与金正恩委员长会面哪些信息值得关注",
-  "普京凌晨抵达深圳现场画面"
+  "普京凌晨抵达深圳现场画面",
+  "伊朗将英国海军空军列为恐怖组织"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21900,7 +21914,8 @@
   "e:字节多领域追赶腾讯": "字节多领域追赶腾讯",
   "e:如何看待2026年11月15日deepseek关于对话上限长度的调整": "如何看待2026年11月15日deepseek关于对话上限长度的调整？",
   "e:特朗普启程亚洲行准备参与apec会议称可能与金正恩委员长会面哪些信息值得关注": "特朗普启程亚洲行，准备参与 APEC 会议，称「可能与金正恩委员长会面」，哪些信息值得关注？",
-  "e:普京凌晨抵达深圳现场画面": "普京凌晨抵达深圳现场画面"
+  "e:普京凌晨抵达深圳现场画面": "普京凌晨抵达深圳现场画面",
+  "e:伊朗将英国海军空军列为恐怖组织": "伊朗将英国海军空军列为恐怖组织"
  },
  "a_seen": {
   "雷军apec台上台下的反差感": {
@@ -21998,8 +22013,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:怎么会有人把豆包训成老伴了"
+  },
+  "java4shellrceinopenjdkwhenprocessingbase64": {
+   "key": "java4shellrceinopenjdkwhenprocessingbase64",
+   "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "解析Java4Shell漏洞原理,评估企业Java栈暴露风险与修复策略",
+   "hook_reason": "OpenJDK致命漏洞,全平台Java系统面临风险",
+   "url": "https://calif.io/java4shell/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:java4shellrceinopenjdkwhenprocessingbase"
+  },
+  "英伟达财报公布后美股期货大涨": {
+   "key": "英伟达财报公布后美股期货大涨",
+   "title": "英伟达财报公布后美股期货大涨",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "英伟达财报超预期，解读AI算力需求爆发对美股科技板块及A股相关产业链的传导逻辑",
+   "hook_reason": "AI算力龙头财报引爆市场，美股期货应声大涨，投资者焦虑与机遇并存",
+   "url": "https://finance.sina.cn/7x24/2026-11-18/detail-inizayrr1808125.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英伟达财报公布后美股期货大涨"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
