@@ -18728,6 +18728,19 @@
    "breaking": true,
    "event_id": "e:a股成交146万亿",
    "batch_window": 20
+  },
+  {
+   "key": "郑渊洁手搓ai动画短片",
+   "title": "郑渊洁手搓AI动画短片",
+   "rating": "A",
+   "score": 53.94,
+   "angle": "郑渊洁手搓AI动画，揭秘大IP如何用AI重构内容生产力",
+   "hook_reason": "童话大王亲自下场，AI创作颠覆传统动画认知",
+   "url": "https://s.weibo.com/weibo?q=郑渊洁手搓AI动画短片",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:郑渊洁手搓ai动画短片",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -22142,9 +22155,9 @@
    "key": "小米回应雷军apec发言紧张",
    "title": "小米回应雷军APEC发言紧张",
    "rating": "A",
-   "score": 82.5,
-   "angle": "解读雷军'示弱'背后的商业叙事策略：从完美CEO到真实个人的品牌资产迁移。",
-   "hook_reason": "雷军自曝紧张，反叛精英人设，引发职场与公众演讲共鸣。",
+   "score": 80.45,
+   "angle": "雷军APEC发言紧张，官方回应展现真实一面，科技大佬人性化反差",
+   "hook_reason": "雷军APEC发言紧张引热议，小米官方回应，科技大佬真实反差萌",
    "url": "https://s.weibo.com/weibo?q=小米回应雷军APEC发言紧张",
    "track": "大咖发言",
    "breaking": true,
@@ -22161,6 +22174,18 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:a股成交146万亿"
+  },
+  "郑渊洁手搓ai动画短片": {
+   "key": "郑渊洁手搓ai动画短片",
+   "title": "郑渊洁手搓AI动画短片",
+   "rating": "A",
+   "score": 53.94,
+   "angle": "郑渊洁手搓AI动画，揭秘大IP如何用AI重构内容生产力",
+   "hook_reason": "童话大王亲自下场，AI创作颠覆传统动画认知",
+   "url": "https://s.weibo.com/weibo?q=郑渊洁手搓AI动画短片",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:郑渊洁手搓ai动画短片"
   }
  },
  "breaking_count": 10,
