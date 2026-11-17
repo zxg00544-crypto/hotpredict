@@ -18665,19 +18665,6 @@
    "batch_window": 9
   },
   {
-   "key": "17家车企被点名查账",
-   "title": "17家车企被点名查账",
-   "rating": "A",
-   "score": 98.0,
-   "angle": "从审计视角解读车企财务红线，揭秘哪些车企最危险。",
-   "hook_reason": "17家车企被查账，涉及金额巨大，关乎行业生死。",
-   "url": "https://s.weibo.com/weibo?q=17家车企被点名查账",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:17家车企被点名查账",
-   "batch_window": 9
-  },
-  {
    "key": "optimizelycompromisedservedmalwareonzoomgitlab",
    "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
    "rating": "A",
@@ -18689,6 +18676,19 @@
    "breaking": true,
    "event_id": "e:optimizelycompromisedservedmalwareonzoom",
    "batch_window": 9
+  },
+  {
+   "key": "曾毓群李彦宏王兴兴王传福雷军何超琼董明珠李东生周群飞等今天齐聚深圳",
+   "title": "曾毓群、李彦宏、王兴兴、王传福、雷军、何超琼、董明珠、李东生、周群飞等，今天齐聚深圳",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读顶级商业领袖集体聚首深圳的深层意图与产业信号",
+   "hook_reason": "雷董珠王齐聚深圳，大佬罕见同框，揭秘商业圈层新动向。",
+   "url": "https://finance.sina.cn/7x24/2026-11-17/detail-iniyyzym5547647.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:曾毓群李彦宏王兴兴王传福雷军何超琼董明珠李东生周群飞等今天齐聚深圳",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -20256,7 +20256,8 @@
   "袁成杰说会努力还债",
   "13岁少年性侵女童被送专门学校矫治",
   "白小纯怎么敢写训练像坐牢",
-  "catlsodiumbatteryhitslfpcostparifada4823"
+  "catlsodiumbatteryhitslfpcostparifada4823",
+  "17家车企被点名查账"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21760,7 +21761,8 @@
   "e:袁成杰说会努力还债": "袁成杰说会努力还债",
   "e:13岁少年性侵女童被送专门学校矫治": "13岁少年性侵女童被送专门学校矫治",
   "e:白小纯怎么敢写训练像坐牢": "白小纯怎么敢写训练像坐牢",
-  "e:catlsodiumbatteryhitslfpcostparityin2026": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life"
+  "e:catlsodiumbatteryhitslfpcostparityin2026": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
+  "e:17家车企被点名查账": "17家车企被点名查账"
  },
  "a_seen": {
   "华尔街日报必须道歉": {
@@ -21861,11 +21863,11 @@
   },
   "超4500亿国家队资金扫货a股": {
    "key": "超4500亿国家队资金扫货a股",
-   "title": "超4500亿国家队资金扫货A股",
+   "title": "超4500亿“国家队”资金扫货A股",
    "rating": "A",
-   "score": 82.82,
-   "angle": "拆解4500亿资金流向，分析国家队护盘逻辑与散户操作误区",
-   "hook_reason": "国家队4500亿扫货，散户是否该跟风？",
+   "score": 81.72,
+   "angle": "解析国家队扫货逻辑：是短期维稳还是长期利好？散户如何判断进场时机？",
+   "hook_reason": "4500亿巨资入场，散户最关心是否该抄底",
    "url": "https://www.toutiao.com/trending/7708757117192405531/",
    "track": "财经",
    "breaking": true,
@@ -21894,8 +21896,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:optimizelycompromisedservedmalwareonzoom"
+  },
+  "曾毓群李彦宏王兴兴王传福雷军何超琼董明珠李东生周群飞等今天齐聚深圳": {
+   "key": "曾毓群李彦宏王兴兴王传福雷军何超琼董明珠李东生周群飞等今天齐聚深圳",
+   "title": "曾毓群、李彦宏、王兴兴、王传福、雷军、何超琼、董明珠、李东生、周群飞等，今天齐聚深圳",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读顶级商业领袖集体聚首深圳的深层意图与产业信号",
+   "hook_reason": "雷董珠王齐聚深圳，大佬罕见同框，揭秘商业圈层新动向。",
+   "url": "https://finance.sina.cn/7x24/2026-11-17/detail-iniyyzym5547647.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:曾毓群李彦宏王兴兴王传福雷军何超琼董明珠李东生周群飞等今天齐聚深圳"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
