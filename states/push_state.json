@@ -18754,6 +18754,19 @@
    "breaking": true,
    "event_id": "e:openai首席执行官奥特曼62sol与astra现已发布这两",
    "batch_window": 5
+  },
+  {
+   "key": "普京凌晨抵达深圳现场画面",
+   "title": "普京凌晨抵达深圳现场画面",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解析普京凌晨访深对华强合作的深层逻辑与潜在经贸红利",
+   "hook_reason": "元首凌晨现身深圳，释放重磅经贸合作信号",
+   "url": "https://s.weibo.com/weibo?q=普京凌晨抵达深圳现场画面",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:普京凌晨抵达深圳现场画面",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -21959,6 +21972,18 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:openai首席执行官奥特曼62sol与astra现已发布这两"
+  },
+  "普京凌晨抵达深圳现场画面": {
+   "key": "普京凌晨抵达深圳现场画面",
+   "title": "普京凌晨抵达深圳现场画面",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解析普京凌晨访深对华强合作的深层逻辑与潜在经贸红利",
+   "hook_reason": "元首凌晨现身深圳，释放重磅经贸合作信号",
+   "url": "https://s.weibo.com/weibo?q=普京凌晨抵达深圳现场画面",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:普京凌晨抵达深圳现场画面"
   }
  },
  "breaking_count": 10,
