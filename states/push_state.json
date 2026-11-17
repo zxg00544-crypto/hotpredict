@@ -18676,6 +18676,19 @@
    "breaking": true,
    "event_id": "e:曾毓群李彦宏王兴兴王传福雷军何超琼董明珠李东生周群飞等今天齐聚深圳",
    "batch_window": 10
+  },
+  {
+   "key": "信小呆辞职兑奖花光积蓄",
+   "title": "信小呆辞职兑奖花光积蓄",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "深度复盘彩票中奖后的非理性消费陷阱，探讨普通人的财富观重构。",
+   "hook_reason": "中彩票却致破产？揭秘'信小呆'的财富黑洞与人生教训。",
+   "url": "https://s.weibo.com/weibo?q=信小呆辞职兑奖花光积蓄",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:信小呆辞职兑奖花光积蓄",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -21897,6 +21910,18 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:曾毓群李彦宏王兴兴王传福雷军何超琼董明珠李东生周群飞等今天齐聚深圳"
+  },
+  "信小呆辞职兑奖花光积蓄": {
+   "key": "信小呆辞职兑奖花光积蓄",
+   "title": "信小呆辞职兑奖花光积蓄",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "深度复盘彩票中奖后的非理性消费陷阱，探讨普通人的财富观重构。",
+   "hook_reason": "中彩票却致破产？揭秘'信小呆'的财富黑洞与人生教训。",
+   "url": "https://s.weibo.com/weibo?q=信小呆辞职兑奖花光积蓄",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:信小呆辞职兑奖花光积蓄"
   }
  },
  "breaking_count": 10,
