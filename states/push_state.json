@@ -16143,19 +16143,6 @@
    "batch_window": 6
   },
   {
-   "key": "catlsodiumbatteryhitslfpcostparifada4823",
-   "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
-   "rating": "A",
-   "score": 81.5,
-   "angle": "深度解析CATL钠电技术突破：如何以低成本长寿命重塑储能与新能源格局",
-   "hook_reason": "钠电平替锂电，30年寿命打破认知，能源革命加速。",
-   "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:catlsodiumbatteryhitslfpcostparityin2026",
-   "batch_window": 8
-  },
-  {
    "key": "3城人均住户存款超20万",
    "title": "3城人均住户存款超20万",
    "rating": "A",
@@ -18663,6 +18650,45 @@
    "breaking": true,
    "event_id": "e:cnn援引七名美国官员的话报道美国情报显示伊朗计划在华盛顿特区投放炸弹伊朗计",
    "batch_window": 7
+  },
+  {
+   "key": "超4500亿国家队资金扫货a股",
+   "title": "超4500亿国家队资金扫货A股",
+   "rating": "A",
+   "score": 82.82,
+   "angle": "拆解4500亿资金流向，分析国家队护盘逻辑与散户操作误区",
+   "hook_reason": "国家队4500亿扫货，散户是否该跟风？",
+   "url": "https://www.toutiao.com/trending/7708757117192405531/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:超4500亿国家队资金扫货a股",
+   "batch_window": 9
+  },
+  {
+   "key": "17家车企被点名查账",
+   "title": "17家车企被点名查账",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "从审计视角解读车企财务红线，揭秘哪些车企最危险。",
+   "hook_reason": "17家车企被查账，涉及金额巨大，关乎行业生死。",
+   "url": "https://s.weibo.com/weibo?q=17家车企被点名查账",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:17家车企被点名查账",
+   "batch_window": 9
+  },
+  {
+   "key": "optimizelycompromisedservedmalwareonzoomgitlab",
+   "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "供应链安全警钟：当Optimizely沦陷，企业SaaS依赖风险爆发",
+   "hook_reason": "全球最大品牌遭供应链投毒，Zoom/GitLab全中",
+   "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:optimizelycompromisedservedmalwareonzoom",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -20229,7 +20255,8 @@
   "如何看待北京交通大学官方表态雄安校区已被明确为学校的唯一主校区",
   "袁成杰说会努力还债",
   "13岁少年性侵女童被送专门学校矫治",
-  "白小纯怎么敢写训练像坐牢"
+  "白小纯怎么敢写训练像坐牢",
+  "catlsodiumbatteryhitslfpcostparifada4823"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21732,7 +21759,8 @@
   "e:如何看待北京交通大学官方表态雄安校区已被明确为学校的唯一主校区": "如何看待北京交通大学官方表态，雄安校区已被明确为学校的唯一主校区？",
   "e:袁成杰说会努力还债": "袁成杰说会努力还债",
   "e:13岁少年性侵女童被送专门学校矫治": "13岁少年性侵女童被送专门学校矫治",
-  "e:白小纯怎么敢写训练像坐牢": "白小纯怎么敢写训练像坐牢"
+  "e:白小纯怎么敢写训练像坐牢": "白小纯怎么敢写训练像坐牢",
+  "e:catlsodiumbatteryhitslfpcostparityin2026": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life"
  },
  "a_seen": {
   "华尔街日报必须道歉": {
@@ -21830,8 +21858,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:cnn援引七名美国官员的话报道美国情报显示伊朗计划在华盛顿特区投放炸弹伊朗计"
+  },
+  "超4500亿国家队资金扫货a股": {
+   "key": "超4500亿国家队资金扫货a股",
+   "title": "超4500亿国家队资金扫货A股",
+   "rating": "A",
+   "score": 82.82,
+   "angle": "拆解4500亿资金流向，分析国家队护盘逻辑与散户操作误区",
+   "hook_reason": "国家队4500亿扫货，散户是否该跟风？",
+   "url": "https://www.toutiao.com/trending/7708757117192405531/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:超4500亿国家队资金扫货a股"
+  },
+  "17家车企被点名查账": {
+   "key": "17家车企被点名查账",
+   "title": "17家车企被点名查账",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "从审计视角解读车企财务红线，揭秘哪些车企最危险。",
+   "hook_reason": "17家车企被查账，涉及金额巨大，关乎行业生死。",
+   "url": "https://s.weibo.com/weibo?q=17家车企被点名查账",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:17家车企被点名查账"
+  },
+  "optimizelycompromisedservedmalwareonzoomgitlab": {
+   "key": "optimizelycompromisedservedmalwareonzoomgitlab",
+   "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "供应链安全警钟：当Optimizely沦陷，企业SaaS依赖风险爆发",
+   "hook_reason": "全球最大品牌遭供应链投毒，Zoom/GitLab全中",
+   "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:optimizelycompromisedservedmalwareonzoom"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
