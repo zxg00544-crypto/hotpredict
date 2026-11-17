@@ -15285,19 +15285,6 @@
    "batch_window": 10
   },
   {
-   "key": "小伙200多万买14套房年收租21万成功实现30岁退休这是怎么做到的会涉及交税问题吗",
-   "title": "小伙200多万买14套房年收租21万，成功实现30岁退休，这是怎么做到的？会涉及交税问题吗？",
-   "rating": "A",
-   "score": 80.5,
-   "angle": "从个案切入房价、租金回报率、房产税等现实议题，引发阶层流动讨论",
-   "hook_reason": "30岁退休+买房收租，直击年轻人财务焦虑与房产话题双重痛点",
-   "url": "https://www.zhihu.com/question/2101275943104951665",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:小伙200多万买14套房年收租21万成功实现30岁退休这是怎么做到的会涉及交税问",
-   "batch_window": 11
-  },
-  {
    "key": "starfallaffordableroutineaccesstomicrogravity",
    "title": "Starfall – Affordable, routine access to microgravity",
    "rating": "A",
@@ -18767,6 +18754,32 @@
    "breaking": true,
    "event_id": "e:雷军apec台上台下的反差感",
    "batch_window": 1
+  },
+  {
+   "key": "字节多领域追赶腾讯",
+   "title": "字节多领域追赶腾讯",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "拆解字节追赶路径：从游戏到云服务，技术护城河如何被攻破？",
+   "hook_reason": "双巨头正面交锋，字节多线突围，科技圈格局生变",
+   "url": "https://s.weibo.com/weibo?q=字节多领域追赶腾讯",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:字节多领域追赶腾讯",
+   "batch_window": 2
+  },
+  {
+   "key": "gpt62astraandsol",
+   "title": "GPT‑6.2 Astra and Sol",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "GPT-6.2 Astra/Sol 参数对比及国产模型追赶路径",
+   "hook_reason": "GPT-6.2首发，算力翻倍，颠覆AI格局",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gpt62astraandsol",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -20360,7 +20373,8 @@
   "五角大楼政策主管科尔比美国希望加拿大满足北美防空司令部的要求",
   "四川落石砸中车辆画面",
   "深圳人全妆出街迎apec",
-  "美国一公务机在居民区坠毁致9死距特朗普的海湖庄园仅七八公里具体情况如何可能是什么原因"
+  "美国一公务机在居民区坠毁致9死距特朗普的海湖庄园仅七八公里具体情况如何可能是什么原因",
+  "小伙200多万买14套房年收租21万成功实现30岁退休这是怎么做到的会涉及交税问题吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21890,22 +21904,59 @@
   "e:五角大楼政策主管科尔比美国希望加拿大满足北美防空司令部的要求": "五角大楼政策主管科尔比：美国希望加拿大满足北美防空司令部的要求。",
   "e:四川落石砸中车辆画面": "四川落石砸中车辆画面",
   "e:深圳人全妆出街迎apec": "深圳人全妆出街迎APEC",
-  "e:美国一公务机在居民区坠毁致9死距特朗普的海湖庄园仅七八公里具体情况如何可能是什么": "美国一公务机在居民区坠毁致9死，距特朗普的海湖庄园仅七八公里，具体情况如何？可能是什么原因？"
+  "e:美国一公务机在居民区坠毁致9死距特朗普的海湖庄园仅七八公里具体情况如何可能是什么": "美国一公务机在居民区坠毁致9死，距特朗普的海湖庄园仅七八公里，具体情况如何？可能是什么原因？",
+  "e:小伙200多万买14套房年收租21万成功实现30岁退休这是怎么做到的会涉及交税问": "小伙200多万买14套房年收租21万，成功实现30岁退休，这是怎么做到的？会涉及交税问题吗？"
  },
  "a_seen": {
   "雷军apec台上台下的反差感": {
    "key": "雷军apec台上台下的反差感",
    "title": "雷军APEC台上台下的反差感",
    "rating": "A",
-   "score": 43.95,
-   "angle": "解构雷军从商业大佬到国际舞台的反差表现，探讨企业家个人IP与国家形象的新叙事",
-   "hook_reason": "雷军APEC反差萌，公众人物形象反转，好奇度高",
+   "score": 43.9,
+   "angle": "从APEC高光时刻切入，解读雷军'去魅化'人设对小米品牌年轻化及科技大佬公众形象重塑的深层影响。",
+   "hook_reason": "大佬台上严肃 vs 台下松弛的反差萌，满足窥私欲与共鸣。",
    "url": "https://s.weibo.com/weibo?q=雷军APEC台上台下的反差感",
-   "track": "大咖发言",
+   "track": "科技",
    "breaking": true,
    "event_id": "e:雷军apec台上台下的反差感"
+  },
+  "字节多领域追赶腾讯": {
+   "key": "字节多领域追赶腾讯",
+   "title": "字节多领域追赶腾讯",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "拆解字节追赶路径：从游戏到云服务，技术护城河如何被攻破？",
+   "hook_reason": "双巨头正面交锋，字节多线突围，科技圈格局生变",
+   "url": "https://s.weibo.com/weibo?q=字节多领域追赶腾讯",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:字节多领域追赶腾讯"
+  },
+  "俄罗斯总统普京抵达深圳": {
+   "key": "俄罗斯总统普京抵达深圳",
+   "title": "俄罗斯总统普京抵达深圳",
+   "rating": "A",
+   "score": 69.75,
+   "angle": "解读普京突然访深背后的地缘政治与经济意图，预判对中俄贸易及国内相关板块的影响。",
+   "hook_reason": "普京访深罕见行程，中俄经贸合作新信号，影响深远",
+   "url": "https://search.bilibili.com/all?keyword=俄罗斯总统普京抵达深圳",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:中俄美元首会晤将在深圳举行"
+  },
+  "gpt62astraandsol": {
+   "key": "gpt62astraandsol",
+   "title": "GPT‑6.2 Astra and Sol",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "GPT-6.2 Astra/Sol 参数对比及国产模型追赶路径",
+   "hook_reason": "GPT-6.2首发，算力翻倍，颠覆AI格局",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gpt62astraandsol"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
