@@ -18652,19 +18652,6 @@
    "batch_window": 7
   },
   {
-   "key": "超4500亿国家队资金扫货a股",
-   "title": "超4500亿国家队资金扫货A股",
-   "rating": "A",
-   "score": 82.82,
-   "angle": "拆解4500亿资金流向，分析国家队护盘逻辑与散户操作误区",
-   "hook_reason": "国家队4500亿扫货，散户是否该跟风？",
-   "url": "https://www.toutiao.com/trending/7708757117192405531/",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:超4500亿国家队资金扫货a股",
-   "batch_window": 9
-  },
-  {
    "key": "optimizelycompromisedservedmalwareonzoomgitlab",
    "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
    "rating": "A",
@@ -20257,7 +20244,8 @@
   "13岁少年性侵女童被送专门学校矫治",
   "白小纯怎么敢写训练像坐牢",
   "catlsodiumbatteryhitslfpcostparifada4823",
-  "17家车企被点名查账"
+  "17家车企被点名查账",
+  "超4500亿国家队资金扫货a股"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -21762,7 +21750,8 @@
   "e:13岁少年性侵女童被送专门学校矫治": "13岁少年性侵女童被送专门学校矫治",
   "e:白小纯怎么敢写训练像坐牢": "白小纯怎么敢写训练像坐牢",
   "e:catlsodiumbatteryhitslfpcostparityin2026": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
-  "e:17家车企被点名查账": "17家车企被点名查账"
+  "e:17家车企被点名查账": "17家车企被点名查账",
+  "e:超4500亿国家队资金扫货a股": "超4500亿国家队资金扫货A股"
  },
  "a_seen": {
   "华尔街日报必须道歉": {
@@ -21911,5 +21900,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
