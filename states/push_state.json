@@ -18990,19 +18990,6 @@
    "batch_window": 20
   },
   {
-   "key": "中国军人在空军一号轰鸣声前岿然不动",
-   "title": "中国军人在空军一号轰鸣声前岿然不动",
-   "rating": "A",
-   "score": 87.65,
-   "angle": "从‘静止与轰鸣’的对比切入，解读中国军人的精神气质与国家尊严。",
-   "hook_reason": "视觉冲击极强，体现军人钢铁意志，易引发爱国共鸣",
-   "url": "https://www.toutiao.com/trending/7709461334986870281/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:中国军人在空军一号轰鸣声前岿然不动",
-   "batch_window": 20
-  },
-  {
    "key": "canpeerreviewsurviveaigeneratedtextpdf",
    "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
    "rating": "A",
@@ -19079,6 +19066,45 @@
    "breaking": true,
    "event_id": "e:unauthenticatedremotecodeexecutioninngin",
    "batch_window": 3
+  },
+  {
+   "key": "genie4isnowavailable",
+   "title": "Genie 4 is now available",
+   "rating": "A",
+   "score": 79.0,
+   "angle": "解读Genie 4如何改变游戏与仿真行业，探讨AI基础设施新趋势",
+   "hook_reason": "谷歌DeepMind发布Genie 4，AI世界模型技术重大突破",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:genie4isnowavailable",
+   "batch_window": 4
+  },
+  {
+   "key": "sevennewmodelsatscalablepriceperformance",
+   "title": "Seven new models at scalable price-performance",
+   "rating": "A",
+   "score": 55.16,
+   "angle": "分析微软新模型定价策略对行业生态的冲击及开发者机遇",
+   "hook_reason": "微软Ignite发布7款高性价比新模型，AI价格战升级",
+   "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:sevennewmodelsatscalablepriceperformance",
+   "batch_window": 4
+  },
+  {
+   "key": "三艘违规油轮在霍尔木兹海峡东部起火",
+   "title": "三艘违规油轮在霍尔木兹海峡东部起火。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解析油轮起火对全球能源供应链的冲击及油价波动预测。",
+   "hook_reason": "油价命脉突发事故，地缘冲突引爆市场恐慌。",
+   "url": "https://finance.sina.cn/7x24/2026-11-19/detail-inizfcqr1209915.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗陆军三艘油轮在霍尔木兹海峡以东海域触雷后起火并停航此前这些船只无视了海军",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -20708,7 +20734,8 @@
   "豆包画不对13个鸡蛋",
   "特朗普感受到了深圳市民的热情",
   "养老保险缴够15年就能坐等退休系谣言",
-  "特朗普抵达深圳中方战机拉起彩烟"
+  "特朗普抵达深圳中方战机拉起彩烟",
+  "中国军人在空军一号轰鸣声前岿然不动"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22274,7 +22301,8 @@
   "e:豆包画不对13个鸡蛋": "豆包画不对13个鸡蛋",
   "e:特朗普感受到了深圳市民的热情": "特朗普感受到了深圳市民的热情",
   "e:养老保险缴够15年就能坐等退休系谣言": "养老保险缴够15年就能坐等退休系谣言",
-  "e:特朗普抵达深圳中方战机拉起彩烟": "特朗普抵达深圳中方战机拉起彩烟"
+  "e:特朗普抵达深圳中方战机拉起彩烟": "特朗普抵达深圳中方战机拉起彩烟",
+  "e:中国军人在空军一号轰鸣声前岿然不动": "中国军人在空军一号轰鸣声前岿然不动"
  },
  "a_seen": {
   "养老保险缴够15年就能坐等退休系谣言": {
@@ -22348,8 +22376,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:unauthenticatedremotecodeexecutioninngin"
+  },
+  "genie4isnowavailable": {
+   "key": "genie4isnowavailable",
+   "title": "Genie 4 is now available",
+   "rating": "A",
+   "score": 79.0,
+   "angle": "解读Genie 4如何改变游戏与仿真行业，探讨AI基础设施新趋势",
+   "hook_reason": "谷歌DeepMind发布Genie 4，AI世界模型技术重大突破",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:genie4isnowavailable"
+  },
+  "sevennewmodelsatscalablepriceperformance": {
+   "key": "sevennewmodelsatscalablepriceperformance",
+   "title": "Seven new models at scalable price-performance",
+   "rating": "A",
+   "score": 55.16,
+   "angle": "分析微软新模型定价策略对行业生态的冲击及开发者机遇",
+   "hook_reason": "微软Ignite发布7款高性价比新模型，AI价格战升级",
+   "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:sevennewmodelsatscalablepriceperformance"
+  },
+  "三艘违规油轮在霍尔木兹海峡东部起火": {
+   "key": "三艘违规油轮在霍尔木兹海峡东部起火",
+   "title": "三艘违规油轮在霍尔木兹海峡东部起火。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解析油轮起火对全球能源供应链的冲击及油价波动预测。",
+   "hook_reason": "油价命脉突发事故，地缘冲突引爆市场恐慌。",
+   "url": "https://finance.sina.cn/7x24/2026-11-19/detail-inizfcqr1209915.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗陆军三艘油轮在霍尔木兹海峡以东海域触雷后起火并停航此前这些船只无视了海军"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
