@@ -13491,19 +13491,6 @@
    "batch_window": 8
   },
   {
-   "key": "今年乌镇峰会首次向社会开放预约",
-   "title": "今年乌镇峰会首次向社会开放预约",
-   "rating": "A",
-   "score": 80.35,
-   "angle": "从公众视角切入，解读乌镇峰会开放背后的科技普惠信号与互联网大会改革方向",
-   "hook_reason": "乌镇峰会首次向公众开放，普通人也能参与顶级科技盛会",
-   "url": "https://s.weibo.com/weibo?q=今年乌镇峰会首次向社会开放预约",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:今年乌镇峰会首次向社会开放预约",
-   "batch_window": 9
-  },
-  {
    "key": "质疑假院士水货后对方找上门",
    "title": "质疑假院士水货后对方找上门",
    "rating": "A",
@@ -19105,6 +19092,19 @@
    "breaking": true,
    "event_id": "e:据cme美联储观察美联储12月加息25个基点的概率为927",
    "batch_window": 6
+  },
+  {
+   "key": "gemini4neon",
+   "title": "Gemini 4 Neon",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "深度解析Gemini 4技术突破及对市场格局的影响，预判行业风向。",
+   "hook_reason": "Gemini 4发布，AI大模型迭代加速，技术圈震动。",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gemini4neon",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -20737,7 +20737,8 @@
   "特朗普抵达深圳中方战机拉起彩烟",
   "中国军人在空军一号轰鸣声前岿然不动",
   "湘雅二院论文尺子1厘米12格",
-  "美国总统特朗普抵达深圳"
+  "美国总统特朗普抵达深圳",
+  "今年乌镇峰会首次向社会开放预约"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22306,7 +22307,8 @@
   "e:特朗普抵达深圳中方战机拉起彩烟": "特朗普抵达深圳中方战机拉起彩烟",
   "e:中国军人在空军一号轰鸣声前岿然不动": "中国军人在空军一号轰鸣声前岿然不动",
   "e:湘雅二院论文尺子1厘米12格": "湘雅二院论文尺子1厘米12格",
-  "e:美国总统特朗普抵达深圳": "美国总统特朗普抵达深圳"
+  "e:美国总统特朗普抵达深圳": "美国总统特朗普抵达深圳",
+  "e:今年乌镇峰会首次向社会开放预约": "今年乌镇峰会首次向社会开放预约"
  },
  "a_seen": {
   "养老保险缴够15年就能坐等退休系谣言": {
@@ -22452,8 +22454,20 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:据cme美联储观察美联储12月加息25个基点的概率为927"
+  },
+  "gemini4neon": {
+   "key": "gemini4neon",
+   "title": "Gemini 4 Neon",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "深度解析Gemini 4技术突破及对市场格局的影响，预判行业风向。",
+   "hook_reason": "Gemini 4发布，AI大模型迭代加速，技术圈震动。",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gemini4neon"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
