@@ -19029,17 +19029,43 @@
    "batch_window": 23
   },
   {
-   "key": "养老保险缴够15年就能坐等退休系谣言",
-   "title": "养老保险缴够15年就能坐等退休系谣言",
+   "key": "microsoftaisevennewworldclassmod1a297e5b",
+   "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
    "rating": "A",
-   "score": 90.5,
-   "angle": "澄清15年仅是最低门槛而非终身保障，解析养老金计发月数与缴费年限的正相关逻辑。",
-   "hook_reason": "颠覆“缴满15年即躺平”的认知，直击全民养老焦虑，引发自查与恐慌。",
-   "url": "https://s.weibo.com/weibo?q=养老保险缴够15年就能坐等退休系谣言",
+   "score": 76.5,
+   "angle": "解读微软Ignite发布会：7款新模型如何重塑企业AI成本结构与竞争格局",
+   "hook_reason": "微软一次性发7款模型，价格屠夫，打不过DeepSeek？",
+   "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:microsoftaisevennewworldclassmodelsatsca",
+   "batch_window": 2
+  },
+  {
+   "key": "coreweave淡化黄仁勋离任影响称英伟达仍是关键合作伙伴",
+   "title": "CoreWeave淡化黄仁勋离任影响，称英伟达仍是关键合作伙伴",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "黄仁勋离任后，CoreWeave为何强调英伟达仍是关键伙伴？AI算力供应链的稳定性博弈与未来布局",
+   "hook_reason": "巨头变局，淡化离任影响，供应链格局生变",
+   "url": "https://finance.sina.cn/7x24/2026-11-19/detail-inizexht1318366.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:coreweave淡化黄仁勋离任影响称英伟达仍是关键合作伙伴",
+   "batch_window": 2
+  },
+  {
+   "key": "中俄美元首同框",
+   "title": "中俄美元首同框",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "深度解读三边同框的微妙姿态，预测全球秩序重构",
+   "hook_reason": "罕见三边元首同框，释放重磅地缘信号",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86&sa=fyb_news&rsv_dl=fyb_news",
    "track": "社会热点",
    "breaking": true,
-   "event_id": "e:养老保险缴够15年就能坐等退休系谣言",
-   "batch_window": 1
+   "event_id": "e:中俄美元首同框",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -20667,7 +20693,8 @@
   "美国国土安全部长穆林不处理英伟达及黄仁勋相关事务这不在我的职责范围内",
   "老外被中国刷手机丝滑到了",
   "豆包画不对13个鸡蛋",
-  "特朗普感受到了深圳市民的热情"
+  "特朗普感受到了深圳市民的热情",
+  "养老保险缴够15年就能坐等退休系谣言"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22231,7 +22258,8 @@
   "e:美国国土安全部长穆林不处理英伟达及黄仁勋相关事务这不在我的职责范围内": "美国国土安全部长穆林：不处理英伟达及黄仁勋相关事务，这“不在我的职责范围内”。",
   "e:老外被中国刷手机丝滑到了": "老外被中国刷手机丝滑到了",
   "e:豆包画不对13个鸡蛋": "豆包画不对13个鸡蛋",
-  "e:特朗普感受到了深圳市民的热情": "特朗普感受到了深圳市民的热情"
+  "e:特朗普感受到了深圳市民的热情": "特朗普感受到了深圳市民的热情",
+  "e:养老保险缴够15年就能坐等退休系谣言": "养老保险缴够15年就能坐等退休系谣言"
  },
  "a_seen": {
   "养老保险缴够15年就能坐等退休系谣言": {
@@ -22245,8 +22273,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:养老保险缴够15年就能坐等退休系谣言"
+  },
+  "microsoftaisevennewworldclassmod1a297e5b": {
+   "key": "microsoftaisevennewworldclassmod1a297e5b",
+   "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "解读微软Ignite发布会：7款新模型如何重塑企业AI成本结构与竞争格局",
+   "hook_reason": "微软一次性发7款模型，价格屠夫，打不过DeepSeek？",
+   "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:microsoftaisevennewworldclassmodelsatsca"
+  },
+  "coreweave淡化黄仁勋离任影响称英伟达仍是关键合作伙伴": {
+   "key": "coreweave淡化黄仁勋离任影响称英伟达仍是关键合作伙伴",
+   "title": "CoreWeave淡化黄仁勋离任影响，称英伟达仍是关键合作伙伴",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "黄仁勋离任后，CoreWeave为何强调英伟达仍是关键伙伴？AI算力供应链的稳定性博弈与未来布局",
+   "hook_reason": "巨头变局，淡化离任影响，供应链格局生变",
+   "url": "https://finance.sina.cn/7x24/2026-11-19/detail-inizexht1318366.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:coreweave淡化黄仁勋离任影响称英伟达仍是关键合作伙伴"
+  },
+  "中俄美元首同框": {
+   "key": "中俄美元首同框",
+   "title": "中俄美元首同框",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "深度解读三边同框的微妙姿态，预测全球秩序重构",
+   "hook_reason": "罕见三边元首同框，释放重磅地缘信号",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中俄美元首同框"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
