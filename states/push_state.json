@@ -19027,6 +19027,32 @@
    "breaking": true,
    "event_id": "e:马斯克现身特朗普随行大巴车",
    "batch_window": 20
+  },
+  {
+   "key": "金价连跌有人重启1克买金大法",
+   "title": "金价连跌有人重启1克买金大法",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "深度解析‘1克买金’策略在金价波动下的有效性及风险，提供理性投资建议",
+   "hook_reason": "金价连跌引发大众‘1克买金’理财方法回归，涉及投资与消费决策",
+   "url": "https://s.weibo.com/weibo?q=金价连跌有人重启1克买金大法",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:金价连跌有人重启1克买金大法",
+   "batch_window": 20
+  },
+  {
+   "key": "中国军人在空军一号轰鸣声前岿然不动",
+   "title": "中国军人在空军一号轰鸣声前岿然不动",
+   "rating": "A",
+   "score": 87.65,
+   "angle": "从‘静止与轰鸣’的对比切入，解读中国军人的精神气质与国家尊严。",
+   "hook_reason": "视觉冲击极强，体现军人钢铁意志，易引发爱国共鸣",
+   "url": "https://www.toutiao.com/trending/7709461334986870281/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国军人在空军一号轰鸣声前岿然不动",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -22694,6 +22720,30 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:马斯克现身特朗普随行大巴车"
+  },
+  "金价连跌有人重启1克买金大法": {
+   "key": "金价连跌有人重启1克买金大法",
+   "title": "金价连跌有人重启1克买金大法",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "深度解析‘1克买金’策略在金价波动下的有效性及风险，提供理性投资建议",
+   "hook_reason": "金价连跌引发大众‘1克买金’理财方法回归，涉及投资与消费决策",
+   "url": "https://s.weibo.com/weibo?q=金价连跌有人重启1克买金大法",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:金价连跌有人重启1克买金大法"
+  },
+  "中国军人在空军一号轰鸣声前岿然不动": {
+   "key": "中国军人在空军一号轰鸣声前岿然不动",
+   "title": "中国军人在空军一号轰鸣声前岿然不动",
+   "rating": "A",
+   "score": 87.65,
+   "angle": "从‘静止与轰鸣’的对比切入，解读中国军人的精神气质与国家尊严。",
+   "hook_reason": "视觉冲击极强，体现军人钢铁意志，易引发爱国共鸣",
+   "url": "https://www.toutiao.com/trending/7709461334986870281/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:中国军人在空军一号轰鸣声前岿然不动"
   }
  },
  "breaking_count": 10,
