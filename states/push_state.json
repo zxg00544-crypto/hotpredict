@@ -18912,19 +18912,6 @@
    "batch_window": 17
   },
   {
-   "key": "湘雅二院论文尺子1厘米12格",
-   "title": "湘雅二院论文尺子1厘米12格",
-   "rating": "A",
-   "score": 87.0,
-   "angle": "从'1厘米12格'的荒诞细节切入，深扒学术造假产业链及对普通考生的信任危机",
-   "hook_reason": "顶级医学院涉嫌造假，学术诚信崩塌，全民愤怒与担忧",
-   "url": "https://s.weibo.com/weibo?q=湘雅二院论文尺子1厘米12格",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:湘雅二院论文尺子1厘米12格",
-   "batch_window": 18
-  },
-  {
    "key": "美国总统特朗普抵达深圳出席apec深圳峰会本次迎接仪式有哪些亮点还有哪些信息值得关注",
    "title": "美国总统特朗普抵达深圳，出席 APEC 深圳峰会，本次迎接仪式有哪些亮点？还有哪些信息值得关注？",
    "rating": "A",
@@ -19105,6 +19092,19 @@
    "breaking": true,
    "event_id": "e:伊朗陆军三艘油轮在霍尔木兹海峡以东海域触雷后起火并停航此前这些船只无视了海军",
    "batch_window": 4
+  },
+  {
+   "key": "anthropic将扩大其ipo规模",
+   "title": "Anthropic将扩大其IPO规模。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "拆解Anthropic扩大IPO对一级市场估值体系及二级AI板块的传导效应",
+   "hook_reason": "AI龙头IPO加码，估值与盈利逻辑生变",
+   "url": "https://finance.sina.cn/7x24/2026-11-19/detail-inizfcqr6528073.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:anthropic将扩大其ipo规模",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -20735,7 +20735,8 @@
   "特朗普感受到了深圳市民的热情",
   "养老保险缴够15年就能坐等退休系谣言",
   "特朗普抵达深圳中方战机拉起彩烟",
-  "中国军人在空军一号轰鸣声前岿然不动"
+  "中国军人在空军一号轰鸣声前岿然不动",
+  "湘雅二院论文尺子1厘米12格"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22302,7 +22303,8 @@
   "e:特朗普感受到了深圳市民的热情": "特朗普感受到了深圳市民的热情",
   "e:养老保险缴够15年就能坐等退休系谣言": "养老保险缴够15年就能坐等退休系谣言",
   "e:特朗普抵达深圳中方战机拉起彩烟": "特朗普抵达深圳中方战机拉起彩烟",
-  "e:中国军人在空军一号轰鸣声前岿然不动": "中国军人在空军一号轰鸣声前岿然不动"
+  "e:中国军人在空军一号轰鸣声前岿然不动": "中国军人在空军一号轰鸣声前岿然不动",
+  "e:湘雅二院论文尺子1厘米12格": "湘雅二院论文尺子1厘米12格"
  },
  "a_seen": {
   "养老保险缴够15年就能坐等退休系谣言": {
@@ -22412,8 +22414,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:伊朗陆军三艘油轮在霍尔木兹海峡以东海域触雷后起火并停航此前这些船只无视了海军"
+  },
+  "anthropic将扩大其ipo规模": {
+   "key": "anthropic将扩大其ipo规模",
+   "title": "Anthropic将扩大其IPO规模。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "拆解Anthropic扩大IPO对一级市场估值体系及二级AI板块的传导效应",
+   "hook_reason": "AI龙头IPO加码，估值与盈利逻辑生变",
+   "url": "https://finance.sina.cn/7x24/2026-11-19/detail-inizfcqr6528073.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:anthropic将扩大其ipo规模"
+  },
+  "unauthenticatedremotecodeexecutioninnginx": {
+   "key": "unauthenticatedremotecodeexecutioninnginx",
+   "title": "Unauthenticated remote code execution in Nginx",
+   "rating": "A",
+   "score": 54.82,
+   "angle": "Nginx HTTP/2未认证RCE：如何紧急缓解？谁在盯着你的生产环境？",
+   "hook_reason": "Nginx零日漏洞爆发，服务器瞬间变“裸奔”，运维人集体失眠",
+   "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:unauthenticatedremotecodeexecutioninngin"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
