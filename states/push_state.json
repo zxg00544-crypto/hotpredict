@@ -18925,19 +18925,6 @@
    "batch_window": 18
   },
   {
-   "key": "特朗普抵达深圳中方战机拉起彩烟",
-   "title": "特朗普抵达深圳中方战机拉起彩烟",
-   "rating": "A",
-   "score": 87.75,
-   "angle": "辨析谣言：澄清特朗普并未访华，指出这是旧闻或恶搞视频，科普事实核查重要性。",
-   "hook_reason": "特朗普访华？战机拉彩烟！信息反差巨大，引发全民震惊与好奇。",
-   "url": "https://s.weibo.com/weibo?q=特朗普抵达深圳中方战机拉起彩烟",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:特朗普抵达深圳中方战机拉起彩烟",
-   "batch_window": 19
-  },
-  {
    "key": "美国总统特朗普抵达深圳出席apec深圳峰会本次迎接仪式有哪些亮点还有哪些信息值得关注",
    "title": "美国总统特朗普抵达深圳，出席 APEC 深圳峰会，本次迎接仪式有哪些亮点？还有哪些信息值得关注？",
    "rating": "A",
@@ -19066,6 +19053,32 @@
    "breaking": true,
    "event_id": "e:中俄美元首同框",
    "batch_window": 2
+  },
+  {
+   "key": "美联储会议纪要许多官员认为ai建设是通胀风险的重要来源",
+   "title": "美联储会议纪要：许多官员认为AI建设是通胀风险的重要来源。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "解读美联储纪要中‘AI通胀’新提法，分析算力军备竞赛如何悄然推高CPI，预判降息逻辑变化",
+   "hook_reason": "AI算力消耗推高电费通胀，美联储纪要揭示科技与宏观经济的隐性冲突",
+   "url": "https://finance.sina.cn/7x24/2026-11-19/detail-inizexht1330768.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储释放信号通胀持续不排除加息50个基点",
+   "batch_window": 3
+  },
+  {
+   "key": "unauthenticatedremotecodeexecuti3d8ceaec",
+   "title": "Unauthenticated remote code execution in Nginx (CVE-2026-123633/CVE-2026-123007)",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "解析Nginx高危漏洞影响范围及紧急修复指南",
+   "hook_reason": "顶级安全漏洞，关乎所有网站安全",
+   "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:unauthenticatedremotecodeexecutioninngin",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -20694,7 +20707,8 @@
   "老外被中国刷手机丝滑到了",
   "豆包画不对13个鸡蛋",
   "特朗普感受到了深圳市民的热情",
-  "养老保险缴够15年就能坐等退休系谣言"
+  "养老保险缴够15年就能坐等退休系谣言",
+  "特朗普抵达深圳中方战机拉起彩烟"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22259,7 +22273,8 @@
   "e:老外被中国刷手机丝滑到了": "老外被中国刷手机丝滑到了",
   "e:豆包画不对13个鸡蛋": "豆包画不对13个鸡蛋",
   "e:特朗普感受到了深圳市民的热情": "特朗普感受到了深圳市民的热情",
-  "e:养老保险缴够15年就能坐等退休系谣言": "养老保险缴够15年就能坐等退休系谣言"
+  "e:养老保险缴够15年就能坐等退休系谣言": "养老保险缴够15年就能坐等退休系谣言",
+  "e:特朗普抵达深圳中方战机拉起彩烟": "特朗普抵达深圳中方战机拉起彩烟"
  },
  "a_seen": {
   "养老保险缴够15年就能坐等退休系谣言": {
@@ -22309,8 +22324,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:中俄美元首同框"
+  },
+  "美联储会议纪要许多官员认为ai建设是通胀风险的重要来源": {
+   "key": "美联储会议纪要许多官员认为ai建设是通胀风险的重要来源",
+   "title": "美联储会议纪要：许多官员认为AI建设是通胀风险的重要来源。",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "解读美联储纪要中‘AI通胀’新提法，分析算力军备竞赛如何悄然推高CPI，预判降息逻辑变化",
+   "hook_reason": "AI算力消耗推高电费通胀，美联储纪要揭示科技与宏观经济的隐性冲突",
+   "url": "https://finance.sina.cn/7x24/2026-11-19/detail-inizexht1330768.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储释放信号通胀持续不排除加息50个基点"
+  },
+  "unauthenticatedremotecodeexecuti3d8ceaec": {
+   "key": "unauthenticatedremotecodeexecuti3d8ceaec",
+   "title": "Unauthenticated remote code execution in Nginx (CVE-2026-123633/CVE-2026-123007)",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "解析Nginx高危漏洞影响范围及紧急修复指南",
+   "hook_reason": "顶级安全漏洞，关乎所有网站安全",
+   "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:unauthenticatedremotecodeexecutioninngin"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
