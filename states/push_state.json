@@ -18834,19 +18834,6 @@
    "batch_window": 13
   },
   {
-   "key": "普京说感谢中国",
-   "title": "普京说感谢中国",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "深度解析普京此言背后的中俄战略博弈与地缘政治信号",
-   "hook_reason": "大国元首互评，情绪强烈且关乎国家利益",
-   "url": "https://s.weibo.com/weibo?q=普京说感谢中国",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:普京说感谢中国",
-   "batch_window": 15
-  },
-  {
    "key": "日本网友最羡慕中国的哪一点",
    "title": "日本网友最羡慕中国的哪一点",
    "rating": "A",
@@ -18910,6 +18897,45 @@
    "breaking": true,
    "event_id": "e:aiiskillingallaboutberlin",
    "batch_window": 16
+  },
+  {
+   "key": "智利总统在深圳逛水果店",
+   "title": "智利总统在深圳逛水果店",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从‘亲民外交’切入，分析中国软实力对全球政客的吸引力",
+   "hook_reason": "高冷总统逛街反差萌，打破刻板印象",
+   "url": "https://s.weibo.com/weibo?q=智利总统在深圳逛水果店",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:智利总统在深圳逛水果店",
+   "batch_window": 17
+  },
+  {
+   "key": "美国总统特朗普抵达深圳",
+   "title": "美国总统特朗普抵达深圳",
+   "rating": "A",
+   "score": 86.45,
+   "angle": "特朗普到访深圳背后的商业逻辑：是贸易缓和信号还是科技博弈新战线？",
+   "hook_reason": "特朗普现身深圳，打破外交惯例，地缘与商业双重悬念引爆全网。",
+   "url": "https://search.bilibili.com/all?keyword=美国总统特朗普抵达深圳",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:美国总统特朗普抵达深圳",
+   "batch_window": 17
+  },
+  {
+   "key": "马斯克回应又要来中国造梗了",
+   "title": "马斯克回应又要来中国造梗了",
+   "rating": "A",
+   "score": 44.4,
+   "angle": "解码马斯克“造梗”背后的文化自信与流量逻辑，分析其对中国市场的深层态度。",
+   "hook_reason": "全球顶流大佬回应中国网络热梗，打破刻板印象，极具反差与好奇心。",
+   "url": "https://s.weibo.com/weibo?q=马斯克回应又要来中国造梗了",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克回应又要来中国造梗了",
+   "batch_window": 17
   }
  ],
  "pushed": [
@@ -20518,7 +20544,8 @@
   "司美格鲁肽副作用",
   "apec会议近700辆红旗车全流程接待",
   "魏建军回应于东来复购310辆坦克700",
-  "张昊玥直播被封"
+  "张昊玥直播被封",
+  "普京说感谢中国"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22063,7 +22090,8 @@
   "e:司美格鲁肽副作用": "司美格鲁肽副作用",
   "e:apec会议近700辆红旗车全流程接待": "APEC会议近700辆红旗车全流程接待",
   "e:魏建军回应于东来复购310辆坦克700": "魏建军回应于东来复购310辆坦克700",
-  "e:张昊玥直播被封": "张昊玥直播被封"
+  "e:张昊玥直播被封": "张昊玥直播被封",
+  "e:普京说感谢中国": "普京说感谢中国"
  },
  "a_seen": {
   "雷军apec台上台下的反差感": {
@@ -22406,15 +22434,51 @@
    "key": "aiiskillingallaboutberlin",
    "title": "AI is killing All About Berlin",
    "rating": "A",
-   "score": 40.95,
-   "angle": "探讨AI如何冲击垂类内容生态，以柏林网站案例剖析",
-   "hook_reason": "AI杀死柏林经典音乐网站，引发行业生存焦虑",
+   "score": 75.1,
+   "angle": "AI如何精准打击垂直领域创意项目？从柏林案例看行业洗牌",
+   "hook_reason": "AI替代传统创意产业，柏林All About Berlin项目宣告死亡",
    "url": "https://nicolasbouliane.com/blog/death-by-ai",
    "track": "科技",
    "breaking": true,
    "event_id": "e:aiiskillingallaboutberlin"
+  },
+  "智利总统在深圳逛水果店": {
+   "key": "智利总统在深圳逛水果店",
+   "title": "智利总统在深圳逛水果店",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从‘亲民外交’切入，分析中国软实力对全球政客的吸引力",
+   "hook_reason": "高冷总统逛街反差萌，打破刻板印象",
+   "url": "https://s.weibo.com/weibo?q=智利总统在深圳逛水果店",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:智利总统在深圳逛水果店"
+  },
+  "美国总统特朗普抵达深圳": {
+   "key": "美国总统特朗普抵达深圳",
+   "title": "美国总统特朗普抵达深圳",
+   "rating": "A",
+   "score": 86.45,
+   "angle": "特朗普到访深圳背后的商业逻辑：是贸易缓和信号还是科技博弈新战线？",
+   "hook_reason": "特朗普现身深圳，打破外交惯例，地缘与商业双重悬念引爆全网。",
+   "url": "https://search.bilibili.com/all?keyword=美国总统特朗普抵达深圳",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:美国总统特朗普抵达深圳"
+  },
+  "马斯克回应又要来中国造梗了": {
+   "key": "马斯克回应又要来中国造梗了",
+   "title": "马斯克回应又要来中国造梗了",
+   "rating": "A",
+   "score": 44.4,
+   "angle": "解码马斯克“造梗”背后的文化自信与流量逻辑，分析其对中国市场的深层态度。",
+   "hook_reason": "全球顶流大佬回应中国网络热梗，打破刻板印象，极具反差与好奇心。",
+   "url": "https://s.weibo.com/weibo?q=马斯克回应又要来中国造梗了",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克回应又要来中国造梗了"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 16
+ "a_pushed_window": 17
 }
