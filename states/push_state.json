@@ -18886,19 +18886,6 @@
    "batch_window": 16
   },
   {
-   "key": "智利总统在深圳逛水果店",
-   "title": "智利总统在深圳逛水果店",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "从‘亲民外交’切入，分析中国软实力对全球政客的吸引力",
-   "hook_reason": "高冷总统逛街反差萌，打破刻板印象",
-   "url": "https://s.weibo.com/weibo?q=智利总统在深圳逛水果店",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:智利总统在深圳逛水果店",
-   "batch_window": 17
-  },
-  {
    "key": "美国总统特朗普抵达深圳",
    "title": "美国总统特朗普抵达深圳",
    "rating": "A",
@@ -18949,6 +18936,84 @@
    "breaking": true,
    "event_id": "e:湘雅二院论文尺子1厘米12格",
    "batch_window": 18
+  },
+  {
+   "key": "中美元首握手",
+   "title": "中美元首握手",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解读握手背后的经济信号：外资信心、贸易政策对股市的即时影响。",
+   "hook_reason": "元首会晤定调，市场情绪瞬间反转，影响资产走向。",
+   "url": "https://s.weibo.com/weibo?q=中美元首握手",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:中美元首握手",
+   "batch_window": 19
+  },
+  {
+   "key": "特朗普抵达深圳中方战机拉起彩烟",
+   "title": "特朗普抵达深圳中方战机拉起彩烟",
+   "rating": "A",
+   "score": 87.75,
+   "angle": "辨析谣言：澄清特朗普并未访华，指出这是旧闻或恶搞视频，科普事实核查重要性。",
+   "hook_reason": "特朗普访华？战机拉彩烟！信息反差巨大，引发全民震惊与好奇。",
+   "url": "https://s.weibo.com/weibo?q=特朗普抵达深圳中方战机拉起彩烟",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:特朗普抵达深圳中方战机拉起彩烟",
+   "batch_window": 19
+  },
+  {
+   "key": "美国总统特朗普抵达深圳出席apec深圳峰会本次迎接仪式有哪些亮点还有哪些信息值得关注",
+   "title": "美国总统特朗普抵达深圳，出席 APEC 深圳峰会，本次迎接仪式有哪些亮点？还有哪些信息值得关注？",
+   "rating": "A",
+   "score": 75.2,
+   "angle": "从特朗普深圳行程看中美高层互动新窗口，结合APEC科技议程解析对全球供应链的潜在影响",
+   "hook_reason": "特朗普现身深圳APEC，顶流政治人物与东方科技重镇碰撞，视觉反差极大",
+   "url": "https://www.zhihu.com/question/2106401577850200853",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:美国总统特朗普抵达深圳出席apec深圳峰会本次迎接仪式有哪些亮点还有哪些信息值得",
+   "batch_window": 19
+  },
+  {
+   "key": "普京到访深圳高校并发表演讲",
+   "title": "普京到访深圳高校并发表演讲",
+   "rating": "A",
+   "score": 60.02,
+   "angle": "普京深圳之行：地缘政治下的科技城新角色",
+   "hook_reason": "普京空降深圳高校，地缘政治与科技城碰撞",
+   "url": "https://s.weibo.com/weibo?q=普京到访深圳高校并发表演讲",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:普京到访深圳高校并发表演讲",
+   "batch_window": 19
+  },
+  {
+   "key": "workbuddy成中国使用量最高ai产品",
+   "title": "WorkBuddy成中国使用量最高AI产品",
+   "rating": "A",
+   "score": 44.5,
+   "angle": "揭秘WorkBuddy为何能超越ChatGPT：不仅是工具，更是中国AI普惠化与办公革命的分水岭。",
+   "hook_reason": "国产AI登顶使用量榜首，打破国外垄断焦虑，技术自信与就业替代的强情绪共振。",
+   "url": "https://s.weibo.com/weibo?q=WorkBuddy成中国使用量最高AI产品",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:workbuddy成中国使用量最高ai产品",
+   "batch_window": 19
+  },
+  {
+   "key": "外国记者apec被荣耀机器人手机硬控",
+   "title": "外国记者APEC被荣耀机器人手机硬控",
+   "rating": "A",
+   "score": 43.3,
+   "angle": "从APEC场景切入，解析荣耀机器人手机如何实现跨文化“硬控”及科技出海软实力",
+   "hook_reason": "外国记者被中国机器人手机“硬控”，反差萌+文化自信",
+   "url": "https://s.weibo.com/weibo?q=外国记者APEC被荣耀机器人手机硬控",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:外国记者apec被荣耀机器人手机硬控",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -20559,7 +20624,8 @@
   "魏建军回应于东来复购310辆坦克700",
   "张昊玥直播被封",
   "普京说感谢中国",
-  "日本网友最羡慕中国的哪一点"
+  "日本网友最羡慕中国的哪一点",
+  "智利总统在深圳逛水果店"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22106,7 +22172,8 @@
   "e:魏建军回应于东来复购310辆坦克700": "魏建军回应于东来复购310辆坦克700",
   "e:张昊玥直播被封": "张昊玥直播被封",
   "e:普京说感谢中国": "普京说感谢中国",
-  "e:日本网友最羡慕中国的哪一点": "日本网友最羡慕中国的哪一点"
+  "e:日本网友最羡慕中国的哪一点": "日本网友最羡慕中国的哪一点",
+  "e:智利总统在深圳逛水果店": "智利总统在深圳逛水果店"
  },
  "a_seen": {
   "雷军apec台上台下的反差感": {
@@ -22516,8 +22583,80 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:湘雅二院论文尺子1厘米12格"
+  },
+  "中美元首握手": {
+   "key": "中美元首握手",
+   "title": "中美元首握手",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解读握手背后的经济信号：外资信心、贸易政策对股市的即时影响。",
+   "hook_reason": "元首会晤定调，市场情绪瞬间反转，影响资产走向。",
+   "url": "https://s.weibo.com/weibo?q=中美元首握手",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:中美元首握手"
+  },
+  "特朗普抵达深圳中方战机拉起彩烟": {
+   "key": "特朗普抵达深圳中方战机拉起彩烟",
+   "title": "特朗普抵达深圳中方战机拉起彩烟",
+   "rating": "A",
+   "score": 87.75,
+   "angle": "辨析谣言：澄清特朗普并未访华，指出这是旧闻或恶搞视频，科普事实核查重要性。",
+   "hook_reason": "特朗普访华？战机拉彩烟！信息反差巨大，引发全民震惊与好奇。",
+   "url": "https://s.weibo.com/weibo?q=特朗普抵达深圳中方战机拉起彩烟",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:特朗普抵达深圳中方战机拉起彩烟"
+  },
+  "美国总统特朗普抵达深圳出席apec深圳峰会本次迎接仪式有哪些亮点还有哪些信息值得关注": {
+   "key": "美国总统特朗普抵达深圳出席apec深圳峰会本次迎接仪式有哪些亮点还有哪些信息值得关注",
+   "title": "美国总统特朗普抵达深圳，出席 APEC 深圳峰会，本次迎接仪式有哪些亮点？还有哪些信息值得关注？",
+   "rating": "A",
+   "score": 75.2,
+   "angle": "从特朗普深圳行程看中美高层互动新窗口，结合APEC科技议程解析对全球供应链的潜在影响",
+   "hook_reason": "特朗普现身深圳APEC，顶流政治人物与东方科技重镇碰撞，视觉反差极大",
+   "url": "https://www.zhihu.com/question/2106401577850200853",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:美国总统特朗普抵达深圳出席apec深圳峰会本次迎接仪式有哪些亮点还有哪些信息值得"
+  },
+  "普京到访深圳高校并发表演讲": {
+   "key": "普京到访深圳高校并发表演讲",
+   "title": "普京到访深圳高校并发表演讲",
+   "rating": "A",
+   "score": 60.02,
+   "angle": "普京深圳之行：地缘政治下的科技城新角色",
+   "hook_reason": "普京空降深圳高校，地缘政治与科技城碰撞",
+   "url": "https://s.weibo.com/weibo?q=普京到访深圳高校并发表演讲",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:普京到访深圳高校并发表演讲"
+  },
+  "workbuddy成中国使用量最高ai产品": {
+   "key": "workbuddy成中国使用量最高ai产品",
+   "title": "WorkBuddy成中国使用量最高AI产品",
+   "rating": "A",
+   "score": 44.5,
+   "angle": "揭秘WorkBuddy为何能超越ChatGPT：不仅是工具，更是中国AI普惠化与办公革命的分水岭。",
+   "hook_reason": "国产AI登顶使用量榜首，打破国外垄断焦虑，技术自信与就业替代的强情绪共振。",
+   "url": "https://s.weibo.com/weibo?q=WorkBuddy成中国使用量最高AI产品",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:workbuddy成中国使用量最高ai产品"
+  },
+  "外国记者apec被荣耀机器人手机硬控": {
+   "key": "外国记者apec被荣耀机器人手机硬控",
+   "title": "外国记者APEC被荣耀机器人手机硬控",
+   "rating": "A",
+   "score": 43.3,
+   "angle": "从APEC场景切入，解析荣耀机器人手机如何实现跨文化“硬控”及科技出海软实力",
+   "hook_reason": "外国记者被中国机器人手机“硬控”，反差萌+文化自信",
+   "url": "https://s.weibo.com/weibo?q=外国记者APEC被荣耀机器人手机硬控",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:外国记者apec被荣耀机器人手机硬控"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
