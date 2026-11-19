@@ -19196,6 +19196,19 @@
    "breaking": true,
    "event_id": "e:特朗普普京盛赞中国",
    "batch_window": 20
+  },
+  {
+   "key": "中俄美元首和平宣言",
+   "title": "中俄美元首和平宣言",
+   "rating": "A",
+   "score": 97.5,
+   "angle": "解读和平宣言中的经贸条款，预判跨境资本流向变化",
+   "hook_reason": "元首会晤释放经济信号，直接影响A股与汇率",
+   "url": "https://search.bilibili.com/all?keyword=中俄美元首和平宣言",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:中俄美元首和平宣言",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -22847,6 +22860,18 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:特朗普普京盛赞中国"
+  },
+  "中俄美元首和平宣言": {
+   "key": "中俄美元首和平宣言",
+   "title": "中俄美元首和平宣言",
+   "rating": "A",
+   "score": 97.5,
+   "angle": "解读和平宣言中的经贸条款，预判跨境资本流向变化",
+   "hook_reason": "元首会晤释放经济信号，直接影响A股与汇率",
+   "url": "https://search.bilibili.com/all?keyword=中俄美元首和平宣言",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:中俄美元首和平宣言"
   }
  },
  "breaking_count": 10,
