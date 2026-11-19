@@ -17859,19 +17859,6 @@
    "batch_window": 16
   },
   {
-   "key": "男婴因黄疸鼻塞入新生儿科次日死亡",
-   "title": "男婴因黄疸鼻塞入新生儿科次日死亡",
-   "rating": "A",
-   "score": 80.25,
-   "angle": "深度复盘婴儿黄疸误诊疑云，揭示高危新生儿护理的致命盲区",
-   "hook_reason": "新生儿住院次日死亡，极致悲痛引发医疗信任危机",
-   "url": "https://s.weibo.com/weibo?q=男婴因黄疸鼻塞入新生儿科次日死亡",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:男婴因黄疸鼻塞入新生儿科次日死亡",
-   "batch_window": 19
-  },
-  {
    "key": "英伟达架构有多逆天",
    "title": "英伟达架构有多逆天",
    "rating": "A",
@@ -19222,6 +19209,32 @@
    "breaking": true,
    "event_id": "e:马斯克在空军一号看中美元首互动",
    "batch_window": 23
+  },
+  {
+   "key": "whyaiwantstobelocalwithpetewardebbe8a19b",
+   "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "深度解读Moonshine技术突破，揭示AI去中心化趋势对硬件及隐私保护的革命性影响",
+   "hook_reason": "AI巨头转向本地化，打破云端垄断，隐私与性能双重利好",
+   "url": "https://thedataexchange.media/pete-warden-moonshine/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whyaiwantstobelocalwithpetewardencreator",
+   "batch_window": 1
+  },
+  {
+   "key": "马斯克从深圳飞到了上海",
+   "title": "马斯克从深圳飞到了上海",
+   "rating": "A",
+   "score": 43.95,
+   "angle": "结合其上海行程背景，深度解读马斯克访华背后的产业逻辑与个人态度",
+   "hook_reason": "顶级科技领袖现身中国，打破预期，自带巨大流量与悬念",
+   "url": "https://s.weibo.com/weibo?q=马斯克从深圳飞到了上海",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克从深圳飞到了上海",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -20882,7 +20895,8 @@
   "文吉儿又有新综艺了",
   "千问在平头哥芯片训练模型",
   "王毅送别美俄元首后举行记者会",
-  "警方通报孙某军因情感纠纷行凶"
+  "警方通报孙某军因情感纠纷行凶",
+  "男婴因黄疸鼻塞入新生儿科次日死亡"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22479,7 +22493,8 @@
   "e:文吉儿又有新综艺了": "文吉儿又有新综艺了",
   "e:千问在平头哥芯片训练模型": "千问在平头哥芯片训练模型",
   "e:王毅送别美俄元首后举行记者会": "王毅送别美俄元首后举行记者会",
-  "e:警方通报孙某军因情感纠纷行凶": "警方通报孙某军因情感纠纷行凶"
+  "e:警方通报孙某军因情感纠纷行凶": "警方通报孙某军因情感纠纷行凶",
+  "e:男婴因黄疸鼻塞入新生儿科次日死亡": "男婴因黄疸鼻塞入新生儿科次日死亡"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -22505,8 +22520,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:千问在平头哥芯片训练模型"
+  },
+  "whyaiwantstobelocalwithpetewardebbe8a19b": {
+   "key": "whyaiwantstobelocalwithpetewardebbe8a19b",
+   "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "深度解读Moonshine技术突破，揭示AI去中心化趋势对硬件及隐私保护的革命性影响",
+   "hook_reason": "AI巨头转向本地化，打破云端垄断，隐私与性能双重利好",
+   "url": "https://thedataexchange.media/pete-warden-moonshine/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whyaiwantstobelocalwithpetewardencreator"
+  },
+  "马斯克从深圳飞到了上海": {
+   "key": "马斯克从深圳飞到了上海",
+   "title": "马斯克从深圳飞到了上海",
+   "rating": "A",
+   "score": 43.95,
+   "angle": "结合其上海行程背景，深度解读马斯克访华背后的产业逻辑与个人态度",
+   "hook_reason": "顶级科技领袖现身中国，打破预期，自带巨大流量与悬念",
+   "url": "https://s.weibo.com/weibo?q=马斯克从深圳飞到了上海",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克从深圳飞到了上海"
+  },
+  "anthropic上市": {
+   "key": "anthropic上市",
+   "title": "Anthropic上市",
+   "rating": "A",
+   "score": 52.5,
+   "angle": "解读上市估值对AI泡沫及行业竞争格局的深远影响",
+   "hook_reason": "AI巨头IPO，资本与技术风向标",
+   "url": "https://s.weibo.com/weibo?q=Anthropic上市",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic股票开盘价预计为每股106美元ipo发行价为83美元"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 0
+ "a_pushed_window": 1
 }
