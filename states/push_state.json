@@ -15142,19 +15142,6 @@
    "batch_window": 9
   },
   {
-   "key": "南京一老人横穿快速路后方车辆反应不及致多车连环追尾如何看待交警判决老人不担责追尾车辆按比担责",
-   "title": "南京一老人横穿快速路，后方车辆反应不及致多车连环追尾，如何看待交警判决老人不担责，追尾车辆按比担责？",
-   "rating": "A",
-   "score": 80.0,
-   "angle": "从'弱者在公共道路是否有免死金牌'切入，探讨责任边界与法律温度，引发公众对规则公平性的共鸣与争议",
-   "hook_reason": "老人无责+连环追尾，触及每个人开车的安全焦虑与对判决公平性的质疑",
-   "url": "https://www.zhihu.com/question/2100991454428522427",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:南京一老人横穿快速路后方车辆反应不及致多车连环追尾如何看待交警判决老人不担责追尾",
-   "batch_window": 9
-  },
-  {
    "key": "美股史诗级暴涨",
    "title": "美股史诗级暴涨",
    "rating": "A",
@@ -19248,6 +19235,19 @@
    "breaking": true,
    "event_id": "e:五星上将麦克阿瑟谈深圳50年巨变",
    "batch_window": 6
+  },
+  {
+   "key": "anthropic七位创始人百亿美元",
+   "title": "Anthropic七位创始人百亿美元",
+   "rating": "A",
+   "score": 44.95,
+   "angle": "从创始人持股结构与估值跳升，分析AI巨头财富分配新范式",
+   "hook_reason": "七人分百亿，财富自由天花板，冲击性极强",
+   "url": "https://s.weibo.com/weibo?q=Anthropic七位创始人百亿美元",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:anthropic七位创始人百亿美元",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -20914,7 +20914,8 @@
   "警方介入谢霆锋被扔荧光棒事件",
   "deepseek用户呼吁取消7天限制",
   "pancreaticcancerhaltedbyvirusinjb6df801a",
-  "macatanyscale"
+  "macatanyscale",
+  "南京一老人横穿快速路后方车辆反应不及致多车连环追尾如何看待交警判决老人不担责追尾车辆按比担责"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22517,7 +22518,8 @@
   "e:警方介入谢霆锋被扔荧光棒事件": "警方介入谢霆锋被扔荧光棒事件",
   "e:deepseek用户呼吁取消7天限制": "DeepSeek用户呼吁取消7天限制",
   "e:pancreaticcancerhaltedbyvirusinjectionin": "Pancreatic cancer halted by virus injection in three patients",
-  "e:macatanyscale": "Mac at Any Scale"
+  "e:macatanyscale": "Mac at Any Scale",
+  "e:南京一老人横穿快速路后方车辆反应不及致多车连环追尾如何看待交警判决老人不担责追尾": "南京一老人横穿快速路，后方车辆反应不及致多车连环追尾，如何看待交警判决老人不担责，追尾车辆按比担责？"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -22651,8 +22653,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:五星上将麦克阿瑟谈深圳50年巨变"
+  },
+  "anthropic七位创始人百亿美元": {
+   "key": "anthropic七位创始人百亿美元",
+   "title": "Anthropic七位创始人百亿美元",
+   "rating": "A",
+   "score": 44.95,
+   "angle": "从创始人持股结构与估值跳升，分析AI巨头财富分配新范式",
+   "hook_reason": "七人分百亿，财富自由天花板，冲击性极强",
+   "url": "https://s.weibo.com/weibo?q=Anthropic七位创始人百亿美元",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:anthropic七位创始人百亿美元"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
