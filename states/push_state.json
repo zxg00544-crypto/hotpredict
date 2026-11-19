@@ -19133,19 +19133,6 @@
    "batch_window": 12
   },
   {
-   "key": "中俄美元首座驾首次同框",
-   "title": "中俄美元首座驾首次同框",
-   "rating": "A",
-   "score": 90.22,
-   "angle": "透过细节看外交礼仪：座驾同框背后的国际关系微妙变化",
-   "hook_reason": "元首座驾首次同框，打破常规视觉，极具稀缺性",
-   "url": "https://s.weibo.com/weibo?q=中俄美元首座驾首次同框",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:中俄美元首座驾首次同框",
-   "batch_window": 13
-  },
-  {
    "key": "马斯克称是中国的超级粉丝",
    "title": "马斯克称是中国的超级粉丝",
    "rating": "A",
@@ -19157,6 +19144,45 @@
    "breaking": true,
    "event_id": "e:马斯克称是中国的超级粉丝",
    "batch_window": 13
+  },
+  {
+   "key": "马斯克我是中国的超级粉丝",
+   "title": "马斯克：我是中国的超级粉丝",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "深度解析马斯克表态背后的商业逻辑：是营销噱头还是供应链深度绑定的信号？",
+   "hook_reason": "马斯克罕见高调示好中国，打破刻板印象，反转感极强",
+   "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B6%85%E7%BA%A7%E7%B2%89%E4%B8%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克我是中国的超级粉丝",
+   "batch_window": 15
+  },
+  {
+   "key": "习近平会见美国总统特朗普",
+   "title": "习近平会见美国总统特朗普",
+   "rating": "A",
+   "score": 87.95,
+   "angle": "别只看握手，看关税与汇率：这场会晤如何影响你的钱包与股市？",
+   "hook_reason": "元首外交定调，全球资产价格瞬间波动，普通人财富地图重绘",
+   "url": "https://search.bilibili.com/all?keyword=习近平会见美国总统特朗普",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:习近平会见美国总统特朗普",
+   "batch_window": 15
+  },
+  {
+   "key": "马斯克抵达深圳没有现场参加纽约dealbook峰会为何他选择赴华参加apec峰会",
+   "title": "马斯克抵达深圳，没有现场参加纽约 DealBook 峰会，为何他选择赴华参加 APEC 峰会？",
+   "rating": "A",
+   "score": 43.75,
+   "angle": "深潜背后：APEC与中美科技博弈信号",
+   "hook_reason": "马斯克弃美赴中，地缘科技风向标",
+   "url": "https://www.zhihu.com/question/2106061681793176634",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克抵达深圳没有现场参加纽约dealbook峰会为何他选择赴华参加apec峰会",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -20797,7 +20823,8 @@
   "白宫发布特朗普访华视频",
   "围观特朗普不耽误深圳商圈营业",
   "apec全家福",
-  "胖东来撤走后降到四百万依然没有人接盘"
+  "胖东来撤走后降到四百万依然没有人接盘",
+  "中俄美元首座驾首次同框"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22374,7 +22401,8 @@
   "e:白宫发布特朗普访华视频": "白宫发布特朗普访华视频",
   "e:围观特朗普不耽误深圳商圈营业": "围观特朗普不耽误深圳商圈营业",
   "e:apec全家福": "APEC全家福",
-  "e:胖东来撤走后降到四百万依然没有人接盘": "胖东来撤走后降到四百万依然没有人接盘"
+  "e:胖东来撤走后降到四百万依然没有人接盘": "胖东来撤走后降到四百万依然没有人接盘",
+  "e:中俄美元首座驾首次同框": "中俄美元首座驾首次同框"
  },
  "a_seen": {
   "养老保险缴够15年就能坐等退休系谣言": {
@@ -22676,8 +22704,44 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:习近平同apec各经济体领导人合影"
+  },
+  "马斯克我是中国的超级粉丝": {
+   "key": "马斯克我是中国的超级粉丝",
+   "title": "马斯克：我是中国的超级粉丝",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "深度解析马斯克表态背后的商业逻辑：是营销噱头还是供应链深度绑定的信号？",
+   "hook_reason": "马斯克罕见高调示好中国，打破刻板印象，反转感极强",
+   "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B6%85%E7%BA%A7%E7%B2%89%E4%B8%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克我是中国的超级粉丝"
+  },
+  "习近平会见美国总统特朗普": {
+   "key": "习近平会见美国总统特朗普",
+   "title": "习近平会见美国总统特朗普",
+   "rating": "A",
+   "score": 87.95,
+   "angle": "别只看握手，看关税与汇率：这场会晤如何影响你的钱包与股市？",
+   "hook_reason": "元首外交定调，全球资产价格瞬间波动，普通人财富地图重绘",
+   "url": "https://search.bilibili.com/all?keyword=习近平会见美国总统特朗普",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:习近平会见美国总统特朗普"
+  },
+  "马斯克抵达深圳没有现场参加纽约dealbook峰会为何他选择赴华参加apec峰会": {
+   "key": "马斯克抵达深圳没有现场参加纽约dealbook峰会为何他选择赴华参加apec峰会",
+   "title": "马斯克抵达深圳，没有现场参加纽约 DealBook 峰会，为何他选择赴华参加 APEC 峰会？",
+   "rating": "A",
+   "score": 43.75,
+   "angle": "深潜背后：APEC与中美科技博弈信号",
+   "hook_reason": "马斯克弃美赴中，地缘科技风向标",
+   "url": "https://www.zhihu.com/question/2106061681793176634",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克抵达深圳没有现场参加纽约dealbook峰会为何他选择赴华参加apec峰会"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 14
+ "a_pushed_window": 15
 }
