@@ -19235,6 +19235,19 @@
    "breaking": true,
    "event_id": "e:青岛失联女生最后监控走向海边",
    "batch_window": 5
+  },
+  {
+   "key": "mscimsci将于2026年11月30日收盘时将anthropic纳入m",
+   "title": "MSCI：MSCI将于2026年11月30日收盘时，将Anthropic 纳入M",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "解读Anthropic入池对科技股估值体系的重构",
+   "hook_reason": "顶级AI巨头进MSCI，财富风向标变向",
+   "url": "https://finance.sina.cn/7x24/2026-11-20/detail-inizinvq7346433.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:mscimsci将于2026年11月30日收盘时将anthropic纳入m",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -22605,13 +22618,25 @@
    "key": "青岛失联女生最后监控走向海边",
    "title": "青岛失联女生最后监控走向海边",
    "rating": "A",
-   "score": 43.75,
-   "angle": "解析“海边监控”心理动因，呼吁理性追踪避免网络暴力",
-   "hook_reason": "突发失联命案，最后监控走向海边，生死悬念极强",
+   "score": 66.25,
+   "angle": "从监控细节切入，探讨城市公共空间安全盲区及家属寻亲信息真实性核查",
+   "hook_reason": "突发失联案件，监控细节引发对女性安全与城市管理的广泛焦虑",
    "url": "https://s.weibo.com/weibo?q=青岛失联女生最后监控走向海边",
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:青岛失联女生最后监控走向海边"
+  },
+  "mscimsci将于2026年11月30日收盘时将anthropic纳入m": {
+   "key": "mscimsci将于2026年11月30日收盘时将anthropic纳入m",
+   "title": "MSCI：MSCI将于2026年11月30日收盘时，将Anthropic 纳入M",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "解读Anthropic入池对科技股估值体系的重构",
+   "hook_reason": "顶级AI巨头进MSCI，财富风向标变向",
+   "url": "https://finance.sina.cn/7x24/2026-11-20/detail-inizinvq7346433.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:mscimsci将于2026年11月30日收盘时将anthropic纳入m"
   }
  },
  "breaking_count": 10,
