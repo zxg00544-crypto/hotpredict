@@ -13634,19 +13634,6 @@
    "batch_window": 12
   },
   {
-   "key": "2026年世界互联网大会乌镇峰会",
-   "title": "2026年世界互联网大会乌镇峰会",
-   "rating": "A",
-   "score": 80.35,
-   "angle": "聚焦AI/数据安全新政策+大厂战略发布，解读2026技术趋势",
-   "hook_reason": "世界顶级互联网峰会开幕，大咖云集+政策风向标，科技圈必读",
-   "url": "https://s.weibo.com/weibo?q=2026年世界互联网大会乌镇峰会",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:2026年世界互联网大会乌镇峰会",
-   "batch_window": 13
-  },
-  {
    "key": "a股农历924重大利好来了",
    "title": "A股农历924重大利好来了",
    "rating": "A",
@@ -19105,6 +19092,32 @@
    "breaking": true,
    "event_id": "e:gemini4neon",
    "batch_window": 7
+  },
+  {
+   "key": "anthropicipo日本部分筹得约30亿美元anthropic向日本投资",
+   "title": "ANTHROPIC IPO日本部分筹得约30亿美元，ANTHROPIC向日本投资",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "深度解析Anthropic为何重金注资日本，揭示AI巨头全球资本布局新逻辑",
+   "hook_reason": "30亿美元巨资流向日本，AI巨头IPO布局引热议",
+   "url": "https://finance.sina.cn/7x24/2026-11-19/detail-inizfiwm4388124.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:anthropicipo日本部分筹得约30亿美元anthropic向日本投资",
+   "batch_window": 8
+  },
+  {
+   "key": "马斯克抵达深圳缺席纽约dealbook峰会他选择深圳apec峰会节点赴华是出于什么考虑",
+   "title": "马斯克抵达深圳，缺席纽约DealBook峰会，他选择深圳APEC峰会节点赴华是出于什么考虑？",
+   "rating": "A",
+   "score": 43.9,
+   "angle": "马斯克弃美选深的底层逻辑：从地缘博弈到算力供应链的务实转向",
+   "hook_reason": "硅谷顶流缺席纽约选深圳，地缘政治与商业利益的反差冲击",
+   "url": "https://www.zhihu.com/question/2106061681793176634",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克抵达深圳缺席纽约dealbook峰会他选择深圳apec峰会节点赴华是出于什",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -20738,7 +20751,8 @@
   "中国军人在空军一号轰鸣声前岿然不动",
   "湘雅二院论文尺子1厘米12格",
   "美国总统特朗普抵达深圳",
-  "今年乌镇峰会首次向社会开放预约"
+  "今年乌镇峰会首次向社会开放预约",
+  "2026年世界互联网大会乌镇峰会"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22308,7 +22322,8 @@
   "e:中国军人在空军一号轰鸣声前岿然不动": "中国军人在空军一号轰鸣声前岿然不动",
   "e:湘雅二院论文尺子1厘米12格": "湘雅二院论文尺子1厘米12格",
   "e:美国总统特朗普抵达深圳": "美国总统特朗普抵达深圳",
-  "e:今年乌镇峰会首次向社会开放预约": "今年乌镇峰会首次向社会开放预约"
+  "e:今年乌镇峰会首次向社会开放预约": "今年乌镇峰会首次向社会开放预约",
+  "e:2026年世界互联网大会乌镇峰会": "2026年世界互联网大会乌镇峰会"
  },
  "a_seen": {
   "养老保险缴够15年就能坐等退休系谣言": {
@@ -22466,8 +22481,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:gemini4neon"
+  },
+  "anthropicipo日本部分筹得约30亿美元anthropic向日本投资": {
+   "key": "anthropicipo日本部分筹得约30亿美元anthropic向日本投资",
+   "title": "ANTHROPIC IPO日本部分筹得约30亿美元，ANTHROPIC向日本投资",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "深度解析Anthropic为何重金注资日本，揭示AI巨头全球资本布局新逻辑",
+   "hook_reason": "30亿美元巨资流向日本，AI巨头IPO布局引热议",
+   "url": "https://finance.sina.cn/7x24/2026-11-19/detail-inizfiwm4388124.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:anthropicipo日本部分筹得约30亿美元anthropic向日本投资"
+  },
+  "马斯克抵达深圳缺席纽约dealbook峰会他选择深圳apec峰会节点赴华是出于什么考虑": {
+   "key": "马斯克抵达深圳缺席纽约dealbook峰会他选择深圳apec峰会节点赴华是出于什么考虑",
+   "title": "马斯克抵达深圳，缺席纽约DealBook峰会，他选择深圳APEC峰会节点赴华是出于什么考虑？",
+   "rating": "A",
+   "score": 43.9,
+   "angle": "马斯克弃美选深的底层逻辑：从地缘博弈到算力供应链的务实转向",
+   "hook_reason": "硅谷顶流缺席纽约选深圳，地缘政治与商业利益的反差冲击",
+   "url": "https://www.zhihu.com/question/2106061681793176634",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克抵达深圳缺席纽约dealbook峰会他选择深圳apec峰会节点赴华是出于什"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
