@@ -18665,19 +18665,6 @@
    "batch_window": 8
   },
   {
-   "key": "deepseek用户呼吁取消7天限制",
-   "title": "DeepSeek用户呼吁取消7天限制",
-   "rating": "A",
-   "score": 80.05,
-   "angle": "深度解析DeepSeek 7天限制背后的商业博弈与用户信任危机。",
-   "hook_reason": "AI工具“杀熟”限制引发用户强烈反弹，争议性极强。",
-   "url": "https://s.weibo.com/weibo?q=DeepSeek用户呼吁取消7天限制",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:deepseek用户呼吁取消7天限制",
-   "batch_window": 9
-  },
-  {
    "key": "如何评价openai发布的gpt62astra和gpt62sol",
    "title": "如何评价OpenAI 发布的 GPT-6.2 Astra 和 GPT-6.2 Sol？",
    "rating": "A",
@@ -19222,6 +19209,32 @@
    "breaking": true,
    "event_id": "e:anthropichits2tinnasdaqdebut",
    "batch_window": 3
+  },
+  {
+   "key": "pancreaticcancerhaltedbyvirusinjb6df801a",
+   "title": "Pancreatic cancer halted by virus injection in three patients",
+   "rating": "A",
+   "score": 85.5,
+   "angle": "病毒疗法冲击传统化疗，医疗科技边界被重画",
+   "hook_reason": "绝症获救希望，病毒灭癌颠覆认知",
+   "url": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:pancreaticcancerhaltedbyvirusinjectionin",
+   "batch_window": 4
+  },
+  {
+   "key": "claudesolvestwoopenproblemsinthe07f72286",
+   "title": "Claude solves two open problems in the physics of black holes",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "Anthropic官方发论文：Claude解黑洞两难题，AI科研新纪元",
+   "hook_reason": "AI解开黑洞物理难题，颠覆认知",
+   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:claudesolvestwoopenproblemsinthephysicso",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -20885,7 +20898,8 @@
   "警方通报孙某军因情感纠纷行凶",
   "男婴因黄疸鼻塞入新生儿科次日死亡",
   "宝马735li降到48点8万",
-  "警方介入谢霆锋被扔荧光棒事件"
+  "警方介入谢霆锋被扔荧光棒事件",
+  "deepseek用户呼吁取消7天限制"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22485,7 +22499,8 @@
   "e:警方通报孙某军因情感纠纷行凶": "警方通报孙某军因情感纠纷行凶",
   "e:男婴因黄疸鼻塞入新生儿科次日死亡": "男婴因黄疸鼻塞入新生儿科次日死亡",
   "e:宝马735li降到48点8万": "宝马735Li降到48点8万",
-  "e:警方介入谢霆锋被扔荧光棒事件": "警方介入谢霆锋被扔荧光棒事件"
+  "e:警方介入谢霆锋被扔荧光棒事件": "警方介入谢霆锋被扔荧光棒事件",
+  "e:deepseek用户呼吁取消7天限制": "DeepSeek用户呼吁取消7天限制"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -22559,8 +22574,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:anthropichits2tinnasdaqdebut"
+  },
+  "pancreaticcancerhaltedbyvirusinjb6df801a": {
+   "key": "pancreaticcancerhaltedbyvirusinjb6df801a",
+   "title": "Pancreatic cancer halted by virus injection in three patients",
+   "rating": "A",
+   "score": 85.5,
+   "angle": "病毒疗法冲击传统化疗，医疗科技边界被重画",
+   "hook_reason": "绝症获救希望，病毒灭癌颠覆认知",
+   "url": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:pancreaticcancerhaltedbyvirusinjectionin"
+  },
+  "claudesolvestwoopenproblemsinthe07f72286": {
+   "key": "claudesolvestwoopenproblemsinthe07f72286",
+   "title": "Claude solves two open problems in the physics of black holes",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "Anthropic官方发论文：Claude解黑洞两难题，AI科研新纪元",
+   "hook_reason": "AI解开黑洞物理难题，颠覆认知",
+   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:claudesolvestwoopenproblemsinthephysicso"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
