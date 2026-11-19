@@ -19094,19 +19094,6 @@
    "batch_window": 8
   },
   {
-   "key": "围观特朗普不耽误深圳商圈营业",
-   "title": "围观特朗普不耽误深圳商圈营业",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "解析特朗普访华对深圳商业地产及旅游业的即时拉动效应",
-   "hook_reason": "特朗普访华引全民围观，深圳商圈反差萌，情绪浓度极高",
-   "url": "https://s.weibo.com/weibo?q=围观特朗普不耽误深圳商圈营业",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:围观特朗普不耽误深圳商圈营业",
-   "batch_window": 10
-  },
-  {
    "key": "宁德向理想一天发3封要钱邮件",
    "title": "宁德向理想一天发3封要钱邮件",
    "rating": "A",
@@ -19131,6 +19118,32 @@
    "breaking": true,
    "event_id": "e:mate90air官宣",
    "batch_window": 11
+  },
+  {
+   "key": "anthropic发行定价83美元超此前发行价区间成迄今全球最大ipo怎么看定价过程与估值",
+   "title": "Anthropic 发行定价83美元，超此前发行价区间，成迄今全球最大IPO，怎么看定价过程与估值？",
+   "rating": "A",
+   "score": 77.4,
+   "angle": "拆解Anthropic高溢价IPO逻辑：是技术护城河还是资本泡沫？对二级市场科技股估值体系的重塑影响。",
+   "hook_reason": "全球最大IPO破发预期？揭秘83美元定价背后的疯狂博弈与估值泡沫。",
+   "url": "https://www.zhihu.com/question/2106656189337395706",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:anthropic发行定价83美元超此前发行价区间成迄今全球最大ipo怎么看定价",
+   "batch_window": 12
+  },
+  {
+   "key": "apec全家福",
+   "title": "APEC全家福",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "借全家福站位与表情细节，透视当前国际经贸格局与权力平衡变化",
+   "hook_reason": "全球政商巨头罕见同框，吃瓜与宏大叙事的双重满足",
+   "url": "https://s.weibo.com/weibo?q=APEC全家福",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:apec全家福",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -20768,7 +20781,8 @@
   "2026年世界互联网大会乌镇峰会",
   "100秒解锁进博会亮点",
   "十五五时期中国储能新上加新",
-  "白宫发布特朗普访华视频"
+  "白宫发布特朗普访华视频",
+  "围观特朗普不耽误深圳商圈营业"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22342,7 +22356,8 @@
   "e:2026年世界互联网大会乌镇峰会": "2026年世界互联网大会乌镇峰会",
   "e:100秒解锁进博会亮点": "100秒解锁进博会亮点",
   "e:十五五时期中国储能新上加新": "十五五时期中国储能新上加新",
-  "e:白宫发布特朗普访华视频": "白宫发布特朗普访华视频"
+  "e:白宫发布特朗普访华视频": "白宫发布特朗普访华视频",
+  "e:围观特朗普不耽误深圳商圈营业": "围观特朗普不耽误深圳商圈营业"
  },
  "a_seen": {
   "养老保险缴够15年就能坐等退休系谣言": {
@@ -22565,15 +22580,39 @@
    "key": "mate90air官宣",
    "title": "Mate90Air官宣",
    "rating": "A",
-   "score": 72.82,
-   "angle": "Mate90Air参数泄露与竞品对比，预判发布日与销量趋势",
-   "hook_reason": "华为新机官宣，数码圈与果粉/花粉必争焦点",
+   "score": 68.82,
+   "angle": "Mate90 Air发布：华为轻薄旗舰新标杆与AI影像升级解析",
+   "hook_reason": "华为旗舰新机官宣，数码圈顶流事件",
    "url": "https://s.weibo.com/weibo?q=Mate90Air官宣",
    "track": "科技",
    "breaking": true,
    "event_id": "e:mate90air官宣"
+  },
+  "anthropic发行定价83美元超此前发行价区间成迄今全球最大ipo怎么看定价过程与估值": {
+   "key": "anthropic发行定价83美元超此前发行价区间成迄今全球最大ipo怎么看定价过程与估值",
+   "title": "Anthropic 发行定价83美元，超此前发行价区间，成迄今全球最大IPO，怎么看定价过程与估值？",
+   "rating": "A",
+   "score": 77.4,
+   "angle": "拆解Anthropic高溢价IPO逻辑：是技术护城河还是资本泡沫？对二级市场科技股估值体系的重塑影响。",
+   "hook_reason": "全球最大IPO破发预期？揭秘83美元定价背后的疯狂博弈与估值泡沫。",
+   "url": "https://www.zhihu.com/question/2106656189337395706",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:anthropic发行定价83美元超此前发行价区间成迄今全球最大ipo怎么看定价"
+  },
+  "apec全家福": {
+   "key": "apec全家福",
+   "title": "APEC全家福",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "借全家福站位与表情细节，透视当前国际经贸格局与权力平衡变化",
+   "hook_reason": "全球政商巨头罕见同框，吃瓜与宏大叙事的双重满足",
+   "url": "https://s.weibo.com/weibo?q=APEC全家福",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:apec全家福"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
