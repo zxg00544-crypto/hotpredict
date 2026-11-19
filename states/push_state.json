@@ -14362,19 +14362,6 @@
    "batch_window": 23
   },
   {
-   "key": "macatanyscale",
-   "title": "Mac at Any Scale",
-   "rating": "A",
-   "score": 80.0,
-   "angle": "解读Mac跨规模运行能力的技术突破，分析对开发者和生产力场景的影响",
-   "hook_reason": "Mac重大功能更新引发HN热议，1小时增速100%",
-   "url": "https://namespace.so/blog/mac-at-any-scale",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:macatanyscale",
-   "batch_window": 1
-  },
-  {
    "key": "jailbreakingmycarsnavigationsystaa0c492d",
    "title": "Jailbreaking my car's navigation system just so I can change the time",
    "rating": "A",
@@ -19248,6 +19235,19 @@
    "breaking": true,
    "event_id": "e:mscimsci将于2026年11月30日收盘时将anthropic纳入m",
    "batch_window": 5
+  },
+  {
+   "key": "五星上将麦克阿瑟谈深圳50年巨变",
+   "title": "五星上将麦克阿瑟谈深圳50年巨变",
+   "rating": "A",
+   "score": 44.0,
+   "angle": "借虚构‘麦克阿瑟’之口，犀利调侃深圳搞钱氛围与职场生存法则，制造喜剧冲突。",
+   "hook_reason": "时空错位的荒诞感+城市奋斗共鸣，反常识标题极具点击欲。",
+   "url": "https://s.weibo.com/weibo?q=五星上将麦克阿瑟谈深圳50年巨变",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:五星上将麦克阿瑟谈深圳50年巨变",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -20913,7 +20913,8 @@
   "宝马735li降到48点8万",
   "警方介入谢霆锋被扔荧光棒事件",
   "deepseek用户呼吁取消7天限制",
-  "pancreaticcancerhaltedbyvirusinjb6df801a"
+  "pancreaticcancerhaltedbyvirusinjb6df801a",
+  "macatanyscale"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22515,7 +22516,8 @@
   "e:宝马735li降到48点8万": "宝马735Li降到48点8万",
   "e:警方介入谢霆锋被扔荧光棒事件": "警方介入谢霆锋被扔荧光棒事件",
   "e:deepseek用户呼吁取消7天限制": "DeepSeek用户呼吁取消7天限制",
-  "e:pancreaticcancerhaltedbyvirusinjectionin": "Pancreatic cancer halted by virus injection in three patients"
+  "e:pancreaticcancerhaltedbyvirusinjectionin": "Pancreatic cancer halted by virus injection in three patients",
+  "e:macatanyscale": "Mac at Any Scale"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -22637,8 +22639,20 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:mscimsci将于2026年11月30日收盘时将anthropic纳入m"
+  },
+  "五星上将麦克阿瑟谈深圳50年巨变": {
+   "key": "五星上将麦克阿瑟谈深圳50年巨变",
+   "title": "五星上将麦克阿瑟谈深圳50年巨变",
+   "rating": "A",
+   "score": 44.0,
+   "angle": "借虚构‘麦克阿瑟’之口，犀利调侃深圳搞钱氛围与职场生存法则，制造喜剧冲突。",
+   "hook_reason": "时空错位的荒诞感+城市奋斗共鸣，反常识标题极具点击欲。",
+   "url": "https://s.weibo.com/weibo?q=五星上将麦克阿瑟谈深圳50年巨变",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:五星上将麦克阿瑟谈深圳50年巨变"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
