@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-11-19",
  "a_pending": [
   {
@@ -19198,17 +19198,43 @@
    "batch_window": 20
   },
   {
-   "key": "中俄美元首和平宣言",
-   "title": "中俄美元首和平宣言",
+   "key": "theaisuperintelligencedebatehasseriousflaws",
+   "title": "The AI Superintelligence Debate Has Serious Flaws",
    "rating": "A",
-   "score": 97.5,
-   "angle": "解读和平宣言中的经贸条款，预判跨境资本流向变化",
-   "hook_reason": "元首会晤释放经济信号，直接影响A股与汇率",
-   "url": "https://search.bilibili.com/all?keyword=中俄美元首和平宣言",
-   "track": "财经",
+   "score": 79.0,
+   "angle": "IEEE光谱刊文：超级智能辩论的逻辑陷阱与学界分歧",
+   "hook_reason": "质疑AI超级智能，顶级专家观点反转",
+   "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+   "track": "科技",
    "breaking": true,
-   "event_id": "e:中俄美元首和平宣言",
-   "batch_window": 20
+   "event_id": "e:theaisuperintelligencedebatehasseriousfl",
+   "batch_window": 21
+  },
+  {
+   "key": "深圳市民遇普京车队心跳猛加速",
+   "title": "深圳市民遇普京车队心跳猛加速",
+   "rating": "A",
+   "score": 95.0,
+   "angle": "从路人到顶流：一场偶遇背后的外交礼仪与个人命运转折",
+   "hook_reason": "偶遇国家元首的极致稀缺性与普通人视角的反差",
+   "url": "https://s.weibo.com/weibo?q=深圳市民遇普京车队心跳猛加速",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:深圳市民遇普京车队心跳猛加速",
+   "batch_window": 21
+  },
+  {
+   "key": "中俄美元首发表和平宣言三国元首重申核战争打不赢也打不得哪些信息值得重点关注",
+   "title": "中俄美元首发表和平宣言，三国元首重申核战争打不赢也打不得，哪些信息值得重点关注？",
+   "rating": "A",
+   "score": 78.95,
+   "angle": "解读和平宣言中核政策条款变化，分析大国博弈底层逻辑与后续外交走向",
+   "hook_reason": "三国元首罕见同框，核威慑升级，地缘变局引发焦虑与好奇",
+   "url": "https://www.zhihu.com/question/2106822157141534109",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:中俄美元首发表和平宣言三国元首重申核战争打不赢也打不得哪些信息值得重点关注",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -20855,7 +20881,8 @@
   "习近平会见美国总统特朗普",
   "习近平主持中俄美元首会晤",
   "普京用中文对与会者说谢谢",
-  "特朗普请中国继续保持强大"
+  "特朗普请中国继续保持强大",
+  "中俄美元首和平宣言"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22438,7 +22465,8 @@
   "e:习近平会见美国总统特朗普": "习近平会见美国总统特朗普",
   "e:习近平主持中俄美元首会晤": "习近平主持中俄美元首会晤",
   "e:普京用中文对与会者说谢谢": "普京用中文对与会者说谢谢",
-  "e:特朗普请中国继续保持强大": "特朗普：请中国继续保持强大"
+  "e:特朗普请中国继续保持强大": "特朗普：请中国继续保持强大",
+  "e:中俄美元首和平宣言": "中俄美元首和平宣言"
  },
  "a_seen": {
   "养老保险缴够15年就能坐等退休系谣言": {
@@ -22872,8 +22900,44 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:中俄美元首和平宣言"
+  },
+  "theaisuperintelligencedebatehasseriousflaws": {
+   "key": "theaisuperintelligencedebatehasseriousflaws",
+   "title": "The AI Superintelligence Debate Has Serious Flaws",
+   "rating": "A",
+   "score": 79.0,
+   "angle": "IEEE光谱刊文：超级智能辩论的逻辑陷阱与学界分歧",
+   "hook_reason": "质疑AI超级智能，顶级专家观点反转",
+   "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:theaisuperintelligencedebatehasseriousfl"
+  },
+  "深圳市民遇普京车队心跳猛加速": {
+   "key": "深圳市民遇普京车队心跳猛加速",
+   "title": "深圳市民遇普京车队心跳猛加速",
+   "rating": "A",
+   "score": 95.0,
+   "angle": "从路人到顶流：一场偶遇背后的外交礼仪与个人命运转折",
+   "hook_reason": "偶遇国家元首的极致稀缺性与普通人视角的反差",
+   "url": "https://s.weibo.com/weibo?q=深圳市民遇普京车队心跳猛加速",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:深圳市民遇普京车队心跳猛加速"
+  },
+  "中俄美元首发表和平宣言三国元首重申核战争打不赢也打不得哪些信息值得重点关注": {
+   "key": "中俄美元首发表和平宣言三国元首重申核战争打不赢也打不得哪些信息值得重点关注",
+   "title": "中俄美元首发表和平宣言，三国元首重申核战争打不赢也打不得，哪些信息值得重点关注？",
+   "rating": "A",
+   "score": 78.95,
+   "angle": "解读和平宣言中核政策条款变化，分析大国博弈底层逻辑与后续外交走向",
+   "hook_reason": "三国元首罕见同框，核威慑升级，地缘变局引发焦虑与好奇",
+   "url": "https://www.zhihu.com/question/2106822157141534109",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:中俄美元首发表和平宣言三国元首重申核战争打不赢也打不得哪些信息值得重点关注"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
