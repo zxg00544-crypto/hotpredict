@@ -19118,6 +19118,19 @@
    "breaking": true,
    "event_id": "e:宁德向理想一天发3封要钱邮件",
    "batch_window": 10
+  },
+  {
+   "key": "mate90air官宣",
+   "title": "Mate90Air官宣",
+   "rating": "A",
+   "score": 72.82,
+   "angle": "Mate90Air参数泄露与竞品对比，预判发布日与销量趋势",
+   "hook_reason": "华为新机官宣，数码圈与果粉/花粉必争焦点",
+   "url": "https://s.weibo.com/weibo?q=Mate90Air官宣",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:mate90air官宣",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -22547,6 +22560,18 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:宁德向理想一天发3封要钱邮件"
+  },
+  "mate90air官宣": {
+   "key": "mate90air官宣",
+   "title": "Mate90Air官宣",
+   "rating": "A",
+   "score": 72.82,
+   "angle": "Mate90Air参数泄露与竞品对比，预判发布日与销量趋势",
+   "hook_reason": "华为新机官宣，数码圈与果粉/花粉必争焦点",
+   "url": "https://s.weibo.com/weibo?q=Mate90Air官宣",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:mate90air官宣"
   }
  },
  "breaking_count": 10,
