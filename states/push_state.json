@@ -13140,19 +13140,6 @@
    "batch_window": 16
   },
   {
-   "key": "警方介入谢霆锋被扔荧光棒事件",
-   "title": "警方介入谢霆锋被扔荧光棒事件",
-   "rating": "A",
-   "score": 80.15,
-   "angle": "从明星社会责任与粉丝行为规范切入，讨论公众人物形象危机公关",
-   "hook_reason": "明星+警方介入，公众人物负面事件引爆情绪",
-   "url": "https://s.weibo.com/weibo?q=警方介入谢霆锋被扔荧光棒事件",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:警方介入谢霆锋被扔荧光棒事件",
-   "batch_window": 17
-  },
-  {
    "key": "theaicostofjavascriptframeworks",
    "title": "The AI cost of JavaScript frameworks",
    "rating": "A",
@@ -19222,6 +19209,19 @@
    "breaking": true,
    "event_id": "e:马斯克从深圳飞到了上海",
    "batch_window": 1
+  },
+  {
+   "key": "anthropichits2tinnasdaqdebut",
+   "title": "Anthropic hits $2T in Nasdaq debut",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "剖析Anthropic 2万亿估值背后的定价逻辑：是技术护城河溢价，还是流动性驱动的泡沫？对一级市场估值体系的冲击",
+   "hook_reason": "AI龙头上市首日破2万亿估值，华尔街验证泡沫还是泡沫破裂前夜？",
+   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:anthropichits2tinnasdaqdebut",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -20884,7 +20884,8 @@
   "王毅送别美俄元首后举行记者会",
   "警方通报孙某军因情感纠纷行凶",
   "男婴因黄疸鼻塞入新生儿科次日死亡",
-  "宝马735li降到48点8万"
+  "宝马735li降到48点8万",
+  "警方介入谢霆锋被扔荧光棒事件"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22483,7 +22484,8 @@
   "e:王毅送别美俄元首后举行记者会": "王毅送别美俄元首后举行记者会",
   "e:警方通报孙某军因情感纠纷行凶": "警方通报孙某军因情感纠纷行凶",
   "e:男婴因黄疸鼻塞入新生儿科次日死亡": "男婴因黄疸鼻塞入新生儿科次日死亡",
-  "e:宝马735li降到48点8万": "宝马735Li降到48点8万"
+  "e:宝马735li降到48点8万": "宝马735Li降到48点8万",
+  "e:警方介入谢霆锋被扔荧光棒事件": "警方介入谢霆锋被扔荧光棒事件"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -22545,8 +22547,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:anthropic股票开盘价预计为每股106美元ipo发行价为83美元"
+  },
+  "anthropichits2tinnasdaqdebut": {
+   "key": "anthropichits2tinnasdaqdebut",
+   "title": "Anthropic hits $2T in Nasdaq debut",
+   "rating": "A",
+   "score": 75.95,
+   "angle": "剖析Anthropic 2万亿估值背后的定价逻辑：是技术护城河溢价，还是流动性驱动的泡沫？对一级市场估值体系的冲击",
+   "hook_reason": "AI龙头上市首日破2万亿估值，华尔街验证泡沫还是泡沫破裂前夜？",
+   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:anthropichits2tinnasdaqdebut"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
