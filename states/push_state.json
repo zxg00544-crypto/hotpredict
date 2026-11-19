@@ -19211,19 +19211,6 @@
    "batch_window": 3
   },
   {
-   "key": "pancreaticcancerhaltedbyvirusinjb6df801a",
-   "title": "Pancreatic cancer halted by virus injection in three patients",
-   "rating": "A",
-   "score": 85.5,
-   "angle": "病毒疗法冲击传统化疗，医疗科技边界被重画",
-   "hook_reason": "绝症获救希望，病毒灭癌颠覆认知",
-   "url": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:pancreaticcancerhaltedbyvirusinjectionin",
-   "batch_window": 4
-  },
-  {
    "key": "claudesolvestwoopenproblemsinthe07f72286",
    "title": "Claude solves two open problems in the physics of black holes",
    "rating": "A",
@@ -19235,6 +19222,19 @@
    "breaking": true,
    "event_id": "e:claudesolvestwoopenproblemsinthephysicso",
    "batch_window": 4
+  },
+  {
+   "key": "青岛失联女生最后监控走向海边",
+   "title": "青岛失联女生最后监控走向海边",
+   "rating": "A",
+   "score": 43.75,
+   "angle": "解析“海边监控”心理动因，呼吁理性追踪避免网络暴力",
+   "hook_reason": "突发失联命案，最后监控走向海边，生死悬念极强",
+   "url": "https://s.weibo.com/weibo?q=青岛失联女生最后监控走向海边",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:青岛失联女生最后监控走向海边",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -20899,7 +20899,8 @@
   "男婴因黄疸鼻塞入新生儿科次日死亡",
   "宝马735li降到48点8万",
   "警方介入谢霆锋被扔荧光棒事件",
-  "deepseek用户呼吁取消7天限制"
+  "deepseek用户呼吁取消7天限制",
+  "pancreaticcancerhaltedbyvirusinjb6df801a"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22500,7 +22501,8 @@
   "e:男婴因黄疸鼻塞入新生儿科次日死亡": "男婴因黄疸鼻塞入新生儿科次日死亡",
   "e:宝马735li降到48点8万": "宝马735Li降到48点8万",
   "e:警方介入谢霆锋被扔荧光棒事件": "警方介入谢霆锋被扔荧光棒事件",
-  "e:deepseek用户呼吁取消7天限制": "DeepSeek用户呼吁取消7天限制"
+  "e:deepseek用户呼吁取消7天限制": "DeepSeek用户呼吁取消7天限制",
+  "e:pancreaticcancerhaltedbyvirusinjectionin": "Pancreatic cancer halted by virus injection in three patients"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -22598,8 +22600,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:claudesolvestwoopenproblemsinthephysicso"
+  },
+  "青岛失联女生最后监控走向海边": {
+   "key": "青岛失联女生最后监控走向海边",
+   "title": "青岛失联女生最后监控走向海边",
+   "rating": "A",
+   "score": 43.75,
+   "angle": "解析“海边监控”心理动因，呼吁理性追踪避免网络暴力",
+   "hook_reason": "突发失联命案，最后监控走向海边，生死悬念极强",
+   "url": "https://s.weibo.com/weibo?q=青岛失联女生最后监控走向海边",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:青岛失联女生最后监控走向海边"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
