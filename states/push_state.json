@@ -14622,19 +14622,6 @@
    "batch_window": 12
   },
   {
-   "key": "广东发文将全面落实带薪年休假并增强执行刚性释放了哪些信号最终会全国推行吗",
-   "title": "广东发文将全面落实带薪年休假并增强执行刚性，释放了哪些信号？最终会全国推行吗？",
-   "rating": "A",
-   "score": 79.5,
-   "angle": "从打工人视角切入，解读执行刚性背后的劳动法落地难题及全国推广预期",
-   "hook_reason": "打工人年假能否落实？广东先试，全国会跟进吗",
-   "url": "https://www.zhihu.com/question/2100983027241375316",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:广东发文将全面落实带薪年休假并增强执行刚性释放了哪些信号最终会全国推行吗",
-   "batch_window": 14
-  },
-  {
    "key": "distinctcellularandgeneticdiffer45afb616",
    "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
    "rating": "A",
@@ -19495,6 +19482,19 @@
    "breaking": true,
    "event_id": "e:inkling2mini",
    "batch_window": 6
+  },
+  {
+   "key": "机构美国政府债务上限x日若在8月到来将问题重重",
+   "title": "机构：美国政府债务上限“X日”若在8月到来将“问题重重”",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "深度拆解美债违约对A股、黄金及美元信用的连锁冲击与历史复盘",
+   "hook_reason": "美债X日逼近，全球市场避险情绪拉满",
+   "url": "https://finance.sina.cn/7x24/2026-11-21/detail-inizmwaq3630895.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:机构美国政府债务上限x日若在8月到来将问题重重",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -21194,7 +21194,8 @@
   "黄渤谈父母患老年痴呆",
   "英伟达市值一夜蒸发129万亿元",
   "精分患者被伪造病历虚假出入院",
-  "jailbreakingmycarsnavigationsystaa0c492d"
+  "jailbreakingmycarsnavigationsystaa0c492d",
+  "广东发文将全面落实带薪年休假并增强执行刚性释放了哪些信号最终会全国推行吗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22830,7 +22831,8 @@
   "e:黄渤谈父母患老年痴呆": "黄渤谈父母患老年痴呆",
   "e:英伟达市值一夜蒸发129万亿元": "英伟达市值一夜蒸发1.29万亿元",
   "e:精分患者被伪造病历虚假出入院": "精分患者被伪造病历虚假出入院",
-  "e:jailbreakingmycarsnavigationsystemjustso": "Jailbreaking my car's navigation system just so I can change the time"
+  "e:jailbreakingmycarsnavigationsystemjustso": "Jailbreaking my car's navigation system just so I can change the time",
+  "e:广东发文将全面落实带薪年休假并增强执行刚性释放了哪些信号最终会全国推行吗": "广东发文将全面落实带薪年休假并增强执行刚性，释放了哪些信号？最终会全国推行吗？"
  },
  "a_seen": {
   "钧正平日方应收回涉台错误言论": {
@@ -23000,8 +23002,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:inkling2mini"
+  },
+  "机构美国政府债务上限x日若在8月到来将问题重重": {
+   "key": "机构美国政府债务上限x日若在8月到来将问题重重",
+   "title": "机构：美国政府债务上限“X日”若在8月到来将“问题重重”",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "深度拆解美债违约对A股、黄金及美元信用的连锁冲击与历史复盘",
+   "hook_reason": "美债X日逼近，全球市场避险情绪拉满",
+   "url": "https://finance.sina.cn/7x24/2026-11-21/detail-inizmwaq3630895.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:机构美国政府债务上限x日若在8月到来将问题重重"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
