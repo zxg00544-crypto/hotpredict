@@ -19237,17 +19237,30 @@
    "batch_window": 8
   },
   {
-   "key": "如何看待混元hy4flash登顶openrouter调用榜首tokens达deepseek两倍",
-   "title": "如何看待混元Hy4 flash登顶Openrouter调用榜首 ，Tokens达DeepSeek两倍？",
+   "key": "美股再大跌原因",
+   "title": "美股再大跌原因",
    "rating": "A",
-   "score": 86.56,
-   "angle": "混元Hy4 flash调用量翻倍超越DeepSeek，国产大模型生态竞争格局突变",
-   "hook_reason": "国产混元登顶榜单，调用量超DeepSeek两倍，打破垄断预期",
-   "url": "https://www.zhihu.com/question/2106540440845563614",
+   "score": 90.5,
+   "angle": "拆解大跌三大核心逻辑，盘点受损板块，给出普通投资者当下该持有的底牌。",
+   "hook_reason": "美股大跌引发恐慌，投资者急需知道原因及应对策略，情绪浓烈。",
+   "url": "https://s.weibo.com/weibo?q=美股再大跌原因",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美股再大跌原因",
+   "batch_window": 10
+  },
+  {
+   "key": "anthropic股价跌破100",
+   "title": "Anthropic股价跌破100",
+   "rating": "A",
+   "score": 43.6,
+   "angle": "复盘Anthropic融资泡沫，解析‘跌破’背后的资本避险信号与AI行业降温实锤",
+   "hook_reason": "AI巨头估值逻辑动摇，股价异动引发行业信任危机",
+   "url": "https://s.weibo.com/weibo?q=Anthropic股价跌破100",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:如何看待混元hy4flash登顶openrouter调用榜首tokens达dee",
-   "batch_window": 9
+   "event_id": "e:anthropic股价跌破100",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -20917,7 +20930,8 @@
   "macatanyscale",
   "南京一老人横穿快速路后方车辆反应不及致多车连环追尾如何看待交警判决老人不担责追尾车辆按比担责",
   "男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律角度解读",
-  "criticalrcevulnerabilityinapachehttpserver"
+  "criticalrcevulnerabilityinapachehttpserver",
+  "如何看待混元hy4flash登顶openrouter调用榜首tokens达deepseek两倍"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22523,7 +22537,8 @@
   "e:macatanyscale": "Mac at Any Scale",
   "e:南京一老人横穿快速路后方车辆反应不及致多车连环追尾如何看待交警判决老人不担责追尾": "南京一老人横穿快速路，后方车辆反应不及致多车连环追尾，如何看待交警判决老人不担责，追尾车辆按比担责？",
   "e:男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律": "男子收 1.98 万误转账约派出所归还却遭起诉，法院认定不当得利冻结其账户资金，怎样从法律角度解读？",
-  "e:criticalrcevulnerabilityinapachehttpserv": "Critical RCE Vulnerability in Apache HTTP Server"
+  "e:criticalrcevulnerabilityinapachehttpserv": "Critical RCE Vulnerability in Apache HTTP Server",
+  "e:如何看待混元hy4flash登顶openrouter调用榜首tokens达dee": "如何看待混元Hy4 flash登顶Openrouter调用榜首 ，Tokens达DeepSeek两倍？"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -22717,8 +22732,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:美股科技题材全线下挫纳指跌近2"
+  },
+  "美股再大跌原因": {
+   "key": "美股再大跌原因",
+   "title": "美股再大跌原因",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "拆解大跌三大核心逻辑，盘点受损板块，给出普通投资者当下该持有的底牌。",
+   "hook_reason": "美股大跌引发恐慌，投资者急需知道原因及应对策略，情绪浓烈。",
+   "url": "https://s.weibo.com/weibo?q=美股再大跌原因",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美股再大跌原因"
+  },
+  "anthropic股价跌破100": {
+   "key": "anthropic股价跌破100",
+   "title": "Anthropic股价跌破100",
+   "rating": "A",
+   "score": 43.6,
+   "angle": "复盘Anthropic融资泡沫，解析‘跌破’背后的资本避险信号与AI行业降温实锤",
+   "hook_reason": "AI巨头估值逻辑动摇，股价异动引发行业信任危机",
+   "url": "https://s.weibo.com/weibo?q=Anthropic股价跌破100",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropic股价跌破100"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
