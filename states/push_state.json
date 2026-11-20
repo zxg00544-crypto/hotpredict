@@ -14349,19 +14349,6 @@
    "batch_window": 23
   },
   {
-   "key": "jailbreakingmycarsnavigationsystaa0c492d",
-   "title": "Jailbreaking my car's navigation system just so I can change the time",
-   "rating": "A",
-   "score": 79.5,
-   "angle": "车企OTA安全漏洞频出，用户为基本功能被迫越狱，暴露智能车安全隐忧",
-   "hook_reason": "开车调个时间竟要先破解车载系统？颠覆认知的技术操作",
-   "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:jailbreakingmycarsnavigationsystemjustso",
-   "batch_window": 1
-  },
-  {
    "key": "清华毕业生ucl留学疑遭电诈账户陆续转出数十万元邮箱最新留言我人平安被诈骗了如何看待此事",
    "title": "清华毕业生UCL留学疑遭电诈，账户陆续转出数十万元，邮箱最新留言「我人平安，被诈骗了」，如何看待此事？",
    "rating": "A",
@@ -19495,6 +19482,19 @@
    "breaking": true,
    "event_id": "e:标普500指数连续七个交易日下跌为2020年以来最长连跌纪录道琼斯工业平均指",
    "batch_window": 5
+  },
+  {
+   "key": "inkling2mini",
+   "title": "Inkling 2 Mini",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "Thinking Machines 推出 Inkling 2 Mini，分析其架构创新与对行业的影响",
+   "hook_reason": "AI初创公司发布新品，技术迭代快，工程师关注",
+   "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:inkling2mini",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -21193,7 +21193,8 @@
   "神秘模型gestalt横空出世设计基准上大幅超越claudegpt这款模型到底是啥来历",
   "黄渤谈父母患老年痴呆",
   "英伟达市值一夜蒸发129万亿元",
-  "精分患者被伪造病历虚假出入院"
+  "精分患者被伪造病历虚假出入院",
+  "jailbreakingmycarsnavigationsystaa0c492d"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22828,7 +22829,8 @@
   "e:神秘模型gestalt横空出世设计基准上大幅超越claudegpt这款模型到底是": "神秘模型 Gestalt 横空出世，设计基准上大幅超越 Claude、GPT，这款模型到底是啥来历？",
   "e:黄渤谈父母患老年痴呆": "黄渤谈父母患老年痴呆",
   "e:英伟达市值一夜蒸发129万亿元": "英伟达市值一夜蒸发1.29万亿元",
-  "e:精分患者被伪造病历虚假出入院": "精分患者被伪造病历虚假出入院"
+  "e:精分患者被伪造病历虚假出入院": "精分患者被伪造病历虚假出入院",
+  "e:jailbreakingmycarsnavigationsystemjustso": "Jailbreaking my car's navigation system just so I can change the time"
  },
  "a_seen": {
   "钧正平日方应收回涉台错误言论": {
@@ -22986,8 +22988,20 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:标普500指数连续七个交易日下跌为2020年以来最长连跌纪录道琼斯工业平均指"
+  },
+  "inkling2mini": {
+   "key": "inkling2mini",
+   "title": "Inkling 2 Mini",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "Thinking Machines 推出 Inkling 2 Mini，分析其架构创新与对行业的影响",
+   "hook_reason": "AI初创公司发布新品，技术迭代快，工程师关注",
+   "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:inkling2mini"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
