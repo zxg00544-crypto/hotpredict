@@ -19237,19 +19237,6 @@
    "batch_window": 8
   },
   {
-   "key": "美股再大跌原因",
-   "title": "美股再大跌原因",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "拆解大跌三大核心逻辑，盘点受损板块，给出普通投资者当下该持有的底牌。",
-   "hook_reason": "美股大跌引发恐慌，投资者急需知道原因及应对策略，情绪浓烈。",
-   "url": "https://s.weibo.com/weibo?q=美股再大跌原因",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:美股再大跌原因",
-   "batch_window": 10
-  },
-  {
    "key": "anthropic股价跌破100",
    "title": "Anthropic股价跌破100",
    "rating": "A",
@@ -19261,6 +19248,32 @@
    "breaking": true,
    "event_id": "e:anthropic股价跌破100",
    "batch_window": 10
+  },
+  {
+   "key": "马斯克专程飞上海原因",
+   "title": "马斯克专程飞上海原因",
+   "rating": "A",
+   "score": 44.05,
+   "angle": "透过马斯克上海行，透视中美科技博弈下，顶级巨头如何重塑地缘经济叙事。",
+   "hook_reason": "马斯克罕见专程赴沪，揭秘其背后意图与地缘信号，引发好奇。",
+   "url": "https://s.weibo.com/weibo?q=马斯克专程飞上海原因",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克专程飞上海原因",
+   "batch_window": 11
+  },
+  {
+   "key": "张泉灵就像有人开团一秒跟了一样",
+   "title": "张泉灵就像有人开团一秒跟了一样",
+   "rating": "A",
+   "score": 62.28,
+   "angle": "深度解析张泉灵创业翻车背后的媒体人通病与流量陷阱",
+   "hook_reason": "顶流转型CEO翻车现场,大众围观心态强",
+   "url": "https://s.weibo.com/weibo?q=张泉灵就像有人开团一秒跟了一样",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:张泉灵就像有人开团一秒跟了一样",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -20931,7 +20944,8 @@
   "南京一老人横穿快速路后方车辆反应不及致多车连环追尾如何看待交警判决老人不担责追尾车辆按比担责",
   "男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律角度解读",
   "criticalrcevulnerabilityinapachehttpserver",
-  "如何看待混元hy4flash登顶openrouter调用榜首tokens达deepseek两倍"
+  "如何看待混元hy4flash登顶openrouter调用榜首tokens达deepseek两倍",
+  "美股再大跌原因"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22538,7 +22552,8 @@
   "e:南京一老人横穿快速路后方车辆反应不及致多车连环追尾如何看待交警判决老人不担责追尾": "南京一老人横穿快速路，后方车辆反应不及致多车连环追尾，如何看待交警判决老人不担责，追尾车辆按比担责？",
   "e:男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律": "男子收 1.98 万误转账约派出所归还却遭起诉，法院认定不当得利冻结其账户资金，怎样从法律角度解读？",
   "e:criticalrcevulnerabilityinapachehttpserv": "Critical RCE Vulnerability in Apache HTTP Server",
-  "e:如何看待混元hy4flash登顶openrouter调用榜首tokens达dee": "如何看待混元Hy4 flash登顶Openrouter调用榜首 ，Tokens达DeepSeek两倍？"
+  "e:如何看待混元hy4flash登顶openrouter调用榜首tokens达dee": "如何看待混元Hy4 flash登顶Openrouter调用榜首 ，Tokens达DeepSeek两倍？",
+  "e:美股再大跌原因": "美股再大跌原因"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -22756,8 +22771,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:anthropic股价跌破100"
+  },
+  "特朗普给中俄美元首会晤打12分": {
+   "key": "特朗普给中俄美元首会晤打12分",
+   "title": "特朗普给中俄美元首会晤打12分",
+   "rating": "A",
+   "score": 89.5,
+   "angle": "解析特朗普的'12分'潜台词：是对中俄抱团的不满，还是为自身谈判筹码造势？",
+   "hook_reason": "特朗普罕见公开给中俄互动打分，地缘政治博弈背后隐藏经济风向",
+   "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%99%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%89%9312%E5%88%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:习近平主持中俄美元首会晤"
+  },
+  "马斯克专程飞上海原因": {
+   "key": "马斯克专程飞上海原因",
+   "title": "马斯克专程飞上海原因",
+   "rating": "A",
+   "score": 44.05,
+   "angle": "透过马斯克上海行，透视中美科技博弈下，顶级巨头如何重塑地缘经济叙事。",
+   "hook_reason": "马斯克罕见专程赴沪，揭秘其背后意图与地缘信号，引发好奇。",
+   "url": "https://s.weibo.com/weibo?q=马斯克专程飞上海原因",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克专程飞上海原因"
+  },
+  "张泉灵就像有人开团一秒跟了一样": {
+   "key": "张泉灵就像有人开团一秒跟了一样",
+   "title": "张泉灵就像有人开团一秒跟了一样",
+   "rating": "A",
+   "score": 62.28,
+   "angle": "深度解析张泉灵创业翻车背后的媒体人通病与流量陷阱",
+   "hook_reason": "顶流转型CEO翻车现场,大众围观心态强",
+   "url": "https://s.weibo.com/weibo?q=张泉灵就像有人开团一秒跟了一样",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:张泉灵就像有人开团一秒跟了一样"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
