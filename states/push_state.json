@@ -15155,19 +15155,6 @@
    "batch_window": 10
   },
   {
-   "key": "黄渤谈父母患老年痴呆",
-   "title": "黄渤谈父母患老年痴呆",
-   "rating": "A",
-   "score": 79.94,
-   "angle": "借黄渤真实经历切入老年人照护困境，引发读者对父母养老的代入感与行动欲",
-   "hook_reason": "顶流明星聊老龄化痛点，情感共鸣强",
-   "url": "https://s.weibo.com/weibo?q=黄渤谈父母患老年痴呆",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:黄渤谈父母患老年痴呆",
-   "batch_window": 10
-  },
-  {
    "key": "openai发布images26",
    "title": "OpenAI发布Images 2.6",
    "rating": "A",
@@ -19482,6 +19469,32 @@
    "breaking": true,
    "event_id": "e:数学家称与ai合作证明了黎曼猜想证明稿超25万页黎曼猜想真的被解决了吗",
    "batch_window": 2
+  },
+  {
+   "key": "openai向plus用户推出chatgptspace",
+   "title": "OpenAI向Plus用户推出ChatGPT Space。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "ChatGPT Space如何重塑信息获取方式，普通用户能白嫖什么",
+   "hook_reason": "OpenAI新功能直接改变使用习惯，AI圈炸了",
+   "url": "https://finance.sina.cn/7x24/2026-11-21/detail-inizmmns7013585.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai向plus用户推出chatgptspace",
+   "batch_window": 3
+  },
+  {
+   "key": "大空头卖掉了半数英伟达和半导体etf看跌期权",
+   "title": "“大空头”卖掉了半数英伟达和半导体ETF看跌期权",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "解析大空头卖看跌期权实为多头信号，揭秘反向操作背后的市场逻辑与风险。",
+   "hook_reason": "大空头卖看跌即变相看多，颠覆认知，引发投资者关注。",
+   "url": "https://finance.sina.cn/7x24/2026-11-21/detail-inizmmns7012471.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:大空头卖掉了半数英伟达和半导体etf看跌期权",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -21177,7 +21190,8 @@
   "华为星芒ostao1pro价格",
   "deepseek付费体验直线上升",
   "a股尾盘拉升",
-  "神秘模型gestalt横空出世设计基准上大幅超越claudegpt这款模型到底是啥来历"
+  "神秘模型gestalt横空出世设计基准上大幅超越claudegpt这款模型到底是啥来历",
+  "黄渤谈父母患老年痴呆"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22809,7 +22823,8 @@
   "e:华为星芒ostao1pro价格": "华为星芒OSTAO1Pro价格",
   "e:deepseek付费体验直线上升": "DeepSeek付费体验直线上升",
   "e:a股尾盘拉升": "A股尾盘拉升",
-  "e:神秘模型gestalt横空出世设计基准上大幅超越claudegpt这款模型到底是": "神秘模型 Gestalt 横空出世，设计基准上大幅超越 Claude、GPT，这款模型到底是啥来历？"
+  "e:神秘模型gestalt横空出世设计基准上大幅超越claudegpt这款模型到底是": "神秘模型 Gestalt 横空出世，设计基准上大幅超越 Claude、GPT，这款模型到底是啥来历？",
+  "e:黄渤谈父母患老年痴呆": "黄渤谈父母患老年痴呆"
  },
  "a_seen": {
   "钧正平日方应收回涉台错误言论": {
@@ -22907,8 +22922,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:数学家称与ai合作证明了黎曼猜想证明稿超25万页黎曼猜想真的被解决了吗"
+  },
+  "ai证明黎曼猜想传闻": {
+   "key": "ai证明黎曼猜想传闻",
+   "title": "AI证明黎曼猜想传闻",
+   "rating": "A",
+   "score": 59.09,
+   "angle": "辟谣与科普：AI无法独立证明黎曼猜想，拆解网络谣言背后的技术误解",
+   "hook_reason": "数学界圣杯被AI攻克？颠覆认知的谣言与事实",
+   "url": "https://s.weibo.com/weibo?q=AI证明黎曼猜想传闻",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:数学家称用ai证明了黎曼猜想"
+  },
+  "openai向plus用户推出chatgptspace": {
+   "key": "openai向plus用户推出chatgptspace",
+   "title": "OpenAI向Plus用户推出ChatGPT Space。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "ChatGPT Space如何重塑信息获取方式，普通用户能白嫖什么",
+   "hook_reason": "OpenAI新功能直接改变使用习惯，AI圈炸了",
+   "url": "https://finance.sina.cn/7x24/2026-11-21/detail-inizmmns7013585.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:openai向plus用户推出chatgptspace"
+  },
+  "大空头卖掉了半数英伟达和半导体etf看跌期权": {
+   "key": "大空头卖掉了半数英伟达和半导体etf看跌期权",
+   "title": "“大空头”卖掉了半数英伟达和半导体ETF看跌期权",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "解析大空头卖看跌期权实为多头信号，揭秘反向操作背后的市场逻辑与风险。",
+   "hook_reason": "大空头卖看跌即变相看多，颠覆认知，引发投资者关注。",
+   "url": "https://finance.sina.cn/7x24/2026-11-21/detail-inizmmns7012471.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:大空头卖掉了半数英伟达和半导体etf看跌期权"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
