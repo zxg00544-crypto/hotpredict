@@ -17313,19 +17313,6 @@
    "batch_window": 2
   },
   {
-   "key": "gemini4hydrogenandorchestrator",
-   "title": "Gemini 4 Hydrogen and Orchestrator",
-   "rating": "A",
-   "score": 80.0,
-   "angle": "解析Gemini 4 Hydrogen：从代码生成到自主编排，AI Agent如何重塑软件开发流程",
-   "hook_reason": "谷歌AI架构重大更新，颠覆传统编程范式，开发者必看",
-   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:gemini4hydrogenandorchestrator",
-   "batch_window": 4
-  },
-  {
    "key": "黄仁勋辞去英伟达ceo职务会给中国ai芯片厂商带来新的发展机会吗",
    "title": "黄仁勋辞去英伟达 CEO 职务，会给中国 AI 芯片厂商带来新的发展机会吗？",
    "rating": "A",
@@ -20972,7 +20959,8 @@
   "criticalrcevulnerabilityinapachehttpserver",
   "如何看待混元hy4flash登顶openrouter调用榜首tokens达deepseek两倍",
   "美股再大跌原因",
-  "高盛再下调金价预测"
+  "高盛再下调金价预测",
+  "gemini4hydrogenandorchestrator"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22581,7 +22569,8 @@
   "e:criticalrcevulnerabilityinapachehttpserv": "Critical RCE Vulnerability in Apache HTTP Server",
   "e:如何看待混元hy4flash登顶openrouter调用榜首tokens达dee": "如何看待混元Hy4 flash登顶Openrouter调用榜首 ，Tokens达DeepSeek两倍？",
   "e:美股再大跌原因": "美股再大跌原因",
-  "e:高盛再下调金价预测": "高盛再下调金价预测"
+  "e:高盛再下调金价预测": "高盛再下调金价预测",
+  "e:gemini4hydrogenandorchestrator": "Gemini 4 Hydrogen and Orchestrator"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -22871,8 +22860,20 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:金价跌到7字头囤金人心态崩了"
+  },
+  "金价暴跌商家发声": {
+   "key": "金价暴跌商家发声",
+   "title": "金价暴跌商家发声",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "深度解析金价跳水背后逻辑，及实体商家与投资者的生存法则",
+   "hook_reason": "金价暴跌，商家紧急回应，钱包相关话题易引发焦虑",
+   "url": "https://s.weibo.com/weibo?q=金价暴跌商家发声",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:金价大跌后国庆上海金店排长队"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 12
+ "a_pushed_window": 13
 }
