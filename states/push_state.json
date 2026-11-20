@@ -19406,19 +19406,6 @@
    "batch_window": 20
   },
   {
-   "key": "神秘模型gestalt横空出世设计基准上大幅超越claudegpt这款模型到底是啥来历",
-   "title": "神秘模型 Gestalt 横空出世，设计基准上大幅超越 Claude、GPT，这款模型到底是啥来历？",
-   "rating": "A",
-   "score": 84.5,
-   "angle": "拆解Gestalt模型架构与超越GPT的底层逻辑，揭示设计基准测试背后的技术秘密",
-   "hook_reason": "神秘模型Gestalt横空出世碾压Claude/GPT，技术圈集体好奇其来历",
-   "url": "https://www.zhihu.com/question/2106839067346350136",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:神秘模型gestalt横空出世设计基准上大幅超越claudegpt这款模型到底是",
-   "batch_window": 21
-  },
-  {
    "key": "余承东鸿蒙智行",
    "title": "余承东 鸿蒙智行",
    "rating": "A",
@@ -19469,6 +19456,32 @@
    "breaking": true,
    "event_id": "e:anthropicemployeeclaimsgeneralproofofthe",
    "batch_window": 1
+  },
+  {
+   "key": "余承东称现在l2开车不能睡觉",
+   "title": "余承东称现在L2开车不能睡觉",
+   "rating": "A",
+   "score": 43.45,
+   "angle": "深度拆解L2级智驾法律边界，揭秘为何厂商不敢承诺‘自动驾驶’",
+   "hook_reason": "余大嘴放狠话，L2级智驾风险争议，打工人买车必看",
+   "url": "https://s.weibo.com/weibo?q=余承东称现在L2开车不能睡觉",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:余承东称现在l2开车不能睡觉",
+   "batch_window": 2
+  },
+  {
+   "key": "数学家称与ai合作证明了黎曼猜想证明稿超25万页黎曼猜想真的被解决了吗",
+   "title": "数学家称与 AI 合作证明了黎曼猜想，证明稿超 25 万页，黎曼猜想真的被解决了吗？",
+   "rating": "A",
+   "score": 48.31,
+   "angle": "拆解数学家声明细节，科普AI辅助数学证明的边界与风险，澄清谣言",
+   "hook_reason": "25万页证明AI搞定千年难题，是真理还是幻觉？",
+   "url": "https://www.zhihu.com/question/2107239235015263538",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:数学家称与ai合作证明了黎曼猜想证明稿超25万页黎曼猜想真的被解决了吗",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -21163,7 +21176,8 @@
   "阿波罗租赁计划预计将在2027年上半年gpu及相关设备交付后启动",
   "华为星芒ostao1pro价格",
   "deepseek付费体验直线上升",
-  "a股尾盘拉升"
+  "a股尾盘拉升",
+  "神秘模型gestalt横空出世设计基准上大幅超越claudegpt这款模型到底是啥来历"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22794,7 +22808,8 @@
   "e:阿波罗租赁计划预计将在2027年上半年gpu及相关设备交付后启动": "阿波罗：租赁计划预计将在2027年上半年GPU及相关设备交付后启动。",
   "e:华为星芒ostao1pro价格": "华为星芒OSTAO1Pro价格",
   "e:deepseek付费体验直线上升": "DeepSeek付费体验直线上升",
-  "e:a股尾盘拉升": "A股尾盘拉升"
+  "e:a股尾盘拉升": "A股尾盘拉升",
+  "e:神秘模型gestalt横空出世设计基准上大幅超越claudegpt这款模型到底是": "神秘模型 Gestalt 横空出世，设计基准上大幅超越 Claude、GPT，这款模型到底是啥来历？"
  },
  "a_seen": {
   "钧正平日方应收回涉台错误言论": {
@@ -22868,8 +22883,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:anthropicemployeeclaimsgeneralproofofthe"
+  },
+  "余承东称现在l2开车不能睡觉": {
+   "key": "余承东称现在l2开车不能睡觉",
+   "title": "余承东称现在L2开车不能睡觉",
+   "rating": "A",
+   "score": 43.45,
+   "angle": "深度拆解L2级智驾法律边界，揭秘为何厂商不敢承诺‘自动驾驶’",
+   "hook_reason": "余大嘴放狠话，L2级智驾风险争议，打工人买车必看",
+   "url": "https://s.weibo.com/weibo?q=余承东称现在L2开车不能睡觉",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:余承东称现在l2开车不能睡觉"
+  },
+  "数学家称与ai合作证明了黎曼猜想证明稿超25万页黎曼猜想真的被解决了吗": {
+   "key": "数学家称与ai合作证明了黎曼猜想证明稿超25万页黎曼猜想真的被解决了吗",
+   "title": "数学家称与 AI 合作证明了黎曼猜想，证明稿超 25 万页，黎曼猜想真的被解决了吗？",
+   "rating": "A",
+   "score": 48.31,
+   "angle": "拆解数学家声明细节，科普AI辅助数学证明的边界与风险，澄清谣言",
+   "hook_reason": "25万页证明AI搞定千年难题，是真理还是幻觉？",
+   "url": "https://www.zhihu.com/question/2107239235015263538",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:数学家称与ai合作证明了黎曼猜想证明稿超25万页黎曼猜想真的被解决了吗"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
