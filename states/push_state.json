@@ -19354,19 +19354,6 @@
    "batch_window": 17
   },
   {
-   "key": "a股尾盘拉升",
-   "title": "A股尾盘拉升",
-   "rating": "A",
-   "score": 85.0,
-   "angle": "深度解析尾盘拉升背后的主力意图与散户接盘逻辑",
-   "hook_reason": "尾盘异动引发散户情绪波动，市场博弈强烈",
-   "url": "https://s.weibo.com/weibo?q=A股尾盘拉升",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:a股尾盘拉升",
-   "batch_window": 18
-  },
-  {
    "key": "余承东l3自动驾驶来了后开车可睡觉",
    "title": "余承东：L3自动驾驶来了后开车可睡觉",
    "rating": "A",
@@ -19469,6 +19456,19 @@
    "breaking": true,
    "event_id": "e:金价明年或涨至5250美元",
    "batch_window": 22
+  },
+  {
+   "key": "anthropicemployeeclaimsgeneralpr46c1ea7a",
+   "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "深度解析Anthropic员工Riemann猜想证明，审视AI在尖端数学研究中的真实能力边界与可信度争议。",
+   "hook_reason": "AI员工证伪黎曼猜想，数学与AI的跨界碰撞极具颠覆性。",
+   "url": "https://alpo.ge/remark.pdf",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropicemployeeclaimsgeneralproofofthe",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -21161,7 +21161,9 @@
   "伊朗媒体称格什姆岛遭导弹袭击",
   "两张历史性同框照为何在中国定格",
   "阿波罗租赁计划预计将在2027年上半年gpu及相关设备交付后启动",
-  "华为星芒ostao1pro价格"
+  "华为星芒ostao1pro价格",
+  "deepseek付费体验直线上升",
+  "a股尾盘拉升"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22790,7 +22792,9 @@
   "e:伊朗媒体称格什姆岛遭导弹袭击": "伊朗媒体称格什姆岛遭导弹袭击",
   "e:两张历史性同框照为何在中国定格": "两张历史性同框照为何在中国定格",
   "e:阿波罗租赁计划预计将在2027年上半年gpu及相关设备交付后启动": "阿波罗：租赁计划预计将在2027年上半年GPU及相关设备交付后启动。",
-  "e:华为星芒ostao1pro价格": "华为星芒OSTAO1Pro价格"
+  "e:华为星芒ostao1pro价格": "华为星芒OSTAO1Pro价格",
+  "e:deepseek付费体验直线上升": "DeepSeek付费体验直线上升",
+  "e:a股尾盘拉升": "A股尾盘拉升"
  },
  "a_seen": {
   "钧正平日方应收回涉台错误言论": {
@@ -22840,8 +22844,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:数学家称用ai证明了黎曼猜想"
+  },
+  "deepseek付费体验直线上升": {
+   "key": "deepseek付费体验直线上升",
+   "title": "DeepSeek付费体验直线上升",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "DeepSeek付费体验优化信号解读：AI从流量竞争转向价值竞争",
+   "hook_reason": "国产AI巨头商业变现模式重大调整，引发行业震动",
+   "url": "https://s.weibo.com/weibo?q=DeepSeek付费体验直线上升",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:deepseek付费体验直线上升"
+  },
+  "anthropicemployeeclaimsgeneralpr46c1ea7a": {
+   "key": "anthropicemployeeclaimsgeneralpr46c1ea7a",
+   "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "深度解析Anthropic员工Riemann猜想证明，审视AI在尖端数学研究中的真实能力边界与可信度争议。",
+   "hook_reason": "AI员工证伪黎曼猜想，数学与AI的跨界碰撞极具颠覆性。",
+   "url": "https://alpo.ge/remark.pdf",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:anthropicemployeeclaimsgeneralproofofthe"
   }
  },
- "breaking_count": 9,
- "a_pushed_window": 0
+ "breaking_count": 10,
+ "a_pushed_window": 1
 }
