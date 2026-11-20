@@ -16013,19 +16013,6 @@
    "batch_window": 13
   },
   {
-   "key": "男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律角度解读",
-   "title": "男子收 1.98 万误转账约派出所归还却遭起诉，法院认定不当得利冻结其账户资金，怎样从法律角度解读？",
-   "rating": "A",
-   "score": 80.0,
-   "angle": "解析不当得利构成要件，剖析善意第三人误转账的法律风险与维权实操",
-   "hook_reason": "好心返还反被冻结账户，普通人的法律盲区与信任危机",
-   "url": "https://www.zhihu.com/question/2102313430409658570",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律",
-   "batch_window": 15
-  },
-  {
    "key": "张艺谋ai短视频倒贴钱谁还进电影院",
    "title": "张艺谋：AI短视频倒贴钱谁还进电影院",
    "rating": "A",
@@ -19248,6 +19235,19 @@
    "breaking": true,
    "event_id": "e:anthropic七位创始人百亿美元",
    "batch_window": 7
+  },
+  {
+   "key": "美联储保罗森我们还需要进一步收紧政策以审慎步伐加息让经济有时间调整",
+   "title": "美联储保罗森：我们还需要进一步收紧政策。以审慎步伐加息让经济有时间调整。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "解析保罗森'审慎加息'言论对A股及全球资产配置的连锁反应",
+   "hook_reason": "保罗森罕见建议加息，全球市场逻辑或生变",
+   "url": "https://finance.sina.cn/7x24/2026-11-20/detail-inizitct0488629.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储官员保尔森降低通胀是当前的首要任务",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -20915,7 +20915,8 @@
   "deepseek用户呼吁取消7天限制",
   "pancreaticcancerhaltedbyvirusinjb6df801a",
   "macatanyscale",
-  "南京一老人横穿快速路后方车辆反应不及致多车连环追尾如何看待交警判决老人不担责追尾车辆按比担责"
+  "南京一老人横穿快速路后方车辆反应不及致多车连环追尾如何看待交警判决老人不担责追尾车辆按比担责",
+  "男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律角度解读"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22519,7 +22520,8 @@
   "e:deepseek用户呼吁取消7天限制": "DeepSeek用户呼吁取消7天限制",
   "e:pancreaticcancerhaltedbyvirusinjectionin": "Pancreatic cancer halted by virus injection in three patients",
   "e:macatanyscale": "Mac at Any Scale",
-  "e:南京一老人横穿快速路后方车辆反应不及致多车连环追尾如何看待交警判决老人不担责追尾": "南京一老人横穿快速路，后方车辆反应不及致多车连环追尾，如何看待交警判决老人不担责，追尾车辆按比担责？"
+  "e:南京一老人横穿快速路后方车辆反应不及致多车连环追尾如何看待交警判决老人不担责追尾": "南京一老人横穿快速路，后方车辆反应不及致多车连环追尾，如何看待交警判决老人不担责，追尾车辆按比担责？",
+  "e:男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律": "男子收 1.98 万误转账约派出所归还却遭起诉，法院认定不当得利冻结其账户资金，怎样从法律角度解读？"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -22658,15 +22660,27 @@
    "key": "anthropic七位创始人百亿美元",
    "title": "Anthropic七位创始人百亿美元",
    "rating": "A",
-   "score": 44.95,
-   "angle": "从创始人持股结构与估值跳升，分析AI巨头财富分配新范式",
-   "hook_reason": "七人分百亿，财富自由天花板，冲击性极强",
+   "score": 79.1,
+   "angle": "解析百亿美元估值逻辑，探讨AI新贵财富效应与行业泡沫。",
+   "hook_reason": "百亿美元财富神话，顶级AI创业家爆发，吸睛。",
    "url": "https://s.weibo.com/weibo?q=Anthropic七位创始人百亿美元",
-   "track": "财经",
+   "track": "科技",
    "breaking": true,
    "event_id": "e:anthropic七位创始人百亿美元"
+  },
+  "美联储保罗森我们还需要进一步收紧政策以审慎步伐加息让经济有时间调整": {
+   "key": "美联储保罗森我们还需要进一步收紧政策以审慎步伐加息让经济有时间调整",
+   "title": "美联储保罗森：我们还需要进一步收紧政策。以审慎步伐加息让经济有时间调整。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "解析保罗森'审慎加息'言论对A股及全球资产配置的连锁反应",
+   "hook_reason": "保罗森罕见建议加息，全球市场逻辑或生变",
+   "url": "https://finance.sina.cn/7x24/2026-11-20/detail-inizitct0488629.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美联储官员保尔森降低通胀是当前的首要任务"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
