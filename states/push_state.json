@@ -17079,19 +17079,6 @@
    "batch_window": 10
   },
   {
-   "key": "criticalrcevulnerabilityinapachehttpserver",
-   "title": "Critical RCE Vulnerability in Apache HTTP Server",
-   "rating": "A",
-   "score": 80.0,
-   "angle": "解读 CVE-2026-119618 危害，提供 Apache 紧急修复与加固代码指南",
-   "hook_reason": "Apache 0day RCE 爆发，所有部署者需紧急自查",
-   "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:criticalrcevulnerabilityinapachehttpserv",
-   "batch_window": 12
-  },
-  {
    "key": "被老师打到抽搐女孩父母常年在外务工",
    "title": "被老师打到抽搐女孩父母常年在外务工",
    "rating": "A",
@@ -19248,6 +19235,19 @@
    "breaking": true,
    "event_id": "e:美联储官员保尔森降低通胀是当前的首要任务",
    "batch_window": 8
+  },
+  {
+   "key": "如何看待混元hy4flash登顶openrouter调用榜首tokens达deepseek两倍",
+   "title": "如何看待混元Hy4 flash登顶Openrouter调用榜首 ，Tokens达DeepSeek两倍？",
+   "rating": "A",
+   "score": 86.56,
+   "angle": "混元Hy4 flash调用量翻倍超越DeepSeek，国产大模型生态竞争格局突变",
+   "hook_reason": "国产混元登顶榜单，调用量超DeepSeek两倍，打破垄断预期",
+   "url": "https://www.zhihu.com/question/2106540440845563614",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何看待混元hy4flash登顶openrouter调用榜首tokens达dee",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -20916,7 +20916,8 @@
   "pancreaticcancerhaltedbyvirusinjb6df801a",
   "macatanyscale",
   "南京一老人横穿快速路后方车辆反应不及致多车连环追尾如何看待交警判决老人不担责追尾车辆按比担责",
-  "男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律角度解读"
+  "男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律角度解读",
+  "criticalrcevulnerabilityinapachehttpserver"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22521,7 +22522,8 @@
   "e:pancreaticcancerhaltedbyvirusinjectionin": "Pancreatic cancer halted by virus injection in three patients",
   "e:macatanyscale": "Mac at Any Scale",
   "e:南京一老人横穿快速路后方车辆反应不及致多车连环追尾如何看待交警判决老人不担责追尾": "南京一老人横穿快速路，后方车辆反应不及致多车连环追尾，如何看待交警判决老人不担责，追尾车辆按比担责？",
-  "e:男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律": "男子收 1.98 万误转账约派出所归还却遭起诉，法院认定不当得利冻结其账户资金，怎样从法律角度解读？"
+  "e:男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律": "男子收 1.98 万误转账约派出所归还却遭起诉，法院认定不当得利冻结其账户资金，怎样从法律角度解读？",
+  "e:criticalrcevulnerabilityinapachehttpserv": "Critical RCE Vulnerability in Apache HTTP Server"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -22679,8 +22681,44 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:美联储官员保尔森降低通胀是当前的首要任务"
+  },
+  "金价大跌后市预期分歧": {
+   "key": "金价大跌后市预期分歧",
+   "title": "金价大跌后市预期分歧",
+   "rating": "A",
+   "score": 88.5,
+   "angle": "解析多空分歧背后的宏观逻辑，评估普通投资者当下的操作风险与机会",
+   "hook_reason": "钱包直接关联，大跌引发恐慌与抄底争议",
+   "url": "https://s.weibo.com/weibo?q=金价大跌后市预期分歧",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:黄金白银断崖式大跌"
+  },
+  "如何看待混元hy4flash登顶openrouter调用榜首tokens达deepseek两倍": {
+   "key": "如何看待混元hy4flash登顶openrouter调用榜首tokens达deepseek两倍",
+   "title": "如何看待混元Hy4 flash登顶Openrouter调用榜首 ，Tokens达DeepSeek两倍？",
+   "rating": "A",
+   "score": 86.56,
+   "angle": "混元Hy4 flash调用量翻倍超越DeepSeek，国产大模型生态竞争格局突变",
+   "hook_reason": "国产混元登顶榜单，调用量超DeepSeek两倍，打破垄断预期",
+   "url": "https://www.zhihu.com/question/2106540440845563614",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何看待混元hy4flash登顶openrouter调用榜首tokens达dee"
+  },
+  "美股再度大跌": {
+   "key": "美股再度大跌",
+   "title": "美股再度大跌",
+   "rating": "A",
+   "score": 57.51,
+   "angle": "深度解读大跌背后的宏观逻辑与A股联动风险",
+   "hook_reason": "市场恐慌蔓延，投资者急需避险指南与情绪出口",
+   "url": "https://s.weibo.com/weibo?q=美股再度大跌",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美股科技题材全线下挫纳指跌近2"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
