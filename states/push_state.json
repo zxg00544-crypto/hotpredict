@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-11-20",
  "a_pending": [
   {
@@ -19393,19 +19393,6 @@
    "batch_window": 18
   },
   {
-   "key": "余承东纠正发布会发言",
-   "title": "余承东纠正发布会发言",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "从余承东纠错行为切入，解读华为高端化战略下的极致严谨与品牌自信，对比其他车企营销差异。",
-   "hook_reason": "余承东罕见自纠，揭秘华为发布会背后的高压细节与产品逻辑",
-   "url": "https://s.weibo.com/weibo?q=余承东纠正发布会发言",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:余承东纠正发布会发言",
-   "batch_window": 19
-  },
-  {
    "key": "孕妈预产期喝半斤白酒紧急送医",
    "title": "孕妈预产期喝半斤白酒紧急送医",
    "rating": "A",
@@ -19456,6 +19443,32 @@
    "breaking": true,
    "event_id": "e:余承东纠正开车可以睡觉言论",
    "batch_window": 20
+  },
+  {
+   "key": "神秘模型gestalt横空出世设计基准上大幅超越claudegpt这款模型到底是啥来历",
+   "title": "神秘模型 Gestalt 横空出世，设计基准上大幅超越 Claude、GPT，这款模型到底是啥来历？",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "拆解Gestalt模型架构与超越GPT的底层逻辑，揭示设计基准测试背后的技术秘密",
+   "hook_reason": "神秘模型Gestalt横空出世碾压Claude/GPT，技术圈集体好奇其来历",
+   "url": "https://www.zhihu.com/question/2106839067346350136",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:神秘模型gestalt横空出世设计基准上大幅超越claudegpt这款模型到底是",
+   "batch_window": 21
+  },
+  {
+   "key": "余承东鸿蒙智行",
+   "title": "余承东 鸿蒙智行",
+   "rating": "A",
+   "score": 43.0,
+   "angle": "解析鸿蒙智行最新进展及余承东对行业格局的影响",
+   "hook_reason": "鸿蒙智行新动态引发科技圈热议，余承东IP自带流量",
+   "url": "https://s.weibo.com/weibo?q=余承东 鸿蒙智行",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:余承东鸿蒙智行",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -21136,7 +21149,8 @@
   "12306迎来重大更新",
   "特朗普称行程太满没顾上见金正恩",
   "县委书记说不能过度消费张雪",
-  "李子柒当选四川文联副主席"
+  "李子柒当选四川文联副主席",
+  "余承东纠正发布会发言"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22753,7 +22767,8 @@
   "e:12306迎来重大更新": "12306迎来重大更新",
   "e:特朗普称行程太满没顾上见金正恩": "特朗普称行程太满没顾上见金正恩",
   "e:县委书记说不能过度消费张雪": "县委书记说不能过度消费张雪",
-  "e:李子柒当选四川文联副主席": "李子柒当选四川文联副主席"
+  "e:李子柒当选四川文联副主席": "李子柒当选四川文联副主席",
+  "e:余承东纠正发布会发言": "余承东纠正发布会发言"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -23307,8 +23322,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:frostbiteanewcpuarchitecturediscoveredde"
+  },
+  "神秘模型gestalt横空出世设计基准上大幅超越claudegpt这款模型到底是啥来历": {
+   "key": "神秘模型gestalt横空出世设计基准上大幅超越claudegpt这款模型到底是啥来历",
+   "title": "神秘模型 Gestalt 横空出世，设计基准上大幅超越 Claude、GPT，这款模型到底是啥来历？",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "拆解Gestalt模型架构与超越GPT的底层逻辑，揭示设计基准测试背后的技术秘密",
+   "hook_reason": "神秘模型Gestalt横空出世碾压Claude/GPT，技术圈集体好奇其来历",
+   "url": "https://www.zhihu.com/question/2106839067346350136",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:神秘模型gestalt横空出世设计基准上大幅超越claudegpt这款模型到底是"
+  },
+  "余承东鸿蒙智行": {
+   "key": "余承东鸿蒙智行",
+   "title": "余承东 鸿蒙智行",
+   "rating": "A",
+   "score": 43.0,
+   "angle": "解析鸿蒙智行最新进展及余承东对行业格局的影响",
+   "hook_reason": "鸿蒙智行新动态引发科技圈热议，余承东IP自带流量",
+   "url": "https://s.weibo.com/weibo?q=余承东 鸿蒙智行",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:余承东鸿蒙智行"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
