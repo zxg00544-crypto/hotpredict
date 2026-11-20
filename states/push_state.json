@@ -19276,17 +19276,30 @@
    "batch_window": 11
   },
   {
-   "key": "高盛再下调金价预测",
-   "title": "高盛再下调金价预测",
+   "key": "如何看待张朝阳回应搜狐躺平没资源做大模型但每天凌晨4点起床讲物理课也是工作",
+   "title": "如何看待张朝阳回应搜狐「躺平」：没资源做大模型，但每天凌晨4点起床，讲物理课也是工作？",
    "rating": "A",
-   "score": 90.5,
-   "angle": "拆解高盛逻辑，分析“聪明钱”撤退对散户补仓的误判，提供当下黄金配置反直觉策略。",
-   "hook_reason": "高盛权威下调预测，直接影响散户金饰投资与财富焦虑，引发“还能买吗”的恐慌与好奇。",
-   "url": "https://s.weibo.com/weibo?q=高盛再下调金价预测",
+   "score": 65.85,
+   "angle": "张朝阳用“反内卷”姿态，给AI时代普通人提供精神出口",
+   "hook_reason": "大佬躺平反差，凌晨4点讲课，身份焦虑共鸣",
+   "url": "https://www.zhihu.com/question/2106691940146331909",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:如何看待张朝阳回应搜狐躺平没资源做大模型但每天凌晨4点起床讲物理课也是工作",
+   "batch_window": 12
+  },
+  {
+   "key": "金价跌到7字头囤金人心态崩了",
+   "title": "金价跌到7字头囤金人心态崩了",
+   "rating": "A",
+   "score": 68.13,
+   "angle": "深度拆解7字头金价成因，给散户提供‘抄底还是割肉’的实操决策建议",
+   "hook_reason": "金价跌破心理关口，散户恐慌情绪拉满，共鸣极强",
+   "url": "https://s.weibo.com/weibo?q=金价跌到7字头囤金人心态崩了",
    "track": "财经",
    "breaking": true,
-   "event_id": "e:高盛再下调金价预测",
-   "batch_window": 11
+   "event_id": "e:金价跌到7字头囤金人心态崩了",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -20958,7 +20971,8 @@
   "男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律角度解读",
   "criticalrcevulnerabilityinapachehttpserver",
   "如何看待混元hy4flash登顶openrouter调用榜首tokens达deepseek两倍",
-  "美股再大跌原因"
+  "美股再大跌原因",
+  "高盛再下调金价预测"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22566,7 +22580,8 @@
   "e:男子收198万误转账约派出所归还却遭起诉法院认定不当得利冻结其账户资金怎样从法律": "男子收 1.98 万误转账约派出所归还却遭起诉，法院认定不当得利冻结其账户资金，怎样从法律角度解读？",
   "e:criticalrcevulnerabilityinapachehttpserv": "Critical RCE Vulnerability in Apache HTTP Server",
   "e:如何看待混元hy4flash登顶openrouter调用榜首tokens达dee": "如何看待混元Hy4 flash登顶Openrouter调用榜首 ，Tokens达DeepSeek两倍？",
-  "e:美股再大跌原因": "美股再大跌原因"
+  "e:美股再大跌原因": "美股再大跌原因",
+  "e:高盛再下调金价预测": "高盛再下调金价预测"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -22832,8 +22847,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:高盛再下调金价预测"
+  },
+  "如何看待张朝阳回应搜狐躺平没资源做大模型但每天凌晨4点起床讲物理课也是工作": {
+   "key": "如何看待张朝阳回应搜狐躺平没资源做大模型但每天凌晨4点起床讲物理课也是工作",
+   "title": "如何看待张朝阳回应搜狐「躺平」：没资源做大模型，但每天凌晨4点起床，讲物理课也是工作？",
+   "rating": "A",
+   "score": 65.85,
+   "angle": "张朝阳用“反内卷”姿态，给AI时代普通人提供精神出口",
+   "hook_reason": "大佬躺平反差，凌晨4点讲课，身份焦虑共鸣",
+   "url": "https://www.zhihu.com/question/2106691940146331909",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:如何看待张朝阳回应搜狐躺平没资源做大模型但每天凌晨4点起床讲物理课也是工作"
+  },
+  "金价跌到7字头囤金人心态崩了": {
+   "key": "金价跌到7字头囤金人心态崩了",
+   "title": "金价跌到7字头囤金人心态崩了",
+   "rating": "A",
+   "score": 68.13,
+   "angle": "深度拆解7字头金价成因，给散户提供‘抄底还是割肉’的实操决策建议",
+   "hook_reason": "金价跌破心理关口，散户恐慌情绪拉满，共鸣极强",
+   "url": "https://s.weibo.com/weibo?q=金价跌到7字头囤金人心态崩了",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:金价跌到7字头囤金人心态崩了"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
