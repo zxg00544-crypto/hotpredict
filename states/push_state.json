@@ -19289,19 +19289,6 @@
    "batch_window": 14
   },
   {
-   "key": "12306迎来重大更新",
-   "title": "12306迎来重大更新",
-   "rating": "A",
-   "score": 87.85,
-   "angle": "12306重大更新背后，AI如何重构中国最大出行服务的底层逻辑",
-   "hook_reason": "春运购票刚需，重大更新直接影响打工人抢票体验，情绪强",
-   "url": "https://s.weibo.com/weibo?q=12306迎来重大更新",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:12306迎来重大更新",
-   "batch_window": 15
-  },
-  {
    "key": "媒体称中国ai人才不再迷恋美国成群回国这一趋势背后的核心动因是什么",
    "title": "媒体称中国 AI 人才不再迷恋美国成群回国，这一趋势背后的核心动因是什么？",
    "rating": "A",
@@ -19352,6 +19339,45 @@
    "breaking": true,
    "event_id": "e:华为星芒品牌发布会",
    "batch_window": 16
+  },
+  {
+   "key": "deepseek第二轮融资1050多亿元落地31家外部股东入局怎样解读",
+   "title": "DeepSeek 第二轮融资 1050 多亿元落地，31 家外部股东入局，怎样解读？",
+   "rating": "A",
+   "score": 69.3,
+   "angle": "解析1050亿估值背后的资本逻辑与31家股东名单，揭秘国产AI的‘去风险化’与全球化突围。",
+   "hook_reason": "千亿融资落地，31家巨头入局，国产AI资本狂飙",
+   "url": "https://www.zhihu.com/question/2106889511993189511",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:deepseek第二轮融资1050多亿元落地31家外部股东入局怎样解读",
+   "batch_window": 17
+  },
+  {
+   "key": "特朗普称行程太满没顾上见金正恩",
+   "title": "特朗普称行程太满没顾上见金正恩",
+   "rating": "A",
+   "score": 92.6,
+   "angle": "解读特朗普‘行程太满’背后的外交策略变化，分析其对亚太地缘政治及市场情绪的影响",
+   "hook_reason": "特朗普缺席会晤金特会，打破外交惯例，引发对美朝关系走向的猜测",
+   "url": "https://www.toutiao.com/trending/7710147160632823322/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普称行程太满没顾上见金正恩",
+   "batch_window": 17
+  },
+  {
+   "key": "华为星芒ostao1pro价格",
+   "title": "华为星芒OSTAO1Pro价格",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "拆解华为星芒价格体系，分析其在中高端机市场的破局逻辑与消费者心理。",
+   "hook_reason": "华为新品价格公布，数码圈价格敏感度极高，极易引发抢购或吐槽讨论。",
+   "url": "https://s.weibo.com/weibo?q=华为星芒OSTAO1Pro价格",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为星芒ostao1pro价格",
+   "batch_window": 17
   }
  ],
  "pushed": [
@@ -21028,7 +21054,8 @@
   "gemini4hydrogenandorchestrator",
   "阿里巴巴公告拟分拆平头哥赴港独立上市已于9月11日秘密递交上市申请怎样解读这一动作上市前景如何",
   "如何看待马斯克离开深圳突访上海",
-  "泽连斯基回应特朗普称普京为朋友"
+  "泽连斯基回应特朗普称普京为朋友",
+  "12306迎来重大更新"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22641,7 +22668,8 @@
   "e:gemini4hydrogenandorchestrator": "Gemini 4 Hydrogen and Orchestrator",
   "e:阿里巴巴公告拟分拆平头哥赴港独立上市已于9月11日秘密递交上市申请怎样解读这一动": "阿里巴巴公告拟分拆平头哥赴港独立上市，已于9月11日秘密递交上市申请，怎样解读这一动作？上市前景如何？",
   "e:如何看待马斯克离开深圳突访上海": "如何看待马斯克离开深圳，突访上海？",
-  "e:泽连斯基回应特朗普称普京为朋友": "泽连斯基回应特朗普称普京为朋友"
+  "e:泽连斯基回应特朗普称普京为朋友": "泽连斯基回应特朗普称普京为朋友",
+  "e:12306迎来重大更新": "12306迎来重大更新"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -23032,15 +23060,51 @@
    "key": "华为星芒品牌发布会",
    "title": "华为星芒品牌发布会",
    "rating": "A",
-   "score": 45.2,
-   "angle": "聚焦发布会黑科技与行业地位，预判国产高端突破",
-   "hook_reason": "华为新品发布，科技圈顶级流量，悬念强",
+   "score": 77.1,
+   "angle": "深度解析华为星芒品牌定位，预测对安卓影像格局的颠覆性影响",
+   "hook_reason": "华为新品牌亮相，揭秘高端影像旗舰，科技圈大瓜",
    "url": "https://s.weibo.com/weibo?q=华为星芒品牌发布会",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:华为星芒品牌发布会"
+   "event_id": "e:华为星芒ostao1pro价格"
+  },
+  "deepseek第二轮融资1050多亿元落地31家外部股东入局怎样解读": {
+   "key": "deepseek第二轮融资1050多亿元落地31家外部股东入局怎样解读",
+   "title": "DeepSeek 第二轮融资 1050 多亿元落地，31 家外部股东入局，怎样解读？",
+   "rating": "A",
+   "score": 69.3,
+   "angle": "解析1050亿估值背后的资本逻辑与31家股东名单，揭秘国产AI的‘去风险化’与全球化突围。",
+   "hook_reason": "千亿融资落地，31家巨头入局，国产AI资本狂飙",
+   "url": "https://www.zhihu.com/question/2106889511993189511",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:deepseek第二轮融资1050多亿元落地31家外部股东入局怎样解读"
+  },
+  "特朗普称行程太满没顾上见金正恩": {
+   "key": "特朗普称行程太满没顾上见金正恩",
+   "title": "特朗普称行程太满没顾上见金正恩",
+   "rating": "A",
+   "score": 92.6,
+   "angle": "解读特朗普‘行程太满’背后的外交策略变化，分析其对亚太地缘政治及市场情绪的影响",
+   "hook_reason": "特朗普缺席会晤金特会，打破外交惯例，引发对美朝关系走向的猜测",
+   "url": "https://www.toutiao.com/trending/7710147160632823322/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普称行程太满没顾上见金正恩"
+  },
+  "华为星芒ostao1pro价格": {
+   "key": "华为星芒ostao1pro价格",
+   "title": "华为星芒OSTAO1Pro价格",
+   "rating": "A",
+   "score": 86.0,
+   "angle": "拆解华为星芒价格体系，分析其在中高端机市场的破局逻辑与消费者心理。",
+   "hook_reason": "华为新品价格公布，数码圈价格敏感度极高，极易引发抢购或吐槽讨论。",
+   "url": "https://s.weibo.com/weibo?q=华为星芒OSTAO1Pro价格",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为星芒ostao1pro价格"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 16
+ "a_pushed_window": 17
 }
