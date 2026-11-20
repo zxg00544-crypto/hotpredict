@@ -17612,19 +17612,6 @@
    "batch_window": 8
   },
   {
-   "key": "阿里巴巴公告拟分拆平头哥赴港独立上市已于9月11日秘密递交上市申请怎样解读这一动作上市前景如何",
-   "title": "阿里巴巴公告拟分拆平头哥赴港独立上市，已于9月11日秘密递交上市申请，怎样解读这一动作？上市前景如何？",
-   "rating": "A",
-   "score": 80.0,
-   "angle": "解读阿里分拆平头哥上市的战略意图，分析其对国产芯片行业估值及港股半导体板块的潜在影响",
-   "hook_reason": "阿里分拆平头哥上市，半导体估值重估与国产芯片破局",
-   "url": "https://www.zhihu.com/question/2103593134626009683",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:阿里巴巴公告拟分拆平头哥赴港独立上市已于9月11日秘密递交上市申请怎样解读这一动",
-   "batch_window": 9
-  },
-  {
    "key": "黄仁勋辞职或影响史上最大ipo",
    "title": "黄仁勋辞职或影响史上最大IPO",
    "rating": "A",
@@ -19287,6 +19274,32 @@
    "breaking": true,
    "event_id": "e:金价跌到7字头囤金人心态崩了",
    "batch_window": 12
+  },
+  {
+   "key": "如何看待马斯克离开深圳突访上海",
+   "title": "如何看待马斯克离开深圳，突访上海？",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "解析马斯克弃深访沪背后的供应链与政策风向",
+   "hook_reason": "马斯克行程突变，折射中国科技风向",
+   "url": "https://www.zhihu.com/question/2106907755730814315",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何看待马斯克离开深圳突访上海",
+   "batch_window": 14
+  },
+  {
+   "key": "华夏基金总经理李一梅a股已处于阶段性底部正是布局权益投资的好时机",
+   "title": "华夏基金总经理李一梅：A股已处于阶段性底部，正是布局权益投资的好时机",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "剖析李一梅“底部论”逻辑，对比市场恐慌情绪，给普通投资者布局建议",
+   "hook_reason": "大佬唱多喊底部，散户最怕追顶或踏空，决策焦虑极强",
+   "url": "https://finance.sina.cn/7x24/2026-11-20/detail-inizkizh3931222.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:华夏基金总经理李一梅a股已处于阶段性底部正是布局权益投资的好时机",
+   "batch_window": 14
   }
  ],
  "pushed": [
@@ -20960,7 +20973,8 @@
   "如何看待混元hy4flash登顶openrouter调用榜首tokens达deepseek两倍",
   "美股再大跌原因",
   "高盛再下调金价预测",
-  "gemini4hydrogenandorchestrator"
+  "gemini4hydrogenandorchestrator",
+  "阿里巴巴公告拟分拆平头哥赴港独立上市已于9月11日秘密递交上市申请怎样解读这一动作上市前景如何"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22570,7 +22584,8 @@
   "e:如何看待混元hy4flash登顶openrouter调用榜首tokens达dee": "如何看待混元Hy4 flash登顶Openrouter调用榜首 ，Tokens达DeepSeek两倍？",
   "e:美股再大跌原因": "美股再大跌原因",
   "e:高盛再下调金价预测": "高盛再下调金价预测",
-  "e:gemini4hydrogenandorchestrator": "Gemini 4 Hydrogen and Orchestrator"
+  "e:gemini4hydrogenandorchestrator": "Gemini 4 Hydrogen and Orchestrator",
+  "e:阿里巴巴公告拟分拆平头哥赴港独立上市已于9月11日秘密递交上市申请怎样解读这一动": "阿里巴巴公告拟分拆平头哥赴港独立上市，已于9月11日秘密递交上市申请，怎样解读这一动作？上市前景如何？"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -22872,8 +22887,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:金价大跌后国庆上海金店排长队"
+  },
+  "如何看待马斯克离开深圳突访上海": {
+   "key": "如何看待马斯克离开深圳突访上海",
+   "title": "如何看待马斯克离开深圳，突访上海？",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "解析马斯克弃深访沪背后的供应链与政策风向",
+   "hook_reason": "马斯克行程突变，折射中国科技风向",
+   "url": "https://www.zhihu.com/question/2106907755730814315",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:如何看待马斯克离开深圳突访上海"
+  },
+  "华夏基金总经理李一梅a股已处于阶段性底部正是布局权益投资的好时机": {
+   "key": "华夏基金总经理李一梅a股已处于阶段性底部正是布局权益投资的好时机",
+   "title": "华夏基金总经理李一梅：A股已处于阶段性底部，正是布局权益投资的好时机",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "剖析李一梅“底部论”逻辑，对比市场恐慌情绪，给普通投资者布局建议",
+   "hook_reason": "大佬唱多喊底部，散户最怕追顶或踏空，决策焦虑极强",
+   "url": "https://finance.sina.cn/7x24/2026-11-20/detail-inizkizh3931222.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:华夏基金总经理李一梅a股已处于阶段性底部正是布局权益投资的好时机"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 13
+ "a_pushed_window": 14
 }
