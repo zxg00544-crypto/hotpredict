@@ -19274,6 +19274,19 @@
    "breaking": true,
    "event_id": "e:张泉灵就像有人开团一秒跟了一样",
    "batch_window": 11
+  },
+  {
+   "key": "高盛再下调金价预测",
+   "title": "高盛再下调金价预测",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "拆解高盛逻辑，分析“聪明钱”撤退对散户补仓的误判，提供当下黄金配置反直觉策略。",
+   "hook_reason": "高盛权威下调预测，直接影响散户金饰投资与财富焦虑，引发“还能买吗”的恐慌与好奇。",
+   "url": "https://s.weibo.com/weibo?q=高盛再下调金价预测",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:高盛再下调金价预测",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -22776,13 +22789,13 @@
    "key": "特朗普给中俄美元首会晤打12分",
    "title": "特朗普给中俄美元首会晤打12分",
    "rating": "A",
-   "score": 89.5,
-   "angle": "解析特朗普的'12分'潜台词：是对中俄抱团的不满，还是为自身谈判筹码造势？",
-   "hook_reason": "特朗普罕见公开给中俄互动打分，地缘政治博弈背后隐藏经济风向",
-   "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%99%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%89%9312%E5%88%86&sa=fyb_news&rsv_dl=fyb_news",
+   "score": 87.75,
+   "angle": "解析特朗普用“12分”夸张修辞背后的外交信号与媒体传播效应",
+   "hook_reason": "特朗普给元首会晤打12分，荒诞幽默引发好奇",
+   "url": "https://s.weibo.com/weibo?q=特朗普给中俄美元首会晤打12分",
    "track": "大咖发言",
    "breaking": true,
-   "event_id": "e:习近平主持中俄美元首会晤"
+   "event_id": "e:中俄美元首和平宣言"
   },
   "马斯克专程飞上海原因": {
    "key": "马斯克专程飞上海原因",
@@ -22807,6 +22820,18 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:张泉灵就像有人开团一秒跟了一样"
+  },
+  "高盛再下调金价预测": {
+   "key": "高盛再下调金价预测",
+   "title": "高盛再下调金价预测",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "拆解高盛逻辑，分析“聪明钱”撤退对散户补仓的误判，提供当下黄金配置反直觉策略。",
+   "hook_reason": "高盛权威下调预测，直接影响散户金饰投资与财富焦虑，引发“还能买吗”的恐慌与好奇。",
+   "url": "https://s.weibo.com/weibo?q=高盛再下调金价预测",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:高盛再下调金价预测"
   }
  },
  "breaking_count": 10,
