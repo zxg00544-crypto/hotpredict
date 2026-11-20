@@ -19432,19 +19432,6 @@
    "batch_window": 19
   },
   {
-   "key": "李子柒当选四川文联副主席",
-   "title": "李子柒当选四川文联副主席",
-   "rating": "A",
-   "score": 94.0,
-   "angle": "解析李子柒从流量顶流到体制内文联干部的转型路径及其对文化IP的启示",
-   "hook_reason": "顶流停更回归后获官方任命，民间与体制身份的反差冲击",
-   "url": "https://s.weibo.com/weibo?q=李子柒当选四川文联副主席",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:李子柒当选四川文联副主席",
-   "batch_window": 19
-  },
-  {
    "key": "frostbiteanewcpuarchitecturedisc97b6b6c0",
    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
    "rating": "A",
@@ -19456,6 +19443,19 @@
    "breaking": true,
    "event_id": "e:frostbiteanewcpuarchitecturediscoveredde",
    "batch_window": 19
+  },
+  {
+   "key": "余承东纠正开车可以睡觉言论",
+   "title": "余承东纠正“开车可以睡觉”言论",
+   "rating": "A",
+   "score": 57.32,
+   "angle": "解析智驾宣传边界与监管红线，拆解车企话术陷阱",
+   "hook_reason": "余大嘴反转打脸，安全争议焦点",
+   "url": "https://www.toutiao.com/trending/7709417593496436786/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:余承东纠正开车可以睡觉言论",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -21135,7 +21135,8 @@
   "泽连斯基回应特朗普称普京为朋友",
   "12306迎来重大更新",
   "特朗普称行程太满没顾上见金正恩",
-  "县委书记说不能过度消费张雪"
+  "县委书记说不能过度消费张雪",
+  "李子柒当选四川文联副主席"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22751,7 +22752,8 @@
   "e:泽连斯基回应特朗普称普京为朋友": "泽连斯基回应特朗普称普京为朋友",
   "e:12306迎来重大更新": "12306迎来重大更新",
   "e:特朗普称行程太满没顾上见金正恩": "特朗普称行程太满没顾上见金正恩",
-  "e:县委书记说不能过度消费张雪": "县委书记说不能过度消费张雪"
+  "e:县委书记说不能过度消费张雪": "县委书记说不能过度消费张雪",
+  "e:李子柒当选四川文联副主席": "李子柒当选四川文联副主席"
  },
  "a_seen": {
   "优先招35岁以上员工餐厅停业": {
@@ -23250,13 +23252,13 @@
    "key": "余承东纠正开车可以睡觉言论",
    "title": "余承东纠正“开车可以睡觉”言论",
    "rating": "A",
-   "score": 57.57,
-   "angle": "借余承东言论反转，深度解析高阶智驾技术现状与责任边界",
-   "hook_reason": "余承东自纠错引热议，质疑高阶智驾安全边界",
+   "score": 57.32,
+   "angle": "解析智驾宣传边界与监管红线，拆解车企话术陷阱",
+   "hook_reason": "余大嘴反转打脸，安全争议焦点",
    "url": "https://www.toutiao.com/trending/7709417593496436786/",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:余承东纠正发布会发言"
+   "event_id": "e:余承东纠正开车可以睡觉言论"
   },
   "余承东说用l3开车可以睡觉": {
    "key": "余承东说用l3开车可以睡觉",
@@ -23286,9 +23288,9 @@
    "key": "李子柒当选四川文联副主席",
    "title": "李子柒当选四川文联副主席",
    "rating": "A",
-   "score": 94.0,
-   "angle": "解析李子柒从流量顶流到体制内文联干部的转型路径及其对文化IP的启示",
-   "hook_reason": "顶流停更回归后获官方任命，民间与体制身份的反差冲击",
+   "score": 86.8,
+   "angle": "解读李子柒从流量女王到文化代表的路径，探讨KIP进体制的信号",
+   "hook_reason": "顶流网红获体制内实职，阶层跨越与身份反转引热议",
    "url": "https://s.weibo.com/weibo?q=李子柒当选四川文联副主席",
    "track": "大咖发言",
    "breaking": true,
@@ -23298,9 +23300,9 @@
    "key": "frostbiteanewcpuarchitecturedisc97b6b6c0",
    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
    "rating": "A",
-   "score": 59.21,
-   "angle": "AI从软件走向底层硬件，重新定义芯片设计与研发范式",
-   "hook_reason": "AI颠覆硬件设计，CPU架构革命",
+   "score": 75.9,
+   "angle": "AI不仅是写代码，开始设计硬件底层逻辑，芯片业迎奇点",
+   "hook_reason": "AI从零设计CPU架构，颠覆芯片行业认知",
    "url": "https://architectlabs.com/blog/frostbite",
    "track": "科技",
    "breaking": true,
@@ -23308,5 +23310,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
