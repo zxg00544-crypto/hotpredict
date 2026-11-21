@@ -19731,19 +19731,6 @@
    "batch_window": 4
   },
   {
-   "key": "pilltotreatpancreaticcancerhailed85fd192",
-   "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-   "rating": "A",
-   "score": 82.0,
-   "angle": "解析Daraxonrasib作用机制及商业价值：为何被称为'数十年最大突破'，医药巨头布局及患者希望。",
-   "hook_reason": "胰腺癌'绝症'有望攻克，药片疗法震惊全球，涉及生死与重大科技突破。",
-   "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:pilltotreatpancreaticcancerhailedasbigge",
-   "batch_window": 5
-  },
-  {
    "key": "张朝阳被北京证监局出具警示函",
    "title": "张朝阳被北京证监局出具警示函",
    "rating": "A",
@@ -21487,7 +21474,8 @@
   "黎曼猜想",
   "比特币暴跌超29万人爆仓",
   "googlegeminiroutespersonaldrivef7a715638",
-  "optimizelycompromisedservedmalwareonzoomgitlab"
+  "optimizelycompromisedservedmalwareonzoomgitlab",
+  "pilltotreatpancreaticcancerhailed85fd192"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23156,7 +23144,8 @@
   "e:黎曼猜想": "黎曼猜想",
   "e:比特币暴跌超29万人爆仓": "比特币暴跌超29万人爆仓",
   "e:googlegeminiroutespersonaldrivefilesande": "Google Gemini routes personal Drive files and emails to human annotators",
-  "e:optimizelycompromisedservedmalwareonzoom": "Optimizely Compromised, Served Malware on Zoom, GitLab"
+  "e:optimizelycompromisedservedmalwareonzoom": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+  "e:pilltotreatpancreaticcancerhailedasbigge": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'"
  },
  "a_seen": {
   "美国人为什么开始反对ai了": {
@@ -23271,9 +23260,9 @@
    "key": "张朝阳被北京证监局出具警示函",
    "title": "张朝阳被北京证监局出具警示函",
    "rating": "A",
-   "score": 45.0,
-   "angle": "深挖张朝阳被警示的具体原因，分析其对搜狐股价及互联网企业合规风险的连带影响。",
-   "hook_reason": "知名互联网大佬张朝阳突获监管警示，引发行业震动与个人争议。",
+   "score": 59.34,
+   "angle": "张朝阳被证监局警示：当'物理思维'遇上金融监管，跨界大佬为何频频在资本市场翻车？",
+   "hook_reason": "物理教授炒股被罚，学霸翻车引发全网嘲讽，反差感极强",
    "url": "https://s.weibo.com/weibo?q=张朝阳被北京证监局出具警示函",
    "track": "财经",
    "breaking": true,
@@ -23281,5 +23270,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
