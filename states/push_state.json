@@ -19651,6 +19651,19 @@
    "breaking": true,
    "event_id": "e:余承东称百余万辆车零燃烧",
    "batch_window": 17
+  },
+  {
+   "key": "科技股大踩踏",
+   "title": "科技股大踩踏",
+   "rating": "A",
+   "score": 62.18,
+   "angle": "解析踩踏原因：是估值泡沫破裂还是外部冲击？普通投资者该如何应对？",
+   "hook_reason": "科技股暴跌，散户钱包缩水，恐慌情绪蔓延",
+   "url": "https://s.weibo.com/weibo?q=科技股大踩踏",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:科技股大踩踏",
+   "batch_window": 17
   }
  ],
  "pushed": [
@@ -23459,13 +23472,25 @@
    "key": "余承东称百余万辆车零燃烧",
    "title": "余承东称百余万辆车零燃烧",
    "rating": "A",
-   "score": 51.05,
-   "angle": "从“余承东式自信”切入，解析鸿蒙智行如何通过技术堆砌重构用户信任",
-   "hook_reason": "余承东硬核数据打脸质疑，零燃烧引发新能源安全焦虑",
+   "score": 90.2,
+   "angle": "拆解华为系车企技术护城河，零燃烧背后的安全冗余逻辑",
+   "hook_reason": "余承东背书，零事故数据直击电车用户痛点",
    "url": "https://s.weibo.com/weibo?q=余承东称百余万辆车零燃烧",
    "track": "科技",
    "breaking": true,
    "event_id": "e:余承东称百余万辆车零燃烧"
+  },
+  "科技股大踩踏": {
+   "key": "科技股大踩踏",
+   "title": "科技股大踩踏",
+   "rating": "A",
+   "score": 62.18,
+   "angle": "解析踩踏原因：是估值泡沫破裂还是外部冲击？普通投资者该如何应对？",
+   "hook_reason": "科技股暴跌，散户钱包缩水，恐慌情绪蔓延",
+   "url": "https://s.weibo.com/weibo?q=科技股大踩踏",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:科技股大踩踏"
   }
  },
  "breaking_count": 10,
