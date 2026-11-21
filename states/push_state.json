@@ -16624,19 +16624,6 @@
    "batch_window": 4
   },
   {
-   "key": "googlegeminiroutespersonaldrivef7a715638",
-   "title": "Google Gemini routes personal Drive files and emails to human annotators",
-   "rating": "A",
-   "score": 79.5,
-   "angle": "揭秘Gemini数据链路：你的Drive和邮件正在被人工审阅，科技巨头的隐私承诺是假象",
-   "hook_reason": "AI巨头疑似把用户私人数据喂给人工标注员，隐私红线被击穿",
-   "url": "https://github.com/thisisme6598/gemini_files/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:googlegeminiroutespersonaldrivefilesande",
-   "batch_window": 6
-  },
-  {
    "key": "claudefable52scores65onartificia325175ce",
    "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
    "rating": "A",
@@ -19729,6 +19716,32 @@
    "breaking": true,
    "event_id": "e:美国军队在巴林的第五舰队基地遭到袭击",
    "batch_window": 3
+  },
+  {
+   "key": "伊朗袭击美国在巴林的两个军事基地",
+   "title": "伊朗袭击美国在巴林的两个军事基地",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "紧急复盘：巴林遇袭后，全球油价与黄金的即时反应及后市风险点",
+   "hook_reason": "中东局势引爆油价与避险情绪，直击投资命脉",
+   "url": "https://finance.sina.cn/7x24/2026-11-22/detail-inizputq6324483.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗袭击美国在巴林的两个军事基地",
+   "batch_window": 4
+  },
+  {
+   "key": "lean与mathlib社区联合声明正式确认alpöge对黎曼猜想的证明正确这意味着什么",
+   "title": "Lean与 Mathlib 社区联合声明，正式确认 Alpöge 对黎曼猜想的证明正确，这意味着什么？",
+   "rating": "A",
+   "score": 43.7,
+   "angle": "聚焦AI如何协助人类攻克顶级数学难题，解读其对未来科研范式的深远影响。",
+   "hook_reason": "千年数学难题被机器辅助证明，颠覆认知",
+   "url": "https://www.zhihu.com/question/2107620110105932525",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:lean与mathlib社区联合声明正式确认alpöge对黎曼猜想的证明正确这意",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -21459,7 +21472,8 @@
   "红果短剧使用时长超抖音",
   "羽绒服生意变天了",
   "黎曼猜想",
-  "比特币暴跌超29万人爆仓"
+  "比特币暴跌超29万人爆仓",
+  "googlegeminiroutespersonaldrivef7a715638"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23126,7 +23140,8 @@
   "e:红果短剧使用时长超抖音": "红果短剧使用时长超抖音",
   "e:羽绒服生意变天了": "羽绒服生意变天了",
   "e:黎曼猜想": "黎曼猜想",
-  "e:比特币暴跌超29万人爆仓": "比特币暴跌超29万人爆仓"
+  "e:比特币暴跌超29万人爆仓": "比特币暴跌超29万人爆仓",
+  "e:googlegeminiroutespersonaldrivefilesande": "Google Gemini routes personal Drive files and emails to human annotators"
  },
  "a_seen": {
   "美国人为什么开始反对ai了": {
@@ -23200,8 +23215,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:美国军队在巴林的第五舰队基地遭到袭击"
+  },
+  "伊朗袭击美国在巴林的两个军事基地": {
+   "key": "伊朗袭击美国在巴林的两个军事基地",
+   "title": "伊朗袭击美国在巴林的两个军事基地",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "紧急复盘：巴林遇袭后，全球油价与黄金的即时反应及后市风险点",
+   "hook_reason": "中东局势引爆油价与避险情绪，直击投资命脉",
+   "url": "https://finance.sina.cn/7x24/2026-11-22/detail-inizputq6324483.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:伊朗袭击美国在巴林的两个军事基地"
+  },
+  "lean与mathlib社区联合声明正式确认alpöge对黎曼猜想的证明正确这意味着什么": {
+   "key": "lean与mathlib社区联合声明正式确认alpöge对黎曼猜想的证明正确这意味着什么",
+   "title": "Lean与 Mathlib 社区联合声明，正式确认 Alpöge 对黎曼猜想的证明正确，这意味着什么？",
+   "rating": "A",
+   "score": 43.7,
+   "angle": "聚焦AI如何协助人类攻克顶级数学难题，解读其对未来科研范式的深远影响。",
+   "hook_reason": "千年数学难题被机器辅助证明，颠覆认知",
+   "url": "https://www.zhihu.com/question/2107620110105932525",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:lean与mathlib社区联合声明正式确认alpöge对黎曼猜想的证明正确这意"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
