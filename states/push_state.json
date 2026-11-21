@@ -19692,19 +19692,6 @@
    "batch_window": 21
   },
   {
-   "key": "羽绒服生意变天了",
-   "title": "羽绒服生意变天了",
-   "rating": "A",
-   "score": 91.5,
-   "angle": "拆解羽绒服销量变化背后的消费降级信号与供应链反应",
-   "hook_reason": "消费风向突变，涉及冬季核心品类，关乎钱袋子",
-   "url": "https://www.baidu.com/s?wd=%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:羽绒服生意变天了",
-   "batch_window": 23
-  },
-  {
    "key": "学者ai大洗牌开始了",
    "title": "学者：AI大洗牌开始了",
    "rating": "A",
@@ -19716,6 +19703,19 @@
    "breaking": true,
    "event_id": "e:学者ai大洗牌开始了",
    "batch_window": 23
+  },
+  {
+   "key": "leanverificationoftheriemannhypocbfbb934",
+   "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "Lean证明Riemann猜想背后：AI如何重构基础数学研究范式",
+   "hook_reason": "千年数学难题被AI形式化证明，颠覆认知",
+   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:leanverificationoftheriemannhypothesisjo",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -21443,7 +21443,8 @@
   "极寒过冬靠装备还是靠体质",
   "用ai攻破黎曼猜想的人啥来头",
   "陈赫天霸",
-  "红果短剧使用时长超抖音"
+  "红果短剧使用时长超抖音",
+  "羽绒服生意变天了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23107,7 +23108,8 @@
   "e:极寒过冬靠装备还是靠体质": "极寒过冬靠装备还是靠体质",
   "e:用ai攻破黎曼猜想的人啥来头": "用AI攻破黎曼猜想的人啥来头",
   "e:陈赫天霸": "陈赫 天霸",
-  "e:红果短剧使用时长超抖音": "红果短剧使用时长超抖音"
+  "e:红果短剧使用时长超抖音": "红果短剧使用时长超抖音",
+  "e:羽绒服生意变天了": "羽绒服生意变天了"
  },
  "a_seen": {
   "美国人为什么开始反对ai了": {
@@ -23133,8 +23135,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:用ai攻破黎曼猜想的人啥来头"
+  },
+  "leanverificationoftheriemannhypocbfbb934": {
+   "key": "leanverificationoftheriemannhypocbfbb934",
+   "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "Lean证明Riemann猜想背后：AI如何重构基础数学研究范式",
+   "hook_reason": "千年数学难题被AI形式化证明，颠覆认知",
+   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:leanverificationoftheriemannhypothesisjo"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 0
+ "a_pushed_window": 1
 }
