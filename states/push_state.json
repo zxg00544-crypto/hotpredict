@@ -19664,6 +19664,45 @@
    "breaking": true,
    "event_id": "e:特朗普称不允许美企海外建数据中心如果违反将面临巨额税收处罚这会对美国科技公司发展",
    "batch_window": 18
+  },
+  {
+   "key": "tim说我爹太离谱了",
+   "title": "Tim说我爹太离谱了",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "扒皮Tim家族观,揭秘顶流星二代与父辈的代沟",
+   "hook_reason": "顶流明星吐槽家人,自带八卦爆款体质",
+   "url": "https://s.weibo.com/weibo?q=Tim说我爹太离谱了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:tim说我爹太离谱了",
+   "batch_window": 18
+  },
+  {
+   "key": "黄金暴跌是上车机会吗",
+   "title": "黄金暴跌是上车机会吗",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "深度拆解暴跌逻辑，结合宏观数据给出‘左侧交易’实操建议",
+   "hook_reason": "黄金暴跌引发恐慌，投资者急需判断是否抄底避坑",
+   "url": "https://www.toutiao.com/trending/7710542276807626276/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:黄金暴跌是上车机会吗",
+   "batch_window": 18
+  },
+  {
+   "key": "比特币暴跌超29万人爆仓",
+   "title": "比特币暴跌超29万人爆仓",
+   "rating": "A",
+   "score": 79.74,
+   "angle": "复盘29万人爆仓背后的杠杆陷阱与散户情绪周期，警示理性投资。",
+   "hook_reason": "29万人爆仓，巨额亏损，引发投资者血淋淋的共鸣与恐惧。",
+   "url": "https://s.weibo.com/weibo?q=比特币暴跌超29万人爆仓",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:比特币暴跌超29万人爆仓",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -23505,6 +23544,42 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:特朗普称不允许美企海外建数据中心如果违反将面临巨额税收处罚这会对美国科技公司发展"
+  },
+  "tim说我爹太离谱了": {
+   "key": "tim说我爹太离谱了",
+   "title": "Tim说我爹太离谱了",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "扒皮Tim家族观,揭秘顶流星二代与父辈的代沟",
+   "hook_reason": "顶流明星吐槽家人,自带八卦爆款体质",
+   "url": "https://s.weibo.com/weibo?q=Tim说我爹太离谱了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:tim说我爹太离谱了"
+  },
+  "黄金暴跌是上车机会吗": {
+   "key": "黄金暴跌是上车机会吗",
+   "title": "黄金暴跌是上车机会吗",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "深度拆解暴跌逻辑，结合宏观数据给出‘左侧交易’实操建议",
+   "hook_reason": "黄金暴跌引发恐慌，投资者急需判断是否抄底避坑",
+   "url": "https://www.toutiao.com/trending/7710542276807626276/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:黄金暴跌是上车机会吗"
+  },
+  "比特币暴跌超29万人爆仓": {
+   "key": "比特币暴跌超29万人爆仓",
+   "title": "比特币暴跌超29万人爆仓",
+   "rating": "A",
+   "score": 79.74,
+   "angle": "复盘29万人爆仓背后的杠杆陷阱与散户情绪周期，警示理性投资。",
+   "hook_reason": "29万人爆仓，巨额亏损，引发投资者血淋淋的共鸣与恐惧。",
+   "url": "https://s.weibo.com/weibo?q=比特币暴跌超29万人爆仓",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:比特币暴跌超29万人爆仓"
   }
  },
  "breaking_count": 10,
