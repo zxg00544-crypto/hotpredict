@@ -19508,6 +19508,58 @@
    "breaking": true,
    "event_id": "e:问界m9车主开辅助驾驶熟睡",
    "batch_window": 9
+  },
+  {
+   "key": "美ai科技股崩盘原因",
+   "title": "美AI科技股崩盘原因",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "深度拆解AI泡沫逻辑，给出普通投资者避坑指南",
+   "hook_reason": "美股AI崩盘引国内焦虑，恐慌情绪浓烈",
+   "url": "https://s.weibo.com/weibo?q=美AI科技股崩盘原因",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美ai科技股崩盘原因",
+   "batch_window": 9
+  },
+  {
+   "key": "韩国首次用紧急灾难通知让全国手机响铃105秒防高考作弊此举合理吗",
+   "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
+   "rating": "A",
+   "score": 78.9,
+   "angle": "从公共安全与考试公平冲突切入，探讨技术监控边界及社会信任成本",
+   "hook_reason": "10秒强制响铃防高考作弊，紧急灾难通知滥用引争议",
+   "url": "https://www.zhihu.com/question/2106706684672471150",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:韩国首次用紧急灾难通知让全国手机响铃105秒防高考作弊此举合理吗",
+   "batch_window": 9
+  },
+  {
+   "key": "黎曼猜想",
+   "title": "黎曼猜想",
+   "rating": "A",
+   "score": 80.4,
+   "angle": "黎曼猜想若被解决，将颠覆密码学基石，科技圈与财经圈震动",
+   "hook_reason": "千年数学难题疑似攻克，天才天才的巅峰对决",
+   "url": "https://s.weibo.com/weibo?q=黎曼猜想",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黎曼猜想",
+   "batch_window": 9
+  },
+  {
+   "key": "黄仁勋20年前诉讼被翻出被指辱骂恐吓员工律师因提担忧遭解雇",
+   "title": "黄仁勋20年前诉讼被翻出：被指辱骂恐吓员工 律师因提担忧遭解雇",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "借20年前诉讼细节，剖析黄仁勋管理风格与科技巨头光环背后的阴暗面",
+   "hook_reason": "AI教父翻旧账，情绪与身份双重共鸣",
+   "url": "https://finance.sina.cn/7x24/2026-11-21/detail-iniznaki5101825.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋20年前诉讼被翻出被指辱骂恐吓员工律师因提担忧遭解雇",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -23060,13 +23112,13 @@
    "key": "美ai科技股崩盘原因",
    "title": "美AI科技股崩盘原因",
    "rating": "A",
-   "score": 89.5,
-   "angle": "复盘美AI科技股崩盘逻辑，分析对A股映射及抄底时机。",
-   "hook_reason": "美股AI龙头暴跌，散户亏损惨重，揭秘崩盘黑天鹅。",
+   "score": 81.0,
+   "angle": "深度拆解AI泡沫逻辑，给出普通投资者避坑指南",
+   "hook_reason": "美股AI崩盘引国内焦虑，恐慌情绪浓烈",
    "url": "https://s.weibo.com/weibo?q=美AI科技股崩盘原因",
    "track": "财经",
    "breaking": true,
-   "event_id": "e:英伟达市值9天蒸发约4万亿元全球ai股集体遭抛售ai泡沫是不是要破了"
+   "event_id": "e:美ai科技股崩盘原因"
   },
   "问界m9车主开辅助驾驶熟睡": {
    "key": "问界m9车主开辅助驾驶熟睡",
@@ -23079,6 +23131,42 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:问界m9车主开辅助驾驶熟睡"
+  },
+  "韩国首次用紧急灾难通知让全国手机响铃105秒防高考作弊此举合理吗": {
+   "key": "韩国首次用紧急灾难通知让全国手机响铃105秒防高考作弊此举合理吗",
+   "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
+   "rating": "A",
+   "score": 78.9,
+   "angle": "从公共安全与考试公平冲突切入，探讨技术监控边界及社会信任成本",
+   "hook_reason": "10秒强制响铃防高考作弊，紧急灾难通知滥用引争议",
+   "url": "https://www.zhihu.com/question/2106706684672471150",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:韩国首次用紧急灾难通知让全国手机响铃105秒防高考作弊此举合理吗"
+  },
+  "黎曼猜想": {
+   "key": "黎曼猜想",
+   "title": "黎曼猜想",
+   "rating": "A",
+   "score": 80.4,
+   "angle": "黎曼猜想若被解决，将颠覆密码学基石，科技圈与财经圈震动",
+   "hook_reason": "千年数学难题疑似攻克，天才天才的巅峰对决",
+   "url": "https://s.weibo.com/weibo?q=黎曼猜想",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黎曼猜想"
+  },
+  "黄仁勋20年前诉讼被翻出被指辱骂恐吓员工律师因提担忧遭解雇": {
+   "key": "黄仁勋20年前诉讼被翻出被指辱骂恐吓员工律师因提担忧遭解雇",
+   "title": "黄仁勋20年前诉讼被翻出：被指辱骂恐吓员工 律师因提担忧遭解雇",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "借20年前诉讼细节，剖析黄仁勋管理风格与科技巨头光环背后的阴暗面",
+   "hook_reason": "AI教父翻旧账，情绪与身份双重共鸣",
+   "url": "https://finance.sina.cn/7x24/2026-11-21/detail-iniznaki5101825.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋20年前诉讼被翻出被指辱骂恐吓员工律师因提担忧遭解雇"
   }
  },
  "breaking_count": 10,
