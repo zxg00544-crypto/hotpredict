@@ -19729,6 +19729,19 @@
    "breaking": true,
    "event_id": "e:张朝阳被北京证监局出具警示函",
    "batch_window": 5
+  },
+  {
+   "key": "余承东享界v8",
+   "title": "余承东 享界V8",
+   "rating": "A",
+   "score": 42.95,
+   "angle": "解析V8如何以华为全栈技术重塑高端MPV体验，余承东为何此时亮底牌",
+   "hook_reason": "余承东亲自站台，享界V8首秀定调百万级MPV，华为汽车格局再变。",
+   "url": "https://s.weibo.com/weibo?q=余承东 享界V8",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:余承东享界v8",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -23256,6 +23269,18 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:张朝阳被北京证监局出具警示函"
+  },
+  "余承东享界v8": {
+   "key": "余承东享界v8",
+   "title": "余承东 享界V8",
+   "rating": "A",
+   "score": 42.95,
+   "angle": "解析V8如何以华为全栈技术重塑高端MPV体验，余承东为何此时亮底牌",
+   "hook_reason": "余承东亲自站台，享界V8首秀定调百万级MPV，华为汽车格局再变。",
+   "url": "https://s.weibo.com/weibo?q=余承东 享界V8",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:余承东享界v8"
   }
  },
  "breaking_count": 10,
