@@ -19536,19 +19536,6 @@
    "batch_window": 9
   },
   {
-   "key": "这段爆破戏疑似ai做的",
-   "title": "这段爆破戏疑似AI做的",
-   "rating": "A",
-   "score": 83.0,
-   "angle": "解析AI影视生成现状，探讨技术与艺术边界的模糊",
-   "hook_reason": "AI造假影视特效引发真假难辨的争议",
-   "url": "https://s.weibo.com/weibo?q=这段爆破戏疑似AI做的",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:这段爆破戏疑似ai做的",
-   "batch_window": 11
-  },
-  {
    "key": "当claude与gpt玩回旋镖大赛",
    "title": "当Claude与GPT玩回旋镖大赛",
    "rating": "A",
@@ -19560,6 +19547,71 @@
    "breaking": true,
    "event_id": "e:当claude与gpt玩回旋镖大赛",
    "batch_window": 11
+  },
+  {
+   "key": "人民日报唱空中国经济者终会落空",
+   "title": "人民日报：唱空中国经济者终会落空",
+   "rating": "A",
+   "score": 100.0,
+   "angle": "深度解读央媒表态背后的政策信号与A股企稳逻辑，澄清误读。",
+   "hook_reason": "央媒重磅定调，直接回击唱空声音，市场风向标，股民必看。",
+   "url": "https://finance.sina.cn/7x24/2026-11-21/detail-iniznhsn9816018.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:人民日报唱空中国经济者终会落空",
+   "batch_window": 13
+  },
+  {
+   "key": "魏建军去许昌考察学习胖东来",
+   "title": "魏建军去许昌考察学习胖东来",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解析魏建军考察胖东来背后的管理逻辑迁移，探讨制造业向服务业学习的深层动机",
+   "hook_reason": "车企掌门人跨界学零售，反差感强，引发管理方法论好奇",
+   "url": "https://www.toutiao.com/trending/7710426469143478834/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:魏建军去许昌考察学习胖东来",
+   "batch_window": 13
+  },
+  {
+   "key": "知情人士anthropicipo份额优先倾斜了claude重度使用客户",
+   "title": "知情人士：Anthropic IPO份额优先倾斜了Claude重度使用客户",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "解读Claude重度用户获优先权：AI资本化下的客户分层与生态锁定策略",
+   "hook_reason": "IPO红利分配向头部用户倾斜，揭示AI圈层化新规则",
+   "url": "https://finance.sina.cn/7x24/2026-11-21/detail-iniznnye6689232.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:知情人士anthropicipo份额优先倾斜了claude重度使用客户",
+   "batch_window": 13
+  },
+  {
+   "key": "3岁女童遭生父女友捂死细节曝光",
+   "title": "3岁女童遭生父女友捂死细节曝光",
+   "rating": "A",
+   "score": 44.35,
+   "angle": "细节背后的监护权漏洞：为何‘熟人’成为最大安全隐患",
+   "hook_reason": "生父女友捂死3岁女童，细节曝光引发极度愤怒与恐慌",
+   "url": "https://s.weibo.com/weibo?q=3岁女童遭生父女友捂死细节曝光",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:3岁女童遭生父女友捂死细节曝光",
+   "batch_window": 13
+  },
+  {
+   "key": "特朗普看看人家深圳再看看我们",
+   "title": "特朗普：看看人家深圳再看看我们",
+   "rating": "A",
+   "score": 58.85,
+   "angle": "解析特朗普此言背后的政治动机与深圳科技出海红利",
+   "hook_reason": "顶流政治人物罕见吹捧中国城市，身份反差极强",
+   "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%9C%8B%E7%9C%8B%E4%BA%BA%E5%AE%B6%E6%B7%B1%E5%9C%B3%E5%86%8D%E7%9C%8B%E7%9C%8B%E6%88%91%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普看看人家深圳再看看我们",
+   "batch_window": 13
   }
  ],
  "pushed": [
@@ -21265,7 +21317,8 @@
   "纳指重挫5英伟达狂泻14",
   "问界m9车主开辅助驾驶熟睡",
   "美ai科技股崩盘原因",
-  "特朗普说看看深圳再看看我们"
+  "特朗普说看看深圳再看看我们",
+  "这段爆破戏疑似ai做的"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -22907,7 +22960,8 @@
   "e:纳指重挫5英伟达狂泻14": "纳指重挫5% 英伟达狂泻14%",
   "e:问界m9车主开辅助驾驶熟睡": "问界M9车主开辅助驾驶熟睡",
   "e:美ai科技股崩盘原因": "美AI科技股崩盘原因",
-  "e:特朗普说看看深圳再看看我们": "特朗普说看看深圳再看看我们"
+  "e:特朗普说看看深圳再看看我们": "特朗普说看看深圳再看看我们",
+  "e:这段爆破戏疑似ai做的": "这段爆破戏疑似AI做的"
  },
  "a_seen": {
   "钧正平日方应收回涉台错误言论": {
@@ -23209,8 +23263,68 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:当claude与gpt玩回旋镖大赛"
+  },
+  "人民日报唱空中国经济者终会落空": {
+   "key": "人民日报唱空中国经济者终会落空",
+   "title": "人民日报：唱空中国经济者终会落空",
+   "rating": "A",
+   "score": 100.0,
+   "angle": "深度解读央媒表态背后的政策信号与A股企稳逻辑，澄清误读。",
+   "hook_reason": "央媒重磅定调，直接回击唱空声音，市场风向标，股民必看。",
+   "url": "https://finance.sina.cn/7x24/2026-11-21/detail-iniznhsn9816018.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:人民日报唱空中国经济者终会落空"
+  },
+  "魏建军去许昌考察学习胖东来": {
+   "key": "魏建军去许昌考察学习胖东来",
+   "title": "魏建军去许昌考察学习胖东来",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解析魏建军考察胖东来背后的管理逻辑迁移，探讨制造业向服务业学习的深层动机",
+   "hook_reason": "车企掌门人跨界学零售，反差感强，引发管理方法论好奇",
+   "url": "https://www.toutiao.com/trending/7710426469143478834/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:魏建军去许昌考察学习胖东来"
+  },
+  "知情人士anthropicipo份额优先倾斜了claude重度使用客户": {
+   "key": "知情人士anthropicipo份额优先倾斜了claude重度使用客户",
+   "title": "知情人士：Anthropic IPO份额优先倾斜了Claude重度使用客户",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "解读Claude重度用户获优先权：AI资本化下的客户分层与生态锁定策略",
+   "hook_reason": "IPO红利分配向头部用户倾斜，揭示AI圈层化新规则",
+   "url": "https://finance.sina.cn/7x24/2026-11-21/detail-iniznnye6689232.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:知情人士anthropicipo份额优先倾斜了claude重度使用客户"
+  },
+  "3岁女童遭生父女友捂死细节曝光": {
+   "key": "3岁女童遭生父女友捂死细节曝光",
+   "title": "3岁女童遭生父女友捂死细节曝光",
+   "rating": "A",
+   "score": 44.35,
+   "angle": "细节背后的监护权漏洞：为何‘熟人’成为最大安全隐患",
+   "hook_reason": "生父女友捂死3岁女童，细节曝光引发极度愤怒与恐慌",
+   "url": "https://s.weibo.com/weibo?q=3岁女童遭生父女友捂死细节曝光",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:3岁女童遭生父女友捂死细节曝光"
+  },
+  "特朗普看看人家深圳再看看我们": {
+   "key": "特朗普看看人家深圳再看看我们",
+   "title": "特朗普：看看人家深圳再看看我们",
+   "rating": "A",
+   "score": 58.85,
+   "angle": "解析特朗普此言背后的政治动机与深圳科技出海红利",
+   "hook_reason": "顶流政治人物罕见吹捧中国城市，身份反差极强",
+   "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%9C%8B%E7%9C%8B%E4%BA%BA%E5%AE%B6%E6%B7%B1%E5%9C%B3%E5%86%8D%E7%9C%8B%E7%9C%8B%E6%88%91%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:特朗普看看人家深圳再看看我们"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 12
+ "a_pushed_window": 13
 }
