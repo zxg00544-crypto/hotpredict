@@ -15077,19 +15077,6 @@
    "batch_window": 7
   },
   {
-   "key": "苹果iphoneduo越测越失望",
-   "title": "苹果iPhoneDuo越测越失望",
-   "rating": "A",
-   "score": 79.45,
-   "angle": "从iPhone Duo实测翻车切入，盘点苹果近五年创新乏力轨迹，对比安卓折叠屏进步，引发果粉共鸣与行业讨论",
-   "hook_reason": "果粉集体失望，苹果折叠屏战略首次翻车",
-   "url": "https://s.weibo.com/weibo?q=苹果iPhoneDuo越测越失望",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:苹果iphoneduo越测越失望",
-   "batch_window": 8
-  },
-  {
    "key": "控kong聊天记录曝光",
    "title": "控Kong聊天记录曝光",
    "rating": "A",
@@ -21475,7 +21462,8 @@
   "比特币暴跌超29万人爆仓",
   "googlegeminiroutespersonaldrivef7a715638",
   "optimizelycompromisedservedmalwareonzoomgitlab",
-  "pilltotreatpancreaticcancerhailed85fd192"
+  "pilltotreatpancreaticcancerhailed85fd192",
+  "苹果iphoneduo越测越失望"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23145,7 +23133,8 @@
   "e:比特币暴跌超29万人爆仓": "比特币暴跌超29万人爆仓",
   "e:googlegeminiroutespersonaldrivefilesande": "Google Gemini routes personal Drive files and emails to human annotators",
   "e:optimizelycompromisedservedmalwareonzoom": "Optimizely Compromised, Served Malware on Zoom, GitLab",
-  "e:pilltotreatpancreaticcancerhailedasbigge": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'"
+  "e:pilltotreatpancreaticcancerhailedasbigge": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+  "e:苹果iphoneduo越测越失望": "苹果iPhoneDuo越测越失望"
  },
  "a_seen": {
   "美国人为什么开始反对ai了": {
@@ -23270,5 +23259,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
