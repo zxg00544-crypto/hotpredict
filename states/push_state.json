@@ -19716,6 +19716,19 @@
    "breaking": true,
    "event_id": "e:leanverificationoftheriemannhypothesisjo",
    "batch_window": 1
+  },
+  {
+   "key": "加州总检察长对英伟达的调查涵盖潜在刑法问题",
+   "title": "加州总检察长：对英伟达的调查涵盖潜在刑法问题。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从刑法介入角度分析英伟达合规黑天鹅，复盘科技巨头地缘政治风险",
+   "hook_reason": "英伟达面临刑事调查，巨头合规危机引爆市场",
+   "url": "https://finance.sina.cn/7x24/2026-11-22/detail-inizpqmu3166677.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:加州英伟达调查涉及潜在刑事违法",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -23147,6 +23160,18 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:leanverificationoftheriemannhypothesisjo"
+  },
+  "加州总检察长对英伟达的调查涵盖潜在刑法问题": {
+   "key": "加州总检察长对英伟达的调查涵盖潜在刑法问题",
+   "title": "加州总检察长：对英伟达的调查涵盖潜在刑法问题。",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "从刑法介入角度分析英伟达合规黑天鹅，复盘科技巨头地缘政治风险",
+   "hook_reason": "英伟达面临刑事调查，巨头合规危机引爆市场",
+   "url": "https://finance.sina.cn/7x24/2026-11-22/detail-inizpqmu3166677.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:加州英伟达调查涉及潜在刑事违法"
   }
  },
  "breaking_count": 10,
