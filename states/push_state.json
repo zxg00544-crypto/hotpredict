@@ -19742,6 +19742,19 @@
    "breaking": true,
    "event_id": "e:特斯拉在美推出fsdv15",
    "batch_window": 11
+  },
+  {
+   "key": "存脐带血公司注销断联老板被限消",
+   "title": "存脐带血公司注销断联老板被限消",
+   "rating": "A",
+   "score": 80.1,
+   "angle": "复盘脐带血行业乱象，揭秘预付费跑路风险与维权路径",
+   "hook_reason": "老板失联被限消，血汗钱被坑的愤怒引发警惕",
+   "url": "https://s.weibo.com/weibo?q=存脐带血公司注销断联老板被限消",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:存脐带血公司注销断联老板被限消",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -23330,13 +23343,25 @@
    "key": "特斯拉在美推出fsdv15",
    "title": "特斯拉在美推出FSDv15",
    "rating": "A",
-   "score": 86.75,
-   "angle": "从技术突破到商业变现，解析特斯拉 FSD V15 对行业竞争及资本市场的深远影响。",
-   "hook_reason": "FSD V15 落地，自动驾驶格局生变，车主与股民必看。",
+   "score": 82.5,
+   "angle": "FSDv15技术跃迁解读：从L2到L4的临界点，对国内车企及芯片产业链的降维打击",
+   "hook_reason": "马斯克造反？FSDv15落地，自动驾驶格局将变",
    "url": "https://s.weibo.com/weibo?q=特斯拉在美推出FSDv15",
    "track": "科技",
    "breaking": true,
    "event_id": "e:特斯拉在美推出fsdv15"
+  },
+  "存脐带血公司注销断联老板被限消": {
+   "key": "存脐带血公司注销断联老板被限消",
+   "title": "存脐带血公司注销断联老板被限消",
+   "rating": "A",
+   "score": 80.1,
+   "angle": "复盘脐带血行业乱象，揭秘预付费跑路风险与维权路径",
+   "hook_reason": "老板失联被限消，血汗钱被坑的愤怒引发警惕",
+   "url": "https://s.weibo.com/weibo?q=存脐带血公司注销断联老板被限消",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:存脐带血公司注销断联老板被限消"
   }
  },
  "breaking_count": 10,
