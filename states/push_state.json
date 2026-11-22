@@ -13439,19 +13439,6 @@
    "batch_window": 4
   },
   {
-   "key": "你的手机可能在监听你",
-   "title": "你的手机可能在监听你",
-   "rating": "A",
-   "score": 79.35,
-   "angle": "从隐私安全切入，结合APP权限滥用案例，给用户提供自查清单和防护建议",
-   "hook_reason": "手机监听触及每个人隐私焦虑，共鸣极强",
-   "url": "https://s.weibo.com/weibo?q=你的手机可能在监听你",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:你的手机可能在监听你",
-   "batch_window": 7
-  },
-  {
    "key": "想阴阳中国结果ai说是美国",
    "title": "想阴阳中国结果AI说是美国",
    "rating": "A",
@@ -19742,6 +19729,19 @@
    "breaking": true,
    "event_id": "e:25万页ai黎曼猜想证明难核验",
    "batch_window": 10
+  },
+  {
+   "key": "特斯拉在美推出fsdv15",
+   "title": "特斯拉在美推出FSDv15",
+   "rating": "A",
+   "score": 86.75,
+   "angle": "从技术突破到商业变现，解析特斯拉 FSD V15 对行业竞争及资本市场的深远影响。",
+   "hook_reason": "FSD V15 落地，自动驾驶格局生变，车主与股民必看。",
+   "url": "https://s.weibo.com/weibo?q=特斯拉在美推出FSDv15",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特斯拉在美推出fsdv15",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -21479,7 +21479,8 @@
   "苹果iphoneduo越测越失望",
   "英伟达架构有多逆天",
   "3城人均住户存款超20万",
-  "6g下载4k要多少流量"
+  "6g下载4k要多少流量",
+  "你的手机可能在监听你"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23153,7 +23154,8 @@
   "e:苹果iphoneduo越测越失望": "苹果iPhoneDuo越测越失望",
   "e:英伟达架构有多逆天": "英伟达架构有多逆天",
   "e:3城人均住户存款超20万": "3城人均住户存款超20万",
-  "e:6g下载4k要多少流量": "6G下载4K要多少流量"
+  "e:6g下载4k要多少流量": "6G下载4K要多少流量",
+  "e:你的手机可能在监听你": "你的手机可能在监听你"
  },
  "a_seen": {
   "美国人为什么开始反对ai了": {
@@ -23316,15 +23318,27 @@
    "key": "25万页ai黎曼猜想证明难核验",
    "title": "25万页AI黎曼猜想证明难核验",
    "rating": "A",
-   "score": 65.22,
-   "angle": "从“机器逻辑超越人类理解阈值”切入，探讨AI在数学验证中的不可解释性危机及信任重构。",
-   "hook_reason": "AI 25万页证明黎曼猜想，人类无法核验，算力与逻辑的极致冲突。",
+   "score": 58.72,
+   "angle": "剖析AI在复杂逻辑推理中的局限性及人工核验的高昂成本",
+   "hook_reason": "AI挑战数学巅峰，25万页证明引发信任危机",
    "url": "https://s.weibo.com/weibo?q=25万页AI黎曼猜想证明难核验",
    "track": "科技",
    "breaking": true,
    "event_id": "e:25万页ai黎曼猜想证明难核验"
+  },
+  "特斯拉在美推出fsdv15": {
+   "key": "特斯拉在美推出fsdv15",
+   "title": "特斯拉在美推出FSDv15",
+   "rating": "A",
+   "score": 86.75,
+   "angle": "从技术突破到商业变现，解析特斯拉 FSD V15 对行业竞争及资本市场的深远影响。",
+   "hook_reason": "FSD V15 落地，自动驾驶格局生变，车主与股民必看。",
+   "url": "https://s.weibo.com/weibo?q=特斯拉在美推出FSDv15",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特斯拉在美推出fsdv15"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
