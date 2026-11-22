@@ -15571,19 +15571,6 @@
    "batch_window": 8
   },
   {
-   "key": "6g下载4k要多少流量",
-   "title": "6G下载4K要多少流量",
-   "rating": "A",
-   "score": 79.4,
-   "angle": "对比5G/6G下载4K的流量差异，用直观数字解答普通用户关心的网速与流量成本问题",
-   "hook_reason": "6G网速到底有多快？用户好奇具体流量数据，科普向吸引点击",
-   "url": "https://s.weibo.com/weibo?q=6G下载4K要多少流量",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:6g下载4k要多少流量",
-   "batch_window": 8
-  },
-  {
    "key": "月薪8000同事天天点星巴克下午茶我却连奶茶都舍不得喝这种消费观差距正常吗该怎么调整心态",
    "title": "月薪8000，同事天天点星巴克下午茶，我却连奶茶都舍不得喝，这种消费观差距正常吗？该怎么调整心态？",
    "rating": "A",
@@ -19742,6 +19729,19 @@
    "breaking": true,
    "event_id": "e:王楚钦孙颖莎外卡引公平争议",
    "batch_window": 8
+  },
+  {
+   "key": "25万页ai黎曼猜想证明难核验",
+   "title": "25万页AI黎曼猜想证明难核验",
+   "rating": "A",
+   "score": 65.22,
+   "angle": "从“机器逻辑超越人类理解阈值”切入，探讨AI在数学验证中的不可解释性危机及信任重构。",
+   "hook_reason": "AI 25万页证明黎曼猜想，人类无法核验，算力与逻辑的极致冲突。",
+   "url": "https://s.weibo.com/weibo?q=25万页AI黎曼猜想证明难核验",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:25万页ai黎曼猜想证明难核验",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -21478,7 +21478,8 @@
   "pilltotreatpancreaticcancerhailed85fd192",
   "苹果iphoneduo越测越失望",
   "英伟达架构有多逆天",
-  "3城人均住户存款超20万"
+  "3城人均住户存款超20万",
+  "6g下载4k要多少流量"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23151,7 +23152,8 @@
   "e:pilltotreatpancreaticcancerhailedasbigge": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
   "e:苹果iphoneduo越测越失望": "苹果iPhoneDuo越测越失望",
   "e:英伟达架构有多逆天": "英伟达架构有多逆天",
-  "e:3城人均住户存款超20万": "3城人均住户存款超20万"
+  "e:3城人均住户存款超20万": "3城人均住户存款超20万",
+  "e:6g下载4k要多少流量": "6G下载4K要多少流量"
  },
  "a_seen": {
   "美国人为什么开始反对ai了": {
@@ -23309,8 +23311,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:王楚钦孙颖莎外卡引公平争议"
+  },
+  "25万页ai黎曼猜想证明难核验": {
+   "key": "25万页ai黎曼猜想证明难核验",
+   "title": "25万页AI黎曼猜想证明难核验",
+   "rating": "A",
+   "score": 65.22,
+   "angle": "从“机器逻辑超越人类理解阈值”切入，探讨AI在数学验证中的不可解释性危机及信任重构。",
+   "hook_reason": "AI 25万页证明黎曼猜想，人类无法核验，算力与逻辑的极致冲突。",
+   "url": "https://s.weibo.com/weibo?q=25万页AI黎曼猜想证明难核验",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:25万页ai黎曼猜想证明难核验"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
