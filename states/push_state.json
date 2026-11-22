@@ -19768,6 +19768,19 @@
    "breaking": true,
    "event_id": "e:后面的初三都要打起来了",
    "batch_window": 16
+  },
+  {
+   "key": "再见老板真的要来了",
+   "title": "再见老板真的要来了",
+   "rating": "A",
+   "score": 83.5,
+   "angle": "深度解析裁员潮背后的经济逻辑，给普通人的避险指南。",
+   "hook_reason": "职场生存危机预警，引发强烈焦虑与共鸣。",
+   "url": "https://s.weibo.com/weibo?q=再见老板真的要来了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:再见老板真的要来了",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -23457,6 +23470,18 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:后面的初三都要打起来了"
+  },
+  "再见老板真的要来了": {
+   "key": "再见老板真的要来了",
+   "title": "再见老板真的要来了",
+   "rating": "A",
+   "score": 83.5,
+   "angle": "深度解析裁员潮背后的经济逻辑，给普通人的避险指南。",
+   "hook_reason": "职场生存危机预警，引发强烈焦虑与共鸣。",
+   "url": "https://s.weibo.com/weibo?q=再见老板真的要来了",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:再见老板真的要来了"
   }
  },
  "breaking_count": 10,
