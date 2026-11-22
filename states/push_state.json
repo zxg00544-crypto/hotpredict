@@ -19757,19 +19757,6 @@
    "batch_window": 15
   },
   {
-   "key": "再见老板真的要来了",
-   "title": "再见老板真的要来了",
-   "rating": "A",
-   "score": 83.5,
-   "angle": "深度解析裁员潮背后的经济逻辑，给普通人的避险指南。",
-   "hook_reason": "职场生存危机预警，引发强烈焦虑与共鸣。",
-   "url": "https://s.weibo.com/weibo?q=再见老板真的要来了",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:再见老板真的要来了",
-   "batch_window": 16
-  },
-  {
    "key": "特斯拉fsd实景界面很炫",
    "title": "特斯拉FSD实景界面很炫",
    "rating": "A",
@@ -19781,6 +19768,58 @@
    "breaking": true,
    "event_id": "e:特斯拉fsd实景界面很炫",
    "batch_window": 17
+  },
+  {
+   "key": "第一批买iphoneduo的人亏麻了",
+   "title": "第一批买iPhoneDuo的人亏麻了",
+   "rating": "A",
+   "score": 95.0,
+   "angle": "拆解iPhoneDuo定价策略失误，分析苹果高端市场遇冷与安卓旗舰的反向红利",
+   "hook_reason": "iPhone新品翻车，首批用户血亏，引发科技圈争议",
+   "url": "https://s.weibo.com/weibo?q=第一批买iPhoneDuo的人亏麻了",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:第一批买iphoneduo的人亏麻了",
+   "batch_window": 18
+  },
+  {
+   "key": "菲律宾8名警察绑架中国女富商",
+   "title": "菲律宾8名警察绑架中国女富商",
+   "rating": "A",
+   "score": 92.09,
+   "angle": "深度解析菲警察绑架案背后的腐败生态，警示海外华人法律风险与维权难点",
+   "hook_reason": "官方执法者绑架中国富人，身份反差大，涉及海外安全与司法腐败，引发强烈不安与愤怒。",
+   "url": "https://s.weibo.com/weibo?q=菲律宾8名警察绑架中国女富商",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:菲律宾8名警察绑架中国女富商",
+   "batch_window": 18
+  },
+  {
+   "key": "韩国网友感谢中国",
+   "title": "韩国网友感谢中国",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "解读'感谢'背后的具体事件（如物资援助/技术合作），分析中韩民间情绪变化及背后的经济/文化逻辑",
+   "hook_reason": "跨国反转+民族情绪，韩国网友感谢中国引发热议",
+   "url": "https://s.weibo.com/weibo?q=韩国网友感谢中国",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:韩国网友感谢中国",
+   "batch_window": 18
+  },
+  {
+   "key": "马斯克称ai行业明年或面临资金短缺",
+   "title": "马斯克称AI行业明年或面临资金短缺",
+   "rating": "A",
+   "score": 43.0,
+   "angle": "拆解马斯克言论背后的资本周期逻辑，对比软银等巨头动作，预判明年AI泡沫破裂风险。",
+   "hook_reason": "马斯克预言AI崩盘，颠覆市场乐观预期，引发恐慌与好奇。",
+   "url": "https://s.weibo.com/weibo?q=马斯克称AI行业明年或面临资金短缺",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克称ai行业明年或面临资金短缺",
+   "batch_window": 18
   }
  ],
  "pushed": [
@@ -21525,7 +21564,8 @@
   "日媒逐帧解析特朗普无视高市",
   "存脐带血公司注销断联老板被限消",
   "没了黄仁勋英伟达还有价值吗网页链接网页链接",
-  "后面的初三都要打起来了"
+  "后面的初三都要打起来了",
+  "再见老板真的要来了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23206,7 +23246,8 @@
   "e:日媒逐帧解析特朗普无视高市": "日媒逐帧解析特朗普无视高市",
   "e:存脐带血公司注销断联老板被限消": "存脐带血公司注销断联老板被限消",
   "e:一早被朋友电话吵醒看到英伟达突发消息外媒传出黄仁勋卷入职场风波董事会筹划罢免英伟": "没了黄仁勋，英伟达还有价值吗？ 网页链接 网页链接",
-  "e:后面的初三都要打起来了": "后面的初三都要打起来了"
+  "e:后面的初三都要打起来了": "后面的初三都要打起来了",
+  "e:再见老板真的要来了": "再见老板真的要来了"
  },
  "a_seen": {
   "美国人为什么开始反对ai了": {
@@ -23496,8 +23537,56 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:特斯拉fsd实景界面很炫"
+  },
+  "第一批买iphoneduo的人亏麻了": {
+   "key": "第一批买iphoneduo的人亏麻了",
+   "title": "第一批买iPhoneDuo的人亏麻了",
+   "rating": "A",
+   "score": 95.0,
+   "angle": "拆解iPhoneDuo定价策略失误，分析苹果高端市场遇冷与安卓旗舰的反向红利",
+   "hook_reason": "iPhone新品翻车，首批用户血亏，引发科技圈争议",
+   "url": "https://s.weibo.com/weibo?q=第一批买iPhoneDuo的人亏麻了",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:第一批买iphoneduo的人亏麻了"
+  },
+  "菲律宾8名警察绑架中国女富商": {
+   "key": "菲律宾8名警察绑架中国女富商",
+   "title": "菲律宾8名警察绑架中国女富商",
+   "rating": "A",
+   "score": 92.09,
+   "angle": "深度解析菲警察绑架案背后的腐败生态，警示海外华人法律风险与维权难点",
+   "hook_reason": "官方执法者绑架中国富人，身份反差大，涉及海外安全与司法腐败，引发强烈不安与愤怒。",
+   "url": "https://s.weibo.com/weibo?q=菲律宾8名警察绑架中国女富商",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:菲律宾8名警察绑架中国女富商"
+  },
+  "韩国网友感谢中国": {
+   "key": "韩国网友感谢中国",
+   "title": "韩国网友感谢中国",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "解读'感谢'背后的具体事件（如物资援助/技术合作），分析中韩民间情绪变化及背后的经济/文化逻辑",
+   "hook_reason": "跨国反转+民族情绪，韩国网友感谢中国引发热议",
+   "url": "https://s.weibo.com/weibo?q=韩国网友感谢中国",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:韩国网友感谢中国"
+  },
+  "马斯克称ai行业明年或面临资金短缺": {
+   "key": "马斯克称ai行业明年或面临资金短缺",
+   "title": "马斯克称AI行业明年或面临资金短缺",
+   "rating": "A",
+   "score": 43.0,
+   "angle": "拆解马斯克言论背后的资本周期逻辑，对比软银等巨头动作，预判明年AI泡沫破裂风险。",
+   "hook_reason": "马斯克预言AI崩盘，颠覆市场乐观预期，引发恐慌与好奇。",
+   "url": "https://s.weibo.com/weibo?q=马斯克称AI行业明年或面临资金短缺",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克称ai行业明年或面临资金短缺"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 17
+ "a_pushed_window": 18
 }
