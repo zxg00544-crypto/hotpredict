@@ -15870,19 +15870,6 @@
    "batch_window": 6
   },
   {
-   "key": "3城人均住户存款超20万",
-   "title": "3城人均住户存款超20万",
-   "rating": "A",
-   "score": 79.45,
-   "angle": "拆解高存款背后的消费降级与预防性储蓄趋势，探讨中产安全感的重构",
-   "hook_reason": "人均存款超20万，引发关于财富差距与生活成本的强烈共鸣",
-   "url": "https://s.weibo.com/weibo?q=3城人均住户存款超20万",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:3城人均住户存款超20万",
-   "batch_window": 8
-  },
-  {
    "key": "何立峰与美国财政部长贝森特贸易代表格里尔举行视频通话",
    "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
    "rating": "A",
@@ -21490,7 +21477,8 @@
   "optimizelycompromisedservedmalwareonzoomgitlab",
   "pilltotreatpancreaticcancerhailed85fd192",
   "苹果iphoneduo越测越失望",
-  "英伟达架构有多逆天"
+  "英伟达架构有多逆天",
+  "3城人均住户存款超20万"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23162,7 +23150,8 @@
   "e:optimizelycompromisedservedmalwareonzoom": "Optimizely Compromised, Served Malware on Zoom, GitLab",
   "e:pilltotreatpancreaticcancerhailedasbigge": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
   "e:苹果iphoneduo越测越失望": "苹果iPhoneDuo越测越失望",
-  "e:英伟达架构有多逆天": "英伟达架构有多逆天"
+  "e:英伟达架构有多逆天": "英伟达架构有多逆天",
+  "e:3城人均住户存款超20万": "3城人均住户存款超20万"
  },
  "a_seen": {
   "美国人为什么开始反对ai了": {
@@ -23313,9 +23302,9 @@
    "key": "王楚钦孙颖莎外卡引公平争议",
    "title": "王楚钦孙颖莎外卡引公平争议",
    "rating": "A",
-   "score": 44.2,
-   "angle": "外卡非黑即白？透视体育‘特权’背后的规则正义与舆论反弹",
-   "hook_reason": "顶流组合获外卡资格，打破规则引发全网公平争议与阶层焦虑",
+   "score": 89.0,
+   "angle": "外卡争议背后是规则透明与情怀偏好的博弈，公众情绪反映社会对公平感的焦虑",
+   "hook_reason": "顶流组合涉公平争议，情绪极度高，吃瓜群众必点",
    "url": "https://s.weibo.com/weibo?q=王楚钦孙颖莎外卡引公平争议",
    "track": "社会热点",
    "breaking": true,
@@ -23323,5 +23312,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
