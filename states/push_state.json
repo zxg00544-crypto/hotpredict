@@ -17664,19 +17664,6 @@
    "batch_window": 16
   },
   {
-   "key": "英伟达架构有多逆天",
-   "title": "英伟达架构有多逆天",
-   "rating": "A",
-   "score": 79.45,
-   "angle": "从GPU架构演进角度，解析英伟达如何通过CUDA生态构建不可逾越的护城河",
-   "hook_reason": "颠覆认知的技术壁垒，揭秘AI算力核心护城河",
-   "url": "https://s.weibo.com/weibo?q=英伟达架构有多逆天",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:英伟达架构有多逆天",
-   "batch_window": 19
-  },
-  {
    "key": "周小川ai深刻改变资本市场人机分工格局锚定三大目标引导其服务实体经济",
    "title": "周小川：AI深刻改变资本市场人机分工格局 锚定三大目标引导其服务实体经济",
    "rating": "A",
@@ -19742,6 +19729,32 @@
    "breaking": true,
    "event_id": "e:余承东享界v8",
    "batch_window": 7
+  },
+  {
+   "key": "但斌称一觉醒来血雨腥风",
+   "title": "但斌称一觉醒来血雨腥风",
+   "rating": "A",
+   "score": 78.95,
+   "angle": "借但斌‘血雨腥风’言论，深度复盘A股急跌背后的机构博弈与散户心态崩坏",
+   "hook_reason": "知名投资人但斌罕见情绪化发言，映射A股暴跌，散户焦虑共鸣极强",
+   "url": "https://s.weibo.com/weibo?q=但斌称一觉醒来血雨腥风",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:但斌称一觉醒来血雨腥风",
+   "batch_window": 8
+  },
+  {
+   "key": "王楚钦孙颖莎外卡引公平争议",
+   "title": "王楚钦孙颖莎外卡引公平争议",
+   "rating": "A",
+   "score": 44.2,
+   "angle": "外卡非黑即白？透视体育‘特权’背后的规则正义与舆论反弹",
+   "hook_reason": "顶流组合获外卡资格，打破规则引发全网公平争议与阶层焦虑",
+   "url": "https://s.weibo.com/weibo?q=王楚钦孙颖莎外卡引公平争议",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:王楚钦孙颖莎外卡引公平争议",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -21476,7 +21489,8 @@
   "googlegeminiroutespersonaldrivef7a715638",
   "optimizelycompromisedservedmalwareonzoomgitlab",
   "pilltotreatpancreaticcancerhailed85fd192",
-  "苹果iphoneduo越测越失望"
+  "苹果iphoneduo越测越失望",
+  "英伟达架构有多逆天"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23147,7 +23161,8 @@
   "e:googlegeminiroutespersonaldrivefilesande": "Google Gemini routes personal Drive files and emails to human annotators",
   "e:optimizelycompromisedservedmalwareonzoom": "Optimizely Compromised, Served Malware on Zoom, GitLab",
   "e:pilltotreatpancreaticcancerhailedasbigge": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-  "e:苹果iphoneduo越测越失望": "苹果iPhoneDuo越测越失望"
+  "e:苹果iphoneduo越测越失望": "苹果iPhoneDuo越测越失望",
+  "e:英伟达架构有多逆天": "英伟达架构有多逆天"
  },
  "a_seen": {
   "美国人为什么开始反对ai了": {
@@ -23281,8 +23296,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:余承东享界v8"
+  },
+  "但斌称一觉醒来血雨腥风": {
+   "key": "但斌称一觉醒来血雨腥风",
+   "title": "但斌称一觉醒来血雨腥风",
+   "rating": "A",
+   "score": 78.95,
+   "angle": "借但斌‘血雨腥风’言论，深度复盘A股急跌背后的机构博弈与散户心态崩坏",
+   "hook_reason": "知名投资人但斌罕见情绪化发言，映射A股暴跌，散户焦虑共鸣极强",
+   "url": "https://s.weibo.com/weibo?q=但斌称一觉醒来血雨腥风",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:但斌称一觉醒来血雨腥风"
+  },
+  "王楚钦孙颖莎外卡引公平争议": {
+   "key": "王楚钦孙颖莎外卡引公平争议",
+   "title": "王楚钦孙颖莎外卡引公平争议",
+   "rating": "A",
+   "score": 44.2,
+   "angle": "外卡非黑即白？透视体育‘特权’背后的规则正义与舆论反弹",
+   "hook_reason": "顶流组合获外卡资格，打破规则引发全网公平争议与阶层焦虑",
+   "url": "https://s.weibo.com/weibo?q=王楚钦孙颖莎外卡引公平争议",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:王楚钦孙颖莎外卡引公平争议"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
