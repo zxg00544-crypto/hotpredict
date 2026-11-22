@@ -13660,19 +13660,6 @@
    "batch_window": 15
   },
   {
-   "key": "曝lpl队伍邀请zeus加入",
-   "title": "曝LPL队伍邀请Zeus加入",
-   "rating": "A",
-   "score": 79.35,
-   "angle": "从Zeus转会动向切入，分析LPL引援策略与韩援市场格局变化",
-   "hook_reason": "Top选手Zeus空降LPL？电竞圈震动，粉丝直呼看不懂",
-   "url": "https://s.weibo.com/weibo?q=曝LPL队伍邀请Zeus加入",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:曝lpl队伍邀请zeus加入",
-   "batch_window": 16
-  },
-  {
    "key": "showhnwikihackhackertubebutforwi631ba05b",
    "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
    "rating": "A",
@@ -19898,6 +19885,32 @@
    "breaking": true,
    "event_id": "e:马斯克意识要么是一种错觉要么以梯度形式普遍存在很难主张碳基可以产生意识而",
    "batch_window": 6
+  },
+  {
+   "key": "马斯克悄悄在菲律宾开发岛屿",
+   "title": "马斯克悄悄在菲律宾开发岛屿",
+   "rating": "A",
+   "score": 43.55,
+   "angle": "马斯克为何盯上菲律宾？解析其太空与能源布局背后的地缘新棋局。",
+   "hook_reason": "顶级大佬马斯克神秘动作，跨界地产与能源，引发无限猜测。",
+   "url": "https://s.weibo.com/weibo?q=马斯克悄悄在菲律宾开发岛屿",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克悄悄在菲律宾开发岛屿",
+   "batch_window": 7
+  },
+  {
+   "key": "三星电子在盘前交易中下跌56sk海力士下跌6",
+   "title": "三星电子在盘前交易中下跌5.6%，SK海力士下跌6%。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "三星海力士暴跌引发全球半导体恐慌，A股芯片产业链午后异动及外资流向解读",
+   "hook_reason": "韩股龙头集体跳水，A股半导体板块是否跟随崩盘？",
+   "url": "https://finance.sina.cn/7x24/2026-11-23/detail-inizskhs0791241.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:三星电子在盘前交易中下跌56sk海力士下跌6",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -21665,7 +21678,8 @@
   "武汉一小学设牌劝返送水壶作业的家长让孩子自己承担忘带东西的后果这种方式怎么样值得效仿吗",
   "央视曝光褪黑素骗局",
   "交易所打出稳市组合拳沪深北交易所降低融资保证金比例下限至80意味着什么释放了哪些信号",
-  "特斯拉fsd实景界面很炫"
+  "特斯拉fsd实景界面很炫",
+  "曝lpl队伍邀请zeus加入"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23369,7 +23383,8 @@
   "e:武汉一小学设牌劝返送水壶作业的家长让孩子自己承担忘带东西的后果这种方式怎么样值得": "武汉一小学设牌劝返送水壶、作业的家长，让孩子自己承担忘带东西的后果，这种方式怎么样？值得效仿吗？",
   "e:央视曝光褪黑素骗局": "央视曝光褪黑素骗局",
   "e:交易所打出稳市组合拳沪深北交易所降低融资保证金比例下限至80意味着什么释放了哪些": "交易所打出稳市「组合拳」，沪深北交易所降低融资保证金比例下限至 80%，意味着什么？释放了哪些信号？",
-  "e:特斯拉fsd实景界面很炫": "特斯拉FSD实景界面很炫"
+  "e:特斯拉fsd实景界面很炫": "特斯拉FSD实景界面很炫",
+  "e:曝lpl队伍邀请zeus加入": "曝LPL队伍邀请Zeus加入"
  },
  "a_seen": {
   "英伟达被查市值接近腰斩": {
@@ -23431,8 +23446,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:马斯克意识要么是一种错觉要么以梯度形式普遍存在很难主张碳基可以产生意识而"
+  },
+  "马斯克悄悄在菲律宾开发岛屿": {
+   "key": "马斯克悄悄在菲律宾开发岛屿",
+   "title": "马斯克悄悄在菲律宾开发岛屿",
+   "rating": "A",
+   "score": 43.55,
+   "angle": "马斯克为何盯上菲律宾？解析其太空与能源布局背后的地缘新棋局。",
+   "hook_reason": "顶级大佬马斯克神秘动作，跨界地产与能源，引发无限猜测。",
+   "url": "https://s.weibo.com/weibo?q=马斯克悄悄在菲律宾开发岛屿",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克悄悄在菲律宾开发岛屿"
+  },
+  "三星电子在盘前交易中下跌56sk海力士下跌6": {
+   "key": "三星电子在盘前交易中下跌56sk海力士下跌6",
+   "title": "三星电子在盘前交易中下跌5.6%，SK海力士下跌6%。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "三星海力士暴跌引发全球半导体恐慌，A股芯片产业链午后异动及外资流向解读",
+   "hook_reason": "韩股龙头集体跳水，A股半导体板块是否跟随崩盘？",
+   "url": "https://finance.sina.cn/7x24/2026-11-23/detail-inizskhs0791241.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:三星电子在盘前交易中下跌56sk海力士下跌6"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
