@@ -19846,6 +19846,32 @@
    "breaking": true,
    "event_id": "e:韩国将设股市稳定基金",
    "batch_window": 19
+  },
+  {
+   "key": "沪深北交易所调整融资保证金比例",
+   "title": "沪深北交易所调整融资保证金比例",
+   "rating": "A",
+   "score": 87.9,
+   "angle": "深度解读融资保证金比例调整背后的监管意图，结合历史周期复盘，预判短期市场情绪反转与资金流向变化",
+   "hook_reason": "杠杆收紧，牛市拐点？多空对决开启",
+   "url": "https://finance.sina.cn/7x24/2026-11-22/detail-inizrhva8830362.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:沪深北交易所调整融资保证金比例",
+   "batch_window": 19
+  },
+  {
+   "key": "主播糟蹋千斤苹果仅赔6000元",
+   "title": "主播糟蹋千斤苹果仅赔6000元",
+   "rating": "A",
+   "score": 76.34,
+   "angle": "从食品安全与平台监管角度，探讨直播带货中责任界定与惩罚机制缺失",
+   "hook_reason": "糟蹋粮食触道德红线，赔偿金额过低引发公平争议",
+   "url": "https://s.weibo.com/weibo?q=主播糟蹋千斤苹果仅赔6000元",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:主播糟蹋千斤苹果仅赔6000元",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -23606,11 +23632,11 @@
    "key": "马斯克称ai行业明年或面临资金短缺",
    "title": "马斯克称AI行业明年或面临资金短缺",
    "rating": "A",
-   "score": 43.0,
-   "angle": "拆解马斯克言论背后的资本周期逻辑，对比软银等巨头动作，预判明年AI泡沫破裂风险。",
-   "hook_reason": "马斯克预言AI崩盘，颠覆市场乐观预期，引发恐慌与好奇。",
+   "score": 44.64,
+   "angle": "深度拆解马斯克言论背后的资本逻辑，预判AI泡沫破裂的具体时间点及受影响最深的赛道",
+   "hook_reason": "马斯克预言AI资金寒冬，直击投资者焦虑与行业生死线",
    "url": "https://s.weibo.com/weibo?q=马斯克称AI行业明年或面临资金短缺",
-   "track": "大咖发言",
+   "track": "科技",
    "breaking": true,
    "event_id": "e:马斯克称ai行业明年或面临资金短缺"
   },
@@ -23649,6 +23675,30 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:韩国将设股市稳定基金"
+  },
+  "沪深北交易所调整融资保证金比例": {
+   "key": "沪深北交易所调整融资保证金比例",
+   "title": "沪深北交易所调整融资保证金比例",
+   "rating": "A",
+   "score": 87.9,
+   "angle": "深度解读融资保证金比例调整背后的监管意图，结合历史周期复盘，预判短期市场情绪反转与资金流向变化",
+   "hook_reason": "杠杆收紧，牛市拐点？多空对决开启",
+   "url": "https://finance.sina.cn/7x24/2026-11-22/detail-inizrhva8830362.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:沪深北交易所调整融资保证金比例"
+  },
+  "主播糟蹋千斤苹果仅赔6000元": {
+   "key": "主播糟蹋千斤苹果仅赔6000元",
+   "title": "主播糟蹋千斤苹果仅赔6000元",
+   "rating": "A",
+   "score": 76.34,
+   "angle": "从食品安全与平台监管角度，探讨直播带货中责任界定与惩罚机制缺失",
+   "hook_reason": "糟蹋粮食触道德红线，赔偿金额过低引发公平争议",
+   "url": "https://s.weibo.com/weibo?q=主播糟蹋千斤苹果仅赔6000元",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:主播糟蹋千斤苹果仅赔6000元"
   }
  },
  "breaking_count": 10,
