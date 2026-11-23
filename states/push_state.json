@@ -20004,19 +20004,6 @@
    "batch_window": 17
   },
   {
-   "key": "胖东来一店将关闭羽绒服亮成本价",
-   "title": "胖东来一店将关闭羽绒服亮成本价",
-   "rating": "A",
-   "score": 81.5,
-   "angle": "胖东来亮成本不仅是营销，更是对消费者知情权的尊重，重塑零售信任逻辑",
-   "hook_reason": "打破商业潜规则，透明成本引发对消费主义的深度共鸣",
-   "url": "https://s.weibo.com/weibo?q=胖东来一店将关闭羽绒服亮成本价",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:胖东来一店将关闭羽绒服亮成本价",
-   "batch_window": 19
-  },
-  {
    "key": "glm54towardgeneralizedcodingwith15f69679",
    "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
    "rating": "A",
@@ -20093,6 +20080,32 @@
    "breaking": true,
    "event_id": "e:马斯克fsd",
    "batch_window": 21
+  },
+  {
+   "key": "特朗普美国没有理由认为黄仁勋的回归会构成风险",
+   "title": "特朗普：美国没有理由认为黄仁勋的回归会构成风险。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "特朗普罕见力挺黄仁勋，释放美企继续深耕华市信号，科技股逻辑反转",
+   "hook_reason": "特朗普为黄仁勋背书，打破中美科技脱钩刻板印象，极具反差",
+   "url": "https://zhibo.sina.com.cn/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特朗普美国没有理由认为黄仁勋的回归会构成风险",
+   "batch_window": 22
+  },
+  {
+   "key": "马斯克解释fsdv15原理",
+   "title": "马斯克解释FSDV15原理",
+   "rating": "A",
+   "score": 43.95,
+   "angle": "马斯克亲自拆解FSD V15技术底层逻辑，解读AI如何重构出行行业格局",
+   "hook_reason": "首富亲释AI自动驾驶核心原理，颠覆性技术细节曝光",
+   "url": "https://s.weibo.com/weibo?q=马斯克解释FSDV15原理",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克解释fsdv15原理",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -21875,7 +21888,8 @@
   "一直以为家里只是穷点",
   "genie4isnowavailable",
   "京东原首席战略官廖建文离世",
-  "上海地铁涨价"
+  "上海地铁涨价",
+  "胖东来一店将关闭羽绒服亮成本价"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23594,7 +23608,8 @@
   "e:一直以为家里只是穷点": "一直以为家里只是穷点",
   "e:genie4isnowavailable": "Genie 4 is now available",
   "e:京东原首席战略官廖建文离世": "京东原首席战略官廖建文离世",
-  "e:上海地铁涨价": "上海地铁涨价"
+  "e:上海地铁涨价": "上海地铁涨价",
+  "e:胖东来一店将关闭羽绒服亮成本价": "胖东来一店将关闭羽绒服亮成本价"
  },
  "a_seen": {
   "英伟达被查市值接近腰斩": {
@@ -24052,8 +24067,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:马斯克fsd"
+  },
+  "特朗普美国没有理由认为黄仁勋的回归会构成风险": {
+   "key": "特朗普美国没有理由认为黄仁勋的回归会构成风险",
+   "title": "特朗普：美国没有理由认为黄仁勋的回归会构成风险。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "特朗普罕见力挺黄仁勋，释放美企继续深耕华市信号，科技股逻辑反转",
+   "hook_reason": "特朗普为黄仁勋背书，打破中美科技脱钩刻板印象，极具反差",
+   "url": "https://zhibo.sina.com.cn/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特朗普美国没有理由认为黄仁勋的回归会构成风险"
+  },
+  "特朗普国家需要黄仁勋在英伟达的领导": {
+   "key": "特朗普国家需要黄仁勋在英伟达的领导",
+   "title": "特朗普：国家需要黄仁勋在英伟达的领导。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "特朗普力挺黄仁勋，释放美国AI战略什么信号？",
+   "hook_reason": "总统背书+黄仁勋，AI风向标",
+   "url": "https://finance.sina.cn/7x24/2026-11-23/detail-iniztwiu2172594.d.html",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:特朗普美国没有理由认为黄仁勋的回归会构成风险"
+  },
+  "马斯克解释fsdv15原理": {
+   "key": "马斯克解释fsdv15原理",
+   "title": "马斯克解释FSDV15原理",
+   "rating": "A",
+   "score": 43.95,
+   "angle": "马斯克亲自拆解FSD V15技术底层逻辑，解读AI如何重构出行行业格局",
+   "hook_reason": "首富亲释AI自动驾驶核心原理，颠覆性技术细节曝光",
+   "url": "https://s.weibo.com/weibo?q=马斯克解释FSDV15原理",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克解释fsdv15原理"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
