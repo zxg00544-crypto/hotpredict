@@ -20121,19 +20121,6 @@
    "batch_window": 23
   },
   {
-   "key": "bbc应向被冒犯的深圳市民道歉",
-   "title": "BBC应向被冒犯的深圳市民道歉",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "从BBC报道失实切入，分析外媒叙事逻辑与深圳市民的民族情绪共鸣点",
-   "hook_reason": "国际媒体道歉争议，民族情绪与城市形象双重引爆",
-   "url": "https://s.weibo.com/weibo?q=BBC应向被冒犯的深圳市民道歉",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:bbc应向被冒犯的深圳市民道歉",
-   "batch_window": 23
-  },
-  {
    "key": "jensenhuangreinstatedasnvidiaceo",
    "title": "Jensen Huang Reinstated as Nvidia CEO",
    "rating": "A",
@@ -21946,7 +21933,14 @@
   "特朗普手持在深圳照片向众人展示",
   "复联5终极预告",
   "英伟达市值重回美股第二",
-  "特朗普把抵达深圳照片打印出来了"
+  "特朗普把抵达深圳照片打印出来了",
+  "黄仁勋复职原因",
+  "美股芯片股涨疯了",
+  "spacecraftreachesmercuryonsecond4494c340",
+  "英伟达首席执行官黄仁勋将于12月3日在美国参议院银行委员会作证",
+  "黄仁勋很荣幸回到英伟达",
+  "谷歌将谷歌钱包加入人工智能模式的个人智能功能",
+  "bbc应向被冒犯的深圳市民道歉"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23671,7 +23665,14 @@
   "e:特朗普手持在深圳照片向众人展示": "特朗普手持在深圳照片向众人展示",
   "e:复联5终极预告": "复联5终极预告",
   "e:英伟达市值重回美股第二": "英伟达市值重回美股第二",
-  "e:特朗普把抵达深圳照片打印出来了": "特朗普把抵达深圳照片打印出来了"
+  "e:特朗普把抵达深圳照片打印出来了": "特朗普把抵达深圳照片打印出来了",
+  "e:黄仁勋复职原因": "黄仁勋复职原因",
+  "e:美股芯片股涨疯了": "美股芯片股涨疯了",
+  "e:spacecraftreachesmercuryonsecondevermiss": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+  "e:英伟达首席执行官黄仁勋将于12月3日在美国参议院银行委员会作证": "英伟达首席执行官黄仁勋将于12月3日在美国参议院银行委员会作证。",
+  "e:黄仁勋很荣幸回到英伟达": "黄仁勋：很荣幸回到英伟达",
+  "e:谷歌将谷歌钱包加入人工智能模式的个人智能功能": "谷歌将谷歌钱包加入人工智能模式的个人智能功能。",
+  "e:bbc应向被冒犯的深圳市民道歉": "BBC应向被冒犯的深圳市民道歉"
  },
  "a_seen": {
   "马斯克回应黄仁勋复职": {
@@ -23715,12 +23716,12 @@
    "title": "英伟达董事会恢复黄仁勋CEO职务",
    "rating": "A",
    "score": 46.85,
-   "angle": "解读英伟达权力结构对AI芯片供应链及全球科技股情绪的关键影响",
-   "hook_reason": "黄仁勋权力稳固，AI霸主地位再获强化",
+   "angle": "黄仁勋回归CEO背后，英伟达AI算力垄断地位与市值保卫战的新棋局",
+   "hook_reason": "芯片霸主黄仁勋权力回归，AI算力核心人物动向牵动全球市场神经",
    "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:特朗普回应黄仁勋辞职"
+   "event_id": "e:黄仁勋很荣幸回到英伟达"
   },
   "黄仁勋恢复英伟达ceo职务": {
    "key": "黄仁勋恢复英伟达ceo职务",
@@ -23745,8 +23746,56 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:特朗普回应黄仁勋辞职"
+  },
+  "黄仁勋复职原因": {
+   "key": "黄仁勋复职原因",
+   "title": "黄仁勋复职原因",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "聚焦CEO空缺期决策真空风险，分析复职对NVIDIA股价及AI芯片供应链的即时冲击",
+   "hook_reason": "芯片霸主突然离职又复职？揭秘NVIDIA权力更迭内幕",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋复职原因",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋复职原因"
+  },
+  "英伟达首席执行官黄仁勋将于12月3日在美国参议院银行委员会作证": {
+   "key": "英伟达首席执行官黄仁勋将于12月3日在美国参议院银行委员会作证",
+   "title": "英伟达首席执行官黄仁勋将于12月3日在美国参议院银行委员会作证。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "黄仁勋国会证词透露AI监管红线，解读巨头战略与合规博弈",
+   "hook_reason": "黄仁勋国会作证，AI监管风向标，大佬言论定调",
+   "url": "https://finance.sina.cn/7x24/2026-11-24/detail-inizuarw0425362.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达首席执行官黄仁勋将于12月3日在美国参议院银行委员会作证"
+  },
+  "黄仁勋很荣幸回到英伟达": {
+   "key": "黄仁勋很荣幸回到英伟达",
+   "title": "黄仁勋：很荣幸回到英伟达",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解析黄仁勋‘回到’背后的深层含义：是技术路线回归还是组织重构？对英伟达市值及供应链的即时影响。",
+   "hook_reason": "英伟达CEO罕见表态，暗示重大战略转向，AI算力圈炸了。",
+   "url": "https://www.toutiao.com/trending/7711369945560387135/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋很荣幸回到英伟达"
+  },
+  "黄仁勋重返英伟达详尽始末": {
+   "key": "黄仁勋重返英伟达详尽始末",
+   "title": "黄仁勋重返英伟达详尽始末",
+   "rating": "A",
+   "score": 44.66,
+   "angle": "复盘黄仁勋去留始末，解读英伟达治理结构，预判AI算力供应链格局",
+   "hook_reason": "黄仁勋离职内幕，芯片帝国权力更迭，揭秘科技领袖去留逻辑",
+   "url": "https://search.bilibili.com/all?keyword=黄仁勋重返英伟达详尽始末",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋很荣幸回到英伟达"
   }
  },
- "breaking_count": 3,
- "a_pushed_window": 0
+ "breaking_count": 9,
+ "a_pushed_window": 1
 }
