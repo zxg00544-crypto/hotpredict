@@ -20004,19 +20004,6 @@
    "batch_window": 17
   },
   {
-   "key": "京东原首席战略官廖建文离世",
-   "title": "京东原首席战略官廖建文离世",
-   "rating": "A",
-   "score": 93.5,
-   "angle": "回顾廖建文在京东的十年贡献，分析电商巨头高层变阵背后的行业逻辑",
-   "hook_reason": "京东原首席战略官突然离世，互联网大佬命运引人唏嘘",
-   "url": "https://www.toutiao.com/trending/7711196532346781750/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:京东原首席战略官廖建文离世",
-   "batch_window": 19
-  },
-  {
    "key": "上海地铁涨价",
    "title": "上海地铁涨价",
    "rating": "A",
@@ -20041,6 +20028,58 @@
    "breaking": true,
    "event_id": "e:胖东来一店将关闭羽绒服亮成本价",
    "batch_window": 19
+  },
+  {
+   "key": "glm54towardgeneralizedcodingwith15f69679",
+   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "解析GLM-5.4的Loop Transformer如何重构代码生成逻辑，探讨其对通用编程范式的颠覆意义",
+   "hook_reason": "智谱发布Loop Transformer，架构创新打破算力限制",
+   "url": "https://z.ai/blog/glm-5.4",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:glm54towardgeneralizedcodingwithourfirst",
+   "batch_window": 20
+  },
+  {
+   "key": "央视网评遇事就举报",
+   "title": "央视网评“遇事就举报”",
+   "rating": "A",
+   "score": 76.33,
+   "angle": "从‘正义感’与‘网络暴力’的灰色地带切入，分析为何官方媒体呼吁理性监督",
+   "hook_reason": "央视网下场评‘遇事就举报’，引发全民对举报文化边界的激烈争论",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E2%80%9C%E9%81%87%E4%BA%8B%E5%B0%B1%E4%B8%BE%E6%8A%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:央视网评遇事就举报",
+   "batch_window": 20
+  },
+  {
+   "key": "200元就能定制ai仿冒名人视频",
+   "title": "200元就能定制AI仿冒名人视频",
+   "rating": "A",
+   "score": 45.05,
+   "angle": "200元技术门槛下的黑产狂欢：AI换脸如何击穿名人肖像权红线与平台监管防线？",
+   "hook_reason": "低成本高危害，AI深度伪造冲击名人权益与社会信任",
+   "url": "https://s.weibo.com/weibo?q=200元就能定制AI仿冒名人视频",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:200元就能定制ai仿冒名人视频",
+   "batch_window": 20
+  },
+  {
+   "key": "陶哲轩再评价ai攻破黎曼猜想",
+   "title": "陶哲轩再评价AI攻破黎曼猜想",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "陶哲轩犀利点评：AI解黎曼猜想是幻觉还是突破？顶级数学家眼中的真实现",
+   "hook_reason": "数学顶流陶哲轩发声，AI能否攻克人类最高谜题",
+   "url": "https://search.bilibili.com/all?keyword=陶哲轩再评价AI攻破黎曼猜想",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:陶哲轩再评价ai攻破黎曼猜想",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -21821,7 +21860,8 @@
   "李在明走访看到白菜煎饼摊走不动了",
   "花100元参加旅游团却花34万买了套房",
   "一直以为家里只是穷点",
-  "genie4isnowavailable"
+  "genie4isnowavailable",
+  "京东原首席战略官廖建文离世"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23538,7 +23578,8 @@
   "e:李在明走访看到白菜煎饼摊走不动了": "李在明走访看到白菜煎饼摊走不动了",
   "e:花100元参加旅游团却花34万买了套房": "花100元参加旅游团却花34万买了套房",
   "e:一直以为家里只是穷点": "一直以为家里只是穷点",
-  "e:genie4isnowavailable": "Genie 4 is now available"
+  "e:genie4isnowavailable": "Genie 4 is now available",
+  "e:京东原首席战略官廖建文离世": "京东原首席战略官廖建文离世"
  },
  "a_seen": {
   "英伟达被查市值接近腰斩": {
@@ -23930,14 +23971,50 @@
    "title": "陶哲轩再评价AI攻破黎曼猜想",
    "rating": "A",
    "score": 40.95,
-   "angle": "陶哲轩最新发声，AI真能攻克黎曼猜想？解读顶级数学家对AI能力的冷静与期待",
-   "hook_reason": "菲尔兹奖得主陶哲轩对AI解决顶级数学难题的最新权威评价，颠覆认知。",
+   "angle": "陶哲轩犀利点评：AI解黎曼猜想是幻觉还是突破？顶级数学家眼中的真实现",
+   "hook_reason": "数学顶流陶哲轩发声，AI能否攻克人类最高谜题",
    "url": "https://search.bilibili.com/all?keyword=陶哲轩再评价AI攻破黎曼猜想",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:数学家称用ai证明了黎曼猜想"
+   "event_id": "e:陶哲轩再评价ai攻破黎曼猜想"
+  },
+  "glm54towardgeneralizedcodingwith15f69679": {
+   "key": "glm54towardgeneralizedcodingwith15f69679",
+   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+   "rating": "A",
+   "score": 77.0,
+   "angle": "解析GLM-5.4的Loop Transformer如何重构代码生成逻辑，探讨其对通用编程范式的颠覆意义",
+   "hook_reason": "智谱发布Loop Transformer，架构创新打破算力限制",
+   "url": "https://z.ai/blog/glm-5.4",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:glm54towardgeneralizedcodingwithourfirst"
+  },
+  "央视网评遇事就举报": {
+   "key": "央视网评遇事就举报",
+   "title": "央视网评“遇事就举报”",
+   "rating": "A",
+   "score": 76.33,
+   "angle": "从‘正义感’与‘网络暴力’的灰色地带切入，分析为何官方媒体呼吁理性监督",
+   "hook_reason": "央视网下场评‘遇事就举报’，引发全民对举报文化边界的激烈争论",
+   "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E2%80%9C%E9%81%87%E4%BA%8B%E5%B0%B1%E4%B8%BE%E6%8A%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:央视网评遇事就举报"
+  },
+  "200元就能定制ai仿冒名人视频": {
+   "key": "200元就能定制ai仿冒名人视频",
+   "title": "200元就能定制AI仿冒名人视频",
+   "rating": "A",
+   "score": 45.05,
+   "angle": "200元技术门槛下的黑产狂欢：AI换脸如何击穿名人肖像权红线与平台监管防线？",
+   "hook_reason": "低成本高危害，AI深度伪造冲击名人权益与社会信任",
+   "url": "https://s.weibo.com/weibo?q=200元就能定制AI仿冒名人视频",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:200元就能定制ai仿冒名人视频"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
