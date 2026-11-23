@@ -20095,19 +20095,6 @@
    "batch_window": 22
   },
   {
-   "key": "英伟达美股盘前暴涨",
-   "title": "英伟达美股盘前暴涨",
-   "rating": "A",
-   "score": 87.85,
-   "angle": "深度复盘暴涨背后的财报预期差，预判对全球AI算力资本开支的连锁反应",
-   "hook_reason": "芯片风向标暴涨，直接决定科技股与算力成本走向",
-   "url": "https://search.bilibili.com/all?keyword=英伟达美股盘前暴涨",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:英伟达美股盘前暴涨",
-   "batch_window": 23
-  },
-  {
    "key": "特朗普祝贺黄仁勋复职",
    "title": "特朗普：祝贺黄仁勋复职",
    "rating": "A",
@@ -20145,6 +20132,45 @@
    "breaking": true,
    "event_id": "e:黄仁勋重新出任英伟达ceo",
    "batch_window": 23
+  },
+  {
+   "key": "nvidiareinstatesjensenhuangasceo",
+   "title": "Nvidia Reinstates Jensen Huang as CEO",
+   "rating": "A",
+   "score": 62.8,
+   "angle": "深度解析重返CEO背后的权力制衡与AI战略重塑",
+   "hook_reason": "黄仁勋重返CEO，AI算力格局或生变",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nvidiareinstatesjensenhuangasceo",
+   "batch_window": 2
+  },
+  {
+   "key": "英伟达独立调查委员会将继续调查",
+   "title": "英伟达独立调查委员会将继续调查",
+   "rating": "A",
+   "score": 44.5,
+   "angle": "深挖调查委员会新动作，分析对英伟达股价及AI板块的信心冲击",
+   "hook_reason": "巨头财务黑幕未平，调查升级，股民焦虑拉满",
+   "url": "https://s.weibo.com/weibo?q=英伟达独立调查委员会将继续调查",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英伟达独立调查委员会将继续调查",
+   "batch_window": 2
+  },
+  {
+   "key": "华为matex8及全场景新品发布会",
+   "title": "华为MateX8及全场景新品发布会",
+   "rating": "A",
+   "score": 45.3,
+   "angle": "深度解析MateX8技术突破对折叠屏手机格局的冲击",
+   "hook_reason": "华为MateX8折叠屏惊艳亮相，颠覆行业认知",
+   "url": "https://s.weibo.com/weibo?q=华为MateX8及全场景新品发布会",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为matex8及全场景新品发布会",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -21940,7 +21966,9 @@
   "英伟达首席执行官黄仁勋将于12月3日在美国参议院银行委员会作证",
   "黄仁勋很荣幸回到英伟达",
   "谷歌将谷歌钱包加入人工智能模式的个人智能功能",
-  "bbc应向被冒犯的深圳市民道歉"
+  "bbc应向被冒犯的深圳市民道歉",
+  "文吉儿风波的导火索",
+  "英伟达美股盘前暴涨"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23672,7 +23700,9 @@
   "e:英伟达首席执行官黄仁勋将于12月3日在美国参议院银行委员会作证": "英伟达首席执行官黄仁勋将于12月3日在美国参议院银行委员会作证。",
   "e:黄仁勋很荣幸回到英伟达": "黄仁勋：很荣幸回到英伟达",
   "e:谷歌将谷歌钱包加入人工智能模式的个人智能功能": "谷歌将谷歌钱包加入人工智能模式的个人智能功能。",
-  "e:bbc应向被冒犯的深圳市民道歉": "BBC应向被冒犯的深圳市民道歉"
+  "e:bbc应向被冒犯的深圳市民道歉": "BBC应向被冒犯的深圳市民道歉",
+  "e:文吉儿风波的导火索": "文吉儿风波的导火索",
+  "e:英伟达美股盘前暴涨": "英伟达美股盘前暴涨"
  },
  "a_seen": {
   "马斯克回应黄仁勋复职": {
@@ -23794,8 +23824,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:黄仁勋很荣幸回到英伟达"
+  },
+  "nvidiareinstatesjensenhuangasceo": {
+   "key": "nvidiareinstatesjensenhuangasceo",
+   "title": "Nvidia Reinstates Jensen Huang as CEO",
+   "rating": "A",
+   "score": 62.8,
+   "angle": "深度解析重返CEO背后的权力制衡与AI战略重塑",
+   "hook_reason": "黄仁勋重返CEO，AI算力格局或生变",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nvidiareinstatesjensenhuangasceo"
+  },
+  "英伟达独立调查委员会将继续调查": {
+   "key": "英伟达独立调查委员会将继续调查",
+   "title": "英伟达独立调查委员会将继续调查",
+   "rating": "A",
+   "score": 44.5,
+   "angle": "深挖调查委员会新动作，分析对英伟达股价及AI板块的信心冲击",
+   "hook_reason": "巨头财务黑幕未平，调查升级，股民焦虑拉满",
+   "url": "https://s.weibo.com/weibo?q=英伟达独立调查委员会将继续调查",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英伟达独立调查委员会将继续调查"
+  },
+  "华为matex8及全场景新品发布会": {
+   "key": "华为matex8及全场景新品发布会",
+   "title": "华为MateX8及全场景新品发布会",
+   "rating": "A",
+   "score": 45.3,
+   "angle": "深度解析MateX8技术突破对折叠屏手机格局的冲击",
+   "hook_reason": "华为MateX8折叠屏惊艳亮相，颠覆行业认知",
+   "url": "https://s.weibo.com/weibo?q=华为MateX8及全场景新品发布会",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为matex8及全场景新品发布会"
   }
  },
- "breaking_count": 9,
- "a_pushed_window": 1
+ "breaking_count": 10,
+ "a_pushed_window": 2
 }
