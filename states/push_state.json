@@ -19989,6 +19989,32 @@
    "breaking": true,
    "event_id": "e:中方回应特朗普称只想对华卖落后芯片",
    "batch_window": 16
+  },
+  {
+   "key": "一直以为家里只是穷点",
+   "title": "一直以为家里只是穷点",
+   "rating": "A",
+   "score": 85.74,
+   "angle": "深挖'隐性贫困'：为什么很多家庭的匮乏是安静的，直到某个瞬间才意识到。",
+   "hook_reason": "戳中无数人的童年隐痛，极易引发阶层共鸣与评论区自白。",
+   "url": "https://s.weibo.com/weibo?q=一直以为家里只是穷点",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:一直以为家里只是穷点",
+   "batch_window": 16
+  },
+  {
+   "key": "中方回应特朗普只想对华出售落后芯片",
+   "title": "中方回应特朗普只想对华出售落后芯片",
+   "rating": "A",
+   "score": 62.75,
+   "angle": "解析中方回应背后的技术封锁反制逻辑与芯片自主可控的紧迫性",
+   "hook_reason": "大国博弈+芯片战，情绪拉满，国产替代痛点直击科技圈与财经关注者",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AA%E6%83%B3%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AE%E8%90%BD%E5%90%8E%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:中方回应特朗普只想对华出售落后芯片",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -23770,6 +23796,30 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:中方回应特朗普称只想对华卖落后芯片"
+  },
+  "一直以为家里只是穷点": {
+   "key": "一直以为家里只是穷点",
+   "title": "一直以为家里只是穷点",
+   "rating": "A",
+   "score": 85.74,
+   "angle": "深挖'隐性贫困'：为什么很多家庭的匮乏是安静的，直到某个瞬间才意识到。",
+   "hook_reason": "戳中无数人的童年隐痛，极易引发阶层共鸣与评论区自白。",
+   "url": "https://s.weibo.com/weibo?q=一直以为家里只是穷点",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:一直以为家里只是穷点"
+  },
+  "中方回应特朗普只想对华出售落后芯片": {
+   "key": "中方回应特朗普只想对华出售落后芯片",
+   "title": "中方回应特朗普只想对华出售落后芯片",
+   "rating": "A",
+   "score": 62.75,
+   "angle": "解析中方回应背后的技术封锁反制逻辑与芯片自主可控的紧迫性",
+   "hook_reason": "大国博弈+芯片战，情绪拉满，国产替代痛点直击科技圈与财经关注者",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AA%E6%83%B3%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AE%E8%90%BD%E5%90%8E%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:中方回应特朗普只想对华出售落后芯片"
   }
  },
  "breaking_count": 10,
