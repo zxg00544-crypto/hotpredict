@@ -18795,19 +18795,6 @@
    "batch_window": 20
   },
   {
-   "key": "theaisuperintelligencedebatehasseriousflaws",
-   "title": "The AI Superintelligence Debate Has Serious Flaws",
-   "rating": "A",
-   "score": 79.0,
-   "angle": "IEEE光谱刊文：超级智能辩论的逻辑陷阱与学界分歧",
-   "hook_reason": "质疑AI超级智能，顶级专家观点反转",
-   "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:theaisuperintelligencedebatehasseriousfl",
-   "batch_window": 21
-  },
-  {
    "key": "中俄美元首发表和平宣言三国元首重申核战争打不赢也打不得哪些信息值得重点关注",
    "title": "中俄美元首发表和平宣言，三国元首重申核战争打不赢也打不得，哪些信息值得重点关注？",
    "rating": "A",
@@ -20106,6 +20093,84 @@
    "breaking": true,
    "event_id": "e:马斯克解释fsdv15原理",
    "batch_window": 22
+  },
+  {
+   "key": "英伟达美股盘前暴涨",
+   "title": "英伟达美股盘前暴涨",
+   "rating": "A",
+   "score": 87.85,
+   "angle": "深度复盘暴涨背后的财报预期差，预判对全球AI算力资本开支的连锁反应",
+   "hook_reason": "芯片风向标暴涨，直接决定科技股与算力成本走向",
+   "url": "https://search.bilibili.com/all?keyword=英伟达美股盘前暴涨",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英伟达美股盘前暴涨",
+   "batch_window": 23
+  },
+  {
+   "key": "特朗普祝贺黄仁勋复职",
+   "title": "特朗普：祝贺黄仁勋复职",
+   "rating": "A",
+   "score": 87.65,
+   "angle": "解析特朗普为何此时公开祝贺黄仁勋，透视美国对AI芯片供应链的政治施压与对华战略意图。",
+   "hook_reason": "特朗普亲自点赞黄仁勋，科技巨头与政治大佬罕见互动，暗示地缘政治与AI芯片的深层博弈。",
+   "url": "https://search.bilibili.com/all?keyword=特朗普祝贺黄仁勋复职",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特朗普祝贺黄仁勋复职",
+   "batch_window": 23
+  },
+  {
+   "key": "特朗普把抵达深圳照片打印出来了",
+   "title": "特朗普把抵达深圳照片打印出来了",
+   "rating": "A",
+   "score": 97.0,
+   "angle": "深度解读特朗普访深背后的中美供应链重构与深圳科技出海红利",
+   "hook_reason": "中美元首级互动+深圳制造，极具民族情绪与商业风向标属性",
+   "url": "https://s.weibo.com/weibo?q=特朗普把抵达深圳照片打印出来了",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:特朗普把抵达深圳照片打印出来了",
+   "batch_window": 23
+  },
+  {
+   "key": "bbc应向被冒犯的深圳市民道歉",
+   "title": "BBC应向被冒犯的深圳市民道歉",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从BBC报道失实切入，分析外媒叙事逻辑与深圳市民的民族情绪共鸣点",
+   "hook_reason": "国际媒体道歉争议，民族情绪与城市形象双重引爆",
+   "url": "https://s.weibo.com/weibo?q=BBC应向被冒犯的深圳市民道歉",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:bbc应向被冒犯的深圳市民道歉",
+   "batch_window": 23
+  },
+  {
+   "key": "jensenhuangreinstatedasnvidiaceo",
+   "title": "Jensen Huang Reinstated as Nvidia CEO",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "复盘其短暂缺位期间的市场波动与AI算力战略坚守",
+   "hook_reason": "黄仁勋官复原职，芯片巨头权力回归定海神针",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:jensenhuangreinstatedasnvidiaceo",
+   "batch_window": 23
+  },
+  {
+   "key": "黄仁勋重新出任英伟达ceo",
+   "title": "黄仁勋重新出任英伟达CEO",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深度解析黄仁勋回归CEO的战略意图及对AI算力格局的冲击",
+   "hook_reason": "AI霸主人事变动，影响全球芯片产业走向",
+   "url": "https://www.toutiao.com/trending/7710466018023456810/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋重新出任英伟达ceo",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -21889,7 +21954,8 @@
   "genie4isnowavailable",
   "京东原首席战略官廖建文离世",
   "上海地铁涨价",
-  "胖东来一店将关闭羽绒服亮成本价"
+  "胖东来一店将关闭羽绒服亮成本价",
+  "theaisuperintelligencedebatehasseriousflaws"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23609,7 +23675,8 @@
   "e:genie4isnowavailable": "Genie 4 is now available",
   "e:京东原首席战略官廖建文离世": "京东原首席战略官廖建文离世",
   "e:上海地铁涨价": "上海地铁涨价",
-  "e:胖东来一店将关闭羽绒服亮成本价": "胖东来一店将关闭羽绒服亮成本价"
+  "e:胖东来一店将关闭羽绒服亮成本价": "胖东来一店将关闭羽绒服亮成本价",
+  "e:theaisuperintelligencedebatehasseriousfl": "The AI Superintelligence Debate Has Serious Flaws"
  },
  "a_seen": {
   "英伟达被查市值接近腰斩": {
@@ -24103,8 +24170,80 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:马斯克解释fsdv15原理"
+  },
+  "英伟达美股盘前暴涨": {
+   "key": "英伟达美股盘前暴涨",
+   "title": "英伟达美股盘前暴涨",
+   "rating": "A",
+   "score": 87.85,
+   "angle": "深度复盘暴涨背后的财报预期差，预判对全球AI算力资本开支的连锁反应",
+   "hook_reason": "芯片风向标暴涨，直接决定科技股与算力成本走向",
+   "url": "https://search.bilibili.com/all?keyword=英伟达美股盘前暴涨",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英伟达美股盘前暴涨"
+  },
+  "特朗普祝贺黄仁勋复职": {
+   "key": "特朗普祝贺黄仁勋复职",
+   "title": "特朗普：祝贺黄仁勋复职",
+   "rating": "A",
+   "score": 87.65,
+   "angle": "解析特朗普为何此时公开祝贺黄仁勋，透视美国对AI芯片供应链的政治施压与对华战略意图。",
+   "hook_reason": "特朗普亲自点赞黄仁勋，科技巨头与政治大佬罕见互动，暗示地缘政治与AI芯片的深层博弈。",
+   "url": "https://search.bilibili.com/all?keyword=特朗普祝贺黄仁勋复职",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:特朗普祝贺黄仁勋复职"
+  },
+  "特朗普把抵达深圳照片打印出来了": {
+   "key": "特朗普把抵达深圳照片打印出来了",
+   "title": "特朗普把抵达深圳照片打印出来了",
+   "rating": "A",
+   "score": 97.0,
+   "angle": "深度解读特朗普访深背后的中美供应链重构与深圳科技出海红利",
+   "hook_reason": "中美元首级互动+深圳制造，极具民族情绪与商业风向标属性",
+   "url": "https://s.weibo.com/weibo?q=特朗普把抵达深圳照片打印出来了",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:特朗普把抵达深圳照片打印出来了"
+  },
+  "bbc应向被冒犯的深圳市民道歉": {
+   "key": "bbc应向被冒犯的深圳市民道歉",
+   "title": "BBC应向被冒犯的深圳市民道歉",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从BBC报道失实切入，分析外媒叙事逻辑与深圳市民的民族情绪共鸣点",
+   "hook_reason": "国际媒体道歉争议，民族情绪与城市形象双重引爆",
+   "url": "https://s.weibo.com/weibo?q=BBC应向被冒犯的深圳市民道歉",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:bbc应向被冒犯的深圳市民道歉"
+  },
+  "jensenhuangreinstatedasnvidiaceo": {
+   "key": "jensenhuangreinstatedasnvidiaceo",
+   "title": "Jensen Huang Reinstated as Nvidia CEO",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "复盘其短暂缺位期间的市场波动与AI算力战略坚守",
+   "hook_reason": "黄仁勋官复原职，芯片巨头权力回归定海神针",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:jensenhuangreinstatedasnvidiaceo"
+  },
+  "黄仁勋重新出任英伟达ceo": {
+   "key": "黄仁勋重新出任英伟达ceo",
+   "title": "黄仁勋重新出任英伟达CEO",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深度解析黄仁勋回归CEO的战略意图及对AI算力格局的冲击",
+   "hook_reason": "AI霸主人事变动，影响全球芯片产业走向",
+   "url": "https://www.toutiao.com/trending/7710466018023456810/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋重新出任英伟达ceo"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
