@@ -15662,19 +15662,6 @@
    "batch_window": 13
   },
   {
-   "key": "两口子懒得拍婚纱照让ai生成",
-   "title": "两口子懒得拍婚纱照让AI生成",
-   "rating": "A",
-   "score": 79.05,
-   "angle": "AI低成本替代线下服务，分析技术普惠性对消费习惯的重塑",
-   "hook_reason": "AI省钱懒人福音，颠覆传统婚纱摄影认知",
-   "url": "https://s.weibo.com/weibo?q=两口子懒得拍婚纱照让AI生成",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:两口子懒得拍婚纱照让ai生成",
-   "batch_window": 16
-  },
-  {
    "key": "中国ai短剧被韩配搬运",
    "title": "中国AI短剧被韩配搬运",
    "rating": "A",
@@ -19924,6 +19911,19 @@
    "breaking": true,
    "event_id": "e:孩子用ai写小说被说不是自己写",
    "batch_window": 8
+  },
+  {
+   "key": "treetree的炸鸡外卖火到被迫成为门店",
+   "title": "treetree的炸鸡外卖火到被迫成为门店",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从炸鸡外卖逆袭实体，拆解新消费品牌被迫转型背后的流量与成本悖论",
+   "hook_reason": "外卖卷到开实体门店，揭示餐饮界残酷生存逻辑",
+   "url": "https://s.weibo.com/weibo?q=treetree的炸鸡外卖火到被迫成为门店",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:treetree的炸鸡外卖火到被迫成为门店",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -21694,7 +21694,8 @@
   "特斯拉fsd实景界面很炫",
   "曝lpl队伍邀请zeus加入",
   "控kong聊天记录曝光",
-  "芯片战争作者警告美国"
+  "芯片战争作者警告美国",
+  "两口子懒得拍婚纱照让ai生成"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23401,7 +23402,8 @@
   "e:特斯拉fsd实景界面很炫": "特斯拉FSD实景界面很炫",
   "e:曝lpl队伍邀请zeus加入": "曝LPL队伍邀请Zeus加入",
   "e:控kong聊天记录曝光": "控Kong聊天记录曝光",
-  "e:芯片战争作者警告美国": "《芯片战争》作者警告美国"
+  "e:芯片战争作者警告美国": "《芯片战争》作者警告美国",
+  "e:两口子懒得拍婚纱照让ai生成": "两口子懒得拍婚纱照让AI生成"
  },
  "a_seen": {
   "英伟达被查市值接近腰斩": {
@@ -23523,8 +23525,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:孩子用ai写小说被说不是自己写"
+  },
+  "treetree的炸鸡外卖火到被迫成为门店": {
+   "key": "treetree的炸鸡外卖火到被迫成为门店",
+   "title": "treetree的炸鸡外卖火到被迫成为门店",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从炸鸡外卖逆袭实体，拆解新消费品牌被迫转型背后的流量与成本悖论",
+   "hook_reason": "外卖卷到开实体门店，揭示餐饮界残酷生存逻辑",
+   "url": "https://s.weibo.com/weibo?q=treetree的炸鸡外卖火到被迫成为门店",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:treetree的炸鸡外卖火到被迫成为门店"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
