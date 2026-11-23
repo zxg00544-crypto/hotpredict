@@ -15051,19 +15051,6 @@
    "batch_window": 7
   },
   {
-   "key": "控kong聊天记录曝光",
-   "title": "控Kong聊天记录曝光",
-   "rating": "A",
-   "score": 79.05,
-   "angle": "深挖聊天内容细节，还原事件全貌，分析舆论发酵路径与当事人公关应对",
-   "hook_reason": "大咖聊天记录曝光，吃瓜心理拉满，信息差即流量",
-   "url": "https://s.weibo.com/weibo?q=控Kong聊天记录曝光",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:控kong聊天记录曝光",
-   "batch_window": 9
-  },
-  {
    "key": "美股史诗级暴涨",
    "title": "美股史诗级暴涨",
    "rating": "A",
@@ -19911,6 +19898,45 @@
    "breaking": true,
    "event_id": "e:三星电子在盘前交易中下跌56sk海力士下跌6",
    "batch_window": 7
+  },
+  {
+   "key": "芯片战争作者警告美国",
+   "title": "《芯片战争》作者警告美国",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解析《芯片战争》核心逻辑，透视美国对华科技封锁的最新变数与反制空间。",
+   "hook_reason": "芯片战争作者发难，美企供应链风险爆发",
+   "url": "https://www.toutiao.com/trending/7710869113992102438/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:芯片战争作者警告美国",
+   "batch_window": 8
+  },
+  {
+   "key": "a股迎稳市组合拳",
+   "title": "A股迎稳市组合拳",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "拆解“组合拳”具体条款，分析对短线资金及长期信心的差异化影响",
+   "hook_reason": "政策突发重磅组合拳，散户直接关乎钱包，情绪拉满",
+   "url": "https://www.toutiao.com/trending/7711046630803246611/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股迎稳市组合拳",
+   "batch_window": 8
+  },
+  {
+   "key": "孩子用ai写小说被说不是自己写",
+   "title": "孩子用AI写小说被说不是自己写",
+   "rating": "A",
+   "score": 44.1,
+   "angle": "探讨AI时代教育评价标准重构，从工具滥用转向能力内化",
+   "hook_reason": "AI与原创边界争议，家长教师群体强共鸣",
+   "url": "https://s.weibo.com/weibo?q=孩子用AI写小说被说不是自己写",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:孩子用ai写小说被说不是自己写",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -21679,7 +21705,8 @@
   "央视曝光褪黑素骗局",
   "交易所打出稳市组合拳沪深北交易所降低融资保证金比例下限至80意味着什么释放了哪些信号",
   "特斯拉fsd实景界面很炫",
-  "曝lpl队伍邀请zeus加入"
+  "曝lpl队伍邀请zeus加入",
+  "控kong聊天记录曝光"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23384,7 +23411,8 @@
   "e:央视曝光褪黑素骗局": "央视曝光褪黑素骗局",
   "e:交易所打出稳市组合拳沪深北交易所降低融资保证金比例下限至80意味着什么释放了哪些": "交易所打出稳市「组合拳」，沪深北交易所降低融资保证金比例下限至 80%，意味着什么？释放了哪些信号？",
   "e:特斯拉fsd实景界面很炫": "特斯拉FSD实景界面很炫",
-  "e:曝lpl队伍邀请zeus加入": "曝LPL队伍邀请Zeus加入"
+  "e:曝lpl队伍邀请zeus加入": "曝LPL队伍邀请Zeus加入",
+  "e:控kong聊天记录曝光": "控Kong聊天记录曝光"
  },
  "a_seen": {
   "英伟达被查市值接近腰斩": {
@@ -23470,8 +23498,44 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:三星电子在盘前交易中下跌56sk海力士下跌6"
+  },
+  "芯片战争作者警告美国": {
+   "key": "芯片战争作者警告美国",
+   "title": "《芯片战争》作者警告美国",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "解析《芯片战争》核心逻辑，透视美国对华科技封锁的最新变数与反制空间。",
+   "hook_reason": "芯片战争作者发难，美企供应链风险爆发",
+   "url": "https://www.toutiao.com/trending/7710869113992102438/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:芯片战争作者警告美国"
+  },
+  "a股迎稳市组合拳": {
+   "key": "a股迎稳市组合拳",
+   "title": "A股迎稳市组合拳",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "拆解“组合拳”具体条款，分析对短线资金及长期信心的差异化影响",
+   "hook_reason": "政策突发重磅组合拳，散户直接关乎钱包，情绪拉满",
+   "url": "https://www.toutiao.com/trending/7711046630803246611/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股迎稳市组合拳"
+  },
+  "孩子用ai写小说被说不是自己写": {
+   "key": "孩子用ai写小说被说不是自己写",
+   "title": "孩子用AI写小说被说不是自己写",
+   "rating": "A",
+   "score": 44.1,
+   "angle": "探讨AI时代教育评价标准重构，从工具滥用转向能力内化",
+   "hook_reason": "AI与原创边界争议，家长教师群体强共鸣",
+   "url": "https://s.weibo.com/weibo?q=孩子用AI写小说被说不是自己写",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:孩子用ai写小说被说不是自己写"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
