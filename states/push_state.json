@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-11-23",
  "a_pending": [
   {
@@ -20004,19 +20004,6 @@
    "batch_window": 17
   },
   {
-   "key": "上海地铁涨价",
-   "title": "上海地铁涨价",
-   "rating": "A",
-   "score": 92.5,
-   "angle": "算笔账：多交的票价能买什么？深挖涨价背后的财政逻辑与民生痛感。",
-   "hook_reason": "关乎日常通勤成本，情绪共鸣强，极易引发打工人讨论。",
-   "url": "https://s.weibo.com/weibo?q=上海地铁涨价",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:上海地铁涨价",
-   "batch_window": 19
-  },
-  {
    "key": "胖东来一店将关闭羽绒服亮成本价",
    "title": "胖东来一店将关闭羽绒服亮成本价",
    "rating": "A",
@@ -20080,6 +20067,32 @@
    "breaking": true,
    "event_id": "e:陶哲轩再评价ai攻破黎曼猜想",
    "batch_window": 20
+  },
+  {
+   "key": "a股迎大反攻原因找到了",
+   "title": "A股迎大反攻原因找到了",
+   "rating": "A",
+   "score": 43.95,
+   "angle": "深挖大反攻底层逻辑，拆解政策与资金面共振，预判后续走势",
+   "hook_reason": "A股大反攻背后真相，散户必看，揭秘暴涨核心驱动力",
+   "url": "https://s.weibo.com/weibo?q=A股迎大反攻原因找到了",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股迎大反攻原因找到了",
+   "batch_window": 21
+  },
+  {
+   "key": "马斯克fsd",
+   "title": "马斯克 FSD",
+   "rating": "A",
+   "score": 42.95,
+   "angle": "马斯克FSD最新突破或争议，深度解析其对全球智驾格局的颠覆性影响",
+   "hook_reason": "首富马斯克突发动向，关乎自动驾驶生死局",
+   "url": "https://s.weibo.com/weibo?q=马斯克 FSD",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克fsd",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -21861,7 +21874,8 @@
   "花100元参加旅游团却花34万买了套房",
   "一直以为家里只是穷点",
   "genie4isnowavailable",
-  "京东原首席战略官廖建文离世"
+  "京东原首席战略官廖建文离世",
+  "上海地铁涨价"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23579,7 +23593,8 @@
   "e:花100元参加旅游团却花34万买了套房": "花100元参加旅游团却花34万买了套房",
   "e:一直以为家里只是穷点": "一直以为家里只是穷点",
   "e:genie4isnowavailable": "Genie 4 is now available",
-  "e:京东原首席战略官廖建文离世": "京东原首席战略官廖建文离世"
+  "e:京东原首席战略官廖建文离世": "京东原首席战略官廖建文离世",
+  "e:上海地铁涨价": "上海地铁涨价"
  },
  "a_seen": {
   "英伟达被查市值接近腰斩": {
@@ -24013,8 +24028,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:200元就能定制ai仿冒名人视频"
+  },
+  "a股迎大反攻原因找到了": {
+   "key": "a股迎大反攻原因找到了",
+   "title": "A股迎大反攻原因找到了",
+   "rating": "A",
+   "score": 43.95,
+   "angle": "深挖大反攻底层逻辑，拆解政策与资金面共振，预判后续走势",
+   "hook_reason": "A股大反攻背后真相，散户必看，揭秘暴涨核心驱动力",
+   "url": "https://s.weibo.com/weibo?q=A股迎大反攻原因找到了",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股迎大反攻原因找到了"
+  },
+  "马斯克fsd": {
+   "key": "马斯克fsd",
+   "title": "马斯克 FSD",
+   "rating": "A",
+   "score": 42.95,
+   "angle": "马斯克FSD最新突破或争议，深度解析其对全球智驾格局的颠覆性影响",
+   "hook_reason": "首富马斯克突发动向，关乎自动驾驶生死局",
+   "url": "https://s.weibo.com/weibo?q=马斯克 FSD",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马斯克fsd"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
