@@ -19939,19 +19939,6 @@
    "batch_window": 14
   },
   {
-   "key": "花100元参加旅游团却花34万买了套房",
-   "title": "花100元参加旅游团却花34万买了套房",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "揭秘低价旅游团背后的“杀猪盘”逻辑，警示消费者警惕诱导消费陷阱。",
-   "hook_reason": "100元变34万，极致价差引发好奇，揭露低价旅游套路。",
-   "url": "https://www.baidu.com/s?wd=%E8%8A%B1100%E5%85%83%E5%8F%82%E5%8A%A0%E6%97%85%E6%B8%B8%E5%9B%A2%E5%8D%B4%E8%8A%B134%E4%B8%87%E4%B9%B0%E4%BA%86%E5%A5%97%E6%88%BF&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:花100元参加旅游团却花34万买了套房",
-   "batch_window": 15
-  },
-  {
    "key": "快递员挣3毛找回包裹赔138还遭投诉",
    "title": "快递员挣3毛找回包裹赔13.8还遭投诉",
    "rating": "A",
@@ -20015,6 +20002,32 @@
    "breaking": true,
    "event_id": "e:中方回应特朗普只想对华出售落后芯片",
    "batch_window": 16
+  },
+  {
+   "key": "博士夫妻养出倒数第一儿子",
+   "title": "博士夫妻养出倒数第一儿子",
+   "rating": "A",
+   "score": 78.84,
+   "angle": "解构精英家庭育儿误区，探讨‘期望落差’下的心理重建",
+   "hook_reason": "博士精英vs倒数第一，认知颠覆与鸡娃焦虑共鸣",
+   "url": "https://s.weibo.com/weibo?q=博士夫妻养出倒数第一儿子",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:博士夫妻养出倒数第一儿子",
+   "batch_window": 17
+  },
+  {
+   "key": "a股151股涨停",
+   "title": "A股151股涨停",
+   "rating": "A",
+   "score": 52.37,
+   "angle": "拆解151股涨停背后的情绪溢价，警惕高位接盘风险与结构性机会",
+   "hook_reason": "百股涨停罕见异象，投资者焦虑与暴富心理交织",
+   "url": "https://s.weibo.com/weibo?q=A股151股涨停",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股151股涨停",
+   "batch_window": 17
   }
  ],
  "pushed": [
@@ -21792,7 +21805,8 @@
   "thehackintoshreborn",
   "韦东奕攻克百年难题获奖",
   "71岁郑渊洁用ai独自手搓动画片",
-  "李在明走访看到白菜煎饼摊走不动了"
+  "李在明走访看到白菜煎饼摊走不动了",
+  "花100元参加旅游团却花34万买了套房"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23506,7 +23520,8 @@
   "e:thehackintoshreborn": "The Hackintosh Reborn",
   "e:韦东奕攻克百年难题获奖": "韦东奕攻克百年难题获奖",
   "e:71岁郑渊洁用ai独自手搓动画片": "71岁郑渊洁用AI独自“手搓”动画片",
-  "e:李在明走访看到白菜煎饼摊走不动了": "李在明走访看到白菜煎饼摊走不动了"
+  "e:李在明走访看到白菜煎饼摊走不动了": "李在明走访看到白菜煎饼摊走不动了",
+  "e:花100元参加旅游团却花34万买了套房": "花100元参加旅游团却花34万买了套房"
  },
  "a_seen": {
   "英伟达被查市值接近腰斩": {
@@ -23813,15 +23828,39 @@
    "key": "中方回应特朗普只想对华出售落后芯片",
    "title": "中方回应特朗普只想对华出售落后芯片",
    "rating": "A",
-   "score": 62.75,
-   "angle": "解析中方回应背后的技术封锁反制逻辑与芯片自主可控的紧迫性",
-   "hook_reason": "大国博弈+芯片战，情绪拉满，国产替代痛点直击科技圈与财经关注者",
+   "score": 59.1,
+   "angle": "从‘出售落后芯片’切入，剖析美方‘卡脖子’与‘放水’背后的地缘政治算计，解读中国科技自主可控的紧迫性",
+   "hook_reason": "中美芯片博弈反转，揭秘美方真实意图，民族情绪拉满",
    "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AA%E6%83%B3%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AE%E8%90%BD%E5%90%8E%E8%8A%AF%E7%89%87&sa=fyb_news&rsv_dl=fyb_news",
    "track": "科技",
    "breaking": true,
    "event_id": "e:中方回应特朗普只想对华出售落后芯片"
+  },
+  "博士夫妻养出倒数第一儿子": {
+   "key": "博士夫妻养出倒数第一儿子",
+   "title": "博士夫妻养出倒数第一儿子",
+   "rating": "A",
+   "score": 78.84,
+   "angle": "解构精英家庭育儿误区，探讨‘期望落差’下的心理重建",
+   "hook_reason": "博士精英vs倒数第一，认知颠覆与鸡娃焦虑共鸣",
+   "url": "https://s.weibo.com/weibo?q=博士夫妻养出倒数第一儿子",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:博士夫妻养出倒数第一儿子"
+  },
+  "a股151股涨停": {
+   "key": "a股151股涨停",
+   "title": "A股151股涨停",
+   "rating": "A",
+   "score": 52.37,
+   "angle": "拆解151股涨停背后的情绪溢价，警惕高位接盘风险与结构性机会",
+   "hook_reason": "百股涨停罕见异象，投资者焦虑与暴富心理交织",
+   "url": "https://s.weibo.com/weibo?q=A股151股涨停",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股151股涨停"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 16
+ "a_pushed_window": 17
 }
