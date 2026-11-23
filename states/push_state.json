@@ -19913,17 +19913,56 @@
    "batch_window": 12
   },
   {
-   "key": "韦东奕攻克百年难题获奖",
-   "title": "韦东奕攻克百年难题获奖",
+   "key": "71岁郑渊洁用ai独自手搓动画片",
+   "title": "71岁郑渊洁用AI独自“手搓”动画片",
    "rating": "A",
-   "score": 90.5,
-   "angle": "从“天才滤镜”到“学术实绩”，解析韦东奕获奖对公众认知与科研价值的重塑",
-   "hook_reason": "韦神打破偏见，攻克百年难题，硬核实力引爆全网",
-   "url": "https://s.weibo.com/weibo?q=韦东奕攻克百年难题获奖",
+   "score": 92.0,
+   "angle": "郑渊洁案例揭示AI平民化红利，71岁老人独立产出动画打破技术门槛认知。",
+   "hook_reason": "71岁童话大王降维打击，AI重构生产力，反年龄焦虑引共鸣。",
+   "url": "https://www.baidu.com/s?wd=71%E5%B2%81%E9%83%91%E6%B8%8A%E6%B4%81%E7%94%A8AI%E7%8B%AC%E8%87%AA%E2%80%9C%E6%89%8B%E6%90%93%E2%80%9D%E5%8A%A8%E7%94%BB%E7%89%87&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:71岁郑渊洁用ai独自手搓动画片",
+   "batch_window": 14
+  },
+  {
+   "key": "李在明走访看到白菜煎饼摊走不动了",
+   "title": "李在明走访看到白菜煎饼摊走不动了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从李在明驻足白菜摊切入，解析韩国经济通胀现状与政治人物符号化营销的深层动机",
+   "hook_reason": "韩国总统亲民形象与政治象征意义引发深度联想",
+   "url": "https://www.toutiao.com/trending/7711195408593011209/",
    "track": "大咖发言",
    "breaking": true,
-   "event_id": "e:韦东奕攻克百年难题获奖",
-   "batch_window": 13
+   "event_id": "e:李在明走访看到白菜煎饼摊走不动了",
+   "batch_window": 14
+  },
+  {
+   "key": "宇树科技大涨",
+   "title": "宇树科技大涨",
+   "rating": "A",
+   "score": 60.28,
+   "angle": "解析宇树科技大涨背后的硬科技估值逻辑与人形机器人产业链投资风向",
+   "hook_reason": "人形机器人概念引爆，股价异动牵动科技与资本神经",
+   "url": "https://www.toutiao.com/trending/7711181505393787430/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:宇树科技大涨",
+   "batch_window": 14
+  },
+  {
+   "key": "xnulinuxfullosxguiuserspaceonlinux",
+   "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "技术极客狂欢：如何在Linux复现macOS桌面，打破苹果生态封闭性",
+   "hook_reason": "苹果系统跑在Linux上，极客圈炸裂的开源奇作",
+   "url": "https://github.com/AFK-surf/xnulinux",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:xnulinuxfullosxguiuserspaceonlinux",
+   "batch_window": 14
   }
  ],
  "pushed": [
@@ -21698,7 +21737,8 @@
   "两口子懒得拍婚纱照让ai生成",
   "treetree的炸鸡外卖火到被迫成为门店",
   "芜湖一住户割断高空作业工人安全绳警方正在侦办该住户需承担哪些法律责任",
-  "thehackintoshreborn"
+  "thehackintoshreborn",
+  "韦东奕攻克百年难题获奖"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23409,7 +23449,8 @@
   "e:两口子懒得拍婚纱照让ai生成": "两口子懒得拍婚纱照让AI生成",
   "e:treetree的炸鸡外卖火到被迫成为门店": "treetree的炸鸡外卖火到被迫成为门店",
   "e:芜湖一住户割断高空作业工人安全绳警方正在侦办该住户需承担哪些法律责任": "芜湖一住户割断高空作业工人安全绳，警方正在侦办，该住户需承担哪些法律责任？",
-  "e:thehackintoshreborn": "The Hackintosh Reborn"
+  "e:thehackintoshreborn": "The Hackintosh Reborn",
+  "e:韦东奕攻克百年难题获奖": "韦东奕攻克百年难题获奖"
  },
  "a_seen": {
   "英伟达被查市值接近腰斩": {
@@ -23603,8 +23644,56 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:韦东奕攻克百年难题获奖"
+  },
+  "71岁郑渊洁用ai独自手搓动画片": {
+   "key": "71岁郑渊洁用ai独自手搓动画片",
+   "title": "71岁郑渊洁用AI独自“手搓”动画片",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "郑渊洁案例揭示AI平民化红利，71岁老人独立产出动画打破技术门槛认知。",
+   "hook_reason": "71岁童话大王降维打击，AI重构生产力，反年龄焦虑引共鸣。",
+   "url": "https://www.baidu.com/s?wd=71%E5%B2%81%E9%83%91%E6%B8%8A%E6%B4%81%E7%94%A8AI%E7%8B%AC%E8%87%AA%E2%80%9C%E6%89%8B%E6%90%93%E2%80%9D%E5%8A%A8%E7%94%BB%E7%89%87&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:71岁郑渊洁用ai独自手搓动画片"
+  },
+  "李在明走访看到白菜煎饼摊走不动了": {
+   "key": "李在明走访看到白菜煎饼摊走不动了",
+   "title": "李在明走访看到白菜煎饼摊走不动了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从李在明驻足白菜摊切入，解析韩国经济通胀现状与政治人物符号化营销的深层动机",
+   "hook_reason": "韩国总统亲民形象与政治象征意义引发深度联想",
+   "url": "https://www.toutiao.com/trending/7711195408593011209/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:李在明走访看到白菜煎饼摊走不动了"
+  },
+  "宇树科技大涨": {
+   "key": "宇树科技大涨",
+   "title": "宇树科技大涨",
+   "rating": "A",
+   "score": 60.28,
+   "angle": "解析宇树科技大涨背后的硬科技估值逻辑与人形机器人产业链投资风向",
+   "hook_reason": "人形机器人概念引爆，股价异动牵动科技与资本神经",
+   "url": "https://www.toutiao.com/trending/7711181505393787430/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:宇树科技大涨"
+  },
+  "xnulinuxfullosxguiuserspaceonlinux": {
+   "key": "xnulinuxfullosxguiuserspaceonlinux",
+   "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "技术极客狂欢：如何在Linux复现macOS桌面，打破苹果生态封闭性",
+   "hook_reason": "苹果系统跑在Linux上，极客圈炸裂的开源奇作",
+   "url": "https://github.com/AFK-surf/xnulinux",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:xnulinuxfullosxguiuserspaceonlinux"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 13
+ "a_pushed_window": 14
 }
