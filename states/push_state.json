@@ -18613,19 +18613,6 @@
    "batch_window": 3
   },
   {
-   "key": "genie4isnowavailable",
-   "title": "Genie 4 is now available",
-   "rating": "A",
-   "score": 79.0,
-   "angle": "解读Genie 4如何改变游戏与仿真行业，探讨AI基础设施新趋势",
-   "hook_reason": "谷歌DeepMind发布Genie 4，AI世界模型技术重大突破",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:genie4isnowavailable",
-   "batch_window": 4
-  },
-  {
    "key": "sevennewmodelsatscalablepriceperformance",
    "title": "Seven new models at scalable price-performance",
    "rating": "A",
@@ -20015,6 +20002,45 @@
    "breaking": true,
    "event_id": "e:a股151股涨停",
    "batch_window": 17
+  },
+  {
+   "key": "京东原首席战略官廖建文离世",
+   "title": "京东原首席战略官廖建文离世",
+   "rating": "A",
+   "score": 93.5,
+   "angle": "回顾廖建文在京东的十年贡献，分析电商巨头高层变阵背后的行业逻辑",
+   "hook_reason": "京东原首席战略官突然离世，互联网大佬命运引人唏嘘",
+   "url": "https://www.toutiao.com/trending/7711196532346781750/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:京东原首席战略官廖建文离世",
+   "batch_window": 19
+  },
+  {
+   "key": "上海地铁涨价",
+   "title": "上海地铁涨价",
+   "rating": "A",
+   "score": 92.5,
+   "angle": "算笔账：多交的票价能买什么？深挖涨价背后的财政逻辑与民生痛感。",
+   "hook_reason": "关乎日常通勤成本，情绪共鸣强，极易引发打工人讨论。",
+   "url": "https://s.weibo.com/weibo?q=上海地铁涨价",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:上海地铁涨价",
+   "batch_window": 19
+  },
+  {
+   "key": "胖东来一店将关闭羽绒服亮成本价",
+   "title": "胖东来一店将关闭羽绒服亮成本价",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "胖东来亮成本不仅是营销，更是对消费者知情权的尊重，重塑零售信任逻辑",
+   "hook_reason": "打破商业潜规则，透明成本引发对消费主义的深度共鸣",
+   "url": "https://s.weibo.com/weibo?q=胖东来一店将关闭羽绒服亮成本价",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:胖东来一店将关闭羽绒服亮成本价",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -21794,7 +21820,8 @@
   "71岁郑渊洁用ai独自手搓动画片",
   "李在明走访看到白菜煎饼摊走不动了",
   "花100元参加旅游团却花34万买了套房",
-  "一直以为家里只是穷点"
+  "一直以为家里只是穷点",
+  "genie4isnowavailable"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23510,7 +23537,8 @@
   "e:71岁郑渊洁用ai独自手搓动画片": "71岁郑渊洁用AI独自“手搓”动画片",
   "e:李在明走访看到白菜煎饼摊走不动了": "李在明走访看到白菜煎饼摊走不动了",
   "e:花100元参加旅游团却花34万买了套房": "花100元参加旅游团却花34万买了套房",
-  "e:一直以为家里只是穷点": "一直以为家里只是穷点"
+  "e:一直以为家里只是穷点": "一直以为家里只是穷点",
+  "e:genie4isnowavailable": "Genie 4 is now available"
  },
  "a_seen": {
   "英伟达被查市值接近腰斩": {
@@ -23848,8 +23876,68 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:a股151股涨停"
+  },
+  "京东原首席战略官廖建文离世": {
+   "key": "京东原首席战略官廖建文离世",
+   "title": "京东原首席战略官廖建文离世",
+   "rating": "A",
+   "score": 93.5,
+   "angle": "回顾廖建文在京东的十年贡献，分析电商巨头高层变阵背后的行业逻辑",
+   "hook_reason": "京东原首席战略官突然离世，互联网大佬命运引人唏嘘",
+   "url": "https://www.toutiao.com/trending/7711196532346781750/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:京东原首席战略官廖建文离世"
+  },
+  "上海地铁涨价": {
+   "key": "上海地铁涨价",
+   "title": "上海地铁涨价",
+   "rating": "A",
+   "score": 92.5,
+   "angle": "算笔账：多交的票价能买什么？深挖涨价背后的财政逻辑与民生痛感。",
+   "hook_reason": "关乎日常通勤成本，情绪共鸣强，极易引发打工人讨论。",
+   "url": "https://s.weibo.com/weibo?q=上海地铁涨价",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:上海地铁涨价"
+  },
+  "胖东来一店将关闭羽绒服亮成本价": {
+   "key": "胖东来一店将关闭羽绒服亮成本价",
+   "title": "胖东来一店将关闭羽绒服亮成本价",
+   "rating": "A",
+   "score": 81.5,
+   "angle": "胖东来亮成本不仅是营销，更是对消费者知情权的尊重，重塑零售信任逻辑",
+   "hook_reason": "打破商业潜规则，透明成本引发对消费主义的深度共鸣",
+   "url": "https://s.weibo.com/weibo?q=胖东来一店将关闭羽绒服亮成本价",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:胖东来一店将关闭羽绒服亮成本价"
+  },
+  "韦东奕获北京市科技奖": {
+   "key": "韦东奕获北京市科技奖",
+   "title": "韦东奕获北京市科技奖",
+   "rating": "A",
+   "score": 43.3,
+   "angle": "从'韦神'到科技奖得主：大众对天才的认知偏差与当下社会对基础科研的重新审视",
+   "hook_reason": "北大数学天才韦东奕获科技奖，反差感与身份共鸣极强",
+   "url": "https://s.weibo.com/weibo?q=韦东奕获北京市科技奖",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:韦东奕攻克百年难题获奖"
+  },
+  "陶哲轩再评价ai攻破黎曼猜想": {
+   "key": "陶哲轩再评价ai攻破黎曼猜想",
+   "title": "陶哲轩再评价AI攻破黎曼猜想",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "陶哲轩最新发声，AI真能攻克黎曼猜想？解读顶级数学家对AI能力的冷静与期待",
+   "hook_reason": "菲尔兹奖得主陶哲轩对AI解决顶级数学难题的最新权威评价，颠覆认知。",
+   "url": "https://search.bilibili.com/all?keyword=陶哲轩再评价AI攻破黎曼猜想",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:数学家称用ai证明了黎曼猜想"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
