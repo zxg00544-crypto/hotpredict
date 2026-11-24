@@ -13907,19 +13907,6 @@
    "batch_window": 3
   },
   {
-   "key": "egolessmathematicsintheaiera",
-   "title": "Egoless Mathematics in the AI Era",
-   "rating": "A",
-   "score": 78.5,
-   "angle": "陶哲轩最新博客观点：AI正在改变数学家的思维方式，无我数学成趋势，解读AI时代学术范式转变",
-   "hook_reason": "陶哲轩首谈AI如何重塑数学研究范式，顶级学者对AI时代的前沿思考",
-   "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:egolessmathematicsintheaiera",
-   "batch_window": 4
-  },
-  {
    "key": "嫁金钗",
    "title": "嫁金钗",
    "rating": "A",
@@ -22210,7 +22197,8 @@
   "以为猫咪离世后摸到心跳",
   "质疑假院士水货后对方找上门",
   "肖战也画地为牢了",
-  "曝有短剧制片人找白小纯青稚演短剧"
+  "曝有短剧制片人找白小纯青稚演短剧",
+  "egolessmathematicsintheaiera"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23978,7 +23966,8 @@
   "e:以为猫咪离世后摸到心跳": "以为猫咪离世后摸到心跳",
   "e:质疑假院士水货后对方找上门": "质疑假院士水货后对方找上门",
   "e:肖战也画地为牢了": "肖战也画地为牢了",
-  "e:曝有短剧制片人找白小纯青稚演短剧": "曝有短剧制片人找白小纯青稚演短剧"
+  "e:曝有短剧制片人找白小纯青稚演短剧": "曝有短剧制片人找白小纯青稚演短剧",
+  "e:egolessmathematicsintheaiera": "Egoless Mathematics in the AI Era"
  },
  "a_seen": {
   "黄仁勋回归最大受害者出现": {
@@ -24069,9 +24058,9 @@
    "key": "美国拟对数十国加征关税",
    "title": "美国拟对数十国加征关税",
    "rating": "A",
-   "score": 44.75,
-   "angle": "解析数十国关税清单，梳理中国出口企业受创程度及黄金/美元汇率走势预测",
-   "hook_reason": "全球供应链受冲击，资产避险情绪升温，直接影响普通投资者",
+   "score": 46.0,
+   "angle": "解析美国对多国加征关税的最新动态，预测全球供应链震荡与A股相关板块的避险机会",
+   "hook_reason": "突发！美国关税大棒挥向多国，全球资产波动在即，关乎钱包",
    "url": "https://s.weibo.com/weibo?q=美国拟对数十国加征关税",
    "track": "财经",
    "breaking": true,
@@ -24079,5 +24068,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
