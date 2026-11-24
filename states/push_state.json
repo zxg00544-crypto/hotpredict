@@ -19991,19 +19991,6 @@
    "batch_window": 7
   },
   {
-   "key": "马斯克回应黄仁勋重任英伟达ceo",
-   "title": "马斯克回应黄仁勋重任英伟达CEO",
-   "rating": "A",
-   "score": 78.4,
-   "angle": "解析马斯克言论背后的AI算力焦虑与特斯拉FSD/Dojo战略，揭示巨头间微妙竞合关系。",
-   "hook_reason": "两大顶流科技领袖隔空互动，AI芯片霸权话题自带巨大流量与冲突感。",
-   "url": "https://s.weibo.com/weibo?q=马斯克回应黄仁勋重任英伟达CEO",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:马斯克回应黄仁勋重任英伟达ceo",
-   "batch_window": 8
-  },
-  {
    "key": "特朗普承认促成黄仁勋回归",
    "title": "特朗普承认促成黄仁勋回归",
    "rating": "A",
@@ -20379,6 +20366,32 @@
    "breaking": true,
    "event_id": "e:anthropicbreaksbelow83ipoprice",
    "batch_window": 5
+  },
+  {
+   "key": "nioin2026蔚来创新科技日",
+   "title": "NIO IN 2026蔚来创新科技日",
+   "rating": "A",
+   "score": 45.15,
+   "angle": "深度解析NIO IN核心黑科技，预判对特斯拉/新势力的降维打击或营销噱头",
+   "hook_reason": "蔚来最新技术发布在即，关乎智能电动车竞争格局与用户钱包",
+   "url": "https://s.weibo.com/weibo?q=NIO IN 2026蔚来创新科技日",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nioin2026蔚来创新科技日",
+   "batch_window": 6
+  },
+  {
+   "key": "workingwithai",
+   "title": "Working with AI",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "解读Anthropic最新报告：人类如何与顶级AI高效协作？职场技能将被彻底重构",
+   "hook_reason": "Anthropic官方最新研究揭示AI协作范式转变，抢占行业认知高地",
+   "url": "https://www.anthropic.com/research/working-with-ai",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:workingwithai",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -22213,7 +22226,8 @@
   "曝有短剧制片人找白小纯青稚演短剧",
   "egolessmathematicsintheaiera",
   "claudefable52scores65onartificia325175ce",
-  "女子独自露营遭陌生男子骚扰"
+  "女子独自露营遭陌生男子骚扰",
+  "马斯克回应黄仁勋重任英伟达ceo"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23984,7 +23998,8 @@
   "e:曝有短剧制片人找白小纯青稚演短剧": "曝有短剧制片人找白小纯青稚演短剧",
   "e:egolessmathematicsintheaiera": "Egoless Mathematics in the AI Era",
   "e:claudefable52scores65onartificialanalysi": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-  "e:女子独自露营遭陌生男子骚扰": "女子独自露营遭陌生男子骚扰"
+  "e:女子独自露营遭陌生男子骚扰": "女子独自露营遭陌生男子骚扰",
+  "e:马斯克回应黄仁勋重任英伟达ceo": "马斯克回应黄仁勋重任英伟达CEO"
  },
  "a_seen": {
   "黄仁勋回归最大受害者出现": {
@@ -24118,8 +24133,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:anthropicbreaksbelow83ipoprice"
+  },
+  "nioin2026蔚来创新科技日": {
+   "key": "nioin2026蔚来创新科技日",
+   "title": "NIO IN 2026蔚来创新科技日",
+   "rating": "A",
+   "score": 45.15,
+   "angle": "深度解析NIO IN核心黑科技，预判对特斯拉/新势力的降维打击或营销噱头",
+   "hook_reason": "蔚来最新技术发布在即，关乎智能电动车竞争格局与用户钱包",
+   "url": "https://s.weibo.com/weibo?q=NIO IN 2026蔚来创新科技日",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:nioin2026蔚来创新科技日"
+  },
+  "workingwithai": {
+   "key": "workingwithai",
+   "title": "Working with AI",
+   "rating": "A",
+   "score": 40.8,
+   "angle": "解读Anthropic最新报告：人类如何与顶级AI高效协作？职场技能将被彻底重构",
+   "hook_reason": "Anthropic官方最新研究揭示AI协作范式转变，抢占行业认知高地",
+   "url": "https://www.anthropic.com/research/working-with-ai",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:workingwithai"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
