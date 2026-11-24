@@ -16403,19 +16403,6 @@
    "batch_window": 4
   },
   {
-   "key": "claudefable52scores65onartificia325175ce",
-   "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-   "rating": "A",
-   "score": 78.5,
-   "angle": "深度解析65分背后的技术跃迁，对比GPT-4o与Claude 5.2的边界",
-   "hook_reason": "Claude 5.2刷新SOTA，AI性能天花板再被击穿",
-   "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:claudefable52scores65onartificialanalysi",
-   "batch_window": 6
-  },
-  {
    "key": "英伟达市值一夜蒸发12800亿元",
    "title": "英伟达市值一夜蒸发12800亿元",
    "rating": "A",
@@ -20366,6 +20353,32 @@
    "breaking": true,
    "event_id": "e:美国拟对数十国加征关税",
    "batch_window": 2
+  },
+  {
+   "key": "神舟二十四号载人飞船今日发射",
+   "title": "神舟二十四号载人飞船今日发射",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "结合中国航天最新技术突破与未来太空探索愿景，解析科技硬核实力",
+   "hook_reason": "国家顶级科技实力展示，民族自豪感爆棚，全民关注",
+   "url": "https://search.bilibili.com/all?keyword=神舟二十四号载人飞船今日发射",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:神舟二十四号载人飞船今日发射",
+   "batch_window": 4
+  },
+  {
+   "key": "whatcloudflaredoesnttellyou",
+   "title": "What Cloudflare Doesn't Tell You",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "深度解析Cloudflare技术盲区，揭示其对开发者及企业的隐性影响与成本陷阱",
+   "hook_reason": "揭秘大厂底层逻辑，揭示云服务商未披露的关键真相",
+   "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whatcloudflaredoesnttellyou",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -22198,7 +22211,8 @@
   "质疑假院士水货后对方找上门",
   "肖战也画地为牢了",
   "曝有短剧制片人找白小纯青稚演短剧",
-  "egolessmathematicsintheaiera"
+  "egolessmathematicsintheaiera",
+  "claudefable52scores65onartificia325175ce"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23967,7 +23981,8 @@
   "e:质疑假院士水货后对方找上门": "质疑假院士水货后对方找上门",
   "e:肖战也画地为牢了": "肖战也画地为牢了",
   "e:曝有短剧制片人找白小纯青稚演短剧": "曝有短剧制片人找白小纯青稚演短剧",
-  "e:egolessmathematicsintheaiera": "Egoless Mathematics in the AI Era"
+  "e:egolessmathematicsintheaiera": "Egoless Mathematics in the AI Era",
+  "e:claudefable52scores65onartificialanalysi": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far"
  },
  "a_seen": {
   "黄仁勋回归最大受害者出现": {
@@ -24065,8 +24080,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:美国拟对数十国加征关税"
+  },
+  "神舟二十四号载人飞船今日发射": {
+   "key": "神舟二十四号载人飞船今日发射",
+   "title": "神舟二十四号载人飞船今日发射",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "结合中国航天最新技术突破与未来太空探索愿景，解析科技硬核实力",
+   "hook_reason": "国家顶级科技实力展示，民族自豪感爆棚，全民关注",
+   "url": "https://search.bilibili.com/all?keyword=神舟二十四号载人飞船今日发射",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:神舟二十四号载人飞船今日发射"
+  },
+  "whatcloudflaredoesnttellyou": {
+   "key": "whatcloudflaredoesnttellyou",
+   "title": "What Cloudflare Doesn't Tell You",
+   "rating": "A",
+   "score": 40.95,
+   "angle": "深度解析Cloudflare技术盲区，揭示其对开发者及企业的隐性影响与成本陷阱",
+   "hook_reason": "揭秘大厂底层逻辑，揭示云服务商未披露的关键真相",
+   "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:whatcloudflaredoesnttellyou"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
