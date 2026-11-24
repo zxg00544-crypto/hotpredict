@@ -16286,19 +16286,6 @@
    "batch_window": 21
   },
   {
-   "key": "男子回应结婚25年不让妻子上班",
-   "title": "男子回应结婚25年不让妻子上班",
-   "rating": "A",
-   "score": 78.0,
-   "angle": "剖析‘25年不上班’背后的经济依附与控制本质，探讨现代女性的自我救赎与边界感。",
-   "hook_reason": "25年不让上班，极端案例引发对婚姻权力与女性困境的强烈共鸣与愤怒。",
-   "url": "https://s.weibo.com/weibo?q=男子回应结婚25年不让妻子上班",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:男子回应结婚25年不让妻子上班",
-   "batch_window": 2
-  },
-  {
    "key": "美国国会传唤英伟达首席执行官黄仁勋",
    "title": "美国国会传唤英伟达首席执行官黄仁勋。",
    "rating": "A",
@@ -20392,6 +20379,19 @@
    "breaking": true,
    "event_id": "e:workingwithai",
    "batch_window": 6
+  },
+  {
+   "key": "gpt6modelsdemonstrateintrinsicprb1c3561e",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "解读GPT-6在生物分子设计上的突破，探讨AI如何从生成文本进化到生成生命物质。",
+   "hook_reason": "OpenAI新模型竟能直接设计蛋白质，AI跨入生命科学新纪元。",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gpt6modelsdemonstrateintrinsicproteindes",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -22227,7 +22227,8 @@
   "egolessmathematicsintheaiera",
   "claudefable52scores65onartificia325175ce",
   "女子独自露营遭陌生男子骚扰",
-  "马斯克回应黄仁勋重任英伟达ceo"
+  "马斯克回应黄仁勋重任英伟达ceo",
+  "男子回应结婚25年不让妻子上班"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23999,7 +24000,8 @@
   "e:egolessmathematicsintheaiera": "Egoless Mathematics in the AI Era",
   "e:claudefable52scores65onartificialanalysi": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
   "e:女子独自露营遭陌生男子骚扰": "女子独自露营遭陌生男子骚扰",
-  "e:马斯克回应黄仁勋重任英伟达ceo": "马斯克回应黄仁勋重任英伟达CEO"
+  "e:马斯克回应黄仁勋重任英伟达ceo": "马斯克回应黄仁勋重任英伟达CEO",
+  "e:男子回应结婚25年不让妻子上班": "男子回应结婚25年不让妻子上班"
  },
  "a_seen": {
   "黄仁勋回归最大受害者出现": {
@@ -24157,8 +24159,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:workingwithai"
+  },
+  "gpt6modelsdemonstrateintrinsicprb1c3561e": {
+   "key": "gpt6modelsdemonstrateintrinsicprb1c3561e",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "解读GPT-6在生物分子设计上的突破，探讨AI如何从生成文本进化到生成生命物质。",
+   "hook_reason": "OpenAI新模型竟能直接设计蛋白质，AI跨入生命科学新纪元。",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:gpt6modelsdemonstrateintrinsicproteindes"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
