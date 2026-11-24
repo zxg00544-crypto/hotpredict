@@ -14453,19 +14453,6 @@
    "batch_window": 7
   },
   {
-   "key": "曝有短剧制片人找白小纯青稚演短剧",
-   "title": "曝有短剧制片人找白小纯青稚演短剧",
-   "rating": "A",
-   "score": 78.55,
-   "angle": "短剧风口持续升级，头部声优入局标志行业专业化程度再上台阶，分析其对传统配音产业的冲击与机遇",
-   "hook_reason": "配音顶流跨界短剧，传统声优VS新兴爽剧的行业冲击",
-   "url": "https://s.weibo.com/weibo?q=曝有短剧制片人找白小纯青稚演短剧",
-   "track": "行业趋势",
-   "breaking": true,
-   "event_id": "e:曝有短剧制片人找白小纯青稚演短剧",
-   "batch_window": 7
-  },
-  {
    "key": "ustechgiantshiddenaidebtswells90to32tin6months",
    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
    "rating": "A",
@@ -20366,6 +20353,32 @@
    "breaking": true,
    "event_id": "e:ai短剧丑狐爆火后引发大量讨论它能戳中观众的核心原因是什么",
    "batch_window": 1
+  },
+  {
+   "key": "tidalbansaigeneratedmusic",
+   "title": "Tidal bans AI-generated music",
+   "rating": "A",
+   "score": 60.43,
+   "angle": "流媒体巨头转向：AI音乐从“工具”变“威胁”，Tidal禁令将重塑音乐产业技术栈与版权逻辑",
+   "hook_reason": "Tidal一刀切封杀AI音乐，技术派与版权党正面开战，吃瓜群众看热闹不嫌事大",
+   "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:tidalbansaigeneratedmusic",
+   "batch_window": 2
+  },
+  {
+   "key": "美国拟对数十国加征关税",
+   "title": "美国拟对数十国加征关税",
+   "rating": "A",
+   "score": 44.75,
+   "angle": "解析数十国关税清单，梳理中国出口企业受创程度及黄金/美元汇率走势预测",
+   "hook_reason": "全球供应链受冲击，资产避险情绪升温，直接影响普通投资者",
+   "url": "https://s.weibo.com/weibo?q=美国拟对数十国加征关税",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美国拟对数十国加征关税",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -22196,7 +22209,8 @@
   "官方回应男子坠楼轻生砸中男孩",
   "以为猫咪离世后摸到心跳",
   "质疑假院士水货后对方找上门",
-  "肖战也画地为牢了"
+  "肖战也画地为牢了",
+  "曝有短剧制片人找白小纯青稚演短剧"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23963,7 +23977,8 @@
   "e:官方回应男子坠楼轻生砸中男孩": "官方回应男子坠楼轻生砸中男孩",
   "e:以为猫咪离世后摸到心跳": "以为猫咪离世后摸到心跳",
   "e:质疑假院士水货后对方找上门": "质疑假院士水货后对方找上门",
-  "e:肖战也画地为牢了": "肖战也画地为牢了"
+  "e:肖战也画地为牢了": "肖战也画地为牢了",
+  "e:曝有短剧制片人找白小纯青稚演短剧": "曝有短剧制片人找白小纯青稚演短剧"
  },
  "a_seen": {
   "黄仁勋回归最大受害者出现": {
@@ -24037,8 +24052,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:ai短剧丑狐爆火后引发大量讨论它能戳中观众的核心原因是什么"
+  },
+  "tidalbansaigeneratedmusic": {
+   "key": "tidalbansaigeneratedmusic",
+   "title": "Tidal bans AI-generated music",
+   "rating": "A",
+   "score": 60.43,
+   "angle": "流媒体巨头转向：AI音乐从“工具”变“威胁”，Tidal禁令将重塑音乐产业技术栈与版权逻辑",
+   "hook_reason": "Tidal一刀切封杀AI音乐，技术派与版权党正面开战，吃瓜群众看热闹不嫌事大",
+   "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:tidalbansaigeneratedmusic"
+  },
+  "美国拟对数十国加征关税": {
+   "key": "美国拟对数十国加征关税",
+   "title": "美国拟对数十国加征关税",
+   "rating": "A",
+   "score": 44.75,
+   "angle": "解析数十国关税清单，梳理中国出口企业受创程度及黄金/美元汇率走势预测",
+   "hook_reason": "全球供应链受冲击，资产避险情绪升温，直接影响普通投资者",
+   "url": "https://s.weibo.com/weibo?q=美国拟对数十国加征关税",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美国拟对数十国加征关税"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
