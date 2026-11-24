@@ -19861,19 +19861,6 @@
    "batch_window": 16
   },
   {
-   "key": "博士夫妻养出倒数第一儿子",
-   "title": "博士夫妻养出倒数第一儿子",
-   "rating": "A",
-   "score": 78.84,
-   "angle": "解构精英家庭育儿误区，探讨‘期望落差’下的心理重建",
-   "hook_reason": "博士精英vs倒数第一，认知颠覆与鸡娃焦虑共鸣",
-   "url": "https://s.weibo.com/weibo?q=博士夫妻养出倒数第一儿子",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:博士夫妻养出倒数第一儿子",
-   "batch_window": 17
-  },
-  {
    "key": "a股151股涨停",
    "title": "A股151股涨停",
    "rating": "A",
@@ -20340,6 +20327,45 @@
    "breaking": true,
    "event_id": "e:2035cameearly",
    "batch_window": 18
+  },
+  {
+   "key": "假洋牌swisse卖爆了",
+   "title": "“假洋牌”Swisse卖爆了",
+   "rating": "A",
+   "score": 81.85,
+   "angle": "拆解Swisse品牌溢价模式，探讨“假洋牌”消费陷阱与合规风险",
+   "hook_reason": "“假洋牌”贴牌却卖爆，揭秘跨境美妆暴利真相",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%87%E6%B4%8B%E7%89%8C%E2%80%9DSwisse%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:假洋牌swisse卖爆了",
+   "batch_window": 19
+  },
+  {
+   "key": "美国民主党参议员沃伦表示英伟达及其首席执行官黄仁勋仍不能免于追责",
+   "title": "美国民主党参议员沃伦表示，英伟达及其首席执行官黄仁勋仍不能免于追责。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "拆解沃伦言论背后的监管逻辑，分析英伟达在AI浪潮下的政策风险与合规挑战。",
+   "hook_reason": "芯片巨头遭遇政治围剿，黄仁勋能否独善其身？",
+   "url": "https://finance.sina.cn/7x24/2026-11-24/detail-inizvuze8967271.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:美国民主党参议员沃伦表示英伟达及其首席执行官黄仁勋仍不能免于追责",
+   "batch_window": 19
+  },
+  {
+   "key": "黄仁勋复职穿的是dior棉夹克",
+   "title": "黄仁勋复职穿的是Dior棉夹克",
+   "rating": "A",
+   "score": 43.85,
+   "angle": "解码黄仁勋‘非正式’着装背后的硅谷权力美学与品牌溢价逻辑",
+   "hook_reason": "NVIDIA CEO穿Dior，科技顶流与奢侈品跨界反差",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋复职穿的是Dior棉夹克",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋复职穿的是dior棉夹克",
+   "batch_window": 19
   }
  ],
  "pushed": [
@@ -22153,7 +22179,8 @@
   "从跌熔断到涨熔断韩股暴露什么问题",
   "央视披露四川雅安无名女尸悬案",
   "大爷抵着脖子不放小伙喊心脏疼倒地",
-  "特朗普聊着黄仁勋突然夸起深圳"
+  "特朗普聊着黄仁勋突然夸起深圳",
+  "博士夫妻养出倒数第一儿子"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23903,7 +23930,8 @@
   "e:从跌熔断到涨熔断韩股暴露什么问题": "从跌熔断到涨熔断 韩股暴露什么问题",
   "e:央视披露四川雅安无名女尸悬案": "央视披露四川雅安无名女尸悬案",
   "e:大爷抵着脖子不放小伙喊心脏疼倒地": "大爷抵着脖子不放小伙喊心脏疼倒地",
-  "e:特朗普聊着黄仁勋突然夸起深圳": "特朗普聊着黄仁勋突然夸起深圳"
+  "e:特朗普聊着黄仁勋突然夸起深圳": "特朗普聊着黄仁勋突然夸起深圳",
+  "e:博士夫妻养出倒数第一儿子": "博士夫妻养出倒数第一儿子"
  },
  "a_seen": {
   "马斯克回应黄仁勋复职": {
@@ -24439,14 +24467,50 @@
    "title": "2035 Came Early",
    "rating": "A",
    "score": 75.95,
-   "angle": "解读Fzakaria关于AI加速迭代的观点，分析为何2035愿景在当下已部分实现，探讨对科技从业者及投资的影响。",
-   "hook_reason": "AI奇点提前到来？顶级科学家预言2035场景重现",
+   "angle": "从技术加速视角解读‘2035’概念如何提前落地，结合当下AI爆发背景",
+   "hook_reason": "2035预言提前应验？AI时代的时间错乱感引发强烈好奇",
    "url": "https://fzakaria.com/2026/11/23/2035-came-early",
    "track": "科技",
    "breaking": true,
    "event_id": "e:2035cameearly"
+  },
+  "假洋牌swisse卖爆了": {
+   "key": "假洋牌swisse卖爆了",
+   "title": "“假洋牌”Swisse卖爆了",
+   "rating": "A",
+   "score": 81.85,
+   "angle": "拆解Swisse品牌溢价模式，探讨“假洋牌”消费陷阱与合规风险",
+   "hook_reason": "“假洋牌”贴牌却卖爆，揭秘跨境美妆暴利真相",
+   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%87%E6%B4%8B%E7%89%8C%E2%80%9DSwisse%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:假洋牌swisse卖爆了"
+  },
+  "美国民主党参议员沃伦表示英伟达及其首席执行官黄仁勋仍不能免于追责": {
+   "key": "美国民主党参议员沃伦表示英伟达及其首席执行官黄仁勋仍不能免于追责",
+   "title": "美国民主党参议员沃伦表示，英伟达及其首席执行官黄仁勋仍不能免于追责。",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "拆解沃伦言论背后的监管逻辑，分析英伟达在AI浪潮下的政策风险与合规挑战。",
+   "hook_reason": "芯片巨头遭遇政治围剿，黄仁勋能否独善其身？",
+   "url": "https://finance.sina.cn/7x24/2026-11-24/detail-inizvuze8967271.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:美国民主党参议员沃伦表示英伟达及其首席执行官黄仁勋仍不能免于追责"
+  },
+  "黄仁勋复职穿的是dior棉夹克": {
+   "key": "黄仁勋复职穿的是dior棉夹克",
+   "title": "黄仁勋复职穿的是Dior棉夹克",
+   "rating": "A",
+   "score": 43.85,
+   "angle": "解码黄仁勋‘非正式’着装背后的硅谷权力美学与品牌溢价逻辑",
+   "hook_reason": "NVIDIA CEO穿Dior，科技顶流与奢侈品跨界反差",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋复职穿的是Dior棉夹克",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋复职穿的是dior棉夹克"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 18
+ "a_pushed_window": 19
 }
