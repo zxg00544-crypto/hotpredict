@@ -20353,6 +20353,19 @@
    "breaking": true,
    "event_id": "e:whoinwashingtonownsandtradesnvidiastock",
    "batch_window": 22
+  },
+  {
+   "key": "ai短剧丑狐爆火后引发大量讨论它能戳中观众的核心原因是什么",
+   "title": "AI 短剧《丑狐》爆火后引发大量讨论，它能戳中观众的核心原因是什么？",
+   "rating": "A",
+   "score": 56.58,
+   "angle": "深度解析《丑狐》出圈的AI制作逻辑与用户心理契合点，探讨技术对内容产业的降维打击。",
+   "hook_reason": "现象级AI内容刷屏，揭秘爆火背后的情绪密码，紧跟技术落地前沿。",
+   "url": "https://www.zhihu.com/question/2108451365806776772",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai短剧丑狐爆火后引发大量讨论它能戳中观众的核心原因是什么",
+   "batch_window": 1
   }
  ],
  "pushed": [
@@ -24012,6 +24025,18 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:官方回应男子坠楼轻生砸中男孩"
+  },
+  "ai短剧丑狐爆火后引发大量讨论它能戳中观众的核心原因是什么": {
+   "key": "ai短剧丑狐爆火后引发大量讨论它能戳中观众的核心原因是什么",
+   "title": "AI 短剧《丑狐》爆火后引发大量讨论，它能戳中观众的核心原因是什么？",
+   "rating": "A",
+   "score": 56.58,
+   "angle": "深度解析《丑狐》出圈的AI制作逻辑与用户心理契合点，探讨技术对内容产业的降维打击。",
+   "hook_reason": "现象级AI内容刷屏，揭秘爆火背后的情绪密码，紧跟技术落地前沿。",
+   "url": "https://www.zhihu.com/question/2108451365806776772",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai短剧丑狐爆火后引发大量讨论它能戳中观众的核心原因是什么"
   }
  },
  "breaking_count": 10,
