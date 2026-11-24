@@ -20355,19 +20355,6 @@
    "batch_window": 20
   },
   {
-   "key": "陈吉宁被查",
-   "title": "陈吉宁被查",
-   "rating": "A",
-   "score": 87.95,
-   "angle": "解析陈吉宁案背后的上海政商生态与反腐风向",
-   "hook_reason": "上海前书记被查，反腐风暴眼，高关注度突发",
-   "url": "https://s.weibo.com/weibo?q=陈吉宁被查",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:陈吉宁被查",
-   "batch_window": 21
-  },
-  {
    "key": "a股科技跳水原因找到了",
    "title": "A股科技跳水原因找到了",
    "rating": "A",
@@ -20392,6 +20379,19 @@
    "breaking": true,
    "event_id": "e:llmagentsworkfortheirparentcompaniesnotf",
    "batch_window": 21
+  },
+  {
+   "key": "whoinwashingtonownsandtradesnvidiastock",
+   "title": "Who in Washington owns and trades Nvidia stock",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "拆解美国政商关系：谁在交易英伟达？政策与市场的双向奔赴与风险。",
+   "hook_reason": "华盛顿权力圈与芯片巨头的利益绑定，政治财经深度揭秘。",
+   "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:whoinwashingtonownsandtradesnvidiastock",
+   "batch_window": 22
   }
  ],
  "pushed": [
@@ -22208,7 +22208,8 @@
   "特朗普聊着黄仁勋突然夸起深圳",
   "博士夫妻养出倒数第一儿子",
   "假洋牌swisse卖爆了",
-  "孙颖莎摔倒"
+  "孙颖莎摔倒",
+  "陈吉宁被查"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23961,7 +23962,8 @@
   "e:特朗普聊着黄仁勋突然夸起深圳": "特朗普聊着黄仁勋突然夸起深圳",
   "e:博士夫妻养出倒数第一儿子": "博士夫妻养出倒数第一儿子",
   "e:假洋牌swisse卖爆了": "“假洋牌”Swisse卖爆了",
-  "e:孙颖莎摔倒": "孙颖莎摔倒"
+  "e:孙颖莎摔倒": "孙颖莎摔倒",
+  "e:陈吉宁被查": "陈吉宁被查"
  },
  "a_seen": {
   "马斯克回应黄仁勋复职": {
@@ -24568,9 +24570,9 @@
    "key": "a股科技跳水原因找到了",
    "title": "A股科技跳水原因找到了",
    "rating": "A",
-   "score": 43.0,
-   "angle": "揭秘今日科技股跳水幕后三大真凶，散户需警惕",
-   "hook_reason": "A股科技股突发跳水，急需寻找幕后黑手。",
+   "score": 90.5,
+   "angle": "深度解析A股科技跳水核心驱动因素，安抚情绪",
+   "hook_reason": "市场大跌急寻原因，投资者焦虑情绪浓重",
    "url": "https://s.weibo.com/weibo?q=A股科技跳水原因找到了",
    "track": "财经",
    "breaking": true,
@@ -24580,15 +24582,27 @@
    "key": "llmagentsworkfortheirparentcompaniesnotforyou",
    "title": "LLM agents work for their parent companies, not for you",
    "rating": "A",
-   "score": 40.9,
-   "angle": "拆解LLM Agent的‘雇主逻辑’，揭示数据隐私陷阱，警示企业级AI落地边界",
-   "hook_reason": "AI agent忠诚于公司而非用户，戳中职场人隐私与信任痛点",
+   "score": 76.5,
+   "angle": "拆解LLM Agent的‘忠诚度’陷阱：为什么你的专属AI其实是在为开发者打工？",
+   "hook_reason": "颠覆AI中立认知，揭示代理工具背后的利益冲突，引发用户安全焦虑。",
    "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
    "track": "科技",
    "breaking": true,
    "event_id": "e:llmagentsworkfortheirparentcompaniesnotf"
+  },
+  "whoinwashingtonownsandtradesnvidiastock": {
+   "key": "whoinwashingtonownsandtradesnvidiastock",
+   "title": "Who in Washington owns and trades Nvidia stock",
+   "rating": "A",
+   "score": 75.85,
+   "angle": "拆解美国政商关系：谁在交易英伟达？政策与市场的双向奔赴与风险。",
+   "hook_reason": "华盛顿权力圈与芯片巨头的利益绑定，政治财经深度揭秘。",
+   "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:whoinwashingtonownsandtradesnvidiastock"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 21
+ "a_pushed_window": 22
 }
