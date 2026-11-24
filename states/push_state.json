@@ -20262,6 +20262,32 @@
    "breaking": true,
    "event_id": "e:黄仁勋复职万斯发挥关键作用",
    "batch_window": 13
+  },
+  {
+   "key": "汽车真的飞上天了",
+   "title": "汽车真的飞上天了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从技术突破到商业落地，解析飞行汽车背后的硬核科技与产业变革。",
+   "hook_reason": "颠覆认知的视觉奇观，引发对未来出行方式的强烈好奇。",
+   "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E7%9C%9F%E7%9A%84%E9%A3%9E%E4%B8%8A%E5%A4%A9%E4%BA%86+&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:汽车真的飞上天了",
+   "batch_window": 13
+  },
+  {
+   "key": "大爷抵着脖子不放小伙喊心脏疼倒地",
+   "title": "大爷抵着脖子不放小伙喊心脏疼倒地",
+   "rating": "A",
+   "score": 81.95,
+   "angle": "法律视角解析‘正当防卫’边界与紧急避险在肢体冲突中的适用",
+   "hook_reason": "生死攸关的肢体冲突，极具视觉冲击与道德争议",
+   "url": "https://s.weibo.com/weibo?q=大爷抵着脖子不放小伙喊心脏疼倒地",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:大爷抵着脖子不放小伙喊心脏疼倒地",
+   "batch_window": 13
   }
  ],
  "pushed": [
@@ -24213,6 +24239,42 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:黄仁勋复职万斯发挥关键作用"
+  },
+  "汽车真的飞上天了": {
+   "key": "汽车真的飞上天了",
+   "title": "汽车真的飞上天了",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "从技术突破到商业落地，解析飞行汽车背后的硬核科技与产业变革。",
+   "hook_reason": "颠覆认知的视觉奇观，引发对未来出行方式的强烈好奇。",
+   "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E7%9C%9F%E7%9A%84%E9%A3%9E%E4%B8%8A%E5%A4%A9%E4%BA%86+&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:汽车真的飞上天了"
+  },
+  "猝死女教师曾因跑向学生惹母亲吃醋": {
+   "key": "猝死女教师曾因跑向学生惹母亲吃醋",
+   "title": "猝死女教师曾因跑向学生惹母亲吃醋",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从'母亲吃醋'的温情细节切入，探讨高强度工作下青年教师的身心困境与生命价值",
+   "hook_reason": "女教师猝死引众恻隐，生前趣事反衬生命脆弱，情绪冲击力强",
+   "url": "https://s.weibo.com/weibo?q=猝死女教师曾因跑向学生惹母亲吃醋",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:猝死女教师校方是上海单体最大学校"
+  },
+  "大爷抵着脖子不放小伙喊心脏疼倒地": {
+   "key": "大爷抵着脖子不放小伙喊心脏疼倒地",
+   "title": "大爷抵着脖子不放小伙喊心脏疼倒地",
+   "rating": "A",
+   "score": 81.95,
+   "angle": "法律视角解析‘正当防卫’边界与紧急避险在肢体冲突中的适用",
+   "hook_reason": "生死攸关的肢体冲突，极具视觉冲击与道德争议",
+   "url": "https://s.weibo.com/weibo?q=大爷抵着脖子不放小伙喊心脏疼倒地",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:大爷抵着脖子不放小伙喊心脏疼倒地"
   }
  },
  "breaking_count": 10,
