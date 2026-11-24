@@ -14934,19 +14934,6 @@
    "batch_window": 5
   },
   {
-   "key": "肖战也画地为牢了",
-   "title": "肖战也画地为牢了",
-   "rating": "A",
-   "score": 78.6,
-   "angle": "深度剖析肖战近期言行背后的舆论困境与粉丝生态",
-   "hook_reason": "明星争议动态，引爆粉丝与路人好奇心",
-   "url": "https://s.weibo.com/weibo?q=肖战也画地为牢了",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:肖战也画地为牢了",
-   "batch_window": 5
-  },
-  {
    "key": "residentialproxiesdetectedonwhitehousenetwork",
    "title": "Residential Proxies Detected on White House Network",
    "rating": "A",
@@ -22195,7 +22182,8 @@
   "苏醒回应争议",
   "官方回应男子坠楼轻生砸中男孩",
   "以为猫咪离世后摸到心跳",
-  "质疑假院士水货后对方找上门"
+  "质疑假院士水货后对方找上门",
+  "肖战也画地为牢了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23961,16 +23949,17 @@
   "e:苏醒回应争议": "苏醒回应争议",
   "e:官方回应男子坠楼轻生砸中男孩": "官方回应男子坠楼轻生砸中男孩",
   "e:以为猫咪离世后摸到心跳": "以为猫咪离世后摸到心跳",
-  "e:质疑假院士水货后对方找上门": "质疑假院士水货后对方找上门"
+  "e:质疑假院士水货后对方找上门": "质疑假院士水货后对方找上门",
+  "e:肖战也画地为牢了": "肖战也画地为牢了"
  },
  "a_seen": {
   "黄仁勋回归最大受害者出现": {
    "key": "黄仁勋回归最大受害者出现",
    "title": "黄仁勋回归最大受害者出现",
    "rating": "A",
-   "score": 44.95,
-   "angle": "黄仁勋战略回归下，谁在算力军备竞赛中出局",
-   "hook_reason": "反直觉标题，揭秘AI巨头背后的隐形输家",
+   "score": 44.8,
+   "angle": "从供应链与AI芯片竞争角度，解析黄仁勋回归对竞争对手的降维打击",
+   "hook_reason": "英伟达CEO黄仁勋动态引发热议，揭秘谁成最大受害者",
    "url": "https://s.weibo.com/weibo?q=黄仁勋回归最大受害者出现",
    "track": "科技",
    "breaking": true,
@@ -23980,9 +23969,9 @@
    "key": "欧美股市全线大跳水",
    "title": "欧美股市全线大跳水",
    "rating": "A",
-   "score": 44.5,
-   "angle": "解析欧美跳水对A股影响及普通人资产配置建议",
-   "hook_reason": "欧美股市跳水波及A股，财富焦虑引发高关注",
+   "score": 46.5,
+   "angle": "解读欧美跳水对A股及黄金的传导逻辑，提供避险建议",
+   "hook_reason": "欧美股市崩盘预警，直接影响国内投资者资产安全，恐慌情绪高。",
    "url": "https://s.weibo.com/weibo?q=欧美股市全线大跳水",
    "track": "财经",
    "breaking": true,
@@ -24005,14 +23994,26 @@
    "title": "英伟达为何非黄仁勋不可",
    "rating": "A",
    "score": 40.85,
-   "angle": "解析黄仁勋的“人格品牌”效应，为何英伟达无法脱离他而独立存在",
-   "hook_reason": "黄仁勋为何不可替代，揭秘芯片帝国灵魂",
+   "angle": "解析黄仁勋如何以工程师直觉重塑英伟达，从GPU到AI的致命一击",
+   "hook_reason": "AI芯片霸主背后的独裁魅力与不可替代性",
    "url": "https://search.bilibili.com/all?keyword=英伟达为何非黄仁勋不可",
-   "track": "大咖发言",
+   "track": "科技",
    "breaking": true,
    "event_id": "e:英伟达为何非黄仁勋不可"
+  },
+  "官方回应男子坠楼轻生砸中男孩": {
+   "key": "官方回应男子坠楼轻生砸中男孩",
+   "title": "官方回应男子坠楼轻生砸中男孩",
+   "rating": "A",
+   "score": 55.5,
+   "angle": "解析官方回应细节，探讨高空抛物坠物中无辜受害者的权益保障与心理创伤。",
+   "hook_reason": "无辜男孩被砸中，官方回应定调，生死悬疑引全民围观。",
+   "url": "https://s.weibo.com/weibo?q=官方回应男子坠楼轻生砸中男孩",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:官方回应男子坠楼轻生砸中男孩"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 0
+ "a_pushed_window": 1
 }
