@@ -20329,19 +20329,6 @@
    "batch_window": 18
   },
   {
-   "key": "假洋牌swisse卖爆了",
-   "title": "“假洋牌”Swisse卖爆了",
-   "rating": "A",
-   "score": 81.85,
-   "angle": "拆解Swisse品牌溢价模式，探讨“假洋牌”消费陷阱与合规风险",
-   "hook_reason": "“假洋牌”贴牌却卖爆，揭秘跨境美妆暴利真相",
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%87%E6%B4%8B%E7%89%8C%E2%80%9DSwisse%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:假洋牌swisse卖爆了",
-   "batch_window": 19
-  },
-  {
    "key": "美国民主党参议员沃伦表示英伟达及其首席执行官黄仁勋仍不能免于追责",
    "title": "美国民主党参议员沃伦表示，英伟达及其首席执行官黄仁勋仍不能免于追责。",
    "rating": "A",
@@ -20366,6 +20353,19 @@
    "breaking": true,
    "event_id": "e:黄仁勋复职穿的是dior棉夹克",
    "batch_window": 19
+  },
+  {
+   "key": "央行11月25日开展8000亿mlf操作",
+   "title": "央行11月25日开展8000亿MLF操作",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "深度解读MLF操作信号，分析对普通投资者资产配置的具体影响",
+   "hook_reason": "央行8000亿放水，利好股市楼市？",
+   "url": "https://www.toutiao.com/trending/7711667320594858522/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:央行11月25日开展8000亿mlf操作",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -22180,7 +22180,8 @@
   "央视披露四川雅安无名女尸悬案",
   "大爷抵着脖子不放小伙喊心脏疼倒地",
   "特朗普聊着黄仁勋突然夸起深圳",
-  "博士夫妻养出倒数第一儿子"
+  "博士夫妻养出倒数第一儿子",
+  "假洋牌swisse卖爆了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -23931,7 +23932,8 @@
   "e:央视披露四川雅安无名女尸悬案": "央视披露四川雅安无名女尸悬案",
   "e:大爷抵着脖子不放小伙喊心脏疼倒地": "大爷抵着脖子不放小伙喊心脏疼倒地",
   "e:特朗普聊着黄仁勋突然夸起深圳": "特朗普聊着黄仁勋突然夸起深圳",
-  "e:博士夫妻养出倒数第一儿子": "博士夫妻养出倒数第一儿子"
+  "e:博士夫妻养出倒数第一儿子": "博士夫妻养出倒数第一儿子",
+  "e:假洋牌swisse卖爆了": "“假洋牌”Swisse卖爆了"
  },
  "a_seen": {
   "马斯克回应黄仁勋复职": {
@@ -24509,8 +24511,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:黄仁勋复职穿的是dior棉夹克"
+  },
+  "央行11月25日开展8000亿mlf操作": {
+   "key": "央行11月25日开展8000亿mlf操作",
+   "title": "央行11月25日开展8000亿MLF操作",
+   "rating": "A",
+   "score": 46.75,
+   "angle": "深度解读MLF操作信号，分析对普通投资者资产配置的具体影响",
+   "hook_reason": "央行8000亿放水，利好股市楼市？",
+   "url": "https://www.toutiao.com/trending/7711667320594858522/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:央行11月25日开展8000亿mlf操作"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
