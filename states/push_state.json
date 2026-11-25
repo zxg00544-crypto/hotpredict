@@ -20420,19 +20420,6 @@
    "batch_window": 10
   },
   {
-   "key": "黄仁勋每天接受1个半小时治疗",
-   "title": "黄仁勋每天接受1个半小时治疗",
-   "rating": "A",
-   "score": 81.0,
-   "angle": "解析顶级科技领袖在高强度高压下的健康管理真相，探讨CEO韧性边界",
-   "hook_reason": "英伟达CEO健康隐情，科技巨头背后的脆弱与硬核反差",
-   "url": "https://s.weibo.com/weibo?q=黄仁勋每天接受1个半小时治疗",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:黄仁勋每天接受1个半小时治疗",
-   "batch_window": 10
-  },
-  {
    "key": "matrixmultiplicationison225pdf",
    "title": "Matrix Multiplication is O(n^2.25) [pdf]",
    "rating": "A",
@@ -20470,6 +20457,45 @@
    "breaking": true,
    "event_id": "e:司机开智驾玩手机撞死救人者获刑",
    "batch_window": 14
+  },
+  {
+   "key": "神23神24太空会师",
+   "title": "神23神24太空会师",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从‘太空会师’看中国载人航天工程体系化能力与商业航天前景",
+   "hook_reason": "首次空间站太空会师，国家科技高光时刻",
+   "url": "https://s.weibo.com/weibo?q=神23神24太空会师",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:神23神24太空会师",
+   "batch_window": 16
+  },
+  {
+   "key": "a股调整3大原因",
+   "title": "A股调整3大原因",
+   "rating": "A",
+   "score": 45.15,
+   "angle": "拆解资金、政策、外围三大利空，给出短线操作建议",
+   "hook_reason": "A股急跌，速扒3大元凶，股民必看避坑",
+   "url": "https://s.weibo.com/weibo?q=A股调整3大原因",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股调整3大原因",
+   "batch_window": 16
+  },
+  {
+   "key": "黄仁勋称60名下属都可接替自己",
+   "title": "黄仁勋称60名下属都可接替自己",
+   "rating": "A",
+   "score": 43.35,
+   "angle": "从黄仁勋的言论切入，探讨顶尖科技企业如何构建‘去核心化’的韧性团队，以及这对普通职场人的警示意义。",
+   "hook_reason": "AI教父的激进言论，揭示顶级大厂人才储备真相，引发对职业安全感与行业未来的深度思考。",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋称60名下属都可接替自己",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋称60名下属都可接替自己",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -22314,7 +22340,8 @@
   "华为mate90价格直接回到内存涨价前",
   "义乌老板用ai接下不敢接的单",
   "马斯克说上海跳舞视频不是ai",
-  "如何看待黑客放出gta6xbox版核心文件后民间靠ai不到24小时就搬上pc并成功进入实机"
+  "如何看待黑客放出gta6xbox版核心文件后民间靠ai不到24小时就搬上pc并成功进入实机",
+  "黄仁勋每天接受1个半小时治疗"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24095,7 +24122,8 @@
   "e:华为mate90价格直接回到内存涨价前": "华为Mate90价格直接回到内存涨价前",
   "e:义乌老板用ai接下不敢接的单": "义乌老板用AI接下不敢接的单",
   "e:马斯克说上海跳舞视频不是ai": "马斯克说上海跳舞视频不是AI",
-  "e:如何看待黑客放出gta6xbox版核心文件后民间靠ai不到24小时就搬上pc并成": "如何看待黑客放出《GTA 6》Xbox版核心文件后，民间靠AI不到24小时就搬上PC并成功进入实机？"
+  "e:如何看待黑客放出gta6xbox版核心文件后民间靠ai不到24小时就搬上pc并成": "如何看待黑客放出《GTA 6》Xbox版核心文件后，民间靠AI不到24小时就搬上PC并成功进入实机？",
+  "e:黄仁勋每天接受1个半小时治疗": "黄仁勋每天接受1个半小时治疗"
  },
  "a_seen": {
   "黄仁勋回归最大受害者出现": {
@@ -24445,8 +24473,44 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:司机开智驾玩手机撞死救人者获刑"
+  },
+  "神23神24太空会师": {
+   "key": "神23神24太空会师",
+   "title": "神23神24太空会师",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从‘太空会师’看中国载人航天工程体系化能力与商业航天前景",
+   "hook_reason": "首次空间站太空会师，国家科技高光时刻",
+   "url": "https://s.weibo.com/weibo?q=神23神24太空会师",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:神23神24太空会师"
+  },
+  "a股调整3大原因": {
+   "key": "a股调整3大原因",
+   "title": "A股调整3大原因",
+   "rating": "A",
+   "score": 45.15,
+   "angle": "拆解资金、政策、外围三大利空，给出短线操作建议",
+   "hook_reason": "A股急跌，速扒3大元凶，股民必看避坑",
+   "url": "https://s.weibo.com/weibo?q=A股调整3大原因",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股调整3大原因"
+  },
+  "黄仁勋称60名下属都可接替自己": {
+   "key": "黄仁勋称60名下属都可接替自己",
+   "title": "黄仁勋称60名下属都可接替自己",
+   "rating": "A",
+   "score": 43.35,
+   "angle": "从黄仁勋的言论切入，探讨顶尖科技企业如何构建‘去核心化’的韧性团队，以及这对普通职场人的警示意义。",
+   "hook_reason": "AI教父的激进言论，揭示顶级大厂人才储备真相，引发对职业安全感与行业未来的深度思考。",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋称60名下属都可接替自己",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:黄仁勋称60名下属都可接替自己"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 15
+ "a_pushed_window": 16
 }
