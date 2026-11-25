@@ -13946,19 +13946,6 @@
    "batch_window": 6
   },
   {
-   "key": "抖音李亮批专家自媒体",
-   "title": "抖音李亮批专家自媒体",
-   "rating": "A",
-   "score": 78.05,
-   "angle": "从'专家人设崩塌'切入，分析自媒体生态乱象与李亮敢言背后的流量逻辑",
-   "hook_reason": "抖音头部创作者犀利炮轰专家自媒体，戳中内容圈痛点",
-   "url": "https://s.weibo.com/weibo?q=抖音李亮批专家自媒体",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:抖音李亮批专家自媒体",
-   "batch_window": 7
-  },
-  {
    "key": "明明是恐怖组织为何只称电诈",
    "title": "明明是恐怖组织为何只称电诈",
    "rating": "A",
@@ -20418,6 +20405,45 @@
    "breaking": true,
    "event_id": "e:美ai科技股集体暴跌",
    "batch_window": 8
+  },
+  {
+   "key": "神舟24号发射",
+   "title": "神舟24号发射",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解读神舟24发射的技术难点与背后产业链红利",
+   "hook_reason": "中国航天巅峰时刻，民族自豪感与科技突破共振",
+   "url": "https://s.weibo.com/weibo?q=神舟24号发射",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:神舟24号发射",
+   "batch_window": 9
+  },
+  {
+   "key": "神舟二十四号发射成功",
+   "title": "神舟二十四号发射成功",
+   "rating": "A",
+   "score": 87.95,
+   "angle": "解读神二十四任务亮点与载人航天新阶段意义",
+   "hook_reason": "国家重大航天突破，民族自豪感与科技自信共振",
+   "url": "https://search.bilibili.com/all?keyword=神舟二十四号发射成功",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:神舟二十四号发射成功",
+   "batch_window": 9
+  },
+  {
+   "key": "华为mate90价格直接回到内存涨价前",
+   "title": "华为Mate90价格直接回到内存涨价前",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "拆解华为逆势降价背后的供应链博弈与定价策略",
+   "hook_reason": "降价打脸内存涨价趋势，数码圈炸裂",
+   "url": "https://s.weibo.com/weibo?q=华为Mate90价格直接回到内存涨价前",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为mate90价格直接回到内存涨价前",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -22255,7 +22281,8 @@
   "女子独自露营遭陌生男子骚扰",
   "马斯克回应黄仁勋重任英伟达ceo",
   "男子回应结婚25年不让妻子上班",
-  "gpt6modelsdemonstrateintrinsicprb1c3561e"
+  "gpt6modelsdemonstrateintrinsicprb1c3561e",
+  "抖音李亮批专家自媒体"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24029,7 +24056,8 @@
   "e:女子独自露营遭陌生男子骚扰": "女子独自露营遭陌生男子骚扰",
   "e:马斯克回应黄仁勋重任英伟达ceo": "马斯克回应黄仁勋重任英伟达CEO",
   "e:男子回应结婚25年不让妻子上班": "男子回应结婚25年不让妻子上班",
-  "e:gpt6modelsdemonstrateintrinsicproteindes": "GPT-6 models demonstrate intrinsic protein-design capabilities"
+  "e:gpt6modelsdemonstrateintrinsicproteindes": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "e:抖音李亮批专家自媒体": "抖音李亮批专家自媒体"
  },
  "a_seen": {
   "黄仁勋回归最大受害者出现": {
@@ -24204,9 +24232,9 @@
    "key": "黄仁勋英伟达全员会议",
    "title": "黄仁勋英伟达全员会议",
    "rating": "A",
-   "score": 44.25,
-   "angle": "拆解黄仁勋对AI泡沫与长期主义的判断，科技圈必看",
-   "hook_reason": "芯片巨头CEO内部讲话，涉及AI与行业风向标",
+   "score": 67.28,
+   "angle": "解读黄仁勋最新战略表态对AI算力市场的冲击",
+   "hook_reason": "英伟达顶流大佬全员会议，科技圈风向标",
    "url": "https://s.weibo.com/weibo?q=黄仁勋英伟达全员会议",
    "track": "科技",
    "breaking": true,
@@ -24216,9 +24244,9 @@
    "key": "ai换脸还没完ai融脸又来了",
    "title": "AI换脸还没完AI融脸又来了",
    "rating": "A",
-   "score": 45.2,
-   "angle": "聚焦AI融脸技术对生物识别安全的冲击及普通人防范建议。",
-   "hook_reason": "换脸后融脸，隐私边界被突破，恐惧感强。",
+   "score": 80.05,
+   "angle": "从换脸到融脸，揭秘AI图像滥用新趋势及普通人的防范指南",
+   "hook_reason": "AI技术迭代快引发隐私担忧，身份相关强",
    "url": "https://s.weibo.com/weibo?q=AI换脸还没完AI融脸又来了",
    "track": "科技",
    "breaking": true,
@@ -24235,8 +24263,44 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:美ai科技股集体暴跌"
+  },
+  "神舟24号发射": {
+   "key": "神舟24号发射",
+   "title": "神舟24号发射",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解读神舟24发射的技术难点与背后产业链红利",
+   "hook_reason": "中国航天巅峰时刻，民族自豪感与科技突破共振",
+   "url": "https://s.weibo.com/weibo?q=神舟24号发射",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:神舟24号发射"
+  },
+  "神舟二十四号发射成功": {
+   "key": "神舟二十四号发射成功",
+   "title": "神舟二十四号发射成功",
+   "rating": "A",
+   "score": 87.95,
+   "angle": "解读神二十四任务亮点与载人航天新阶段意义",
+   "hook_reason": "国家重大航天突破，民族自豪感与科技自信共振",
+   "url": "https://search.bilibili.com/all?keyword=神舟二十四号发射成功",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:神舟二十四号发射成功"
+  },
+  "华为mate90价格直接回到内存涨价前": {
+   "key": "华为mate90价格直接回到内存涨价前",
+   "title": "华为Mate90价格直接回到内存涨价前",
+   "rating": "A",
+   "score": 84.5,
+   "angle": "拆解华为逆势降价背后的供应链博弈与定价策略",
+   "hook_reason": "降价打脸内存涨价趋势，数码圈炸裂",
+   "url": "https://s.weibo.com/weibo?q=华为Mate90价格直接回到内存涨价前",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为mate90价格直接回到内存涨价前"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
