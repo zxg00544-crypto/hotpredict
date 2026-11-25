@@ -20407,19 +20407,6 @@
    "batch_window": 8
   },
   {
-   "key": "华为mate90价格直接回到内存涨价前",
-   "title": "华为Mate90价格直接回到内存涨价前",
-   "rating": "A",
-   "score": 84.5,
-   "angle": "拆解华为逆势降价背后的供应链博弈与定价策略",
-   "hook_reason": "降价打脸内存涨价趋势，数码圈炸裂",
-   "url": "https://s.weibo.com/weibo?q=华为Mate90价格直接回到内存涨价前",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:华为mate90价格直接回到内存涨价前",
-   "batch_window": 9
-  },
-  {
    "key": "英伟达市值蒸发16万亿",
    "title": "英伟达市值蒸发1.6万亿",
    "rating": "A",
@@ -20470,6 +20457,32 @@
    "breaking": true,
    "event_id": "e:男子开智驾玩手机撞死救人者",
    "batch_window": 11
+  },
+  {
+   "key": "马斯克说上海跳舞视频不是ai",
+   "title": "马斯克说上海跳舞视频不是AI",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解析马斯克辟谣背后的技术细节，探讨当前AI生成视频的边界与公众认知偏差",
+   "hook_reason": "马斯克亲自辟谣，打破AI换脸认知，流量与科技属性双高",
+   "url": "https://s.weibo.com/weibo?q=马斯克说上海跳舞视频不是AI",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克说上海跳舞视频不是ai",
+   "batch_window": 12
+  },
+  {
+   "key": "义乌老板用ai接下不敢接的单",
+   "title": "义乌老板用AI接下不敢接的单",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "剖析AI如何重塑传统外贸接单逻辑，为中小企业主提供降本增效实战案例",
+   "hook_reason": "揭秘义乌老板如何靠AI接住高难订单，揭示中小企逆袭新玩法",
+   "url": "https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%80%81%E6%9D%BF%E7%94%A8AI%E6%8E%A5%E4%B8%8B%E4%B8%8D%E6%95%A2%E6%8E%A5%E7%9A%84%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:义乌老板用ai接下不敢接的单",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -22310,7 +22323,8 @@
   "gpt6modelsdemonstrateintrinsicprb1c3561e",
   "抖音李亮批专家自媒体",
   "神舟24号发射",
-  "神舟二十四号发射成功"
+  "神舟二十四号发射成功",
+  "华为mate90价格直接回到内存涨价前"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24087,7 +24101,8 @@
   "e:gpt6modelsdemonstrateintrinsicproteindes": "GPT-6 models demonstrate intrinsic protein-design capabilities",
   "e:抖音李亮批专家自媒体": "抖音李亮批专家自媒体",
   "e:神舟24号发射": "神舟24号发射",
-  "e:神舟二十四号发射成功": "神舟二十四号发射成功"
+  "e:神舟二十四号发射成功": "神舟二十四号发射成功",
+  "e:华为mate90价格直接回到内存涨价前": "华为Mate90价格直接回到内存涨价前"
  },
  "a_seen": {
   "黄仁勋回归最大受害者出现": {
@@ -24389,8 +24404,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:男子开智驾玩手机撞死救人者"
+  },
+  "马斯克说上海跳舞视频不是ai": {
+   "key": "马斯克说上海跳舞视频不是ai",
+   "title": "马斯克说上海跳舞视频不是AI",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解析马斯克辟谣背后的技术细节，探讨当前AI生成视频的边界与公众认知偏差",
+   "hook_reason": "马斯克亲自辟谣，打破AI换脸认知，流量与科技属性双高",
+   "url": "https://s.weibo.com/weibo?q=马斯克说上海跳舞视频不是AI",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:马斯克说上海跳舞视频不是ai"
+  },
+  "义乌老板用ai接下不敢接的单": {
+   "key": "义乌老板用ai接下不敢接的单",
+   "title": "义乌老板用AI接下不敢接的单",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "剖析AI如何重塑传统外贸接单逻辑，为中小企业主提供降本增效实战案例",
+   "hook_reason": "揭秘义乌老板如何靠AI接住高难订单，揭示中小企逆袭新玩法",
+   "url": "https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%80%81%E6%9D%BF%E7%94%A8AI%E6%8E%A5%E4%B8%8B%E4%B8%8D%E6%95%A2%E6%8E%A5%E7%9A%84%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:义乌老板用ai接下不敢接的单"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
