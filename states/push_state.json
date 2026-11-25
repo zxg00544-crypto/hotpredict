@@ -15493,19 +15493,6 @@
    "batch_window": 12
   },
   {
-   "key": "tim称几乎0人觉得macbookpro触屏刚需",
-   "title": "Tim称几乎0人觉得MacBookPro触屏刚需",
-   "rating": "A",
-   "score": 77.51,
-   "angle": "深挖苹果触屏失败史，分析Tim决策逻辑与消费者真实需求错位",
-   "hook_reason": "苹果高管否认触屏MacBook需求，直击科技圈敏感痛点",
-   "url": "https://s.weibo.com/weibo?q=Tim称几乎0人觉得MacBookPro触屏刚需",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:tim称几乎0人觉得macbookpro触屏刚需",
-   "batch_window": 13
-  },
-  {
    "key": "美股暴跌马斯克发出感叹哇",
    "title": "美股暴跌马斯克发出感叹哇",
    "rating": "A",
@@ -22389,7 +22376,8 @@
   "399元羽绒服卖疯高价品牌脸被打肿",
   "中方回应美将对中国等国加征关税",
   "司机开智驾玩手机撞死救人者获刑",
-  "1passwordsecurityincident"
+  "1passwordsecurityincident",
+  "tim称几乎0人觉得macbookpro触屏刚需"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24193,7 +24181,8 @@
   "e:399元羽绒服卖疯高价品牌脸被打肿": "399元羽绒服卖疯 高价品牌脸被打肿",
   "e:中方回应美将对中国等国加征关税": "中方回应“美将对中国等国加征关税”",
   "e:司机开智驾玩手机撞死救人者获刑": "司机开智驾玩手机撞死救人者获刑",
-  "e:1passwordsecurityincident": "1Password Security Incident"
+  "e:1passwordsecurityincident": "1Password Security Incident",
+  "e:tim称几乎0人觉得macbookpro触屏刚需": "Tim称几乎0人觉得MacBookPro触屏刚需"
  },
  "a_seen": {
   "ai正在帮忙抓贪官": {
@@ -24282,5 +24271,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
