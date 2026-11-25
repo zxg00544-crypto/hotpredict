@@ -20381,17 +20381,43 @@
    "batch_window": 6
   },
   {
-   "key": "gpt6modelsdemonstrateintrinsicprb1c3561e",
-   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "key": "黄仁勋英伟达全员会议",
+   "title": "黄仁勋英伟达全员会议",
    "rating": "A",
-   "score": 83.0,
-   "angle": "解读GPT-6在生物分子设计上的突破，探讨AI如何从生成文本进化到生成生命物质。",
-   "hook_reason": "OpenAI新模型竟能直接设计蛋白质，AI跨入生命科学新纪元。",
-   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+   "score": 44.25,
+   "angle": "拆解黄仁勋对AI泡沫与长期主义的判断，科技圈必看",
+   "hook_reason": "芯片巨头CEO内部讲话，涉及AI与行业风向标",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋英伟达全员会议",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:gpt6modelsdemonstrateintrinsicproteindes",
-   "batch_window": 7
+   "event_id": "e:黄仁勋英伟达全员会议",
+   "batch_window": 8
+  },
+  {
+   "key": "ai换脸还没完ai融脸又来了",
+   "title": "AI换脸还没完AI融脸又来了",
+   "rating": "A",
+   "score": 45.2,
+   "angle": "聚焦AI融脸技术对生物识别安全的冲击及普通人防范建议。",
+   "hook_reason": "换脸后融脸，隐私边界被突破，恐惧感强。",
+   "url": "https://s.weibo.com/weibo?q=AI换脸还没完AI融脸又来了",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai换脸还没完ai融脸又来了",
+   "batch_window": 8
+  },
+  {
+   "key": "美ai科技股集体暴跌",
+   "title": "美AI科技股集体暴跌",
+   "rating": "A",
+   "score": 44.5,
+   "angle": "深度解析美股AI股暴跌对A股算力、光模块及软件板块的传导路径与短期交易策略。",
+   "hook_reason": "美股AI巨头暴跌，A股映射风险高，投资者急需避险信号。",
+   "url": "https://s.weibo.com/weibo?q=美AI科技股集体暴跌",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美ai科技股集体暴跌",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -22228,7 +22254,8 @@
   "claudefable52scores65onartificia325175ce",
   "女子独自露营遭陌生男子骚扰",
   "马斯克回应黄仁勋重任英伟达ceo",
-  "男子回应结婚25年不让妻子上班"
+  "男子回应结婚25年不让妻子上班",
+  "gpt6modelsdemonstrateintrinsicprb1c3561e"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24001,7 +24028,8 @@
   "e:claudefable52scores65onartificialanalysi": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
   "e:女子独自露营遭陌生男子骚扰": "女子独自露营遭陌生男子骚扰",
   "e:马斯克回应黄仁勋重任英伟达ceo": "马斯克回应黄仁勋重任英伟达CEO",
-  "e:男子回应结婚25年不让妻子上班": "男子回应结婚25年不让妻子上班"
+  "e:男子回应结婚25年不让妻子上班": "男子回应结婚25年不让妻子上班",
+  "e:gpt6modelsdemonstrateintrinsicproteindes": "GPT-6 models demonstrate intrinsic protein-design capabilities"
  },
  "a_seen": {
   "黄仁勋回归最大受害者出现": {
@@ -24171,8 +24199,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:gpt6modelsdemonstrateintrinsicproteindes"
+  },
+  "黄仁勋英伟达全员会议": {
+   "key": "黄仁勋英伟达全员会议",
+   "title": "黄仁勋英伟达全员会议",
+   "rating": "A",
+   "score": 44.25,
+   "angle": "拆解黄仁勋对AI泡沫与长期主义的判断，科技圈必看",
+   "hook_reason": "芯片巨头CEO内部讲话，涉及AI与行业风向标",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋英伟达全员会议",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋英伟达全员会议"
+  },
+  "ai换脸还没完ai融脸又来了": {
+   "key": "ai换脸还没完ai融脸又来了",
+   "title": "AI换脸还没完AI融脸又来了",
+   "rating": "A",
+   "score": 45.2,
+   "angle": "聚焦AI融脸技术对生物识别安全的冲击及普通人防范建议。",
+   "hook_reason": "换脸后融脸，隐私边界被突破，恐惧感强。",
+   "url": "https://s.weibo.com/weibo?q=AI换脸还没完AI融脸又来了",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:ai换脸还没完ai融脸又来了"
+  },
+  "美ai科技股集体暴跌": {
+   "key": "美ai科技股集体暴跌",
+   "title": "美AI科技股集体暴跌",
+   "rating": "A",
+   "score": 44.5,
+   "angle": "深度解析美股AI股暴跌对A股算力、光模块及软件板块的传导路径与短期交易策略。",
+   "hook_reason": "美股AI巨头暴跌，A股映射风险高，投资者急需避险信号。",
+   "url": "https://s.weibo.com/weibo?q=美AI科技股集体暴跌",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:美ai科技股集体暴跌"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
