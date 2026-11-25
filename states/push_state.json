@@ -20511,19 +20511,6 @@
    "batch_window": 2
   },
   {
-   "key": "1passwordsecurityincident",
-   "title": "1Password Security Incident",
-   "rating": "A",
-   "score": 78.0,
-   "angle": "解读1Password事故技术细节，分析密钥管理行业安全信任危机及用户迁移趋势",
-   "hook_reason": "顶级密码管理器突发泄露，隐私恐慌与工具替代焦虑",
-   "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:1passwordsecurityincident",
-   "batch_window": 3
-  },
-  {
    "key": "rumorsswirlingthatlabsmighthavec863d47bb",
    "title": "Rumors swirling that labs might have cracked Factoring in P",
    "rating": "A",
@@ -22401,7 +22388,8 @@
   "郭子睿回应自己为什么进圈",
   "399元羽绒服卖疯高价品牌脸被打肿",
   "中方回应美将对中国等国加征关税",
-  "司机开智驾玩手机撞死救人者获刑"
+  "司机开智驾玩手机撞死救人者获刑",
+  "1passwordsecurityincident"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24204,7 +24192,8 @@
   "e:郭子睿回应自己为什么进圈": "郭子睿回应自己为什么进圈",
   "e:399元羽绒服卖疯高价品牌脸被打肿": "399元羽绒服卖疯 高价品牌脸被打肿",
   "e:中方回应美将对中国等国加征关税": "中方回应“美将对中国等国加征关税”",
-  "e:司机开智驾玩手机撞死救人者获刑": "司机开智驾玩手机撞死救人者获刑"
+  "e:司机开智驾玩手机撞死救人者获刑": "司机开智驾玩手机撞死救人者获刑",
+  "e:1passwordsecurityincident": "1Password Security Incident"
  },
  "a_seen": {
   "ai正在帮忙抓贪官": {
@@ -24278,8 +24267,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:rumorsswirlingthatlabsmighthavecrackedfa"
+  },
+  "英伟达股价收跌两日跌幅扩大至95": {
+   "key": "英伟达股价收跌两日跌幅扩大至95",
+   "title": "英伟达股价收跌，两日跌幅扩大至9.5%。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "解读英伟达跳水背后的AI资本开支拐点争议，探讨估值逻辑重构",
+   "hook_reason": "AI龙头两日跌近10%，引发科技股恐慌与抄底分歧",
+   "url": "https://finance.sina.cn/7x24/2026-11-26/detail-inizyzmr1484825.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达市值一夜蒸发129万亿元"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
