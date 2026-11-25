@@ -20509,6 +20509,32 @@
    "breaking": true,
    "event_id": "e:rumorsswirlingthatlabsmighthavecrackedfa",
    "batch_window": 3
+  },
+  {
+   "key": "holyshitholyshitholyshitholyshit18d2e6da",
+   "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "解析 Scott Aaronson 为何惊呼，揭示 AI 技术栈发生的隐秘质变",
+   "hook_reason": "Scott Aaronson 情绪失控发文，暗示 AI 出现奇点级转折",
+   "url": "https://scottaaronson.blog/?p=10379",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:holyshitholyshitholyshitholyshitthemagni",
+   "batch_window": 6
+  },
+  {
+   "key": "体检正常为什么还是肝癌晚期",
+   "title": "体检正常为什么还是肝癌晚期",
+   "rating": "A",
+   "score": 68.65,
+   "angle": "揭秘体检盲区：为何常规筛查漏掉肝癌？医生提醒这3个指标必须查。",
+   "hook_reason": "打破“体检正常即安全”认知，引发对自身健康的极度恐慌与共鸣。",
+   "url": "https://s.weibo.com/weibo?q=体检正常为什么还是肝癌晚期",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:体检正常为什么还是肝癌晚期",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -24268,6 +24294,30 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:英伟达市值一夜蒸发129万亿元"
+  },
+  "holyshitholyshitholyshitholyshit18d2e6da": {
+   "key": "holyshitholyshitholyshitholyshit18d2e6da",
+   "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+   "rating": "A",
+   "score": 75.9,
+   "angle": "解析 Scott Aaronson 为何惊呼，揭示 AI 技术栈发生的隐秘质变",
+   "hook_reason": "Scott Aaronson 情绪失控发文，暗示 AI 出现奇点级转折",
+   "url": "https://scottaaronson.blog/?p=10379",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:holyshitholyshitholyshitholyshitthemagni"
+  },
+  "体检正常为什么还是肝癌晚期": {
+   "key": "体检正常为什么还是肝癌晚期",
+   "title": "体检正常为什么还是肝癌晚期",
+   "rating": "A",
+   "score": 68.65,
+   "angle": "揭秘体检盲区：为何常规筛查漏掉肝癌？医生提醒这3个指标必须查。",
+   "hook_reason": "打破“体检正常即安全”认知，引发对自身健康的极度恐慌与共鸣。",
+   "url": "https://s.weibo.com/weibo?q=体检正常为什么还是肝癌晚期",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:体检正常为什么还是肝癌晚期"
   }
  },
  "breaking_count": 10,
