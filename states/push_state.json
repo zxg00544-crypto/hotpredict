@@ -20407,19 +20407,6 @@
    "batch_window": 8
   },
   {
-   "key": "神舟24号发射",
-   "title": "神舟24号发射",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "解读神舟24发射的技术难点与背后产业链红利",
-   "hook_reason": "中国航天巅峰时刻，民族自豪感与科技突破共振",
-   "url": "https://s.weibo.com/weibo?q=神舟24号发射",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:神舟24号发射",
-   "batch_window": 9
-  },
-  {
    "key": "神舟二十四号发射成功",
    "title": "神舟二十四号发射成功",
    "rating": "A",
@@ -20444,6 +20431,19 @@
    "breaking": true,
    "event_id": "e:华为mate90价格直接回到内存涨价前",
    "batch_window": 9
+  },
+  {
+   "key": "英伟达市值蒸发16万亿",
+   "title": "英伟达市值蒸发1.6万亿",
+   "rating": "A",
+   "score": 44.3,
+   "angle": "解读蒸发背后：是估值回归还是AI泡沫破裂",
+   "hook_reason": "1.6万亿蒸发破圈，引发全球财富焦虑",
+   "url": "https://s.weibo.com/weibo?q=英伟达市值蒸发1.6万亿",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英伟达市值蒸发16万亿",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -22282,7 +22282,8 @@
   "马斯克回应黄仁勋重任英伟达ceo",
   "男子回应结婚25年不让妻子上班",
   "gpt6modelsdemonstrateintrinsicprb1c3561e",
-  "抖音李亮批专家自媒体"
+  "抖音李亮批专家自媒体",
+  "神舟24号发射"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24057,7 +24058,8 @@
   "e:马斯克回应黄仁勋重任英伟达ceo": "马斯克回应黄仁勋重任英伟达CEO",
   "e:男子回应结婚25年不让妻子上班": "男子回应结婚25年不让妻子上班",
   "e:gpt6modelsdemonstrateintrinsicproteindes": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-  "e:抖音李亮批专家自媒体": "抖音李亮批专家自媒体"
+  "e:抖音李亮批专家自媒体": "抖音李亮批专家自媒体",
+  "e:神舟24号发射": "神舟24号发射"
  },
  "a_seen": {
   "黄仁勋回归最大受害者出现": {
@@ -24299,8 +24301,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:华为mate90价格直接回到内存涨价前"
+  },
+  "神舟二十四号载人飞船发射取得圆满成功中国空间站迎来首位外籍航天员此次发射任务还有哪些看点": {
+   "key": "神舟二十四号载人飞船发射取得圆满成功中国空间站迎来首位外籍航天员此次发射任务还有哪些看点",
+   "title": "神舟二十四号载人飞船发射取得圆满成功，中国空间站迎来首位外籍航天员，此次发射任务还有哪些看点？",
+   "rating": "A",
+   "score": 79.5,
+   "angle": "揭秘国际宇航员选拔标准及中国空间站国际化战略背后的科技与外交意义",
+   "hook_reason": "中国空间站首位外籍航天员，历史性突破引自豪与好奇",
+   "url": "https://www.zhihu.com/question/2108654680351797564",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:神舟二十四号发射成功"
+  },
+  "英伟达市值蒸发16万亿": {
+   "key": "英伟达市值蒸发16万亿",
+   "title": "英伟达市值蒸发1.6万亿",
+   "rating": "A",
+   "score": 44.3,
+   "angle": "解读蒸发背后：是估值回归还是AI泡沫破裂",
+   "hook_reason": "1.6万亿蒸发破圈，引发全球财富焦虑",
+   "url": "https://s.weibo.com/weibo?q=英伟达市值蒸发1.6万亿",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:英伟达市值蒸发16万亿"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
