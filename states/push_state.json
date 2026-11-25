@@ -20407,19 +20407,6 @@
    "batch_window": 8
   },
   {
-   "key": "神舟二十四号发射成功",
-   "title": "神舟二十四号发射成功",
-   "rating": "A",
-   "score": 87.95,
-   "angle": "解读神二十四任务亮点与载人航天新阶段意义",
-   "hook_reason": "国家重大航天突破，民族自豪感与科技自信共振",
-   "url": "https://search.bilibili.com/all?keyword=神舟二十四号发射成功",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:神舟二十四号发射成功",
-   "batch_window": 9
-  },
-  {
    "key": "华为mate90价格直接回到内存涨价前",
    "title": "华为Mate90价格直接回到内存涨价前",
    "rating": "A",
@@ -20470,6 +20457,19 @@
    "breaking": true,
    "event_id": "e:matrixmultiplicationison225pdf",
    "batch_window": 10
+  },
+  {
+   "key": "男子开智驾玩手机撞死救人者",
+   "title": "男子开智驾玩手机撞死救人者",
+   "rating": "A",
+   "score": 52.49,
+   "angle": "从‘技术依赖’到‘生命责任’，解析智驾事故背后的法律与人性博弈",
+   "hook_reason": "智驾事故致死，科技风险直抵生死，情绪冲突极强",
+   "url": "https://s.weibo.com/weibo?q=男子开智驾玩手机撞死救人者",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:男子开智驾玩手机撞死救人者",
+   "batch_window": 11
   }
  ],
  "pushed": [
@@ -22309,7 +22309,8 @@
   "男子回应结婚25年不让妻子上班",
   "gpt6modelsdemonstrateintrinsicprb1c3561e",
   "抖音李亮批专家自媒体",
-  "神舟24号发射"
+  "神舟24号发射",
+  "神舟二十四号发射成功"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24085,7 +24086,8 @@
   "e:男子回应结婚25年不让妻子上班": "男子回应结婚25年不让妻子上班",
   "e:gpt6modelsdemonstrateintrinsicproteindes": "GPT-6 models demonstrate intrinsic protein-design capabilities",
   "e:抖音李亮批专家自媒体": "抖音李亮批专家自媒体",
-  "e:神舟24号发射": "神舟24号发射"
+  "e:神舟24号发射": "神舟24号发射",
+  "e:神舟二十四号发射成功": "神舟二十四号发射成功"
  },
  "a_seen": {
   "黄仁勋回归最大受害者出现": {
@@ -24375,8 +24377,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:matrixmultiplicationison225pdf"
+  },
+  "男子开智驾玩手机撞死救人者": {
+   "key": "男子开智驾玩手机撞死救人者",
+   "title": "男子开智驾玩手机撞死救人者",
+   "rating": "A",
+   "score": 52.49,
+   "angle": "从‘技术依赖’到‘生命责任’，解析智驾事故背后的法律与人性博弈",
+   "hook_reason": "智驾事故致死，科技风险直抵生死，情绪冲突极强",
+   "url": "https://s.weibo.com/weibo?q=男子开智驾玩手机撞死救人者",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:男子开智驾玩手机撞死救人者"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 10
+ "a_pushed_window": 11
 }
