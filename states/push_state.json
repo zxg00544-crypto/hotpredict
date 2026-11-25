@@ -20459,19 +20459,6 @@
    "batch_window": 14
   },
   {
-   "key": "神23神24太空会师",
-   "title": "神23神24太空会师",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "从‘太空会师’看中国载人航天工程体系化能力与商业航天前景",
-   "hook_reason": "首次空间站太空会师，国家科技高光时刻",
-   "url": "https://s.weibo.com/weibo?q=神23神24太空会师",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:神23神24太空会师",
-   "batch_window": 16
-  },
-  {
    "key": "a股调整3大原因",
    "title": "A股调整3大原因",
    "rating": "A",
@@ -20496,6 +20483,45 @@
    "breaking": true,
    "event_id": "e:黄仁勋称60名下属都可接替自己",
    "batch_window": 16
+  },
+  {
+   "key": "中方回应美将对中国等国加征关税",
+   "title": "中方回应“美将对中国等国加征关税”",
+   "rating": "A",
+   "score": 80.26,
+   "angle": "解析美方加税意图及中方反制，预判出口链与A股避险板块机会",
+   "hook_reason": "关税战升级冲击股市，涉及钱包敏感",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BE%8E%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%AD%89%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:中方回应美将对中国等国加征关税",
+   "batch_window": 17
+  },
+  {
+   "key": "中外航天员实现首次太空握手",
+   "title": "中外航天员实现首次“太空握手”",
+   "rating": "A",
+   "score": 92.45,
+   "angle": "聚焦'太空握手'象征意义，解读中国航天开放合作与人类命运共同体内涵",
+   "hook_reason": "中国空间站历史性时刻，中外首次太空握手，极具民族自豪感",
+   "url": "https://search.bilibili.com/all?keyword=中外航天员实现首次太空握手",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:中外航天员实现首次太空握手",
+   "batch_window": 17
+  },
+  {
+   "key": "外围股市全崩了",
+   "title": "外围股市全崩了",
+   "rating": "A",
+   "score": 44.15,
+   "angle": "解读外围崩盘逻辑，预判A股跟跌节奏，提供散户避险操作指南",
+   "hook_reason": "突发全球股灾，直击股民钱包焦虑，高情绪浓度",
+   "url": "https://s.weibo.com/weibo?q=外围股市全崩了",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:外围股市全崩了",
+   "batch_window": 17
   }
  ],
  "pushed": [
@@ -22341,7 +22367,8 @@
   "义乌老板用ai接下不敢接的单",
   "马斯克说上海跳舞视频不是ai",
   "如何看待黑客放出gta6xbox版核心文件后民间靠ai不到24小时就搬上pc并成功进入实机",
-  "黄仁勋每天接受1个半小时治疗"
+  "黄仁勋每天接受1个半小时治疗",
+  "神23神24太空会师"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24123,7 +24150,8 @@
   "e:义乌老板用ai接下不敢接的单": "义乌老板用AI接下不敢接的单",
   "e:马斯克说上海跳舞视频不是ai": "马斯克说上海跳舞视频不是AI",
   "e:如何看待黑客放出gta6xbox版核心文件后民间靠ai不到24小时就搬上pc并成": "如何看待黑客放出《GTA 6》Xbox版核心文件后，民间靠AI不到24小时就搬上PC并成功进入实机？",
-  "e:黄仁勋每天接受1个半小时治疗": "黄仁勋每天接受1个半小时治疗"
+  "e:黄仁勋每天接受1个半小时治疗": "黄仁勋每天接受1个半小时治疗",
+  "e:神23神24太空会师": "神23神24太空会师"
  },
  "a_seen": {
   "黄仁勋回归最大受害者出现": {
@@ -24502,15 +24530,51 @@
    "key": "黄仁勋称60名下属都可接替自己",
    "title": "黄仁勋称60名下属都可接替自己",
    "rating": "A",
-   "score": 43.35,
-   "angle": "从黄仁勋的言论切入，探讨顶尖科技企业如何构建‘去核心化’的韧性团队，以及这对普通职场人的警示意义。",
-   "hook_reason": "AI教父的激进言论，揭示顶级大厂人才储备真相，引发对职业安全感与行业未来的深度思考。",
+   "score": 43.25,
+   "angle": "去创始人化：黄仁勋的60人备份计划，揭示AI时代顶级公司如何通过冗余设计对抗'单点故障'",
+   "hook_reason": "60人可替代CEO？颠覆管理认知，制造组织焦虑",
    "url": "https://s.weibo.com/weibo?q=黄仁勋称60名下属都可接替自己",
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:黄仁勋称60名下属都可接替自己"
+  },
+  "中方回应美将对中国等国加征关税": {
+   "key": "中方回应美将对中国等国加征关税",
+   "title": "中方回应“美将对中国等国加征关税”",
+   "rating": "A",
+   "score": 80.26,
+   "angle": "解析美方加税意图及中方反制，预判出口链与A股避险板块机会",
+   "hook_reason": "关税战升级冲击股市，涉及钱包敏感",
+   "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BE%8E%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%AD%89%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:中方回应美将对中国等国加征关税"
+  },
+  "中外航天员实现首次太空握手": {
+   "key": "中外航天员实现首次太空握手",
+   "title": "中外航天员实现首次“太空握手”",
+   "rating": "A",
+   "score": 92.45,
+   "angle": "聚焦'太空握手'象征意义，解读中国航天开放合作与人类命运共同体内涵",
+   "hook_reason": "中国空间站历史性时刻，中外首次太空握手，极具民族自豪感",
+   "url": "https://search.bilibili.com/all?keyword=中外航天员实现首次太空握手",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:中外航天员实现首次太空握手"
+  },
+  "外围股市全崩了": {
+   "key": "外围股市全崩了",
+   "title": "外围股市全崩了",
+   "rating": "A",
+   "score": 44.15,
+   "angle": "解读外围崩盘逻辑，预判A股跟跌节奏，提供散户避险操作指南",
+   "hook_reason": "突发全球股灾，直击股民钱包焦虑，高情绪浓度",
+   "url": "https://s.weibo.com/weibo?q=外围股市全崩了",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:外围股市全崩了"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 16
+ "a_pushed_window": 17
 }
