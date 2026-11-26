@@ -19575,19 +19575,6 @@
    "batch_window": 14
   },
   {
-   "key": "快递员挣3毛找回包裹赔138还遭投诉",
-   "title": "快递员挣3毛找回包裹赔13.8还遭投诉",
-   "rating": "A",
-   "score": 77.48,
-   "angle": "聚焦快递末端配送的权责倒挂现象，剖析底层劳动者在算法与赔偿机制下的生存困境",
-   "hook_reason": "底层打工人困境，3毛vs13.8元天价赔偿，强烈不公感",
-   "url": "https://s.weibo.com/weibo?q=快递员挣3毛找回包裹赔13.8还遭投诉",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:快递员挣3毛找回包裹赔138还遭投诉",
-   "batch_window": 15
-  },
-  {
    "key": "a股大反攻",
    "title": "A股大反攻",
    "rating": "A",
@@ -20652,6 +20639,19 @@
    "breaking": true,
    "event_id": "e:日本jera计划在发电厂附近建设anthropic和meta数据中心",
    "batch_window": 6
+  },
+  {
+   "key": "上海百亿养老集资骗局股东潜逃海外",
+   "title": "上海百亿养老集资骗局股东潜逃海外",
+   "rating": "A",
+   "score": 83.5,
+   "angle": "深挖“养老”概念下的集资陷阱，警示普通人警惕“高息诱惑”，分析海外逃匿难点。",
+   "hook_reason": "百亿巨额诈骗，老板跑出国，老百姓血汗钱打水漂，愤怒与恐慌拉满。",
+   "url": "https://s.weibo.com/weibo?q=上海百亿养老集资骗局股东潜逃海外",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:上海百亿养老集资骗局股东潜逃海外",
+   "batch_window": 7
   }
  ],
  "pushed": [
@@ -22554,7 +22554,8 @@
   "kagisearchforeveryone",
   "claudecodesendsyouremailaddresstowebsites",
   "itouredunitreesfactoryimmorebullishonthewest",
-  "gemini4hydrogen"
+  "gemini4hydrogen",
+  "快递员挣3毛找回包裹赔138还遭投诉"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24393,7 +24394,8 @@
   "e:kagisearchforeveryone": "Kagi Search for Everyone",
   "e:claudecodesendsyouremailaddresstowebsite": "Claude Code sends your email address to websites",
   "e:itouredunitreesfactoryimmorebullishonthe": "I Toured Unitree's Factory. I'm More Bullish on the West",
-  "e:gemini4hydrogen": "Gemini 4 Hydrogen"
+  "e:gemini4hydrogen": "Gemini 4 Hydrogen",
+  "e:快递员挣3毛找回包裹赔138还遭投诉": "快递员挣3毛找回包裹赔13.8还遭投诉"
  },
  "a_seen": {
   "英伟达暂停向东南亚四国交付芯片": {
@@ -24431,8 +24433,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:日本jera计划在发电厂附近建设anthropic和meta数据中心"
+  },
+  "上海百亿养老集资骗局股东潜逃海外": {
+   "key": "上海百亿养老集资骗局股东潜逃海外",
+   "title": "上海百亿养老集资骗局股东潜逃海外",
+   "rating": "A",
+   "score": 83.5,
+   "angle": "深挖“养老”概念下的集资陷阱，警示普通人警惕“高息诱惑”，分析海外逃匿难点。",
+   "hook_reason": "百亿巨额诈骗，老板跑出国，老百姓血汗钱打水漂，愤怒与恐慌拉满。",
+   "url": "https://s.weibo.com/weibo?q=上海百亿养老集资骗局股东潜逃海外",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:上海百亿养老集资骗局股东潜逃海外"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 6
+ "a_pushed_window": 7
 }
