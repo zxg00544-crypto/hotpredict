@@ -20524,17 +20524,30 @@
    "batch_window": 6
   },
   {
-   "key": "thenewyorktimestellsphotographerf4f611ef",
-   "title": "The New York Times tells photographers not to use the latest Photoshop",
+   "key": "曝美拟对中国额外加征20关税",
+   "title": "曝美拟对中国额外加征20%关税",
    "rating": "A",
-   "score": 80.0,
-   "angle": "传统媒体如何划定AI边界？解析《纽约时报》禁令背后的版权焦虑与行业自律。",
-   "hook_reason": "《纽约时报》封杀最新PS，AI修图红线划定，摄影圈炸锅。",
-   "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+   "score": 46.95,
+   "angle": "拆解关税对汇率及产业链的传导路径，预判市场错杀与反转机会",
+   "hook_reason": "20%新关税引爆A股恐慌与出口商生死抉择",
+   "url": "https://www.toutiao.com/trending/7711208049374494746/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:曝美拟对中国额外加征20关税",
+   "batch_window": 8
+  },
+  {
+   "key": "多家机器人公司进入破产清算两年近30家机器人公司倒闭机器人赛道融资火热为什么还会出现企业倒闭潮",
+   "title": "多家机器人公司进入破产清算，两年近30家机器人公司倒闭，机器人赛道融资火热，为什么还会出现企业倒闭潮？",
+   "rating": "A",
+   "score": 43.85,
+   "angle": "深度解析‘融资热vs倒闭潮’悖论，拆解人形机器人产业链的生死逻辑",
+   "hook_reason": "融资火热与倒闭潮并存，揭示AI硬科技泡沫与落地真相",
+   "url": "https://www.zhihu.com/question/2108863007048591328",
    "track": "科技",
    "breaking": true,
-   "event_id": "e:thenewyorktimestellsphotographersnottous",
-   "batch_window": 7
+   "event_id": "e:多家机器人公司进入破产清算两年近30家机器人公司倒闭机器人赛道融资火热为什么还会",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -22404,7 +22417,8 @@
   "司机开智驾玩手机撞死救人者获刑",
   "1passwordsecurityincident",
   "tim称几乎0人觉得macbookpro触屏刚需",
-  "policechiefunplugsflockcamerasaf48092da6"
+  "policechiefunplugsflockcamerasaf48092da6",
+  "thenewyorktimestellsphotographerf4f611ef"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24210,7 +24224,8 @@
   "e:司机开智驾玩手机撞死救人者获刑": "司机开智驾玩手机撞死救人者获刑",
   "e:1passwordsecurityincident": "1Password Security Incident",
   "e:tim称几乎0人觉得macbookpro触屏刚需": "Tim称几乎0人觉得MacBookPro触屏刚需",
-  "e:policechiefunplugsflockcamerasaftercompa": "Police chief unplugs Flock cameras after company ignores contract cancellation"
+  "e:policechiefunplugsflockcamerasaftercompa": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+  "e:thenewyorktimestellsphotographersnottous": "The New York Times tells photographers not to use the latest Photoshop"
  },
  "a_seen": {
   "ai正在帮忙抓贪官": {
@@ -24332,8 +24347,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:thenewyorktimestellsphotographersnottous"
+  },
+  "曝美拟对中国额外加征20关税": {
+   "key": "曝美拟对中国额外加征20关税",
+   "title": "曝美拟对中国额外加征20%关税",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "拆解关税对汇率及产业链的传导路径，预判市场错杀与反转机会",
+   "hook_reason": "20%新关税引爆A股恐慌与出口商生死抉择",
+   "url": "https://www.toutiao.com/trending/7711208049374494746/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:曝美拟对中国额外加征20关税"
+  },
+  "多家机器人公司进入破产清算两年近30家机器人公司倒闭机器人赛道融资火热为什么还会出现企业倒闭潮": {
+   "key": "多家机器人公司进入破产清算两年近30家机器人公司倒闭机器人赛道融资火热为什么还会出现企业倒闭潮",
+   "title": "多家机器人公司进入破产清算，两年近30家机器人公司倒闭，机器人赛道融资火热，为什么还会出现企业倒闭潮？",
+   "rating": "A",
+   "score": 43.85,
+   "angle": "深度解析‘融资热vs倒闭潮’悖论，拆解人形机器人产业链的生死逻辑",
+   "hook_reason": "融资火热与倒闭潮并存，揭示AI硬科技泡沫与落地真相",
+   "url": "https://www.zhihu.com/question/2108863007048591328",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:多家机器人公司进入破产清算两年近30家机器人公司倒闭机器人赛道融资火热为什么还会"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
