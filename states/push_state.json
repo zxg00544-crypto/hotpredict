@@ -20537,19 +20537,6 @@
    "batch_window": 8
   },
   {
-   "key": "梁文锋成全球最富ai模型创始人",
-   "title": "梁文锋成全球最富AI模型创始人",
-   "rating": "A",
-   "score": 81.0,
-   "angle": "深挖梁文锋财富来源：从开源理想主义到资本疯狂收割的反转。",
-   "hook_reason": "全球最富AI创始人头衔，反差巨大，吃瓜群众必点。",
-   "url": "https://s.weibo.com/weibo?q=梁文锋成全球最富AI模型创始人",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:梁文锋成全球最富ai模型创始人",
-   "batch_window": 9
-  },
-  {
    "key": "蔡磊已进渐冻症终末期",
    "title": "蔡磊已进渐冻症终末期",
    "rating": "A",
@@ -20574,6 +20561,45 @@
    "breaking": true,
    "event_id": "e:金价收复3500美元",
    "batch_window": 9
+  },
+  {
+   "key": "美术生不是被ai干掉的",
+   "title": "美术生不是被AI干掉的",
+   "rating": "A",
+   "score": 72.35,
+   "angle": "驳斥“AI夺饭碗”焦虑，分析美术行业需求从“技法”向“审美+创意”迁移的结构性机会",
+   "hook_reason": "直击艺术生生存焦虑，AI替代论的反转带来强烈情绪共鸣",
+   "url": "https://s.weibo.com/weibo?q=美术生不是被AI干掉的",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:美术生不是被ai干掉的",
+   "batch_window": 10
+  },
+  {
+   "key": "蔡磊",
+   "title": "蔡磊",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从‘时间银行’的绝望与抗争切入，复盘蔡磊留下的社会资产与科技遗产",
+   "hook_reason": "渐冻症斗士蔡磊病情突变，生死悬念引发全网泪目",
+   "url": "https://s.weibo.com/weibo?q=蔡磊",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:妻子与蔡磊见面全程没说话",
+   "batch_window": 10
+  },
+  {
+   "key": "黄仁勋回归最慌的是谁",
+   "title": "黄仁勋回归最慌的是谁",
+   "rating": "A",
+   "score": 44.45,
+   "angle": "解析黄仁勋回归背后的算力焦虑，推演其对国内AI芯片及下游应用行业的冲击链",
+   "hook_reason": "AI巨头回归引发行业恐慌，直击从业者焦虑与职场竞争",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋回归最慌的是谁",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋回归最慌的是谁",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -22445,7 +22471,8 @@
   "tim称几乎0人觉得macbookpro触屏刚需",
   "policechiefunplugsflockcamerasaf48092da6",
   "thenewyorktimestellsphotographerf4f611ef",
-  "aiisforcingustopayoff40yearsoftechnicaldebt"
+  "aiisforcingustopayoff40yearsoftechnicaldebt",
+  "梁文锋成全球最富ai模型创始人"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24253,7 +24280,8 @@
   "e:tim称几乎0人觉得macbookpro触屏刚需": "Tim称几乎0人觉得MacBookPro触屏刚需",
   "e:policechiefunplugsflockcamerasaftercompa": "Police chief unplugs Flock cameras after company ignores contract cancellation",
   "e:thenewyorktimestellsphotographersnottous": "The New York Times tells photographers not to use the latest Photoshop",
-  "e:aiisforcingustopayoff40yearsoftechnicald": "AI is forcing us to pay off 40 years of technical debt"
+  "e:aiisforcingustopayoff40yearsoftechnicald": "AI is forcing us to pay off 40 years of technical debt",
+  "e:梁文锋成全球最富ai模型创始人": "梁文锋成全球最富AI模型创始人"
  },
  "a_seen": {
   "ai正在帮忙抓贪官": {
@@ -24435,8 +24463,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:金价收复3500美元"
+  },
+  "美术生不是被ai干掉的": {
+   "key": "美术生不是被ai干掉的",
+   "title": "美术生不是被AI干掉的",
+   "rating": "A",
+   "score": 72.35,
+   "angle": "驳斥“AI夺饭碗”焦虑，分析美术行业需求从“技法”向“审美+创意”迁移的结构性机会",
+   "hook_reason": "直击艺术生生存焦虑，AI替代论的反转带来强烈情绪共鸣",
+   "url": "https://s.weibo.com/weibo?q=美术生不是被AI干掉的",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:美术生不是被ai干掉的"
+  },
+  "蔡磊": {
+   "key": "蔡磊",
+   "title": "蔡磊",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从‘时间银行’的绝望与抗争切入，复盘蔡磊留下的社会资产与科技遗产",
+   "hook_reason": "渐冻症斗士蔡磊病情突变，生死悬念引发全网泪目",
+   "url": "https://s.weibo.com/weibo?q=蔡磊",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:妻子与蔡磊见面全程没说话"
+  },
+  "蔡磊语言功能已彻底丧失": {
+   "key": "蔡磊语言功能已彻底丧失",
+   "title": "蔡磊语言功能已彻底丧失",
+   "rating": "A",
+   "score": 83.73,
+   "angle": "从蔡磊‘用代码对抗病魔’的创业故事切入，探讨科技赋能罕见病患者的社会价值",
+   "hook_reason": "前京东高管蔡磊ALS病情恶化，引发对生命意义与科技抗病的深度共情",
+   "url": "https://s.weibo.com/weibo?q=蔡磊语言功能已彻底丧失",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:妻子与蔡磊见面全程没说话"
+  },
+  "黄仁勋回归最慌的是谁": {
+   "key": "黄仁勋回归最慌的是谁",
+   "title": "黄仁勋回归最慌的是谁",
+   "rating": "A",
+   "score": 44.45,
+   "angle": "解析黄仁勋回归背后的算力焦虑，推演其对国内AI芯片及下游应用行业的冲击链",
+   "hook_reason": "AI巨头回归引发行业恐慌，直击从业者焦虑与职场竞争",
+   "url": "https://s.weibo.com/weibo?q=黄仁勋回归最慌的是谁",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:黄仁勋回归最慌的是谁"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
