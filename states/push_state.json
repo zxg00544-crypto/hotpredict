@@ -20589,19 +20589,6 @@
    "batch_window": 11
   },
   {
-   "key": "普京打包深圳炒菜上飞机",
-   "title": "普京打包深圳炒菜上飞机",
-   "rating": "A",
-   "score": 83.0,
-   "angle": "解析普京访华细节，解读中俄关系升温下的民间温情与外交礼仪创新",
-   "hook_reason": "顶级领导人+接地气美食，反差萌引发强烈好奇",
-   "url": "https://s.weibo.com/weibo?q=普京打包深圳炒菜上飞机",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:普京打包深圳炒菜上飞机",
-   "batch_window": 12
-  },
-  {
    "key": "蔡磊妻子算账揭露渐冻症经济困局",
    "title": "蔡磊妻子算账揭露渐冻症经济困局",
    "rating": "A",
@@ -20613,6 +20600,32 @@
    "breaking": true,
    "event_id": "e:蔡磊妻子算账揭露渐冻症经济困局",
    "batch_window": 12
+  },
+  {
+   "key": "江苏省委书记省长会见丁肇中",
+   "title": "江苏省委书记省长会见丁肇中",
+   "rating": "A",
+   "score": 81.75,
+   "angle": "解析丁肇中最新科研动向，解读地方政府为何争抢顶级科学家的深层逻辑。",
+   "hook_reason": "诺奖得主丁肇中获江苏顶格高规格会见，释放何种人才或科技信号？",
+   "url": "https://www.toutiao.com/trending/7712093964917834278/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:江苏省委书记省长会见丁肇中",
+   "batch_window": 13
+  },
+  {
+   "key": "安踏",
+   "title": "安踏",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "安踏突发利好/利空，资本市场即时反应",
+   "hook_reason": "安踏股价异动，投资者紧急查询",
+   "url": "https://s.weibo.com/weibo?q=安踏",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:安踏",
+   "batch_window": 13
   }
  ],
  "pushed": [
@@ -22487,7 +22500,8 @@
   "aiisforcingustopayoff40yearsoftechnicaldebt",
   "梁文锋成全球最富ai模型创始人",
   "蔡磊",
-  "蔡磊已进渐冻症终末期"
+  "蔡磊已进渐冻症终末期",
+  "普京打包深圳炒菜上飞机"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24298,7 +24312,8 @@
   "e:aiisforcingustopayoff40yearsoftechnicald": "AI is forcing us to pay off 40 years of technical debt",
   "e:梁文锋成全球最富ai模型创始人": "梁文锋成全球最富AI模型创始人",
   "e:妻子与蔡磊见面全程没说话": "蔡磊",
-  "e:蔡磊已进渐冻症终末期": "蔡磊已进渐冻症终末期"
+  "e:蔡磊已进渐冻症终末期": "蔡磊已进渐冻症终末期",
+  "e:普京打包深圳炒菜上飞机": "普京打包深圳炒菜上飞机"
  },
  "a_seen": {
   "ai正在帮忙抓贪官": {
@@ -24557,15 +24572,51 @@
    "key": "蔡磊妻子算账揭露渐冻症经济困局",
    "title": "蔡磊妻子算账揭露渐冻症经济困局",
    "rating": "A",
-   "score": 88.0,
-   "angle": "蔡磊妻子晒出治疗明细，揭开渐冻症背后被低估的经济黑洞。",
-   "hook_reason": "渐冻症治疗天价账单，普通人的绝望与富豪的无力感。",
+   "score": 79.3,
+   "angle": "拆解渐冻症治疗费用结构，探讨富人背后的生存焦虑与社会保障缺口",
+   "hook_reason": "千亿身家仍恐因病致贫，残酷算账引发全网共鸣",
    "url": "https://s.weibo.com/weibo?q=蔡磊妻子算账揭露渐冻症经济困局",
    "track": "社会热点",
    "breaking": true,
-   "event_id": "e:蔡磊妻子算账揭露渐冻症经济困局"
+   "event_id": "e:妻子与蔡磊见面全程没说话"
+  },
+  "蔡磊回应病情进入终末期": {
+   "key": "蔡磊回应病情进入终末期",
+   "title": "蔡磊回应“病情进入终末期”",
+   "rating": "A",
+   "score": 86.7,
+   "angle": "从ALS患者视角看社会支持体系缺失，引发对罕见病群体的深层反思",
+   "hook_reason": "网红蔡磊病危自述，生死倒计时引发强烈共情与关注",
+   "url": "https://s.weibo.com/weibo?q=蔡磊回应病情进入终末期",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:妻子与蔡磊见面全程没说话"
+  },
+  "江苏省委书记省长会见丁肇中": {
+   "key": "江苏省委书记省长会见丁肇中",
+   "title": "江苏省委书记省长会见丁肇中",
+   "rating": "A",
+   "score": 81.75,
+   "angle": "解析丁肇中最新科研动向，解读地方政府为何争抢顶级科学家的深层逻辑。",
+   "hook_reason": "诺奖得主丁肇中获江苏顶格高规格会见，释放何种人才或科技信号？",
+   "url": "https://www.toutiao.com/trending/7712093964917834278/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:江苏省委书记省长会见丁肇中"
+  },
+  "安踏": {
+   "key": "安踏",
+   "title": "安踏",
+   "rating": "A",
+   "score": 81.0,
+   "angle": "安踏突发利好/利空，资本市场即时反应",
+   "hook_reason": "安踏股价异动，投资者紧急查询",
+   "url": "https://s.weibo.com/weibo?q=安踏",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:安踏"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 12
+ "a_pushed_window": 13
 }
