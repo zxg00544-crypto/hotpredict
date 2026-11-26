@@ -15285,19 +15285,6 @@
    "batch_window": 4
   },
   {
-   "key": "kagisearchforeveryone",
-   "title": "Kagi Search for Everyone",
-   "rating": "A",
-   "score": 77.5,
-   "angle": "Kagi推出免费版本，打破付费搜索格局，挑战Google垄断，从产品功能、定价策略、用户价值三维度切入",
-   "hook_reason": "Google劲敌免费开源搜索来了，普通人能用吗？",
-   "url": "https://kagi.com/changelog",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:kagisearchforeveryone",
-   "batch_window": 6
-  },
-  {
    "key": "但斌回应重仓ai回撤大",
    "title": "但斌回应重仓AI回撤大",
    "rating": "A",
@@ -22589,7 +22576,8 @@
   "特朗普指政府蓄意低报经济增长要求展开调查",
   "网友爆料小米yu7车型前视摄像头集中故障行车录像无法录制前向防碰撞失效是批次质量问题吗",
   "学生用翻页笔偷点听写答案",
-  "神23回地球"
+  "神23回地球",
+  "kagisearchforeveryone"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24424,7 +24412,8 @@
   "e:特朗普指政府蓄意低报经济增长要求展开调查": "特朗普指政府蓄意低报经济增长 要求展开调查",
   "e:网友爆料小米yu7车型前视摄像头集中故障行车录像无法录制前向防碰撞失效是批次质量": "网友爆料小米YU7车型前视摄像头集中故障，行车录像无法录制，前向防碰撞失效，是批次质量问题吗？",
   "e:学生用翻页笔偷点听写答案": "学生用翻页笔偷点听写答案",
-  "e:神23回地球": "神23回地球"
+  "e:神23回地球": "神23回地球",
+  "e:kagisearchforeveryone": "Kagi Search for Everyone"
  },
  "a_seen": {
   "英伟达暂停向东南亚四国交付芯片": {
@@ -24453,5 +24442,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
