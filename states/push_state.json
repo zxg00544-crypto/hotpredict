@@ -20537,19 +20537,6 @@
    "batch_window": 8
   },
   {
-   "key": "蔡磊已进渐冻症终末期",
-   "title": "蔡磊已进渐冻症终末期",
-   "rating": "A",
-   "score": 80.45,
-   "angle": "从商业精英到病患：蔡磊的抗争如何打破社会对渐冻症的冷漠",
-   "hook_reason": "前高管蔡磊终末期，生命倒计时引发全网悲愤与深思",
-   "url": "https://s.weibo.com/weibo?q=蔡磊已进渐冻症终末期",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:蔡磊已进渐冻症终末期",
-   "batch_window": 9
-  },
-  {
    "key": "金价收复3500美元",
    "title": "金价收复3500美元",
    "rating": "A",
@@ -20600,6 +20587,32 @@
    "breaking": true,
    "event_id": "e:特朗普夸归夸关税照加",
    "batch_window": 11
+  },
+  {
+   "key": "普京打包深圳炒菜上飞机",
+   "title": "普京打包深圳炒菜上飞机",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "解析普京访华细节，解读中俄关系升温下的民间温情与外交礼仪创新",
+   "hook_reason": "顶级领导人+接地气美食，反差萌引发强烈好奇",
+   "url": "https://s.weibo.com/weibo?q=普京打包深圳炒菜上飞机",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:普京打包深圳炒菜上飞机",
+   "batch_window": 12
+  },
+  {
+   "key": "蔡磊妻子算账揭露渐冻症经济困局",
+   "title": "蔡磊妻子算账揭露渐冻症经济困局",
+   "rating": "A",
+   "score": 43.7,
+   "angle": "算清渐冻症‘天价’账单：为何有钱也救不了一命？",
+   "hook_reason": "顶级富豪患绝症，晒账单刺痛大众对医疗成本的焦虑。",
+   "url": "https://s.weibo.com/weibo?q=蔡磊妻子算账揭露渐冻症经济困局",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:蔡磊妻子算账揭露渐冻症经济困局",
+   "batch_window": 12
   }
  ],
  "pushed": [
@@ -22473,7 +22486,8 @@
   "thenewyorktimestellsphotographerf4f611ef",
   "aiisforcingustopayoff40yearsoftechnicaldebt",
   "梁文锋成全球最富ai模型创始人",
-  "蔡磊"
+  "蔡磊",
+  "蔡磊已进渐冻症终末期"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24283,7 +24297,8 @@
   "e:thenewyorktimestellsphotographersnottous": "The New York Times tells photographers not to use the latest Photoshop",
   "e:aiisforcingustopayoff40yearsoftechnicald": "AI is forcing us to pay off 40 years of technical debt",
   "e:梁文锋成全球最富ai模型创始人": "梁文锋成全球最富AI模型创始人",
-  "e:妻子与蔡磊见面全程没说话": "蔡磊"
+  "e:妻子与蔡磊见面全程没说话": "蔡磊",
+  "e:蔡磊已进渐冻症终末期": "蔡磊已进渐冻症终末期"
  },
  "a_seen": {
   "ai正在帮忙抓贪官": {
@@ -24525,8 +24540,32 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:特朗普夸归夸关税照加"
+  },
+  "普京打包深圳炒菜上飞机": {
+   "key": "普京打包深圳炒菜上飞机",
+   "title": "普京打包深圳炒菜上飞机",
+   "rating": "A",
+   "score": 83.0,
+   "angle": "解析普京访华细节，解读中俄关系升温下的民间温情与外交礼仪创新",
+   "hook_reason": "顶级领导人+接地气美食，反差萌引发强烈好奇",
+   "url": "https://s.weibo.com/weibo?q=普京打包深圳炒菜上飞机",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:普京打包深圳炒菜上飞机"
+  },
+  "蔡磊妻子算账揭露渐冻症经济困局": {
+   "key": "蔡磊妻子算账揭露渐冻症经济困局",
+   "title": "蔡磊妻子算账揭露渐冻症经济困局",
+   "rating": "A",
+   "score": 43.7,
+   "angle": "算清渐冻症‘天价’账单：为何有钱也救不了一命？",
+   "hook_reason": "顶级富豪患绝症，晒账单刺痛大众对医疗成本的焦虑。",
+   "url": "https://s.weibo.com/weibo?q=蔡磊妻子算账揭露渐冻症经济困局",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:蔡磊妻子算账揭露渐冻症经济困局"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 11
+ "a_pushed_window": 12
 }
