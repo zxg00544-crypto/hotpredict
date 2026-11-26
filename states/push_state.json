@@ -20654,19 +20654,6 @@
    "batch_window": 17
   },
   {
-   "key": "魏建军称很多车企亏损卖车",
-   "title": "魏建军称很多车企亏损卖车",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "魏建军怒揭'负毛利'乱象，分析车企为何敢亏本卖车，预测行业洗牌加速",
-   "hook_reason": "车圈顶流放狠话，揭露行业割韭菜内幕",
-   "url": "https://s.weibo.com/weibo?q=魏建军称很多车企亏损卖车",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:魏建军称很多车企亏损卖车",
-   "batch_window": 19
-  },
-  {
    "key": "国家队加仓a股公司名单",
    "title": "国家队加仓A股公司名单",
    "rating": "A",
@@ -20678,6 +20665,45 @@
    "breaking": true,
    "event_id": "e:国家队加仓a股公司名单",
    "batch_window": 19
+  },
+  {
+   "key": "董明珠汽车产业害虫该灭就灭",
+   "title": "董明珠：汽车产业害虫该灭就灭",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "深度解析董明珠言论背后的格力转型焦虑与行业认知偏差",
+   "hook_reason": "格力掌门人跨界怒怼造车，言论极具争议性",
+   "url": "https://www.toutiao.com/trending/7711716716862000683/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:董明珠汽车产业害虫该灭就灭",
+   "batch_window": 20
+  },
+  {
+   "key": "马云现身平头哥办公区",
+   "title": "马云现身平头哥办公区",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从平头哥芯片视角，分析马云回归对AI硬件供应链的信号意义",
+   "hook_reason": "马云现身平头哥，揭秘AI芯片幕后布局",
+   "url": "https://s.weibo.com/weibo?q=马云现身平头哥办公区",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马云现身平头哥办公区",
+   "batch_window": 20
+  },
+  {
+   "key": "网友爆料小米yu7车型前视摄像头集中故障行车录像无法录制前向防碰撞失效是批次质量问题吗",
+   "title": "网友爆料小米YU7车型前视摄像头集中故障，行车录像无法录制，前向防碰撞失效，是批次质量问题吗？",
+   "rating": "A",
+   "score": 88.0,
+   "angle": "拆解YU7摄像头故障技术根源，预判对小米汽车口碑及股价的潜在冲击",
+   "hook_reason": "小米新车安全故障，车主维权焦虑与品牌信任危机",
+   "url": "https://www.zhihu.com/question/2109256447582266632",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:网友爆料小米yu7车型前视摄像头集中故障行车录像无法录制前向防碰撞失效是批次质量",
+   "batch_window": 20
   }
  ],
  "pushed": [
@@ -22559,7 +22585,8 @@
   "a股得拿稳了",
   "安踏",
   "金价收复3500美元",
-  "ripple65bpreviewusopenweightsotaonagenticcoding"
+  "ripple65bpreviewusopenweightsotaonagenticcoding",
+  "魏建军称很多车企亏损卖车"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24377,7 +24404,8 @@
   "e:a股得拿稳了": "A股得拿稳了",
   "e:安踏": "安踏",
   "e:金价收复3500美元": "金价收复3500美元",
-  "e:ripple65bpreviewusopenweightsotaonagenti": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding"
+  "e:ripple65bpreviewusopenweightsotaonagenti": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+  "e:魏建军称很多车企亏损卖车": "魏建军称很多车企亏损卖车"
  },
  "a_seen": {
   "ai正在帮忙抓贪官": {
@@ -24847,8 +24875,56 @@
    "track": "财经",
    "breaking": true,
    "event_id": "e:国家队加仓a股公司名单"
+  },
+  "董明珠汽车产业害虫该灭就灭": {
+   "key": "董明珠汽车产业害虫该灭就灭",
+   "title": "董明珠：汽车产业害虫该灭就灭",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "深度解析董明珠言论背后的格力转型焦虑与行业认知偏差",
+   "hook_reason": "格力掌门人跨界怒怼造车，言论极具争议性",
+   "url": "https://www.toutiao.com/trending/7711716716862000683/",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:董明珠汽车产业害虫该灭就灭"
+  },
+  "马云现身平头哥办公区": {
+   "key": "马云现身平头哥办公区",
+   "title": "马云现身平头哥办公区",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "从平头哥芯片视角，分析马云回归对AI硬件供应链的信号意义",
+   "hook_reason": "马云现身平头哥，揭秘AI芯片幕后布局",
+   "url": "https://s.weibo.com/weibo?q=马云现身平头哥办公区",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:马云现身平头哥办公区"
+  },
+  "网友爆料小米yu7车型前视摄像头集中故障行车录像无法录制前向防碰撞失效是批次质量问题吗": {
+   "key": "网友爆料小米yu7车型前视摄像头集中故障行车录像无法录制前向防碰撞失效是批次质量问题吗",
+   "title": "网友爆料小米YU7车型前视摄像头集中故障，行车录像无法录制，前向防碰撞失效，是批次质量问题吗？",
+   "rating": "A",
+   "score": 88.0,
+   "angle": "拆解YU7摄像头故障技术根源，预判对小米汽车口碑及股价的潜在冲击",
+   "hook_reason": "小米新车安全故障，车主维权焦虑与品牌信任危机",
+   "url": "https://www.zhihu.com/question/2109256447582266632",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:网友爆料小米yu7车型前视摄像头集中故障行车录像无法录制前向防碰撞失效是批次质量"
+  },
+  "董明珠称汽车行业有老鼠": {
+   "key": "董明珠称汽车行业有老鼠",
+   "title": "董明珠称汽车行业有老鼠",
+   "rating": "A",
+   "score": 45.4,
+   "angle": "分析董明珠言论背后的供应链焦虑，及车企如何自证清白",
+   "hook_reason": "格力和汽车圈正面冲突，雷军/马化腾能否接招？",
+   "url": "https://s.weibo.com/weibo?q=董明珠称汽车行业有老鼠",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:董明珠汽车产业害虫该灭就灭"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 19
+ "a_pushed_window": 20
 }
