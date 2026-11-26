@@ -20704,6 +20704,19 @@
    "breaking": true,
    "event_id": "e:神23回地球",
    "batch_window": 22
+  },
+  {
+   "key": "三只松鼠致歉声明",
+   "title": "三只松鼠致歉声明",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "解析三只松鼠致歉背后的供应链与财务危机，预判其对消费板块估值的影响及散户持仓风险。",
+   "hook_reason": "巨头突发致歉，供应链暴雷引发行业恐慌，散户必看",
+   "url": "https://s.weibo.com/weibo?q=三只松鼠致歉声明",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:三只松鼠致歉声明",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -24965,6 +24978,18 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:神23回地球"
+  },
+  "三只松鼠致歉声明": {
+   "key": "三只松鼠致歉声明",
+   "title": "三只松鼠致歉声明",
+   "rating": "A",
+   "score": 82.5,
+   "angle": "解析三只松鼠致歉背后的供应链与财务危机，预判其对消费板块估值的影响及散户持仓风险。",
+   "hook_reason": "巨头突发致歉，供应链暴雷引发行业恐慌，散户必看",
+   "url": "https://s.weibo.com/weibo?q=三只松鼠致歉声明",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:三只松鼠致歉声明"
   }
  },
  "breaking_count": 10,
