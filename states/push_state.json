@@ -16819,19 +16819,6 @@
    "batch_window": 2
   },
   {
-   "key": "gemini4hydrogen",
-   "title": "Gemini 4 Hydrogen",
-   "rating": "A",
-   "score": 77.5,
-   "angle": "解读Gemini 4技术突破及谷歌生态战略调整，分析对国内大模型的冲击。",
-   "hook_reason": "谷歌发布Gemini 4，性能颠覆认知，AI格局生变。",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:gemini4hydrogen",
-   "batch_window": 2
-  },
-  {
    "key": "jensenhuangresigns",
    "title": "Jensen Huang resigns",
    "rating": "A",
@@ -20652,6 +20639,19 @@
    "breaking": true,
    "event_id": "e:武大调查谈话238人次",
    "batch_window": 1
+  },
+  {
+   "key": "日本jera计划在发电厂附近建设anthropic和meta数据中心",
+   "title": "日本JERA计划在发电厂附近建设Anthropic和Meta数据中心。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "AI算力焦虑下，核电绑定数据中心的'绿能新范式'与降本账本",
+   "hook_reason": "核电直连AI数据中心，解决能耗痛点，商业逻辑颠覆",
+   "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksq7882578.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:日本jera计划在发电厂附近建设anthropic和meta数据中心",
+   "batch_window": 6
   }
  ],
  "pushed": [
@@ -22553,7 +22553,8 @@
   "神23回地球",
   "kagisearchforeveryone",
   "claudecodesendsyouremailaddresstowebsites",
-  "itouredunitreesfactoryimmorebullishonthewest"
+  "itouredunitreesfactoryimmorebullishonthewest",
+  "gemini4hydrogen"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24391,7 +24392,8 @@
   "e:神23回地球": "神23回地球",
   "e:kagisearchforeveryone": "Kagi Search for Everyone",
   "e:claudecodesendsyouremailaddresstowebsite": "Claude Code sends your email address to websites",
-  "e:itouredunitreesfactoryimmorebullishonthe": "I Toured Unitree's Factory. I'm More Bullish on the West"
+  "e:itouredunitreesfactoryimmorebullishonthe": "I Toured Unitree's Factory. I'm More Bullish on the West",
+  "e:gemini4hydrogen": "Gemini 4 Hydrogen"
  },
  "a_seen": {
   "英伟达暂停向东南亚四国交付芯片": {
@@ -24417,8 +24419,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:武大调查谈话238人次"
+  },
+  "日本jera计划在发电厂附近建设anthropic和meta数据中心": {
+   "key": "日本jera计划在发电厂附近建设anthropic和meta数据中心",
+   "title": "日本JERA计划在发电厂附近建设Anthropic和Meta数据中心。",
+   "rating": "A",
+   "score": 46.8,
+   "angle": "AI算力焦虑下，核电绑定数据中心的'绿能新范式'与降本账本",
+   "hook_reason": "核电直连AI数据中心，解决能耗痛点，商业逻辑颠覆",
+   "url": "https://finance.sina.cn/7x24/2026-11-27/detail-inkacksq7882578.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:日本jera计划在发电厂附近建设anthropic和meta数据中心"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 5
+ "a_pushed_window": 6
 }
