@@ -15337,19 +15337,6 @@
    "batch_window": 7
   },
   {
-   "key": "claudecodesendsyouremailaddresstowebsites",
-   "title": "Claude Code sends your email address to websites",
-   "rating": "A",
-   "score": 77.5,
-   "angle": "从开发者视角解读邮箱泄露的影响、Anthropic的响应机制，以及AI工具隐私治理的行业反思",
-   "hook_reason": "AI编程工具泄露用户邮箱，开发者隐私安全引爆恐慌",
-   "url": "https://github.com/anthropics/claude-code/issues/107757",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:claudecodesendsyouremailaddresstowebsite",
-   "batch_window": 8
-  },
-  {
    "key": "马斯克身价单日蒸发912亿美元",
    "title": "马斯克身价单日蒸发912亿美元",
    "rating": "A",
@@ -22577,7 +22564,8 @@
   "网友爆料小米yu7车型前视摄像头集中故障行车录像无法录制前向防碰撞失效是批次质量问题吗",
   "学生用翻页笔偷点听写答案",
   "神23回地球",
-  "kagisearchforeveryone"
+  "kagisearchforeveryone",
+  "claudecodesendsyouremailaddresstowebsites"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24413,7 +24401,8 @@
   "e:网友爆料小米yu7车型前视摄像头集中故障行车录像无法录制前向防碰撞失效是批次质量": "网友爆料小米YU7车型前视摄像头集中故障，行车录像无法录制，前向防碰撞失效，是批次质量问题吗？",
   "e:学生用翻页笔偷点听写答案": "学生用翻页笔偷点听写答案",
   "e:神23回地球": "神23回地球",
-  "e:kagisearchforeveryone": "Kagi Search for Everyone"
+  "e:kagisearchforeveryone": "Kagi Search for Everyone",
+  "e:claudecodesendsyouremailaddresstowebsite": "Claude Code sends your email address to websites"
  },
  "a_seen": {
   "英伟达暂停向东南亚四国交付芯片": {
@@ -24442,5 +24431,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
