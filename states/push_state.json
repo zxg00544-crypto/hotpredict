@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-11-26",
  "a_pending": [
   {
@@ -20667,19 +20667,6 @@
    "batch_window": 19
   },
   {
-   "key": "董明珠汽车产业害虫该灭就灭",
-   "title": "董明珠：汽车产业害虫该灭就灭",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "深度解析董明珠言论背后的格力转型焦虑与行业认知偏差",
-   "hook_reason": "格力掌门人跨界怒怼造车，言论极具争议性",
-   "url": "https://www.toutiao.com/trending/7711716716862000683/",
-   "track": "大咖发言",
-   "breaking": true,
-   "event_id": "e:董明珠汽车产业害虫该灭就灭",
-   "batch_window": 20
-  },
-  {
    "key": "马云现身平头哥办公区",
    "title": "马云现身平头哥办公区",
    "rating": "A",
@@ -20704,6 +20691,19 @@
    "breaking": true,
    "event_id": "e:网友爆料小米yu7车型前视摄像头集中故障行车录像无法录制前向防碰撞失效是批次质量",
    "batch_window": 20
+  },
+  {
+   "key": "两地通报女教授介入已婚副校长家庭事件安大副校长付某武大曾某某被免职有哪些值得关注的信息",
+   "title": "两地通报女教授介入已婚副校长家庭事件，安大副校长付某、武大曾某某被免职，有哪些值得关注的信息？",
+   "rating": "A",
+   "score": 89.0,
+   "angle": "高校管理者的‘师德’与‘官德’双标：为何私德瑕疵能触发行政免职？",
+   "hook_reason": "高校高管因私德被双免，体制内纪律与道德底线冲突",
+   "url": "https://www.zhihu.com/question/2109373596413818484",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:遭举报的武大女教授已被免职",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -22586,7 +22586,8 @@
   "安踏",
   "金价收复3500美元",
   "ripple65bpreviewusopenweightsotaonagenticcoding",
-  "魏建军称很多车企亏损卖车"
+  "魏建军称很多车企亏损卖车",
+  "董明珠汽车产业害虫该灭就灭"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24405,7 +24406,8 @@
   "e:安踏": "安踏",
   "e:金价收复3500美元": "金价收复3500美元",
   "e:ripple65bpreviewusopenweightsotaonagenti": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-  "e:魏建军称很多车企亏损卖车": "魏建军称很多车企亏损卖车"
+  "e:魏建军称很多车企亏损卖车": "魏建军称很多车企亏损卖车",
+  "e:董明珠汽车产业害虫该灭就灭": "董明珠：汽车产业害虫该灭就灭"
  },
  "a_seen": {
   "ai正在帮忙抓贪官": {
@@ -24917,14 +24919,26 @@
    "title": "董明珠称汽车行业有老鼠",
    "rating": "A",
    "score": 45.4,
-   "angle": "分析董明珠言论背后的供应链焦虑，及车企如何自证清白",
-   "hook_reason": "格力和汽车圈正面冲突，雷军/马化腾能否接招？",
+   "angle": "格力造车受挫？董明珠用‘老鼠’隐喻抨击行业乱象，展现强硬人设。",
+   "hook_reason": "董明珠跨界怼车企，冲突感强，吃瓜群众必看。",
    "url": "https://s.weibo.com/weibo?q=董明珠称汽车行业有老鼠",
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:董明珠汽车产业害虫该灭就灭"
+  },
+  "两地通报女教授介入已婚副校长家庭事件安大副校长付某武大曾某某被免职有哪些值得关注的信息": {
+   "key": "两地通报女教授介入已婚副校长家庭事件安大副校长付某武大曾某某被免职有哪些值得关注的信息",
+   "title": "两地通报女教授介入已婚副校长家庭事件，安大副校长付某、武大曾某某被免职，有哪些值得关注的信息？",
+   "rating": "A",
+   "score": 89.0,
+   "angle": "高校管理者的‘师德’与‘官德’双标：为何私德瑕疵能触发行政免职？",
+   "hook_reason": "高校高管因私德被双免，体制内纪律与道德底线冲突",
+   "url": "https://www.zhihu.com/question/2109373596413818484",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:遭举报的武大女教授已被免职"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
