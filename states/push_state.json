@@ -20641,19 +20641,6 @@
    "batch_window": 6
   },
   {
-   "key": "上海百亿养老集资骗局股东潜逃海外",
-   "title": "上海百亿养老集资骗局股东潜逃海外",
-   "rating": "A",
-   "score": 83.5,
-   "angle": "深挖“养老”概念下的集资陷阱，警示普通人警惕“高息诱惑”，分析海外逃匿难点。",
-   "hook_reason": "百亿巨额诈骗，老板跑出国，老百姓血汗钱打水漂，愤怒与恐慌拉满。",
-   "url": "https://s.weibo.com/weibo?q=上海百亿养老集资骗局股东潜逃海外",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:上海百亿养老集资骗局股东潜逃海外",
-   "batch_window": 7
-  },
-  {
    "key": "北大教师右眼被注入工业气体获赔388万",
    "title": "北大教师右眼被注入工业气体获赔388万",
    "rating": "A",
@@ -20665,6 +20652,19 @@
    "breaking": true,
    "event_id": "e:北大教师右眼被注入工业气体获赔388万",
    "batch_window": 7
+  },
+  {
+   "key": "英伟达东南亚停供或影响评级",
+   "title": "英伟达东南亚停供或影响评级",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "拆解英伟达东南亚停供背后的地缘政治博弈，以及这对AI算力供应链和二级市场估值的连锁反应",
+   "hook_reason": "顶级科技巨头突发断供，全球半导体市场震动，影响投资评级",
+   "url": "https://s.weibo.com/weibo?q=英伟达东南亚停供或影响评级",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达东南亚停供或影响评级",
+   "batch_window": 8
   }
  ],
  "pushed": [
@@ -22568,7 +22568,8 @@
   "claudecodesendsyouremailaddresstowebsites",
   "itouredunitreesfactoryimmorebullishonthewest",
   "gemini4hydrogen",
-  "快递员挣3毛找回包裹赔138还遭投诉"
+  "快递员挣3毛找回包裹赔138还遭投诉",
+  "上海百亿养老集资骗局股东潜逃海外"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24408,7 +24409,8 @@
   "e:claudecodesendsyouremailaddresstowebsite": "Claude Code sends your email address to websites",
   "e:itouredunitreesfactoryimmorebullishonthe": "I Toured Unitree's Factory. I'm More Bullish on the West",
   "e:gemini4hydrogen": "Gemini 4 Hydrogen",
-  "e:快递员挣3毛找回包裹赔138还遭投诉": "快递员挣3毛找回包裹赔13.8还遭投诉"
+  "e:快递员挣3毛找回包裹赔138还遭投诉": "快递员挣3毛找回包裹赔13.8还遭投诉",
+  "e:上海百亿养老集资骗局股东潜逃海外": "上海百亿养老集资骗局股东潜逃海外"
  },
  "a_seen": {
   "英伟达暂停向东南亚四国交付芯片": {
@@ -24470,8 +24472,20 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:北大教师右眼被注入工业气体获赔388万"
+  },
+  "英伟达东南亚停供或影响评级": {
+   "key": "英伟达东南亚停供或影响评级",
+   "title": "英伟达东南亚停供或影响评级",
+   "rating": "A",
+   "score": 75.8,
+   "angle": "拆解英伟达东南亚停供背后的地缘政治博弈，以及这对AI算力供应链和二级市场估值的连锁反应",
+   "hook_reason": "顶级科技巨头突发断供，全球半导体市场震动，影响投资评级",
+   "url": "https://s.weibo.com/weibo?q=英伟达东南亚停供或影响评级",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:英伟达东南亚停供或影响评级"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 7
+ "a_pushed_window": 8
 }
