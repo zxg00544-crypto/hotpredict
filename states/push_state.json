@@ -20693,19 +20693,6 @@
    "batch_window": 12
   },
   {
-   "key": "a股又爆发",
-   "title": "A股又爆发",
-   "rating": "A",
-   "score": 88.0,
-   "angle": "解析爆发逻辑：是政策利好还是资金博弈？散户该追涨还是避坑？",
-   "hook_reason": "A股突发异动，股民焦虑与狂欢交织，强情绪驱动点击",
-   "url": "https://s.weibo.com/weibo?q=A股又爆发",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:a股又爆发",
-   "batch_window": 14
-  },
-  {
    "key": "中央汇金平准基金",
    "title": "中央汇金 平准基金",
    "rating": "A",
@@ -20977,6 +20964,19 @@
    "breaking": true,
    "event_id": "e:creditcardskimmingscriptsusingwebrtcfoun",
    "batch_window": 2
+  },
+  {
+   "key": "convexskillssendtheusersappideatd3825e6b",
+   "title": "Convex skills send the user's app idea to a remote server without telling them",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "拆解 Convex 技能包的隐蔽数据流，探讨 AI Agent 时代用户隐私边界与控制权争夺。",
+   "hook_reason": "AI 助手暗中上传用户创意，隐私与信任双重崩塌。",
+   "url": "https://github.com/convex/convex-backend-skill/issues/64",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:convexskillssendtheusersappideatoaremote",
+   "batch_window": 4
   }
  ],
  "pushed": [
@@ -22910,7 +22910,8 @@
   "多平台已下架纸质短剧",
   "海康威视回应965新规不属实",
   "科创板一天收复全年跌幅",
-  "a股科技股全面爆发原因"
+  "a股科技股全面爆发原因",
+  "a股又爆发"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24780,7 +24781,8 @@
   "e:多平台已下架纸质短剧": "多平台已下架纸质短剧",
   "e:海康威视回应965新规不属实": "海康威视回应965新规不属实",
   "e:科创板一天收复全年跌幅": "科创板一天收复全年跌幅",
-  "e:a股科技股全面爆发原因": "A股科技股全面爆发原因"
+  "e:a股科技股全面爆发原因": "A股科技股全面爆发原因",
+  "e:a股又爆发": "A股又爆发"
  },
  "a_seen": {
   "10万起存的大额存单要来了": {
@@ -24842,8 +24844,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:creditcardskimmingscriptsusingwebrtcfoun"
+  },
+  "convexskillssendtheusersappideatd3825e6b": {
+   "key": "convexskillssendtheusersappideatd3825e6b",
+   "title": "Convex skills send the user's app idea to a remote server without telling them",
+   "rating": "A",
+   "score": 76.5,
+   "angle": "拆解 Convex 技能包的隐蔽数据流，探讨 AI Agent 时代用户隐私边界与控制权争夺。",
+   "hook_reason": "AI 助手暗中上传用户创意，隐私与信任双重崩塌。",
+   "url": "https://github.com/convex/convex-backend-skill/issues/64",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:convexskillssendtheusersappideatoaremote"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 3
+ "a_pushed_window": 4
 }
