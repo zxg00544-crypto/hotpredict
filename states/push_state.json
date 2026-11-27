@@ -20927,19 +20927,6 @@
    "batch_window": 20
   },
   {
-   "key": "科创板一天收复全年跌幅",
-   "title": "科创板一天收复全年跌幅",
-   "rating": "A",
-   "score": 89.0,
-   "angle": "深度复盘驱动科创板V型反转的底层逻辑：是政策利好还是资金博弈？",
-   "hook_reason": "单日逆转全年跌幅，打破投资者悲观预期，情绪强烈",
-   "url": "https://s.weibo.com/weibo?q=科创板一天收复全年跌幅",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:科创板一天收复全年跌幅",
-   "batch_window": 21
-  },
-  {
    "key": "请所有股民重视a股今天的大涨",
    "title": "“请所有股民 重视A股今天的大涨”",
    "rating": "A",
@@ -20977,6 +20964,19 @@
    "breaking": true,
    "event_id": "e:a股大涨国家队稳市加力",
    "batch_window": 23
+  },
+  {
+   "key": "firstimagesoftheimpactofdartaste9230f1e2",
+   "title": "First images of the impact of DART asteroid deflection experiment",
+   "rating": "A",
+   "score": 62.72,
+   "angle": "从DART实验到HERA影像，解读人类首次太空防御工程的里程碑意义",
+   "hook_reason": "人类首次操控小行星成功，硬核科幻变现实",
+   "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:firstimagesoftheimpactofdartasteroiddefl",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -22908,7 +22908,8 @@
   "武契奇称一旦绝食将不接受救治",
   "鉴定ai在物理领域的新成就",
   "多平台已下架纸质短剧",
-  "海康威视回应965新规不属实"
+  "海康威视回应965新规不属实",
+  "科创板一天收复全年跌幅"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24776,7 +24777,8 @@
   "e:武契奇称一旦绝食将不接受救治": "武契奇称一旦绝食将不接受救治",
   "e:鉴定ai在物理领域的新成就": "鉴定AI在物理领域的新成就",
   "e:多平台已下架纸质短剧": "多平台已下架纸质短剧",
-  "e:海康威视回应965新规不属实": "海康威视回应965新规不属实"
+  "e:海康威视回应965新规不属实": "海康威视回应965新规不属实",
+  "e:科创板一天收复全年跌幅": "科创板一天收复全年跌幅"
  },
  "a_seen": {
   "10万起存的大额存单要来了": {
@@ -24795,9 +24797,9 @@
    "key": "董明珠现场发火魏建军解围",
    "title": "董明珠现场发火魏建军解围",
    "rating": "A",
-   "score": 45.3,
-   "angle": "解析董明珠情绪失控背后的管理逻辑，对比魏建军高情商危机公关技巧",
-   "hook_reason": "商界女强人当场发火，对手高情商救场，戏剧张力拉满",
+   "score": 82.0,
+   "angle": "深度拆解董明珠情绪失控背后的格力危机，及魏建军‘解围’中展现的制造业大佬格局与差异化竞争",
+   "hook_reason": "商战女强人罕见失态，对手高情商救场，戏剧冲突拉满",
    "url": "https://s.weibo.com/weibo?q=董明珠现场发火魏建军解围",
    "track": "大咖发言",
    "breaking": true,
@@ -24820,14 +24822,26 @@
    "title": "A股迎史诗级暴涨",
    "rating": "A",
    "score": 44.5,
-   "angle": "复盘暴涨底层逻辑，拆解增量资金来源，预判短线诱多或趋势反转。",
-   "hook_reason": "史诗级暴涨打破常规，散户与机构情绪极致拉扯，全民关注。",
+   "angle": "解析暴涨背后的政策逻辑与散户心态，预警潜在反转风险",
+   "hook_reason": "A股史诗级暴涨，全民关注财富效应，冲突性强",
    "url": "https://s.weibo.com/weibo?q=A股迎史诗级暴涨",
    "track": "财经",
    "breaking": true,
    "event_id": "e:a股史诗级暴涨原因"
+  },
+  "firstimagesoftheimpactofdartaste9230f1e2": {
+   "key": "firstimagesoftheimpactofdartaste9230f1e2",
+   "title": "First images of the impact of DART asteroid deflection experiment",
+   "rating": "A",
+   "score": 62.72,
+   "angle": "从DART实验到HERA影像，解读人类首次太空防御工程的里程碑意义",
+   "hook_reason": "人类首次操控小行星成功，硬核科幻变现实",
+   "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:firstimagesoftheimpactofdartasteroiddefl"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
