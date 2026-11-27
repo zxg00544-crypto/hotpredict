@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "daily_done": false,
+ "daily_done": true,
  "alert_date": "2026-11-27",
  "a_pending": [
   {
@@ -20901,19 +20901,6 @@
    "batch_window": 18
   },
   {
-   "key": "华为matex8首发评测",
-   "title": "华为MateX8首发评测",
-   "rating": "A",
-   "score": 90.0,
-   "angle": "首发真机体验：MateX8 铰链与续航实测，对比上代升级是否值得换？",
-   "hook_reason": "华为最新折叠屏首发实测，打破性能认知，数码党必看",
-   "url": "https://s.weibo.com/weibo?q=华为MateX8首发评测",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:华为matex8首发评测",
-   "batch_window": 19
-  },
-  {
    "key": "法医刘良自曝被悬赏",
    "title": "法医刘良自曝被悬赏",
    "rating": "A",
@@ -20951,6 +20938,45 @@
    "breaking": true,
    "event_id": "e:大疆竞业协议范围引争议",
    "batch_window": 20
+  },
+  {
+   "key": "载一车便衣民警把自己送进派出所",
+   "title": "载一车便衣民警把自己送进派出所",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "职场错位管理：当执法者成为被执法对象，组织内控的灰色地带",
+   "hook_reason": "荒诞现实感拉满，民警抓民警引好奇，冲突极强",
+   "url": "https://www.baidu.com/s?wd=%E8%BD%BD%E4%B8%80%E8%BD%A6%E4%BE%BF%E8%A1%A3%E6%B0%91%E8%AD%A6%E6%8A%8A%E8%87%AA%E5%B7%B1%E9%80%81%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:载一车便衣民警把自己送进派出所",
+   "batch_window": 21
+  },
+  {
+   "key": "梅毒阳性育儿嫂手渗血时仍护理婴儿",
+   "title": "梅毒阳性育儿嫂手渗血时仍护理婴儿",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "揭秘育儿嫂入职体检漏洞：为何高危阳性者能进家门？附避坑自查清单",
+   "hook_reason": "婴儿安全红线被击穿，家长恐慌与对黑产的愤怒达到顶峰",
+   "url": "https://s.weibo.com/weibo?q=梅毒阳性育儿嫂手渗血时仍护理婴儿",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:梅毒阳性育儿嫂手渗血时仍护理婴儿",
+   "batch_window": 21
+  },
+  {
+   "key": "科创板一天收复全年跌幅",
+   "title": "科创板一天收复全年跌幅",
+   "rating": "A",
+   "score": 89.0,
+   "angle": "深度复盘驱动科创板V型反转的底层逻辑：是政策利好还是资金博弈？",
+   "hook_reason": "单日逆转全年跌幅，打破投资者悲观预期，情绪强烈",
+   "url": "https://s.weibo.com/weibo?q=科创板一天收复全年跌幅",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:科创板一天收复全年跌幅",
+   "batch_window": 21
   }
  ],
  "pushed": [
@@ -22867,7 +22893,8 @@
   "大疆竞业协议",
   "宝宝带壳出生医生秒变开壳人",
   "海康威视午休砍半小时",
-  "a股史诗级暴涨原因"
+  "a股史诗级暴涨原因",
+  "华为matex8首发评测"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24720,7 +24747,8 @@
   "e:大疆竞业协议": "大疆 竞业协议",
   "e:宝宝带壳出生医生秒变开壳人": "宝宝带壳出生医生秒变开壳人",
   "e:海康威视午休砍半小时": "海康威视午休砍半小时",
-  "e:a股史诗级暴涨原因": "A股史诗级暴涨原因"
+  "e:a股史诗级暴涨原因": "A股史诗级暴涨原因",
+  "e:华为matex8首发评测": "华为MateX8首发评测"
  },
  "a_seen": {
   "英伟达暂停向东南亚四国交付芯片": {
@@ -25267,15 +25295,51 @@
    "key": "大疆竞业协议范围引争议",
    "title": "大疆竞业协议范围引争议",
    "rating": "A",
-   "score": 44.5,
-   "angle": "解析大疆竞业协议边界，探讨科技大厂人才留用与劳动权益的博弈",
-   "hook_reason": "大疆竞业协议争议，打工人共鸣强，科技大厂管理痛点",
+   "score": 67.32,
+   "angle": "解析大疆竞业协议争议，揭秘头部科技企业如何限制人才流动及员工维权路径",
+   "hook_reason": "大疆员工离职成本高，职场人极度关注竞业协议边界",
    "url": "https://s.weibo.com/weibo?q=大疆竞业协议范围引争议",
    "track": "科技",
    "breaking": true,
    "event_id": "e:大疆竞业协议范围引争议"
+  },
+  "载一车便衣民警把自己送进派出所": {
+   "key": "载一车便衣民警把自己送进派出所",
+   "title": "载一车便衣民警把自己送进派出所",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "职场错位管理：当执法者成为被执法对象，组织内控的灰色地带",
+   "hook_reason": "荒诞现实感拉满，民警抓民警引好奇，冲突极强",
+   "url": "https://www.baidu.com/s?wd=%E8%BD%BD%E4%B8%80%E8%BD%A6%E4%BE%BF%E8%A1%A3%E6%B0%91%E8%AD%A6%E6%8A%8A%E8%87%AA%E5%B7%B1%E9%80%81%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:载一车便衣民警把自己送进派出所"
+  },
+  "梅毒阳性育儿嫂手渗血时仍护理婴儿": {
+   "key": "梅毒阳性育儿嫂手渗血时仍护理婴儿",
+   "title": "梅毒阳性育儿嫂手渗血时仍护理婴儿",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "揭秘育儿嫂入职体检漏洞：为何高危阳性者能进家门？附避坑自查清单",
+   "hook_reason": "婴儿安全红线被击穿，家长恐慌与对黑产的愤怒达到顶峰",
+   "url": "https://s.weibo.com/weibo?q=梅毒阳性育儿嫂手渗血时仍护理婴儿",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:梅毒阳性育儿嫂手渗血时仍护理婴儿"
+  },
+  "科创板一天收复全年跌幅": {
+   "key": "科创板一天收复全年跌幅",
+   "title": "科创板一天收复全年跌幅",
+   "rating": "A",
+   "score": 89.0,
+   "angle": "深度复盘驱动科创板V型反转的底层逻辑：是政策利好还是资金博弈？",
+   "hook_reason": "单日逆转全年跌幅，打破投资者悲观预期，情绪强烈",
+   "url": "https://s.weibo.com/weibo?q=科创板一天收复全年跌幅",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:科创板一天收复全年跌幅"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 20
+ "a_pushed_window": 21
 }
