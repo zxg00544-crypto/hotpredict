@@ -20641,19 +20641,6 @@
    "batch_window": 8
   },
   {
-   "key": "患者用豆包质疑医生诊断",
-   "title": "患者用豆包质疑医生诊断",
-   "rating": "A",
-   "score": 87.0,
-   "angle": "剖析AI医疗幻觉风险，探讨人机协作边界",
-   "hook_reason": "AI跨界医疗，人机诊断权威之争",
-   "url": "https://s.weibo.com/weibo?q=患者用豆包质疑医生诊断",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:患者用豆包质疑医生诊断",
-   "batch_window": 10
-  },
-  {
    "key": "a股明年或迎春天",
    "title": "A股明年或迎春天",
    "rating": "A",
@@ -20977,6 +20964,19 @@
    "breaking": true,
    "event_id": "e:convexskillssendtheusersappideatoaremote",
    "batch_window": 4
+  },
+  {
+   "key": "a股放量暴涨国家队稳市",
+   "title": "A股放量暴涨 国家队稳市",
+   "rating": "A",
+   "score": 43.0,
+   "angle": "解析放量信号：国家队入场意图与散户情绪共振，判断是否真反转",
+   "hook_reason": "散户资金暴涨，国家队出手，关乎钱袋子",
+   "url": "https://s.weibo.com/weibo?q=A股放量暴涨 国家队稳市",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股放量暴涨国家队稳市",
+   "batch_window": 5
   }
  ],
  "pushed": [
@@ -22911,7 +22911,8 @@
   "海康威视回应965新规不属实",
   "科创板一天收复全年跌幅",
   "a股科技股全面爆发原因",
-  "a股又爆发"
+  "a股又爆发",
+  "患者用豆包质疑医生诊断"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24782,7 +24783,8 @@
   "e:海康威视回应965新规不属实": "海康威视回应965新规不属实",
   "e:科创板一天收复全年跌幅": "科创板一天收复全年跌幅",
   "e:a股科技股全面爆发原因": "A股科技股全面爆发原因",
-  "e:a股又爆发": "A股又爆发"
+  "e:a股又爆发": "A股又爆发",
+  "e:患者用豆包质疑医生诊断": "患者用豆包质疑医生诊断"
  },
  "a_seen": {
   "10万起存的大额存单要来了": {
@@ -24856,8 +24858,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:convexskillssendtheusersappideatoaremote"
+  },
+  "a股放量暴涨国家队稳市": {
+   "key": "a股放量暴涨国家队稳市",
+   "title": "A股放量暴涨 国家队稳市",
+   "rating": "A",
+   "score": 43.0,
+   "angle": "解析放量信号：国家队入场意图与散户情绪共振，判断是否真反转",
+   "hook_reason": "散户资金暴涨，国家队出手，关乎钱袋子",
+   "url": "https://s.weibo.com/weibo?q=A股放量暴涨 国家队稳市",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股放量暴涨国家队稳市"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 4
+ "a_pushed_window": 5
 }
