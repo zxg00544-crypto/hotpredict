@@ -20693,19 +20693,6 @@
    "batch_window": 12
   },
   {
-   "key": "被大疆竞业范围震撼到了",
-   "title": "被大疆竞业范围震撼到了",
-   "rating": "A",
-   "score": 90.5,
-   "angle": "解析大疆竞业条款细节，探讨科技巨头人才争夺战中的法律边界与职场博弈",
-   "hook_reason": "大疆竞业协议广到离谱，打工人狂喜，引发职场共鸣",
-   "url": "https://s.weibo.com/weibo?q=被大疆竞业范围震撼到了",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:被大疆竞业范围震撼到了",
-   "batch_window": 13
-  },
-  {
    "key": "海康威视取消大小周却遭员工抵制",
    "title": "海康威视取消大小周却遭员工抵制",
    "rating": "A",
@@ -20717,6 +20704,32 @@
    "breaking": true,
    "event_id": "e:海康威视取消大小周却遭员工抵制",
    "batch_window": 13
+  },
+  {
+   "key": "a股又爆发",
+   "title": "A股又爆发",
+   "rating": "A",
+   "score": 88.0,
+   "angle": "解析爆发逻辑：是政策利好还是资金博弈？散户该追涨还是避坑？",
+   "hook_reason": "A股突发异动，股民焦虑与狂欢交织，强情绪驱动点击",
+   "url": "https://s.weibo.com/weibo?q=A股又爆发",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股又爆发",
+   "batch_window": 14
+  },
+  {
+   "key": "中央汇金平准基金",
+   "title": "中央汇金 平准基金",
+   "rating": "A",
+   "score": 45.2,
+   "angle": "解读中央汇金设立平准基金的政策意图及对散户的利好影响",
+   "hook_reason": "国家队入场信号，直接影响A股情绪与资金流向",
+   "url": "https://s.weibo.com/weibo?q=中央汇金 平准基金",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:中央汇金平准基金",
+   "batch_window": 14
   }
  ],
  "pushed": [
@@ -22626,7 +22639,8 @@
   "anthropic发行定价83美元超此前发行价区间成迄今全球最大ipo怎么看定价过程与估值",
   "魏建军称汽车贬值速度太离谱",
   "警方回应50余人摘蜜桔仅留下10元",
-  "别把豆包当医生"
+  "别把豆包当医生",
+  "被大疆竞业范围震撼到了"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24472,7 +24486,8 @@
   "e:anthropic发行定价83美元超此前发行价区间成迄今全球最大ipo怎么看定价": "Anthropic 发行定价83美元，超此前发行价区间，成迄今全球最大IPO，怎么看定价过程与估值？",
   "e:魏建军称汽车贬值速度太离谱": "魏建军称汽车贬值速度太离谱",
   "e:50余人摘走数百斤橘子仅留下10元": "警方回应50余人摘蜜桔仅留下10元",
-  "e:别把豆包当医生": "别把豆包当医生"
+  "e:别把豆包当医生": "别把豆包当医生",
+  "e:被大疆竞业范围震撼到了": "被大疆竞业范围震撼到了"
  },
  "a_seen": {
   "英伟达暂停向东南亚四国交付芯片": {
@@ -24666,8 +24681,32 @@
    "track": "社会热点",
    "breaking": true,
    "event_id": "e:蔡磊已进渐冻症终末期"
+  },
+  "a股又爆发": {
+   "key": "a股又爆发",
+   "title": "A股又爆发",
+   "rating": "A",
+   "score": 88.0,
+   "angle": "解析爆发逻辑：是政策利好还是资金博弈？散户该追涨还是避坑？",
+   "hook_reason": "A股突发异动，股民焦虑与狂欢交织，强情绪驱动点击",
+   "url": "https://s.weibo.com/weibo?q=A股又爆发",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股又爆发"
+  },
+  "中央汇金平准基金": {
+   "key": "中央汇金平准基金",
+   "title": "中央汇金 平准基金",
+   "rating": "A",
+   "score": 45.2,
+   "angle": "解读中央汇金设立平准基金的政策意图及对散户的利好影响",
+   "hook_reason": "国家队入场信号，直接影响A股情绪与资金流向",
+   "url": "https://s.weibo.com/weibo?q=中央汇金 平准基金",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:中央汇金平准基金"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 13
+ "a_pushed_window": 14
 }
