@@ -20821,6 +20821,19 @@
    "breaking": true,
    "event_id": "e:易中天暴涨",
    "batch_window": 16
+  },
+  {
+   "key": "海康威视回应965新规不属实",
+   "title": "海康威视回应965新规不属实",
+   "rating": "A",
+   "score": 89.0,
+   "angle": "深度解析海康辟谣背后的舆论博弈与科技行业生存法则",
+   "hook_reason": "大厂辟谣996，职场人身份强相关",
+   "url": "https://s.weibo.com/weibo?q=海康威视回应965新规不属实",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:海康威视回应965新规不属实",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -24877,13 +24890,13 @@
    "key": "a股史诗级暴涨原因",
    "title": "A股史诗级暴涨原因",
    "rating": "A",
-   "score": 90.0,
-   "angle": "复盘暴涨逻辑：政策利好+资金回流，散户如何跟上？",
-   "hook_reason": "A股罕见暴涨，散户疯狂，想知道背后真相",
+   "score": 80.45,
+   "angle": "拆解政策与资金双重共振，预判后市关键支撑点位。",
+   "hook_reason": "大盘暴涨背后逻辑揭秘，关乎钱包，读者急求答案。",
    "url": "https://s.weibo.com/weibo?q=A股史诗级暴涨原因",
    "track": "财经",
    "breaking": true,
-   "event_id": "e:a股史诗级暴涨原因"
+   "event_id": "e:a股再迎奇迹日"
   },
   "董明珠当魏建军面训斥员工": {
    "key": "董明珠当魏建军面训斥员工",
@@ -24908,6 +24921,90 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:易中天暴涨"
+  },
+  "为女友办完后事身亡小伙母亲发声": {
+   "key": "为女友办完后事身亡小伙母亲发声",
+   "title": "为女友办完后事身亡小伙母亲发声",
+   "rating": "A",
+   "score": 90.0,
+   "angle": "聚焦母亲发声细节，探讨当代年轻人‘共生死’的情感极致与孤独感",
+   "hook_reason": "极致情感冲突：女友去世小伙随亡，母亲发声直击生离死别痛点",
+   "url": "https://s.weibo.com/weibo?q=为女友办完后事身亡小伙母亲发声",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:男子为女友母亲养老送终获500万遗产"
+  },
+  "海康威视回应965新规不属实": {
+   "key": "海康威视回应965新规不属实",
+   "title": "海康威视回应965新规不属实",
+   "rating": "A",
+   "score": 89.0,
+   "angle": "深度解析海康辟谣背后的舆论博弈与科技行业生存法则",
+   "hook_reason": "大厂辟谣996，职场人身份强相关",
+   "url": "https://s.weibo.com/weibo?q=海康威视回应965新规不属实",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:海康威视回应965新规不属实"
+  },
+  "a股爆发牛来了吗": {
+   "key": "a股爆发牛来了吗",
+   "title": "A股爆发牛来了吗",
+   "rating": "A",
+   "score": 51.02,
+   "angle": "复盘A股爆发逻辑，理性拆解牛市信号，规避盲目追高风险",
+   "hook_reason": "A股行情剧烈波动，投资者极度关注牛市信号与入场时机",
+   "url": "https://s.weibo.com/weibo?q=A股爆发牛来了吗",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股再迎奇迹日"
+  },
+  "a股迎史诗级暴涨沪深两市成交额重回2万亿创业板指放量大涨超11超400只个股涨停发生了什么": {
+   "key": "a股迎史诗级暴涨沪深两市成交额重回2万亿创业板指放量大涨超11超400只个股涨停发生了什么",
+   "title": "A股迎史诗级暴涨，沪深两市成交额重回2万亿，创业板指放量大涨超11%，超400只个股涨停，发生了什么？",
+   "rating": "A",
+   "score": 50.34,
+   "angle": "复盘本轮暴涨逻辑：政策底vs市场底，2万亿量能背后是散户还是机构资金？",
+   "hook_reason": "史诗级暴涨，2万亿成交，创业板涨11%，超400只涨停，刺激散户情绪",
+   "url": "https://www.zhihu.com/question/2109643924381726663",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股再迎奇迹日"
+  },
+  "a股午后全线爆发": {
+   "key": "a股午后全线爆发",
+   "title": "A股午后全线爆发",
+   "rating": "A",
+   "score": 49.72,
+   "angle": "复盘领涨板块逻辑，判断是脉冲式反弹还是趋势反转，给出散户操作建议。",
+   "hook_reason": "A股午后全线爆发，散户狂喜，财富效应即时显化。",
+   "url": "https://s.weibo.com/weibo?q=A股午后全线爆发",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股再迎奇迹日"
+  },
+  "a股大爆发": {
+   "key": "a股大爆发",
+   "title": "A股大爆发",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "复盘爆发底层逻辑，盘点涨停板块与机构动向",
+   "hook_reason": "突发暴涨，散户钱包直接相关，情绪拉满",
+   "url": "https://www.toutiao.com/trending/7712319974953680950/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股再迎奇迹日"
+  },
+  "爆发a股迎来大反攻": {
+   "key": "爆发a股迎来大反攻",
+   "title": "爆发！A股迎来大反攻",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解析反攻信号：是情绪宣泄还是基本面反转？散户跟车还是观望？",
+   "hook_reason": "大反攻标题自带情绪，股民急于确认是否真反弹",
+   "url": "https://www.baidu.com/s?wd=%E7%88%86%E5%8F%91%EF%BC%81A%E8%82%A1%E8%BF%8E%E6%9D%A5%E5%A4%A7%E5%8F%8D%E6%94%BB&sa=fyb_news&rsv_dl=fyb_news",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:a股再迎奇迹日"
   }
  },
  "breaking_count": 10,
