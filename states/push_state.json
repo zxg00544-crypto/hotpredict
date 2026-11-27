@@ -20641,19 +20641,6 @@
    "batch_window": 6
   },
   {
-   "key": "北大教师右眼被注入工业气体获赔388万",
-   "title": "北大教师右眼被注入工业气体获赔388万",
-   "rating": "A",
-   "score": 78.55,
-   "angle": "深度拆解388万赔偿的法律依据，揭秘中国人身损害赔偿的计算公式与维权底线",
-   "hook_reason": "388万天价赔偿+工业气体入眼，极致冲突与金钱震撼",
-   "url": "https://s.weibo.com/weibo?q=北大教师右眼被注入工业气体获赔388万",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:北大教师右眼被注入工业气体获赔388万",
-   "batch_window": 7
-  },
-  {
    "key": "英伟达东南亚停供或影响评级",
    "title": "英伟达东南亚停供或影响评级",
    "rating": "A",
@@ -22569,7 +22556,8 @@
   "itouredunitreesfactoryimmorebullishonthewest",
   "gemini4hydrogen",
   "快递员挣3毛找回包裹赔138还遭投诉",
-  "上海百亿养老集资骗局股东潜逃海外"
+  "上海百亿养老集资骗局股东潜逃海外",
+  "北大教师右眼被注入工业气体获赔388万"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24410,7 +24398,8 @@
   "e:itouredunitreesfactoryimmorebullishonthe": "I Toured Unitree's Factory. I'm More Bullish on the West",
   "e:gemini4hydrogen": "Gemini 4 Hydrogen",
   "e:快递员挣3毛找回包裹赔138还遭投诉": "快递员挣3毛找回包裹赔13.8还遭投诉",
-  "e:上海百亿养老集资骗局股东潜逃海外": "上海百亿养老集资骗局股东潜逃海外"
+  "e:上海百亿养老集资骗局股东潜逃海外": "上海百亿养老集资骗局股东潜逃海外",
+  "e:北大教师右眼被注入工业气体获赔388万": "北大教师右眼被注入工业气体获赔388万"
  },
  "a_seen": {
   "英伟达暂停向东南亚四国交付芯片": {
@@ -24487,5 +24476,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 8
+ "a_pushed_window": 9
 }
