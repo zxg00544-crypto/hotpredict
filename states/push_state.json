@@ -18444,19 +18444,6 @@
    "batch_window": 11
   },
   {
-   "key": "anthropic发行定价83美元超此前发行价区间成迄今全球最大ipo怎么看定价过程与估值",
-   "title": "Anthropic 发行定价83美元，超此前发行价区间，成迄今全球最大IPO，怎么看定价过程与估值？",
-   "rating": "A",
-   "score": 77.4,
-   "angle": "拆解Anthropic高溢价IPO逻辑：是技术护城河还是资本泡沫？对二级市场科技股估值体系的重塑影响。",
-   "hook_reason": "全球最大IPO破发预期？揭秘83美元定价背后的疯狂博弈与估值泡沫。",
-   "url": "https://www.zhihu.com/question/2106656189337395706",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:anthropic发行定价83美元超此前发行价区间成迄今全球最大ipo怎么看定价",
-   "batch_window": 12
-  },
-  {
    "key": "马斯克称是中国的超级粉丝",
    "title": "马斯克称是中国的超级粉丝",
    "rating": "A",
@@ -20652,6 +20639,32 @@
    "breaking": true,
    "event_id": "e:英伟达东南亚停供或影响评级",
    "batch_window": 8
+  },
+  {
+   "key": "魏建军称汽车贬值速度太离谱",
+   "title": "魏建军称汽车贬值速度太离谱",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "魏建军怒斥贬值乱象，揭秘车企利润与二手残值博弈",
+   "hook_reason": "大佬痛斥贬值离谱，车主焦虑拉满",
+   "url": "https://www.toutiao.com/trending/7712355734524133418/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:魏建军称汽车贬值速度太离谱",
+   "batch_window": 10
+  },
+  {
+   "key": "患者用豆包质疑医生诊断",
+   "title": "患者用豆包质疑医生诊断",
+   "rating": "A",
+   "score": 87.0,
+   "angle": "剖析AI医疗幻觉风险，探讨人机协作边界",
+   "hook_reason": "AI跨界医疗，人机诊断权威之争",
+   "url": "https://s.weibo.com/weibo?q=患者用豆包质疑医生诊断",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:患者用豆包质疑医生诊断",
+   "batch_window": 10
   }
  ],
  "pushed": [
@@ -22557,7 +22570,8 @@
   "gemini4hydrogen",
   "快递员挣3毛找回包裹赔138还遭投诉",
   "上海百亿养老集资骗局股东潜逃海外",
-  "北大教师右眼被注入工业气体获赔388万"
+  "北大教师右眼被注入工业气体获赔388万",
+  "anthropic发行定价83美元超此前发行价区间成迄今全球最大ipo怎么看定价过程与估值"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24399,7 +24413,8 @@
   "e:gemini4hydrogen": "Gemini 4 Hydrogen",
   "e:快递员挣3毛找回包裹赔138还遭投诉": "快递员挣3毛找回包裹赔13.8还遭投诉",
   "e:上海百亿养老集资骗局股东潜逃海外": "上海百亿养老集资骗局股东潜逃海外",
-  "e:北大教师右眼被注入工业气体获赔388万": "北大教师右眼被注入工业气体获赔388万"
+  "e:北大教师右眼被注入工业气体获赔388万": "北大教师右眼被注入工业气体获赔388万",
+  "e:anthropic发行定价83美元超此前发行价区间成迄今全球最大ipo怎么看定价": "Anthropic 发行定价83美元，超此前发行价区间，成迄今全球最大IPO，怎么看定价过程与估值？"
  },
  "a_seen": {
   "英伟达暂停向东南亚四国交付芯片": {
@@ -24473,8 +24488,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:英伟达东南亚停供或影响评级"
+  },
+  "魏建军称汽车贬值速度太离谱": {
+   "key": "魏建军称汽车贬值速度太离谱",
+   "title": "魏建军称汽车贬值速度太离谱",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "魏建军怒斥贬值乱象，揭秘车企利润与二手残值博弈",
+   "hook_reason": "大佬痛斥贬值离谱，车主焦虑拉满",
+   "url": "https://www.toutiao.com/trending/7712355734524133418/",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:魏建军称汽车贬值速度太离谱"
+  },
+  "患者用豆包质疑医生诊断": {
+   "key": "患者用豆包质疑医生诊断",
+   "title": "患者用豆包质疑医生诊断",
+   "rating": "A",
+   "score": 87.0,
+   "angle": "剖析AI医疗幻觉风险，探讨人机协作边界",
+   "hook_reason": "AI跨界医疗，人机诊断权威之争",
+   "url": "https://s.weibo.com/weibo?q=患者用豆包质疑医生诊断",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:患者用豆包质疑医生诊断"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 9
+ "a_pushed_window": 10
 }
