@@ -20979,19 +20979,6 @@
    "batch_window": 11
   },
   {
-   "key": "长崎将南京大屠杀篡改为南京事件",
-   "title": "长崎将南京大屠杀篡改为南京事件",
-   "rating": "A",
-   "score": 80.99,
-   "angle": "剖析‘南京事件’称呼背后的历史虚无主义与日本右翼企图，呼吁正视历史真相",
-   "hook_reason": "涉及民族伤痛与历史篡改，情绪浓度极高，易引发强烈共鸣与愤怒",
-   "url": "https://s.weibo.com/weibo?q=长崎将南京大屠杀篡改为南京事件",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:长崎将南京大屠杀篡改为南京事件",
-   "batch_window": 12
-  },
-  {
    "key": "董明珠直播训员工引争议",
    "title": "董明珠直播训员工引争议",
    "rating": "A",
@@ -21172,6 +21159,32 @@
    "breaking": true,
    "event_id": "e:up主称粉丝用ai推进哥德巴赫猜想",
    "batch_window": 1
+  },
+  {
+   "key": "silentlydegradingthemodelscapabilitiesissabotage",
+   "title": "Silently degrading the model's capabilities IS sabotage",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "从T-Square言论切入，剖析AI厂商如何通过暗中降效迫使用户升级，揭示行业道德风险",
+   "hook_reason": "T-Square公开指责模型降效，揭秘AI行业暗战",
+   "url": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:silentlydegradingthemodelscapabilitiesis",
+   "batch_window": 2
+  },
+  {
+   "key": "donaldknuthsuspendserrorbounties580e107a",
+   "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从Knuth停办悬赏切入，分析AI如何污染学术信任及开发者应对策略",
+   "hook_reason": "图灵奖得主停办悬赏，AI垃圾报告泛滥引众怒",
+   "url": "https://cs.stanford.edu/~knuth/moratorium.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:donaldknuthsuspendserrorbountiesduetoani",
+   "batch_window": 2
   }
  ],
  "pushed": [
@@ -23137,7 +23150,8 @@
   "鹿晗红发天神出场",
   "韩国明洞偶遇周也",
   "我军45架艘次军机舰船位台岛周边活动",
-  "178万卖房次日得知拆迁房主反悔"
+  "178万卖房次日得知拆迁房主反悔",
+  "长崎将南京大屠杀篡改为南京事件"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -25039,7 +25053,8 @@
   "e:鹿晗红发天神出场": "鹿晗红发天神出场",
   "e:韩国明洞偶遇周也": "韩国明洞偶遇周也",
   "e:我军45架艘次军机舰船位台岛周边活动": "我军45架艘次军机舰船位台岛周边活动",
-  "e:178万卖房次日得知拆迁房主反悔": "178万卖房次日得知拆迁房主反悔"
+  "e:178万卖房次日得知拆迁房主反悔": "178万卖房次日得知拆迁房主反悔",
+  "e:长崎将南京大屠杀篡改为南京事件": "长崎将南京大屠杀篡改为南京事件"
  },
  "a_seen": {
   "宇树机器人杀进美国达人秀总决赛": {
@@ -25047,8 +25062,8 @@
    "title": "宇树机器人杀进美国达人秀总决赛",
    "rating": "A",
    "score": 43.8,
-   "angle": "从宇树H1登上达人秀决赛切入，拆解中国具身智能如何跨越文化壁垒，定义全球科技新叙事。",
-   "hook_reason": "中国机器人首登美国顶流综艺，打破刻板印象，民族自豪与科技震撼并存",
+   "angle": "宇树机器人凭硬实力闯美，折射中国智造出海新范式",
+   "hook_reason": "中国科技硬刚美国国民级舞台，民族自豪感拉满",
    "url": "https://s.weibo.com/weibo?q=宇树机器人杀进美国达人秀总决赛",
    "track": "科技",
    "breaking": true,
@@ -25065,8 +25080,32 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:up主称粉丝用ai推进哥德巴赫猜想"
+  },
+  "silentlydegradingthemodelscapabilitiesissabotage": {
+   "key": "silentlydegradingthemodelscapabilitiesissabotage",
+   "title": "Silently degrading the model's capabilities IS sabotage",
+   "rating": "A",
+   "score": 77.5,
+   "angle": "从T-Square言论切入，剖析AI厂商如何通过暗中降效迫使用户升级，揭示行业道德风险",
+   "hook_reason": "T-Square公开指责模型降效，揭秘AI行业暗战",
+   "url": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:silentlydegradingthemodelscapabilitiesis"
+  },
+  "donaldknuthsuspendserrorbounties580e107a": {
+   "key": "donaldknuthsuspendserrorbounties580e107a",
+   "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+   "rating": "A",
+   "score": 40.9,
+   "angle": "从Knuth停办悬赏切入，分析AI如何污染学术信任及开发者应对策略",
+   "hook_reason": "图灵奖得主停办悬赏，AI垃圾报告泛滥引众怒",
+   "url": "https://cs.stanford.edu/~knuth/moratorium.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:donaldknuthsuspendserrorbountiesduetoani"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 1
+ "a_pushed_window": 2
 }
