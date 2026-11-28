@@ -20979,19 +20979,6 @@
    "batch_window": 8
   },
   {
-   "key": "googlesdeepcrossattentionachieve040e149b",
-   "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-   "rating": "A",
-   "score": 86.0,
-   "angle": "深挖DeepCrossAttention技术原理，解析其对AI算力瓶颈及推理成本的颠覆性影响",
-   "hook_reason": "Transformer提速3倍，大模型推理成本大降，技术突破",
-   "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:googlesdeepcrossattentionachievescompara",
-   "batch_window": 9
-  },
-  {
    "key": "董明珠让拿手机员工没动她急了",
    "title": "董明珠让拿手机员工没动她急了",
    "rating": "A",
@@ -21029,6 +21016,58 @@
    "breaking": true,
    "event_id": "e:长崎将南京大屠杀篡改为南京事件",
    "batch_window": 12
+  },
+  {
+   "key": "教育系统内鬼出卖35万学生信息",
+   "title": "教育系统内鬼出卖3.5万学生信息",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "揭露教育数据黑产链条，警示个人信息保护漏洞。",
+   "hook_reason": "3.5万人信息泄露，触碰隐私底线，引发全民愤怒与恐惧。",
+   "url": "https://s.weibo.com/weibo?q=教育系统内鬼出卖3.5万学生信息",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:教育系统内鬼出卖35万学生信息",
+   "batch_window": 13
+  },
+  {
+   "key": "歼35a落地珠海将首次静态展示",
+   "title": "歼-35A落地珠海 将首次静态展示",
+   "rating": "A",
+   "score": 87.95,
+   "angle": "聚焦歼-35A首秀的技术突破与出口潜力，解读中国军工科技自信",
+   "hook_reason": "尖端国防重器首次亮相，民族自豪感拉满，硬核科技圈层必争",
+   "url": "https://search.bilibili.com/all?keyword=歼35A落地珠海将首次静态展示",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:歼35a落地珠海将首次静态展示",
+   "batch_window": 13
+  },
+  {
+   "key": "金饰克价涨到1093元",
+   "title": "金饰克价涨到1093元",
+   "rating": "A",
+   "score": 85.5,
+   "angle": "深度解析金价飙升背后的通胀对冲逻辑及普通人的资产配置建议",
+   "hook_reason": "金价破1093元，通胀焦虑下的财富风向标",
+   "url": "https://s.weibo.com/weibo?q=金饰克价涨到1093元",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:金饰克价涨到1093元",
+   "batch_window": 13
+  },
+  {
+   "key": "178万卖房次日得知拆迁房主反悔",
+   "title": "178万卖房次日得知拆迁房主反悔",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "聚焦“合同效力”与“情法博弈”，解析买家维权困境与法律底线",
+   "hook_reason": "卖房次日反悔，巨额损失与合同效力冲突，情绪强烈",
+   "url": "https://s.weibo.com/weibo?q=178万卖房次日得知拆迁房主反悔",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:178万卖房次日得知拆迁房主反悔",
+   "batch_window": 13
   }
  ],
  "pushed": [
@@ -22971,7 +23010,8 @@
   "a股大爆发日",
   "冯骥长文谈ai时代人怎么办",
   "魏建军回应从第一掉到第九",
-  "泄露身份证后四位有多危险"
+  "泄露身份证后四位有多危险",
+  "googlesdeepcrossattentionachieve040e149b"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24850,7 +24890,8 @@
   "e:a股大爆发日": "A股大爆发日",
   "e:冯骥长文谈ai时代人怎么办": "冯骥长文谈AI时代人怎么办",
   "e:魏建军回应从第一掉到第九": "魏建军回应“从第一掉到第九”",
-  "e:泄露身份证后四位有多危险": "泄露身份证后四位有多危险"
+  "e:泄露身份证后四位有多危险": "泄露身份证后四位有多危险",
+  "e:googlesdeepcrossattentionachievescompara": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster"
  },
  "a_seen": {
   "10万起存的大额存单要来了": {
@@ -25104,8 +25145,56 @@
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:魏建军回应从第一掉到第九"
+  },
+  "教育系统内鬼出卖35万学生信息": {
+   "key": "教育系统内鬼出卖35万学生信息",
+   "title": "教育系统内鬼出卖3.5万学生信息",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "揭露教育数据黑产链条，警示个人信息保护漏洞。",
+   "hook_reason": "3.5万人信息泄露，触碰隐私底线，引发全民愤怒与恐惧。",
+   "url": "https://s.weibo.com/weibo?q=教育系统内鬼出卖3.5万学生信息",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:教育系统内鬼出卖35万学生信息"
+  },
+  "歼35a落地珠海将首次静态展示": {
+   "key": "歼35a落地珠海将首次静态展示",
+   "title": "歼-35A落地珠海 将首次静态展示",
+   "rating": "A",
+   "score": 87.95,
+   "angle": "聚焦歼-35A首秀的技术突破与出口潜力，解读中国军工科技自信",
+   "hook_reason": "尖端国防重器首次亮相，民族自豪感拉满，硬核科技圈层必争",
+   "url": "https://search.bilibili.com/all?keyword=歼35A落地珠海将首次静态展示",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:歼35a落地珠海将首次静态展示"
+  },
+  "金饰克价涨到1093元": {
+   "key": "金饰克价涨到1093元",
+   "title": "金饰克价涨到1093元",
+   "rating": "A",
+   "score": 85.5,
+   "angle": "深度解析金价飙升背后的通胀对冲逻辑及普通人的资产配置建议",
+   "hook_reason": "金价破1093元，通胀焦虑下的财富风向标",
+   "url": "https://s.weibo.com/weibo?q=金饰克价涨到1093元",
+   "track": "财经",
+   "breaking": true,
+   "event_id": "e:金饰克价涨到1093元"
+  },
+  "178万卖房次日得知拆迁房主反悔": {
+   "key": "178万卖房次日得知拆迁房主反悔",
+   "title": "178万卖房次日得知拆迁房主反悔",
+   "rating": "A",
+   "score": 82.0,
+   "angle": "聚焦“合同效力”与“情法博弈”，解析买家维权困境与法律底线",
+   "hook_reason": "卖房次日反悔，巨额损失与合同效力冲突，情绪强烈",
+   "url": "https://s.weibo.com/weibo?q=178万卖房次日得知拆迁房主反悔",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:178万卖房次日得知拆迁房主反悔"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 12
+ "a_pushed_window": 13
 }
