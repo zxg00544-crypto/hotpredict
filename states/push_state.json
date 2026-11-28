@@ -21081,19 +21081,6 @@
    "breaking": true,
    "event_id": "e:消息称谷歌gemini4基准团队11人同日被解雇举报工程师称基准分数系热交换伪造",
    "batch_window": 15
-  },
-  {
-   "key": "澳门居民珠海养老每月补5000元",
-   "title": "澳门居民珠海养老每月补5000元",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "探讨大湾区融合背景下的政策红利，分析内地居民对“跨境养老”的心理接受度与政策博弈。",
-   "hook_reason": "澳门人珠海养老，每月补5000，引发内地居民强烈心理落差。",
-   "url": "https://www.toutiao.com/trending/7713008445921738778/",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:澳门居民珠海养老每月补5000元",
-   "batch_window": 16
   }
  ],
  "pushed": [
@@ -23040,7 +23027,8 @@
   "googlesdeepcrossattentionachieve040e149b",
   "教育系统内鬼出卖35万学生信息",
   "歼35a落地珠海将首次静态展示",
-  "金饰克价涨到1093元"
+  "金饰克价涨到1093元",
+  "澳门居民珠海养老每月补5000元"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24923,7 +24911,8 @@
   "e:googlesdeepcrossattentionachievescompara": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
   "e:教育系统内鬼出卖35万学生信息": "教育系统内鬼出卖3.5万学生信息",
   "e:歼35a落地珠海将首次静态展示": "歼-35A落地珠海 将首次静态展示",
-  "e:金饰克价涨到1093元": "金饰克价涨到1093元"
+  "e:金饰克价涨到1093元": "金饰克价涨到1093元",
+  "e:澳门居民珠海养老每月补5000元": "澳门居民珠海养老每月补5000元"
  },
  "a_seen": {
   "10万起存的大额存单要来了": {
@@ -25288,5 +25277,5 @@
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 16
+ "a_pushed_window": 17
 }
