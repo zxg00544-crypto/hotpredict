@@ -21122,19 +21122,6 @@
    "batch_window": 21
   },
   {
-   "key": "航天员返航为何要等待返回窗口",
-   "title": "航天员返航为何要等待返回窗口",
-   "rating": "A",
-   "score": 92.0,
-   "angle": "科普返航窗口期的轨道力学难点，解析中国航天在安全与效率间的精准平衡",
-   "hook_reason": "揭秘航天返航背后的硬核科学逻辑与极致安全考量",
-   "url": "https://www.toutiao.com/trending/7713204198707301898/",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:航天员返航为何要等待返回窗口",
-   "batch_window": 22
-  },
-  {
    "key": "黄仁勋回归背后的利益链条",
    "title": "黄仁勋回归背后的利益链条",
    "rating": "A",
@@ -21146,6 +21133,45 @@
    "breaking": true,
    "event_id": "e:黄仁勋回归背后的利益链条",
    "batch_window": 22
+  },
+  {
+   "key": "我军45架艘次军机舰船位台岛周边活动",
+   "title": "我军45架艘次军机舰船位台岛周边活动",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "从海空力量部署频次切入，解读当前台海局势下的战略威慑逻辑。",
+   "hook_reason": "突发军事动态，涉及地缘安全与民族情绪，关注度极高。",
+   "url": "https://www.toutiao.com/trending/7713080906977886746/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:我军45架艘次军机舰船位台岛周边活动",
+   "batch_window": 23
+  },
+  {
+   "key": "李开复黄仁勋曾到deepseek请教",
+   "title": "李开复：黄仁勋曾到DeepSeek请教",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "解读李开复言论背后的行业风向标意义，探讨AI巨头间的知识流动与权力关系重构",
+   "hook_reason": "大佬跨界拜师，打破科技圈阶层想象，反差感拉满",
+   "url": "https://finance.sina.cn/7x24/2026-11-28/detail-inkaifyu7121958.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:李开复黄仁勋曾到deepseek请教",
+   "batch_window": 23
+  },
+  {
+   "key": "华为行芯科技",
+   "title": "华为 行芯科技",
+   "rating": "A",
+   "score": 43.05,
+   "angle": "深度拆解“行芯科技”在华为智能汽车生态中的角色：是车规级MCU补位者，还是AI算力新分支？",
+   "hook_reason": "华为系新科企登场，芯片/车规自研核心悬念",
+   "url": "https://s.weibo.com/weibo?q=华为 行芯科技",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为行芯科技",
+   "batch_window": 23
   }
  ],
  "pushed": [
@@ -23098,7 +23124,8 @@
   "司机捡手机要100元辛苦费乘客报警",
   "广州车展小米小鹏面对面",
   "中国首位太空常住户",
-  "大额存单新规2027年3月起施行"
+  "大额存单新规2027年3月起施行",
+  "航天员返航为何要等待返回窗口"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24987,7 +25014,8 @@
   "e:司机捡手机要100元辛苦费乘客报警": "司机捡手机要100元辛苦费 乘客报警",
   "e:广州车展小米小鹏面对面": "广州车展小米小鹏面对面",
   "e:中国首位太空常住户": "中国首位太空常住户",
-  "e:大额存单新规2027年3月起施行": "大额存单新规2027年3月起施行"
+  "e:大额存单新规2027年3月起施行": "大额存单新规2027年3月起施行",
+  "e:航天员返航为何要等待返回窗口": "航天员返航为何要等待返回窗口"
  },
  "a_seen": {
   "10万起存的大额存单要来了": {
@@ -25469,8 +25497,44 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:黄仁勋回归背后的利益链条"
+  },
+  "我军45架艘次军机舰船位台岛周边活动": {
+   "key": "我军45架艘次军机舰船位台岛周边活动",
+   "title": "我军45架艘次军机舰船位台岛周边活动",
+   "rating": "A",
+   "score": 98.0,
+   "angle": "从海空力量部署频次切入，解读当前台海局势下的战略威慑逻辑。",
+   "hook_reason": "突发军事动态，涉及地缘安全与民族情绪，关注度极高。",
+   "url": "https://www.toutiao.com/trending/7713080906977886746/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:我军45架艘次军机舰船位台岛周边活动"
+  },
+  "李开复黄仁勋曾到deepseek请教": {
+   "key": "李开复黄仁勋曾到deepseek请教",
+   "title": "李开复：黄仁勋曾到DeepSeek请教",
+   "rating": "A",
+   "score": 46.85,
+   "angle": "解读李开复言论背后的行业风向标意义，探讨AI巨头间的知识流动与权力关系重构",
+   "hook_reason": "大佬跨界拜师，打破科技圈阶层想象，反差感拉满",
+   "url": "https://finance.sina.cn/7x24/2026-11-28/detail-inkaifyu7121958.d.html",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:李开复黄仁勋曾到deepseek请教"
+  },
+  "华为行芯科技": {
+   "key": "华为行芯科技",
+   "title": "华为 行芯科技",
+   "rating": "A",
+   "score": 43.05,
+   "angle": "深度拆解“行芯科技”在华为智能汽车生态中的角色：是车规级MCU补位者，还是AI算力新分支？",
+   "hook_reason": "华为系新科企登场，芯片/车规自研核心悬念",
+   "url": "https://s.weibo.com/weibo?q=华为 行芯科技",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:华为行芯科技"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 22
+ "a_pushed_window": 23
 }
