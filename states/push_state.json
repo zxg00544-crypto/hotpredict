@@ -25097,11 +25097,11 @@
    "key": "donaldknuthsuspendserrorbounties580e107a",
    "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
    "rating": "A",
-   "score": 40.9,
-   "angle": "从Knuth停办悬赏切入，分析AI如何污染学术信任及开发者应对策略",
-   "hook_reason": "图灵奖得主停办悬赏，AI垃圾报告泛滥引众怒",
+   "score": 76.5,
+   "angle": "解读Knuth暂停悬赏的深层原因：AI泛滥如何冲击学术诚信与知识经济，以及顶级大牛对生成式AI的消极反馈",
+   "hook_reason": "图灵奖得主被AI垃圾报告逼疯，停止悬赏，行业风向标",
    "url": "https://cs.stanford.edu/~knuth/moratorium.html",
-   "track": "大咖发言",
+   "track": "科技",
    "breaking": true,
    "event_id": "e:donaldknuthsuspendserrorbountiesduetoani"
   }
