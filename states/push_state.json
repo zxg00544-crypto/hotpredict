@@ -20693,19 +20693,6 @@
    "batch_window": 14
   },
   {
-   "key": "海康威视取消大小周严格执行八小时工作制部分员工称每月少近三千元公司的工时调整为何员工不买账",
-   "title": "海康威视取消大小周，严格执行八小时工作制，部分员工称每月少近三千元，公司的工时调整为何员工不买账？",
-   "rating": "A",
-   "score": 80.0,
-   "angle": "当“卷”变成法定义务，员工却在算钱：揭秘海康威视取消大小周后的隐性薪资博弈。",
-   "hook_reason": "取消大小周少发三千块，大厂员工因工资少而不买账，直击打工人薪资痛点。",
-   "url": "https://www.zhihu.com/question/2108244269681189697",
-   "track": "社会热点",
-   "breaking": true,
-   "event_id": "e:海康威视取消大小周严格执行八小时工作制部分员工称每月少近三千元公司的工时调整为何",
-   "batch_window": 15
-  },
-  {
    "key": "董明珠当魏建军面训斥员工",
    "title": "董明珠当魏建军面训斥员工",
    "rating": "A",
@@ -21185,6 +21172,19 @@
    "breaking": true,
    "event_id": "e:donaldknuthsuspendserrorbountiesduetoani",
    "batch_window": 2
+  },
+  {
+   "key": "美国总统特朗普美国证券交易委员会将很快强制要求使用超级智能si这个术语",
+   "title": "美国总统特朗普：美国证券交易委员会将很快强制要求使用超级智能（SI）这个术语。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读'SI'强制命名背后：美国试图垄断AI定义权，科技与政治的深层博弈",
+   "hook_reason": "特朗普强制规范'超级智能'术语，暗示AI监管与大国博弈新动向",
+   "url": "https://finance.sina.cn/7x24/2026-11-29/detail-inkaisqu8955922.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:美国总统特朗普美国证券交易委员会将很快强制要求使用超级智能si这个术语",
+   "batch_window": 3
   }
  ],
  "pushed": [
@@ -23151,7 +23151,8 @@
   "韩国明洞偶遇周也",
   "我军45架艘次军机舰船位台岛周边活动",
   "178万卖房次日得知拆迁房主反悔",
-  "长崎将南京大屠杀篡改为南京事件"
+  "长崎将南京大屠杀篡改为南京事件",
+  "海康威视取消大小周严格执行八小时工作制部分员工称每月少近三千元公司的工时调整为何员工不买账"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -25054,7 +25055,8 @@
   "e:韩国明洞偶遇周也": "韩国明洞偶遇周也",
   "e:我军45架艘次军机舰船位台岛周边活动": "我军45架艘次军机舰船位台岛周边活动",
   "e:178万卖房次日得知拆迁房主反悔": "178万卖房次日得知拆迁房主反悔",
-  "e:长崎将南京大屠杀篡改为南京事件": "长崎将南京大屠杀篡改为南京事件"
+  "e:长崎将南京大屠杀篡改为南京事件": "长崎将南京大屠杀篡改为南京事件",
+  "e:海康威视取消大小周严格执行八小时工作制部分员工称每月少近三千元公司的工时调整为何": "海康威视取消大小周，严格执行八小时工作制，部分员工称每月少近三千元，公司的工时调整为何员工不买账？"
  },
  "a_seen": {
   "宇树机器人杀进美国达人秀总决赛": {
@@ -25097,15 +25099,27 @@
    "key": "donaldknuthsuspendserrorbounties580e107a",
    "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
    "rating": "A",
-   "score": 76.5,
-   "angle": "解读Knuth暂停悬赏的深层原因：AI泛滥如何冲击学术诚信与知识经济，以及顶级大牛对生成式AI的消极反馈",
-   "hook_reason": "图灵奖得主被AI垃圾报告逼疯，停止悬赏，行业风向标",
+   "score": 75.95,
+   "angle": "AI泛滥导致顶级代码库信任危机，技术圈被迫建立新防线",
+   "hook_reason": "图灵奖得主被AI灌水逼停，程序员集体焦虑",
    "url": "https://cs.stanford.edu/~knuth/moratorium.html",
    "track": "科技",
    "breaking": true,
    "event_id": "e:donaldknuthsuspendserrorbountiesduetoani"
+  },
+  "美国总统特朗普美国证券交易委员会将很快强制要求使用超级智能si这个术语": {
+   "key": "美国总统特朗普美国证券交易委员会将很快强制要求使用超级智能si这个术语",
+   "title": "美国总统特朗普：美国证券交易委员会将很快强制要求使用超级智能（SI）这个术语。",
+   "rating": "A",
+   "score": 46.9,
+   "angle": "解读'SI'强制命名背后：美国试图垄断AI定义权，科技与政治的深层博弈",
+   "hook_reason": "特朗普强制规范'超级智能'术语，暗示AI监管与大国博弈新动向",
+   "url": "https://finance.sina.cn/7x24/2026-11-29/detail-inkaisqu8955922.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:美国总统特朗普美国证券交易委员会将很快强制要求使用超级智能si这个术语"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 2
+ "a_pushed_window": 3
 }
