@@ -20990,6 +20990,19 @@
    "breaking": true,
    "event_id": "e:googlesdeepcrossattentionachievescompara",
    "batch_window": 9
+  },
+  {
+   "key": "冯骥长文谈ai时代人怎么办",
+   "title": "冯骥长文谈AI时代人怎么办",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解析冯骥长文核心观点：在AI时代，人类如何保持主体性与创造力？",
+   "hook_reason": "文化泰斗冯骥谈AI生存，兼具权威性与时代焦虑，点击欲强",
+   "url": "https://s.weibo.com/weibo?q=冯骥长文谈AI时代人怎么办",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:冯骥长文谈ai时代人怎么办",
+   "batch_window": 9
   }
  ],
  "pushed": [
@@ -24932,9 +24945,9 @@
    "key": "国常会的通稿首次使用了国家队类平准基金这些提法释放了哪些信号",
    "title": "国常会的通稿首次使用了「国家队」、类「平准基金」这些提法，释放了哪些信号？",
    "rating": "A",
-   "score": 43.9,
-   "angle": "深度解读「平准基金」提法背后的市场稳定意图，预判A股流动性拐点",
-   "hook_reason": "国常会新词暗藏政策底牌，散户资金流向或将巨变",
+   "score": 72.31,
+   "angle": "解读国常会通稿关键词，剖析‘平准基金’机制及对市场底部的官方定调",
+   "hook_reason": "国家队入场平准基金概念，救市信号强烈，直接影响资产决策",
    "url": "https://www.zhihu.com/question/2109697976268321407",
    "track": "财经",
    "breaking": true,
@@ -24944,11 +24957,11 @@
    "key": "模特七海发博表示我的脸已经成ai短剧里的赛博恶役ai融脸为什么维权难",
    "title": "模特七海发博表示 「我的脸已经成 AI 短剧里的赛博恶役」，AI 融脸为什么维权难？",
    "rating": "A",
-   "score": 43.75,
-   "angle": "解析AI融脸技术滥用现状，探讨肖像权在数字时代的维权困境与法律边界。",
-   "hook_reason": "AI换脸维权难：颜值即正义背后的隐私红线",
+   "score": 72.21,
+   "angle": "解读AI融脸维权困境，分析法律空白与平台责任",
+   "hook_reason": "AI融脸侵权维权难，触及肖像权痛点",
    "url": "https://www.zhihu.com/question/2109242936701478494",
-   "track": "科技",
+   "track": "社会热点",
    "breaking": true,
    "event_id": "e:模特七海发博表示我的脸已经成ai短剧里的赛博恶役ai融脸为什么维权难"
   },
@@ -24963,6 +24976,18 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:googlesdeepcrossattentionachievescompara"
+  },
+  "冯骥长文谈ai时代人怎么办": {
+   "key": "冯骥长文谈ai时代人怎么办",
+   "title": "冯骥长文谈AI时代人怎么办",
+   "rating": "A",
+   "score": 90.5,
+   "angle": "解析冯骥长文核心观点：在AI时代，人类如何保持主体性与创造力？",
+   "hook_reason": "文化泰斗冯骥谈AI生存，兼具权威性与时代焦虑，点击欲强",
+   "url": "https://s.weibo.com/weibo?q=冯骥长文谈AI时代人怎么办",
+   "track": "大咖发言",
+   "breaking": true,
+   "event_id": "e:冯骥长文谈ai时代人怎么办"
   }
  },
  "breaking_count": 10,
