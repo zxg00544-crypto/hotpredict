@@ -21018,19 +21018,6 @@
    "batch_window": 12
   },
   {
-   "key": "金饰克价涨到1093元",
-   "title": "金饰克价涨到1093元",
-   "rating": "A",
-   "score": 85.5,
-   "angle": "深度解析金价飙升背后的通胀对冲逻辑及普通人的资产配置建议",
-   "hook_reason": "金价破1093元，通胀焦虑下的财富风向标",
-   "url": "https://s.weibo.com/weibo?q=金饰克价涨到1093元",
-   "track": "财经",
-   "breaking": true,
-   "event_id": "e:金饰克价涨到1093元",
-   "batch_window": 13
-  },
-  {
    "key": "178万卖房次日得知拆迁房主反悔",
    "title": "178万卖房次日得知拆迁房主反悔",
    "rating": "A",
@@ -21094,6 +21081,19 @@
    "breaking": true,
    "event_id": "e:消息称谷歌gemini4基准团队11人同日被解雇举报工程师称基准分数系热交换伪造",
    "batch_window": 15
+  },
+  {
+   "key": "澳门居民珠海养老每月补5000元",
+   "title": "澳门居民珠海养老每月补5000元",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "探讨大湾区融合背景下的政策红利，分析内地居民对“跨境养老”的心理接受度与政策博弈。",
+   "hook_reason": "澳门人珠海养老，每月补5000，引发内地居民强烈心理落差。",
+   "url": "https://www.toutiao.com/trending/7713008445921738778/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:澳门居民珠海养老每月补5000元",
+   "batch_window": 16
   }
  ],
  "pushed": [
@@ -23039,7 +23039,8 @@
   "泄露身份证后四位有多危险",
   "googlesdeepcrossattentionachieve040e149b",
   "教育系统内鬼出卖35万学生信息",
-  "歼35a落地珠海将首次静态展示"
+  "歼35a落地珠海将首次静态展示",
+  "金饰克价涨到1093元"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24921,7 +24922,8 @@
   "e:泄露身份证后四位有多危险": "泄露身份证后四位有多危险",
   "e:googlesdeepcrossattentionachievescompara": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
   "e:教育系统内鬼出卖35万学生信息": "教育系统内鬼出卖3.5万学生信息",
-  "e:歼35a落地珠海将首次静态展示": "歼-35A落地珠海 将首次静态展示"
+  "e:歼35a落地珠海将首次静态展示": "歼-35A落地珠海 将首次静态展示",
+  "e:金饰克价涨到1093元": "金饰克价涨到1093元"
  },
  "a_seen": {
   "10万起存的大额存单要来了": {
@@ -25240,11 +25242,11 @@
    "key": "网传人工智能倒查贪腐",
    "title": "网传人工智能倒查贪腐",
    "rating": "A",
-   "score": 43.55,
-   "angle": "辟谣+深挖：AI真的能倒查贪腐吗？技术边界与权力伦理的博弈",
-   "hook_reason": "AI反腐是颠覆性概念，直击公权力监督痛点，情绪冲突极强",
+   "score": 90.5,
+   "angle": "AI真的能抓贪官吗？揭秘技术逻辑与舆论反噬风险，理性拆解谣言。",
+   "hook_reason": "AI反腐新概念，颠覆传统认知，极具争议与猎奇性。",
    "url": "https://s.weibo.com/weibo?q=网传人工智能倒查贪腐",
-   "track": "社会热点",
+   "track": "科技",
    "breaking": true,
    "event_id": "e:网传人工智能倒查贪腐"
   },
@@ -25271,8 +25273,20 @@
    "track": "科技",
    "breaking": true,
    "event_id": "e:消息称谷歌gemini4基准团队11人同日被解雇举报工程师称基准分数系热交换伪造"
+  },
+  "澳门居民珠海养老每月补5000元": {
+   "key": "澳门居民珠海养老每月补5000元",
+   "title": "澳门居民珠海养老每月补5000元",
+   "rating": "A",
+   "score": 92.0,
+   "angle": "探讨大湾区融合背景下的政策红利，分析内地居民对“跨境养老”的心理接受度与政策博弈。",
+   "hook_reason": "澳门人珠海养老，每月补5000，引发内地居民强烈心理落差。",
+   "url": "https://www.toutiao.com/trending/7713008445921738778/",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:澳门居民珠海养老每月补5000元"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 15
+ "a_pushed_window": 16
 }
