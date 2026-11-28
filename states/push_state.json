@@ -21018,19 +21018,6 @@
    "batch_window": 12
   },
   {
-   "key": "歼35a落地珠海将首次静态展示",
-   "title": "歼-35A落地珠海 将首次静态展示",
-   "rating": "A",
-   "score": 87.95,
-   "angle": "聚焦歼-35A首秀的技术突破与出口潜力，解读中国军工科技自信",
-   "hook_reason": "尖端国防重器首次亮相，民族自豪感拉满，硬核科技圈层必争",
-   "url": "https://search.bilibili.com/all?keyword=歼35A落地珠海将首次静态展示",
-   "track": "科技",
-   "breaking": true,
-   "event_id": "e:歼35a落地珠海将首次静态展示",
-   "batch_window": 13
-  },
-  {
    "key": "金饰克价涨到1093元",
    "title": "金饰克价涨到1093元",
    "rating": "A",
@@ -21068,6 +21055,45 @@
    "breaking": true,
    "event_id": "e:董明珠直播训员工引争议",
    "batch_window": 14
+  },
+  {
+   "key": "网传人工智能倒查贪腐",
+   "title": "网传人工智能倒查贪腐",
+   "rating": "A",
+   "score": 43.55,
+   "angle": "辟谣+深挖：AI真的能倒查贪腐吗？技术边界与权力伦理的博弈",
+   "hook_reason": "AI反腐是颠覆性概念，直击公权力监督痛点，情绪冲突极强",
+   "url": "https://s.weibo.com/weibo?q=网传人工智能倒查贪腐",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:网传人工智能倒查贪腐",
+   "batch_window": 15
+  },
+  {
+   "key": "地面零距离实拍歼35a",
+   "title": "地面零距离实拍歼-35A",
+   "rating": "A",
+   "score": 52.65,
+   "angle": "解析歼-35A外观细节与隐身技术，结合国产军机出海前景",
+   "hook_reason": "国产战机罕见近距离实拍，视觉冲击强，激发民族自豪感",
+   "url": "https://www.toutiao.com/trending/7712793922355200043/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:地面零距离实拍歼35a",
+   "batch_window": 15
+  },
+  {
+   "key": "消息称谷歌gemini4基准团队11人同日被解雇举报工程师称基准分数系热交换伪造",
+   "title": "消息称谷歌Gemini 4基准团队11人同日被解雇 举报工程师称基准分数系“热交换”伪造",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深挖AI基准测试‘热交换’造假内幕，剖析科技巨头信任危机",
+   "hook_reason": "谷歌AI造假丑闻，11人同日解雇，揭秘行业潜规则",
+   "url": "https://finance.sina.cn/7x24/2026-11-28/detail-inkahkvc0619795.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:消息称谷歌gemini4基准团队11人同日被解雇举报工程师称基准分数系热交换伪造",
+   "batch_window": 15
   }
  ],
  "pushed": [
@@ -23012,7 +23038,8 @@
   "魏建军回应从第一掉到第九",
   "泄露身份证后四位有多危险",
   "googlesdeepcrossattentionachieve040e149b",
-  "教育系统内鬼出卖35万学生信息"
+  "教育系统内鬼出卖35万学生信息",
+  "歼35a落地珠海将首次静态展示"
  ],
  "pushed_events": {
   "e:余承东余总转发文案": "余承东 余总转发文案",
@@ -24893,7 +24920,8 @@
   "e:魏建军回应从第一掉到第九": "魏建军回应“从第一掉到第九”",
   "e:泄露身份证后四位有多危险": "泄露身份证后四位有多危险",
   "e:googlesdeepcrossattentionachievescompara": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-  "e:教育系统内鬼出卖35万学生信息": "教育系统内鬼出卖3.5万学生信息"
+  "e:教育系统内鬼出卖35万学生信息": "教育系统内鬼出卖3.5万学生信息",
+  "e:歼35a落地珠海将首次静态展示": "歼-35A落地珠海 将首次静态展示"
  },
  "a_seen": {
   "10万起存的大额存单要来了": {
@@ -25200,15 +25228,51 @@
    "key": "董明珠直播训员工引争议",
    "title": "董明珠直播训员工引争议",
    "rating": "A",
-   "score": 45.45,
-   "angle": "分析董明珠‘军事化管理’风格在直播场景下的失控风险及舆论反弹逻辑。",
-   "hook_reason": "商界铁腕女掌门直播当众训下属，权力冲突与职场共鸣极强。",
+   "score": 52.6,
+   "angle": "解析董明珠‘发火’背后的管理风格与公众期待错位，探讨职场权威边界",
+   "hook_reason": "千亿女董事直播间发火，职场PUA争议引发千万人共鸣",
    "url": "https://s.weibo.com/weibo?q=董明珠直播训员工引争议",
    "track": "大咖发言",
    "breaking": true,
    "event_id": "e:董明珠直播训员工引争议"
+  },
+  "网传人工智能倒查贪腐": {
+   "key": "网传人工智能倒查贪腐",
+   "title": "网传人工智能倒查贪腐",
+   "rating": "A",
+   "score": 43.55,
+   "angle": "辟谣+深挖：AI真的能倒查贪腐吗？技术边界与权力伦理的博弈",
+   "hook_reason": "AI反腐是颠覆性概念，直击公权力监督痛点，情绪冲突极强",
+   "url": "https://s.weibo.com/weibo?q=网传人工智能倒查贪腐",
+   "track": "社会热点",
+   "breaking": true,
+   "event_id": "e:网传人工智能倒查贪腐"
+  },
+  "地面零距离实拍歼35a": {
+   "key": "地面零距离实拍歼35a",
+   "title": "地面零距离实拍歼-35A",
+   "rating": "A",
+   "score": 52.65,
+   "angle": "解析歼-35A外观细节与隐身技术，结合国产军机出海前景",
+   "hook_reason": "国产战机罕见近距离实拍，视觉冲击强，激发民族自豪感",
+   "url": "https://www.toutiao.com/trending/7712793922355200043/",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:地面零距离实拍歼35a"
+  },
+  "消息称谷歌gemini4基准团队11人同日被解雇举报工程师称基准分数系热交换伪造": {
+   "key": "消息称谷歌gemini4基准团队11人同日被解雇举报工程师称基准分数系热交换伪造",
+   "title": "消息称谷歌Gemini 4基准团队11人同日被解雇 举报工程师称基准分数系“热交换”伪造",
+   "rating": "A",
+   "score": 46.95,
+   "angle": "深挖AI基准测试‘热交换’造假内幕，剖析科技巨头信任危机",
+   "hook_reason": "谷歌AI造假丑闻，11人同日解雇，揭秘行业潜规则",
+   "url": "https://finance.sina.cn/7x24/2026-11-28/detail-inkahkvc0619795.d.html",
+   "track": "科技",
+   "breaking": true,
+   "event_id": "e:消息称谷歌gemini4基准团队11人同日被解雇举报工程师称基准分数系热交换伪造"
   }
  },
  "breaking_count": 10,
- "a_pushed_window": 14
+ "a_pushed_window": 15
 }
